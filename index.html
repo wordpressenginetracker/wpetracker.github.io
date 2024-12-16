@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>WP Engine Tracker</title>
+        <link rel="stylesheet" href="style.css?17">
+        <link rel="icon" type="image/x-icon" href="/images/wpet-favicon.png">
+        <meta name="description" content="Tracking how many websites have left WP Engine and found a new home since September 21, 2024.">
+
+        <!-- Facebook Meta Tags -->
+        <meta property="og:url" content="https://wordpressenginetracker.com">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="WP Engine Tracker">
+        <meta property="og:description" content="Tracking how many websites have left WP Engine and found a new home since September 21, 2024.">
+        <meta property="og:image" content="https://wordpressenginetracker.com/images/wpet-og-image.png">
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="wordpressenginetracker.com">
+        <meta property="twitter:url" content="https://wordpressenginetracker.com">
+        <meta name="twitter:title" content="WP Engine Tracker">
+        <meta name="twitter:description" content="Tracking how many websites have left WP Engine and found a new home since September 21, 2024.">
+        <meta name="twitter:image" content="https://wordpressenginetracker.com/images/wpet-og-image.png">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <script src="index.js?8" defer></script>
+        <main>
+        <section class="left">
+            <div class="intro">
+                <header class="header">
+                    <h1 class="header__logo">WP<br />Engine<br /><span class="header__logo-highlight">Tracker</span></h1>
+                    <div class="info-section source-serif-4-text">
+                        <p>
+                            This is the number of websites that have left WP Engine and found <a href="https://wordpress.org/hosting/">a new home</a> since Sep&nbsp;21,&nbsp;2024.
+                        </p>
+                    </div>
+                </header>
+            </div>
+            <div class="large-count">
+                <span class="large-count__logo">
+                    <img height="48" width="48" src="images/wp-logo.svg" />
+                </span>
+                <p id="sites-count" class="number-of-sites__count source-serif-4-text"></p>
+            </div>
+        </section>
+
+        <section class="right">
+            <div class="live-data">
+                <div class="top-destinations">
+                    <h3>Top Destinations</h3>
+                    <div class="host-list">
+                        <ul class="host"></ul>
+                    </div>
+                </div>
+                <div class="recently-moved-container">
+                    <h3>Recently Moved</h3>
+                    <div class="recently-moved-wrap">
+                        <div class="recently-moved source-serif-4-text"> <img src="images/arrow-right.svg" /></div>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-container">
+                <span class="chart-container__title">Total WPE sites</span>
+                <span class="chart-container__date">21 Sep, 2024</span>
+                <div class="bars-container"></div>
+                <span class="chart-container__today">Today</span>
+                <span id="bottom-chart-value"></span>
+                <span id="top-chart-value"></span>
+            </div>
+
+            <div class="activity-log">
+                <h3>Activity Log Today</h3>
+                <div class="activity-log-data">
+                    <div class="activity-log-data__header">
+                        <p>Site</p>
+                        <p>Destination</p>
+                    </div>
+                    <hr />
+                    <div class="activity-log-data__body"></div>
+                </div>
+            </div>
+
+            <footer class="footer">
+                <span class="footer__content">An <img src="images/a8c-logo.svg" /> thingamajig</span>
+                <a class="footer__link" href="https://github.com/wordpressenginetracker/wordpressenginetracker.com">
+                    Contribute at GitHub
+                </a>
+            </footer>
+        </section>
+    </main>
+
+    </body>
+</html>
