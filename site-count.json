@@ -1,6 +1,16 @@
 {
-    "siteCount": 31941,
+    "siteCount": 31943,
     "recentlyMoved": [
+        {
+            "domain_name": "toptiermarine.com",
+            "destination": "Pressable",
+            "date": "2024-12-25 22:56:17"
+        },
+        {
+            "domain_name": "ttopcovers.com",
+            "destination": "Pressable",
+            "date": "2024-12-25 22:11:09"
+        },
         {
             "domain_name": "sportsmanboatsmfg.ttopcovers.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "jlphysiofit.co.uk",
             "destination": "WordPress.com",
             "date": "2024-12-25 08:42:43"
-        },
-        {
-            "domain_name": "www.dekroon.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 08:38:19"
-        },
-        {
-            "domain_name": "goodguysheatingairandelectrical.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-25 08:14:52"
         }
     ],
     "dailyMovedStat": {
@@ -597,10 +597,11 @@
         "2024-12-21": "31178",
         "2024-12-22": "31290",
         "2024-12-23": "31427",
-        "2024-12-24": "31729"
+        "2024-12-24": "31729",
+        "2024-12-25": "31943"
     },
     "topDestinationHosts": {
-        "Pressable": 6915,
+        "Pressable": 6917,
         "Bluehost": 3553,
         "Kinsta": 2160,
         "Digital Ocean": 2067,
@@ -716,6 +717,7 @@
         "2024-12-21": "690540",
         "2024-12-22": "691624",
         "2024-12-23": "691068",
-        "2024-12-24": "690561"
+        "2024-12-24": "690561",
+        "2024-12-25": "690090"
     }
 }
