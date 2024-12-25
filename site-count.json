@@ -1,6 +1,16 @@
 {
-    "siteCount": 31936,
+    "siteCount": 31939,
     "recentlyMoved": [
+        {
+            "domain_name": "keywestboats.ttopcovers.com",
+            "destination": "Pressable",
+            "date": "2024-12-25 21:16:13"
+        },
+        {
+            "domain_name": "www.drwestman.com",
+            "destination": "Kinsta",
+            "date": "2024-12-25 20:49:08"
+        },
         {
             "domain_name": "alanahankins.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2024-12-25 08:14:52"
         },
         {
-            "domain_name": "www.vardellsac.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-25 06:32:38"
-        },
-        {
             "domain_name": "thewhitelabelagency.com",
             "destination": "Pressable",
             "date": "2024-12-25 06:23:51"
-        },
-        {
-            "domain_name": "matrixsvc.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-25 06:16:32"
         }
     ],
     "dailyMovedStat": {
@@ -602,7 +602,7 @@
     "topDestinationHosts": {
         "Pressable": 6913,
         "Bluehost": 3553,
-        "Kinsta": 2159,
+        "Kinsta": 2160,
         "Digital Ocean": 2067,
         "SiteGround": 1802,
         "Hostinger": 1029,
