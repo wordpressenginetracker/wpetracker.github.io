@@ -1,10 +1,60 @@
 {
-    "siteCount": 31831,
+    "siteCount": 31844,
     "recentlyMoved": [
+        {
+            "domain_name": "discoverydental.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-25 14:23:49"
+        },
+        {
+            "domain_name": "custance.org",
+            "destination": "Pressable",
+            "date": "2024-12-25 14:17:20"
+        },
+        {
+            "domain_name": "thehappiestbaby.org",
+            "destination": "Pressable",
+            "date": "2024-12-25 14:12:58"
+        },
+        {
+            "domain_name": "dolcerealestate.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-25 14:10:53"
+        },
+        {
+            "domain_name": "stusells.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-25 14:06:13"
+        },
+        {
+            "domain_name": "www.theneemagroup.com",
+            "destination": "Kinsta",
+            "date": "2024-12-25 13:59:52"
+        },
+        {
+            "domain_name": "tcteam.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-25 13:51:17"
+        },
+        {
+            "domain_name": "teghi.com",
+            "destination": "SiteGround",
+            "date": "2024-12-25 13:45:51"
+        },
+        {
+            "domain_name": "spartanresponse.com",
+            "destination": "Pressable",
+            "date": "2024-12-25 13:45:03"
+        },
         {
             "domain_name": "kalles360.com",
             "destination": "Kinsta",
             "date": "2024-12-25 13:40:31"
+        },
+        {
+            "domain_name": "teamsullivan.ca",
+            "destination": "Kinsta",
+            "date": "2024-12-25 13:33:42"
         },
         {
             "domain_name": "www.lifestylesnorth.com",
@@ -427,11 +477,6 @@
             "date": "2024-12-24 19:13:59"
         },
         {
-            "domain_name": "martinvelsen.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 18:37:23"
-        },
-        {
             "domain_name": "dreamhomesbyhugo.com",
             "destination": "InMotion Hosting",
             "date": "2024-12-24 18:35:12"
@@ -442,39 +487,9 @@
             "date": "2024-12-24 18:35:09"
         },
         {
-            "domain_name": "www.westcomncs.com",
-            "destination": "Pressable",
-            "date": "2024-12-24 18:30:57"
-        },
-        {
             "domain_name": "doublemfoundation.com",
             "destination": "Pressable",
             "date": "2024-12-24 18:29:17"
-        },
-        {
-            "domain_name": "doublemcharters.com",
-            "destination": "Pressable",
-            "date": "2024-12-24 18:29:17"
-        },
-        {
-            "domain_name": "doublemaviation.com",
-            "destination": "Pressable",
-            "date": "2024-12-24 18:29:17"
-        },
-        {
-            "domain_name": "www.themusserteam.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 18:28:44"
-        },
-        {
-            "domain_name": "www.thelourantosgroup.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 18:28:44"
-        },
-        {
-            "domain_name": "www.thompsonsells.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 18:24:29"
         },
         {
             "domain_name": "thezadegangroup.com",
@@ -485,21 +500,6 @@
             "domain_name": "yourspaceinc.com",
             "destination": "Pressable",
             "date": "2024-12-24 18:18:58"
-        },
-        {
-            "domain_name": "www.terracecondosglenwood.com",
-            "destination": "Pressable",
-            "date": "2024-12-24 18:09:36"
-        },
-        {
-            "domain_name": "thegentryteam.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 18:01:07"
-        },
-        {
-            "domain_name": "themchardyteam.com",
-            "destination": "Kinsta",
-            "date": "2024-12-24 17:47:44"
         }
     ],
     "dailyMovedStat": {
@@ -600,13 +600,13 @@
         "2024-12-24": "31729"
     },
     "topDestinationHosts": {
-        "Pressable": 6896,
+        "Pressable": 6899,
         "Bluehost": 3553,
-        "Kinsta": 2123,
+        "Kinsta": 2128,
         "Digital Ocean": 2065,
-        "SiteGround": 1801,
+        "SiteGround": 1802,
         "Hostinger": 1028,
-        "GoDaddy": 493,
+        "GoDaddy": 495,
         "BigScoots": 286,
         "Liquid Web": 205,
         "Elementor Hosting": 199,
