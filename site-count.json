@@ -1,6 +1,21 @@
 {
-    "siteCount": 32029,
+    "siteCount": 32034,
     "recentlyMoved": [
+        {
+            "domain_name": "smartrobotichome.com",
+            "destination": "Hostinger",
+            "date": "2024-12-26 17:39:03"
+        },
+        {
+            "domain_name": "cal-l.com",
+            "destination": "SiteGround",
+            "date": "2024-12-26 17:10:34"
+        },
+        {
+            "domain_name": "www.kjetinyhomes.com",
+            "destination": "Hostinger",
+            "date": "2024-12-26 16:45:03"
+        },
         {
             "domain_name": "www.armingrouprealestate.com",
             "destination": "Kinsta",
@@ -462,11 +477,6 @@
             "date": "2024-12-25 14:23:49"
         },
         {
-            "domain_name": "custance.org",
-            "destination": "Pressable",
-            "date": "2024-12-25 14:17:20"
-        },
-        {
             "domain_name": "torontoism.com",
             "destination": "Kinsta",
             "date": "2024-12-25 14:14:32"
@@ -487,19 +497,9 @@
             "date": "2024-12-25 13:59:52"
         },
         {
-            "domain_name": "tcteam.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-25 13:51:17"
-        },
-        {
             "domain_name": "teghi.com",
             "destination": "SiteGround",
             "date": "2024-12-25 13:45:51"
-        },
-        {
-            "domain_name": "teamsullivan.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-25 13:33:42"
         }
     ],
     "dailyMovedStat": {
@@ -603,10 +603,10 @@
     "topDestinationHosts": {
         "Pressable": 6920,
         "Bluehost": 3553,
-        "Kinsta": 2178,
+        "Kinsta": 2179,
         "Digital Ocean": 2079,
-        "SiteGround": 1802,
-        "Hostinger": 1031,
+        "SiteGround": 1803,
+        "Hostinger": 1032,
         "GoDaddy": 496,
         "BigScoots": 286,
         "Liquid Web": 205,
