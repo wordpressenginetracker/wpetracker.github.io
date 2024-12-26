@@ -1,6 +1,21 @@
 {
-    "siteCount": 31978,
+    "siteCount": 31982,
     "recentlyMoved": [
+        {
+            "domain_name": "kentuckywomenshistoryalliance.org",
+            "destination": "Pressable",
+            "date": "2024-12-26 09:20:00"
+        },
+        {
+            "domain_name": "kiowafitness.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-26 09:05:51"
+        },
+        {
+            "domain_name": "blackbarcrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-26 09:01:01"
+        },
         {
             "domain_name": "oaktonstrength.com",
             "destination": "Digital Ocean",
@@ -467,11 +482,6 @@
             "date": "2024-12-25 12:11:00"
         },
         {
-            "domain_name": "www.aiha.org.uk",
-            "destination": "SiteGround",
-            "date": "2024-12-25 11:58:47"
-        },
-        {
             "domain_name": "halexgroup.com.au",
             "destination": "Hostinger",
             "date": "2024-12-25 11:57:20"
@@ -490,16 +500,6 @@
             "domain_name": "aquariushairstudios.com",
             "destination": "Hostinger",
             "date": "2024-12-25 11:50:54"
-        },
-        {
-            "domain_name": "francoisepollard.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 11:50:40"
-        },
-        {
-            "domain_name": "fsgaragedoors.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-25 11:34:21"
         }
     ],
     "dailyMovedStat": {
@@ -604,7 +604,7 @@
         "Pressable": 6917,
         "Bluehost": 3553,
         "Kinsta": 2160,
-        "Digital Ocean": 2075,
+        "Digital Ocean": 2076,
         "SiteGround": 1802,
         "Hostinger": 1031,
         "GoDaddy": 495,
