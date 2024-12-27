@@ -1,6 +1,46 @@
 {
-    "siteCount": 32125,
+    "siteCount": 32135,
     "recentlyMoved": [
+        {
+            "domain_name": "drdekleer.ca",
+            "destination": "Pressable",
+            "date": "2024-12-27 14:25:48"
+        },
+        {
+            "domain_name": "durankinst.com",
+            "destination": "SiteGround",
+            "date": "2024-12-27 14:24:35"
+        },
+        {
+            "domain_name": "www.varlacklegal.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-27 14:02:44"
+        },
+        {
+            "domain_name": "milodetailing.com",
+            "destination": "SiteGround",
+            "date": "2024-12-27 13:54:13"
+        },
+        {
+            "domain_name": "delishkitch.ca",
+            "destination": "Pressable",
+            "date": "2024-12-27 13:51:54"
+        },
+        {
+            "domain_name": "sotransbois.com",
+            "destination": "Hostinger",
+            "date": "2024-12-27 13:39:06"
+        },
+        {
+            "domain_name": "csgdevelopers.com",
+            "destination": "Pressable",
+            "date": "2024-12-27 13:27:05"
+        },
+        {
+            "domain_name": "www.pleasurepools.com",
+            "destination": "Pressable",
+            "date": "2024-12-27 13:23:46"
+        },
         {
             "domain_name": "caryaudiology.com",
             "destination": "Digital Ocean",
@@ -460,46 +500,6 @@
             "domain_name": "www.drwestman.com",
             "destination": "Kinsta",
             "date": "2024-12-25 20:49:08"
-        },
-        {
-            "domain_name": "alanahankins.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 19:53:55"
-        },
-        {
-            "domain_name": "go2marine.ttopcovers.com",
-            "destination": "Pressable",
-            "date": "2024-12-25 19:50:45"
-        },
-        {
-            "domain_name": "erbaandco.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 18:36:09"
-        },
-        {
-            "domain_name": "www.wrightsisters.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 18:23:27"
-        },
-        {
-            "domain_name": "yvonnehuhrealty.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 18:21:28"
-        },
-        {
-            "domain_name": "themedeirosgroup.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-25 18:11:52"
-        },
-        {
-            "domain_name": "mjhfinancial.ca",
-            "destination": "Pressable",
-            "date": "2024-12-25 18:01:53"
-        },
-        {
-            "domain_name": "michaelobrien.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-25 18:00:13"
         }
     ],
     "dailyMovedStat": {
@@ -602,15 +602,15 @@
         "2024-12-26": "32052"
     },
     "topDestinationHosts": {
-        "Pressable": 6925,
+        "Pressable": 6930,
         "Bluehost": 3554,
         "Kinsta": 2182,
         "Digital Ocean": 2096,
         "SiteGround": 1806,
-        "Hostinger": 1040,
+        "Hostinger": 1041,
         "GoDaddy": 497,
         "BigScoots": 286,
-        "Liquid Web": 205,
+        "Liquid Web": 206,
         "Elementor Hosting": 200,
         "Wordify": 144,
         "WordPress.com": 141,
