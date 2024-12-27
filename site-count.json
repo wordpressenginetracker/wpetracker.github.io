@@ -1,6 +1,26 @@
 {
-    "siteCount": 32229,
+    "siteCount": 32239,
     "recentlyMoved": [
+        {
+            "domain_name": "luciddreambender.com",
+            "destination": "DreamHost",
+            "date": "2024-12-27 22:14:08"
+        },
+        {
+            "domain_name": "metrostrings.com",
+            "destination": "A2 Hosting",
+            "date": "2024-12-27 22:09:33"
+        },
+        {
+            "domain_name": "corbetscientific.com",
+            "destination": "BigScoots",
+            "date": "2024-12-27 21:52:11"
+        },
+        {
+            "domain_name": "lemlergroup.com",
+            "destination": "Pressable",
+            "date": "2024-12-27 21:22:57"
+        },
         {
             "domain_name": "housesbyirina.com",
             "destination": "GoDaddy",
@@ -480,26 +500,6 @@
             "domain_name": "www.staceyrobinson.com",
             "destination": "Kinsta",
             "date": "2024-12-26 17:43:21"
-        },
-        {
-            "domain_name": "smartrobotichome.com",
-            "destination": "Hostinger",
-            "date": "2024-12-26 17:39:03"
-        },
-        {
-            "domain_name": "www.ogrealtygroup.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-26 17:26:18"
-        },
-        {
-            "domain_name": "stephaniek.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-26 17:13:10"
-        },
-        {
-            "domain_name": "www.kjetinyhomes.com",
-            "destination": "Hostinger",
-            "date": "2024-12-26 16:45:03"
         }
     ],
     "dailyMovedStat": {
@@ -602,14 +602,14 @@
         "2024-12-26": "32052"
     },
     "topDestinationHosts": {
-        "Pressable": 6948,
+        "Pressable": 6949,
         "Bluehost": 3558,
         "Kinsta": 2190,
         "Digital Ocean": 2096,
         "SiteGround": 1813,
         "Hostinger": 1042,
         "GoDaddy": 499,
-        "BigScoots": 287,
+        "BigScoots": 288,
         "Liquid Web": 208,
         "Elementor Hosting": 200,
         "Wordify": 144,
@@ -617,11 +617,11 @@
         "InMotion Hosting": 132,
         "GridPane": 131,
         "OVH": 109,
-        "A2 Hosting": 92,
+        "A2 Hosting": 93,
         "Namecheap": 89,
         "Hetzner Online": 83,
         "IONOS": 81,
-        "DreamHost": 69
+        "DreamHost": 70
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
