@@ -1,10 +1,30 @@
 {
-    "siteCount": 32077,
+    "siteCount": 32084,
     "recentlyMoved": [
+        {
+            "domain_name": "thequickmission.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-27 06:37:44"
+        },
+        {
+            "domain_name": "crossfitironworks.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-27 06:11:29"
+        },
+        {
+            "domain_name": "dragonpow.asia",
+            "destination": "SiteGround",
+            "date": "2024-12-27 05:59:12"
+        },
         {
             "domain_name": "joshmaviliafitness.com",
             "destination": "Digital Ocean",
             "date": "2024-12-27 05:35:46"
+        },
+        {
+            "domain_name": "kitchenkneads.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-27 05:23:55"
         },
         {
             "domain_name": "www.lcscooling.com",
@@ -447,11 +467,6 @@
             "date": "2024-12-25 16:41:57"
         },
         {
-            "domain_name": "gtsottawa.ca",
-            "destination": "Pressable",
-            "date": "2024-12-25 16:38:22"
-        },
-        {
             "domain_name": "www.citytosummitinc.com",
             "destination": "Kinsta",
             "date": "2024-12-25 16:34:00"
@@ -480,21 +495,6 @@
             "domain_name": "bcsautomation.ca",
             "destination": "Pressable",
             "date": "2024-12-25 16:15:47"
-        },
-        {
-            "domain_name": "greenthermalsolutions.ca",
-            "destination": "Pressable",
-            "date": "2024-12-25 16:14:29"
-        },
-        {
-            "domain_name": "photonic.nl",
-            "destination": "Kinsta",
-            "date": "2024-12-25 16:07:09"
-        },
-        {
-            "domain_name": "popowichrealestate.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 15:56:33"
         },
         {
             "domain_name": "hamiltonride4autism.ca",
@@ -605,10 +605,10 @@
         "Pressable": 6920,
         "Bluehost": 3554,
         "Kinsta": 2182,
-        "Digital Ocean": 2084,
+        "Digital Ocean": 2086,
         "SiteGround": 1803,
         "Hostinger": 1036,
-        "GoDaddy": 496,
+        "GoDaddy": 497,
         "BigScoots": 286,
         "Liquid Web": 205,
         "Elementor Hosting": 200,
