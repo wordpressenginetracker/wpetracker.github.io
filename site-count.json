@@ -1,6 +1,21 @@
 {
-    "siteCount": 32084,
+    "siteCount": 32092,
     "recentlyMoved": [
+        {
+            "domain_name": "www.kidzezone.com",
+            "destination": "WordPress.com",
+            "date": "2024-12-27 06:47:27"
+        },
+        {
+            "domain_name": "monacoevansdenver.com",
+            "destination": "Hostinger",
+            "date": "2024-12-27 06:44:51"
+        },
+        {
+            "domain_name": "tlbrowbar.com",
+            "destination": "Namecheap",
+            "date": "2024-12-27 06:41:53"
+        },
         {
             "domain_name": "thequickmission.com",
             "destination": "Digital Ocean",
@@ -10,6 +25,11 @@
             "domain_name": "crossfitironworks.com",
             "destination": "Digital Ocean",
             "date": "2024-12-27 06:11:29"
+        },
+        {
+            "domain_name": "movingforwardpt.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-27 06:05:53"
         },
         {
             "domain_name": "dragonpow.asia",
@@ -452,11 +472,6 @@
             "date": "2024-12-25 16:47:39"
         },
         {
-            "domain_name": "atriegroup.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 16:47:00"
-        },
-        {
             "domain_name": "jillsteam.ca",
             "destination": "Kinsta",
             "date": "2024-12-25 16:46:46"
@@ -465,16 +480,6 @@
             "domain_name": "beginyourpath.com",
             "destination": "Kinsta",
             "date": "2024-12-25 16:41:57"
-        },
-        {
-            "domain_name": "www.citytosummitinc.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 16:34:00"
-        },
-        {
-            "domain_name": "www.citytosummit.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-25 16:34:00"
         },
         {
             "domain_name": "www.jdlrealty.ca",
@@ -495,11 +500,6 @@
             "domain_name": "bcsautomation.ca",
             "destination": "Pressable",
             "date": "2024-12-25 16:15:47"
-        },
-        {
-            "domain_name": "hamiltonride4autism.ca",
-            "destination": "Pressable",
-            "date": "2024-12-25 15:50:07"
         }
     ],
     "dailyMovedStat": {
@@ -605,20 +605,20 @@
         "Pressable": 6920,
         "Bluehost": 3554,
         "Kinsta": 2182,
-        "Digital Ocean": 2086,
-        "SiteGround": 1803,
-        "Hostinger": 1036,
+        "Digital Ocean": 2087,
+        "SiteGround": 1804,
+        "Hostinger": 1037,
         "GoDaddy": 497,
         "BigScoots": 286,
         "Liquid Web": 205,
         "Elementor Hosting": 200,
         "Wordify": 144,
-        "WordPress.com": 140,
+        "WordPress.com": 141,
         "GridPane": 131,
         "InMotion Hosting": 131,
         "OVH": 108,
         "A2 Hosting": 91,
-        "Namecheap": 88,
+        "Namecheap": 89,
         "Hetzner Online": 83,
         "IONOS": 81,
         "DreamHost": 68
