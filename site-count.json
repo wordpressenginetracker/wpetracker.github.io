@@ -1,6 +1,11 @@
 {
-    "siteCount": 32106,
+    "siteCount": 32108,
     "recentlyMoved": [
+        {
+            "domain_name": "licensemanager.at",
+            "destination": "Pressable",
+            "date": "2024-12-27 09:55:50"
+        },
         {
             "domain_name": "www.millarhvac.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.ottawahomes.ca",
             "destination": "Kinsta",
             "date": "2024-12-25 17:25:45"
-        },
-        {
-            "domain_name": "kianiandco.com",
-            "destination": "Kinsta",
-            "date": "2024-12-25 16:52:48"
         }
     ],
     "dailyMovedStat": {
@@ -602,10 +602,10 @@
         "2024-12-26": "32052"
     },
     "topDestinationHosts": {
-        "Pressable": 6920,
+        "Pressable": 6921,
         "Bluehost": 3554,
         "Kinsta": 2182,
-        "Digital Ocean": 2094,
+        "Digital Ocean": 2095,
         "SiteGround": 1804,
         "Hostinger": 1038,
         "GoDaddy": 497,
