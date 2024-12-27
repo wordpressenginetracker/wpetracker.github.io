@@ -1,6 +1,21 @@
 {
-    "siteCount": 32223,
+    "siteCount": 32229,
     "recentlyMoved": [
+        {
+            "domain_name": "housesbyirina.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-27 21:01:57"
+        },
+        {
+            "domain_name": "cacheeseguild.org",
+            "destination": "Kinsta",
+            "date": "2024-12-27 21:01:23"
+        },
+        {
+            "domain_name": "sfcheesefest.com",
+            "destination": "Kinsta",
+            "date": "2024-12-27 20:43:04"
+        },
         {
             "domain_name": "grandcontracting.net",
             "destination": "Pressable",
@@ -20,6 +35,11 @@
             "domain_name": "ashleysfinds.com",
             "destination": "GoDaddy",
             "date": "2024-12-27 20:06:45"
+        },
+        {
+            "domain_name": "r2rhoustonappliances.com",
+            "destination": "Bluehost",
+            "date": "2024-12-27 20:06:12"
         },
         {
             "domain_name": "aguavant.com",
@@ -477,29 +497,9 @@
             "date": "2024-12-26 17:13:10"
         },
         {
-            "domain_name": "cal-l.com",
-            "destination": "SiteGround",
-            "date": "2024-12-26 17:10:34"
-        },
-        {
             "domain_name": "www.kjetinyhomes.com",
             "destination": "Hostinger",
             "date": "2024-12-26 16:45:03"
-        },
-        {
-            "domain_name": "www.armingrouprealestate.com",
-            "destination": "Kinsta",
-            "date": "2024-12-26 16:35:09"
-        },
-        {
-            "domain_name": "www.carverealestate.com",
-            "destination": "Kinsta",
-            "date": "2024-12-26 16:12:32"
-        },
-        {
-            "domain_name": "woolcott.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-26 15:45:55"
         }
     ],
     "dailyMovedStat": {
@@ -603,12 +603,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 6948,
-        "Bluehost": 3557,
-        "Kinsta": 2188,
+        "Bluehost": 3558,
+        "Kinsta": 2190,
         "Digital Ocean": 2096,
         "SiteGround": 1813,
         "Hostinger": 1042,
-        "GoDaddy": 498,
+        "GoDaddy": 499,
         "BigScoots": 287,
         "Liquid Web": 208,
         "Elementor Hosting": 200,
