@@ -1,6 +1,26 @@
 {
-    "siteCount": 32180,
+    "siteCount": 32186,
     "recentlyMoved": [
+        {
+            "domain_name": "neara.com",
+            "destination": "Kinsta",
+            "date": "2024-12-27 18:52:05"
+        },
+        {
+            "domain_name": "vendinghtx.com",
+            "destination": "Bluehost",
+            "date": "2024-12-27 18:35:22"
+        },
+        {
+            "domain_name": "enhancedbrandagency.com",
+            "destination": "DreamHost",
+            "date": "2024-12-27 18:27:33"
+        },
+        {
+            "domain_name": "e-hazard.mx",
+            "destination": "Pressable",
+            "date": "2024-12-27 18:22:25"
+        },
         {
             "domain_name": "www.xtrajunk.com",
             "destination": "Pressable",
@@ -472,34 +492,14 @@
             "date": "2024-12-26 13:33:51"
         },
         {
-            "domain_name": "jennsmira.com",
-            "destination": "Kinsta",
-            "date": "2024-12-26 13:27:28"
-        },
-        {
             "domain_name": "smithproulx.ca",
             "destination": "Kinsta",
             "date": "2024-12-26 13:26:35"
         },
         {
-            "domain_name": "chellteam.com",
-            "destination": "Kinsta",
-            "date": "2024-12-26 13:22:41"
-        },
-        {
             "domain_name": "www.ottawaproperties.com",
             "destination": "Kinsta",
             "date": "2024-12-26 13:19:51"
-        },
-        {
-            "domain_name": "keleherco.ca",
-            "destination": "Kinsta",
-            "date": "2024-12-26 13:17:20"
-        },
-        {
-            "domain_name": "www.lapbandoflouisville.com",
-            "destination": "Pressable",
-            "date": "2024-12-26 12:52:46"
         }
     ],
     "dailyMovedStat": {
@@ -602,9 +602,9 @@
         "2024-12-26": "32052"
     },
     "topDestinationHosts": {
-        "Pressable": 6945,
-        "Bluehost": 3555,
-        "Kinsta": 2185,
+        "Pressable": 6946,
+        "Bluehost": 3556,
+        "Kinsta": 2186,
         "Digital Ocean": 2096,
         "SiteGround": 1812,
         "Hostinger": 1041,
@@ -621,7 +621,7 @@
         "Namecheap": 89,
         "Hetzner Online": 83,
         "IONOS": 81,
-        "DreamHost": 68
+        "DreamHost": 69
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
