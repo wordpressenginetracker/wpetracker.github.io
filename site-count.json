@@ -1,6 +1,11 @@
 {
-    "siteCount": 32255,
+    "siteCount": 32257,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fooduzzi.com",
+            "destination": "BigScoots",
+            "date": "2024-12-28 05:05:15"
+        },
         {
             "domain_name": "www.bvisail.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "ftwstrong.com",
             "destination": "Digital Ocean",
             "date": "2024-12-27 04:01:50"
-        },
-        {
-            "domain_name": "newgrowthgroup.com.au",
-            "destination": "Elementor Hosting",
-            "date": "2024-12-27 02:45:58"
         }
     ],
     "dailyMovedStat": {
@@ -607,10 +607,10 @@
         "Bluehost": 3560,
         "Kinsta": 2190,
         "Digital Ocean": 2096,
-        "SiteGround": 1813,
+        "SiteGround": 1814,
         "Hostinger": 1042,
         "GoDaddy": 499,
-        "BigScoots": 289,
+        "BigScoots": 290,
         "Liquid Web": 208,
         "Elementor Hosting": 200,
         "Wordify": 147,
