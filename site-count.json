@@ -1,6 +1,11 @@
 {
-    "siteCount": 32253,
+    "siteCount": 32255,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bvisail.com",
+            "destination": "SiteGround",
+            "date": "2024-12-28 04:43:50"
+        },
         {
             "domain_name": "toolsandsupplies.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "newgrowthgroup.com.au",
             "destination": "Elementor Hosting",
             "date": "2024-12-27 02:45:58"
-        },
-        {
-            "domain_name": "drkristenbentson.com",
-            "destination": "Wordify",
-            "date": "2024-12-27 02:02:50"
         }
     ],
     "dailyMovedStat": {
