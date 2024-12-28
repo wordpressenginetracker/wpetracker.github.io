@@ -1,6 +1,31 @@
 {
-    "siteCount": 32257,
+    "siteCount": 32264,
     "recentlyMoved": [
+        {
+            "domain_name": "thewanderingchaos.life",
+            "destination": "Pressable",
+            "date": "2024-12-28 06:31:36"
+        },
+        {
+            "domain_name": "thebestcivilattorneys.com",
+            "destination": "Namecheap",
+            "date": "2024-12-28 06:23:20"
+        },
+        {
+            "domain_name": "mendocinocounty.bluezonesproject.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-28 06:09:50"
+        },
+        {
+            "domain_name": "yubasutter.bluezonesproject.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-28 05:56:13"
+        },
+        {
+            "domain_name": "www.selskapslokalerstavanger.no",
+            "destination": "Pressable",
+            "date": "2024-12-28 05:44:01"
+        },
         {
             "domain_name": "www.fooduzzi.com",
             "destination": "BigScoots",
@@ -475,31 +500,6 @@
             "domain_name": "dragonpow.asia",
             "destination": "SiteGround",
             "date": "2024-12-27 05:59:12"
-        },
-        {
-            "domain_name": "joshmaviliafitness.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-27 05:35:46"
-        },
-        {
-            "domain_name": "kitchenkneads.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-27 05:23:55"
-        },
-        {
-            "domain_name": "www.lcscooling.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-27 04:43:10"
-        },
-        {
-            "domain_name": "ordergreen.com",
-            "destination": "Bluehost",
-            "date": "2024-12-27 04:14:04"
-        },
-        {
-            "domain_name": "ftwstrong.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-27 04:01:50"
         }
     ],
     "dailyMovedStat": {
@@ -603,10 +603,10 @@
         "2024-12-27": "32242"
     },
     "topDestinationHosts": {
-        "Pressable": 6951,
+        "Pressable": 6953,
         "Bluehost": 3560,
         "Kinsta": 2190,
-        "Digital Ocean": 2096,
+        "Digital Ocean": 2097,
         "SiteGround": 1814,
         "Hostinger": 1042,
         "GoDaddy": 499,
@@ -619,7 +619,7 @@
         "GridPane": 132,
         "OVH": 109,
         "A2 Hosting": 93,
-        "Namecheap": 89,
+        "Namecheap": 90,
         "Hetzner Online": 83,
         "IONOS": 81,
         "DreamHost": 70
