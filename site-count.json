@@ -1,6 +1,16 @@
 {
-    "siteCount": 32288,
+    "siteCount": 32291,
     "recentlyMoved": [
+        {
+            "domain_name": "mulchandstone.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-28 10:46:20"
+        },
+        {
+            "domain_name": "vhal.org",
+            "destination": "Hostinger",
+            "date": "2024-12-28 10:28:02"
+        },
         {
             "domain_name": "lakecounty.bluezonesproject.com",
             "destination": "Digital Ocean",
@@ -487,16 +497,6 @@
             "date": "2024-12-27 09:00:26"
         },
         {
-            "domain_name": "qrxdispensary.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-27 08:39:32"
-        },
-        {
-            "domain_name": "herakleos.com.tw",
-            "destination": "A2 Hosting",
-            "date": "2024-12-27 08:36:47"
-        },
-        {
             "domain_name": "www.diamondacandheating.com",
             "destination": "Digital Ocean",
             "date": "2024-12-27 08:20:52"
@@ -608,8 +608,8 @@
         "Kinsta": 2190,
         "Digital Ocean": 2106,
         "SiteGround": 1814,
-        "Hostinger": 1043,
-        "GoDaddy": 500,
+        "Hostinger": 1044,
+        "GoDaddy": 501,
         "BigScoots": 290,
         "Liquid Web": 208,
         "Elementor Hosting": 200,
