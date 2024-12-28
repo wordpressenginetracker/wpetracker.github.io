@@ -1,6 +1,21 @@
 {
-    "siteCount": 32242,
+    "siteCount": 32247,
     "recentlyMoved": [
+        {
+            "domain_name": "foodfunctionflow.com",
+            "destination": "Wordify",
+            "date": "2024-12-27 23:49:08"
+        },
+        {
+            "domain_name": "adveweb.com",
+            "destination": "Bluehost",
+            "date": "2024-12-27 23:46:45"
+        },
+        {
+            "domain_name": "www.acmeeventco.com",
+            "destination": "GridPane",
+            "date": "2024-12-27 23:42:30"
+        },
         {
             "domain_name": "events.pbcofoundation.org",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "havelinorthconway.com",
             "destination": "WordPress.com",
             "date": "2024-12-26 20:41:11"
-        },
-        {
-            "domain_name": "www.venturacountyfarmday.com",
-            "destination": "Hostinger",
-            "date": "2024-12-26 20:37:48"
-        },
-        {
-            "domain_name": "petersenblikk.no",
-            "destination": "Digital Ocean",
-            "date": "2024-12-26 19:46:39"
-        },
-        {
-            "domain_name": "mrags.com",
-            "destination": "Hostinger",
-            "date": "2024-12-26 18:50:39"
         }
     ],
     "dailyMovedStat": {
@@ -604,7 +604,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 6950,
-        "Bluehost": 3558,
+        "Bluehost": 3559,
         "Kinsta": 2190,
         "Digital Ocean": 2096,
         "SiteGround": 1813,
@@ -613,10 +613,10 @@
         "BigScoots": 289,
         "Liquid Web": 208,
         "Elementor Hosting": 200,
-        "Wordify": 144,
+        "Wordify": 145,
         "WordPress.com": 141,
         "InMotion Hosting": 132,
-        "GridPane": 131,
+        "GridPane": 132,
         "OVH": 109,
         "A2 Hosting": 93,
         "Namecheap": 89,
