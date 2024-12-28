@@ -1,6 +1,11 @@
 {
-    "siteCount": 32251,
+    "siteCount": 32253,
     "recentlyMoved": [
+        {
+            "domain_name": "toolsandsupplies.com",
+            "destination": "Bluehost",
+            "date": "2024-12-28 02:50:07"
+        },
         {
             "domain_name": "lehighvalleyfunctionalhealth.com",
             "destination": "Wordify",
@@ -492,11 +497,6 @@
             "date": "2024-12-27 02:45:58"
         },
         {
-            "domain_name": "www.zenaire-lasvegas.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-27 02:38:23"
-        },
-        {
             "domain_name": "drkristenbentson.com",
             "destination": "Wordify",
             "date": "2024-12-27 02:02:50"
@@ -604,7 +604,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 6951,
-        "Bluehost": 3559,
+        "Bluehost": 3560,
         "Kinsta": 2190,
         "Digital Ocean": 2096,
         "SiteGround": 1813,
