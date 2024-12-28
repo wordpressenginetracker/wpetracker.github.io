@@ -1,6 +1,11 @@
 {
-    "siteCount": 32247,
+    "siteCount": 32249,
     "recentlyMoved": [
+        {
+            "domain_name": "holyrosaryws.org",
+            "destination": "Pressable",
+            "date": "2024-12-28 00:23:37"
+        },
         {
             "domain_name": "foodfunctionflow.com",
             "destination": "Wordify",
@@ -495,11 +500,6 @@
             "domain_name": "lehighvalleychiropractic.com",
             "destination": "Wordify",
             "date": "2024-12-27 01:38:58"
-        },
-        {
-            "domain_name": "havelinorthconway.com",
-            "destination": "WordPress.com",
-            "date": "2024-12-26 20:41:11"
         }
     ],
     "dailyMovedStat": {
@@ -603,7 +603,7 @@
         "2024-12-27": "32242"
     },
     "topDestinationHosts": {
-        "Pressable": 6950,
+        "Pressable": 6951,
         "Bluehost": 3559,
         "Kinsta": 2190,
         "Digital Ocean": 2096,
