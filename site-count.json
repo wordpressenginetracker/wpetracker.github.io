@@ -1,10 +1,25 @@
 {
-    "siteCount": 32398,
+    "siteCount": 32403,
     "recentlyMoved": [
+        {
+            "domain_name": "nofacegirl.info",
+            "destination": "Hostinger",
+            "date": "2024-12-28 19:14:55"
+        },
         {
             "domain_name": "eaglegroupplanning.com",
             "destination": "Hostinger",
             "date": "2024-12-28 18:48:31"
+        },
+        {
+            "domain_name": "ncac.com",
+            "destination": "Pressable",
+            "date": "2024-12-28 18:47:38"
+        },
+        {
+            "domain_name": "music-drama.stannesea.org",
+            "destination": "Pressable",
+            "date": "2024-12-28 18:34:09"
         },
         {
             "domain_name": "xculture.org",
@@ -15,6 +30,11 @@
             "domain_name": "dogrink.com",
             "destination": "SiteGround",
             "date": "2024-12-28 18:21:38"
+        },
+        {
+            "domain_name": "valleyindustrialtape.com",
+            "destination": "Hostinger",
+            "date": "2024-12-28 18:18:51"
         },
         {
             "domain_name": "manantialcleaningservices.com",
@@ -472,11 +492,6 @@
             "date": "2024-12-28 00:23:37"
         },
         {
-            "domain_name": "foodfunctionflow.com",
-            "destination": "Wordify",
-            "date": "2024-12-27 23:49:08"
-        },
-        {
             "domain_name": "adveweb.com",
             "destination": "Bluehost",
             "date": "2024-12-27 23:46:45"
@@ -485,21 +500,6 @@
             "domain_name": "www.acmeeventco.com",
             "destination": "GridPane",
             "date": "2024-12-27 23:42:30"
-        },
-        {
-            "domain_name": "events.pbcofoundation.org",
-            "destination": "Pressable",
-            "date": "2024-12-27 23:07:40"
-        },
-        {
-            "domain_name": "hydrovant.com",
-            "destination": "BigScoots",
-            "date": "2024-12-27 22:46:35"
-        },
-        {
-            "domain_name": "metrostrings.com",
-            "destination": "A2 Hosting",
-            "date": "2024-12-27 22:09:33"
         }
     ],
     "dailyMovedStat": {
@@ -603,12 +603,12 @@
         "2024-12-27": "32242"
     },
     "topDestinationHosts": {
-        "Pressable": 6973,
+        "Pressable": 6975,
         "Bluehost": 3562,
-        "Kinsta": 2195,
+        "Kinsta": 2196,
         "Digital Ocean": 2119,
-        "SiteGround": 1822,
-        "Hostinger": 1050,
+        "SiteGround": 1823,
+        "Hostinger": 1053,
         "GoDaddy": 503,
         "BigScoots": 293,
         "Liquid Web": 209,
