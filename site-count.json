@@ -1,6 +1,11 @@
 {
-    "siteCount": 32552,
+    "siteCount": 32554,
     "recentlyMoved": [
+        {
+            "domain_name": "meliocustomcabinets.com",
+            "destination": "Hostinger",
+            "date": "2024-12-29 18:10:50"
+        },
         {
             "domain_name": "petesbuilders.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "epicnomadlife.com",
             "destination": "BigScoots",
             "date": "2024-12-28 14:10:22"
-        },
-        {
-            "domain_name": "earwaxremovalnow.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-28 13:53:19"
         }
     ],
     "dailyMovedStat": {
@@ -609,7 +609,7 @@
         "Kinsta": 2207,
         "Digital Ocean": 2127,
         "SiteGround": 1825,
-        "Hostinger": 1068,
+        "Hostinger": 1069,
         "GoDaddy": 505,
         "BigScoots": 293,
         "Liquid Web": 210,
