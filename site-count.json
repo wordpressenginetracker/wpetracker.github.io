@@ -1,6 +1,11 @@
 {
-    "siteCount": 32485,
+    "siteCount": 32487,
     "recentlyMoved": [
+        {
+            "domain_name": "training.bluezonesproject.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-29 02:29:17"
+        },
         {
             "domain_name": "st-johnschool.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "bullcottage.com",
             "destination": "DreamHost",
             "date": "2024-12-28 12:31:14"
-        },
-        {
-            "domain_name": "www.drshearingcare.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-28 12:24:40"
         }
     ],
     "dailyMovedStat": {
@@ -607,7 +607,7 @@
         "Pressable": 6977,
         "Bluehost": 3563,
         "Kinsta": 2207,
-        "Digital Ocean": 2122,
+        "Digital Ocean": 2123,
         "SiteGround": 1824,
         "Hostinger": 1062,
         "GoDaddy": 504,
