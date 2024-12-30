@@ -1,6 +1,11 @@
 {
-    "siteCount": 32604,
+    "siteCount": 32605,
     "recentlyMoved": [
+        {
+            "domain_name": "tribevegas.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 06:34:02"
+        },
         {
             "domain_name": "donnashelbyphotography.com",
             "destination": "Bluehost",
@@ -472,11 +477,6 @@
             "date": "2024-12-28 16:31:14"
         },
         {
-            "domain_name": "gentegra.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-28 16:21:39"
-        },
-        {
             "domain_name": "anytime-snack.com",
             "destination": "SiteGround",
             "date": "2024-12-28 16:20:48"
@@ -605,7 +605,7 @@
         "2024-12-29": "32577"
     },
     "topDestinationHosts": {
-        "Pressable": 6979,
+        "Pressable": 6980,
         "Bluehost": 3567,
         "Kinsta": 2207,
         "Digital Ocean": 2131,
