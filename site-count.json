@@ -1,6 +1,11 @@
 {
-    "siteCount": 32630,
+    "siteCount": 32632,
     "recentlyMoved": [
+        {
+            "domain_name": "quarrygolf.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-30 12:02:50"
+        },
         {
             "domain_name": "achillescrossfit.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2024-12-28 17:42:31"
         },
         {
-            "domain_name": "stannesea.org",
-            "destination": "Pressable",
-            "date": "2024-12-28 17:36:24"
-        },
-        {
             "domain_name": "www.rentsux.net",
             "destination": "WordPress.com",
             "date": "2024-12-28 17:28:20"
@@ -611,7 +611,7 @@
         "Digital Ocean": 2131,
         "SiteGround": 1827,
         "Hostinger": 1072,
-        "GoDaddy": 505,
+        "GoDaddy": 506,
         "BigScoots": 293,
         "Liquid Web": 210,
         "Elementor Hosting": 200,
