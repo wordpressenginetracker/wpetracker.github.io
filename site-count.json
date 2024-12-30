@@ -1,6 +1,21 @@
 {
-    "siteCount": 32605,
+    "siteCount": 32609,
     "recentlyMoved": [
+        {
+            "domain_name": "apex-performance.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 08:11:50"
+        },
+        {
+            "domain_name": "africanenterprise.org",
+            "destination": "Bluehost",
+            "date": "2024-12-30 07:54:16"
+        },
+        {
+            "domain_name": "fullcirclecrossfit.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 07:27:42"
+        },
         {
             "domain_name": "tribevegas.com",
             "destination": "Pressable",
@@ -462,11 +477,6 @@
             "date": "2024-12-28 16:49:13"
         },
         {
-            "domain_name": "art.stannesea.org",
-            "destination": "Pressable",
-            "date": "2024-12-28 16:35:56"
-        },
-        {
             "domain_name": "seattlestpaul.org",
             "destination": "Pressable",
             "date": "2024-12-28 16:35:43"
@@ -477,19 +487,9 @@
             "date": "2024-12-28 16:31:14"
         },
         {
-            "domain_name": "anytime-snack.com",
-            "destination": "SiteGround",
-            "date": "2024-12-28 16:20:48"
-        },
-        {
             "domain_name": "heartsaligned.org",
             "destination": "SiteGround",
             "date": "2024-12-28 16:20:24"
-        },
-        {
-            "domain_name": "www.smgbillingcollections.com",
-            "destination": "IONOS",
-            "date": "2024-12-28 16:02:50"
         },
         {
             "domain_name": "grupocondor.com.py",
@@ -605,8 +605,8 @@
         "2024-12-29": "32577"
     },
     "topDestinationHosts": {
-        "Pressable": 6980,
-        "Bluehost": 3567,
+        "Pressable": 6982,
+        "Bluehost": 3568,
         "Kinsta": 2207,
         "Digital Ocean": 2131,
         "SiteGround": 1826,
