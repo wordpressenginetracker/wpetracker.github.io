@@ -1,10 +1,15 @@
 {
-    "siteCount": 32685,
+    "siteCount": 32688,
     "recentlyMoved": [
         {
             "domain_name": "jadedbyknight.com",
             "destination": "Hetzner Online",
             "date": "2024-12-30 21:22:11"
+        },
+        {
+            "domain_name": "langleygreen.com",
+            "destination": "Hetzner Online",
+            "date": "2024-12-30 21:00:45"
         },
         {
             "domain_name": "rorythewarrior.org",
@@ -477,11 +482,6 @@
             "date": "2024-12-28 20:40:35"
         },
         {
-            "domain_name": "avilaforrpb.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-28 20:40:35"
-        },
-        {
             "domain_name": "salonfringeny.com",
             "destination": "Hostinger",
             "date": "2024-12-28 20:32:39"
@@ -622,7 +622,7 @@
         "OVH": 109,
         "A2 Hosting": 94,
         "Namecheap": 91,
-        "Hetzner Online": 89,
+        "Hetzner Online": 90,
         "IONOS": 82,
         "DreamHost": 72
     },
