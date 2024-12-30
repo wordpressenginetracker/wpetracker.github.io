@@ -1,10 +1,35 @@
 {
-    "siteCount": 32639,
+    "siteCount": 32645,
     "recentlyMoved": [
+        {
+            "domain_name": "aprintdecor.com",
+            "destination": "Hetzner Online",
+            "date": "2024-12-30 16:10:53"
+        },
+        {
+            "domain_name": "aprintcommercial.com",
+            "destination": "Hetzner Online",
+            "date": "2024-12-30 16:10:53"
+        },
+        {
+            "domain_name": "greatnorthfitness.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 16:06:47"
+        },
+        {
+            "domain_name": "hardwarestrength.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 15:50:22"
+        },
         {
             "domain_name": "valkommenfitness.com",
             "destination": "Pressable",
             "date": "2024-12-30 15:29:12"
+        },
+        {
+            "domain_name": "flayspeed.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 15:13:26"
         },
         {
             "domain_name": "lionheartgyms.com",
@@ -467,16 +492,6 @@
             "date": "2024-12-28 18:34:09"
         },
         {
-            "domain_name": "xculture.org",
-            "destination": "Kinsta",
-            "date": "2024-12-28 18:26:18"
-        },
-        {
-            "domain_name": "dogrink.com",
-            "destination": "SiteGround",
-            "date": "2024-12-28 18:21:38"
-        },
-        {
             "domain_name": "valleyindustrialtape.com",
             "destination": "Hostinger",
             "date": "2024-12-28 18:18:51"
@@ -485,21 +500,6 @@
             "domain_name": "modernroof.com",
             "destination": "SiteGround",
             "date": "2024-12-28 18:14:37"
-        },
-        {
-            "domain_name": "thestokesgroup.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 17:55:51"
-        },
-        {
-            "domain_name": "www.thecondolounge.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 17:43:16"
-        },
-        {
-            "domain_name": "discovergadsden.com",
-            "destination": "Hostinger",
-            "date": "2024-12-28 17:42:31"
         }
     ],
     "dailyMovedStat": {
@@ -605,7 +605,7 @@
         "2024-12-29": "32577"
     },
     "topDestinationHosts": {
-        "Pressable": 7000,
+        "Pressable": 7002,
         "Bluehost": 3568,
         "Kinsta": 2207,
         "Digital Ocean": 2131,
@@ -622,7 +622,7 @@
         "OVH": 109,
         "A2 Hosting": 94,
         "Namecheap": 90,
-        "Hetzner Online": 84,
+        "Hetzner Online": 86,
         "IONOS": 82,
         "DreamHost": 71
     },
