@@ -1,6 +1,11 @@
 {
-    "siteCount": 32647,
+    "siteCount": 32650,
     "recentlyMoved": [
+        {
+            "domain_name": "corazonimaging.com",
+            "destination": "Namecheap",
+            "date": "2024-12-30 17:47:02"
+        },
         {
             "domain_name": "kingswayfinestmeats.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "valleyindustrialtape.com",
             "destination": "Hostinger",
             "date": "2024-12-28 18:18:51"
-        },
-        {
-            "domain_name": "modernroof.com",
-            "destination": "SiteGround",
-            "date": "2024-12-28 18:14:37"
         }
     ],
     "dailyMovedStat": {
@@ -611,7 +611,7 @@
         "Digital Ocean": 2131,
         "SiteGround": 1827,
         "Hostinger": 1072,
-        "GoDaddy": 506,
+        "GoDaddy": 507,
         "BigScoots": 293,
         "Liquid Web": 210,
         "Elementor Hosting": 200,
@@ -621,7 +621,7 @@
         "GridPane": 134,
         "OVH": 109,
         "A2 Hosting": 94,
-        "Namecheap": 90,
+        "Namecheap": 91,
         "Hetzner Online": 86,
         "IONOS": 82,
         "DreamHost": 71
