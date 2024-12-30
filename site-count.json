@@ -1,6 +1,26 @@
 {
-    "siteCount": 32632,
+    "siteCount": 32638,
     "recentlyMoved": [
+        {
+            "domain_name": "lionheartgyms.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 14:15:41"
+        },
+        {
+            "domain_name": "crossfitterminus.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 13:42:55"
+        },
+        {
+            "domain_name": "crossfitrockland.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 13:42:55"
+        },
+        {
+            "domain_name": "combinefv.com",
+            "destination": "Pressable",
+            "date": "2024-12-30 13:25:08"
+        },
         {
             "domain_name": "quarrygolf.com",
             "destination": "GoDaddy",
@@ -467,24 +487,9 @@
             "date": "2024-12-28 18:14:37"
         },
         {
-            "domain_name": "testingsite.stannesea.org",
-            "destination": "Pressable",
-            "date": "2024-12-28 18:11:32"
-        },
-        {
-            "domain_name": "library.stannesea.org",
-            "destination": "Pressable",
-            "date": "2024-12-28 17:55:53"
-        },
-        {
             "domain_name": "thestokesgroup.com",
             "destination": "Kinsta",
             "date": "2024-12-28 17:55:51"
-        },
-        {
-            "domain_name": "www.rexelectric.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 17:48:15"
         },
         {
             "domain_name": "www.thecondolounge.com",
@@ -495,11 +500,6 @@
             "domain_name": "discovergadsden.com",
             "destination": "Hostinger",
             "date": "2024-12-28 17:42:31"
-        },
-        {
-            "domain_name": "www.rentsux.net",
-            "destination": "WordPress.com",
-            "date": "2024-12-28 17:28:20"
         }
     ],
     "dailyMovedStat": {
@@ -605,7 +605,7 @@
         "2024-12-29": "32577"
     },
     "topDestinationHosts": {
-        "Pressable": 6995,
+        "Pressable": 6999,
         "Bluehost": 3568,
         "Kinsta": 2207,
         "Digital Ocean": 2131,
