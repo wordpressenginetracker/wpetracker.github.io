@@ -1,6 +1,26 @@
 {
-    "siteCount": 32680,
+    "siteCount": 32685,
     "recentlyMoved": [
+        {
+            "domain_name": "jadedbyknight.com",
+            "destination": "Hetzner Online",
+            "date": "2024-12-30 21:22:11"
+        },
+        {
+            "domain_name": "rorythewarrior.org",
+            "destination": "Hostinger",
+            "date": "2024-12-30 20:56:49"
+        },
+        {
+            "domain_name": "www.latitude34studios.com",
+            "destination": "DreamHost",
+            "date": "2024-12-30 20:51:48"
+        },
+        {
+            "domain_name": "bivinsbunyak.com",
+            "destination": "Bluehost",
+            "date": "2024-12-30 20:15:06"
+        },
         {
             "domain_name": "flatlanderfilms.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2024-12-28 20:29:12"
         },
         {
-            "domain_name": "www.dawnrisertc.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 20:25:18"
-        },
-        {
             "domain_name": "helpiz.com",
             "destination": "Hostinger",
             "date": "2024-12-28 20:21:51"
-        },
-        {
-            "domain_name": "www.legacyyouthhome.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 20:11:34"
-        },
-        {
-            "domain_name": "www.conciergecreative.com",
-            "destination": "Kinsta",
-            "date": "2024-12-28 19:54:14"
-        },
-        {
-            "domain_name": "angelasbraboutique.com",
-            "destination": "Hostinger",
-            "date": "2024-12-28 19:37:08"
         }
     ],
     "dailyMovedStat": {
@@ -606,11 +606,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 7003,
-        "Bluehost": 3570,
+        "Bluehost": 3571,
         "Kinsta": 2208,
         "Digital Ocean": 2132,
         "SiteGround": 1827,
-        "Hostinger": 1073,
+        "Hostinger": 1074,
         "GoDaddy": 507,
         "BigScoots": 293,
         "Liquid Web": 211,
@@ -622,9 +622,9 @@
         "OVH": 109,
         "A2 Hosting": 94,
         "Namecheap": 91,
-        "Hetzner Online": 88,
+        "Hetzner Online": 89,
         "IONOS": 82,
-        "DreamHost": 71
+        "DreamHost": 72
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
