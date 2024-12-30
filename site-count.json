@@ -1,6 +1,11 @@
 {
-    "siteCount": 32595,
+    "siteCount": 32599,
     "recentlyMoved": [
+        {
+            "domain_name": "bryannadee.com",
+            "destination": "Bluehost",
+            "date": "2024-12-30 05:06:24"
+        },
         {
             "domain_name": "trueageapp.com",
             "destination": "Hostinger",
@@ -472,11 +477,6 @@
             "date": "2024-12-28 16:02:50"
         },
         {
-            "domain_name": "franmorash.com",
-            "destination": "SiteGround",
-            "date": "2024-12-28 15:55:09"
-        },
-        {
             "domain_name": "pe.stannesea.org",
             "destination": "Pressable",
             "date": "2024-12-28 15:52:12"
@@ -606,7 +606,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 6978,
-        "Bluehost": 3563,
+        "Bluehost": 3564,
         "Kinsta": 2207,
         "Digital Ocean": 2131,
         "SiteGround": 1826,
