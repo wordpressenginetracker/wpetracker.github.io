@@ -1,6 +1,51 @@
 {
-    "siteCount": 32872,
+    "siteCount": 32916,
     "recentlyMoved": [
+        {
+            "domain_name": "anyamcmanis.com",
+            "destination": "SiteGround",
+            "date": "2024-12-31 20:34:14"
+        },
+        {
+            "domain_name": "vstl.us",
+            "destination": "Namecheap",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "www.shelterrecords.com",
+            "destination": "DreamHost",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "www.royclarkmuseum.com",
+            "destination": "DreamHost",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "provisional.kinsta.cloud",
+            "destination": "Kinsta",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "rob.cdj.mybluehost.me",
+            "destination": "Bluehost",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "assumptionsp.com",
+            "destination": "Bluehost",
+            "date": "2024-12-31 20:29:42"
+        },
+        {
+            "domain_name": "floridajointcare.com",
+            "destination": "GoDaddy",
+            "date": "2024-12-31 19:48:54"
+        },
+        {
+            "domain_name": "gaamnerdmarket.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 19:47:37"
+        },
         {
             "domain_name": "encinodreamsmile.com",
             "destination": "Kinsta",
@@ -455,51 +500,6 @@
             "domain_name": "weareolea.com",
             "destination": "Kinsta",
             "date": "2024-12-31 04:10:55"
-        },
-        {
-            "domain_name": "plantcunningconference.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 00:17:42"
-        },
-        {
-            "domain_name": "jadedbyknight.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 21:22:11"
-        },
-        {
-            "domain_name": "langleygreen.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 21:00:45"
-        },
-        {
-            "domain_name": "rorythewarrior.org",
-            "destination": "Hostinger",
-            "date": "2024-12-30 20:56:49"
-        },
-        {
-            "domain_name": "www.latitude34studios.com",
-            "destination": "DreamHost",
-            "date": "2024-12-30 20:51:48"
-        },
-        {
-            "domain_name": "bivinsbunyak.com",
-            "destination": "Bluehost",
-            "date": "2024-12-30 20:15:06"
-        },
-        {
-            "domain_name": "projectsavelives.org",
-            "destination": "HostGator",
-            "date": "2024-12-30 20:02:40"
-        },
-        {
-            "domain_name": "scormebe.org",
-            "destination": "Bluehost",
-            "date": "2024-12-30 20:02:40"
-        },
-        {
-            "domain_name": "aprint.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 20:02:40"
         }
     ],
     "dailyMovedStat": {
@@ -606,13 +606,13 @@
         "2024-12-30": "32689"
     },
     "topDestinationHosts": {
-        "Pressable": 7055,
-        "Bluehost": 3573,
-        "Kinsta": 2214,
+        "Pressable": 7056,
+        "Bluehost": 3575,
+        "Kinsta": 2215,
         "Digital Ocean": 2137,
-        "SiteGround": 1836,
+        "SiteGround": 1837,
         "Hostinger": 1078,
-        "GoDaddy": 510,
+        "GoDaddy": 511,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
@@ -622,10 +622,10 @@
         "GridPane": 135,
         "OVH": 109,
         "A2 Hosting": 95,
-        "Namecheap": 92,
+        "Namecheap": 93,
         "Hetzner Online": 90,
         "IONOS": 82,
-        "DreamHost": 73
+        "DreamHost": 75
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
