@@ -1,6 +1,36 @@
 {
-    "siteCount": 32826,
+    "siteCount": 32847,
     "recentlyMoved": [
+        {
+            "domain_name": "smileforward.com",
+            "destination": "SiteGround",
+            "date": "2024-12-31 17:03:17"
+        },
+        {
+            "domain_name": "campaign.bonecreek.org",
+            "destination": "Bluehost",
+            "date": "2024-12-31 16:54:03"
+        },
+        {
+            "domain_name": "roseninjury.com",
+            "destination": "Liquid Web",
+            "date": "2024-12-31 16:52:32"
+        },
+        {
+            "domain_name": "www.musicianshalloffame.com",
+            "destination": "BigScoots",
+            "date": "2024-12-31 16:51:18"
+        },
+        {
+            "domain_name": "kbennettcontracting.com",
+            "destination": "SiteGround",
+            "date": "2024-12-31 16:45:31"
+        },
+        {
+            "domain_name": "sapulpaherald.com",
+            "destination": "SiteGround",
+            "date": "2024-12-31 16:26:11"
+        },
         {
             "domain_name": "gracehearing.org",
             "destination": "Digital Ocean",
@@ -467,39 +497,9 @@
             "date": "2024-12-30 17:28:37"
         },
         {
-            "domain_name": "aprintdecor.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 16:10:53"
-        },
-        {
-            "domain_name": "aprintcommercial.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 16:10:53"
-        },
-        {
-            "domain_name": "greatnorthfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 16:06:47"
-        },
-        {
             "domain_name": "hardwarestrength.com",
             "destination": "Pressable",
             "date": "2024-12-30 15:50:22"
-        },
-        {
-            "domain_name": "valkommenfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 15:29:12"
-        },
-        {
-            "domain_name": "flayspeed.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 15:13:26"
-        },
-        {
-            "domain_name": "crossfitterminus.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 13:42:55"
         }
     ],
     "dailyMovedStat": {
@@ -607,17 +607,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 7050,
-        "Bluehost": 3572,
+        "Bluehost": 3573,
         "Kinsta": 2213,
         "Digital Ocean": 2137,
-        "SiteGround": 1830,
-        "Hostinger": 1077,
+        "SiteGround": 1832,
+        "Hostinger": 1078,
         "GoDaddy": 509,
         "BigScoots": 293,
-        "Liquid Web": 211,
+        "Liquid Web": 212,
         "Elementor Hosting": 201,
         "Wordify": 149,
-        "WordPress.com": 144,
+        "WordPress.com": 145,
         "InMotion Hosting": 140,
         "GridPane": 135,
         "OVH": 109,
