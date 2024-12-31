@@ -1,10 +1,25 @@
 {
-    "siteCount": 32930,
+    "siteCount": 32939,
     "recentlyMoved": [
+        {
+            "domain_name": "drilltechdrilling.com",
+            "destination": "Hostinger",
+            "date": "2024-12-31 22:09:34"
+        },
+        {
+            "domain_name": "www.spco.org",
+            "destination": "GoDaddy",
+            "date": "2024-12-31 21:57:14"
+        },
         {
             "domain_name": "signatoryfloorcovering.com",
             "destination": "GoDaddy",
             "date": "2024-12-31 21:07:57"
+        },
+        {
+            "domain_name": "commercial.chugach.com",
+            "destination": "Kinsta",
+            "date": "2024-12-31 21:05:31"
         },
         {
             "domain_name": "rocamhomes.com",
@@ -485,21 +500,6 @@
             "domain_name": "feedanimals.org",
             "destination": "Pressable",
             "date": "2024-12-31 07:32:38"
-        },
-        {
-            "domain_name": "fcfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 07:32:38"
-        },
-        {
-            "domain_name": "victorygymsavannah.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 07:15:06"
-        },
-        {
-            "domain_name": "ncmvmt.fit",
-            "destination": "Pressable",
-            "date": "2024-12-31 06:23:54"
         }
     ],
     "dailyMovedStat": {
@@ -608,11 +608,11 @@
     "topDestinationHosts": {
         "Pressable": 7059,
         "Bluehost": 3576,
-        "Kinsta": 2215,
+        "Kinsta": 2216,
         "Digital Ocean": 2138,
         "SiteGround": 1838,
-        "Hostinger": 1078,
-        "GoDaddy": 513,
+        "Hostinger": 1079,
+        "GoDaddy": 514,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
