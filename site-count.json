@@ -1,6 +1,21 @@
 {
-    "siteCount": 32939,
+    "siteCount": 32943,
     "recentlyMoved": [
+        {
+            "domain_name": "nickforfoco.com",
+            "destination": "WordPress.com",
+            "date": "2024-12-31 23:06:58"
+        },
+        {
+            "domain_name": "myadsai.com",
+            "destination": "Hostinger",
+            "date": "2024-12-31 22:46:32"
+        },
+        {
+            "domain_name": "economosdewolf.com",
+            "destination": "SiteGround",
+            "date": "2024-12-31 22:40:08"
+        },
         {
             "domain_name": "drilltechdrilling.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2024-12-31 08:36:59"
         },
         {
-            "domain_name": "webdesignmagasinet.no",
-            "destination": "Pressable",
-            "date": "2024-12-31 08:04:19"
-        },
-        {
             "domain_name": "atlanticathleticsclub.com",
             "destination": "Pressable",
             "date": "2024-12-31 07:59:15"
-        },
-        {
-            "domain_name": "firstpowerfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 07:47:17"
-        },
-        {
-            "domain_name": "feedanimals.org",
-            "destination": "Pressable",
-            "date": "2024-12-31 07:32:38"
         }
     ],
     "dailyMovedStat": {
@@ -603,21 +603,22 @@
         "2024-12-27": "32242",
         "2024-12-28": "32470",
         "2024-12-29": "32577",
-        "2024-12-30": "32689"
+        "2024-12-30": "32689",
+        "2024-12-31": "32943"
     },
     "topDestinationHosts": {
         "Pressable": 7059,
         "Bluehost": 3576,
         "Kinsta": 2216,
         "Digital Ocean": 2138,
-        "SiteGround": 1838,
-        "Hostinger": 1079,
+        "SiteGround": 1839,
+        "Hostinger": 1080,
         "GoDaddy": 514,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
         "Wordify": 149,
-        "WordPress.com": 145,
+        "WordPress.com": 146,
         "InMotion Hosting": 140,
         "GridPane": 135,
         "OVH": 109,
@@ -728,6 +729,7 @@
         "2024-12-27": "689507",
         "2024-12-28": "689283",
         "2024-12-29": "689259",
-        "2024-12-30": "689405"
+        "2024-12-30": "689405",
+        "2024-12-31": "688931"
     }
 }
