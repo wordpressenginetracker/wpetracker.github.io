@@ -1,6 +1,46 @@
 {
-    "siteCount": 32764,
+    "siteCount": 32776,
     "recentlyMoved": [
+        {
+            "domain_name": "christianconsortium.org",
+            "destination": "Pressable",
+            "date": "2024-12-31 13:13:34"
+        },
+        {
+            "domain_name": "samchappell.org",
+            "destination": "Digital Ocean",
+            "date": "2024-12-31 12:58:45"
+        },
+        {
+            "domain_name": "www.meyer-najem.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:54:59"
+        },
+        {
+            "domain_name": "jimsbodyshopky.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:53:32"
+        },
+        {
+            "domain_name": "bittners.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:53:26"
+        },
+        {
+            "domain_name": "businessministryinitiatives.org",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:52:14"
+        },
+        {
+            "domain_name": "hubcitycrossfit.net",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:39:15"
+        },
+        {
+            "domain_name": "rhythmontheriver.org",
+            "destination": "Pressable",
+            "date": "2024-12-31 12:29:54"
+        },
         {
             "domain_name": "goodtidings.org",
             "destination": "Kinsta",
@@ -460,46 +500,6 @@
             "domain_name": "themugcreative.com",
             "destination": "Bluehost",
             "date": "2024-12-30 05:37:28"
-        },
-        {
-            "domain_name": "crossfitangola.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 05:33:46"
-        },
-        {
-            "domain_name": "bryannadee.com",
-            "destination": "Bluehost",
-            "date": "2024-12-30 05:06:24"
-        },
-        {
-            "domain_name": "trueageapp.com",
-            "destination": "Hostinger",
-            "date": "2024-12-30 02:30:03"
-        },
-        {
-            "domain_name": "mediaentertainmentinfo.com",
-            "destination": "WordPress.com",
-            "date": "2024-12-30 02:12:12"
-        },
-        {
-            "domain_name": "smartrapper.com",
-            "destination": "Hetzner Online",
-            "date": "2024-12-30 01:39:05"
-        },
-        {
-            "domain_name": "www.midwestcomfortiowa.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-30 01:05:03"
-        },
-        {
-            "domain_name": "southeastpallet.com",
-            "destination": "Pressable",
-            "date": "2024-12-30 00:57:37"
-        },
-        {
-            "domain_name": "www.dunhamservice.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-30 00:19:34"
         }
     ],
     "dailyMovedStat": {
@@ -606,10 +606,10 @@
         "2024-12-30": "32689"
     },
     "topDestinationHosts": {
-        "Pressable": 7032,
+        "Pressable": 7039,
         "Bluehost": 3571,
         "Kinsta": 2212,
-        "Digital Ocean": 2134,
+        "Digital Ocean": 2135,
         "SiteGround": 1828,
         "Hostinger": 1075,
         "GoDaddy": 508,
