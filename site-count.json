@@ -1,6 +1,11 @@
 {
-    "siteCount": 32689,
+    "siteCount": 32693,
     "recentlyMoved": [
+        {
+            "domain_name": "plantcunningconference.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 00:17:42"
+        },
         {
             "domain_name": "jadedbyknight.com",
             "destination": "Hetzner Online",
@@ -477,11 +482,6 @@
             "date": "2024-12-28 20:40:35"
         },
         {
-            "domain_name": "benthealth.wordifysites.com",
-            "destination": "Wordify",
-            "date": "2024-12-28 20:40:35"
-        },
-        {
             "domain_name": "salonfringeny.com",
             "destination": "Hostinger",
             "date": "2024-12-28 20:32:39"
@@ -606,7 +606,7 @@
         "2024-12-30": "32689"
     },
     "topDestinationHosts": {
-        "Pressable": 7003,
+        "Pressable": 7004,
         "Bluehost": 3571,
         "Kinsta": 2208,
         "Digital Ocean": 2132,
