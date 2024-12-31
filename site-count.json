@@ -1,6 +1,11 @@
 {
-    "siteCount": 32867,
+    "siteCount": 32872,
     "recentlyMoved": [
+        {
+            "domain_name": "encinodreamsmile.com",
+            "destination": "Kinsta",
+            "date": "2024-12-31 18:37:28"
+        },
         {
             "domain_name": "themagicalplants.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "aprint.com",
             "destination": "Hetzner Online",
             "date": "2024-12-30 20:02:40"
-        },
-        {
-            "domain_name": "sohlstudio.com.au",
-            "destination": "GridPane",
-            "date": "2024-12-30 20:02:40"
         }
     ],
     "dailyMovedStat": {
@@ -606,13 +606,13 @@
         "2024-12-30": "32689"
     },
     "topDestinationHosts": {
-        "Pressable": 7054,
+        "Pressable": 7055,
         "Bluehost": 3573,
-        "Kinsta": 2213,
+        "Kinsta": 2214,
         "Digital Ocean": 2137,
         "SiteGround": 1836,
         "Hostinger": 1078,
-        "GoDaddy": 509,
+        "GoDaddy": 510,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
