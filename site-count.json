@@ -1,10 +1,25 @@
 {
-    "siteCount": 32729,
+    "siteCount": 32733,
     "recentlyMoved": [
+        {
+            "domain_name": "broadstreetglobal.com",
+            "destination": "Pressable",
+            "date": "2024-12-31 09:16:04"
+        },
+        {
+            "domain_name": "jackedathletics.fit",
+            "destination": "Pressable",
+            "date": "2024-12-31 08:48:29"
+        },
         {
             "domain_name": "ascendancyelectrical.co.nz",
             "destination": "GoDaddy",
             "date": "2024-12-31 08:41:36"
+        },
+        {
+            "domain_name": "barsonfirecrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2024-12-31 08:36:59"
         },
         {
             "domain_name": "webdesignmagasinet.no",
@@ -485,21 +500,6 @@
             "domain_name": "training.bluezonesproject.com",
             "destination": "Digital Ocean",
             "date": "2024-12-29 02:29:17"
-        },
-        {
-            "domain_name": "st-johnschool.org",
-            "destination": "Pressable",
-            "date": "2024-12-29 01:48:57"
-        },
-        {
-            "domain_name": "damienhowellpt.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-29 01:46:30"
-        },
-        {
-            "domain_name": "chugachalaskaservices.com",
-            "destination": "Kinsta",
-            "date": "2024-12-29 01:34:12"
         }
     ],
     "dailyMovedStat": {
@@ -606,10 +606,10 @@
         "2024-12-30": "32689"
     },
     "topDestinationHosts": {
-        "Pressable": 7017,
+        "Pressable": 7019,
         "Bluehost": 3571,
         "Kinsta": 2209,
-        "Digital Ocean": 2132,
+        "Digital Ocean": 2133,
         "SiteGround": 1827,
         "Hostinger": 1074,
         "GoDaddy": 508,
