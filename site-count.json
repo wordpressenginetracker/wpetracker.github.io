@@ -1,6 +1,11 @@
 {
-    "siteCount": 33145,
+    "siteCount": 33154,
     "recentlyMoved": [
+        {
+            "domain_name": "www.discowellness.com",
+            "destination": "SiteGround",
+            "date": "2025-01-01 20:48:47"
+        },
         {
             "domain_name": "kesslermatura.com",
             "destination": "BigScoots",
@@ -30,6 +35,16 @@
             "domain_name": "www.jeffgrubbmasonry.com",
             "destination": "Bluehost",
             "date": "2025-01-01 20:46:37"
+        },
+        {
+            "domain_name": "hrxnetwork.com",
+            "destination": "Hostinger",
+            "date": "2025-01-01 20:42:21"
+        },
+        {
+            "domain_name": "www.critterdoctorventura.com",
+            "destination": "IONOS",
+            "date": "2025-01-01 20:35:39"
         },
         {
             "domain_name": "giantgnome.com",
@@ -437,11 +452,6 @@
             "date": "2024-12-31 20:40:02"
         },
         {
-            "domain_name": "anyamcmanis.com",
-            "destination": "SiteGround",
-            "date": "2024-12-31 20:34:14"
-        },
-        {
             "domain_name": "vstl.us",
             "destination": "Namecheap",
             "date": "2024-12-31 20:29:42"
@@ -490,16 +500,6 @@
             "domain_name": "reocontracting.com",
             "destination": "Pressable",
             "date": "2024-12-31 20:07:28"
-        },
-        {
-            "domain_name": "floridajointcare.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-31 19:48:54"
-        },
-        {
-            "domain_name": "gaamnerdmarket.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 19:47:37"
         }
     ],
     "dailyMovedStat": {
@@ -608,25 +608,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 7084,
-        "Bluehost": 3578,
+        "Bluehost": 3579,
         "Kinsta": 2224,
         "Digital Ocean": 2141,
-        "SiteGround": 1846,
-        "Hostinger": 1089,
-        "GoDaddy": 526,
-        "BigScoots": 294,
+        "SiteGround": 1848,
+        "Hostinger": 1090,
+        "GoDaddy": 527,
+        "BigScoots": 295,
         "Liquid Web": 213,
         "Elementor Hosting": 201,
         "Wordify": 149,
         "WordPress.com": 146,
         "InMotion Hosting": 143,
-        "GridPane": 135,
+        "GridPane": 136,
         "OVH": 109,
         "A2 Hosting": 96,
         "Namecheap": 93,
         "Hetzner Online": 90,
-        "IONOS": 82,
-        "DreamHost": 75
+        "IONOS": 83,
+        "DreamHost": 76
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
