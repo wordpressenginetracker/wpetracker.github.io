@@ -1,6 +1,36 @@
 {
-    "siteCount": 32971,
+    "siteCount": 32989,
     "recentlyMoved": [
+        {
+            "domain_name": "apiexperts.io",
+            "destination": "Pressable",
+            "date": "2025-01-01 08:22:56"
+        },
+        {
+            "domain_name": "wpeasypay.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 08:19:52"
+        },
+        {
+            "domain_name": "aiob2b.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 08:15:51"
+        },
+        {
+            "domain_name": "gravitymore.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 08:05:40"
+        },
+        {
+            "domain_name": "frontporchflora.com",
+            "destination": "Hostinger",
+            "date": "2025-01-01 07:57:09"
+        },
+        {
+            "domain_name": "postsnippets.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 07:46:15"
+        },
         {
             "domain_name": "innerpowermartialarts.com",
             "destination": "Hostinger",
@@ -470,36 +500,6 @@
             "domain_name": "verticallimitfitness.com",
             "destination": "Pressable",
             "date": "2024-12-31 10:46:05"
-        },
-        {
-            "domain_name": "us.harlequinfloors.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-31 10:30:38"
-        },
-        {
-            "domain_name": "midmanhattanoralsurgery.com",
-            "destination": "DreamHost",
-            "date": "2024-12-31 10:21:51"
-        },
-        {
-            "domain_name": "uniqueblendconsulting.com",
-            "destination": "Hostinger",
-            "date": "2024-12-31 10:19:27"
-        },
-        {
-            "domain_name": "crossfityuma.net",
-            "destination": "Pressable",
-            "date": "2024-12-31 10:07:51"
-        },
-        {
-            "domain_name": "lyonheartfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 09:45:48"
-        },
-        {
-            "domain_name": "lostcoastcrossfit.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 09:38:17"
         }
     ],
     "dailyMovedStat": {
@@ -607,12 +607,12 @@
         "2024-12-31": "32943"
     },
     "topDestinationHosts": {
-        "Pressable": 7061,
+        "Pressable": 7066,
         "Bluehost": 3576,
         "Kinsta": 2218,
         "Digital Ocean": 2138,
         "SiteGround": 1840,
-        "Hostinger": 1083,
+        "Hostinger": 1084,
         "GoDaddy": 517,
         "BigScoots": 294,
         "Liquid Web": 212,
