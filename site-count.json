@@ -1,6 +1,21 @@
 {
-    "siteCount": 32989,
+    "siteCount": 32996,
     "recentlyMoved": [
+        {
+            "domain_name": "kayjenkins.co",
+            "destination": "Hostinger",
+            "date": "2025-01-01 09:30:37"
+        },
+        {
+            "domain_name": "www.jefffisherwindows.com",
+            "destination": "Bluehost",
+            "date": "2025-01-01 08:39:36"
+        },
+        {
+            "domain_name": "www.gatorgaragedoorrepair.com",
+            "destination": "Kinsta",
+            "date": "2025-01-01 08:25:26"
+        },
         {
             "domain_name": "apiexperts.io",
             "destination": "Pressable",
@@ -477,29 +492,14 @@
             "date": "2024-12-31 11:52:17"
         },
         {
-            "domain_name": "fixypopulist.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 11:39:28"
-        },
-        {
             "domain_name": "originalbarrys.com",
             "destination": "Pressable",
             "date": "2024-12-31 11:37:38"
         },
         {
-            "domain_name": "4arrowsfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 11:34:35"
-        },
-        {
             "domain_name": "furble.com",
             "destination": "Kinsta",
             "date": "2024-12-31 11:32:43"
-        },
-        {
-            "domain_name": "verticallimitfitness.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 10:46:05"
         }
     ],
     "dailyMovedStat": {
@@ -608,11 +608,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 7066,
-        "Bluehost": 3576,
-        "Kinsta": 2218,
+        "Bluehost": 3577,
+        "Kinsta": 2219,
         "Digital Ocean": 2138,
         "SiteGround": 1840,
-        "Hostinger": 1084,
+        "Hostinger": 1085,
         "GoDaddy": 517,
         "BigScoots": 294,
         "Liquid Web": 212,
