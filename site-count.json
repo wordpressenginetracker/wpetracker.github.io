@@ -1,6 +1,21 @@
 {
-    "siteCount": 33000,
+    "siteCount": 33003,
     "recentlyMoved": [
+        {
+            "domain_name": "elawsuit.info",
+            "destination": "GoDaddy",
+            "date": "2025-01-01 10:51:36"
+        },
+        {
+            "domain_name": "truck-accident-help.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-01 10:40:35"
+        },
+        {
+            "domain_name": "newuserapprove.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 10:18:38"
+        },
         {
             "domain_name": "kayjenkins.co",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2024-12-31 12:16:15"
         },
         {
-            "domain_name": "amersonfarms.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 12:16:15"
-        },
-        {
             "domain_name": "happyhourcrossfit.com",
             "destination": "Pressable",
             "date": "2024-12-31 12:00:55"
@@ -490,16 +500,6 @@
             "domain_name": "www.blackspins.com",
             "destination": "Kinsta",
             "date": "2024-12-31 11:52:17"
-        },
-        {
-            "domain_name": "originalbarrys.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 11:37:38"
-        },
-        {
-            "domain_name": "furble.com",
-            "destination": "Kinsta",
-            "date": "2024-12-31 11:32:43"
         }
     ],
     "dailyMovedStat": {
@@ -607,13 +607,13 @@
         "2024-12-31": "32943"
     },
     "topDestinationHosts": {
-        "Pressable": 7066,
+        "Pressable": 7067,
         "Bluehost": 3577,
         "Kinsta": 2219,
         "Digital Ocean": 2138,
         "SiteGround": 1840,
         "Hostinger": 1085,
-        "GoDaddy": 517,
+        "GoDaddy": 519,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
