@@ -1,6 +1,31 @@
 {
-    "siteCount": 32960,
+    "siteCount": 32965,
     "recentlyMoved": [
+        {
+            "domain_name": "www.allamericanoilfield.com",
+            "destination": "Kinsta",
+            "date": "2025-01-01 04:14:32"
+        },
+        {
+            "domain_name": "fococomiccon.com",
+            "destination": "Pressable",
+            "date": "2025-01-01 03:58:02"
+        },
+        {
+            "domain_name": "alecmfg.com",
+            "destination": "Hostinger",
+            "date": "2025-01-01 03:50:44"
+        },
+        {
+            "domain_name": "wearesandsprings.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-01 03:35:41"
+        },
+        {
+            "domain_name": "omidmanufacturing.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-01 03:16:18"
+        },
         {
             "domain_name": "solovedpets.com",
             "destination": "SiteGround",
@@ -467,16 +492,6 @@
             "date": "2024-12-31 10:07:51"
         },
         {
-            "domain_name": "crossfitignite.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 10:07:51"
-        },
-        {
-            "domain_name": "crossfitbearcat.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 10:07:51"
-        },
-        {
             "domain_name": "lyonheartfitness.com",
             "destination": "Pressable",
             "date": "2024-12-31 09:45:48"
@@ -485,21 +500,6 @@
             "domain_name": "lostcoastcrossfit.com",
             "destination": "Pressable",
             "date": "2024-12-31 09:38:17"
-        },
-        {
-            "domain_name": "strengthempiremo.com",
-            "destination": "Pressable",
-            "date": "2024-12-31 09:33:09"
-        },
-        {
-            "domain_name": "clmarinecons.c7jax.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-31 09:33:01"
-        },
-        {
-            "domain_name": "cllandscape.c7jax.com",
-            "destination": "InMotion Hosting",
-            "date": "2024-12-31 09:33:01"
         }
     ],
     "dailyMovedStat": {
@@ -607,13 +607,13 @@
         "2024-12-31": "32943"
     },
     "topDestinationHosts": {
-        "Pressable": 7060,
+        "Pressable": 7061,
         "Bluehost": 3576,
-        "Kinsta": 2217,
+        "Kinsta": 2218,
         "Digital Ocean": 2138,
         "SiteGround": 1840,
-        "Hostinger": 1081,
-        "GoDaddy": 515,
+        "Hostinger": 1082,
+        "GoDaddy": 517,
         "BigScoots": 294,
         "Liquid Web": 212,
         "Elementor Hosting": 201,
