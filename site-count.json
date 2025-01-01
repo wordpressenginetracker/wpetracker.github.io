@@ -1,6 +1,11 @@
 {
-    "siteCount": 33088,
+    "siteCount": 33096,
     "recentlyMoved": [
+        {
+            "domain_name": "njswim.com",
+            "destination": "Liquid Web",
+            "date": "2025-01-01 19:17:56"
+        },
         {
             "domain_name": "deselmsfineart.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "stms.org",
             "destination": "Pressable",
             "date": "2024-12-31 17:19:59"
-        },
-        {
-            "domain_name": "www.musicianshalloffame.com",
-            "destination": "BigScoots",
-            "date": "2024-12-31 16:51:18"
         }
     ],
     "dailyMovedStat": {
@@ -611,11 +611,11 @@
         "Bluehost": 3578,
         "Kinsta": 2224,
         "Digital Ocean": 2141,
-        "SiteGround": 1845,
-        "Hostinger": 1088,
+        "SiteGround": 1846,
+        "Hostinger": 1089,
         "GoDaddy": 525,
         "BigScoots": 294,
-        "Liquid Web": 212,
+        "Liquid Web": 213,
         "Elementor Hosting": 201,
         "Wordify": 149,
         "WordPress.com": 146,
