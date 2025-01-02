@@ -1,6 +1,11 @@
 {
-    "siteCount": 33198,
+    "siteCount": 33199,
     "recentlyMoved": [
+        {
+            "domain_name": "billwatson.net",
+            "destination": "Pressable",
+            "date": "2025-01-02 08:54:08"
+        },
         {
             "domain_name": "jordansbarbershop.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "myadsai.com",
             "destination": "Hostinger",
             "date": "2024-12-31 22:46:32"
-        },
-        {
-            "domain_name": "economosdewolf.com",
-            "destination": "SiteGround",
-            "date": "2024-12-31 22:40:08"
         }
     ],
     "dailyMovedStat": {
@@ -608,7 +608,7 @@
         "2025-01-01": "33166"
     },
     "topDestinationHosts": {
-        "Pressable": 7091,
+        "Pressable": 7092,
         "Bluehost": 3580,
         "Kinsta": 2225,
         "Digital Ocean": 2142,
