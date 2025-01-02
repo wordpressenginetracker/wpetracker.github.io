@@ -1,10 +1,20 @@
 {
-    "siteCount": 33266,
+    "siteCount": 33269,
     "recentlyMoved": [
         {
             "domain_name": "mariemont.org",
             "destination": "GoDaddy",
             "date": "2025-01-02 22:27:50"
+        },
+        {
+            "domain_name": "txpenalcode.com",
+            "destination": "Kinsta",
+            "date": "2025-01-02 22:24:25"
+        },
+        {
+            "domain_name": "moncastcustompaintinganddrywall.ca",
+            "destination": "Bluehost",
+            "date": "2025-01-02 22:11:36"
         },
         {
             "domain_name": "kerringforkenya.org",
@@ -482,16 +492,6 @@
             "date": "2025-01-01 08:25:26"
         },
         {
-            "domain_name": "apiexperts.io",
-            "destination": "Pressable",
-            "date": "2025-01-01 08:22:56"
-        },
-        {
-            "domain_name": "wpeasypay.com",
-            "destination": "Pressable",
-            "date": "2025-01-01 08:19:52"
-        },
-        {
             "domain_name": "gravitymore.com",
             "destination": "Pressable",
             "date": "2025-01-01 08:05:40"
@@ -605,12 +605,13 @@
         "2024-12-29": "32577",
         "2024-12-30": "32689",
         "2024-12-31": "32943",
-        "2025-01-01": "33166"
+        "2025-01-01": "33166",
+        "2025-01-02": "33269"
     },
     "topDestinationHosts": {
         "Pressable": 7094,
-        "Bluehost": 3581,
-        "Kinsta": 2227,
+        "Bluehost": 3582,
+        "Kinsta": 2228,
         "Digital Ocean": 2142,
         "SiteGround": 1850,
         "Hostinger": 1094,
@@ -732,6 +733,7 @@
         "2024-12-29": "689259",
         "2024-12-30": "689405",
         "2024-12-31": "688931",
-        "2025-01-01": "687715"
+        "2025-01-01": "687715",
+        "2025-01-02": "687730"
     }
 }
