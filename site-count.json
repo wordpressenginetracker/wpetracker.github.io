@@ -1,6 +1,11 @@
 {
-    "siteCount": 33218,
+    "siteCount": 33220,
     "recentlyMoved": [
+        {
+            "domain_name": "extremesteamscience.com",
+            "destination": "Hostinger",
+            "date": "2025-01-02 15:09:48"
+        },
         {
             "domain_name": "developer.cheq.ai",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-01-01 04:14:32"
         },
         {
-            "domain_name": "fococomiccon.com",
-            "destination": "Pressable",
-            "date": "2025-01-01 03:58:02"
-        },
-        {
             "domain_name": "alecmfg.com",
             "destination": "Hostinger",
             "date": "2025-01-01 03:50:44"
@@ -613,7 +613,7 @@
         "Kinsta": 2226,
         "Digital Ocean": 2142,
         "SiteGround": 1849,
-        "Hostinger": 1093,
+        "Hostinger": 1094,
         "GoDaddy": 528,
         "BigScoots": 295,
         "Liquid Web": 214,
