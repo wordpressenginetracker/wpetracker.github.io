@@ -1,6 +1,11 @@
 {
-    "siteCount": 33220,
+    "siteCount": 33227,
     "recentlyMoved": [
+        {
+            "domain_name": "phxdw.com",
+            "destination": "BigScoots",
+            "date": "2025-01-02 16:00:17"
+        },
         {
             "domain_name": "extremesteamscience.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.allamericanoilfield.com",
             "destination": "Kinsta",
             "date": "2025-01-01 04:14:32"
-        },
-        {
-            "domain_name": "alecmfg.com",
-            "destination": "Hostinger",
-            "date": "2025-01-01 03:50:44"
         }
     ],
     "dailyMovedStat": {
@@ -615,7 +615,7 @@
         "SiteGround": 1849,
         "Hostinger": 1094,
         "GoDaddy": 528,
-        "BigScoots": 295,
+        "BigScoots": 296,
         "Liquid Web": 214,
         "Elementor Hosting": 201,
         "Wordify": 149,
