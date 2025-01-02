@@ -1,6 +1,11 @@
 {
-    "siteCount": 33234,
+    "siteCount": 33259,
     "recentlyMoved": [
+        {
+            "domain_name": "truesource.com",
+            "destination": "Kinsta",
+            "date": "2025-01-02 20:24:14"
+        },
         {
             "domain_name": "phxdw.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "innerpowermartialarts.com",
             "destination": "Hostinger",
             "date": "2025-01-01 04:53:53"
-        },
-        {
-            "domain_name": "www.allamericanoilfield.com",
-            "destination": "Kinsta",
-            "date": "2025-01-01 04:14:32"
         }
     ],
     "dailyMovedStat": {
@@ -610,7 +610,7 @@
     "topDestinationHosts": {
         "Pressable": 7093,
         "Bluehost": 3581,
-        "Kinsta": 2226,
+        "Kinsta": 2227,
         "Digital Ocean": 2142,
         "SiteGround": 1849,
         "Hostinger": 1094,
