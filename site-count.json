@@ -1,6 +1,16 @@
 {
-    "siteCount": 33199,
+    "siteCount": 33202,
     "recentlyMoved": [
+        {
+            "domain_name": "www.vanyulay.com",
+            "destination": "OVH",
+            "date": "2025-01-02 10:42:24"
+        },
+        {
+            "domain_name": "digitalslowmad.com",
+            "destination": "OVH",
+            "date": "2025-01-02 09:54:27"
+        },
         {
             "domain_name": "billwatson.net",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "oasisoutdoorkitchensllc.com",
             "destination": "GoDaddy",
             "date": "2024-12-31 23:42:21"
-        },
-        {
-            "domain_name": "nickforfoco.com",
-            "destination": "WordPress.com",
-            "date": "2024-12-31 23:06:58"
-        },
-        {
-            "domain_name": "myadsai.com",
-            "destination": "Hostinger",
-            "date": "2024-12-31 22:46:32"
         }
     ],
     "dailyMovedStat": {
@@ -622,7 +622,7 @@
         "WordPress.com": 147,
         "InMotion Hosting": 143,
         "GridPane": 136,
-        "OVH": 109,
+        "OVH": 111,
         "A2 Hosting": 96,
         "Namecheap": 93,
         "Hetzner Online": 92,
