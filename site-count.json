@@ -1,10 +1,20 @@
 {
-    "siteCount": 33216,
+    "siteCount": 33218,
     "recentlyMoved": [
+        {
+            "domain_name": "developer.cheq.ai",
+            "destination": "Kinsta",
+            "date": "2025-01-02 14:33:39"
+        },
         {
             "domain_name": "www.lanashlafer.com",
             "destination": "Hostinger",
             "date": "2025-01-02 13:13:15"
+        },
+        {
+            "domain_name": "stonebankfoods.com",
+            "destination": "SiteGround",
+            "date": "2025-01-02 13:11:51"
         },
         {
             "domain_name": "www.bellfdn.org",
@@ -490,16 +500,6 @@
             "domain_name": "alecmfg.com",
             "destination": "Hostinger",
             "date": "2025-01-01 03:50:44"
-        },
-        {
-            "domain_name": "wearesandsprings.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-01 03:35:41"
-        },
-        {
-            "domain_name": "omidmanufacturing.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-01 03:16:18"
         }
     ],
     "dailyMovedStat": {
@@ -610,9 +610,9 @@
     "topDestinationHosts": {
         "Pressable": 7093,
         "Bluehost": 3581,
-        "Kinsta": 2225,
+        "Kinsta": 2226,
         "Digital Ocean": 2142,
-        "SiteGround": 1848,
+        "SiteGround": 1849,
         "Hostinger": 1093,
         "GoDaddy": 528,
         "BigScoots": 295,
