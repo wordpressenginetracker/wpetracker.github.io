@@ -1,6 +1,11 @@
 {
-    "siteCount": 33185,
+    "siteCount": 33187,
     "recentlyMoved": [
+        {
+            "domain_name": "westtexaschimney.com",
+            "destination": "Hostinger",
+            "date": "2025-01-02 03:43:27"
+        },
         {
             "domain_name": "velocehomes.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "drilltechdrilling.com",
             "destination": "Hostinger",
             "date": "2024-12-31 22:09:34"
-        },
-        {
-            "domain_name": "www.spco.org",
-            "destination": "GoDaddy",
-            "date": "2024-12-31 21:57:14"
         }
     ],
     "dailyMovedStat": {
@@ -613,7 +613,7 @@
         "Kinsta": 2225,
         "Digital Ocean": 2142,
         "SiteGround": 1848,
-        "Hostinger": 1091,
+        "Hostinger": 1092,
         "GoDaddy": 528,
         "BigScoots": 295,
         "Liquid Web": 214,
