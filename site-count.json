@@ -1,6 +1,26 @@
 {
-    "siteCount": 33203,
+    "siteCount": 33210,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bellfdn.org",
+            "destination": "Namecheap",
+            "date": "2025-01-02 12:36:51"
+        },
+        {
+            "domain_name": "fbcmen.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-02 12:01:12"
+        },
+        {
+            "domain_name": "flippingcincy.com",
+            "destination": "Bluehost",
+            "date": "2025-01-02 11:39:38"
+        },
+        {
+            "domain_name": "paymentplanswc.com",
+            "destination": "Pressable",
+            "date": "2025-01-02 11:27:24"
+        },
         {
             "domain_name": "www.vanyulay.com",
             "destination": "OVH",
@@ -480,26 +500,6 @@
             "domain_name": "solovedpets.com",
             "destination": "SiteGround",
             "date": "2025-01-01 01:31:27"
-        },
-        {
-            "domain_name": "rachaelsdesign.com",
-            "destination": "Pressable",
-            "date": "2025-01-01 00:21:42"
-        },
-        {
-            "domain_name": "www.eaglepesteliminators.com",
-            "destination": "Kinsta",
-            "date": "2025-01-01 00:16:58"
-        },
-        {
-            "domain_name": "getajob.ai",
-            "destination": "Hostinger",
-            "date": "2024-12-31 23:45:55"
-        },
-        {
-            "domain_name": "oasisoutdoorkitchensllc.com",
-            "destination": "GoDaddy",
-            "date": "2024-12-31 23:42:21"
         }
     ],
     "dailyMovedStat": {
@@ -608,8 +608,8 @@
         "2025-01-01": "33166"
     },
     "topDestinationHosts": {
-        "Pressable": 7092,
-        "Bluehost": 3580,
+        "Pressable": 7093,
+        "Bluehost": 3581,
         "Kinsta": 2225,
         "Digital Ocean": 2142,
         "SiteGround": 1848,
@@ -620,11 +620,11 @@
         "Elementor Hosting": 201,
         "Wordify": 149,
         "WordPress.com": 147,
-        "InMotion Hosting": 143,
+        "InMotion Hosting": 144,
         "GridPane": 136,
         "OVH": 111,
         "A2 Hosting": 96,
-        "Namecheap": 93,
+        "Namecheap": 94,
         "Hetzner Online": 92,
         "IONOS": 83,
         "DreamHost": 76
