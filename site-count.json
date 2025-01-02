@@ -1,6 +1,11 @@
 {
-    "siteCount": 33181,
+    "siteCount": 33185,
     "recentlyMoved": [
+        {
+            "domain_name": "velocehomes.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-02 02:45:10"
+        },
         {
             "domain_name": "dentonstickerstation.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.spco.org",
             "destination": "GoDaddy",
             "date": "2024-12-31 21:57:14"
-        },
-        {
-            "domain_name": "commercial.chugach.com",
-            "destination": "Kinsta",
-            "date": "2024-12-31 21:05:31"
         }
     ],
     "dailyMovedStat": {
@@ -608,13 +608,13 @@
         "2025-01-01": "33166"
     },
     "topDestinationHosts": {
-        "Pressable": 7090,
+        "Pressable": 7091,
         "Bluehost": 3580,
         "Kinsta": 2225,
         "Digital Ocean": 2142,
         "SiteGround": 1848,
         "Hostinger": 1091,
-        "GoDaddy": 527,
+        "GoDaddy": 528,
         "BigScoots": 295,
         "Liquid Web": 214,
         "Elementor Hosting": 201,
