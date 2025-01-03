@@ -1,6 +1,21 @@
 {
-    "siteCount": 33454,
+    "siteCount": 33460,
     "recentlyMoved": [
+        {
+            "domain_name": "emerickortho.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-03 18:45:13"
+        },
+        {
+            "domain_name": "tmlocksmiths.co.uk",
+            "destination": "Pressable",
+            "date": "2025-01-03 18:17:24"
+        },
+        {
+            "domain_name": "empaqueskreatup.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-03 18:13:32"
+        },
         {
             "domain_name": "clayconwest.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "kerringforkenya.org",
             "destination": "SiteGround",
             "date": "2025-01-02 20:59:04"
-        },
-        {
-            "domain_name": "ithacaunderground.org",
-            "destination": "Pressable",
-            "date": "2025-01-02 20:33:26"
-        },
-        {
-            "domain_name": "truesource.com",
-            "destination": "Kinsta",
-            "date": "2025-01-02 20:24:14"
-        },
-        {
-            "domain_name": "phxdw.com",
-            "destination": "BigScoots",
-            "date": "2025-01-02 16:00:17"
         }
     ],
     "dailyMovedStat": {
@@ -609,13 +609,13 @@
         "2025-01-02": "33269"
     },
     "topDestinationHosts": {
-        "Pressable": 7142,
+        "Pressable": 7143,
         "Bluehost": 3582,
         "Kinsta": 2233,
         "Digital Ocean": 2146,
         "SiteGround": 1866,
         "Hostinger": 1099,
-        "GoDaddy": 532,
+        "GoDaddy": 534,
         "BigScoots": 297,
         "Liquid Web": 215,
         "Elementor Hosting": 202,
