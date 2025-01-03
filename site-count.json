@@ -1,6 +1,11 @@
 {
-    "siteCount": 33269,
+    "siteCount": 33271,
     "recentlyMoved": [
+        {
+            "domain_name": "2easyfreight.com",
+            "destination": "SiteGround",
+            "date": "2025-01-02 23:09:43"
+        },
         {
             "domain_name": "mariemont.org",
             "destination": "GoDaddy",
@@ -492,11 +497,6 @@
             "date": "2025-01-01 08:25:26"
         },
         {
-            "domain_name": "gravitymore.com",
-            "destination": "Pressable",
-            "date": "2025-01-01 08:05:40"
-        },
-        {
             "domain_name": "postsnippets.com",
             "destination": "Pressable",
             "date": "2025-01-01 07:46:15"
@@ -613,7 +613,7 @@
         "Bluehost": 3582,
         "Kinsta": 2228,
         "Digital Ocean": 2142,
-        "SiteGround": 1850,
+        "SiteGround": 1851,
         "Hostinger": 1094,
         "GoDaddy": 529,
         "BigScoots": 296,
