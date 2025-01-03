@@ -1,5 +1,5 @@
 {
-    "siteCount": 33391,
+    "siteCount": 33398,
     "recentlyMoved": [
         {
             "domain_name": "thevertexteam.ca",
@@ -12,9 +12,24 @@
             "date": "2025-01-03 14:26:46"
         },
         {
+            "domain_name": "nlctb.org",
+            "destination": "Pressable",
+            "date": "2025-01-03 14:25:01"
+        },
+        {
             "domain_name": "eae-ae.co.uk",
             "destination": "Pressable",
             "date": "2025-01-03 14:23:27"
+        },
+        {
+            "domain_name": "nenevalleybrewery.com",
+            "destination": "Pressable",
+            "date": "2025-01-03 14:21:32"
+        },
+        {
+            "domain_name": "elbrechtconstruction.com",
+            "destination": "Pressable",
+            "date": "2025-01-03 14:14:11"
         },
         {
             "domain_name": "www.superiorplumbingllctn.com",
@@ -477,21 +492,6 @@
             "date": "2025-01-01 20:46:37"
         },
         {
-            "domain_name": "www.ranchodelreyorthodontics.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-01 20:46:37"
-        },
-        {
-            "domain_name": "www.quaidventures.com",
-            "destination": "DreamHost",
-            "date": "2025-01-01 20:46:37"
-        },
-        {
-            "domain_name": "www.pamsterling.com",
-            "destination": "GridPane",
-            "date": "2025-01-01 20:46:37"
-        },
-        {
             "domain_name": "hrxnetwork.com",
             "destination": "Hostinger",
             "date": "2025-01-01 20:42:21"
@@ -609,7 +609,7 @@
         "2025-01-02": "33269"
     },
     "topDestinationHosts": {
-        "Pressable": 7124,
+        "Pressable": 7128,
         "Bluehost": 3582,
         "Kinsta": 2229,
         "Digital Ocean": 2143,
