@@ -1,6 +1,16 @@
 {
-    "siteCount": 33271,
+    "siteCount": 33274,
     "recentlyMoved": [
+        {
+            "domain_name": "jha-techspace.com",
+            "destination": "SiteGround",
+            "date": "2025-01-03 01:21:50"
+        },
+        {
+            "domain_name": "refrigerationexpress.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-03 00:15:28"
+        },
         {
             "domain_name": "2easyfreight.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.jefffisherwindows.com",
             "destination": "Bluehost",
             "date": "2025-01-01 08:39:36"
-        },
-        {
-            "domain_name": "www.gatorgaragedoorrepair.com",
-            "destination": "Kinsta",
-            "date": "2025-01-01 08:25:26"
-        },
-        {
-            "domain_name": "postsnippets.com",
-            "destination": "Pressable",
-            "date": "2025-01-01 07:46:15"
         }
     ],
     "dailyMovedStat": {
@@ -613,9 +613,9 @@
         "Bluehost": 3582,
         "Kinsta": 2228,
         "Digital Ocean": 2142,
-        "SiteGround": 1851,
+        "SiteGround": 1852,
         "Hostinger": 1094,
-        "GoDaddy": 529,
+        "GoDaddy": 530,
         "BigScoots": 296,
         "Liquid Web": 214,
         "Elementor Hosting": 201,
