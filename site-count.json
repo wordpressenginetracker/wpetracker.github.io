@@ -1,6 +1,21 @@
 {
-    "siteCount": 33441,
+    "siteCount": 33454,
     "recentlyMoved": [
+        {
+            "domain_name": "clayconwest.com",
+            "destination": "SiteGround",
+            "date": "2025-01-03 17:55:16"
+        },
+        {
+            "domain_name": "lateamrealestate.ca",
+            "destination": "SiteGround",
+            "date": "2025-01-03 17:52:23"
+        },
+        {
+            "domain_name": "dbaresults.com",
+            "destination": "Kinsta",
+            "date": "2025-01-03 17:33:40"
+        },
         {
             "domain_name": "socialdealer.com",
             "destination": "BigScoots",
@@ -10,6 +25,11 @@
             "domain_name": "snowandsons.com",
             "destination": "Hostinger",
             "date": "2025-01-03 17:24:03"
+        },
+        {
+            "domain_name": "lithespeed.com",
+            "destination": "GridPane",
+            "date": "2025-01-03 17:18:08"
         },
         {
             "domain_name": "www.menopause-awareness.com",
@@ -480,26 +500,6 @@
             "domain_name": "phxdw.com",
             "destination": "BigScoots",
             "date": "2025-01-02 16:00:17"
-        },
-        {
-            "domain_name": "extremesteamscience.com",
-            "destination": "Hostinger",
-            "date": "2025-01-02 15:09:48"
-        },
-        {
-            "domain_name": "developer.cheq.ai",
-            "destination": "Kinsta",
-            "date": "2025-01-02 14:33:39"
-        },
-        {
-            "domain_name": "www.lanashlafer.com",
-            "destination": "Hostinger",
-            "date": "2025-01-02 13:13:15"
-        },
-        {
-            "domain_name": "stonebankfoods.com",
-            "destination": "SiteGround",
-            "date": "2025-01-02 13:11:51"
         }
     ],
     "dailyMovedStat": {
@@ -611,18 +611,18 @@
     "topDestinationHosts": {
         "Pressable": 7142,
         "Bluehost": 3582,
-        "Kinsta": 2232,
+        "Kinsta": 2233,
         "Digital Ocean": 2146,
-        "SiteGround": 1864,
-        "Hostinger": 1098,
+        "SiteGround": 1866,
+        "Hostinger": 1099,
         "GoDaddy": 532,
-        "BigScoots": 296,
+        "BigScoots": 297,
         "Liquid Web": 215,
         "Elementor Hosting": 202,
         "Wordify": 149,
         "WordPress.com": 147,
         "InMotion Hosting": 144,
-        "GridPane": 137,
+        "GridPane": 138,
         "OVH": 112,
         "A2 Hosting": 96,
         "Namecheap": 95,
