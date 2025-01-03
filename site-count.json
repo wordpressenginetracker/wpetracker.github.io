@@ -1,10 +1,30 @@
 {
-    "siteCount": 33502,
+    "siteCount": 33511,
     "recentlyMoved": [
+        {
+            "domain_name": "intranet.nuvationbio.com",
+            "destination": "Hostinger",
+            "date": "2025-01-03 21:17:21"
+        },
         {
             "domain_name": "groupchair.com",
             "destination": "GoDaddy",
             "date": "2025-01-03 20:37:35"
+        },
+        {
+            "domain_name": "sagon-phior.com",
+            "destination": "SiteGround",
+            "date": "2025-01-03 20:30:02"
+        },
+        {
+            "domain_name": "safemama.com",
+            "destination": "SiteGround",
+            "date": "2025-01-03 20:30:02"
+        },
+        {
+            "domain_name": "sanramondivorceattorney.com",
+            "destination": "Hostinger",
+            "date": "2025-01-03 20:25:24"
         },
         {
             "domain_name": "precisionmc.net",
@@ -480,26 +500,6 @@
             "domain_name": "www.ajk-jatkokoulutus.fi",
             "destination": "Hetzner Online",
             "date": "2025-01-03 07:34:52"
-        },
-        {
-            "domain_name": "mycred.me",
-            "destination": "Pressable",
-            "date": "2025-01-03 06:21:08"
-        },
-        {
-            "domain_name": "eddieobriensgrille.com",
-            "destination": "Hostinger",
-            "date": "2025-01-03 06:02:04"
-        },
-        {
-            "domain_name": "simonmerchant.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-03 05:24:54"
-        },
-        {
-            "domain_name": "www.amstatisticalconsulting.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-01-03 03:48:46"
         }
     ],
     "dailyMovedStat": {
@@ -613,8 +613,8 @@
         "Bluehost": 3582,
         "Kinsta": 2234,
         "Digital Ocean": 2148,
-        "SiteGround": 1866,
-        "Hostinger": 1100,
+        "SiteGround": 1868,
+        "Hostinger": 1102,
         "GoDaddy": 535,
         "BigScoots": 298,
         "Liquid Web": 216,
