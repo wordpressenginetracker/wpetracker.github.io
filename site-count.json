@@ -1,6 +1,61 @@
 {
-    "siteCount": 33460,
+    "siteCount": 33502,
     "recentlyMoved": [
+        {
+            "domain_name": "groupchair.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-03 20:37:35"
+        },
+        {
+            "domain_name": "precisionmc.net",
+            "destination": "HostGator",
+            "date": "2025-01-03 20:24:21"
+        },
+        {
+            "domain_name": "gboroplaters.com",
+            "destination": "HostGator",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "game.jquest.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "www.nebeautifulmind.com",
+            "destination": "Liquid Web",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "www.valleywidecoop.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "www.culligansanantonio.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "www.celiatombalakian.net",
+            "destination": "DreamHost",
+            "date": "2025-01-03 20:23:49"
+        },
+        {
+            "domain_name": "petekingaz.com",
+            "destination": "BigScoots",
+            "date": "2025-01-03 20:06:27"
+        },
+        {
+            "domain_name": "aigenstock.com",
+            "destination": "Hostinger",
+            "date": "2025-01-03 20:03:01"
+        },
+        {
+            "domain_name": "www.bellevuelifespring.org",
+            "destination": "Kinsta",
+            "date": "2025-01-03 19:49:27"
+        },
         {
             "domain_name": "emerickortho.com",
             "destination": "GoDaddy",
@@ -445,61 +500,6 @@
             "domain_name": "www.amstatisticalconsulting.com",
             "destination": "Elementor Hosting",
             "date": "2025-01-03 03:48:46"
-        },
-        {
-            "domain_name": "vernovis.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 02:57:51"
-        },
-        {
-            "domain_name": "endswellfuneralhome.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 02:43:49"
-        },
-        {
-            "domain_name": "timmerelectrical.com",
-            "destination": "Kinsta",
-            "date": "2025-01-03 02:18:48"
-        },
-        {
-            "domain_name": "marwayneag.com",
-            "destination": "Namecheap",
-            "date": "2025-01-03 02:15:27"
-        },
-        {
-            "domain_name": "jha-techspace.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 01:21:50"
-        },
-        {
-            "domain_name": "refrigerationexpress.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-03 00:15:28"
-        },
-        {
-            "domain_name": "2easyfreight.com",
-            "destination": "SiteGround",
-            "date": "2025-01-02 23:09:43"
-        },
-        {
-            "domain_name": "mariemont.org",
-            "destination": "GoDaddy",
-            "date": "2025-01-02 22:27:50"
-        },
-        {
-            "domain_name": "txpenalcode.com",
-            "destination": "Kinsta",
-            "date": "2025-01-02 22:24:25"
-        },
-        {
-            "domain_name": "moncastcustompaintinganddrywall.ca",
-            "destination": "Bluehost",
-            "date": "2025-01-02 22:11:36"
-        },
-        {
-            "domain_name": "kerringforkenya.org",
-            "destination": "SiteGround",
-            "date": "2025-01-02 20:59:04"
         }
     ],
     "dailyMovedStat": {
@@ -611,13 +611,13 @@
     "topDestinationHosts": {
         "Pressable": 7143,
         "Bluehost": 3582,
-        "Kinsta": 2233,
-        "Digital Ocean": 2146,
+        "Kinsta": 2234,
+        "Digital Ocean": 2148,
         "SiteGround": 1866,
-        "Hostinger": 1099,
-        "GoDaddy": 534,
-        "BigScoots": 297,
-        "Liquid Web": 215,
+        "Hostinger": 1100,
+        "GoDaddy": 535,
+        "BigScoots": 298,
+        "Liquid Web": 216,
         "Elementor Hosting": 202,
         "Wordify": 149,
         "WordPress.com": 147,
@@ -626,9 +626,9 @@
         "OVH": 112,
         "A2 Hosting": 96,
         "Namecheap": 95,
-        "Hetzner Online": 93,
+        "Hetzner Online": 94,
         "IONOS": 83,
-        "DreamHost": 77
+        "DreamHost": 78
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
