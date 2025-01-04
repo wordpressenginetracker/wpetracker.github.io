@@ -1,10 +1,25 @@
 {
-    "siteCount": 33693,
+    "siteCount": 33696,
     "recentlyMoved": [
+        {
+            "domain_name": "enviromerica.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-04 18:39:15"
+        },
         {
             "domain_name": "www.theocnutritionist.com",
             "destination": "GoDaddy",
             "date": "2025-01-04 18:25:40"
+        },
+        {
+            "domain_name": "myheadcoachteam.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 18:23:45"
+        },
+        {
+            "domain_name": "modernpavingpros.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 18:05:01"
         },
         {
             "domain_name": "dymtraining.com",
@@ -482,24 +497,9 @@
             "date": "2025-01-03 21:56:41"
         },
         {
-            "domain_name": "stachegrooming.com",
-            "destination": "Pressable",
-            "date": "2025-01-03 21:37:31"
-        },
-        {
             "domain_name": "luxuryhomebuildersscottsdale.com",
             "destination": "GoDaddy",
             "date": "2025-01-03 21:31:47"
-        },
-        {
-            "domain_name": "www.share-talk.com",
-            "destination": "Pressable",
-            "date": "2025-01-03 21:26:00"
-        },
-        {
-            "domain_name": "leetondentalsurgery.au",
-            "destination": "SiteGround",
-            "date": "2025-01-03 21:08:54"
         }
     ],
     "dailyMovedStat": {
@@ -610,7 +610,7 @@
         "2025-01-03": "33531"
     },
     "topDestinationHosts": {
-        "Pressable": 7175,
+        "Pressable": 7177,
         "Bluehost": 3591,
         "Kinsta": 2237,
         "Digital Ocean": 2154,
@@ -621,8 +621,8 @@
         "Liquid Web": 218,
         "Elementor Hosting": 202,
         "Wordify": 149,
-        "WordPress.com": 147,
-        "InMotion Hosting": 145,
+        "WordPress.com": 148,
+        "InMotion Hosting": 146,
         "GridPane": 138,
         "OVH": 112,
         "A2 Hosting": 97,
