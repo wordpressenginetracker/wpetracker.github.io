@@ -1,5 +1,5 @@
 {
-    "siteCount": 33642,
+    "siteCount": 33645,
     "recentlyMoved": [
         {
             "domain_name": "drserna.com",
@@ -10,6 +10,16 @@
             "domain_name": "mhiroof.com",
             "destination": "GoDaddy",
             "date": "2025-01-04 14:11:37"
+        },
+        {
+            "domain_name": "mystory.waterfire.org",
+            "destination": "SiteGround",
+            "date": "2025-01-04 14:07:58"
+        },
+        {
+            "domain_name": "myrapidfire.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-04 14:07:58"
         },
         {
             "domain_name": "mikecallahancoaching.com",
@@ -487,16 +497,6 @@
             "date": "2025-01-03 17:09:06"
         },
         {
-            "domain_name": "rwnpumpfab.com",
-            "destination": "Kinsta",
-            "date": "2025-01-03 17:09:06"
-        },
-        {
-            "domain_name": "salon-help.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-03 16:58:56"
-        },
-        {
             "domain_name": "brucefox.com",
             "destination": "Pressable",
             "date": "2025-01-03 16:53:05"
@@ -614,9 +614,9 @@
         "Bluehost": 3590,
         "Kinsta": 2237,
         "Digital Ocean": 2152,
-        "SiteGround": 1884,
+        "SiteGround": 1885,
         "Hostinger": 1108,
-        "GoDaddy": 541,
+        "GoDaddy": 542,
         "BigScoots": 299,
         "Liquid Web": 216,
         "Elementor Hosting": 202,
