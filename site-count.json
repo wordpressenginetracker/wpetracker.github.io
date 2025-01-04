@@ -1,6 +1,31 @@
 {
-    "siteCount": 33531,
+    "siteCount": 33543,
     "recentlyMoved": [
+        {
+            "domain_name": "graeberandcompany.com",
+            "destination": "BigScoots",
+            "date": "2025-01-04 00:13:31"
+        },
+        {
+            "domain_name": "www.safetycompromises.com",
+            "destination": "Bluehost",
+            "date": "2025-01-03 23:58:07"
+        },
+        {
+            "domain_name": "vtstrongmerch.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-03 23:56:10"
+        },
+        {
+            "domain_name": "freemannursery.com",
+            "destination": "Hostinger",
+            "date": "2025-01-03 23:29:08"
+        },
+        {
+            "domain_name": "wheelchairtipovers.com",
+            "destination": "Bluehost",
+            "date": "2025-01-03 23:27:01"
+        },
         {
             "domain_name": "executivedefenders.com",
             "destination": "Namecheap",
@@ -467,11 +492,6 @@
             "date": "2025-01-03 11:58:06"
         },
         {
-            "domain_name": "www.akassociates911.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-03 11:50:59"
-        },
-        {
             "domain_name": "archive.cprekent.org.uk",
             "destination": "Pressable",
             "date": "2025-01-03 11:47:00"
@@ -480,26 +500,6 @@
             "domain_name": "nyfty.co.uk",
             "destination": "Pressable",
             "date": "2025-01-03 11:28:36"
-        },
-        {
-            "domain_name": "tvadvertising.agency",
-            "destination": "Pressable",
-            "date": "2025-01-03 10:41:56"
-        },
-        {
-            "domain_name": "ecocleanpainting.com",
-            "destination": "GridPane",
-            "date": "2025-01-03 10:15:33"
-        },
-        {
-            "domain_name": "ecgrove.org",
-            "destination": "Pressable",
-            "date": "2025-01-03 10:15:33"
-        },
-        {
-            "domain_name": "empowercharter.org",
-            "destination": "Pressable",
-            "date": "2025-01-03 10:04:10"
         }
     ],
     "dailyMovedStat": {
@@ -611,13 +611,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 7148,
-        "Bluehost": 3584,
+        "Bluehost": 3586,
         "Kinsta": 2234,
-        "Digital Ocean": 2148,
+        "Digital Ocean": 2149,
         "SiteGround": 1869,
-        "Hostinger": 1103,
+        "Hostinger": 1104,
         "GoDaddy": 536,
-        "BigScoots": 298,
+        "BigScoots": 299,
         "Liquid Web": 216,
         "Elementor Hosting": 202,
         "Wordify": 149,
