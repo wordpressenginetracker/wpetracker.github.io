@@ -1,6 +1,21 @@
 {
-    "siteCount": 33753,
+    "siteCount": 33768,
     "recentlyMoved": [
+        {
+            "domain_name": "www.inspector55.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 21:04:42"
+        },
+        {
+            "domain_name": "www.jcmspecialtyservices.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 21:02:31"
+        },
+        {
+            "domain_name": "www.dakinsellacompany.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 20:56:18"
+        },
         {
             "domain_name": "precisionop.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "customsnacksolutions.com",
             "destination": "SiteGround",
             "date": "2025-01-04 05:37:25"
-        },
-        {
-            "domain_name": "seascapelamps.com",
-            "destination": "Kinsta",
-            "date": "2025-01-04 04:46:56"
-        },
-        {
-            "domain_name": "pcseedplant.com",
-            "destination": "Namecheap",
-            "date": "2025-01-04 04:07:08"
-        },
-        {
-            "domain_name": "peterboroughweb.design",
-            "destination": "Pressable",
-            "date": "2025-01-04 04:01:53"
         }
     ],
     "dailyMovedStat": {
@@ -610,14 +610,14 @@
         "2025-01-03": "33531"
     },
     "topDestinationHosts": {
-        "Pressable": 7179,
+        "Pressable": 7182,
         "Bluehost": 3594,
         "Kinsta": 2239,
         "Digital Ocean": 2157,
         "SiteGround": 1890,
         "Hostinger": 1110,
         "GoDaddy": 548,
-        "BigScoots": 300,
+        "BigScoots": 301,
         "Liquid Web": 220,
         "Elementor Hosting": 203,
         "Wordify": 149,
