@@ -1,10 +1,15 @@
 {
-    "siteCount": 33568,
+    "siteCount": 33570,
     "recentlyMoved": [
         {
             "domain_name": "midwestsnack.com",
             "destination": "SiteGround",
             "date": "2025-01-04 06:38:17"
+        },
+        {
+            "domain_name": "newdesigngroup.co.uk",
+            "destination": "Pressable",
+            "date": "2025-01-04 06:26:43"
         },
         {
             "domain_name": "customsnacksolutions.com",
@@ -482,11 +487,6 @@
             "date": "2025-01-03 13:08:19"
         },
         {
-            "domain_name": "rinascitahomes.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 12:58:42"
-        },
-        {
             "domain_name": "calledtoaction.nlctb.org",
             "destination": "Pressable",
             "date": "2025-01-03 12:56:06"
@@ -610,11 +610,11 @@
         "2025-01-03": "33531"
     },
     "topDestinationHosts": {
-        "Pressable": 7150,
+        "Pressable": 7151,
         "Bluehost": 3586,
         "Kinsta": 2236,
         "Digital Ocean": 2151,
-        "SiteGround": 1870,
+        "SiteGround": 1871,
         "Hostinger": 1104,
         "GoDaddy": 538,
         "BigScoots": 299,
