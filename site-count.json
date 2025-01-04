@@ -1,6 +1,11 @@
 {
-    "siteCount": 33546,
+    "siteCount": 33549,
     "recentlyMoved": [
+        {
+            "domain_name": "thedmsp.com",
+            "destination": "Kinsta",
+            "date": "2025-01-04 02:20:17"
+        },
         {
             "domain_name": "graeberandcompany.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "archive.cprekent.org.uk",
             "destination": "Pressable",
             "date": "2025-01-03 11:47:00"
-        },
-        {
-            "domain_name": "nyfty.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-03 11:28:36"
         }
     ],
     "dailyMovedStat": {
@@ -612,7 +612,7 @@
     "topDestinationHosts": {
         "Pressable": 7148,
         "Bluehost": 3586,
-        "Kinsta": 2234,
+        "Kinsta": 2235,
         "Digital Ocean": 2149,
         "SiteGround": 1869,
         "Hostinger": 1104,
