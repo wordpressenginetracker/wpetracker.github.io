@@ -1,6 +1,21 @@
 {
-    "siteCount": 33598,
+    "siteCount": 33602,
     "recentlyMoved": [
+        {
+            "domain_name": "networksrhodeisland.org",
+            "destination": "SiteGround",
+            "date": "2025-01-04 10:48:40"
+        },
+        {
+            "domain_name": "eliteconstructionremodeling.com",
+            "destination": "Bluehost",
+            "date": "2025-01-04 10:27:54"
+        },
+        {
+            "domain_name": "enginecreativestudio.com",
+            "destination": "HostGator",
+            "date": "2025-01-04 10:09:00"
+        },
         {
             "domain_name": "crossfitmusketeers.de",
             "destination": "Pressable",
@@ -477,29 +492,14 @@
             "date": "2025-01-03 15:25:24"
         },
         {
-            "domain_name": "thevertexteam.ca",
-            "destination": "SiteGround",
-            "date": "2025-01-03 14:31:27"
-        },
-        {
             "domain_name": "nlctb.org",
             "destination": "Pressable",
             "date": "2025-01-03 14:25:01"
         },
         {
-            "domain_name": "eae-ae.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-03 14:23:27"
-        },
-        {
             "domain_name": "nenevalleybrewery.com",
             "destination": "Pressable",
             "date": "2025-01-03 14:21:32"
-        },
-        {
-            "domain_name": "elbrechtconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-01-03 14:14:11"
         }
     ],
     "dailyMovedStat": {
@@ -610,11 +610,11 @@
         "2025-01-03": "33531"
     },
     "topDestinationHosts": {
-        "Pressable": 7161,
-        "Bluehost": 3589,
+        "Pressable": 7162,
+        "Bluehost": 3590,
         "Kinsta": 2236,
         "Digital Ocean": 2151,
-        "SiteGround": 1872,
+        "SiteGround": 1873,
         "Hostinger": 1105,
         "GoDaddy": 538,
         "BigScoots": 299,
