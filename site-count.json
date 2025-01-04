@@ -1,6 +1,11 @@
 {
-    "siteCount": 33560,
+    "siteCount": 33564,
     "recentlyMoved": [
+        {
+            "domain_name": "seascapelamps.com",
+            "destination": "Kinsta",
+            "date": "2025-01-04 04:46:56"
+        },
         {
             "domain_name": "airrace.org",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "safeguardssinc.com",
             "destination": "Hostinger",
             "date": "2025-01-03 12:36:35"
-        },
-        {
-            "domain_name": "www.dallmannsystems.com",
-            "destination": "Pressable",
-            "date": "2025-01-03 12:06:59"
         }
     ],
     "dailyMovedStat": {
@@ -612,7 +612,7 @@
     "topDestinationHosts": {
         "Pressable": 7150,
         "Bluehost": 3586,
-        "Kinsta": 2235,
+        "Kinsta": 2236,
         "Digital Ocean": 2151,
         "SiteGround": 1869,
         "Hostinger": 1104,
