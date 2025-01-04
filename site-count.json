@@ -1,10 +1,35 @@
 {
-    "siteCount": 33684,
+    "siteCount": 33693,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theocnutritionist.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-04 18:25:40"
+        },
+        {
+            "domain_name": "dymtraining.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-04 17:59:29"
+        },
+        {
+            "domain_name": "ctvalleyhomeimprovement.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 17:43:04"
+        },
+        {
+            "domain_name": "klasystems.com",
+            "destination": "Pressable",
+            "date": "2025-01-04 17:37:53"
+        },
         {
             "domain_name": "shop.gwbcrane.com",
             "destination": "Liquid Web",
             "date": "2025-01-04 17:33:28"
+        },
+        {
+            "domain_name": "crossfitexpedition.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-04 17:32:32"
         },
         {
             "domain_name": "campkaleo.org",
@@ -15,6 +40,11 @@
             "domain_name": "www.falconnier.net",
             "destination": "Pressable",
             "date": "2025-01-04 17:10:36"
+        },
+        {
+            "domain_name": "www.nationalrestore.net",
+            "destination": "Pressable",
+            "date": "2025-01-04 17:07:19"
         },
         {
             "domain_name": "gtfundmanagers.com",
@@ -467,39 +497,9 @@
             "date": "2025-01-03 21:26:00"
         },
         {
-            "domain_name": "intranet.nuvationbio.com",
-            "destination": "Hostinger",
-            "date": "2025-01-03 21:17:21"
-        },
-        {
             "domain_name": "leetondentalsurgery.au",
             "destination": "SiteGround",
             "date": "2025-01-03 21:08:54"
-        },
-        {
-            "domain_name": "groupchair.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-03 20:37:35"
-        },
-        {
-            "domain_name": "sagon-phior.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 20:30:02"
-        },
-        {
-            "domain_name": "safemama.com",
-            "destination": "SiteGround",
-            "date": "2025-01-03 20:30:02"
-        },
-        {
-            "domain_name": "sanramondivorceattorney.com",
-            "destination": "Hostinger",
-            "date": "2025-01-03 20:25:24"
-        },
-        {
-            "domain_name": "gboroplaters.com",
-            "destination": "HostGator",
-            "date": "2025-01-03 20:23:49"
         }
     ],
     "dailyMovedStat": {
@@ -610,13 +610,13 @@
         "2025-01-03": "33531"
     },
     "topDestinationHosts": {
-        "Pressable": 7172,
+        "Pressable": 7175,
         "Bluehost": 3591,
         "Kinsta": 2237,
         "Digital Ocean": 2154,
         "SiteGround": 1889,
         "Hostinger": 1110,
-        "GoDaddy": 544,
+        "GoDaddy": 546,
         "BigScoots": 300,
         "Liquid Web": 218,
         "Elementor Hosting": 202,
