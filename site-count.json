@@ -1,10 +1,15 @@
 {
-    "siteCount": 33868,
+    "siteCount": 33871,
     "recentlyMoved": [
         {
             "domain_name": "cdn2.headlesshostman.com",
             "destination": "SiteGround",
             "date": "2025-01-05 21:44:02"
+        },
+        {
+            "domain_name": "licenseddecor.com",
+            "destination": "Hetzner Online",
+            "date": "2025-01-05 21:12:46"
         },
         {
             "domain_name": "byerscollective.com",
@@ -492,11 +497,6 @@
             "date": "2025-01-04 13:09:56"
         },
         {
-            "domain_name": "igniteprovidence.com",
-            "destination": "SiteGround",
-            "date": "2025-01-04 13:01:06"
-        },
-        {
             "domain_name": "www.keaneconstruction.com",
             "destination": "Pressable",
             "date": "2025-01-04 12:36:36"
@@ -628,7 +628,7 @@
         "OVH": 112,
         "A2 Hosting": 98,
         "Namecheap": 98,
-        "Hetzner Online": 95,
+        "Hetzner Online": 96,
         "IONOS": 83,
         "DreamHost": 78
     },
