@@ -1,6 +1,11 @@
 {
-    "siteCount": 33871,
+    "siteCount": 33872,
     "recentlyMoved": [
+        {
+            "domain_name": "tricity-cardiology.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-05 22:48:25"
+        },
         {
             "domain_name": "cdn2.headlesshostman.com",
             "destination": "SiteGround",
@@ -482,11 +487,6 @@
             "date": "2025-01-04 13:37:22"
         },
         {
-            "domain_name": "bunny.waterfire.org",
-            "destination": "SiteGround",
-            "date": "2025-01-04 13:20:33"
-        },
-        {
             "domain_name": "castleofknights.com",
             "destination": "SiteGround",
             "date": "2025-01-04 13:20:22"
@@ -608,7 +608,8 @@
         "2025-01-01": "33166",
         "2025-01-02": "33269",
         "2025-01-03": "33531",
-        "2025-01-04": "33774"
+        "2025-01-04": "33774",
+        "2025-01-05": "33872"
     },
     "topDestinationHosts": {
         "Pressable": 7187,
@@ -617,7 +618,7 @@
         "Digital Ocean": 2160,
         "SiteGround": 1901,
         "Hostinger": 1117,
-        "GoDaddy": 550,
+        "GoDaddy": 551,
         "BigScoots": 301,
         "Liquid Web": 220,
         "Elementor Hosting": 203,
@@ -738,6 +739,7 @@
         "2025-01-01": "687715",
         "2025-01-02": "687730",
         "2025-01-03": "687184",
-        "2025-01-04": "686846"
+        "2025-01-04": "686846",
+        "2025-01-05": "687164"
     }
 }
