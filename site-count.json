@@ -1,6 +1,11 @@
 {
-    "siteCount": 33823,
+    "siteCount": 33825,
     "recentlyMoved": [
+        {
+            "domain_name": "allwoodstreeservice.net",
+            "destination": "GoDaddy",
+            "date": "2025-01-05 15:42:25"
+        },
         {
             "domain_name": "thefreeks.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "enginecreativestudio.com",
             "destination": "HostGator",
             "date": "2025-01-04 10:09:00"
-        },
-        {
-            "domain_name": "drwermeling.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 09:52:59"
         }
     ],
     "dailyMovedStat": {
@@ -617,7 +617,7 @@
         "Digital Ocean": 2159,
         "SiteGround": 1893,
         "Hostinger": 1115,
-        "GoDaddy": 548,
+        "GoDaddy": 549,
         "BigScoots": 301,
         "Liquid Web": 220,
         "Elementor Hosting": 203,
