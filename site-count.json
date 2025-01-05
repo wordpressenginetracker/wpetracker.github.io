@@ -1,6 +1,11 @@
 {
-    "siteCount": 33774,
+    "siteCount": 33776,
     "recentlyMoved": [
+        {
+            "domain_name": "fuji-9.com",
+            "destination": "Bluehost",
+            "date": "2025-01-04 23:33:15"
+        },
         {
             "domain_name": "eastexcu.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "peakfitnesshuskisson.com",
             "destination": "Pressable",
             "date": "2025-01-04 07:50:14"
-        },
-        {
-            "domain_name": "newdesigngroup.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-04 06:26:43"
         }
     ],
     "dailyMovedStat": {
@@ -612,7 +612,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 7183,
-        "Bluehost": 3594,
+        "Bluehost": 3595,
         "Kinsta": 2239,
         "Digital Ocean": 2157,
         "SiteGround": 1890,
