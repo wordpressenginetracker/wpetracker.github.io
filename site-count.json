@@ -1,6 +1,26 @@
 {
-    "siteCount": 33791,
+    "siteCount": 33801,
     "recentlyMoved": [
+        {
+            "domain_name": "jcelectricalpros.com",
+            "destination": "Pressable",
+            "date": "2025-01-05 04:12:59"
+        },
+        {
+            "domain_name": "valleysmilesorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2025-01-05 04:00:20"
+        },
+        {
+            "domain_name": "kaitlynvu.com",
+            "destination": "Namecheap",
+            "date": "2025-01-05 03:57:45"
+        },
+        {
+            "domain_name": "loopholepub.com",
+            "destination": "Pressable",
+            "date": "2025-01-05 03:43:34"
+        },
         {
             "domain_name": "eastlakedoorsandmore.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-01-04 09:36:01"
         },
         {
-            "domain_name": "chilliobsessed.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 09:35:21"
-        },
-        {
-            "domain_name": "cleaning-corp.com.au",
-            "destination": "Bluehost",
-            "date": "2025-01-04 09:34:32"
-        },
-        {
-            "domain_name": "shakethedust.life",
-            "destination": "Pressable",
-            "date": "2025-01-04 09:22:20"
-        },
-        {
             "domain_name": "suburbanfenceinc.com",
             "destination": "Bluehost",
             "date": "2025-01-04 09:21:47"
-        },
-        {
-            "domain_name": "seniorologie.com",
-            "destination": "Bluehost",
-            "date": "2025-01-04 08:58:42"
         }
     ],
     "dailyMovedStat": {
@@ -611,9 +611,9 @@
         "2025-01-04": "33774"
     },
     "topDestinationHosts": {
-        "Pressable": 7183,
+        "Pressable": 7185,
         "Bluehost": 3595,
-        "Kinsta": 2239,
+        "Kinsta": 2240,
         "Digital Ocean": 2158,
         "SiteGround": 1892,
         "Hostinger": 1114,
@@ -626,8 +626,8 @@
         "InMotion Hosting": 146,
         "GridPane": 138,
         "OVH": 112,
+        "Namecheap": 98,
         "A2 Hosting": 97,
-        "Namecheap": 97,
         "Hetzner Online": 95,
         "IONOS": 83,
         "DreamHost": 78
