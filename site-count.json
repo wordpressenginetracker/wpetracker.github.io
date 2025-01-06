@@ -1,6 +1,11 @@
 {
-    "siteCount": 33914,
+    "siteCount": 33915,
     "recentlyMoved": [
+        {
+            "domain_name": "dogs4rescue.co.uk",
+            "destination": "Pressable",
+            "date": "2025-01-06 09:59:53"
+        },
         {
             "domain_name": "hamptons.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mystory.waterfire.org",
             "destination": "SiteGround",
             "date": "2025-01-04 14:07:58"
-        },
-        {
-            "domain_name": "myrapidfire.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-04 14:07:58"
         }
     ],
     "dailyMovedStat": {
@@ -612,7 +612,7 @@
         "2025-01-05": "33872"
     },
     "topDestinationHosts": {
-        "Pressable": 7188,
+        "Pressable": 7189,
         "Bluehost": 3599,
         "Kinsta": 2241,
         "Digital Ocean": 2160,
