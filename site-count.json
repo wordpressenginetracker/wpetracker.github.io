@@ -1,6 +1,11 @@
 {
-    "siteCount": 33926,
+    "siteCount": 33927,
     "recentlyMoved": [
+        {
+            "domain_name": "coreymorris.com",
+            "destination": "Kinsta",
+            "date": "2025-01-06 13:18:08"
+        },
         {
             "domain_name": "callgrillcleaner.com",
             "destination": "Hostinger",
@@ -467,11 +472,6 @@
             "date": "2025-01-04 16:19:51"
         },
         {
-            "domain_name": "pennspurchase.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 16:18:44"
-        },
-        {
             "domain_name": "reverendcallahan.com",
             "destination": "SiteGround",
             "date": "2025-01-04 16:17:20"
@@ -614,7 +614,7 @@
     "topDestinationHosts": {
         "Pressable": 7191,
         "Bluehost": 3599,
-        "Kinsta": 2242,
+        "Kinsta": 2243,
         "Digital Ocean": 2160,
         "SiteGround": 1908,
         "Hostinger": 1119,
