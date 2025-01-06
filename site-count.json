@@ -1,6 +1,11 @@
 {
-    "siteCount": 33884,
+    "siteCount": 33890,
     "recentlyMoved": [
+        {
+            "domain_name": "limitlessinsgroup.com",
+            "destination": "HostGator",
+            "date": "2025-01-06 02:10:17"
+        },
         {
             "domain_name": "kb.advantageanywhere.com",
             "destination": "Bluehost",
@@ -487,11 +492,6 @@
             "date": "2025-01-04 13:43:16"
         },
         {
-            "domain_name": "www.thrillmechanical.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 13:41:27"
-        },
-        {
             "domain_name": "doctorenglund.com",
             "destination": "GoDaddy",
             "date": "2025-01-04 13:41:26"
@@ -613,7 +613,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 7188,
-        "Bluehost": 3597,
+        "Bluehost": 3598,
         "Kinsta": 2241,
         "Digital Ocean": 2160,
         "SiteGround": 1901,
