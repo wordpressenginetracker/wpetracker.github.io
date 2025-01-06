@@ -1,6 +1,21 @@
 {
-    "siteCount": 33873,
+    "siteCount": 33884,
     "recentlyMoved": [
+        {
+            "domain_name": "kb.advantageanywhere.com",
+            "destination": "Bluehost",
+            "date": "2025-01-06 01:40:05"
+        },
+        {
+            "domain_name": "romanhomeimprovement.com",
+            "destination": "Pressable",
+            "date": "2025-01-06 00:57:48"
+        },
+        {
+            "domain_name": "pulpitrock.com",
+            "destination": "Kinsta",
+            "date": "2025-01-06 00:34:46"
+        },
         {
             "domain_name": "tricity-cardiology.com",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "thedigitaltransformist.com",
             "destination": "Digital Ocean",
             "date": "2025-01-04 13:37:22"
-        },
-        {
-            "domain_name": "castleofknights.com",
-            "destination": "SiteGround",
-            "date": "2025-01-04 13:20:22"
-        },
-        {
-            "domain_name": "laurelbernstein.com",
-            "destination": "SiteGround",
-            "date": "2025-01-04 13:09:56"
-        },
-        {
-            "domain_name": "www.keaneconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 12:36:36"
         }
     ],
     "dailyMovedStat": {
@@ -612,9 +612,9 @@
         "2025-01-05": "33872"
     },
     "topDestinationHosts": {
-        "Pressable": 7187,
+        "Pressable": 7188,
         "Bluehost": 3597,
-        "Kinsta": 2240,
+        "Kinsta": 2241,
         "Digital Ocean": 2160,
         "SiteGround": 1901,
         "Hostinger": 1117,
