@@ -1,6 +1,26 @@
 {
-    "siteCount": 33944,
+    "siteCount": 33972,
     "recentlyMoved": [
+        {
+            "domain_name": "bacanna.com.br",
+            "destination": "Hostinger",
+            "date": "2025-01-06 20:47:05"
+        },
+        {
+            "domain_name": "localcreamerytx.com",
+            "destination": "Bluehost",
+            "date": "2025-01-06 19:58:38"
+        },
+        {
+            "domain_name": "www.daysail-bvi.com",
+            "destination": "SiteGround",
+            "date": "2025-01-06 19:58:38"
+        },
+        {
+            "domain_name": "ecom-futuristically-warm-dolphin.wpcomstaging.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-06 19:58:38"
+        },
         {
             "domain_name": "exlibris-artshop.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "ctvalleyhomeimprovement.com",
             "destination": "Pressable",
             "date": "2025-01-04 17:43:04"
-        },
-        {
-            "domain_name": "klasystems.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 17:37:53"
-        },
-        {
-            "domain_name": "shop.gwbcrane.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-04 17:33:28"
-        },
-        {
-            "domain_name": "crossfitexpedition.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-04 17:32:32"
-        },
-        {
-            "domain_name": "www.nationalrestore.net",
-            "destination": "Pressable",
-            "date": "2025-01-04 17:07:19"
         }
     ],
     "dailyMovedStat": {
@@ -613,17 +613,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 7192,
-        "Bluehost": 3599,
+        "Bluehost": 3600,
         "Kinsta": 2243,
         "Digital Ocean": 2160,
-        "SiteGround": 1911,
+        "SiteGround": 1912,
         "Hostinger": 1119,
         "GoDaddy": 551,
         "BigScoots": 301,
         "Liquid Web": 221,
         "Elementor Hosting": 203,
+        "WordPress.com": 150,
         "Wordify": 149,
-        "WordPress.com": 149,
         "InMotion Hosting": 147,
         "GridPane": 144,
         "OVH": 112,
