@@ -1,6 +1,11 @@
 {
-    "siteCount": 33987,
+    "siteCount": 33988,
     "recentlyMoved": [
+        {
+            "domain_name": "nashfranciskato.com",
+            "destination": "Kinsta",
+            "date": "2025-01-07 03:02:08"
+        },
         {
             "domain_name": "stonemanorkc.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "addisonstone.com",
             "destination": "Kinsta",
             "date": "2025-01-04 19:31:31"
-        },
-        {
-            "domain_name": "enviromerica.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-04 18:39:15"
         }
     ],
     "dailyMovedStat": {
@@ -615,7 +615,7 @@
     "topDestinationHosts": {
         "Pressable": 7193,
         "Bluehost": 3600,
-        "Kinsta": 2244,
+        "Kinsta": 2245,
         "Digital Ocean": 2160,
         "SiteGround": 1914,
         "Hostinger": 1121,
