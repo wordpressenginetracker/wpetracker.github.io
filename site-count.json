@@ -1,6 +1,11 @@
 {
-    "siteCount": 34014,
+    "siteCount": 34026,
     "recentlyMoved": [
+        {
+            "domain_name": "carpetwholesalers.net",
+            "destination": "Pressable",
+            "date": "2025-01-07 09:01:33"
+        },
         {
             "domain_name": "avostogo.co.nz",
             "destination": "Digital Ocean",
@@ -10,6 +15,21 @@
             "domain_name": "pitcrew.nl",
             "destination": "Kinsta",
             "date": "2025-01-07 08:28:50"
+        },
+        {
+            "domain_name": "bottindesavocats.ca",
+            "destination": "OVH",
+            "date": "2025-01-07 08:22:56"
+        },
+        {
+            "domain_name": "bdmetalrecycling.com",
+            "destination": "Pressable",
+            "date": "2025-01-07 08:05:41"
+        },
+        {
+            "domain_name": "besttampahandyman.com",
+            "destination": "Pressable",
+            "date": "2025-01-07 08:04:49"
         },
         {
             "domain_name": "oldskooldubz.com",
@@ -472,26 +492,6 @@
             "date": "2025-01-04 20:08:21"
         },
         {
-            "domain_name": "www.riunite.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-04 20:08:21"
-        },
-        {
-            "domain_name": "renta.no",
-            "destination": "Hetzner Online",
-            "date": "2025-01-04 20:08:21"
-        },
-        {
-            "domain_name": "rni.tuq.mybluehost.me",
-            "destination": "Bluehost",
-            "date": "2025-01-04 20:08:21"
-        },
-        {
-            "domain_name": "www.fyelabs.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-01-04 20:08:21"
-        },
-        {
             "domain_name": "hannahbarlowphotography.com",
             "destination": "BigScoots",
             "date": "2025-01-04 19:56:44"
@@ -613,10 +613,10 @@
         "2025-01-06": "33979"
     },
     "topDestinationHosts": {
-        "Pressable": 7200,
+        "Pressable": 7203,
         "Bluehost": 3600,
         "Kinsta": 2246,
-        "Digital Ocean": 2160,
+        "Digital Ocean": 2161,
         "SiteGround": 1915,
         "Hostinger": 1121,
         "GoDaddy": 551,
@@ -627,7 +627,7 @@
         "Wordify": 149,
         "InMotion Hosting": 147,
         "GridPane": 144,
-        "OVH": 112,
+        "OVH": 113,
         "A2 Hosting": 98,
         "Namecheap": 98,
         "Hetzner Online": 96,
