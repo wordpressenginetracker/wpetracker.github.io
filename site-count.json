@@ -1,6 +1,21 @@
 {
-    "siteCount": 33979,
+    "siteCount": 33984,
     "recentlyMoved": [
+        {
+            "domain_name": "acumenimaging.com",
+            "destination": "Pressable",
+            "date": "2025-01-07 00:09:31"
+        },
+        {
+            "domain_name": "ariaair.com.au",
+            "destination": "SiteGround",
+            "date": "2025-01-07 00:01:28"
+        },
+        {
+            "domain_name": "wilddingo.com",
+            "destination": "Hostinger",
+            "date": "2025-01-06 23:36:58"
+        },
         {
             "domain_name": "bacanna.com.br",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2025-01-04 18:39:15"
         },
         {
-            "domain_name": "www.theocnutritionist.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-04 18:25:40"
-        },
-        {
             "domain_name": "myheadcoachteam.com",
             "destination": "Pressable",
             "date": "2025-01-04 18:23:45"
@@ -490,16 +500,6 @@
             "domain_name": "modernpavingpros.com",
             "destination": "Pressable",
             "date": "2025-01-04 18:05:01"
-        },
-        {
-            "domain_name": "dymtraining.com",
-            "destination": "WordPress.com",
-            "date": "2025-01-04 17:59:29"
-        },
-        {
-            "domain_name": "ctvalleyhomeimprovement.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 17:43:04"
         }
     ],
     "dailyMovedStat": {
@@ -613,12 +613,12 @@
         "2025-01-06": "33979"
     },
     "topDestinationHosts": {
-        "Pressable": 7192,
+        "Pressable": 7193,
         "Bluehost": 3600,
         "Kinsta": 2243,
         "Digital Ocean": 2160,
-        "SiteGround": 1912,
-        "Hostinger": 1120,
+        "SiteGround": 1913,
+        "Hostinger": 1121,
         "GoDaddy": 551,
         "BigScoots": 301,
         "Liquid Web": 221,
