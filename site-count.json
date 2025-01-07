@@ -1,6 +1,46 @@
 {
-    "siteCount": 34180,
+    "siteCount": 34193,
     "recentlyMoved": [
+        {
+            "domain_name": "merch.libro.fm",
+            "destination": "Pressable",
+            "date": "2025-01-07 18:34:38"
+        },
+        {
+            "domain_name": "marinapano.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-07 18:01:24"
+        },
+        {
+            "domain_name": "messinabuilders.com",
+            "destination": "SiteGround",
+            "date": "2025-01-07 17:52:41"
+        },
+        {
+            "domain_name": "standupnow.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-01-07 17:37:47"
+        },
+        {
+            "domain_name": "www.rocketstone.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-01-07 17:31:30"
+        },
+        {
+            "domain_name": "clearviewautoglasslondon.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-01-07 17:31:14"
+        },
+        {
+            "domain_name": "stewartbuilderskc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-07 17:21:28"
+        },
+        {
+            "domain_name": "lipkovitsgroup.ca",
+            "destination": "SiteGround",
+            "date": "2025-01-07 17:14:22"
+        },
         {
             "domain_name": "blog.libro.fm",
             "destination": "Pressable",
@@ -25,6 +65,11 @@
             "domain_name": "www.cudmoreslandscape.ca",
             "destination": "Pressable",
             "date": "2025-01-07 16:57:32"
+        },
+        {
+            "domain_name": "www.omegainspector.com",
+            "destination": "Pressable",
+            "date": "2025-01-07 16:55:57"
         },
         {
             "domain_name": "kidcityguide.com",
@@ -437,11 +482,6 @@
             "date": "2025-01-07 11:27:12"
         },
         {
-            "domain_name": "marvinpendarvis.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 10:25:24"
-        },
-        {
             "domain_name": "edinburghfestival.org",
             "destination": "Hostinger",
             "date": "2025-01-07 10:17:46"
@@ -452,54 +492,14 @@
             "date": "2025-01-07 10:15:11"
         },
         {
-            "domain_name": "theduffylawfirm.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 09:58:25"
-        },
-        {
             "domain_name": "transformationsystems.com",
             "destination": "Digital Ocean",
             "date": "2025-01-07 09:53:34"
         },
         {
-            "domain_name": "lightningrestorationfla.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 09:52:22"
-        },
-        {
-            "domain_name": "communityfof.org",
-            "destination": "Hostinger",
-            "date": "2025-01-07 09:52:14"
-        },
-        {
             "domain_name": "thehillkc.com",
             "destination": "Pressable",
             "date": "2025-01-07 09:42:54"
-        },
-        {
-            "domain_name": "curitec.scienceofreadiness.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-07 09:41:50"
-        },
-        {
-            "domain_name": "kwa-analytics.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 09:33:03"
-        },
-        {
-            "domain_name": "mainlinelifting.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-07 09:31:40"
-        },
-        {
-            "domain_name": "carpetwholesalers.net",
-            "destination": "Pressable",
-            "date": "2025-01-07 09:01:33"
-        },
-        {
-            "domain_name": "bottindesavocats.ca",
-            "destination": "OVH",
-            "date": "2025-01-07 08:22:56"
         }
     ],
     "dailyMovedStat": {
@@ -613,13 +613,13 @@
         "2025-01-06": "33979"
     },
     "topDestinationHosts": {
-        "Pressable": 7237,
+        "Pressable": 7239,
         "Bluehost": 3601,
-        "Kinsta": 2247,
-        "Digital Ocean": 2188,
-        "SiteGround": 1927,
+        "Kinsta": 2248,
+        "Digital Ocean": 2191,
+        "SiteGround": 1929,
         "Hostinger": 1130,
-        "GoDaddy": 552,
+        "GoDaddy": 553,
         "BigScoots": 304,
         "Liquid Web": 225,
         "Elementor Hosting": 203,
