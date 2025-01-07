@@ -1,6 +1,11 @@
 {
-    "siteCount": 33985,
+    "siteCount": 33987,
     "recentlyMoved": [
+        {
+            "domain_name": "stonemanorkc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-07 01:58:10"
+        },
         {
             "domain_name": "blemanpropertygroup.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "enviromerica.com",
             "destination": "InMotion Hosting",
             "date": "2025-01-04 18:39:15"
-        },
-        {
-            "domain_name": "myheadcoachteam.com",
-            "destination": "Pressable",
-            "date": "2025-01-04 18:23:45"
         }
     ],
     "dailyMovedStat": {
@@ -615,7 +615,7 @@
     "topDestinationHosts": {
         "Pressable": 7193,
         "Bluehost": 3600,
-        "Kinsta": 2243,
+        "Kinsta": 2244,
         "Digital Ocean": 2160,
         "SiteGround": 1914,
         "Hostinger": 1121,
