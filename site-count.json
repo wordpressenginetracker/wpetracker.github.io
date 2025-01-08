@@ -1,6 +1,61 @@
 {
-    "siteCount": 34441,
+    "siteCount": 34516,
     "recentlyMoved": [
+        {
+            "domain_name": "balchem.com",
+            "destination": "Kinsta",
+            "date": "2025-01-08 20:40:50"
+        },
+        {
+            "domain_name": "rqc.qow.mybluehost.me",
+            "destination": "Bluehost",
+            "date": "2025-01-08 20:40:50"
+        },
+        {
+            "domain_name": "wordpress-1379534-5095986.cloudwaysapps.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-08 20:40:50"
+        },
+        {
+            "domain_name": "younginnovations.com",
+            "destination": "SiteGround",
+            "date": "2025-01-08 20:40:50"
+        },
+        {
+            "domain_name": "www.peergaming.com",
+            "destination": "Pressable",
+            "date": "2025-01-08 20:21:47"
+        },
+        {
+            "domain_name": "jobs-redefined.co",
+            "destination": "Hetzner Online",
+            "date": "2025-01-08 20:21:22"
+        },
+        {
+            "domain_name": "optinumber-ux.com",
+            "destination": "Bluehost",
+            "date": "2025-01-08 20:21:22"
+        },
+        {
+            "domain_name": "genesisglasstn.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-08 20:06:14"
+        },
+        {
+            "domain_name": "gameincgc.com",
+            "destination": "Pressable",
+            "date": "2025-01-08 20:00:56"
+        },
+        {
+            "domain_name": "getyourgroomondogsalon.com",
+            "destination": "Hostinger",
+            "date": "2025-01-08 19:42:20"
+        },
+        {
+            "domain_name": "www.aaguttersandguards.com",
+            "destination": "Pressable",
+            "date": "2025-01-08 19:33:17"
+        },
         {
             "domain_name": "mydreamweddingfilm.com",
             "destination": "SiteGround",
@@ -445,61 +500,6 @@
             "domain_name": "visionarywealthadvisors.com",
             "destination": "SiteGround",
             "date": "2025-01-07 23:17:23"
-        },
-        {
-            "domain_name": "mypension.ie",
-            "destination": "Digital Ocean",
-            "date": "2025-01-07 23:05:59"
-        },
-        {
-            "domain_name": "thedancefoundation.org",
-            "destination": "Hostinger",
-            "date": "2025-01-07 22:21:05"
-        },
-        {
-            "domain_name": "lawpreview.barbri.com",
-            "destination": "GridPane",
-            "date": "2025-01-07 21:10:16"
-        },
-        {
-            "domain_name": "homesteadamc.com",
-            "destination": "GridPane",
-            "date": "2025-01-07 20:23:01"
-        },
-        {
-            "domain_name": "befreebar.com",
-            "destination": "BigScoots",
-            "date": "2025-01-07 20:07:57"
-        },
-        {
-            "domain_name": "oxfordnatural.clinic",
-            "destination": "Hostinger",
-            "date": "2025-01-07 20:06:32"
-        },
-        {
-            "domain_name": "www.topshelfweddingplanners.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-07 20:06:32"
-        },
-        {
-            "domain_name": "wordpress-1379534-5118371.cloudwaysapps.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-07 20:06:32"
-        },
-        {
-            "domain_name": "abersoncompanies.com",
-            "destination": "WordPress.com",
-            "date": "2025-01-07 20:06:32"
-        },
-        {
-            "domain_name": "www.courtesyplumbers.com",
-            "destination": "A2 Hosting",
-            "date": "2025-01-07 20:06:32"
-        },
-        {
-            "domain_name": "preventcookingfires.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 20:05:47"
         }
     ],
     "dailyMovedStat": {
@@ -614,13 +614,13 @@
         "2025-01-07": "34265"
     },
     "topDestinationHosts": {
-        "Pressable": 7259,
-        "Bluehost": 3607,
-        "Kinsta": 2255,
-        "Digital Ocean": 2209,
-        "SiteGround": 1940,
-        "Hostinger": 1143,
-        "GoDaddy": 562,
+        "Pressable": 7262,
+        "Bluehost": 3609,
+        "Kinsta": 2256,
+        "Digital Ocean": 2210,
+        "SiteGround": 1941,
+        "Hostinger": 1144,
+        "GoDaddy": 563,
         "BigScoots": 310,
         "Liquid Web": 227,
         "Elementor Hosting": 203,
@@ -631,7 +631,7 @@
         "OVH": 117,
         "A2 Hosting": 102,
         "Namecheap": 99,
-        "Hetzner Online": 97,
+        "Hetzner Online": 98,
         "IONOS": 84,
         "DreamHost": 78
     },
