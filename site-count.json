@@ -1,6 +1,26 @@
 {
-    "siteCount": 34412,
+    "siteCount": 34422,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mtfcu.coop",
+            "destination": "Pressable",
+            "date": "2025-01-08 17:08:08"
+        },
+        {
+            "domain_name": "bigbearfoodmart.ca",
+            "destination": "Pressable",
+            "date": "2025-01-08 16:48:35"
+        },
+        {
+            "domain_name": "hendersonturf.com",
+            "destination": "SiteGround",
+            "date": "2025-01-08 16:47:47"
+        },
+        {
+            "domain_name": "www.colliersinspections.com",
+            "destination": "Pressable",
+            "date": "2025-01-08 16:33:41"
+        },
         {
             "domain_name": "gocostseg.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "aes-g.com",
             "destination": "Hostinger",
             "date": "2025-01-07 19:23:03"
-        },
-        {
-            "domain_name": "ericksoninc.com",
-            "destination": "Kinsta",
-            "date": "2025-01-07 18:47:11"
-        },
-        {
-            "domain_name": "movlawncare.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 18:43:53"
-        },
-        {
-            "domain_name": "merch.libro.fm",
-            "destination": "Pressable",
-            "date": "2025-01-07 18:34:38"
-        },
-        {
-            "domain_name": "tscustomconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-01-07 18:20:20"
         }
     ],
     "dailyMovedStat": {
@@ -614,11 +614,11 @@
         "2025-01-07": "34265"
     },
     "topDestinationHosts": {
-        "Pressable": 7254,
+        "Pressable": 7256,
         "Bluehost": 3607,
         "Kinsta": 2254,
         "Digital Ocean": 2208,
-        "SiteGround": 1938,
+        "SiteGround": 1939,
         "Hostinger": 1143,
         "GoDaddy": 562,
         "BigScoots": 310,
