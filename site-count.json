@@ -1,6 +1,11 @@
 {
-    "siteCount": 34597,
+    "siteCount": 34603,
     "recentlyMoved": [
+        {
+            "domain_name": "jesuitschoolsnetwork.org",
+            "destination": "SiteGround",
+            "date": "2025-01-09 09:15:12"
+        },
         {
             "domain_name": "halosafetech.com",
             "destination": "Pressable",
@@ -10,6 +15,11 @@
             "domain_name": "www.esmiley.com",
             "destination": "Hostinger",
             "date": "2025-01-09 08:31:29"
+        },
+        {
+            "domain_name": "www.fromloanstohomes.com",
+            "destination": "Hostinger",
+            "date": "2025-01-09 08:28:32"
         },
         {
             "domain_name": "physioandpilatesinmotion.co.uk",
@@ -472,11 +482,6 @@
             "date": "2025-01-08 09:38:22"
         },
         {
-            "domain_name": "www.logcabinsforless.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-08 09:34:26"
-        },
-        {
             "domain_name": "lamjen.com",
             "destination": "BigScoots",
             "date": "2025-01-08 09:29:45"
@@ -490,11 +495,6 @@
             "domain_name": "simbainvestments.net",
             "destination": "Hostinger",
             "date": "2025-01-08 09:08:34"
-        },
-        {
-            "domain_name": "buyersagentfrance.com",
-            "destination": "OVH",
-            "date": "2025-01-08 09:07:19"
         },
         {
             "domain_name": "cobbsmarina.com",
@@ -619,8 +619,8 @@
         "Bluehost": 3610,
         "Kinsta": 2257,
         "Digital Ocean": 2212,
-        "SiteGround": 1945,
-        "Hostinger": 1147,
+        "SiteGround": 1946,
+        "Hostinger": 1148,
         "GoDaddy": 567,
         "BigScoots": 311,
         "Liquid Web": 228,
