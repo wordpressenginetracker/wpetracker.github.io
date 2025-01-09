@@ -1,6 +1,16 @@
 {
-    "siteCount": 34576,
+    "siteCount": 34584,
     "recentlyMoved": [
+        {
+            "domain_name": "yogaogmassasje.no",
+            "destination": "Digital Ocean",
+            "date": "2025-01-09 06:06:06"
+        },
+        {
+            "domain_name": "laserandfabrication.co.uk",
+            "destination": "IONOS",
+            "date": "2025-01-09 05:26:39"
+        },
         {
             "domain_name": "www.madderradentistry.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "pouschinecook.com",
             "destination": "Kinsta",
             "date": "2025-01-08 07:47:09"
-        },
-        {
-            "domain_name": "doglifepro.com",
-            "destination": "Bluehost",
-            "date": "2025-01-08 06:17:06"
-        },
-        {
-            "domain_name": "stevebarker.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2025-01-08 05:27:11"
         }
     ],
     "dailyMovedStat": {
@@ -618,7 +618,7 @@
         "Pressable": 7268,
         "Bluehost": 3610,
         "Kinsta": 2257,
-        "Digital Ocean": 2210,
+        "Digital Ocean": 2211,
         "SiteGround": 1944,
         "Hostinger": 1145,
         "GoDaddy": 567,
@@ -633,7 +633,7 @@
         "A2 Hosting": 103,
         "Namecheap": 99,
         "Hetzner Online": 98,
-        "IONOS": 84,
+        "IONOS": 85,
         "DreamHost": 79
     },
     "dailyTotalStat": {
