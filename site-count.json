@@ -1,6 +1,16 @@
 {
-    "siteCount": 34671,
+    "siteCount": 34677,
     "recentlyMoved": [
+        {
+            "domain_name": "faith.edu",
+            "destination": "Hostinger",
+            "date": "2025-01-09 15:14:02"
+        },
+        {
+            "domain_name": "ekrealty.com",
+            "destination": "SiteGround",
+            "date": "2025-01-09 14:44:17"
+        },
         {
             "domain_name": "mikerobinson.ca",
             "destination": "SiteGround",
@@ -10,6 +20,11 @@
             "domain_name": "www.techmode.com",
             "destination": "Kinsta",
             "date": "2025-01-09 14:25:23"
+        },
+        {
+            "domain_name": "escapismvb.com",
+            "destination": "SiteGround",
+            "date": "2025-01-09 14:23:47"
         },
         {
             "domain_name": "www.whykwru.ca",
@@ -485,21 +500,6 @@
             "domain_name": "fulcrumgroup.com",
             "destination": "GoDaddy",
             "date": "2025-01-08 16:04:47"
-        },
-        {
-            "domain_name": "flowersmedical.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-08 15:31:20"
-        },
-        {
-            "domain_name": "vegasdentalexpertsnevada.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-08 15:01:58"
-        },
-        {
-            "domain_name": "valorprotectiondogs.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-08 14:13:54"
         }
     ],
     "dailyMovedStat": {
@@ -619,8 +619,8 @@
         "Bluehost": 3612,
         "Kinsta": 2261,
         "Digital Ocean": 2215,
-        "SiteGround": 1951,
-        "Hostinger": 1156,
+        "SiteGround": 1953,
+        "Hostinger": 1157,
         "GoDaddy": 569,
         "BigScoots": 312,
         "Liquid Web": 229,
