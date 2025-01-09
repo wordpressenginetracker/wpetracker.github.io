@@ -1,6 +1,11 @@
 {
-    "siteCount": 34584,
+    "siteCount": 34585,
     "recentlyMoved": [
+        {
+            "domain_name": "naturalisvendings.com",
+            "destination": "SiteGround",
+            "date": "2025-01-09 06:40:38"
+        },
         {
             "domain_name": "yogaogmassasje.no",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-01-08 08:14:12"
         },
         {
-            "domain_name": "alfacareanimalhospital.com",
-            "destination": "Namecheap",
-            "date": "2025-01-08 08:04:17"
-        },
-        {
             "domain_name": "pouschinecook.com",
             "destination": "Kinsta",
             "date": "2025-01-08 07:47:09"
@@ -619,7 +619,7 @@
         "Bluehost": 3610,
         "Kinsta": 2257,
         "Digital Ocean": 2211,
-        "SiteGround": 1944,
+        "SiteGround": 1945,
         "Hostinger": 1145,
         "GoDaddy": 567,
         "BigScoots": 311,
