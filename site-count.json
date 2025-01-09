@@ -1,6 +1,51 @@
 {
-    "siteCount": 34611,
+    "siteCount": 34628,
     "recentlyMoved": [
+        {
+            "domain_name": "healingwithhilla.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-09 12:33:56"
+        },
+        {
+            "domain_name": "angling-international.com",
+            "destination": "Pressable",
+            "date": "2025-01-09 12:21:14"
+        },
+        {
+            "domain_name": "gbcharleston.com",
+            "destination": "Pressable",
+            "date": "2025-01-09 12:02:00"
+        },
+        {
+            "domain_name": "grsmilieu.nl",
+            "destination": "Hostinger",
+            "date": "2025-01-09 11:59:14"
+        },
+        {
+            "domain_name": "gimallc.com",
+            "destination": "Hostinger",
+            "date": "2025-01-09 11:55:31"
+        },
+        {
+            "domain_name": "www.prins-hendrik.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-01-09 11:54:08"
+        },
+        {
+            "domain_name": "groundresearch.nl",
+            "destination": "Hostinger",
+            "date": "2025-01-09 11:52:41"
+        },
+        {
+            "domain_name": "grobagroep.nl",
+            "destination": "Hostinger",
+            "date": "2025-01-09 11:52:41"
+        },
+        {
+            "domain_name": "www.borsellolandscaping.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-09 11:49:39"
+        },
         {
             "domain_name": "summerfoerch.com",
             "destination": "Bluehost",
@@ -452,54 +497,9 @@
             "date": "2025-01-08 11:04:46"
         },
         {
-            "domain_name": "mjstavern.com",
-            "destination": "Hostinger",
-            "date": "2025-01-08 10:44:27"
-        },
-        {
-            "domain_name": "mobileappsjacksonville.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-08 10:30:01"
-        },
-        {
-            "domain_name": "www.wiltshiremuseum.org.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-01-08 10:10:06"
-        },
-        {
             "domain_name": "equilibriohh.com",
             "destination": "Hostinger",
             "date": "2025-01-08 10:09:57"
-        },
-        {
-            "domain_name": "thriveucsa.com",
-            "destination": "SiteGround",
-            "date": "2025-01-08 10:07:48"
-        },
-        {
-            "domain_name": "theshedatmjstavern.com",
-            "destination": "Hostinger",
-            "date": "2025-01-08 10:06:13"
-        },
-        {
-            "domain_name": "theenablementgroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-08 10:01:13"
-        },
-        {
-            "domain_name": "www.venangomachine.com",
-            "destination": "BigScoots",
-            "date": "2025-01-08 09:44:10"
-        },
-        {
-            "domain_name": "taylorandrew.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-08 09:41:14"
-        },
-        {
-            "domain_name": "cobbsmarina.com",
-            "destination": "Hostinger",
-            "date": "2025-01-08 09:04:49"
         }
     ],
     "dailyMovedStat": {
@@ -615,13 +615,13 @@
         "2025-01-08": "34535"
     },
     "topDestinationHosts": {
-        "Pressable": 7271,
+        "Pressable": 7273,
         "Bluehost": 3611,
         "Kinsta": 2257,
-        "Digital Ocean": 2212,
+        "Digital Ocean": 2213,
         "SiteGround": 1947,
-        "Hostinger": 1149,
-        "GoDaddy": 567,
+        "Hostinger": 1153,
+        "GoDaddy": 568,
         "BigScoots": 311,
         "Liquid Web": 228,
         "Elementor Hosting": 203,
