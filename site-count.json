@@ -1,6 +1,11 @@
 {
-    "siteCount": 34793,
+    "siteCount": 34803,
     "recentlyMoved": [
+        {
+            "domain_name": "carolinaforcelax.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-09 21:32:12"
+        },
         {
             "domain_name": "www.cherryglass.com",
             "destination": "SiteGround",
@@ -10,6 +15,16 @@
             "domain_name": "pointwestcu.pixelspoke-staging.com",
             "destination": "Kinsta",
             "date": "2025-01-09 20:35:13"
+        },
+        {
+            "domain_name": "www.gdlconstructionpro.com",
+            "destination": "Pressable",
+            "date": "2025-01-09 20:31:02"
+        },
+        {
+            "domain_name": "sacredlifeayurveda.com",
+            "destination": "Bluehost",
+            "date": "2025-01-09 20:23:03"
         },
         {
             "domain_name": "www.avionaero.com",
@@ -482,24 +497,9 @@
             "date": "2025-01-08 22:32:55"
         },
         {
-            "domain_name": "dac-trials.org",
-            "destination": "Kinsta",
-            "date": "2025-01-08 22:20:15"
-        },
-        {
             "domain_name": "monicawoodhams.com",
             "destination": "SiteGround",
             "date": "2025-01-08 22:04:02"
-        },
-        {
-            "domain_name": "latebloomersguide.com",
-            "destination": "BigScoots",
-            "date": "2025-01-08 21:38:17"
-        },
-        {
-            "domain_name": "corporatebenefitsdivision.com",
-            "destination": "A2 Hosting",
-            "date": "2025-01-08 21:36:57"
         }
     ],
     "dailyMovedStat": {
@@ -615,17 +615,17 @@
         "2025-01-08": "34535"
     },
     "topDestinationHosts": {
-        "Pressable": 7291,
-        "Bluehost": 3613,
+        "Pressable": 7292,
+        "Bluehost": 3614,
         "Kinsta": 2265,
         "Digital Ocean": 2217,
-        "SiteGround": 1957,
+        "SiteGround": 1959,
         "Hostinger": 1164,
         "GoDaddy": 572,
         "BigScoots": 313,
         "Liquid Web": 232,
         "Elementor Hosting": 203,
-        "WordPress.com": 154,
+        "WordPress.com": 155,
         "InMotion Hosting": 150,
         "Wordify": 149,
         "GridPane": 148,
