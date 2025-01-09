@@ -1,6 +1,71 @@
 {
-    "siteCount": 34727,
+    "siteCount": 34793,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cherryglass.com",
+            "destination": "SiteGround",
+            "date": "2025-01-09 20:42:01"
+        },
+        {
+            "domain_name": "pointwestcu.pixelspoke-staging.com",
+            "destination": "Kinsta",
+            "date": "2025-01-09 20:35:13"
+        },
+        {
+            "domain_name": "www.avionaero.com",
+            "destination": "Pressable",
+            "date": "2025-01-09 20:20:25"
+        },
+        {
+            "domain_name": "foodisfreetacoma.org",
+            "destination": "Namecheap",
+            "date": "2025-01-09 20:10:17"
+        },
+        {
+            "domain_name": "oldparkland.rftb.agency",
+            "destination": "Liquid Web",
+            "date": "2025-01-09 20:02:21"
+        },
+        {
+            "domain_name": "oliavillage.com",
+            "destination": "Hostinger",
+            "date": "2025-01-09 20:00:24"
+        },
+        {
+            "domain_name": "puertopenasco.rentals",
+            "destination": "SiteGround",
+            "date": "2025-01-09 19:52:22"
+        },
+        {
+            "domain_name": "fmrt.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-09 19:44:23"
+        },
+        {
+            "domain_name": "weselldesign.com",
+            "destination": "Hostinger",
+            "date": "2025-01-09 19:43:11"
+        },
+        {
+            "domain_name": "www.ibmckinney.org",
+            "destination": "Hostinger",
+            "date": "2025-01-09 19:35:49"
+        },
+        {
+            "domain_name": "www.advancedtraffic.com",
+            "destination": "Kinsta",
+            "date": "2025-01-09 19:30:47"
+        },
+        {
+            "domain_name": "villasognidoro.com",
+            "destination": "Hostinger",
+            "date": "2025-01-09 19:06:10"
+        },
+        {
+            "domain_name": "22mmarketing.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-09 19:04:44"
+        },
         {
             "domain_name": "www.theonlinerocket.com",
             "destination": "Pressable",
@@ -435,71 +500,6 @@
             "domain_name": "corporatebenefitsdivision.com",
             "destination": "A2 Hosting",
             "date": "2025-01-08 21:36:57"
-        },
-        {
-            "domain_name": "jlmortgageprotection.com",
-            "destination": "Bluehost",
-            "date": "2025-01-08 21:18:30"
-        },
-        {
-            "domain_name": "carolynbradley.ca",
-            "destination": "SiteGround",
-            "date": "2025-01-08 21:05:39"
-        },
-        {
-            "domain_name": "www.dakotahoppeconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-01-08 20:53:16"
-        },
-        {
-            "domain_name": "www.fitchettmannfuneralservices.com",
-            "destination": "Hostinger",
-            "date": "2025-01-08 20:52:34"
-        },
-        {
-            "domain_name": "ryanbenjamin.ca",
-            "destination": "SiteGround",
-            "date": "2025-01-08 20:38:29"
-        },
-        {
-            "domain_name": "www.dorchesterliving.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-08 20:30:32"
-        },
-        {
-            "domain_name": "www.peergaming.com",
-            "destination": "Pressable",
-            "date": "2025-01-08 20:21:47"
-        },
-        {
-            "domain_name": "genesisglasstn.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-08 20:06:14"
-        },
-        {
-            "domain_name": "gameincgc.com",
-            "destination": "Pressable",
-            "date": "2025-01-08 20:00:56"
-        },
-        {
-            "domain_name": "getyourgroomondogsalon.com",
-            "destination": "Hostinger",
-            "date": "2025-01-08 19:42:20"
-        },
-        {
-            "domain_name": "www.aaguttersandguards.com",
-            "destination": "Pressable",
-            "date": "2025-01-08 19:33:17"
-        },
-        {
-            "domain_name": "mydreamweddingfilm.com",
-            "destination": "SiteGround",
-            "date": "2025-01-08 18:27:48"
-        },
-        {
-            "domain_name": "membermouse.com",
-            "destination": "GridPane",
-            "date": "2025-01-08 18:16:58"
         }
     ],
     "dailyMovedStat": {
@@ -615,23 +615,23 @@
         "2025-01-08": "34535"
     },
     "topDestinationHosts": {
-        "Pressable": 7290,
-        "Bluehost": 3612,
-        "Kinsta": 2263,
-        "Digital Ocean": 2216,
-        "SiteGround": 1955,
-        "Hostinger": 1160,
-        "GoDaddy": 571,
+        "Pressable": 7291,
+        "Bluehost": 3613,
+        "Kinsta": 2265,
+        "Digital Ocean": 2217,
+        "SiteGround": 1957,
+        "Hostinger": 1164,
+        "GoDaddy": 572,
         "BigScoots": 313,
-        "Liquid Web": 231,
+        "Liquid Web": 232,
         "Elementor Hosting": 203,
-        "WordPress.com": 153,
+        "WordPress.com": 154,
         "InMotion Hosting": 150,
         "Wordify": 149,
         "GridPane": 148,
         "OVH": 117,
         "A2 Hosting": 103,
-        "Namecheap": 100,
+        "Namecheap": 101,
         "Hetzner Online": 98,
         "IONOS": 85,
         "DreamHost": 79
