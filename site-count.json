@@ -1,6 +1,16 @@
 {
-    "siteCount": 34838,
+    "siteCount": 34845,
     "recentlyMoved": [
+        {
+            "domain_name": "simplicitykc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-10 01:09:36"
+        },
+        {
+            "domain_name": "www.eaglerockdance.com",
+            "destination": "SiteGround",
+            "date": "2025-01-10 00:45:29"
+        },
         {
             "domain_name": "www.blossomgrowprek.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.madderradentistry.com",
             "destination": "Pressable",
             "date": "2025-01-09 05:17:23"
-        },
-        {
-            "domain_name": "ohiovalleyemmy.org",
-            "destination": "Liquid Web",
-            "date": "2025-01-09 04:06:04"
-        },
-        {
-            "domain_name": "vishaalpromoters.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-09 03:56:37"
         }
     ],
     "dailyMovedStat": {
@@ -618,9 +618,9 @@
     "topDestinationHosts": {
         "Pressable": 7293,
         "Bluehost": 3614,
-        "Kinsta": 2266,
+        "Kinsta": 2267,
         "Digital Ocean": 2219,
-        "SiteGround": 1962,
+        "SiteGround": 1963,
         "Hostinger": 1164,
         "GoDaddy": 573,
         "BigScoots": 313,
