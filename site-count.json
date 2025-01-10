@@ -1,6 +1,11 @@
 {
-    "siteCount": 34828,
+    "siteCount": 34838,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blossomgrowprek.com",
+            "destination": "SiteGround",
+            "date": "2025-01-10 00:25:40"
+        },
         {
             "domain_name": "dovecontractingllc.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "vishaalpromoters.com",
             "destination": "GoDaddy",
             "date": "2025-01-09 03:56:37"
-        },
-        {
-            "domain_name": "vishaaldemal.in",
-            "destination": "GoDaddy",
-            "date": "2025-01-09 03:56:37"
         }
     ],
     "dailyMovedStat": {
@@ -620,7 +620,7 @@
         "Bluehost": 3614,
         "Kinsta": 2266,
         "Digital Ocean": 2219,
-        "SiteGround": 1961,
+        "SiteGround": 1962,
         "Hostinger": 1164,
         "GoDaddy": 573,
         "BigScoots": 313,
