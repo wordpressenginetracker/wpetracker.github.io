@@ -1,6 +1,21 @@
 {
-    "siteCount": 35158,
+    "siteCount": 35162,
     "recentlyMoved": [
+        {
+            "domain_name": "versicaregroup.com",
+            "destination": "Kinsta",
+            "date": "2025-01-10 22:40:18"
+        },
+        {
+            "domain_name": "vanrobot.com",
+            "destination": "Hostinger",
+            "date": "2025-01-10 22:31:23"
+        },
+        {
+            "domain_name": "txilc.org",
+            "destination": "SiteGround",
+            "date": "2025-01-10 22:31:07"
+        },
         {
             "domain_name": "lighthousefinancialfoundation.org",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "baivi.no",
             "destination": "Hostinger",
             "date": "2025-01-10 12:11:19"
-        },
-        {
-            "domain_name": "gobeyondseo.com",
-            "destination": "Pressable",
-            "date": "2025-01-10 11:50:49"
-        },
-        {
-            "domain_name": "gatewayhvacky.com",
-            "destination": "Kinsta",
-            "date": "2025-01-10 11:45:50"
-        },
-        {
-            "domain_name": "foreststrategicsolutions.com",
-            "destination": "GridPane",
-            "date": "2025-01-10 11:18:13"
         }
     ],
     "dailyMovedStat": {
@@ -613,15 +613,16 @@
         "2025-01-06": "33979",
         "2025-01-07": "34265",
         "2025-01-08": "34535",
-        "2025-01-09": "34828"
+        "2025-01-09": "34828",
+        "2025-01-10": "35162"
     },
     "topDestinationHosts": {
         "Pressable": 7330,
         "Bluehost": 3618,
-        "Kinsta": 2282,
+        "Kinsta": 2283,
         "Digital Ocean": 2235,
-        "SiteGround": 1974,
-        "Hostinger": 1176,
+        "SiteGround": 1975,
+        "Hostinger": 1177,
         "GoDaddy": 580,
         "BigScoots": 316,
         "Liquid Web": 235,
@@ -748,6 +749,7 @@
         "2025-01-06": "686406",
         "2025-01-07": "685764",
         "2025-01-08": "685098",
-        "2025-01-09": "684352"
+        "2025-01-09": "684352",
+        "2025-01-10": "683649"
     }
 }
