@@ -1,6 +1,11 @@
 {
-    "siteCount": 35223,
+    "siteCount": 35225,
     "recentlyMoved": [
+        {
+            "domain_name": "mygemstar.com",
+            "destination": "Bluehost",
+            "date": "2025-01-11 10:44:29"
+        },
         {
             "domain_name": "www.tenderstores.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "freedomwithequity.com",
             "destination": "SiteGround",
             "date": "2025-01-10 15:18:26"
-        },
-        {
-            "domain_name": "ericsommer.com",
-            "destination": "SiteGround",
-            "date": "2025-01-10 14:59:32"
         }
     ],
     "dailyMovedStat": {
@@ -618,7 +618,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 7333,
-        "Bluehost": 3620,
+        "Bluehost": 3621,
         "Kinsta": 2286,
         "Digital Ocean": 2239,
         "SiteGround": 1977,
