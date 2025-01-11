@@ -1,6 +1,11 @@
 {
-    "siteCount": 35200,
+    "siteCount": 35203,
     "recentlyMoved": [
+        {
+            "domain_name": "nis2directive.eu",
+            "destination": "Digital Ocean",
+            "date": "2025-01-11 07:17:13"
+        },
         {
             "domain_name": "yonkergroup.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.southjerseycremation.com",
             "destination": "Digital Ocean",
             "date": "2025-01-10 13:26:40"
-        },
-        {
-            "domain_name": "localmarketinghero.org",
-            "destination": "Pressable",
-            "date": "2025-01-10 13:15:50"
         }
     ],
     "dailyMovedStat": {
@@ -620,8 +620,8 @@
         "Pressable": 7332,
         "Bluehost": 3620,
         "Kinsta": 2285,
-        "Digital Ocean": 2238,
-        "SiteGround": 1975,
+        "Digital Ocean": 2239,
+        "SiteGround": 1976,
         "Hostinger": 1178,
         "GoDaddy": 581,
         "BigScoots": 316,
