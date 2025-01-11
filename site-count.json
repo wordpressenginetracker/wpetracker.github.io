@@ -1,6 +1,11 @@
 {
-    "siteCount": 35183,
+    "siteCount": 35185,
     "recentlyMoved": [
+        {
+            "domain_name": "espressoreview.com",
+            "destination": "Kinsta",
+            "date": "2025-01-11 03:05:46"
+        },
         {
             "domain_name": "mandbhomemaintenance.com",
             "destination": "HostGator",
@@ -462,11 +467,6 @@
             "date": "2025-01-10 14:02:35"
         },
         {
-            "domain_name": "www.paceseniors.com",
-            "destination": "Pressable",
-            "date": "2025-01-10 13:43:41"
-        },
-        {
             "domain_name": "www.playter.com",
             "destination": "Pressable",
             "date": "2025-01-10 13:41:07"
@@ -619,7 +619,7 @@
     "topDestinationHosts": {
         "Pressable": 7332,
         "Bluehost": 3619,
-        "Kinsta": 2284,
+        "Kinsta": 2285,
         "Digital Ocean": 2238,
         "SiteGround": 1975,
         "Hostinger": 1177,
