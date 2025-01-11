@@ -1,6 +1,11 @@
 {
-    "siteCount": 35425,
+    "siteCount": 35437,
     "recentlyMoved": [
+        {
+            "domain_name": "www.zayo.com",
+            "destination": "GridPane",
+            "date": "2025-01-11 22:05:19"
+        },
         {
             "domain_name": "certifications.zayo.com",
             "destination": "GridPane",
@@ -492,11 +497,6 @@
             "date": "2025-01-11 00:02:28"
         },
         {
-            "domain_name": "gcnuevosur.com",
-            "destination": "Bluehost",
-            "date": "2025-01-10 23:39:41"
-        },
-        {
             "domain_name": "peakmentalhealthcare.com",
             "destination": "Kinsta",
             "date": "2025-01-10 23:35:19"
@@ -627,7 +627,7 @@
         "BigScoots": 317,
         "Liquid Web": 238,
         "Elementor Hosting": 204,
-        "GridPane": 164,
+        "GridPane": 165,
         "WordPress.com": 161,
         "InMotion Hosting": 154,
         "Wordify": 149,
