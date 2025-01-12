@@ -1,6 +1,11 @@
 {
-    "siteCount": 35551,
+    "siteCount": 35553,
     "recentlyMoved": [
+        {
+            "domain_name": "st-eq.com",
+            "destination": "Bluehost",
+            "date": "2025-01-12 21:14:22"
+        },
         {
             "domain_name": "julianivey.com",
             "destination": "Hostinger",
@@ -462,11 +467,6 @@
             "date": "2025-01-11 12:37:42"
         },
         {
-            "domain_name": "primeassetrecovery.com",
-            "destination": "Hostinger",
-            "date": "2025-01-11 12:34:40"
-        },
-        {
             "domain_name": "qualityaudiovideo.com",
             "destination": "Digital Ocean",
             "date": "2025-01-11 12:33:32"
@@ -619,7 +619,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 7362,
-        "Bluehost": 3622,
+        "Bluehost": 3623,
         "Kinsta": 2289,
         "Digital Ocean": 2253,
         "SiteGround": 1991,
