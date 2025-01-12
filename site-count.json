@@ -1,6 +1,21 @@
 {
-    "siteCount": 35501,
+    "siteCount": 35507,
     "recentlyMoved": [
+        {
+            "domain_name": "funkyhair.com",
+            "destination": "Hostinger",
+            "date": "2025-01-12 15:50:51"
+        },
+        {
+            "domain_name": "2ndtimestores.com",
+            "destination": "Hostinger",
+            "date": "2025-01-12 15:43:02"
+        },
+        {
+            "domain_name": "woodsmanwill.com",
+            "destination": "Hostinger",
+            "date": "2025-01-12 15:28:32"
+        },
         {
             "domain_name": "ru-tee.com",
             "destination": "IONOS",
@@ -485,21 +500,6 @@
             "domain_name": "machinerieavantis.ca",
             "destination": "Kinsta",
             "date": "2025-01-11 09:49:58"
-        },
-        {
-            "domain_name": "surveysyork.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-01-11 09:33:01"
-        },
-        {
-            "domain_name": "swankypaws.com.au",
-            "destination": "SiteGround",
-            "date": "2025-01-11 09:32:19"
-        },
-        {
-            "domain_name": "synergy-estates.com",
-            "destination": "Hostinger",
-            "date": "2025-01-11 09:29:55"
         }
     ],
     "dailyMovedStat": {
@@ -623,7 +623,7 @@
         "Kinsta": 2289,
         "Digital Ocean": 2251,
         "SiteGround": 1990,
-        "Hostinger": 1197,
+        "Hostinger": 1200,
         "GoDaddy": 588,
         "BigScoots": 318,
         "Liquid Web": 239,
