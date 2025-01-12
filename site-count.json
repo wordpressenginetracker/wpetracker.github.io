@@ -1,6 +1,11 @@
 {
-    "siteCount": 35478,
+    "siteCount": 35482,
     "recentlyMoved": [
+        {
+            "domain_name": "farrahnt.com",
+            "destination": "BigScoots",
+            "date": "2025-01-12 07:25:31"
+        },
         {
             "domain_name": "settingslocationoff.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "nis2directive.eu",
             "destination": "Digital Ocean",
             "date": "2025-01-11 07:17:13"
-        },
-        {
-            "domain_name": "yonkergroup.com",
-            "destination": "SiteGround",
-            "date": "2025-01-11 06:50:27"
         }
     ],
     "dailyMovedStat": {
@@ -625,7 +625,7 @@
         "SiteGround": 1990,
         "Hostinger": 1197,
         "GoDaddy": 588,
-        "BigScoots": 317,
+        "BigScoots": 318,
         "Liquid Web": 239,
         "Elementor Hosting": 204,
         "GridPane": 165,
