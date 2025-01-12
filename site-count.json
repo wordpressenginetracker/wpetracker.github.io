@@ -1,6 +1,11 @@
 {
-    "siteCount": 35454,
+    "siteCount": 35458,
     "recentlyMoved": [
+        {
+            "domain_name": "drivingcleanca.org",
+            "destination": "Digital Ocean",
+            "date": "2025-01-12 02:16:14"
+        },
         {
             "domain_name": "www.kpghealthcare.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.leedssurveyors.com",
             "destination": "Hostinger",
             "date": "2025-01-11 04:40:24"
-        },
-        {
-            "domain_name": "espressoreview.com",
-            "destination": "Kinsta",
-            "date": "2025-01-11 03:05:46"
         }
     ],
     "dailyMovedStat": {
@@ -621,7 +621,7 @@
         "Pressable": 7362,
         "Bluehost": 3622,
         "Kinsta": 2289,
-        "Digital Ocean": 2248,
+        "Digital Ocean": 2249,
         "SiteGround": 1990,
         "Hostinger": 1194,
         "GoDaddy": 588,
