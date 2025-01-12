@@ -1,6 +1,11 @@
 {
-    "siteCount": 35548,
+    "siteCount": 35551,
     "recentlyMoved": [
+        {
+            "domain_name": "julianivey.com",
+            "destination": "Hostinger",
+            "date": "2025-01-12 21:13:09"
+        },
         {
             "domain_name": "www.bloomingtonelectric.net",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.cfok.org",
             "destination": "Pressable",
             "date": "2025-01-11 12:05:00"
-        },
-        {
-            "domain_name": "artafloatokc.org",
-            "destination": "Pressable",
-            "date": "2025-01-11 11:43:01"
         }
     ],
     "dailyMovedStat": {
@@ -623,7 +623,7 @@
         "Kinsta": 2289,
         "Digital Ocean": 2253,
         "SiteGround": 1991,
-        "Hostinger": 1203,
+        "Hostinger": 1204,
         "GoDaddy": 588,
         "BigScoots": 318,
         "Liquid Web": 239,
