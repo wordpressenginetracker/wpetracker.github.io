@@ -1,6 +1,11 @@
 {
-    "siteCount": 35676,
+    "siteCount": 35677,
     "recentlyMoved": [
+        {
+            "domain_name": "tpscareertech.org",
+            "destination": "Bluehost",
+            "date": "2025-01-13 22:46:02"
+        },
         {
             "domain_name": "michiganchronicle.com",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-01-11 16:10:58"
         },
         {
-            "domain_name": "wjquinn.com",
-            "destination": "Hostinger",
-            "date": "2025-01-11 16:06:34"
-        },
-        {
             "domain_name": "www.ccstechnologygroup.com",
             "destination": "Digital Ocean",
             "date": "2025-01-11 15:52:11"
@@ -616,12 +616,13 @@
         "2025-01-09": "34828",
         "2025-01-10": "35162",
         "2025-01-11": "35441",
-        "2025-01-12": "35553"
+        "2025-01-12": "35553",
+        "2025-01-13": "35677"
     },
     "topDestinationHosts": {
         "Pressable": 7364,
-        "Bluehost": 3624,
-        "Kinsta": 2290,
+        "Bluehost": 3625,
+        "Kinsta": 2291,
         "Digital Ocean": 2261,
         "SiteGround": 1997,
         "Hostinger": 1211,
@@ -754,6 +755,7 @@
         "2025-01-09": "684352",
         "2025-01-10": "683649",
         "2025-01-11": "683469",
-        "2025-01-12": "683870"
+        "2025-01-12": "683870",
+        "2025-01-13": "683311"
     }
 }
