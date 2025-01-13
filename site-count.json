@@ -1,6 +1,11 @@
 {
-    "siteCount": 35611,
+    "siteCount": 35614,
     "recentlyMoved": [
+        {
+            "domain_name": "icecann.com",
+            "destination": "Hostinger",
+            "date": "2025-01-13 12:21:46"
+        },
         {
             "domain_name": "artstudiobeyou.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-01-11 13:59:38"
         },
         {
-            "domain_name": "www.okcommunitycares.org",
-            "destination": "Pressable",
-            "date": "2025-01-11 13:52:49"
-        },
-        {
             "domain_name": "www.southcoastinsurancegroup.com",
             "destination": "Pressable",
             "date": "2025-01-11 13:26:06"
@@ -624,7 +624,7 @@
         "Kinsta": 2290,
         "Digital Ocean": 2257,
         "SiteGround": 1996,
-        "Hostinger": 1208,
+        "Hostinger": 1209,
         "GoDaddy": 589,
         "BigScoots": 318,
         "Liquid Web": 239,
