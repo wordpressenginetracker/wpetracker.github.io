@@ -1,6 +1,16 @@
 {
-    "siteCount": 35670,
+    "siteCount": 35676,
     "recentlyMoved": [
+        {
+            "domain_name": "michiganchronicle.com",
+            "destination": "Kinsta",
+            "date": "2025-01-13 22:31:42"
+        },
+        {
+            "domain_name": "ksimply.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-13 21:49:21"
+        },
         {
             "domain_name": "reproofing.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "prosperfirm.com",
             "destination": "GoDaddy",
             "date": "2025-01-11 15:47:32"
-        },
-        {
-            "domain_name": "about.nextdoor.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-11 15:11:15"
-        },
-        {
-            "domain_name": "abextrans.com",
-            "destination": "Hostinger",
-            "date": "2025-01-11 15:11:15"
         }
     ],
     "dailyMovedStat": {
@@ -631,7 +631,7 @@
         "Elementor Hosting": 204,
         "GridPane": 165,
         "WordPress.com": 162,
-        "InMotion Hosting": 154,
+        "InMotion Hosting": 155,
         "Wordify": 150,
         "OVH": 120,
         "A2 Hosting": 107,
