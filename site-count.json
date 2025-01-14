@@ -1,6 +1,36 @@
 {
-    "siteCount": 35944,
+    "siteCount": 35955,
     "recentlyMoved": [
+        {
+            "domain_name": "jpguitar.co",
+            "destination": "SiteGround",
+            "date": "2025-01-14 21:06:33"
+        },
+        {
+            "domain_name": "www.jewishleadershipconference.org",
+            "destination": "Kinsta",
+            "date": "2025-01-14 20:58:00"
+        },
+        {
+            "domain_name": "buykoster.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-14 20:51:55"
+        },
+        {
+            "domain_name": "cannacontent.co",
+            "destination": "Digital Ocean",
+            "date": "2025-01-14 20:51:37"
+        },
+        {
+            "domain_name": "siemensmfg.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-14 20:50:56"
+        },
+        {
+            "domain_name": "quiplabs.com",
+            "destination": "Pressable",
+            "date": "2025-01-14 20:40:55"
+        },
         {
             "domain_name": "www.carpentrysquad.com",
             "destination": "Pressable",
@@ -470,36 +500,6 @@
             "domain_name": "thesantanacenter.org",
             "destination": "Bluehost",
             "date": "2025-01-13 18:31:42"
-        },
-        {
-            "domain_name": "hackneysfinest.com",
-            "destination": "Hostinger",
-            "date": "2025-01-13 16:27:56"
-        },
-        {
-            "domain_name": "babyou.me",
-            "destination": "Digital Ocean",
-            "date": "2025-01-13 16:19:35"
-        },
-        {
-            "domain_name": "www.cwlcnc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-13 16:07:39"
-        },
-        {
-            "domain_name": "www.3dstoragesystems.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-13 15:53:38"
-        },
-        {
-            "domain_name": "eternitybailbonds.com",
-            "destination": "Hostinger",
-            "date": "2025-01-13 15:01:27"
-        },
-        {
-            "domain_name": "cs4il.org",
-            "destination": "IONOS",
-            "date": "2025-01-13 13:20:04"
         }
     ],
     "dailyMovedStat": {
@@ -620,13 +620,13 @@
         "2025-01-13": "35677"
     },
     "topDestinationHosts": {
-        "Pressable": 7385,
+        "Pressable": 7387,
         "Bluehost": 3627,
-        "Kinsta": 2300,
-        "Digital Ocean": 2270,
-        "SiteGround": 2012,
+        "Kinsta": 2301,
+        "Digital Ocean": 2272,
+        "SiteGround": 2013,
         "Hostinger": 1222,
-        "GoDaddy": 593,
+        "GoDaddy": 594,
         "BigScoots": 320,
         "Liquid Web": 240,
         "Elementor Hosting": 205,
