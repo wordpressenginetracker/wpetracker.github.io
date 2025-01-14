@@ -1,6 +1,16 @@
 {
-    "siteCount": 35970,
+    "siteCount": 35976,
     "recentlyMoved": [
+        {
+            "domain_name": "northtx.aceds.org",
+            "destination": "GridPane",
+            "date": "2025-01-14 23:26:30"
+        },
+        {
+            "domain_name": "newengland.aceds.org",
+            "destination": "GridPane",
+            "date": "2025-01-14 22:57:07"
+        },
         {
             "domain_name": "defyinggravityac.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "eighteenpg.com",
             "destination": "Elementor Hosting",
             "date": "2025-01-14 02:29:12"
-        },
-        {
-            "domain_name": "busseltonvillasandcaravanpark.com.au",
-            "destination": "Kinsta",
-            "date": "2025-01-14 01:18:26"
-        },
-        {
-            "domain_name": "wchfoundation.org.au",
-            "destination": "Kinsta",
-            "date": "2025-01-13 23:36:39"
         }
     ],
     "dailyMovedStat": {
@@ -617,7 +617,8 @@
         "2025-01-10": "35162",
         "2025-01-11": "35441",
         "2025-01-12": "35553",
-        "2025-01-13": "35677"
+        "2025-01-13": "35677",
+        "2025-01-14": "35976"
     },
     "topDestinationHosts": {
         "Pressable": 7388,
@@ -630,7 +631,7 @@
         "BigScoots": 320,
         "Liquid Web": 240,
         "Elementor Hosting": 205,
-        "GridPane": 170,
+        "GridPane": 172,
         "WordPress.com": 164,
         "InMotion Hosting": 156,
         "Wordify": 150,
@@ -756,6 +757,7 @@
         "2025-01-10": "683649",
         "2025-01-11": "683469",
         "2025-01-12": "683870",
-        "2025-01-13": "683311"
+        "2025-01-13": "683311",
+        "2025-01-14": "681951"
     }
 }
