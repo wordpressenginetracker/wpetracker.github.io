@@ -1,10 +1,35 @@
 {
-    "siteCount": 35754,
+    "siteCount": 35774,
     "recentlyMoved": [
+        {
+            "domain_name": "castletreehomes.je",
+            "destination": "GridPane",
+            "date": "2025-01-14 13:02:23"
+        },
+        {
+            "domain_name": "captaincake.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-14 12:56:28"
+        },
+        {
+            "domain_name": "hometreatsuk.com",
+            "destination": "Pressable",
+            "date": "2025-01-14 12:44:54"
+        },
+        {
+            "domain_name": "bluesmovementlab.com",
+            "destination": "Pressable",
+            "date": "2025-01-14 12:37:58"
+        },
         {
             "domain_name": "www.arborprollc.com",
             "destination": "Pressable",
             "date": "2025-01-14 12:27:11"
+        },
+        {
+            "domain_name": "hopewellsportsnation.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-14 12:24:27"
         },
         {
             "domain_name": "www.bassheatingandcooling.com",
@@ -15,6 +40,11 @@
             "domain_name": "oemc.ca",
             "destination": "SiteGround",
             "date": "2025-01-14 12:06:14"
+        },
+        {
+            "domain_name": "bestpoolsteprepair.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-14 12:05:35"
         },
         {
             "domain_name": "3sistersktc.com",
@@ -432,11 +462,6 @@
             "date": "2025-01-11 20:39:51"
         },
         {
-            "domain_name": "alumarooms.com",
-            "destination": "Hostinger",
-            "date": "2025-01-11 20:24:40"
-        },
-        {
             "domain_name": "www.blakeshardcider.com",
             "destination": "Pressable",
             "date": "2025-01-11 20:19:13"
@@ -447,24 +472,9 @@
             "date": "2025-01-11 20:16:05"
         },
         {
-            "domain_name": "www.yorkshirerecycling.com",
-            "destination": "Pressable",
-            "date": "2025-01-11 20:11:47"
-        },
-        {
-            "domain_name": "partners.zayo.com",
-            "destination": "GridPane",
-            "date": "2025-01-11 20:07:41"
-        },
-        {
             "domain_name": "reddingbuzz.com",
             "destination": "Bluehost",
             "date": "2025-01-11 20:07:39"
-        },
-        {
-            "domain_name": "adgreenroof.com",
-            "destination": "SiteGround",
-            "date": "2025-01-11 20:02:24"
         },
         {
             "domain_name": "www.burnsvilleelectricians.com",
@@ -487,19 +497,9 @@
             "date": "2025-01-11 19:51:33"
         },
         {
-            "domain_name": "access.me",
-            "destination": "SiteGround",
-            "date": "2025-01-11 19:48:55"
-        },
-        {
             "domain_name": "granitecreationsma.com",
             "destination": "Hostinger",
             "date": "2025-01-11 19:45:19"
-        },
-        {
-            "domain_name": "frontlinesecurityny.com",
-            "destination": "Pressable",
-            "date": "2025-01-11 19:41:13"
         }
     ],
     "dailyMovedStat": {
@@ -620,17 +620,17 @@
         "2025-01-13": "35677"
     },
     "topDestinationHosts": {
-        "Pressable": 7368,
+        "Pressable": 7371,
         "Bluehost": 3625,
         "Kinsta": 2293,
-        "Digital Ocean": 2261,
+        "Digital Ocean": 2263,
         "SiteGround": 2001,
         "Hostinger": 1212,
-        "GoDaddy": 589,
+        "GoDaddy": 590,
         "BigScoots": 318,
         "Liquid Web": 240,
         "Elementor Hosting": 205,
-        "GridPane": 165,
+        "GridPane": 166,
         "WordPress.com": 163,
         "InMotion Hosting": 156,
         "Wordify": 150,
