@@ -1,6 +1,11 @@
 {
-    "siteCount": 35698,
+    "siteCount": 35700,
     "recentlyMoved": [
+        {
+            "domain_name": "africandiasporanews.org",
+            "destination": "Pressable",
+            "date": "2025-01-14 03:39:29"
+        },
         {
             "domain_name": "eighteenpg.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "insatiableeats.com",
             "destination": "SiteGround",
             "date": "2025-01-11 16:25:36"
-        },
-        {
-            "domain_name": "www.ccstechnologygroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-11 15:52:11"
         }
     ],
     "dailyMovedStat": {
@@ -620,7 +620,7 @@
         "2025-01-13": "35677"
     },
     "topDestinationHosts": {
-        "Pressable": 7364,
+        "Pressable": 7365,
         "Bluehost": 3625,
         "Kinsta": 2293,
         "Digital Ocean": 2261,
