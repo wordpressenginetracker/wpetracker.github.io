@@ -1,10 +1,25 @@
 {
-    "siteCount": 36374,
+    "siteCount": 36380,
     "recentlyMoved": [
+        {
+            "domain_name": "venturacountypress.com",
+            "destination": "IONOS",
+            "date": "2025-01-15 23:09:51"
+        },
         {
             "domain_name": "mdspodcast.com",
             "destination": "IONOS",
             "date": "2025-01-15 22:31:25"
+        },
+        {
+            "domain_name": "trifectagroupmfg.com",
+            "destination": "IONOS",
+            "date": "2025-01-15 22:30:06"
+        },
+        {
+            "domain_name": "tpwparts.com",
+            "destination": "Hetzner Online",
+            "date": "2025-01-15 22:16:52"
         },
         {
             "domain_name": "disaster-smart.com",
@@ -472,11 +487,6 @@
             "date": "2025-01-15 13:48:40"
         },
         {
-            "domain_name": "www.overthetoptreeservice.net",
-            "destination": "Pressable",
-            "date": "2025-01-15 13:48:00"
-        },
-        {
             "domain_name": "collisionmasters.biz",
             "destination": "IONOS",
             "date": "2025-01-15 13:46:38"
@@ -485,16 +495,6 @@
             "domain_name": "dakresources.com",
             "destination": "InMotion Hosting",
             "date": "2025-01-15 13:36:49"
-        },
-        {
-            "domain_name": "lafleuraesthetics.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-15 13:36:11"
-        },
-        {
-            "domain_name": "kinectservices.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-15 13:35:04"
         },
         {
             "domain_name": "www.thepovertylab.com",
@@ -618,7 +618,8 @@
         "2025-01-11": "35441",
         "2025-01-12": "35553",
         "2025-01-13": "35677",
-        "2025-01-14": "35976"
+        "2025-01-14": "35976",
+        "2025-01-15": "36380"
     },
     "topDestinationHosts": {
         "Pressable": 7418,
@@ -638,8 +639,8 @@
         "OVH": 124,
         "A2 Hosting": 112,
         "Namecheap": 106,
-        "Hetzner Online": 103,
-        "IONOS": 98,
+        "Hetzner Online": 104,
+        "IONOS": 100,
         "DreamHost": 83
     },
     "dailyTotalStat": {
@@ -758,6 +759,7 @@
         "2025-01-11": "683469",
         "2025-01-12": "683870",
         "2025-01-13": "683311",
-        "2025-01-14": "681951"
+        "2025-01-14": "681951",
+        "2025-01-15": "681361"
     }
 }
