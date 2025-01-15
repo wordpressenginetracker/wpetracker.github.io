@@ -1,6 +1,26 @@
 {
-    "siteCount": 36015,
+    "siteCount": 36024,
     "recentlyMoved": [
+        {
+            "domain_name": "bykevinmahoney.com",
+            "destination": "Bluehost",
+            "date": "2025-01-15 05:23:12"
+        },
+        {
+            "domain_name": "iniziomarketing.consulting",
+            "destination": "Hostinger",
+            "date": "2025-01-15 05:00:36"
+        },
+        {
+            "domain_name": "revo.film",
+            "destination": "SiteGround",
+            "date": "2025-01-15 04:32:17"
+        },
+        {
+            "domain_name": "quenchwater.com",
+            "destination": "WordPress VIP",
+            "date": "2025-01-15 04:03:55"
+        },
         {
             "domain_name": "onevoice4kids.com",
             "destination": "Hostinger",
@@ -457,11 +477,6 @@
             "date": "2025-01-14 12:37:58"
         },
         {
-            "domain_name": "www.arborprollc.com",
-            "destination": "Pressable",
-            "date": "2025-01-14 12:27:11"
-        },
-        {
             "domain_name": "hopewellsportsnation.com",
             "destination": "GoDaddy",
             "date": "2025-01-14 12:24:27"
@@ -485,21 +500,6 @@
             "domain_name": "aplustransport.co.uk",
             "destination": "SiteGround",
             "date": "2025-01-14 11:44:31"
-        },
-        {
-            "domain_name": "albertswindowcleaning.com",
-            "destination": "HostGator",
-            "date": "2025-01-14 11:40:50"
-        },
-        {
-            "domain_name": "www.habitat-hvl.org",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-14 11:39:30"
-        },
-        {
-            "domain_name": "wcrelouisville.com",
-            "destination": "Pressable",
-            "date": "2025-01-14 11:23:19"
         }
     ],
     "dailyMovedStat": {
@@ -622,11 +622,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 7389,
-        "Bluehost": 3627,
+        "Bluehost": 3628,
         "Kinsta": 2303,
         "Digital Ocean": 2279,
-        "SiteGround": 2016,
-        "Hostinger": 1224,
+        "SiteGround": 2017,
+        "Hostinger": 1225,
         "GoDaddy": 595,
         "BigScoots": 320,
         "Liquid Web": 240,
