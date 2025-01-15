@@ -1,6 +1,41 @@
 {
-    "siteCount": 36053,
+    "siteCount": 36060,
     "recentlyMoved": [
+        {
+            "domain_name": "taxingebk.se",
+            "destination": "Kinsta",
+            "date": "2025-01-15 10:20:36"
+        },
+        {
+            "domain_name": "thesuccessiongroup.com",
+            "destination": "SiteGround",
+            "date": "2025-01-15 10:13:23"
+        },
+        {
+            "domain_name": "www.victorylive.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-15 10:12:43"
+        },
+        {
+            "domain_name": "yirika.com",
+            "destination": "SiteGround",
+            "date": "2025-01-15 10:11:58"
+        },
+        {
+            "domain_name": "computerhilfe-hd.de",
+            "destination": "IONOS",
+            "date": "2025-01-15 09:49:36"
+        },
+        {
+            "domain_name": "deantellone.net",
+            "destination": "SiteGround",
+            "date": "2025-01-15 09:45:17"
+        },
+        {
+            "domain_name": "deantellone.com",
+            "destination": "SiteGround",
+            "date": "2025-01-15 09:45:17"
+        },
         {
             "domain_name": "kinddeliveryco.com",
             "destination": "Liquid Web",
@@ -462,44 +497,9 @@
             "date": "2025-01-14 14:15:23"
         },
         {
-            "domain_name": "sulco-lancer.com",
-            "destination": "Hostinger",
-            "date": "2025-01-14 14:11:55"
-        },
-        {
             "domain_name": "theallen.com",
             "destination": "Pressable",
             "date": "2025-01-14 13:45:58"
-        },
-        {
-            "domain_name": "synergisticpropertymgmt.com",
-            "destination": "HostGator",
-            "date": "2025-01-14 13:44:53"
-        },
-        {
-            "domain_name": "www.souveniravanti.com",
-            "destination": "Bluehost",
-            "date": "2025-01-14 13:39:22"
-        },
-        {
-            "domain_name": "stillwaterflatstn.com",
-            "destination": "Hostinger",
-            "date": "2025-01-14 13:35:08"
-        },
-        {
-            "domain_name": "lvmgt.com",
-            "destination": "SiteGround",
-            "date": "2025-01-14 13:33:53"
-        },
-        {
-            "domain_name": "culbournefencing.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-01-14 13:31:13"
-        },
-        {
-            "domain_name": "crossfitmomentum.com",
-            "destination": "Pressable",
-            "date": "2025-01-14 13:30:35"
         }
     ],
     "dailyMovedStat": {
@@ -623,23 +623,23 @@
     "topDestinationHosts": {
         "Pressable": 7389,
         "Bluehost": 3628,
-        "Kinsta": 2308,
+        "Kinsta": 2309,
         "Digital Ocean": 2279,
-        "SiteGround": 2017,
+        "SiteGround": 2021,
         "Hostinger": 1230,
         "GoDaddy": 596,
         "BigScoots": 320,
-        "Liquid Web": 240,
+        "Liquid Web": 241,
         "Elementor Hosting": 205,
         "GridPane": 173,
         "WordPress.com": 164,
-        "InMotion Hosting": 157,
+        "InMotion Hosting": 158,
         "Wordify": 150,
         "OVH": 122,
         "A2 Hosting": 107,
         "Namecheap": 105,
         "Hetzner Online": 102,
-        "IONOS": 90,
+        "IONOS": 91,
         "DreamHost": 81
     },
     "dailyTotalStat": {
