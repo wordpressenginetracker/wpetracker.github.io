@@ -1,10 +1,55 @@
 {
-    "siteCount": 36760,
+    "siteCount": 36775,
     "recentlyMoved": [
+        {
+            "domain_name": "www.localite.com",
+            "destination": "BigScoots",
+            "date": "2025-01-16 21:48:44"
+        },
+        {
+            "domain_name": "www.houstononthecheap.com",
+            "destination": "BigScoots",
+            "date": "2025-01-16 21:20:57"
+        },
+        {
+            "domain_name": "investtrek.com",
+            "destination": "Hostinger",
+            "date": "2025-01-16 21:15:36"
+        },
+        {
+            "domain_name": "www.halbertconstruction.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-16 21:09:31"
+        },
+        {
+            "domain_name": "helpwithyourhustle.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-16 20:54:12"
+        },
+        {
+            "domain_name": "raydon-inc.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-16 20:52:00"
+        },
+        {
+            "domain_name": "jknylaw.com",
+            "destination": "Liquid Web",
+            "date": "2025-01-16 20:50:59"
+        },
+        {
+            "domain_name": "aucklandsmp.co.nz",
+            "destination": "SiteGround",
+            "date": "2025-01-16 20:41:13"
+        },
         {
             "domain_name": "www.bentleyrowe.co.uk",
             "destination": "IONOS",
             "date": "2025-01-16 20:39:16"
+        },
+        {
+            "domain_name": "bmipestcontrol.com",
+            "destination": "Kinsta",
+            "date": "2025-01-16 20:38:28"
         },
         {
             "domain_name": "www.atxonbudget.com",
@@ -437,11 +482,6 @@
             "date": "2025-01-16 12:25:00"
         },
         {
-            "domain_name": "ogxsoftball.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-16 11:56:39"
-        },
-        {
             "domain_name": "awarenessinmotion.com",
             "destination": "Hostinger",
             "date": "2025-01-16 11:56:14"
@@ -452,54 +492,14 @@
             "date": "2025-01-16 11:50:44"
         },
         {
-            "domain_name": "wayneleiss.com",
-            "destination": "Pressable",
-            "date": "2025-01-16 11:44:49"
-        },
-        {
             "domain_name": "pivotaltwist.com",
             "destination": "IONOS",
             "date": "2025-01-16 11:35:36"
         },
         {
-            "domain_name": "parcfontaine.org",
-            "destination": "Digital Ocean",
-            "date": "2025-01-16 11:30:23"
-        },
-        {
             "domain_name": "wisdomalc.com",
             "destination": "Hostinger",
             "date": "2025-01-16 11:22:23"
-        },
-        {
-            "domain_name": "northamericanconsultingservices.com",
-            "destination": "IONOS",
-            "date": "2025-01-16 11:17:59"
-        },
-        {
-            "domain_name": "nomupay.com",
-            "destination": "GridPane",
-            "date": "2025-01-16 11:17:59"
-        },
-        {
-            "domain_name": "vaughansc.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-01-16 10:31:45"
-        },
-        {
-            "domain_name": "l2lscorecard.com",
-            "destination": "IONOS",
-            "date": "2025-01-16 10:15:16"
-        },
-        {
-            "domain_name": "enebybk.se",
-            "destination": "Kinsta",
-            "date": "2025-01-16 10:09:31"
-        },
-        {
-            "domain_name": "mtreadrealty.com",
-            "destination": "IONOS",
-            "date": "2025-01-16 10:06:50"
         }
     ],
     "dailyMovedStat": {
@@ -624,17 +624,17 @@
     "topDestinationHosts": {
         "Pressable": 7440,
         "Bluehost": 3636,
-        "Kinsta": 2338,
-        "Digital Ocean": 2321,
-        "SiteGround": 2057,
-        "Hostinger": 1253,
-        "GoDaddy": 610,
-        "BigScoots": 325,
-        "Liquid Web": 249,
+        "Kinsta": 2339,
+        "Digital Ocean": 2322,
+        "SiteGround": 2058,
+        "Hostinger": 1254,
+        "GoDaddy": 611,
+        "BigScoots": 326,
+        "Liquid Web": 250,
         "Elementor Hosting": 206,
         "GridPane": 187,
         "WordPress.com": 169,
-        "InMotion Hosting": 160,
+        "InMotion Hosting": 161,
         "Wordify": 150,
         "IONOS": 129,
         "OVH": 125,
