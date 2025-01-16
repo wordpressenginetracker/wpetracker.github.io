@@ -1,6 +1,16 @@
 {
-    "siteCount": 36797,
+    "siteCount": 36807,
     "recentlyMoved": [
+        {
+            "domain_name": "ths-wa.org",
+            "destination": "Kinsta",
+            "date": "2025-01-16 22:44:59"
+        },
+        {
+            "domain_name": "topcasinos.ph",
+            "destination": "SiteGround",
+            "date": "2025-01-16 22:42:59"
+        },
         {
             "domain_name": "completepiers.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "davidlevitan.com",
             "destination": "Pressable",
             "date": "2025-01-16 13:31:16"
-        },
-        {
-            "domain_name": "sonicsalute.com",
-            "destination": "SiteGround",
-            "date": "2025-01-16 13:29:26"
-        },
-        {
-            "domain_name": "kotrynabass.com",
-            "destination": "BigScoots",
-            "date": "2025-01-16 13:14:12"
         }
     ],
     "dailyMovedStat": {
@@ -619,14 +619,15 @@
         "2025-01-12": "35553",
         "2025-01-13": "35677",
         "2025-01-14": "35976",
-        "2025-01-15": "36380"
+        "2025-01-15": "36380",
+        "2025-01-16": "36807"
     },
     "topDestinationHosts": {
         "Pressable": 7442,
         "Bluehost": 3637,
-        "Kinsta": 2344,
+        "Kinsta": 2345,
         "Digital Ocean": 2324,
-        "SiteGround": 2059,
+        "SiteGround": 2060,
         "Hostinger": 1254,
         "GoDaddy": 611,
         "BigScoots": 328,
@@ -760,6 +761,7 @@
         "2025-01-12": "683870",
         "2025-01-13": "683311",
         "2025-01-14": "681951",
-        "2025-01-15": "681361"
+        "2025-01-15": "681361",
+        "2025-01-16": "679845"
     }
 }
