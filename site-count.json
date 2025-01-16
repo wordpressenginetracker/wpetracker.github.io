@@ -1,6 +1,16 @@
 {
-    "siteCount": 36414,
+    "siteCount": 36416,
     "recentlyMoved": [
+        {
+            "domain_name": "alliedlocks.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-01-16 03:38:26"
+        },
+        {
+            "domain_name": "onecannes.com.au",
+            "destination": "SiteGround",
+            "date": "2025-01-16 03:17:47"
+        },
         {
             "domain_name": "maxlife.nz",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "oc.aceds.org",
             "destination": "GridPane",
             "date": "2025-01-15 15:21:51"
-        },
-        {
-            "domain_name": "valkyriestrengthandconditioning.com",
-            "destination": "A2 Hosting",
-            "date": "2025-01-15 14:58:11"
-        },
-        {
-            "domain_name": "usecapital.com",
-            "destination": "IONOS",
-            "date": "2025-01-15 14:35:36"
         }
     ],
     "dailyMovedStat": {
@@ -626,8 +626,8 @@
         "Bluehost": 3629,
         "Kinsta": 2321,
         "Digital Ocean": 2297,
-        "SiteGround": 2036,
-        "Hostinger": 1247,
+        "SiteGround": 2037,
+        "Hostinger": 1248,
         "GoDaddy": 606,
         "BigScoots": 321,
         "Liquid Web": 246,
