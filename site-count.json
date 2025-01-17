@@ -1,6 +1,26 @@
 {
-    "siteCount": 36900,
+    "siteCount": 36909,
     "recentlyMoved": [
+        {
+            "domain_name": "thegspotsmokeshop.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-17 10:20:39"
+        },
+        {
+            "domain_name": "thecontractfabricshop.com",
+            "destination": "SiteGround",
+            "date": "2025-01-17 10:00:32"
+        },
+        {
+            "domain_name": "di-basketballscouting.com",
+            "destination": "Kinsta",
+            "date": "2025-01-17 09:45:47"
+        },
+        {
+            "domain_name": "crossfithappystreets.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-17 09:34:42"
+        },
         {
             "domain_name": "kimberlyleair.com",
             "destination": "Kinsta",
@@ -10,6 +30,11 @@
             "domain_name": "smallbatchclay.com",
             "destination": "Kinsta",
             "date": "2025-01-17 09:31:16"
+        },
+        {
+            "domain_name": "www.murtradental.com",
+            "destination": "OVH",
+            "date": "2025-01-17 09:16:21"
         },
         {
             "domain_name": "chesterpsych.com",
@@ -457,16 +482,6 @@
             "date": "2025-01-16 19:15:31"
         },
         {
-            "domain_name": "empowereddentist.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-16 19:05:23"
-        },
-        {
-            "domain_name": "energylightcenter.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-16 18:58:13"
-        },
-        {
             "domain_name": "vancouver.aceds.org",
             "destination": "GridPane",
             "date": "2025-01-16 18:41:05"
@@ -477,29 +492,14 @@
             "date": "2025-01-16 18:35:44"
         },
         {
-            "domain_name": "uk.aceds.org",
-            "destination": "GridPane",
-            "date": "2025-01-16 18:34:47"
-        },
-        {
             "domain_name": "veteransincrisis.org",
             "destination": "IONOS",
             "date": "2025-01-16 18:28:02"
         },
         {
-            "domain_name": "napavalleyyogacenter.com",
-            "destination": "IONOS",
-            "date": "2025-01-16 18:22:27"
-        },
-        {
             "domain_name": "veronicawrobinson.com",
             "destination": "Kinsta",
             "date": "2025-01-16 18:20:33"
-        },
-        {
-            "domain_name": "twincities.aceds.org",
-            "destination": "GridPane",
-            "date": "2025-01-16 18:15:39"
         }
     ],
     "dailyMovedStat": {
@@ -625,9 +625,9 @@
     "topDestinationHosts": {
         "Pressable": 7447,
         "Bluehost": 3638,
-        "Kinsta": 2350,
-        "Digital Ocean": 2338,
-        "SiteGround": 2068,
+        "Kinsta": 2353,
+        "Digital Ocean": 2340,
+        "SiteGround": 2069,
         "Hostinger": 1261,
         "GoDaddy": 611,
         "BigScoots": 329,
@@ -637,8 +637,8 @@
         "WordPress.com": 169,
         "InMotion Hosting": 162,
         "Wordify": 150,
-        "IONOS": 131,
-        "OVH": 125,
+        "IONOS": 132,
+        "OVH": 126,
         "A2 Hosting": 113,
         "Namecheap": 107,
         "Hetzner Online": 105,
