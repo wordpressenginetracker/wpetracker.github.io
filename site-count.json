@@ -1,6 +1,26 @@
 {
-    "siteCount": 36838,
+    "siteCount": 36846,
     "recentlyMoved": [
+        {
+            "domain_name": "gilmarpadua.com",
+            "destination": "Hostinger",
+            "date": "2025-01-17 04:22:20"
+        },
+        {
+            "domain_name": "anitalustrea.com",
+            "destination": "DreamHost",
+            "date": "2025-01-17 04:06:44"
+        },
+        {
+            "domain_name": "wotown.fit",
+            "destination": "Digital Ocean",
+            "date": "2025-01-17 03:56:53"
+        },
+        {
+            "domain_name": "americanenergyinsurance.com",
+            "destination": "SiteGround",
+            "date": "2025-01-17 03:38:16"
+        },
         {
             "domain_name": "madmikesstore.com",
             "destination": "Hostinger",
@@ -457,19 +477,9 @@
             "date": "2025-01-16 16:33:14"
         },
         {
-            "domain_name": "goroof.com",
-            "destination": "Pressable",
-            "date": "2025-01-16 16:33:01"
-        },
-        {
             "domain_name": "raisethebar.us",
             "destination": "A2 Hosting",
             "date": "2025-01-16 16:29:05"
-        },
-        {
-            "domain_name": "www.365plumbingseattle.com",
-            "destination": "Pressable",
-            "date": "2025-01-16 16:24:27"
         },
         {
             "domain_name": "rockindranch.com",
@@ -490,16 +500,6 @@
             "domain_name": "hearinghealthmn.com",
             "destination": "Digital Ocean",
             "date": "2025-01-16 16:04:09"
-        },
-        {
-            "domain_name": "aspenhillsdesign.com",
-            "destination": "Kinsta",
-            "date": "2025-01-16 15:48:33"
-        },
-        {
-            "domain_name": "aiprecipecollection.com",
-            "destination": "Kinsta",
-            "date": "2025-01-16 15:31:56"
         }
     ],
     "dailyMovedStat": {
@@ -626,9 +626,9 @@
         "Pressable": 7442,
         "Bluehost": 3637,
         "Kinsta": 2346,
-        "Digital Ocean": 2327,
-        "SiteGround": 2063,
-        "Hostinger": 1257,
+        "Digital Ocean": 2328,
+        "SiteGround": 2064,
+        "Hostinger": 1258,
         "GoDaddy": 611,
         "BigScoots": 329,
         "Liquid Web": 251,
@@ -642,7 +642,7 @@
         "A2 Hosting": 113,
         "Namecheap": 107,
         "Hetzner Online": 104,
-        "DreamHost": 85
+        "DreamHost": 86
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
