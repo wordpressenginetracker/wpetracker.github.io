@@ -1,6 +1,21 @@
 {
-    "siteCount": 36821,
+    "siteCount": 36829,
     "recentlyMoved": [
+        {
+            "domain_name": "www.holidayham.com",
+            "destination": "Kinsta",
+            "date": "2025-01-17 01:13:27"
+        },
+        {
+            "domain_name": "www.eliteconsulting.it",
+            "destination": "SiteGround",
+            "date": "2025-01-17 01:01:13"
+        },
+        {
+            "domain_name": "infinityhub.com",
+            "destination": "Hostinger",
+            "date": "2025-01-17 00:37:57"
+        },
         {
             "domain_name": "atayemen.com",
             "destination": "DreamHost",
@@ -462,11 +477,6 @@
             "date": "2025-01-16 15:58:07"
         },
         {
-            "domain_name": "18under18.org",
-            "destination": "BigScoots",
-            "date": "2025-01-16 15:54:57"
-        },
-        {
             "domain_name": "aspenhillsdesign.com",
             "destination": "Kinsta",
             "date": "2025-01-16 15:48:33"
@@ -490,16 +500,6 @@
             "domain_name": "fivestarelectricservice.com",
             "destination": "SiteGround",
             "date": "2025-01-16 15:22:11"
-        },
-        {
-            "domain_name": "mepelectric.com",
-            "destination": "Bluehost",
-            "date": "2025-01-16 14:12:06"
-        },
-        {
-            "domain_name": "trezureroxxrecords.com",
-            "destination": "IONOS",
-            "date": "2025-01-16 14:08:09"
         }
     ],
     "dailyMovedStat": {
@@ -625,12 +625,12 @@
     "topDestinationHosts": {
         "Pressable": 7442,
         "Bluehost": 3637,
-        "Kinsta": 2345,
+        "Kinsta": 2346,
         "Digital Ocean": 2326,
-        "SiteGround": 2062,
-        "Hostinger": 1254,
+        "SiteGround": 2063,
+        "Hostinger": 1255,
         "GoDaddy": 611,
-        "BigScoots": 328,
+        "BigScoots": 329,
         "Liquid Web": 250,
         "Elementor Hosting": 206,
         "GridPane": 189,
@@ -642,7 +642,7 @@
         "A2 Hosting": 113,
         "Namecheap": 107,
         "Hetzner Online": 104,
-        "DreamHost": 84
+        "DreamHost": 85
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
