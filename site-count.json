@@ -1,6 +1,16 @@
 {
-    "siteCount": 37593,
+    "siteCount": 37601,
     "recentlyMoved": [
+        {
+            "domain_name": "loonce.com",
+            "destination": "Hostinger",
+            "date": "2025-01-19 09:39:24"
+        },
+        {
+            "domain_name": "lawire.com",
+            "destination": "Hostinger",
+            "date": "2025-01-19 09:34:44"
+        },
         {
             "domain_name": "ceoweekly.com",
             "destination": "Hostinger",
@@ -472,11 +482,6 @@
             "date": "2025-01-18 12:07:49"
         },
         {
-            "domain_name": "fredbaerenz.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-18 12:03:07"
-        },
-        {
             "domain_name": "quitcenter.org",
             "destination": "Liquid Web",
             "date": "2025-01-18 11:53:12"
@@ -495,11 +500,6 @@
             "domain_name": "physionomade.com",
             "destination": "Kinsta",
             "date": "2025-01-18 11:34:41"
-        },
-        {
-            "domain_name": "www.fpai.ie",
-            "destination": "Digital Ocean",
-            "date": "2025-01-18 11:15:53"
         }
     ],
     "dailyMovedStat": {
@@ -630,7 +630,7 @@
         "Digital Ocean": 2400,
         "Kinsta": 2395,
         "SiteGround": 2117,
-        "Hostinger": 1295,
+        "Hostinger": 1298,
         "GoDaddy": 622,
         "BigScoots": 330,
         "Liquid Web": 256,
