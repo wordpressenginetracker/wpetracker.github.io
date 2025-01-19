@@ -1,6 +1,11 @@
 {
-    "siteCount": 37557,
+    "siteCount": 37559,
     "recentlyMoved": [
+        {
+            "domain_name": "veteransconstructionfl.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-19 02:29:52"
+        },
         {
             "domain_name": "christopherb.com",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-01-18 10:41:23"
         },
         {
-            "domain_name": "mikedoehla.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-18 10:31:27"
-        },
-        {
             "domain_name": "exalt.fit",
             "destination": "Digital Ocean",
             "date": "2025-01-18 10:21:55"
@@ -627,7 +627,7 @@
     "topDestinationHosts": {
         "Pressable": 7493,
         "Bluehost": 3644,
-        "Digital Ocean": 2399,
+        "Digital Ocean": 2400,
         "Kinsta": 2395,
         "SiteGround": 2116,
         "Hostinger": 1294,
