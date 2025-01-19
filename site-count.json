@@ -1,6 +1,26 @@
 {
-    "siteCount": 37559,
+    "siteCount": 37583,
     "recentlyMoved": [
+        {
+            "domain_name": "eagleanalytical.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-19 04:17:00"
+        },
+        {
+            "domain_name": "saltcitysmithery.com",
+            "destination": "Namecheap",
+            "date": "2025-01-19 04:14:18"
+        },
+        {
+            "domain_name": "monkeybusinesscatering.com",
+            "destination": "Hostinger",
+            "date": "2025-01-19 03:48:52"
+        },
+        {
+            "domain_name": "designreviewed.com",
+            "destination": "SiteGround",
+            "date": "2025-01-19 03:46:27"
+        },
         {
             "domain_name": "veteransconstructionfl.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "www.fpai.ie",
             "destination": "Digital Ocean",
             "date": "2025-01-18 11:15:53"
-        },
-        {
-            "domain_name": "mindovercore.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-18 10:41:23"
-        },
-        {
-            "domain_name": "exalt.fit",
-            "destination": "Digital Ocean",
-            "date": "2025-01-18 10:21:55"
-        },
-        {
-            "domain_name": "straincares.com",
-            "destination": "SiteGround",
-            "date": "2025-01-18 10:10:56"
-        },
-        {
-            "domain_name": "zanollamediation.com",
-            "destination": "Kinsta",
-            "date": "2025-01-18 10:00:02"
         }
     ],
     "dailyMovedStat": {
@@ -629,20 +629,20 @@
         "Bluehost": 3644,
         "Digital Ocean": 2400,
         "Kinsta": 2395,
-        "SiteGround": 2116,
-        "Hostinger": 1294,
+        "SiteGround": 2117,
+        "Hostinger": 1295,
         "GoDaddy": 622,
         "BigScoots": 330,
         "Liquid Web": 256,
         "Elementor Hosting": 209,
         "GridPane": 196,
-        "WordPress.com": 171,
+        "WordPress.com": 172,
         "InMotion Hosting": 164,
         "Wordify": 150,
         "IONOS": 141,
         "OVH": 127,
         "A2 Hosting": 114,
-        "Namecheap": 110,
+        "Namecheap": 111,
         "Hetzner Online": 105,
         "DreamHost": 87
     },
