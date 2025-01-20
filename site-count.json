@@ -1,6 +1,26 @@
 {
-    "siteCount": 37675,
+    "siteCount": 37682,
     "recentlyMoved": [
+        {
+            "domain_name": "jasonlinett.com",
+            "destination": "Hostinger",
+            "date": "2025-01-20 01:10:14"
+        },
+        {
+            "domain_name": "www.dfwimproved.com",
+            "destination": "Kinsta",
+            "date": "2025-01-20 00:59:59"
+        },
+        {
+            "domain_name": "www.idealgearworks.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-20 00:43:09"
+        },
+        {
+            "domain_name": "aventuracounselingcenter.com",
+            "destination": "IONOS",
+            "date": "2025-01-20 00:25:30"
+        },
         {
             "domain_name": "wrapitup.com.au",
             "destination": "GridPane",
@@ -480,26 +500,6 @@
             "domain_name": "www.pazera.com",
             "destination": "Kinsta",
             "date": "2025-01-18 13:26:21"
-        },
-        {
-            "domain_name": "spectrummdx.com",
-            "destination": "Namecheap",
-            "date": "2025-01-18 13:16:16"
-        },
-        {
-            "domain_name": "jimvierra.com",
-            "destination": "Hostinger",
-            "date": "2025-01-18 13:13:25"
-        },
-        {
-            "domain_name": "www.liquidsolutionsinc.com",
-            "destination": "Pressable",
-            "date": "2025-01-18 13:08:29"
-        },
-        {
-            "domain_name": "www.itssewsimple.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-01-18 12:34:50"
         }
     ],
     "dailyMovedStat": {
@@ -629,10 +629,10 @@
         "Pressable": 7496,
         "Bluehost": 3645,
         "Digital Ocean": 2400,
-        "Kinsta": 2396,
+        "Kinsta": 2397,
         "SiteGround": 2121,
-        "Hostinger": 1301,
-        "GoDaddy": 624,
+        "Hostinger": 1302,
+        "GoDaddy": 625,
         "BigScoots": 330,
         "Liquid Web": 256,
         "Elementor Hosting": 209,
@@ -640,7 +640,7 @@
         "WordPress.com": 173,
         "InMotion Hosting": 165,
         "Wordify": 150,
-        "IONOS": 141,
+        "IONOS": 142,
         "OVH": 127,
         "A2 Hosting": 114,
         "Namecheap": 111,
