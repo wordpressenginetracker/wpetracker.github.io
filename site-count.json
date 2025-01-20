@@ -1,6 +1,16 @@
 {
-    "siteCount": 38445,
+    "siteCount": 38450,
     "recentlyMoved": [
+        {
+            "domain_name": "bitterrootstar.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-20 20:50:56"
+        },
+        {
+            "domain_name": "bayshorefood.org",
+            "destination": "Bluehost",
+            "date": "2025-01-20 20:37:47"
+        },
         {
             "domain_name": "angelwatch.org",
             "destination": "GoDaddy",
@@ -472,11 +482,6 @@
             "date": "2025-01-18 16:25:53"
         },
         {
-            "domain_name": "portlandnews.com",
-            "destination": "Hostinger",
-            "date": "2025-01-18 16:24:20"
-        },
-        {
             "domain_name": "rocomaha.com",
             "destination": "SiteGround",
             "date": "2025-01-18 16:23:46"
@@ -495,11 +500,6 @@
             "domain_name": "psbupdate.com",
             "destination": "Digital Ocean",
             "date": "2025-01-18 16:10:00"
-        },
-        {
-            "domain_name": "grizzlyhvac.com",
-            "destination": "Bluehost",
-            "date": "2025-01-18 15:58:25"
         }
     ],
     "dailyMovedStat": {
@@ -627,7 +627,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 7502,
-        "Bluehost": 3645,
+        "Bluehost": 3646,
         "Digital Ocean": 2402,
         "Kinsta": 2401,
         "SiteGround": 2125,
@@ -638,7 +638,7 @@
         "Elementor Hosting": 209,
         "GridPane": 199,
         "WordPress.com": 174,
-        "InMotion Hosting": 165,
+        "InMotion Hosting": 166,
         "Wordify": 150,
         "IONOS": 143,
         "OVH": 127,
