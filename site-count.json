@@ -1,6 +1,11 @@
 {
-    "siteCount": 37689,
+    "siteCount": 37692,
     "recentlyMoved": [
+        {
+            "domain_name": "elementsat35th.com",
+            "destination": "SiteGround",
+            "date": "2025-01-20 02:40:25"
+        },
         {
             "domain_name": "members-plugin.com",
             "destination": "GridPane",
@@ -487,11 +492,6 @@
             "date": "2025-01-18 14:01:59"
         },
         {
-            "domain_name": "crossfitaiken.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-18 14:01:12"
-        },
-        {
             "domain_name": "theglittergram.com",
             "destination": "Digital Ocean",
             "date": "2025-01-18 13:55:49"
@@ -630,14 +630,14 @@
         "Bluehost": 3645,
         "Digital Ocean": 2400,
         "Kinsta": 2398,
-        "SiteGround": 2121,
+        "SiteGround": 2122,
         "Hostinger": 1303,
         "GoDaddy": 625,
         "BigScoots": 330,
         "Liquid Web": 256,
         "Elementor Hosting": 209,
-        "GridPane": 198,
-        "WordPress.com": 173,
+        "GridPane": 199,
+        "WordPress.com": 174,
         "InMotion Hosting": 165,
         "Wordify": 150,
         "IONOS": 142,
