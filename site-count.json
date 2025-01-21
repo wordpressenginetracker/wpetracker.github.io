@@ -1,10 +1,30 @@
 {
-    "siteCount": 38809,
+    "siteCount": 38822,
     "recentlyMoved": [
+        {
+            "domain_name": "www.glenwoodnyc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-21 20:54:22"
+        },
+        {
+            "domain_name": "calpartyrentals.com",
+            "destination": "Hostinger",
+            "date": "2025-01-21 20:46:07"
+        },
+        {
+            "domain_name": "reisbergadr.com",
+            "destination": "Kinsta",
+            "date": "2025-01-21 20:45:43"
+        },
         {
             "domain_name": "www.bradymarket.org",
             "destination": "Hostinger",
             "date": "2025-01-21 20:41:40"
+        },
+        {
+            "domain_name": "www.drdavidhidalgo.com",
+            "destination": "Kinsta",
+            "date": "2025-01-21 20:27:20"
         },
         {
             "domain_name": "www.bluewateraviation.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.patrickcountyfamilypractice.com",
             "destination": "Kinsta",
             "date": "2025-01-20 13:19:35"
-        },
-        {
-            "domain_name": "jgmcabinets.com",
-            "destination": "SiteGround",
-            "date": "2025-01-20 13:10:08"
-        },
-        {
-            "domain_name": "germains.com",
-            "destination": "Pressable",
-            "date": "2025-01-20 07:33:46"
-        },
-        {
-            "domain_name": "modo-sports.com",
-            "destination": "Hostinger",
-            "date": "2025-01-20 06:09:33"
-        },
-        {
-            "domain_name": "johnnyonthespout.com.au",
-            "destination": "Hostinger",
-            "date": "2025-01-20 04:35:58"
         }
     ],
     "dailyMovedStat": {
@@ -630,9 +630,9 @@
         "Pressable": 7514,
         "Bluehost": 3649,
         "Digital Ocean": 2422,
-        "Kinsta": 2410,
+        "Kinsta": 2413,
         "SiteGround": 2137,
-        "Hostinger": 1316,
+        "Hostinger": 1317,
         "GoDaddy": 634,
         "BigScoots": 333,
         "Liquid Web": 259,
