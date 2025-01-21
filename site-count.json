@@ -1,6 +1,11 @@
 {
-    "siteCount": 38469,
+    "siteCount": 38470,
     "recentlyMoved": [
+        {
+            "domain_name": "musicboxcle.com",
+            "destination": "DreamHost",
+            "date": "2025-01-21 02:32:48"
+        },
         {
             "domain_name": "sulphururgentcare.com",
             "destination": "Liquid Web",
@@ -487,11 +492,6 @@
             "date": "2025-01-18 16:57:31"
         },
         {
-            "domain_name": "www.fishmanassoc.com",
-            "destination": "Pressable",
-            "date": "2025-01-18 16:31:54"
-        },
-        {
             "domain_name": "sanfranciscopost.com",
             "destination": "Hostinger",
             "date": "2025-01-18 16:25:53"
@@ -646,7 +646,7 @@
         "A2 Hosting": 114,
         "Namecheap": 111,
         "Hetzner Online": 105,
-        "DreamHost": 87
+        "DreamHost": 88
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
