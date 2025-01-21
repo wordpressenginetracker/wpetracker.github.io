@@ -1,6 +1,11 @@
 {
-    "siteCount": 38479,
+    "siteCount": 38484,
     "recentlyMoved": [
+        {
+            "domain_name": "casaislaw.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-21 04:46:51"
+        },
         {
             "domain_name": "gosolardude.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "scugogdragonboat.ca",
             "destination": "WordPress.com",
             "date": "2025-01-18 17:10:57"
-        },
-        {
-            "domain_name": "sanfranciscopost.com",
-            "destination": "Hostinger",
-            "date": "2025-01-18 16:25:53"
         }
     ],
     "dailyMovedStat": {
@@ -633,7 +633,7 @@
         "Kinsta": 2401,
         "SiteGround": 2125,
         "Hostinger": 1308,
-        "GoDaddy": 629,
+        "GoDaddy": 630,
         "BigScoots": 330,
         "Liquid Web": 258,
         "Elementor Hosting": 209,
