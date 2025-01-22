@@ -1,6 +1,11 @@
 {
-    "siteCount": 38897,
+    "siteCount": 38941,
     "recentlyMoved": [
+        {
+            "domain_name": "flexiroom.eu",
+            "destination": "OVH",
+            "date": "2025-01-22 07:34:41"
+        },
         {
             "domain_name": "devlop.eu",
             "destination": "OVH",
@@ -492,11 +497,6 @@
             "date": "2025-01-21 08:31:42"
         },
         {
-            "domain_name": "asteriaathleticstx.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-21 08:29:30"
-        },
-        {
             "domain_name": "ream.lu",
             "destination": "OVH",
             "date": "2025-01-21 08:08:06"
@@ -643,7 +643,7 @@
         "InMotion Hosting": 167,
         "Wordify": 150,
         "IONOS": 144,
-        "OVH": 134,
+        "OVH": 135,
         "A2 Hosting": 115,
         "Namecheap": 112,
         "Hetzner Online": 106,
