@@ -1,6 +1,16 @@
 {
-    "siteCount": 38851,
+    "siteCount": 38857,
     "recentlyMoved": [
+        {
+            "domain_name": "jamesprescott.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-01-22 01:19:28"
+        },
+        {
+            "domain_name": "hiddenwealthsociety.com",
+            "destination": "Hostinger",
+            "date": "2025-01-22 00:12:27"
+        },
         {
             "domain_name": "pacifictentandevents.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "numerologydate.com",
             "destination": "Bluehost",
             "date": "2025-01-21 03:40:34"
-        },
-        {
-            "domain_name": "musicboxcle.com",
-            "destination": "DreamHost",
-            "date": "2025-01-21 02:32:48"
-        },
-        {
-            "domain_name": "sulphururgentcare.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-21 01:18:41"
         }
     ],
     "dailyMovedStat": {
@@ -632,8 +632,8 @@
         "Bluehost": 3649,
         "Digital Ocean": 2422,
         "Kinsta": 2416,
-        "SiteGround": 2140,
-        "Hostinger": 1326,
+        "SiteGround": 2141,
+        "Hostinger": 1327,
         "GoDaddy": 635,
         "BigScoots": 333,
         "Liquid Web": 259,
