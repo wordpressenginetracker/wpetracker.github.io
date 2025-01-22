@@ -1,6 +1,21 @@
 {
-    "siteCount": 39034,
+    "siteCount": 39042,
     "recentlyMoved": [
+        {
+            "domain_name": "tt-bentley.com",
+            "destination": "Kinsta",
+            "date": "2025-01-22 14:28:21"
+        },
+        {
+            "domain_name": "epi.org.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-01-22 14:27:22"
+        },
+        {
+            "domain_name": "movewithfiness.com",
+            "destination": "Kinsta",
+            "date": "2025-01-22 14:06:08"
+        },
         {
             "domain_name": "creativemediax.com",
             "destination": "SiteGround",
@@ -477,11 +492,6 @@
             "date": "2025-01-21 16:14:18"
         },
         {
-            "domain_name": "alisonreeves.co",
-            "destination": "BigScoots",
-            "date": "2025-01-21 16:13:48"
-        },
-        {
             "domain_name": "quartiergalia.ca",
             "destination": "Kinsta",
             "date": "2025-01-21 15:56:00"
@@ -490,16 +500,6 @@
             "domain_name": "andrealramsay.com",
             "destination": "SiteGround",
             "date": "2025-01-21 15:46:47"
-        },
-        {
-            "domain_name": "nikolemitchell.com",
-            "destination": "SiteGround",
-            "date": "2025-01-21 14:31:23"
-        },
-        {
-            "domain_name": "mycameronfinancial.com",
-            "destination": "Hostinger",
-            "date": "2025-01-21 14:23:49"
         }
     ],
     "dailyMovedStat": {
@@ -630,9 +630,9 @@
     "topDestinationHosts": {
         "Pressable": 7526,
         "Bluehost": 3651,
-        "Digital Ocean": 2425,
-        "Kinsta": 2422,
-        "SiteGround": 2143,
+        "Kinsta": 2429,
+        "Digital Ocean": 2427,
+        "SiteGround": 2145,
         "Hostinger": 1333,
         "GoDaddy": 638,
         "BigScoots": 333,
@@ -647,7 +647,7 @@
         "A2 Hosting": 115,
         "Namecheap": 112,
         "Hetzner Online": 106,
-        "DreamHost": 88
+        "DreamHost": 89
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
