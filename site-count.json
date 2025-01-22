@@ -1,10 +1,25 @@
 {
-    "siteCount": 38857,
+    "siteCount": 38868,
     "recentlyMoved": [
+        {
+            "domain_name": "coloradowillsandestates.com",
+            "destination": "SiteGround",
+            "date": "2025-01-22 02:00:57"
+        },
+        {
+            "domain_name": "computerbucketph.com",
+            "destination": "Hostinger",
+            "date": "2025-01-22 01:50:46"
+        },
         {
             "domain_name": "jamesprescott.co.uk",
             "destination": "SiteGround",
             "date": "2025-01-22 01:19:28"
+        },
+        {
+            "domain_name": "southwestfence.com",
+            "destination": "Kinsta",
+            "date": "2025-01-22 01:11:10"
         },
         {
             "domain_name": "hiddenwealthsociety.com",
@@ -485,21 +500,6 @@
             "domain_name": "casaislaw.com",
             "destination": "GoDaddy",
             "date": "2025-01-21 04:46:51"
-        },
-        {
-            "domain_name": "gosolardude.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-21 04:16:28"
-        },
-        {
-            "domain_name": "greenplus.co.th",
-            "destination": "Namecheap",
-            "date": "2025-01-21 04:02:29"
-        },
-        {
-            "domain_name": "numerologydate.com",
-            "destination": "Bluehost",
-            "date": "2025-01-21 03:40:34"
         }
     ],
     "dailyMovedStat": {
@@ -631,9 +631,9 @@
         "Pressable": 7517,
         "Bluehost": 3649,
         "Digital Ocean": 2422,
-        "Kinsta": 2416,
-        "SiteGround": 2141,
-        "Hostinger": 1327,
+        "Kinsta": 2417,
+        "SiteGround": 2142,
+        "Hostinger": 1328,
         "GoDaddy": 635,
         "BigScoots": 333,
         "Liquid Web": 259,
