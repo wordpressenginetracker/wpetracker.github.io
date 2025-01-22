@@ -1,6 +1,11 @@
 {
-    "siteCount": 38957,
+    "siteCount": 38962,
     "recentlyMoved": [
+        {
+            "domain_name": "newestuaryhomecare.com",
+            "destination": "Kinsta",
+            "date": "2025-01-22 11:07:48"
+        },
         {
             "domain_name": "dayspringresources.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.heritagestone.ca",
             "destination": "HostGator",
             "date": "2025-01-21 09:08:42"
-        },
-        {
-            "domain_name": "immortalathleticsnc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-21 09:00:21"
         }
     ],
     "dailyMovedStat": {
@@ -628,10 +628,10 @@
         "2025-01-21": "38845"
     },
     "topDestinationHosts": {
-        "Pressable": 7521,
+        "Pressable": 7522,
         "Bluehost": 3649,
         "Digital Ocean": 2424,
-        "Kinsta": 2417,
+        "Kinsta": 2418,
         "SiteGround": 2142,
         "Hostinger": 1330,
         "GoDaddy": 636,
