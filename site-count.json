@@ -1,6 +1,11 @@
 {
-    "siteCount": 39266,
+    "siteCount": 39274,
     "recentlyMoved": [
+        {
+            "domain_name": "apexjunkpros.com",
+            "destination": "SiteGround",
+            "date": "2025-01-23 08:22:01"
+        },
         {
             "domain_name": "themelgrano.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "29enterprise.com",
             "destination": "Bluehost",
             "date": "2025-01-22 11:06:35"
-        },
-        {
-            "domain_name": "thompsontrucking.net",
-            "destination": "Pressable",
-            "date": "2025-01-22 10:21:13"
         }
     ],
     "dailyMovedStat": {
@@ -633,7 +633,7 @@
         "Bluehost": 3658,
         "Kinsta": 2441,
         "Digital Ocean": 2432,
-        "SiteGround": 2156,
+        "SiteGround": 2157,
         "Hostinger": 1343,
         "GoDaddy": 640,
         "BigScoots": 335,
