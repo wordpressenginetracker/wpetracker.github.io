@@ -1,6 +1,16 @@
 {
-    "siteCount": 39246,
+    "siteCount": 39251,
     "recentlyMoved": [
+        {
+            "domain_name": "signedanyaelise.com",
+            "destination": "Pressable",
+            "date": "2025-01-23 05:03:00"
+        },
+        {
+            "domain_name": "bakerbrun.no",
+            "destination": "Kinsta",
+            "date": "2025-01-23 03:58:35"
+        },
         {
             "domain_name": "washingtonparent.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "flexiroom.eu",
             "destination": "OVH",
             "date": "2025-01-22 07:34:41"
-        },
-        {
-            "domain_name": "devlop.eu",
-            "destination": "OVH",
-            "date": "2025-01-22 06:06:54"
-        },
-        {
-            "domain_name": "www.turnerproperty.net",
-            "destination": "Pressable",
-            "date": "2025-01-22 05:47:10"
         }
     ],
     "dailyMovedStat": {
@@ -629,9 +629,9 @@
         "2025-01-22": "39215"
     },
     "topDestinationHosts": {
-        "Pressable": 7538,
+        "Pressable": 7539,
         "Bluehost": 3658,
-        "Kinsta": 2440,
+        "Kinsta": 2441,
         "Digital Ocean": 2432,
         "SiteGround": 2156,
         "Hostinger": 1343,
