@@ -1,6 +1,21 @@
 {
-    "siteCount": 39288,
+    "siteCount": 39295,
     "recentlyMoved": [
+        {
+            "domain_name": "drivewaymaintenance.repair",
+            "destination": "Kinsta",
+            "date": "2025-01-23 10:29:27"
+        },
+        {
+            "domain_name": "monkeyrides.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-23 09:54:49"
+        },
+        {
+            "domain_name": "colombus-online.co.il",
+            "destination": "Hostinger",
+            "date": "2025-01-23 09:29:49"
+        },
         {
             "domain_name": "www.newcastlesafeguarding.org.uk",
             "destination": "Pressable",
@@ -477,16 +492,6 @@
             "date": "2025-01-22 12:45:23"
         },
         {
-            "domain_name": "automatedlifestyles.com",
-            "destination": "Pressable",
-            "date": "2025-01-22 12:38:21"
-        },
-        {
-            "domain_name": "racehobbies.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-22 12:23:57"
-        },
-        {
             "domain_name": "impeto.com.br",
             "destination": "Hostinger",
             "date": "2025-01-22 12:19:42"
@@ -495,11 +500,6 @@
             "domain_name": "www.enviroproclean.com",
             "destination": "Pressable",
             "date": "2025-01-22 12:13:37"
-        },
-        {
-            "domain_name": "hamiltonsalestraining.com",
-            "destination": "Kinsta",
-            "date": "2025-01-22 11:46:52"
         }
     ],
     "dailyMovedStat": {
@@ -629,12 +629,12 @@
         "2025-01-22": "39215"
     },
     "topDestinationHosts": {
-        "Pressable": 7542,
+        "Pressable": 7543,
         "Bluehost": 3658,
-        "Kinsta": 2442,
+        "Kinsta": 2443,
         "Digital Ocean": 2434,
         "SiteGround": 2158,
-        "Hostinger": 1344,
+        "Hostinger": 1345,
         "GoDaddy": 640,
         "BigScoots": 335,
         "Liquid Web": 260,
