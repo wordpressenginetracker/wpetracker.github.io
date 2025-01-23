@@ -1,10 +1,25 @@
 {
-    "siteCount": 39505,
+    "siteCount": 39516,
     "recentlyMoved": [
+        {
+            "domain_name": "custercountyminerals.com",
+            "destination": "Pressable",
+            "date": "2025-01-23 22:17:55"
+        },
+        {
+            "domain_name": "theglenatmaplefalls.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-23 21:38:39"
+        },
         {
             "domain_name": "championforlife.com",
             "destination": "Hostinger",
             "date": "2025-01-23 21:35:16"
+        },
+        {
+            "domain_name": "stanleyfcarpentercpa.com",
+            "destination": "GridPane",
+            "date": "2025-01-23 21:34:01"
         },
         {
             "domain_name": "www.longwoodeye.com",
@@ -25,6 +40,11 @@
             "domain_name": "cascadeairshow.com",
             "destination": "Pressable",
             "date": "2025-01-23 21:06:53"
+        },
+        {
+            "domain_name": "lanterradevelopments.com",
+            "destination": "DreamHost",
+            "date": "2025-01-23 21:02:20"
         },
         {
             "domain_name": "brandysautomotive.com",
@@ -480,26 +500,6 @@
             "domain_name": "hsmemorialstudio.ca",
             "destination": "SiteGround",
             "date": "2025-01-23 08:17:58"
-        },
-        {
-            "domain_name": "themelgrano.com",
-            "destination": "OVH",
-            "date": "2025-01-23 06:15:52"
-        },
-        {
-            "domain_name": "danpetty.com",
-            "destination": "Pressable",
-            "date": "2025-01-23 06:08:34"
-        },
-        {
-            "domain_name": "lokalstrength.net",
-            "destination": "Pressable",
-            "date": "2025-01-23 05:55:57"
-        },
-        {
-            "domain_name": "signedanyaelise.com",
-            "destination": "Pressable",
-            "date": "2025-01-23 05:03:00"
         }
     ],
     "dailyMovedStat": {
@@ -629,17 +629,17 @@
         "2025-01-22": "39215"
     },
     "topDestinationHosts": {
-        "Pressable": 7573,
+        "Pressable": 7574,
         "Bluehost": 3660,
         "Kinsta": 2450,
         "Digital Ocean": 2443,
         "SiteGround": 2165,
         "Hostinger": 1353,
-        "GoDaddy": 646,
+        "GoDaddy": 647,
         "BigScoots": 335,
         "Liquid Web": 261,
         "Elementor Hosting": 213,
-        "GridPane": 200,
+        "GridPane": 201,
         "WordPress.com": 179,
         "InMotion Hosting": 170,
         "Wordify": 150,
@@ -648,7 +648,7 @@
         "A2 Hosting": 118,
         "Namecheap": 113,
         "Hetzner Online": 106,
-        "DreamHost": 95
+        "DreamHost": 96
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
