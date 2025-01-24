@@ -1,6 +1,11 @@
 {
-    "siteCount": 39525,
+    "siteCount": 39533,
     "recentlyMoved": [
+        {
+            "domain_name": "skibalaw.com",
+            "destination": "Bluehost",
+            "date": "2025-01-24 01:14:20"
+        },
         {
             "domain_name": "primewestelectrical.com",
             "destination": "Namecheap",
@@ -10,6 +15,11 @@
             "domain_name": "pinecreekvalley.com",
             "destination": "Pressable",
             "date": "2025-01-23 23:59:11"
+        },
+        {
+            "domain_name": "rasmussenmasonry.com",
+            "destination": "Pressable",
+            "date": "2025-01-23 23:57:22"
         },
         {
             "domain_name": "www.actionoverhead.com",
@@ -490,16 +500,6 @@
             "domain_name": "bydager.hammerfestby.no",
             "destination": "Hostinger",
             "date": "2025-01-23 08:48:21"
-        },
-        {
-            "domain_name": "rusticroadlandscaping.com",
-            "destination": "Kinsta",
-            "date": "2025-01-23 08:39:12"
-        },
-        {
-            "domain_name": "hsmemorialstudio.ca",
-            "destination": "SiteGround",
-            "date": "2025-01-23 08:17:58"
         }
     ],
     "dailyMovedStat": {
@@ -630,8 +630,8 @@
         "2025-01-23": "39518"
     },
     "topDestinationHosts": {
-        "Pressable": 7574,
-        "Bluehost": 3660,
+        "Pressable": 7577,
+        "Bluehost": 3661,
         "Kinsta": 2450,
         "Digital Ocean": 2443,
         "SiteGround": 2165,
@@ -647,7 +647,7 @@
         "IONOS": 145,
         "OVH": 138,
         "A2 Hosting": 118,
-        "Namecheap": 113,
+        "Namecheap": 114,
         "Hetzner Online": 106,
         "DreamHost": 96
     },
