@@ -1,10 +1,35 @@
 {
-    "siteCount": 39562,
+    "siteCount": 39570,
     "recentlyMoved": [
+        {
+            "domain_name": "momentumacademystl.org",
+            "destination": "Kinsta",
+            "date": "2025-01-24 06:30:37"
+        },
+        {
+            "domain_name": "designassembly.org.nz",
+            "destination": "Pressable",
+            "date": "2025-01-24 06:06:57"
+        },
+        {
+            "domain_name": "maryamrowshan.com",
+            "destination": "Bluehost",
+            "date": "2025-01-24 06:02:55"
+        },
+        {
+            "domain_name": "www.stc-teamwear.com",
+            "destination": "IONOS",
+            "date": "2025-01-24 05:38:16"
+        },
         {
             "domain_name": "jdb-builders.com",
             "destination": "Hostinger",
             "date": "2025-01-24 05:17:49"
+        },
+        {
+            "domain_name": "lkbb.no",
+            "destination": "Hostinger",
+            "date": "2025-01-24 05:14:42"
         },
         {
             "domain_name": "buddybudgeter.net.nz",
@@ -475,31 +500,6 @@
             "domain_name": "rawkickboxing.com",
             "destination": "Digital Ocean",
             "date": "2025-01-23 12:35:08"
-        },
-        {
-            "domain_name": "bandcfinancial.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-23 12:32:03"
-        },
-        {
-            "domain_name": "glenhill.ca",
-            "destination": "DreamHost",
-            "date": "2025-01-23 12:13:05"
-        },
-        {
-            "domain_name": "amzacsellerate.com",
-            "destination": "Pressable",
-            "date": "2025-01-23 12:12:19"
-        },
-        {
-            "domain_name": "gearclean.com",
-            "destination": "Bluehost",
-            "date": "2025-01-23 12:02:50"
-        },
-        {
-            "domain_name": "anyaelisephotography.com",
-            "destination": "Pressable",
-            "date": "2025-01-23 11:59:59"
         }
     ],
     "dailyMovedStat": {
@@ -630,12 +630,12 @@
         "2025-01-23": "39518"
     },
     "topDestinationHosts": {
-        "Pressable": 7582,
-        "Bluehost": 3661,
+        "Pressable": 7583,
+        "Bluehost": 3662,
         "Kinsta": 2451,
         "Digital Ocean": 2444,
         "SiteGround": 2165,
-        "Hostinger": 1356,
+        "Hostinger": 1357,
         "GoDaddy": 647,
         "BigScoots": 335,
         "Liquid Web": 262,
@@ -644,7 +644,7 @@
         "WordPress.com": 179,
         "InMotion Hosting": 170,
         "Wordify": 150,
-        "IONOS": 145,
+        "IONOS": 146,
         "OVH": 138,
         "A2 Hosting": 119,
         "Namecheap": 115,
