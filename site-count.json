@@ -1,6 +1,21 @@
 {
-    "siteCount": 40089,
+    "siteCount": 40147,
     "recentlyMoved": [
+        {
+            "domain_name": "arizonaveteransmissiongroup.org",
+            "destination": "Kinsta",
+            "date": "2025-01-25 20:20:36"
+        },
+        {
+            "domain_name": "nursecapital.net",
+            "destination": "Kinsta",
+            "date": "2025-01-25 19:59:12"
+        },
+        {
+            "domain_name": "www.hcqlaw.com",
+            "destination": "Hostinger",
+            "date": "2025-01-25 19:18:59"
+        },
         {
             "domain_name": "treadvegas.com",
             "destination": "A2 Hosting",
@@ -477,29 +492,14 @@
             "date": "2025-01-25 01:21:45"
         },
         {
-            "domain_name": "www.infantcrisis.org",
-            "destination": "Pressable",
-            "date": "2025-01-25 01:01:58"
-        },
-        {
             "domain_name": "campnac.com",
             "destination": "SiteGround",
             "date": "2025-01-25 00:48:34"
         },
         {
-            "domain_name": "jenniferperri.com",
-            "destination": "A2 Hosting",
-            "date": "2025-01-25 00:41:28"
-        },
-        {
             "domain_name": "senecaanimalhospital.com",
             "destination": "Kinsta",
             "date": "2025-01-25 00:37:33"
-        },
-        {
-            "domain_name": "alcopro.com",
-            "destination": "OVH",
-            "date": "2025-01-25 00:16:39"
         }
     ],
     "dailyMovedStat": {
@@ -631,12 +631,12 @@
         "2025-01-24": "39857"
     },
     "topDestinationHosts": {
-        "Pressable": 7629,
+        "Pressable": 7630,
         "Bluehost": 3673,
-        "Kinsta": 2477,
-        "Digital Ocean": 2464,
-        "SiteGround": 2193,
-        "Hostinger": 1385,
+        "Kinsta": 2479,
+        "Digital Ocean": 2465,
+        "SiteGround": 2194,
+        "Hostinger": 1386,
         "GoDaddy": 664,
         "BigScoots": 336,
         "Liquid Web": 262,
@@ -649,7 +649,7 @@
         "OVH": 142,
         "A2 Hosting": 121,
         "Namecheap": 116,
-        "Hetzner Online": 107,
+        "Hetzner Online": 108,
         "DreamHost": 99
     },
     "dailyTotalStat": {
