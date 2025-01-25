@@ -1,6 +1,21 @@
 {
-    "siteCount": 39875,
+    "siteCount": 39879,
     "recentlyMoved": [
+        {
+            "domain_name": "mmchr.com",
+            "destination": "Hostinger",
+            "date": "2025-01-25 02:43:22"
+        },
+        {
+            "domain_name": "midtowntransactions.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-25 02:30:19"
+        },
+        {
+            "domain_name": "couragerenewal.org",
+            "destination": "Kinsta",
+            "date": "2025-01-25 02:01:53"
+        },
         {
             "domain_name": "kelleyrogge.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "peekmeds.com",
             "destination": "Kinsta",
             "date": "2025-01-24 11:43:25"
-        },
-        {
-            "domain_name": "drsarahallen.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-24 10:25:20"
-        },
-        {
-            "domain_name": "thrivebhs.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-24 10:20:09"
-        },
-        {
-            "domain_name": "tridentstrong.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-24 10:17:25"
         }
     ],
     "dailyMovedStat": {
@@ -633,11 +633,11 @@
     "topDestinationHosts": {
         "Pressable": 7609,
         "Bluehost": 3667,
-        "Kinsta": 2473,
+        "Kinsta": 2474,
         "Digital Ocean": 2456,
         "SiteGround": 2181,
         "Hostinger": 1368,
-        "GoDaddy": 654,
+        "GoDaddy": 655,
         "BigScoots": 336,
         "Liquid Web": 262,
         "Elementor Hosting": 213,
