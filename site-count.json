@@ -1,6 +1,11 @@
 {
-    "siteCount": 40174,
+    "siteCount": 40177,
     "recentlyMoved": [
+        {
+            "domain_name": "ultra-au.com",
+            "destination": "SiteGround",
+            "date": "2025-01-25 22:40:18"
+        },
         {
             "domain_name": "drytechinteriors.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "venusrisingmedspa.com",
             "destination": "GridPane",
             "date": "2025-01-25 06:24:24"
-        },
-        {
-            "domain_name": "myplumbingsolutions.com",
-            "destination": "Pressable",
-            "date": "2025-01-25 06:03:33"
         }
     ],
     "dailyMovedStat": {
@@ -628,14 +628,15 @@
         "2025-01-21": "38845",
         "2025-01-22": "39215",
         "2025-01-23": "39518",
-        "2025-01-24": "39857"
+        "2025-01-24": "39857",
+        "2025-01-25": "40177"
     },
     "topDestinationHosts": {
         "Pressable": 7630,
         "Bluehost": 3673,
         "Kinsta": 2483,
         "Digital Ocean": 2466,
-        "SiteGround": 2197,
+        "SiteGround": 2198,
         "Hostinger": 1387,
         "GoDaddy": 664,
         "BigScoots": 336,
@@ -778,6 +779,7 @@
         "2025-01-21": "677599",
         "2025-01-22": "677146",
         "2025-01-23": "676540",
-        "2025-01-24": "675709"
+        "2025-01-24": "675709",
+        "2025-01-25": "675206"
     }
 }
