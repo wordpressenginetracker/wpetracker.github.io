@@ -1,6 +1,11 @@
 {
-    "siteCount": 40188,
+    "siteCount": 40190,
     "recentlyMoved": [
+        {
+            "domain_name": "truthinscience.org",
+            "destination": "Hostinger",
+            "date": "2025-01-26 02:37:59"
+        },
         {
             "domain_name": "johnandjoycecaddellfoundation.org",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "rogerstransport.com.au",
             "destination": "SiteGround",
             "date": "2025-01-25 08:50:41"
-        },
-        {
-            "domain_name": "rebeccapham.com",
-            "destination": "Hostinger",
-            "date": "2025-01-25 08:36:45"
         }
     ],
     "dailyMovedStat": {
@@ -637,7 +637,7 @@
         "Kinsta": 2483,
         "Digital Ocean": 2466,
         "SiteGround": 2199,
-        "Hostinger": 1388,
+        "Hostinger": 1389,
         "GoDaddy": 664,
         "BigScoots": 336,
         "Liquid Web": 262,
