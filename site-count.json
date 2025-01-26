@@ -1,6 +1,11 @@
 {
-    "siteCount": 40211,
+    "siteCount": 40214,
     "recentlyMoved": [
+        {
+            "domain_name": "xlongevity.com",
+            "destination": "SiteGround",
+            "date": "2025-01-26 10:25:34"
+        },
         {
             "domain_name": "musselfarm.co.nz",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-01-25 10:18:16"
         },
         {
-            "domain_name": "carriagesofscone.com",
-            "destination": "Kinsta",
-            "date": "2025-01-25 09:17:55"
-        },
-        {
             "domain_name": "kinderkaylee.com",
             "destination": "SiteGround",
             "date": "2025-01-25 08:55:59"
@@ -636,7 +636,7 @@
         "Bluehost": 3673,
         "Kinsta": 2483,
         "Digital Ocean": 2466,
-        "SiteGround": 2200,
+        "SiteGround": 2201,
         "Hostinger": 1390,
         "GoDaddy": 664,
         "BigScoots": 336,
