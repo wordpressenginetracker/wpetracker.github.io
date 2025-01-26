@@ -1,6 +1,31 @@
 {
-    "siteCount": 40280,
+    "siteCount": 40287,
     "recentlyMoved": [
+        {
+            "domain_name": "tiptonvet.com",
+            "destination": "GridPane",
+            "date": "2025-01-26 22:02:58"
+        },
+        {
+            "domain_name": "laurelhillvet.com",
+            "destination": "GridPane",
+            "date": "2025-01-26 21:52:21"
+        },
+        {
+            "domain_name": "collegemusicmajor.com",
+            "destination": "Kinsta",
+            "date": "2025-01-26 21:43:29"
+        },
+        {
+            "domain_name": "lodgepetresort.com",
+            "destination": "GridPane",
+            "date": "2025-01-26 21:42:38"
+        },
+        {
+            "domain_name": "lucretiawilliams.com",
+            "destination": "Bluehost",
+            "date": "2025-01-26 21:34:21"
+        },
         {
             "domain_name": "homepetvet.org",
             "destination": "GridPane",
@@ -457,11 +482,6 @@
             "date": "2025-01-25 13:46:52"
         },
         {
-            "domain_name": "kidsincommonnewyork.com",
-            "destination": "Bluehost",
-            "date": "2025-01-25 13:42:41"
-        },
-        {
             "domain_name": "mechcoreind.com",
             "destination": "GoDaddy",
             "date": "2025-01-25 13:38:55"
@@ -480,26 +500,6 @@
             "domain_name": "southeastengineers.com",
             "destination": "GoDaddy",
             "date": "2025-01-25 13:18:54"
-        },
-        {
-            "domain_name": "www.marylandeyeandface.com",
-            "destination": "Kinsta",
-            "date": "2025-01-25 13:07:36"
-        },
-        {
-            "domain_name": "katiehbrooks.com",
-            "destination": "SiteGround",
-            "date": "2025-01-25 13:00:10"
-        },
-        {
-            "domain_name": "charityengine.net",
-            "destination": "Digital Ocean",
-            "date": "2025-01-25 12:57:49"
-        },
-        {
-            "domain_name": "cannabusinessservices.com",
-            "destination": "SiteGround",
-            "date": "2025-01-25 12:40:18"
         }
     ],
     "dailyMovedStat": {
@@ -633,8 +633,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 7632,
-        "Bluehost": 3675,
-        "Kinsta": 2483,
+        "Bluehost": 3676,
+        "Kinsta": 2484,
         "Digital Ocean": 2468,
         "SiteGround": 2206,
         "Hostinger": 1391,
@@ -642,7 +642,7 @@
         "BigScoots": 336,
         "Liquid Web": 262,
         "Elementor Hosting": 214,
-        "GridPane": 211,
+        "GridPane": 213,
         "WordPress.com": 185,
         "InMotion Hosting": 176,
         "IONOS": 151,
