@@ -1,6 +1,21 @@
 {
-    "siteCount": 40190,
+    "siteCount": 40204,
     "recentlyMoved": [
+        {
+            "domain_name": "musselfarm.co.nz",
+            "destination": "Pressable",
+            "date": "2025-01-26 04:10:10"
+        },
+        {
+            "domain_name": "thepokefactory.com",
+            "destination": "Hostinger",
+            "date": "2025-01-26 03:45:06"
+        },
+        {
+            "domain_name": "laserspinecenter.com",
+            "destination": "SiteGround",
+            "date": "2025-01-26 03:21:56"
+        },
         {
             "domain_name": "truthinscience.org",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2025-01-25 10:18:16"
         },
         {
-            "domain_name": "camhydraulics.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-01-25 09:29:19"
-        },
-        {
             "domain_name": "carriagesofscone.com",
             "destination": "Kinsta",
             "date": "2025-01-25 09:17:55"
@@ -490,16 +500,6 @@
             "domain_name": "kinderkaylee.com",
             "destination": "SiteGround",
             "date": "2025-01-25 08:55:59"
-        },
-        {
-            "domain_name": "holymolythatsshiny.com",
-            "destination": "IONOS",
-            "date": "2025-01-25 08:54:04"
-        },
-        {
-            "domain_name": "rogerstransport.com.au",
-            "destination": "SiteGround",
-            "date": "2025-01-25 08:50:41"
         }
     ],
     "dailyMovedStat": {
@@ -632,12 +632,12 @@
         "2025-01-25": "40177"
     },
     "topDestinationHosts": {
-        "Pressable": 7630,
+        "Pressable": 7631,
         "Bluehost": 3673,
         "Kinsta": 2483,
         "Digital Ocean": 2466,
-        "SiteGround": 2199,
-        "Hostinger": 1389,
+        "SiteGround": 2200,
+        "Hostinger": 1390,
         "GoDaddy": 664,
         "BigScoots": 336,
         "Liquid Web": 262,
