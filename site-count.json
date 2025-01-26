@@ -1,6 +1,16 @@
 {
-    "siteCount": 40177,
+    "siteCount": 40180,
     "recentlyMoved": [
+        {
+            "domain_name": "wellizen.com",
+            "destination": "SiteGround",
+            "date": "2025-01-26 00:10:48"
+        },
+        {
+            "domain_name": "aeums.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-01-25 23:32:49"
+        },
         {
             "domain_name": "ultra-au.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.wscontractors.co",
             "destination": "HostGator",
             "date": "2025-01-25 08:02:20"
-        },
-        {
-            "domain_name": "americantheatrecritics.org",
-            "destination": "Digital Ocean",
-            "date": "2025-01-25 07:49:52"
-        },
-        {
-            "domain_name": "venusrisingmedspa.com",
-            "destination": "GridPane",
-            "date": "2025-01-25 06:24:24"
         }
     ],
     "dailyMovedStat": {
@@ -636,7 +636,7 @@
         "Bluehost": 3673,
         "Kinsta": 2483,
         "Digital Ocean": 2466,
-        "SiteGround": 2198,
+        "SiteGround": 2199,
         "Hostinger": 1387,
         "GoDaddy": 664,
         "BigScoots": 336,
@@ -644,7 +644,7 @@
         "Elementor Hosting": 213,
         "GridPane": 202,
         "WordPress.com": 184,
-        "InMotion Hosting": 175,
+        "InMotion Hosting": 176,
         "Wordify": 151,
         "IONOS": 150,
         "OVH": 142,
