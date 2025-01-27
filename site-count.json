@@ -1,6 +1,11 @@
 {
-    "siteCount": 40383,
+    "siteCount": 40420,
     "recentlyMoved": [
+        {
+            "domain_name": "woweyelashes.com.au",
+            "destination": "SiteGround",
+            "date": "2025-01-27 19:57:59"
+        },
         {
             "domain_name": "empretecnigeria.org",
             "destination": "Namecheap",
@@ -477,11 +482,6 @@
             "date": "2025-01-25 17:02:35"
         },
         {
-            "domain_name": "www.glueops.dev",
-            "destination": "SiteGround",
-            "date": "2025-01-25 16:56:13"
-        },
-        {
             "domain_name": "californiapacificrealty.com",
             "destination": "Hostinger",
             "date": "2025-01-25 16:54:24"
@@ -634,10 +634,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 7633,
-        "Bluehost": 3676,
+        "Bluehost": 3677,
         "Kinsta": 2489,
-        "Digital Ocean": 2473,
-        "SiteGround": 2208,
+        "Digital Ocean": 2474,
+        "SiteGround": 2209,
         "Hostinger": 1397,
         "GoDaddy": 665,
         "BigScoots": 336,
@@ -652,7 +652,7 @@
         "A2 Hosting": 121,
         "Namecheap": 117,
         "Hetzner Online": 108,
-        "DreamHost": 100
+        "DreamHost": 101
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
