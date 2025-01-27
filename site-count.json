@@ -1,6 +1,11 @@
 {
-    "siteCount": 40420,
+    "siteCount": 40423,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hud-son.com",
+            "destination": "SiteGround",
+            "date": "2025-01-27 21:15:11"
+        },
         {
             "domain_name": "woweyelashes.com.au",
             "destination": "SiteGround",
@@ -477,11 +482,6 @@
             "date": "2025-01-25 17:06:27"
         },
         {
-            "domain_name": "booches1884.com",
-            "destination": "Hostinger",
-            "date": "2025-01-25 17:02:35"
-        },
-        {
             "domain_name": "californiapacificrealty.com",
             "destination": "Hostinger",
             "date": "2025-01-25 16:54:24"
@@ -637,7 +637,7 @@
         "Bluehost": 3677,
         "Kinsta": 2489,
         "Digital Ocean": 2474,
-        "SiteGround": 2209,
+        "SiteGround": 2210,
         "Hostinger": 1397,
         "GoDaddy": 665,
         "BigScoots": 336,
