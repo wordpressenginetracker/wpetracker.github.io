@@ -1,6 +1,11 @@
 {
-    "siteCount": 40362,
+    "siteCount": 40365,
     "recentlyMoved": [
+        {
+            "domain_name": "mymegatravels.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-27 14:43:33"
+        },
         {
             "domain_name": "methodinsurance.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "hellerhigh.org",
             "destination": "Digital Ocean",
             "date": "2025-01-25 16:14:40"
-        },
-        {
-            "domain_name": "www.cleanheateurope.eu",
-            "destination": "OVH",
-            "date": "2025-01-25 16:13:36"
         }
     ],
     "dailyMovedStat": {
@@ -633,13 +633,13 @@
         "2025-01-26": "40289"
     },
     "topDestinationHosts": {
-        "Pressable": 7632,
+        "Pressable": 7633,
         "Bluehost": 3676,
         "Kinsta": 2488,
         "Digital Ocean": 2473,
         "SiteGround": 2208,
         "Hostinger": 1396,
-        "GoDaddy": 664,
+        "GoDaddy": 665,
         "BigScoots": 336,
         "Liquid Web": 262,
         "GridPane": 222,
