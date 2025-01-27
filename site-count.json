@@ -1,6 +1,16 @@
 {
-    "siteCount": 40351,
+    "siteCount": 40355,
     "recentlyMoved": [
+        {
+            "domain_name": "cbrcoatings.com",
+            "destination": "Hostinger",
+            "date": "2025-01-27 13:35:38"
+        },
+        {
+            "domain_name": "shawneecycle.com",
+            "destination": "Kinsta",
+            "date": "2025-01-27 12:59:31"
+        },
         {
             "domain_name": "mishawakaanimalcarecenter.com",
             "destination": "GridPane",
@@ -457,11 +467,6 @@
             "date": "2025-01-25 16:38:00"
         },
         {
-            "domain_name": "www.robotturtles.com",
-            "destination": "DreamHost",
-            "date": "2025-01-25 16:22:21"
-        },
-        {
             "domain_name": "americanexteriorma.com",
             "destination": "Hostinger",
             "date": "2025-01-25 16:21:50"
@@ -495,11 +500,6 @@
             "domain_name": "www.calljetty.com",
             "destination": "Pressable",
             "date": "2025-01-25 16:02:00"
-        },
-        {
-            "domain_name": "www.accentawnings.com",
-            "destination": "Pressable",
-            "date": "2025-01-25 15:51:51"
         }
     ],
     "dailyMovedStat": {
@@ -635,10 +635,10 @@
     "topDestinationHosts": {
         "Pressable": 7632,
         "Bluehost": 3676,
-        "Kinsta": 2486,
+        "Kinsta": 2487,
         "Digital Ocean": 2472,
         "SiteGround": 2208,
-        "Hostinger": 1394,
+        "Hostinger": 1395,
         "GoDaddy": 664,
         "BigScoots": 336,
         "Liquid Web": 262,
