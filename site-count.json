@@ -1,5 +1,5 @@
 {
-    "siteCount": 40312,
+    "siteCount": 40315,
     "recentlyMoved": [
         {
             "domain_name": "donpolly.com",
@@ -7,9 +7,19 @@
             "date": "2025-01-27 02:32:37"
         },
         {
+            "domain_name": "navarrosmallanimalclinic.com",
+            "destination": "GridPane",
+            "date": "2025-01-27 02:28:19"
+        },
+        {
             "domain_name": "doctorpreneurs.com",
             "destination": "SiteGround",
             "date": "2025-01-27 02:23:31"
+        },
+        {
+            "domain_name": "mycountrysidevet.net",
+            "destination": "GridPane",
+            "date": "2025-01-27 02:15:54"
         },
         {
             "domain_name": "libertyanimalvets.com",
@@ -487,16 +497,6 @@
             "date": "2025-01-25 14:36:11"
         },
         {
-            "domain_name": "empirehomepros.com",
-            "destination": "HostGator",
-            "date": "2025-01-25 14:19:55"
-        },
-        {
-            "domain_name": "ericfortrustee.com",
-            "destination": "Bluehost",
-            "date": "2025-01-25 14:15:47"
-        },
-        {
             "domain_name": "mylegacynotes.com",
             "destination": "Pressable",
             "date": "2025-01-25 14:12:33"
@@ -642,7 +642,7 @@
         "GoDaddy": 664,
         "BigScoots": 336,
         "Liquid Web": 262,
-        "GridPane": 217,
+        "GridPane": 219,
         "Elementor Hosting": 214,
         "WordPress.com": 185,
         "InMotion Hosting": 176,
@@ -652,7 +652,7 @@
         "A2 Hosting": 121,
         "Namecheap": 116,
         "Hetzner Online": 108,
-        "DreamHost": 99
+        "DreamHost": 100
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
