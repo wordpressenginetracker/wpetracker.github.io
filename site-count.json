@@ -1,6 +1,11 @@
 {
-    "siteCount": 40433,
+    "siteCount": 40439,
     "recentlyMoved": [
+        {
+            "domain_name": "ineeddumpster.com",
+            "destination": "SiteGround",
+            "date": "2025-01-28 00:24:32"
+        },
         {
             "domain_name": "generationfit.net",
             "destination": "Bluehost",
@@ -472,11 +477,6 @@
             "date": "2025-01-25 18:24:11"
         },
         {
-            "domain_name": "cunninghampropertyservices.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-01-25 18:17:09"
-        },
-        {
             "domain_name": "millboxusa.com",
             "destination": "Pressable",
             "date": "2025-01-25 18:13:41"
@@ -638,7 +638,7 @@
         "Bluehost": 3678,
         "Kinsta": 2489,
         "Digital Ocean": 2475,
-        "SiteGround": 2210,
+        "SiteGround": 2211,
         "Hostinger": 1399,
         "GoDaddy": 666,
         "BigScoots": 336,
