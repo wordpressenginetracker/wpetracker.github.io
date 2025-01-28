@@ -1,6 +1,21 @@
 {
-    "siteCount": 40708,
+    "siteCount": 40718,
     "recentlyMoved": [
+        {
+            "domain_name": "magnoliatrading.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2025-01-28 22:00:38"
+        },
+        {
+            "domain_name": "www.productionproducts.net",
+            "destination": "SiteGround",
+            "date": "2025-01-28 21:38:45"
+        },
+        {
+            "domain_name": "www.northkitsapent.com",
+            "destination": "Kinsta",
+            "date": "2025-01-28 21:36:34"
+        },
         {
             "domain_name": "kcohometeam.ca",
             "destination": "SiteGround",
@@ -477,11 +492,6 @@
             "date": "2025-01-28 09:05:46"
         },
         {
-            "domain_name": "backstagedev.com",
-            "destination": "Kinsta",
-            "date": "2025-01-28 08:50:56"
-        },
-        {
             "domain_name": "callmesocial.net",
             "destination": "Digital Ocean",
             "date": "2025-01-28 08:45:53"
@@ -490,16 +500,6 @@
             "domain_name": "shorelinephysicians.com",
             "destination": "Digital Ocean",
             "date": "2025-01-28 08:45:52"
-        },
-        {
-            "domain_name": "www.bespokerutland.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-01-28 08:09:33"
-        },
-        {
-            "domain_name": "growinginhealthflorida.org",
-            "destination": "Digital Ocean",
-            "date": "2025-01-28 08:02:32"
         }
     ],
     "dailyMovedStat": {
@@ -636,24 +636,24 @@
     "topDestinationHosts": {
         "Pressable": 7663,
         "Bluehost": 3679,
-        "Kinsta": 2513,
-        "Digital Ocean": 2491,
-        "SiteGround": 2222,
-        "Hostinger": 1408,
+        "Kinsta": 2514,
+        "Digital Ocean": 2492,
+        "SiteGround": 2223,
+        "Hostinger": 1384,
         "GoDaddy": 669,
         "BigScoots": 338,
         "Liquid Web": 264,
-        "GridPane": 222,
         "Elementor Hosting": 216,
         "WordPress.com": 186,
         "InMotion Hosting": 176,
         "IONOS": 153,
-        "Wordify": 151,
         "OVH": 143,
-        "A2 Hosting": 123,
         "Namecheap": 121,
         "Hetzner Online": 108,
-        "DreamHost": 102
+        "DreamHost": 102,
+        "HostGator": 80,
+        "Krystal Hosting": 68,
+        "WordPress VIP": 35
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
