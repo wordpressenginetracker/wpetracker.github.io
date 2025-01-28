@@ -1,6 +1,21 @@
 {
-    "siteCount": 40498,
+    "siteCount": 40508,
     "recentlyMoved": [
+        {
+            "domain_name": "embellishingtheordinary.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-01-28 10:52:52"
+        },
+        {
+            "domain_name": "msanchezinsurance.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-28 10:25:11"
+        },
+        {
+            "domain_name": "elevatemyhome.com",
+            "destination": "Kinsta",
+            "date": "2025-01-28 10:08:01"
+        },
         {
             "domain_name": "www.skarhus.no",
             "destination": "Pressable",
@@ -482,24 +497,9 @@
             "date": "2025-01-26 00:43:44"
         },
         {
-            "domain_name": "wellizen.com",
-            "destination": "SiteGround",
-            "date": "2025-01-26 00:10:48"
-        },
-        {
             "domain_name": "aeums.com",
             "destination": "InMotion Hosting",
             "date": "2025-01-25 23:32:49"
-        },
-        {
-            "domain_name": "ultra-au.com",
-            "destination": "SiteGround",
-            "date": "2025-01-25 22:40:18"
-        },
-        {
-            "domain_name": "drytechinteriors.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-25 22:38:05"
         }
     ],
     "dailyMovedStat": {
@@ -636,8 +636,8 @@
     "topDestinationHosts": {
         "Pressable": 7636,
         "Bluehost": 3678,
-        "Kinsta": 2494,
-        "Digital Ocean": 2483,
+        "Kinsta": 2495,
+        "Digital Ocean": 2484,
         "SiteGround": 2213,
         "Hostinger": 1400,
         "GoDaddy": 666,
