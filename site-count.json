@@ -1,6 +1,11 @@
 {
-    "siteCount": 40558,
+    "siteCount": 40561,
     "recentlyMoved": [
+        {
+            "domain_name": "vetlandmedical.com",
+            "destination": "Kinsta",
+            "date": "2025-01-28 14:32:58"
+        },
         {
             "domain_name": "malaikacotton.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-01-26 18:03:08"
         },
         {
-            "domain_name": "lavittanimalhospital.com",
-            "destination": "GridPane",
-            "date": "2025-01-26 17:23:55"
-        },
-        {
             "domain_name": "www.screedgiant.co.uk",
             "destination": "IONOS",
             "date": "2025-01-26 17:22:45"
@@ -636,7 +636,7 @@
     "topDestinationHosts": {
         "Pressable": 7641,
         "Bluehost": 3678,
-        "Kinsta": 2497,
+        "Kinsta": 2498,
         "Digital Ocean": 2486,
         "SiteGround": 2218,
         "Hostinger": 1403,
