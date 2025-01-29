@@ -1,6 +1,16 @@
 {
-    "siteCount": 40722,
+    "siteCount": 40729,
     "recentlyMoved": [
+        {
+            "domain_name": "abpro.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 00:07:58"
+        },
+        {
+            "domain_name": "allegiantnow.com",
+            "destination": "SiteGround",
+            "date": "2025-01-28 23:40:36"
+        },
         {
             "domain_name": "enotrans.org",
             "destination": "Pressable",
@@ -482,16 +492,6 @@
             "date": "2025-01-28 09:13:53"
         },
         {
-            "domain_name": "sbg-byggen.se",
-            "destination": "Kinsta",
-            "date": "2025-01-28 09:10:53"
-        },
-        {
-            "domain_name": "segerberggruppen.se",
-            "destination": "Kinsta",
-            "date": "2025-01-28 09:05:46"
-        },
-        {
             "domain_name": "callmesocial.net",
             "destination": "Digital Ocean",
             "date": "2025-01-28 08:45:53"
@@ -639,7 +639,7 @@
         "Bluehost": 3679,
         "Kinsta": 2514,
         "Digital Ocean": 2492,
-        "SiteGround": 2223,
+        "SiteGround": 2224,
         "Hostinger": 1408,
         "GoDaddy": 669,
         "BigScoots": 338,
@@ -651,7 +651,7 @@
         "IONOS": 153,
         "Wordify": 151,
         "OVH": 143,
-        "A2 Hosting": 123,
+        "A2 Hosting": 124,
         "Namecheap": 121,
         "Hetzner Online": 108,
         "DreamHost": 102
