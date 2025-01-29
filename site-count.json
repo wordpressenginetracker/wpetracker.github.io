@@ -1,6 +1,11 @@
 {
-    "siteCount": 40750,
+    "siteCount": 40753,
     "recentlyMoved": [
+        {
+            "domain_name": "opbg.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-01-29 03:48:35"
+        },
         {
             "domain_name": "medincredi.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "flexlogistics.com",
             "destination": "Digital Ocean",
             "date": "2025-01-28 11:56:56"
-        },
-        {
-            "domain_name": "vitalbitesvending.com",
-            "destination": "SiteGround",
-            "date": "2025-01-28 11:40:56"
         }
     ],
     "dailyMovedStat": {
@@ -638,7 +638,7 @@
         "Pressable": 7667,
         "Bluehost": 3679,
         "Kinsta": 2514,
-        "Digital Ocean": 2493,
+        "Digital Ocean": 2494,
         "SiteGround": 2225,
         "Hostinger": 1410,
         "GoDaddy": 669,
