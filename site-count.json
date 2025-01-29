@@ -1,6 +1,16 @@
 {
-    "siteCount": 41060,
+    "siteCount": 41070,
     "recentlyMoved": [
+        {
+            "domain_name": "newmarkac.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 23:07:20"
+        },
+        {
+            "domain_name": "vanguardiaexpres.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 22:59:15"
+        },
         {
             "domain_name": "teamtrafera.com",
             "destination": "Wordify",
@@ -490,16 +500,6 @@
             "domain_name": "bubblewashlaundry.com.au",
             "destination": "Elementor Hosting",
             "date": "2025-01-29 09:10:35"
-        },
-        {
-            "domain_name": "www.flaim.nl",
-            "destination": "Kinsta",
-            "date": "2025-01-29 08:51:09"
-        },
-        {
-            "domain_name": "immobilien-bien.com",
-            "destination": "Pressable",
-            "date": "2025-01-29 08:42:14"
         }
     ],
     "dailyMovedStat": {
@@ -632,26 +632,27 @@
         "2025-01-25": "40177",
         "2025-01-26": "40289",
         "2025-01-27": "40428",
-        "2025-01-28": "40722"
+        "2025-01-28": "40722",
+        "2025-01-29": "41070"
     },
     "topDestinationHosts": {
         "Pressable": 7689,
         "Bluehost": 3683,
-        "Kinsta": 2531,
-        "Digital Ocean": 2505,
-        "SiteGround": 2246,
+        "Kinsta": 2532,
+        "Digital Ocean": 2506,
+        "SiteGround": 2247,
         "Hostinger": 1425,
-        "GoDaddy": 677,
-        "BigScoots": 339,
+        "GoDaddy": 678,
+        "BigScoots": 340,
         "Liquid Web": 266,
         "GridPane": 225,
         "Elementor Hosting": 217,
         "WordPress.com": 189,
         "InMotion Hosting": 176,
         "IONOS": 157,
-        "Wordify": 151,
+        "Wordify": 152,
         "OVH": 145,
-        "A2 Hosting": 127,
+        "A2 Hosting": 128,
         "Namecheap": 122,
         "Hetzner Online": 112,
         "DreamHost": 102
@@ -786,6 +787,7 @@
         "2025-01-25": "675206",
         "2025-01-26": "676118",
         "2025-01-27": "675609",
-        "2025-01-28": "674792"
+        "2025-01-28": "674792",
+        "2025-01-29": "673810"
     }
 }
