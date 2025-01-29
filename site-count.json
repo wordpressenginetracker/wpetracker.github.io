@@ -1,10 +1,70 @@
 {
-    "siteCount": 40864,
+    "siteCount": 40888,
     "recentlyMoved": [
+        {
+            "domain_name": "demos.onepagelove.com",
+            "destination": "Hetzner Online",
+            "date": "2025-01-29 14:02:30"
+        },
+        {
+            "domain_name": "miltronicsdistribution.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 14:01:33"
+        },
+        {
+            "domain_name": "www.restorationinfusions.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 13:57:23"
+        },
+        {
+            "domain_name": "topnotchconstructionandroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 13:54:23"
+        },
+        {
+            "domain_name": "dependablegaragedoor.net",
+            "destination": "Bluehost",
+            "date": "2025-01-29 13:52:31"
+        },
+        {
+            "domain_name": "stiltnerelectric.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 13:51:53"
+        },
+        {
+            "domain_name": "tips.onepagelove.com",
+            "destination": "Hetzner Online",
+            "date": "2025-01-29 13:44:15"
+        },
+        {
+            "domain_name": "www.threemeadowsfarmnj.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 13:44:13"
+        },
+        {
+            "domain_name": "www.steinbergvalentino.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 13:35:54"
+        },
+        {
+            "domain_name": "synergycreativ.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 13:29:07"
+        },
         {
             "domain_name": "brittneylear.co",
             "destination": "WordPress.com",
             "date": "2025-01-29 13:17:20"
+        },
+        {
+            "domain_name": "chyron.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 13:16:26"
+        },
+        {
+            "domain_name": "kwac.love",
+            "destination": "OVH",
+            "date": "2025-01-29 13:07:56"
         },
         {
             "domain_name": "solutions-nys.com",
@@ -427,11 +487,6 @@
             "date": "2025-01-28 18:49:04"
         },
         {
-            "domain_name": "divorcemoxie.com",
-            "destination": "SiteGround",
-            "date": "2025-01-28 18:40:34"
-        },
-        {
             "domain_name": "eminence.media",
             "destination": "DreamHost",
             "date": "2025-01-28 18:38:33"
@@ -442,64 +497,9 @@
             "date": "2025-01-28 18:27:10"
         },
         {
-            "domain_name": "drcoralarvon.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-28 18:23:01"
-        },
-        {
-            "domain_name": "doorcountycherryhut.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-28 18:20:39"
-        },
-        {
             "domain_name": "msprealestateinc.com",
             "destination": "Kinsta",
             "date": "2025-01-28 18:15:33"
-        },
-        {
-            "domain_name": "theescaperooftopbar.com",
-            "destination": "Pressable",
-            "date": "2025-01-28 18:11:41"
-        },
-        {
-            "domain_name": "thebridgewaterstudio.com",
-            "destination": "BigScoots",
-            "date": "2025-01-28 18:08:39"
-        },
-        {
-            "domain_name": "thelauraspa.com",
-            "destination": "Pressable",
-            "date": "2025-01-28 17:59:37"
-        },
-        {
-            "domain_name": "www.outdooroasisde.com",
-            "destination": "Pressable",
-            "date": "2025-01-28 17:50:42"
-        },
-        {
-            "domain_name": "laexteriorservices.com",
-            "destination": "Kinsta",
-            "date": "2025-01-28 17:42:45"
-        },
-        {
-            "domain_name": "www.strausfamilycreamery.com",
-            "destination": "Kinsta",
-            "date": "2025-01-28 17:38:35"
-        },
-        {
-            "domain_name": "www.quinnthomas.com",
-            "destination": "SiteGround",
-            "date": "2025-01-28 17:38:12"
-        },
-        {
-            "domain_name": "thechicagojournal.com",
-            "destination": "Hostinger",
-            "date": "2025-01-28 17:37:01"
-        },
-        {
-            "domain_name": "www.narsabq.com",
-            "destination": "Kinsta",
-            "date": "2025-01-28 17:28:13"
         }
     ],
     "dailyMovedStat": {
@@ -636,11 +636,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 7680,
-        "Bluehost": 3679,
-        "Kinsta": 2520,
+        "Bluehost": 3680,
+        "Kinsta": 2524,
         "Digital Ocean": 2502,
-        "SiteGround": 2229,
-        "Hostinger": 1417,
+        "SiteGround": 2231,
+        "Hostinger": 1418,
         "GoDaddy": 671,
         "BigScoots": 338,
         "Liquid Web": 266,
@@ -650,10 +650,10 @@
         "InMotion Hosting": 176,
         "IONOS": 155,
         "Wordify": 151,
-        "OVH": 143,
+        "OVH": 144,
         "A2 Hosting": 124,
         "Namecheap": 121,
-        "Hetzner Online": 110,
+        "Hetzner Online": 112,
         "DreamHost": 102
     },
     "dailyTotalStat": {
