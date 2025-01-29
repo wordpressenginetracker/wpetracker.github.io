@@ -1,10 +1,35 @@
 {
-    "siteCount": 41033,
+    "siteCount": 41048,
     "recentlyMoved": [
+        {
+            "domain_name": "champaignestudio.com",
+            "destination": "BigScoots",
+            "date": "2025-01-29 21:27:37"
+        },
+        {
+            "domain_name": "iejournalism.fund",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 20:50:37"
+        },
+        {
+            "domain_name": "www.humphreyscapital.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 20:41:12"
+        },
         {
             "domain_name": "www.brandnation.com.au",
             "destination": "SiteGround",
             "date": "2025-01-29 20:39:36"
+        },
+        {
+            "domain_name": "hiddenacresresort.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 20:31:07"
+        },
+        {
+            "domain_name": "qualitytitleservice.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 20:29:31"
         },
         {
             "domain_name": "atvbroadcast.tv",
@@ -475,31 +500,6 @@
             "domain_name": "wespeakmeat.com",
             "destination": "Hostinger",
             "date": "2025-01-29 07:38:54"
-        },
-        {
-            "domain_name": "vkvending.com",
-            "destination": "SiteGround",
-            "date": "2025-01-29 07:25:19"
-        },
-        {
-            "domain_name": "webofthings.org",
-            "destination": "Hostinger",
-            "date": "2025-01-29 07:15:31"
-        },
-        {
-            "domain_name": "mustard.it",
-            "destination": "Pressable",
-            "date": "2025-01-29 06:53:47"
-        },
-        {
-            "domain_name": "delhifitnessclub.org",
-            "destination": "Digital Ocean",
-            "date": "2025-01-29 05:53:53"
-        },
-        {
-            "domain_name": "thegyms.co",
-            "destination": "Digital Ocean",
-            "date": "2025-01-29 05:50:06"
         }
     ],
     "dailyMovedStat": {
@@ -635,13 +635,13 @@
         "2025-01-28": "40722"
     },
     "topDestinationHosts": {
-        "Pressable": 7688,
-        "Bluehost": 3682,
+        "Pressable": 7689,
+        "Bluehost": 3683,
         "Kinsta": 2531,
         "Digital Ocean": 2505,
-        "SiteGround": 2244,
+        "SiteGround": 2246,
         "Hostinger": 1425,
-        "GoDaddy": 675,
+        "GoDaddy": 677,
         "BigScoots": 339,
         "Liquid Web": 266,
         "GridPane": 225,
