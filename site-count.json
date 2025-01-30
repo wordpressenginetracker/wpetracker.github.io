@@ -1,6 +1,11 @@
 {
-    "siteCount": 41126,
+    "siteCount": 41127,
     "recentlyMoved": [
+        {
+            "domain_name": "normalondon.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 06:21:19"
+        },
         {
             "domain_name": "thetalentpeople.co.uk",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "herndonpanoramics.com",
             "destination": "Liquid Web",
             "date": "2025-01-29 12:16:15"
-        },
-        {
-            "domain_name": "hego.tv",
-            "destination": "Kinsta",
-            "date": "2025-01-29 12:10:31"
         }
     ],
     "dailyMovedStat": {
@@ -639,7 +639,7 @@
         "Pressable": 7691,
         "Bluehost": 3683,
         "Kinsta": 2535,
-        "Digital Ocean": 2510,
+        "Digital Ocean": 2511,
         "SiteGround": 2250,
         "Hostinger": 1427,
         "GoDaddy": 679,
