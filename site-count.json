@@ -1,6 +1,31 @@
 {
-    "siteCount": 41127,
+    "siteCount": 41136,
     "recentlyMoved": [
+        {
+            "domain_name": "www.byggecentrum.dk",
+            "destination": "Kinsta",
+            "date": "2025-01-30 08:40:47"
+        },
+        {
+            "domain_name": "publiva.fi",
+            "destination": "Kinsta",
+            "date": "2025-01-30 08:05:51"
+        },
+        {
+            "domain_name": "ark-wm.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-30 08:05:29"
+        },
+        {
+            "domain_name": "volunteersweek.org",
+            "destination": "SiteGround",
+            "date": "2025-01-30 07:52:17"
+        },
+        {
+            "domain_name": "americanbrakeandmufflershop.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 07:37:50"
+        },
         {
             "domain_name": "normalondon.com",
             "destination": "Digital Ocean",
@@ -447,11 +472,6 @@
             "date": "2025-01-29 13:29:07"
         },
         {
-            "domain_name": "brittneylear.co",
-            "destination": "WordPress.com",
-            "date": "2025-01-29 13:17:20"
-        },
-        {
             "domain_name": "chyron.com",
             "destination": "Kinsta",
             "date": "2025-01-29 13:16:26"
@@ -477,29 +497,9 @@
             "date": "2025-01-29 12:47:32"
         },
         {
-            "domain_name": "www.houstonchapter.com",
-            "destination": "Kinsta",
-            "date": "2025-01-29 12:46:00"
-        },
-        {
             "domain_name": "judigalloway.com",
             "destination": "Hostinger",
             "date": "2025-01-29 12:38:10"
-        },
-        {
-            "domain_name": "realestatetoday.com",
-            "destination": "Hostinger",
-            "date": "2025-01-29 12:36:38"
-        },
-        {
-            "domain_name": "www.iowaprojectaware.org",
-            "destination": "Pressable",
-            "date": "2025-01-29 12:35:37"
-        },
-        {
-            "domain_name": "herndonpanoramics.com",
-            "destination": "Liquid Web",
-            "date": "2025-01-29 12:16:15"
         }
     ],
     "dailyMovedStat": {
@@ -636,18 +636,18 @@
         "2025-01-29": "41070"
     },
     "topDestinationHosts": {
-        "Pressable": 7691,
+        "Pressable": 7692,
         "Bluehost": 3683,
         "Kinsta": 2535,
         "Digital Ocean": 2511,
-        "SiteGround": 2250,
+        "SiteGround": 2251,
         "Hostinger": 1427,
         "GoDaddy": 679,
         "BigScoots": 340,
         "Liquid Web": 266,
         "GridPane": 226,
         "Elementor Hosting": 217,
-        "WordPress.com": 191,
+        "WordPress.com": 192,
         "InMotion Hosting": 176,
         "IONOS": 157,
         "Wordify": 152,
