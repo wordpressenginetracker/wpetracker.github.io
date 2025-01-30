@@ -1,6 +1,16 @@
 {
-    "siteCount": 41122,
+    "siteCount": 41126,
     "recentlyMoved": [
+        {
+            "domain_name": "thetalentpeople.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-01-30 05:44:20"
+        },
+        {
+            "domain_name": "ctrlcarebh.com",
+            "destination": "Hostinger",
+            "date": "2025-01-30 05:34:53"
+        },
         {
             "domain_name": "cfsignalhill.com",
             "destination": "Pressable",
@@ -482,11 +492,6 @@
             "date": "2025-01-29 12:35:37"
         },
         {
-            "domain_name": "hbjournal.org",
-            "destination": "Kinsta",
-            "date": "2025-01-29 12:18:13"
-        },
-        {
             "domain_name": "herndonpanoramics.com",
             "destination": "Liquid Web",
             "date": "2025-01-29 12:16:15"
@@ -495,11 +500,6 @@
             "domain_name": "hego.tv",
             "destination": "Kinsta",
             "date": "2025-01-29 12:10:31"
-        },
-        {
-            "domain_name": "gulfcoastbuilderstb.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-29 11:48:34"
         }
     ],
     "dailyMovedStat": {
@@ -636,12 +636,12 @@
         "2025-01-29": "41070"
     },
     "topDestinationHosts": {
-        "Pressable": 7690,
+        "Pressable": 7691,
         "Bluehost": 3683,
         "Kinsta": 2535,
         "Digital Ocean": 2510,
-        "SiteGround": 2249,
-        "Hostinger": 1426,
+        "SiteGround": 2250,
+        "Hostinger": 1427,
         "GoDaddy": 679,
         "BigScoots": 340,
         "Liquid Web": 266,
