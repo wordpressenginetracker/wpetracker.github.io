@@ -1,6 +1,16 @@
 {
-    "siteCount": 41099,
+    "siteCount": 41109,
     "recentlyMoved": [
+        {
+            "domain_name": "gss.org",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 04:21:45"
+        },
+        {
+            "domain_name": "wowsmiles.com",
+            "destination": "SiteGround",
+            "date": "2025-01-30 03:58:29"
+        },
         {
             "domain_name": "mowpoweraz.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "naplesrentals.net",
             "destination": "Digital Ocean",
             "date": "2025-01-29 10:12:07"
-        },
-        {
-            "domain_name": "yo.fm",
-            "destination": "Hetzner Online",
-            "date": "2025-01-29 10:07:27"
-        },
-        {
-            "domain_name": "zoccariverwalk.com",
-            "destination": "Pressable",
-            "date": "2025-01-29 09:49:47"
         }
     ],
     "dailyMovedStat": {
@@ -639,8 +639,8 @@
         "Pressable": 7690,
         "Bluehost": 3683,
         "Kinsta": 2535,
-        "Digital Ocean": 2507,
-        "SiteGround": 2248,
+        "Digital Ocean": 2508,
+        "SiteGround": 2249,
         "Hostinger": 1426,
         "GoDaddy": 679,
         "BigScoots": 340,
