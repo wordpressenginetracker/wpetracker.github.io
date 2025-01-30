@@ -1,6 +1,21 @@
 {
-    "siteCount": 41212,
+    "siteCount": 41221,
     "recentlyMoved": [
+        {
+            "domain_name": "neostem.org",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 14:58:59"
+        },
+        {
+            "domain_name": "vintedwinebar.com",
+            "destination": "Hostinger",
+            "date": "2025-01-30 14:53:48"
+        },
+        {
+            "domain_name": "edgerton.us",
+            "destination": "Kinsta",
+            "date": "2025-01-30 14:45:06"
+        },
         {
             "domain_name": "zensmallbiz.com",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "epoxyfloorexperts.com",
             "destination": "SiteGround",
             "date": "2025-01-29 18:14:54"
-        },
-        {
-            "domain_name": "www.somerset-hills.org",
-            "destination": "Kinsta",
-            "date": "2025-01-29 18:13:27"
-        },
-        {
-            "domain_name": "mcfarlin-group.com",
-            "destination": "Hostinger",
-            "date": "2025-01-29 18:03:48"
-        },
-        {
-            "domain_name": "livingmybeststyle.com",
-            "destination": "BigScoots",
-            "date": "2025-01-29 17:21:34"
         }
     ],
     "dailyMovedStat": {
@@ -638,11 +638,11 @@
     "topDestinationHosts": {
         "Pressable": 7705,
         "Bluehost": 3684,
-        "Kinsta": 2546,
-        "Digital Ocean": 2519,
+        "Kinsta": 2547,
+        "Digital Ocean": 2520,
         "SiteGround": 2253,
-        "Hostinger": 1433,
-        "GoDaddy": 681,
+        "Hostinger": 1434,
+        "GoDaddy": 682,
         "BigScoots": 340,
         "Liquid Web": 266,
         "GridPane": 226,
