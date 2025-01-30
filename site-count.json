@@ -1,6 +1,16 @@
 {
-    "siteCount": 41087,
+    "siteCount": 41094,
     "recentlyMoved": [
+        {
+            "domain_name": "dynek.com",
+            "destination": "Kinsta",
+            "date": "2025-01-30 02:12:05"
+        },
+        {
+            "domain_name": "lowcountrydentistryinc.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 01:31:14"
+        },
         {
             "domain_name": "www.jonatwincreeks.com",
             "destination": "SiteGround",
@@ -482,11 +492,6 @@
             "date": "2025-01-29 10:07:27"
         },
         {
-            "domain_name": "www.spencercurtis.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-29 10:03:58"
-        },
-        {
             "domain_name": "zoccariverwalk.com",
             "destination": "Pressable",
             "date": "2025-01-29 09:49:47"
@@ -495,11 +500,6 @@
             "domain_name": "tideroomoceancity.com",
             "destination": "Pressable",
             "date": "2025-01-29 09:44:07"
-        },
-        {
-            "domain_name": "cytal.co.uk",
-            "destination": "Pressable",
-            "date": "2025-01-29 09:41:49"
         }
     ],
     "dailyMovedStat": {
@@ -636,7 +636,7 @@
         "2025-01-29": "41070"
     },
     "topDestinationHosts": {
-        "Pressable": 7689,
+        "Pressable": 7690,
         "Bluehost": 3683,
         "Kinsta": 2534,
         "Digital Ocean": 2507,
