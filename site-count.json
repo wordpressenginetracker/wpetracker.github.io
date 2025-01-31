@@ -1,6 +1,11 @@
 {
-    "siteCount": 41461,
+    "siteCount": 41467,
     "recentlyMoved": [
+        {
+            "domain_name": "wwcsa.org.au",
+            "destination": "Kinsta",
+            "date": "2025-01-31 03:45:08"
+        },
         {
             "domain_name": "expandlt.chalkbeat.org",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-01-30 14:35:40"
         },
         {
-            "domain_name": "densoninc.com",
-            "destination": "DreamHost",
-            "date": "2025-01-30 14:31:26"
-        },
-        {
             "domain_name": "www.whirlwindhvac.com",
             "destination": "Digital Ocean",
             "date": "2025-01-30 14:12:22"
@@ -639,7 +639,7 @@
     "topDestinationHosts": {
         "Pressable": 7722,
         "Bluehost": 3689,
-        "Kinsta": 2573,
+        "Kinsta": 2574,
         "Digital Ocean": 2541,
         "SiteGround": 2263,
         "Hostinger": 1440,
