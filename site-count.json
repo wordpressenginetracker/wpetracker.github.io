@@ -1,6 +1,31 @@
 {
-    "siteCount": 41475,
+    "siteCount": 41480,
     "recentlyMoved": [
+        {
+            "domain_name": "eamendezlaw.com",
+            "destination": "Pressable",
+            "date": "2025-01-31 06:25:24"
+        },
+        {
+            "domain_name": "deasonart.com",
+            "destination": "Pressable",
+            "date": "2025-01-31 06:18:39"
+        },
+        {
+            "domain_name": "diamondblueair.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-31 05:55:13"
+        },
+        {
+            "domain_name": "constructionbyasi.com",
+            "destination": "Pressable",
+            "date": "2025-01-31 05:43:29"
+        },
+        {
+            "domain_name": "sunsetblindsusa.com",
+            "destination": "Hostinger",
+            "date": "2025-01-31 05:33:37"
+        },
         {
             "domain_name": "www.lawp.it",
             "destination": "Pressable",
@@ -462,11 +487,6 @@
             "date": "2025-01-30 15:59:44"
         },
         {
-            "domain_name": "wallaceroofing.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2025-01-30 15:55:47"
-        },
-        {
             "domain_name": "www.hjflaw.com",
             "destination": "Liquid Web",
             "date": "2025-01-30 15:50:57"
@@ -477,29 +497,9 @@
             "date": "2025-01-30 15:50:35"
         },
         {
-            "domain_name": "firemanscx.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-30 15:48:00"
-        },
-        {
             "domain_name": "www.advancedinterventionalmedicine.com",
             "destination": "Kinsta",
             "date": "2025-01-30 15:47:29"
-        },
-        {
-            "domain_name": "aayeagency.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-30 15:18:13"
-        },
-        {
-            "domain_name": "flattrak.com",
-            "destination": "SiteGround",
-            "date": "2025-01-30 15:17:01"
-        },
-        {
-            "domain_name": "vintedwinebar.com",
-            "destination": "Hostinger",
-            "date": "2025-01-30 14:53:48"
         }
     ],
     "dailyMovedStat": {
@@ -637,12 +637,12 @@
         "2025-01-30": "41418"
     },
     "topDestinationHosts": {
-        "Pressable": 7722,
+        "Pressable": 7727,
         "Bluehost": 3689,
-        "Kinsta": 2574,
-        "Digital Ocean": 2541,
+        "Kinsta": 2575,
+        "Digital Ocean": 2543,
         "SiteGround": 2263,
-        "Hostinger": 1440,
+        "Hostinger": 1442,
         "GoDaddy": 691,
         "BigScoots": 340,
         "Liquid Web": 267,
