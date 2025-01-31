@@ -1,6 +1,16 @@
 {
-    "siteCount": 41418,
+    "siteCount": 41431,
     "recentlyMoved": [
+        {
+            "domain_name": "polyglot.org.au",
+            "destination": "Kinsta",
+            "date": "2025-01-30 23:48:19"
+        },
+        {
+            "domain_name": "abbpowdercoating.com",
+            "destination": "DreamHost",
+            "date": "2025-01-30 23:27:51"
+        },
         {
             "domain_name": "northerntree.com",
             "destination": "Hostinger",
@@ -457,11 +467,6 @@
             "date": "2025-01-30 13:08:08"
         },
         {
-            "domain_name": "bonitaspringsesterolifestyles.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-30 13:05:33"
-        },
-        {
             "domain_name": "www.mcwilliamsandson.com",
             "destination": "Digital Ocean",
             "date": "2025-01-30 13:00:54"
@@ -475,11 +480,6 @@
             "domain_name": "www.milwaukeeeyesurgeons.com",
             "destination": "Kinsta",
             "date": "2025-01-30 12:49:44"
-        },
-        {
-            "domain_name": "bodyreact.com",
-            "destination": "Hostinger",
-            "date": "2025-01-30 12:49:42"
         },
         {
             "domain_name": "www.jetski.no",
@@ -639,7 +639,7 @@
     "topDestinationHosts": {
         "Pressable": 7715,
         "Bluehost": 3689,
-        "Kinsta": 2570,
+        "Kinsta": 2571,
         "Digital Ocean": 2540,
         "SiteGround": 2259,
         "Hostinger": 1439,
@@ -656,7 +656,7 @@
         "A2 Hosting": 130,
         "Namecheap": 124,
         "Hetzner Online": 112,
-        "DreamHost": 104
+        "DreamHost": 105
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
