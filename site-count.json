@@ -1,6 +1,76 @@
 {
-    "siteCount": 41960,
+    "siteCount": 41991,
     "recentlyMoved": [
+        {
+            "domain_name": "avbend.com",
+            "destination": "Pressable",
+            "date": "2025-02-01 12:23:26"
+        },
+        {
+            "domain_name": "www.cfsn-nj.org",
+            "destination": "GoDaddy",
+            "date": "2025-02-01 12:19:06"
+        },
+        {
+            "domain_name": "wildlifetradefutures.com",
+            "destination": "SiteGround",
+            "date": "2025-02-01 12:06:12"
+        },
+        {
+            "domain_name": "funeraltrustexpo.com",
+            "destination": "Pressable",
+            "date": "2025-02-01 12:04:20"
+        },
+        {
+            "domain_name": "wordsbynick.com",
+            "destination": "SiteGround",
+            "date": "2025-02-01 12:01:37"
+        },
+        {
+            "domain_name": "garrowlaw.com",
+            "destination": "Pressable",
+            "date": "2025-02-01 11:59:11"
+        },
+        {
+            "domain_name": "fmc2020.com",
+            "destination": "Kinsta",
+            "date": "2025-02-01 11:57:19"
+        },
+        {
+            "domain_name": "www.mrrooferatlanta.com",
+            "destination": "SiteGround",
+            "date": "2025-02-01 11:55:38"
+        },
+        {
+            "domain_name": "welcometohouse.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-02-01 11:47:16"
+        },
+        {
+            "domain_name": "petfriendlyservices.org",
+            "destination": "Digital Ocean",
+            "date": "2025-02-01 11:44:50"
+        },
+        {
+            "domain_name": "nycityawnings.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-01 11:44:13"
+        },
+        {
+            "domain_name": "www.saliogen.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-02-01 11:43:56"
+        },
+        {
+            "domain_name": "www.compassionatepsychiatry.org",
+            "destination": "Kinsta",
+            "date": "2025-02-01 11:37:51"
+        },
+        {
+            "domain_name": "weathersbyguildcharlotte.com",
+            "destination": "Hostinger",
+            "date": "2025-02-01 11:21:44"
+        },
         {
             "domain_name": "mrlawattorney.com",
             "destination": "Pressable",
@@ -412,11 +482,6 @@
             "date": "2025-01-31 17:13:27"
         },
         {
-            "domain_name": "boardhawk.org",
-            "destination": "Pressable",
-            "date": "2025-01-31 17:11:12"
-        },
-        {
             "domain_name": "www.jarockymountain.org",
             "destination": "Pressable",
             "date": "2025-01-31 17:07:00"
@@ -435,71 +500,6 @@
             "domain_name": "cceg.cegepdrummond.ca",
             "destination": "Kinsta",
             "date": "2025-01-31 16:41:23"
-        },
-        {
-            "domain_name": "bondaquatics.com",
-            "destination": "A2 Hosting",
-            "date": "2025-01-31 16:41:01"
-        },
-        {
-            "domain_name": "btdisplaygroup.com",
-            "destination": "SiteGround",
-            "date": "2025-01-31 16:40:16"
-        },
-        {
-            "domain_name": "randallsfarm.net",
-            "destination": "Hostinger",
-            "date": "2025-01-31 16:37:44"
-        },
-        {
-            "domain_name": "www.directom.com",
-            "destination": "Pressable",
-            "date": "2025-01-31 16:33:38"
-        },
-        {
-            "domain_name": "atteberryhomes.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-31 16:30:44"
-        },
-        {
-            "domain_name": "atpslandscaping.com",
-            "destination": "SiteGround",
-            "date": "2025-01-31 16:30:44"
-        },
-        {
-            "domain_name": "www.icpgp.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-31 16:25:33"
-        },
-        {
-            "domain_name": "www.bluesky-inspections.com",
-            "destination": "Pressable",
-            "date": "2025-01-31 16:25:23"
-        },
-        {
-            "domain_name": "rollinghillsdentistry.com",
-            "destination": "GoDaddy",
-            "date": "2025-01-31 16:22:38"
-        },
-        {
-            "domain_name": "rise.coloradoleague.org",
-            "destination": "Pressable",
-            "date": "2025-01-31 16:12:10"
-        },
-        {
-            "domain_name": "arcadeanimalhospital.com",
-            "destination": "GridPane",
-            "date": "2025-01-31 16:02:48"
-        },
-        {
-            "domain_name": "backsplashcompany.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-31 15:52:49"
-        },
-        {
-            "domain_name": "golook4.com",
-            "destination": "Digital Ocean",
-            "date": "2025-01-31 15:45:22"
         }
     ],
     "dailyMovedStat": {
@@ -638,19 +638,19 @@
         "2025-01-31": "41869"
     },
     "topDestinationHosts": {
-        "Pressable": 7793,
+        "Pressable": 7795,
         "Bluehost": 3692,
-        "Digital Ocean": 2602,
-        "Kinsta": 2599,
-        "SiteGround": 2282,
-        "Hostinger": 1453,
+        "Digital Ocean": 2604,
+        "Kinsta": 2601,
+        "SiteGround": 2286,
+        "Hostinger": 1454,
         "GoDaddy": 698,
         "BigScoots": 342,
         "Liquid Web": 267,
         "GridPane": 229,
         "Elementor Hosting": 217,
         "WordPress.com": 197,
-        "InMotion Hosting": 179,
+        "InMotion Hosting": 180,
         "IONOS": 160,
         "Wordify": 152,
         "OVH": 150,
