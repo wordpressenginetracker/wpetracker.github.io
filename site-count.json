@@ -1,6 +1,11 @@
 {
-    "siteCount": 42286,
+    "siteCount": 42288,
     "recentlyMoved": [
+        {
+            "domain_name": "etveinclinic.com",
+            "destination": "DreamHost",
+            "date": "2025-02-02 10:38:48"
+        },
         {
             "domain_name": "capchurch.org",
             "destination": "SiteGround",
@@ -477,11 +482,6 @@
             "date": "2025-02-01 12:19:06"
         },
         {
-            "domain_name": "garrowlaw.com",
-            "destination": "Pressable",
-            "date": "2025-02-01 11:59:11"
-        },
-        {
             "domain_name": "www.mrrooferatlanta.com",
             "destination": "SiteGround",
             "date": "2025-02-01 11:55:38"
@@ -658,7 +658,7 @@
         "A2 Hosting": 134,
         "Namecheap": 125,
         "Hetzner Online": 113,
-        "DreamHost": 106
+        "DreamHost": 107
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
