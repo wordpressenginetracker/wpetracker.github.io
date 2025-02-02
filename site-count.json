@@ -1,6 +1,11 @@
 {
-    "siteCount": 42291,
+    "siteCount": 42293,
     "recentlyMoved": [
+        {
+            "domain_name": "brewtpowersystems.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-02 13:12:37"
+        },
         {
             "domain_name": "gracenoteinn.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.saliogen.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-01 11:43:56"
-        },
-        {
-            "domain_name": "www.compassionatepsychiatry.org",
-            "destination": "Kinsta",
-            "date": "2025-02-01 11:37:51"
         }
     ],
     "dailyMovedStat": {
@@ -645,7 +645,7 @@
         "Kinsta": 2614,
         "SiteGround": 2302,
         "Hostinger": 1461,
-        "GoDaddy": 704,
+        "GoDaddy": 705,
         "BigScoots": 343,
         "Liquid Web": 268,
         "GridPane": 231,
