@@ -1,6 +1,21 @@
 {
-    "siteCount": 42363,
+    "siteCount": 42370,
     "recentlyMoved": [
+        {
+            "domain_name": "centurian-hi.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-02-02 21:28:10"
+        },
+        {
+            "domain_name": "karyssakomar.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-02 21:18:42"
+        },
+        {
+            "domain_name": "inspyr.com.au",
+            "destination": "GoDaddy",
+            "date": "2025-02-02 20:46:05"
+        },
         {
             "domain_name": "premierretailadvisors.com",
             "destination": "Pressable",
@@ -477,21 +492,6 @@
             "date": "2025-02-01 13:09:03"
         },
         {
-            "domain_name": "burnsideac.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-01 13:08:30"
-        },
-        {
-            "domain_name": "jjenterpriseslcd.com",
-            "destination": "SiteGround",
-            "date": "2025-02-01 13:05:53"
-        },
-        {
-            "domain_name": "jenesisdesignstudio.com",
-            "destination": "SiteGround",
-            "date": "2025-02-01 12:58:13"
-        },
-        {
             "domain_name": "www.lubecorp.com",
             "destination": "Digital Ocean",
             "date": "2025-02-01 12:56:43"
@@ -641,11 +641,11 @@
     "topDestinationHosts": {
         "Pressable": 7830,
         "Bluehost": 3695,
-        "Digital Ocean": 2618,
+        "Digital Ocean": 2619,
         "Kinsta": 2614,
         "SiteGround": 2305,
         "Hostinger": 1461,
-        "GoDaddy": 706,
+        "GoDaddy": 707,
         "BigScoots": 343,
         "Liquid Web": 268,
         "GridPane": 231,
