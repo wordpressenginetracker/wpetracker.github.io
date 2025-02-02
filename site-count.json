@@ -1,6 +1,21 @@
 {
-    "siteCount": 42332,
+    "siteCount": 42363,
     "recentlyMoved": [
+        {
+            "domain_name": "premierretailadvisors.com",
+            "destination": "Pressable",
+            "date": "2025-02-02 20:19:46"
+        },
+        {
+            "domain_name": "3dmotors.net",
+            "destination": "SiteGround",
+            "date": "2025-02-02 19:38:46"
+        },
+        {
+            "domain_name": "paradoxcnc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-02 19:21:18"
+        },
         {
             "domain_name": "neptune-shield.com",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-02-01 12:56:43"
         },
         {
-            "domain_name": "broadviewcounseling.com",
-            "destination": "DreamHost",
-            "date": "2025-02-01 12:55:24"
-        },
-        {
             "domain_name": "kaizenrcm.com",
             "destination": "Pressable",
             "date": "2025-02-01 12:44:30"
-        },
-        {
-            "domain_name": "broomgrove-trust.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-02-01 12:38:14"
-        },
-        {
-            "domain_name": "brasssocial.com",
-            "destination": "Pressable",
-            "date": "2025-02-01 12:30:00"
         }
     ],
     "dailyMovedStat": {
@@ -639,13 +639,13 @@
         "2025-02-01": "42225"
     },
     "topDestinationHosts": {
-        "Pressable": 7829,
-        "Bluehost": 3694,
-        "Digital Ocean": 2617,
+        "Pressable": 7830,
+        "Bluehost": 3695,
+        "Digital Ocean": 2618,
         "Kinsta": 2614,
-        "SiteGround": 2304,
+        "SiteGround": 2305,
         "Hostinger": 1461,
-        "GoDaddy": 705,
+        "GoDaddy": 706,
         "BigScoots": 343,
         "Liquid Web": 268,
         "GridPane": 231,
