@@ -1,6 +1,11 @@
 {
-    "siteCount": 42288,
+    "siteCount": 42291,
     "recentlyMoved": [
+        {
+            "domain_name": "gracenoteinn.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-02 12:06:48"
+        },
         {
             "domain_name": "etveinclinic.com",
             "destination": "DreamHost",
@@ -487,11 +492,6 @@
             "date": "2025-02-01 11:55:38"
         },
         {
-            "domain_name": "petfriendlyservices.org",
-            "destination": "Digital Ocean",
-            "date": "2025-02-01 11:44:50"
-        },
-        {
             "domain_name": "www.saliogen.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-01 11:43:56"
@@ -645,7 +645,7 @@
         "Kinsta": 2614,
         "SiteGround": 2302,
         "Hostinger": 1461,
-        "GoDaddy": 703,
+        "GoDaddy": 704,
         "BigScoots": 343,
         "Liquid Web": 268,
         "GridPane": 231,
