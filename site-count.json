@@ -1,6 +1,11 @@
 {
-    "siteCount": 42322,
+    "siteCount": 42329,
     "recentlyMoved": [
+        {
+            "domain_name": "liquidcinemavr.com",
+            "destination": "SiteGround",
+            "date": "2025-02-02 18:09:53"
+        },
         {
             "domain_name": "www.azureazure.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "avbend.com",
             "destination": "Pressable",
             "date": "2025-02-01 12:23:26"
-        },
-        {
-            "domain_name": "www.cfsn-nj.org",
-            "destination": "GoDaddy",
-            "date": "2025-02-01 12:19:06"
         }
     ],
     "dailyMovedStat": {
@@ -643,7 +643,7 @@
         "Bluehost": 3694,
         "Digital Ocean": 2617,
         "Kinsta": 2614,
-        "SiteGround": 2302,
+        "SiteGround": 2303,
         "Hostinger": 1461,
         "GoDaddy": 705,
         "BigScoots": 343,
