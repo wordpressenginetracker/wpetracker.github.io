@@ -1,6 +1,11 @@
 {
-    "siteCount": 42512,
+    "siteCount": 42514,
     "recentlyMoved": [
+        {
+            "domain_name": "mwrsupply.com",
+            "destination": "GridPane",
+            "date": "2025-02-03 22:49:48"
+        },
         {
             "domain_name": "linelessaesthetics.com",
             "destination": "A2 Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-02-01 15:08:33"
         },
         {
-            "domain_name": "noblefunk.com",
-            "destination": "Pressable",
-            "date": "2025-02-01 14:48:19"
-        },
-        {
             "domain_name": "nokumbaya.com",
             "destination": "Kinsta",
             "date": "2025-02-01 14:14:09"
@@ -637,7 +637,8 @@
         "2025-01-30": "41418",
         "2025-01-31": "41869",
         "2025-02-01": "42225",
-        "2025-02-02": "42375"
+        "2025-02-02": "42375",
+        "2025-02-03": "42514"
     },
     "topDestinationHosts": {
         "Pressable": 7834,
@@ -649,7 +650,7 @@
         "GoDaddy": 708,
         "BigScoots": 343,
         "Liquid Web": 269,
-        "GridPane": 231,
+        "GridPane": 232,
         "Elementor Hosting": 218,
         "WordPress.com": 198,
         "InMotion Hosting": 184,
@@ -796,6 +797,7 @@
         "2025-01-30": "672846",
         "2025-01-31": "672312",
         "2025-02-01": "671790",
-        "2025-02-02": "672254"
+        "2025-02-02": "672254",
+        "2025-02-03": "671412"
     }
 }
