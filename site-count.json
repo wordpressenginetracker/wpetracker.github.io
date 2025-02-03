@@ -1,6 +1,11 @@
 {
-    "siteCount": 42449,
+    "siteCount": 42451,
     "recentlyMoved": [
+        {
+            "domain_name": "mattmcleod.org",
+            "destination": "Kinsta",
+            "date": "2025-02-03 18:25:47"
+        },
         {
             "domain_name": "rootvaluation.com",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-02-01 14:37:12"
         },
         {
-            "domain_name": "missmarionsdance.com",
-            "destination": "HostGator",
-            "date": "2025-02-01 14:24:22"
-        },
-        {
             "domain_name": "enterprise.sandhill.com",
             "destination": "Pressable",
             "date": "2025-02-01 14:20:00"
@@ -643,7 +643,7 @@
         "Pressable": 7833,
         "Bluehost": 3695,
         "Digital Ocean": 2621,
-        "Kinsta": 2614,
+        "Kinsta": 2615,
         "SiteGround": 2309,
         "Hostinger": 1463,
         "GoDaddy": 708,
