@@ -1,6 +1,16 @@
 {
-    "siteCount": 42500,
+    "siteCount": 42506,
     "recentlyMoved": [
+        {
+            "domain_name": "justicecannabisco.com",
+            "destination": "Bluehost",
+            "date": "2025-02-03 21:01:03"
+        },
+        {
+            "domain_name": "bonzaiwebservices.com",
+            "destination": "SiteGround",
+            "date": "2025-02-03 20:25:15"
+        },
         {
             "domain_name": "armmgroup.com",
             "destination": "Digital Ocean",
@@ -477,11 +487,6 @@
             "date": "2025-02-01 15:08:33"
         },
         {
-            "domain_name": "newburynorth.com",
-            "destination": "SiteGround",
-            "date": "2025-02-01 14:55:24"
-        },
-        {
             "domain_name": "noblefunk.com",
             "destination": "Pressable",
             "date": "2025-02-01 14:48:19"
@@ -490,11 +495,6 @@
             "domain_name": "noble-hearth.com",
             "destination": "Pressable",
             "date": "2025-02-01 14:48:19"
-        },
-        {
-            "domain_name": "nextlevelranges.com",
-            "destination": "Pressable",
-            "date": "2025-02-01 14:38:37"
         },
         {
             "domain_name": "nokumbaya.com",
@@ -641,10 +641,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 7834,
-        "Bluehost": 3695,
+        "Bluehost": 3696,
         "Digital Ocean": 2622,
         "Kinsta": 2615,
-        "SiteGround": 2312,
+        "SiteGround": 2313,
         "Hostinger": 1464,
         "GoDaddy": 708,
         "BigScoots": 343,
