@@ -1,6 +1,11 @@
 {
-    "siteCount": 42403,
+    "siteCount": 42410,
     "recentlyMoved": [
+        {
+            "domain_name": "hiddenvalleydoors.com",
+            "destination": "SiteGround",
+            "date": "2025-02-03 03:58:31"
+        },
         {
             "domain_name": "elementssprinkler.com",
             "destination": "SiteGround",
@@ -482,11 +487,6 @@
             "date": "2025-02-01 14:14:09"
         },
         {
-            "domain_name": "www.spirtas.com",
-            "destination": "Liquid Web",
-            "date": "2025-02-01 14:05:51"
-        },
-        {
             "domain_name": "thefarmart.co.uk",
             "destination": "Kinsta",
             "date": "2025-02-01 13:41:42"
@@ -644,7 +644,7 @@
         "Bluehost": 3695,
         "Digital Ocean": 2621,
         "Kinsta": 2614,
-        "SiteGround": 2308,
+        "SiteGround": 2309,
         "Hostinger": 1462,
         "GoDaddy": 708,
         "BigScoots": 343,
