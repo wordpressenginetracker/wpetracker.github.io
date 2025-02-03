@@ -1,10 +1,25 @@
 {
-    "siteCount": 42444,
+    "siteCount": 42449,
     "recentlyMoved": [
+        {
+            "domain_name": "rootvaluation.com",
+            "destination": "Pressable",
+            "date": "2025-02-03 16:51:28"
+        },
+        {
+            "domain_name": "bendwineraffle.com",
+            "destination": "Pressable",
+            "date": "2025-02-03 16:46:41"
+        },
         {
             "domain_name": "headlinesbend.com",
             "destination": "Pressable",
             "date": "2025-02-03 16:36:04"
+        },
+        {
+            "domain_name": "www.georgeham-primary.devon.sch.uk",
+            "destination": "IONOS",
+            "date": "2025-02-03 16:28:09"
         },
         {
             "domain_name": "getmyjunk.com",
@@ -472,11 +487,6 @@
             "date": "2025-02-01 14:37:12"
         },
         {
-            "domain_name": "milano-dayspa.com",
-            "destination": "Hostinger",
-            "date": "2025-02-01 14:28:58"
-        },
-        {
             "domain_name": "missmarionsdance.com",
             "destination": "HostGator",
             "date": "2025-02-01 14:24:22"
@@ -487,19 +497,9 @@
             "date": "2025-02-01 14:20:00"
         },
         {
-            "domain_name": "thepassioncentre.com",
-            "destination": "SiteGround",
-            "date": "2025-02-01 14:16:02"
-        },
-        {
             "domain_name": "nokumbaya.com",
             "destination": "Kinsta",
             "date": "2025-02-01 14:14:09"
-        },
-        {
-            "domain_name": "thefarmart.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-02-01 13:41:42"
         }
     ],
     "dailyMovedStat": {
@@ -640,7 +640,7 @@
         "2025-02-02": "42375"
     },
     "topDestinationHosts": {
-        "Pressable": 7830,
+        "Pressable": 7833,
         "Bluehost": 3695,
         "Digital Ocean": 2621,
         "Kinsta": 2614,
@@ -653,7 +653,7 @@
         "Elementor Hosting": 218,
         "WordPress.com": 198,
         "InMotion Hosting": 183,
-        "IONOS": 160,
+        "IONOS": 161,
         "Wordify": 152,
         "OVH": 150,
         "A2 Hosting": 134,
