@@ -1,6 +1,16 @@
 {
-    "siteCount": 42527,
+    "siteCount": 42532,
     "recentlyMoved": [
+        {
+            "domain_name": "www.universalhomeimp.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-04 02:19:44"
+        },
+        {
+            "domain_name": "support.ollyolly.com",
+            "destination": "Pressable",
+            "date": "2025-02-04 02:11:01"
+        },
         {
             "domain_name": "www.insidecasino.co.nz",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "attorneydesmond.com",
             "destination": "Pressable",
             "date": "2025-02-01 16:21:29"
-        },
-        {
-            "domain_name": "pioneerpackaginginc.com",
-            "destination": "Hostinger",
-            "date": "2025-02-01 16:19:13"
-        },
-        {
-            "domain_name": "www.5starinspections.org",
-            "destination": "Pressable",
-            "date": "2025-02-01 15:31:40"
         }
     ],
     "dailyMovedStat": {
@@ -641,13 +641,13 @@
         "2025-02-03": "42514"
     },
     "topDestinationHosts": {
-        "Pressable": 7834,
+        "Pressable": 7835,
         "Bluehost": 3696,
         "Digital Ocean": 2623,
         "Kinsta": 2616,
         "SiteGround": 2313,
         "Hostinger": 1464,
-        "GoDaddy": 708,
+        "GoDaddy": 709,
         "BigScoots": 343,
         "Liquid Web": 269,
         "GridPane": 237,
