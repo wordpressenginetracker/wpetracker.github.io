@@ -1,6 +1,11 @@
 {
-    "siteCount": 42650,
+    "siteCount": 42657,
     "recentlyMoved": [
+        {
+            "domain_name": "natura-nt.de",
+            "destination": "Pressable",
+            "date": "2025-02-04 10:48:37"
+        },
         {
             "domain_name": "medizintechnik-rautenberg.de",
             "destination": "Pressable",
@@ -15,6 +20,26 @@
             "domain_name": "mc-slim-herten.de",
             "destination": "Pressable",
             "date": "2025-02-04 10:27:50"
+        },
+        {
+            "domain_name": "munichprimemeat.de",
+            "destination": "Pressable",
+            "date": "2025-02-04 10:27:02"
+        },
+        {
+            "domain_name": "treeserviceraleigh.org",
+            "destination": "Hostinger",
+            "date": "2025-02-04 10:26:47"
+        },
+        {
+            "domain_name": "monsieur-sall.com",
+            "destination": "Pressable",
+            "date": "2025-02-04 10:16:39"
+        },
+        {
+            "domain_name": "trueeye.com",
+            "destination": "IONOS",
+            "date": "2025-02-04 10:15:56"
         },
         {
             "domain_name": "ma-bedachungen.de",
@@ -475,31 +500,6 @@
             "domain_name": "steamaticofvapen.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-03 01:46:05"
-        },
-        {
-            "domain_name": "richiemitnickmusic.com",
-            "destination": "Hostinger",
-            "date": "2025-02-03 00:53:10"
-        },
-        {
-            "domain_name": "rosarian.org",
-            "destination": "SiteGround",
-            "date": "2025-02-03 00:25:04"
-        },
-        {
-            "domain_name": "hometownchildcare.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-03 00:06:17"
-        },
-        {
-            "domain_name": "woodbridgelawyers.com.au",
-            "destination": "SiteGround",
-            "date": "2025-02-02 23:47:48"
-        },
-        {
-            "domain_name": "pelagicpaving.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-02 23:30:29"
         }
     ],
     "dailyMovedStat": {
@@ -641,12 +641,12 @@
         "2025-02-03": "42514"
     },
     "topDestinationHosts": {
-        "Pressable": 7894,
+        "Pressable": 7898,
         "Bluehost": 3696,
         "Digital Ocean": 2625,
         "Kinsta": 2617,
         "SiteGround": 2314,
-        "Hostinger": 1465,
+        "Hostinger": 1466,
         "GoDaddy": 711,
         "BigScoots": 343,
         "Liquid Web": 269,
@@ -654,7 +654,7 @@
         "Elementor Hosting": 218,
         "WordPress.com": 198,
         "InMotion Hosting": 184,
-        "IONOS": 163,
+        "IONOS": 164,
         "Wordify": 152,
         "OVH": 152,
         "A2 Hosting": 136,
