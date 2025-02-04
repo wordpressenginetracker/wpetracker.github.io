@@ -1,6 +1,51 @@
 {
-    "siteCount": 42837,
+    "siteCount": 42907,
     "recentlyMoved": [
+        {
+            "domain_name": "goldennozzlecarwash.com",
+            "destination": "Hostinger",
+            "date": "2025-02-04 20:03:58"
+        },
+        {
+            "domain_name": "www.spectrumvision.com",
+            "destination": "Kinsta",
+            "date": "2025-02-04 19:52:29"
+        },
+        {
+            "domain_name": "aclp.co",
+            "destination": "SiteGround",
+            "date": "2025-02-04 19:50:48"
+        },
+        {
+            "domain_name": "omahawaterrestoration.com",
+            "destination": "SiteGround",
+            "date": "2025-02-04 19:48:37"
+        },
+        {
+            "domain_name": "warstlerlaw.com",
+            "destination": "Pressable",
+            "date": "2025-02-04 19:46:49"
+        },
+        {
+            "domain_name": "granteesupport.net",
+            "destination": "Hostinger",
+            "date": "2025-02-04 19:45:16"
+        },
+        {
+            "domain_name": "www.jpcli.com",
+            "destination": "Pressable",
+            "date": "2025-02-04 19:44:58"
+        },
+        {
+            "domain_name": "frosti.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-04 19:19:54"
+        },
+        {
+            "domain_name": "43northgroup.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-04 19:16:01"
+        },
         {
             "domain_name": "ne-t.com",
             "destination": "Pressable",
@@ -402,11 +447,6 @@
             "date": "2025-02-04 12:06:36"
         },
         {
-            "domain_name": "objectivefinancialpartners.com",
-            "destination": "OVH",
-            "date": "2025-02-04 12:02:16"
-        },
-        {
             "domain_name": "praxis-scholz-bad-heilbrunn.de",
             "destination": "Pressable",
             "date": "2025-02-04 12:01:52"
@@ -447,24 +487,9 @@
             "date": "2025-02-04 11:47:25"
         },
         {
-            "domain_name": "vlvbio.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 11:43:21"
-        },
-        {
             "domain_name": "wohnungsaufloesungen-augsburg.de",
             "destination": "Pressable",
             "date": "2025-02-04 11:42:11"
-        },
-        {
-            "domain_name": "weiltaler-immobilienservice.de",
-            "destination": "Pressable",
-            "date": "2025-02-04 11:40:51"
-        },
-        {
-            "domain_name": "wahnsinn71.de",
-            "destination": "Pressable",
-            "date": "2025-02-04 11:39:27"
         },
         {
             "domain_name": "getloopli.com",
@@ -472,34 +497,9 @@
             "date": "2025-02-04 11:35:06"
         },
         {
-            "domain_name": "paradisos.eu",
-            "destination": "Pressable",
-            "date": "2025-02-04 11:33:29"
-        },
-        {
             "domain_name": "alscarcareboise.com",
             "destination": "Hostinger",
             "date": "2025-02-04 11:28:23"
-        },
-        {
-            "domain_name": "natura-nt.de",
-            "destination": "Pressable",
-            "date": "2025-02-04 10:48:37"
-        },
-        {
-            "domain_name": "munichprimemeat.de",
-            "destination": "Pressable",
-            "date": "2025-02-04 10:27:02"
-        },
-        {
-            "domain_name": "treeserviceraleigh.org",
-            "destination": "Hostinger",
-            "date": "2025-02-04 10:26:47"
-        },
-        {
-            "domain_name": "trueeye.com",
-            "destination": "IONOS",
-            "date": "2025-02-04 10:15:56"
         }
     ],
     "dailyMovedStat": {
@@ -641,26 +641,26 @@
         "2025-02-03": "42514"
     },
     "topDestinationHosts": {
-        "Pressable": 7945,
+        "Pressable": 7947,
         "Bluehost": 3696,
-        "Digital Ocean": 2636,
-        "Kinsta": 2627,
-        "SiteGround": 2324,
-        "Hostinger": 1472,
-        "GoDaddy": 712,
+        "Digital Ocean": 2638,
+        "Kinsta": 2629,
+        "SiteGround": 2327,
+        "Hostinger": 1474,
+        "GoDaddy": 713,
         "BigScoots": 344,
         "Liquid Web": 271,
-        "GridPane": 237,
+        "GridPane": 238,
         "Elementor Hosting": 220,
         "WordPress.com": 199,
         "InMotion Hosting": 184,
-        "IONOS": 164,
-        "OVH": 153,
+        "IONOS": 165,
+        "OVH": 155,
         "Wordify": 152,
-        "A2 Hosting": 137,
+        "A2 Hosting": 139,
         "Namecheap": 126,
         "Hetzner Online": 113,
-        "DreamHost": 108
+        "DreamHost": 109
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
