@@ -1,6 +1,11 @@
 {
-    "siteCount": 42532,
+    "siteCount": 42533,
     "recentlyMoved": [
+        {
+            "domain_name": "edmontonbasementdevelopment.com",
+            "destination": "OVH",
+            "date": "2025-02-04 02:46:48"
+        },
         {
             "domain_name": "www.universalhomeimp.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.grundahl-electric.com",
             "destination": "Pressable",
             "date": "2025-02-01 17:00:44"
-        },
-        {
-            "domain_name": "attorneydesmond.com",
-            "destination": "Pressable",
-            "date": "2025-02-01 16:21:29"
         }
     ],
     "dailyMovedStat": {
@@ -656,7 +656,7 @@
         "InMotion Hosting": 184,
         "IONOS": 163,
         "Wordify": 152,
-        "OVH": 150,
+        "OVH": 151,
         "A2 Hosting": 135,
         "Namecheap": 125,
         "Hetzner Online": 113,
