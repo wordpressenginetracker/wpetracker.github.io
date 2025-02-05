@@ -1,10 +1,70 @@
 {
-    "siteCount": 43197,
+    "siteCount": 43234,
     "recentlyMoved": [
+        {
+            "domain_name": "divinedesignlifecoaching.com",
+            "destination": "Bluehost",
+            "date": "2025-02-05 18:10:56"
+        },
+        {
+            "domain_name": "www.solojat.com.br",
+            "destination": "Hostinger",
+            "date": "2025-02-05 18:10:56"
+        },
+        {
+            "domain_name": "crozierclinic.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 18:08:05"
+        },
+        {
+            "domain_name": "diligentspoon.com",
+            "destination": "HostGator",
+            "date": "2025-02-05 18:07:56"
+        },
+        {
+            "domain_name": "downpaymentassistancehub.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-05 18:01:38"
+        },
+        {
+            "domain_name": "www.townandcountrycenter.com",
+            "destination": "BigScoots",
+            "date": "2025-02-05 17:56:00"
+        },
+        {
+            "domain_name": "stephenmparke.com",
+            "destination": "SiteGround",
+            "date": "2025-02-05 17:49:53"
+        },
+        {
+            "domain_name": "www.bloomrx.life",
+            "destination": "Kinsta",
+            "date": "2025-02-05 17:49:26"
+        },
+        {
+            "domain_name": "collisionconnect.co",
+            "destination": "Hostinger",
+            "date": "2025-02-05 17:41:59"
+        },
+        {
+            "domain_name": "www.toddjalbertmd.com",
+            "destination": "Kinsta",
+            "date": "2025-02-05 17:40:45"
+        },
         {
             "domain_name": "www.mdmanagement.com",
             "destination": "Kinsta",
             "date": "2025-02-05 17:37:51"
+        },
+        {
+            "domain_name": "comfortsciencehvac.com",
+            "destination": "Pressable",
+            "date": "2025-02-05 17:36:55"
+        },
+        {
+            "domain_name": "lakeshoreveins.com",
+            "destination": "Kinsta",
+            "date": "2025-02-05 17:16:40"
         },
         {
             "domain_name": "cattailriskmanagement.com",
@@ -12,9 +72,19 @@
             "date": "2025-02-05 17:13:32"
         },
         {
+            "domain_name": "launchpadbemidji.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 17:11:47"
+        },
+        {
             "domain_name": "safiosolutions.com",
             "destination": "Kinsta",
             "date": "2025-02-05 17:10:00"
+        },
+        {
+            "domain_name": "www.redlakednr.org",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 17:06:25"
         },
         {
             "domain_name": "silverbirchmichigan.com",
@@ -422,84 +492,14 @@
             "date": "2025-02-04 21:08:53"
         },
         {
-            "domain_name": "www.drmiatalmor.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 21:01:14"
-        },
-        {
-            "domain_name": "www.dradrianconnolly.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 20:43:50"
-        },
-        {
-            "domain_name": "www.compassvans.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 20:43:48"
-        },
-        {
             "domain_name": "www.highbanks.com",
             "destination": "Digital Ocean",
             "date": "2025-02-04 20:43:00"
         },
         {
-            "domain_name": "www.craigranchobgyn.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 20:28:15"
-        },
-        {
             "domain_name": "www.dutchheatingandcooling.com",
             "destination": "Digital Ocean",
             "date": "2025-02-04 20:22:33"
-        },
-        {
-            "domain_name": "bamboocharters.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 20:04:13"
-        },
-        {
-            "domain_name": "goldennozzlecarwash.com",
-            "destination": "Hostinger",
-            "date": "2025-02-04 20:03:58"
-        },
-        {
-            "domain_name": "www.spectrumvision.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 19:52:29"
-        },
-        {
-            "domain_name": "aclp.co",
-            "destination": "SiteGround",
-            "date": "2025-02-04 19:50:48"
-        },
-        {
-            "domain_name": "omahawaterrestoration.com",
-            "destination": "SiteGround",
-            "date": "2025-02-04 19:48:37"
-        },
-        {
-            "domain_name": "warstlerlaw.com",
-            "destination": "Pressable",
-            "date": "2025-02-04 19:46:49"
-        },
-        {
-            "domain_name": "granteesupport.net",
-            "destination": "Hostinger",
-            "date": "2025-02-04 19:45:16"
-        },
-        {
-            "domain_name": "www.jpcli.com",
-            "destination": "Pressable",
-            "date": "2025-02-04 19:44:58"
-        },
-        {
-            "domain_name": "frosti.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-04 19:19:54"
-        },
-        {
-            "domain_name": "43northgroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 19:16:01"
         }
     ],
     "dailyMovedStat": {
@@ -642,14 +642,14 @@
         "2025-02-04": "42959"
     },
     "topDestinationHosts": {
-        "Pressable": 7960,
-        "Bluehost": 3697,
-        "Digital Ocean": 2660,
-        "Kinsta": 2649,
-        "SiteGround": 2335,
-        "Hostinger": 1483,
-        "GoDaddy": 719,
-        "BigScoots": 345,
+        "Pressable": 7961,
+        "Bluehost": 3698,
+        "Digital Ocean": 2663,
+        "Kinsta": 2651,
+        "SiteGround": 2336,
+        "Hostinger": 1485,
+        "GoDaddy": 720,
+        "BigScoots": 346,
         "Liquid Web": 272,
         "GridPane": 240,
         "Elementor Hosting": 221,
