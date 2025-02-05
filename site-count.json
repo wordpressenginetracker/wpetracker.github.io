@@ -1,6 +1,11 @@
 {
-    "siteCount": 42959,
+    "siteCount": 42965,
     "recentlyMoved": [
+        {
+            "domain_name": "prestigetreeexperts.com",
+            "destination": "WordPress.com",
+            "date": "2025-02-04 23:53:56"
+        },
         {
             "domain_name": "nectarhealthcare.com.au",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.kdmhire.com",
             "destination": "SiteGround",
             "date": "2025-02-04 12:38:49"
-        },
-        {
-            "domain_name": "ridlice.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 12:22:49"
         }
     ],
     "dailyMovedStat": {
@@ -653,7 +653,7 @@
         "Liquid Web": 271,
         "GridPane": 239,
         "Elementor Hosting": 220,
-        "WordPress.com": 199,
+        "WordPress.com": 200,
         "InMotion Hosting": 184,
         "IONOS": 165,
         "OVH": 155,
