@@ -1,6 +1,61 @@
 {
-    "siteCount": 43096,
+    "siteCount": 43138,
     "recentlyMoved": [
+        {
+            "domain_name": "yourneighbors.net",
+            "destination": "SiteGround",
+            "date": "2025-02-05 14:40:59"
+        },
+        {
+            "domain_name": "monalesjak.de",
+            "destination": "BigScoots",
+            "date": "2025-02-05 14:34:50"
+        },
+        {
+            "domain_name": "momovending.com",
+            "destination": "SiteGround",
+            "date": "2025-02-05 14:34:50"
+        },
+        {
+            "domain_name": "easterlingfamilylaw.com",
+            "destination": "Pressable",
+            "date": "2025-02-05 14:25:34"
+        },
+        {
+            "domain_name": "criticalanalysisrn.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 14:07:12"
+        },
+        {
+            "domain_name": "suresystem.com",
+            "destination": "Pressable",
+            "date": "2025-02-05 13:55:52"
+        },
+        {
+            "domain_name": "tckconcrete.com",
+            "destination": "Pressable",
+            "date": "2025-02-05 13:49:29"
+        },
+        {
+            "domain_name": "www.therestoreteam.com",
+            "destination": "Pressable",
+            "date": "2025-02-05 13:30:46"
+        },
+        {
+            "domain_name": "d-10architects.com",
+            "destination": "SiteGround",
+            "date": "2025-02-05 13:28:04"
+        },
+        {
+            "domain_name": "laurusrehab.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 13:23:13"
+        },
+        {
+            "domain_name": "crossroadsstoragelubbock.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-05 13:20:57"
+        },
         {
             "domain_name": "britecode.io",
             "destination": "Pressable",
@@ -20,6 +75,11 @@
             "domain_name": "www.haycreekhunt.com",
             "destination": "Digital Ocean",
             "date": "2025-02-05 13:09:20"
+        },
+        {
+            "domain_name": "www.reliefhc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-05 13:09:17"
         },
         {
             "domain_name": "www.greaterbemidji.com",
@@ -432,74 +492,14 @@
             "date": "2025-02-04 16:40:14"
         },
         {
-            "domain_name": "handsfreellc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 16:37:32"
-        },
-        {
             "domain_name": "jimlangevin.com",
             "destination": "SiteGround",
             "date": "2025-02-04 16:34:27"
         },
         {
-            "domain_name": "greenberglawyers.com",
-            "destination": "SiteGround",
-            "date": "2025-02-04 16:24:18"
-        },
-        {
             "domain_name": "www.denverfashionweek.com",
             "destination": "Pressable",
             "date": "2025-02-04 16:19:28"
-        },
-        {
-            "domain_name": "axiomlandservices.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-04 16:19:14"
-        },
-        {
-            "domain_name": "www.abogadoaccidentelongisland.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-04 16:18:43"
-        },
-        {
-            "domain_name": "www.2vetstile.com",
-            "destination": "Pressable",
-            "date": "2025-02-04 16:14:29"
-        },
-        {
-            "domain_name": "www.channeledresources.com",
-            "destination": "Liquid Web",
-            "date": "2025-02-04 16:06:57"
-        },
-        {
-            "domain_name": "flintloc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 15:59:45"
-        },
-        {
-            "domain_name": "americanremodeling.net",
-            "destination": "SiteGround",
-            "date": "2025-02-04 15:47:38"
-        },
-        {
-            "domain_name": "www.permanentmakeupnashvilletn.com",
-            "destination": "Kinsta",
-            "date": "2025-02-04 15:41:26"
-        },
-        {
-            "domain_name": "alwaysaffordableplumbing.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-04 15:33:35"
-        },
-        {
-            "domain_name": "www.edreportingcollab.org",
-            "destination": "Pressable",
-            "date": "2025-02-04 15:32:18"
-        },
-        {
-            "domain_name": "freedomcomm.com",
-            "destination": "Pressable",
-            "date": "2025-02-04 15:25:19"
         }
     ],
     "dailyMovedStat": {
@@ -642,13 +642,13 @@
         "2025-02-04": "42959"
     },
     "topDestinationHosts": {
-        "Pressable": 7954,
+        "Pressable": 7958,
         "Bluehost": 3697,
-        "Digital Ocean": 2655,
+        "Digital Ocean": 2658,
         "Kinsta": 2642,
-        "SiteGround": 2330,
+        "SiteGround": 2332,
         "Hostinger": 1481,
-        "GoDaddy": 717,
+        "GoDaddy": 718,
         "BigScoots": 344,
         "Liquid Web": 272,
         "GridPane": 240,
