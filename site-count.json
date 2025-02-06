@@ -1,6 +1,16 @@
 {
-    "siteCount": 43433,
+    "siteCount": 43435,
     "recentlyMoved": [
+        {
+            "domain_name": "nektar.ai",
+            "destination": "Namecheap",
+            "date": "2025-02-06 10:28:26"
+        },
+        {
+            "domain_name": "myday.collabco.com",
+            "destination": "SiteGround",
+            "date": "2025-02-06 10:21:37"
+        },
         {
             "domain_name": "debetting.com",
             "destination": "Digital Ocean",
@@ -477,11 +487,6 @@
             "date": "2025-02-05 14:25:34"
         },
         {
-            "domain_name": "suresystem.com",
-            "destination": "Pressable",
-            "date": "2025-02-05 13:55:52"
-        },
-        {
             "domain_name": "tckconcrete.com",
             "destination": "Pressable",
             "date": "2025-02-05 13:49:29"
@@ -495,11 +500,6 @@
             "domain_name": "d-10architects.com",
             "destination": "SiteGround",
             "date": "2025-02-05 13:28:04"
-        },
-        {
-            "domain_name": "crossroadsstoragelubbock.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-05 13:20:57"
         }
     ],
     "dailyMovedStat": {
@@ -647,7 +647,7 @@
         "Bluehost": 3699,
         "Digital Ocean": 2674,
         "Kinsta": 2662,
-        "SiteGround": 2350,
+        "SiteGround": 2351,
         "Hostinger": 1492,
         "GoDaddy": 728,
         "BigScoots": 346,
@@ -660,7 +660,7 @@
         "OVH": 156,
         "Wordify": 152,
         "A2 Hosting": 139,
-        "Namecheap": 126,
+        "Namecheap": 127,
         "Hetzner Online": 117,
         "DreamHost": 109
     },
