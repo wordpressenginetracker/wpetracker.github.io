@@ -1,6 +1,11 @@
 {
-    "siteCount": 43394,
+    "siteCount": 43395,
     "recentlyMoved": [
+        {
+            "domain_name": "trustjesushecares.org",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 06:09:02"
+        },
         {
             "domain_name": "leanonmesenioradvisors.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "foeaction.org",
             "destination": "Kinsta",
             "date": "2025-02-05 11:23:27"
-        },
-        {
-            "domain_name": "thirlestanecastle.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-02-05 10:40:54"
         }
     ],
     "dailyMovedStat": {
@@ -645,7 +645,7 @@
     "topDestinationHosts": {
         "Pressable": 7969,
         "Bluehost": 3699,
-        "Digital Ocean": 2666,
+        "Digital Ocean": 2667,
         "Kinsta": 2661,
         "SiteGround": 2342,
         "Hostinger": 1491,
