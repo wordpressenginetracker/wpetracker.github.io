@@ -1,6 +1,31 @@
 {
-    "siteCount": 43651,
+    "siteCount": 43664,
     "recentlyMoved": [
+        {
+            "domain_name": "zackcooper.com",
+            "destination": "Kinsta",
+            "date": "2025-02-06 22:21:12"
+        },
+        {
+            "domain_name": "mavenbioscience.com",
+            "destination": "Hostinger",
+            "date": "2025-02-06 21:58:13"
+        },
+        {
+            "domain_name": "mahof.org",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 21:57:33"
+        },
+        {
+            "domain_name": "lauerrealtygroup.com",
+            "destination": "SiteGround",
+            "date": "2025-02-06 21:45:41"
+        },
+        {
+            "domain_name": "climatedesignsystems.com",
+            "destination": "SiteGround",
+            "date": "2025-02-06 21:44:24"
+        },
         {
             "domain_name": "shamii.net",
             "destination": "Hostinger",
@@ -15,6 +40,11 @@
             "domain_name": "www.mckenzieestatesales.com",
             "destination": "Pressable",
             "date": "2025-02-06 21:24:26"
+        },
+        {
+            "domain_name": "cidanalytics.com",
+            "destination": "Hostinger",
+            "date": "2025-02-06 21:23:40"
         },
         {
             "domain_name": "www.myatderm.com",
@@ -470,36 +500,6 @@
             "domain_name": "capitallab.ai",
             "destination": "Bluehost",
             "date": "2025-02-06 13:05:12"
-        },
-        {
-            "domain_name": "sabersolutions.co",
-            "destination": "SiteGround",
-            "date": "2025-02-06 13:04:04"
-        },
-        {
-            "domain_name": "buytrespa.com",
-            "destination": "SiteGround",
-            "date": "2025-02-06 13:01:52"
-        },
-        {
-            "domain_name": "insportsbettingsites.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-06 12:48:18"
-        },
-        {
-            "domain_name": "idsportsbettingsites.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-06 12:30:28"
-        },
-        {
-            "domain_name": "bettingsc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-06 12:29:38"
-        },
-        {
-            "domain_name": "bettingpa.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-06 12:29:38"
         }
     ],
     "dailyMovedStat": {
@@ -645,10 +645,10 @@
     "topDestinationHosts": {
         "Pressable": 7988,
         "Bluehost": 3700,
-        "Digital Ocean": 2702,
-        "Kinsta": 2681,
-        "SiteGround": 2368,
-        "Hostinger": 1505,
+        "Digital Ocean": 2703,
+        "Kinsta": 2683,
+        "SiteGround": 2370,
+        "Hostinger": 1507,
         "GoDaddy": 732,
         "BigScoots": 346,
         "Liquid Web": 276,
