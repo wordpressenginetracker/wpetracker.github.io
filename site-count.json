@@ -1,6 +1,51 @@
 {
-    "siteCount": 43469,
+    "siteCount": 43484,
     "recentlyMoved": [
+        {
+            "domain_name": "mobetting.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 14:30:19"
+        },
+        {
+            "domain_name": "mnbetting.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 14:30:19"
+        },
+        {
+            "domain_name": "ecoscapesomaha.com",
+            "destination": "SiteGround",
+            "date": "2025-02-06 14:06:13"
+        },
+        {
+            "domain_name": "contest.bowlersmart.com",
+            "destination": "WordPress VIP",
+            "date": "2025-02-06 13:48:13"
+        },
+        {
+            "domain_name": "loveyouroptions.com",
+            "destination": "Kinsta",
+            "date": "2025-02-06 13:47:04"
+        },
+        {
+            "domain_name": "thewellgroup.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 13:46:42"
+        },
+        {
+            "domain_name": "lincolnhandymanservice.com",
+            "destination": "SiteGround",
+            "date": "2025-02-06 13:42:17"
+        },
+        {
+            "domain_name": "crossfitdiehard.com",
+            "destination": "A2 Hosting",
+            "date": "2025-02-06 13:35:25"
+        },
+        {
+            "domain_name": "storeforms.bowlersmart.com",
+            "destination": "WordPress VIP",
+            "date": "2025-02-06 13:33:38"
+        },
         {
             "domain_name": "centercitycarpetcare.com",
             "destination": "SiteGround",
@@ -10,6 +55,11 @@
             "domain_name": "snackstopks.com",
             "destination": "SiteGround",
             "date": "2025-02-06 13:15:11"
+        },
+        {
+            "domain_name": "lasportsbettingsites.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-06 13:08:45"
         },
         {
             "domain_name": "carpet-cleaning-doctors.com",
@@ -447,59 +497,9 @@
             "date": "2025-02-05 17:40:45"
         },
         {
-            "domain_name": "www.mdmanagement.com",
-            "destination": "Kinsta",
-            "date": "2025-02-05 17:37:51"
-        },
-        {
             "domain_name": "comfortsciencehvac.com",
             "destination": "Pressable",
             "date": "2025-02-05 17:36:55"
-        },
-        {
-            "domain_name": "lakeshoreveins.com",
-            "destination": "Kinsta",
-            "date": "2025-02-05 17:16:40"
-        },
-        {
-            "domain_name": "cattailriskmanagement.com",
-            "destination": "SiteGround",
-            "date": "2025-02-05 17:13:32"
-        },
-        {
-            "domain_name": "launchpadbemidji.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-05 17:11:47"
-        },
-        {
-            "domain_name": "safiosolutions.com",
-            "destination": "Kinsta",
-            "date": "2025-02-05 17:10:00"
-        },
-        {
-            "domain_name": "www.redlakednr.org",
-            "destination": "Digital Ocean",
-            "date": "2025-02-05 17:06:25"
-        },
-        {
-            "domain_name": "silverbirchmichigan.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-05 17:01:41"
-        },
-        {
-            "domain_name": "retreatduluth.org",
-            "destination": "Kinsta",
-            "date": "2025-02-05 16:26:29"
-        },
-        {
-            "domain_name": "www.inmanaudiology.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-05 16:26:28"
-        },
-        {
-            "domain_name": "www.comfortsciencehvac.com",
-            "destination": "Pressable",
-            "date": "2025-02-05 15:58:39"
         }
     ],
     "dailyMovedStat": {
@@ -645,9 +645,9 @@
     "topDestinationHosts": {
         "Pressable": 7973,
         "Bluehost": 3700,
-        "Digital Ocean": 2682,
-        "Kinsta": 2663,
-        "SiteGround": 2357,
+        "Digital Ocean": 2684,
+        "Kinsta": 2664,
+        "SiteGround": 2358,
         "Hostinger": 1492,
         "GoDaddy": 728,
         "BigScoots": 346,
@@ -659,7 +659,7 @@
         "IONOS": 165,
         "OVH": 156,
         "Wordify": 152,
-        "A2 Hosting": 139,
+        "A2 Hosting": 140,
         "Namecheap": 127,
         "Hetzner Online": 117,
         "DreamHost": 109
