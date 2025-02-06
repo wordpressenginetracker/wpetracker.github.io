@@ -1,6 +1,11 @@
 {
-    "siteCount": 43342,
+    "siteCount": 43346,
     "recentlyMoved": [
+        {
+            "domain_name": "oaktreeia.com",
+            "destination": "Kinsta",
+            "date": "2025-02-05 23:41:17"
+        },
         {
             "domain_name": "vanitasinc.com",
             "destination": "GoDaddy",
@@ -492,11 +497,6 @@
             "date": "2025-02-05 06:00:06"
         },
         {
-            "domain_name": "marathon.in",
-            "destination": "Hetzner Online",
-            "date": "2025-02-05 06:00:06"
-        },
-        {
             "domain_name": "djsselfstorage.com",
             "destination": "GoDaddy",
             "date": "2025-02-05 05:58:12"
@@ -646,7 +646,7 @@
         "Pressable": 7965,
         "Bluehost": 3699,
         "Digital Ocean": 2665,
-        "Kinsta": 2659,
+        "Kinsta": 2660,
         "SiteGround": 2341,
         "Hostinger": 1490,
         "GoDaddy": 725,
