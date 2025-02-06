@@ -1,6 +1,11 @@
 {
-    "siteCount": 43346,
+    "siteCount": 43352,
     "recentlyMoved": [
+        {
+            "domain_name": "caribbeanluxvacation.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-06 01:15:01"
+        },
         {
             "domain_name": "oaktreeia.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-02-05 06:03:22"
         },
         {
-            "domain_name": "marathonrealty.com",
-            "destination": "Hetzner Online",
-            "date": "2025-02-05 06:00:06"
-        },
-        {
             "domain_name": "djsselfstorage.com",
             "destination": "GoDaddy",
             "date": "2025-02-05 05:58:12"
@@ -649,7 +649,7 @@
         "Kinsta": 2660,
         "SiteGround": 2341,
         "Hostinger": 1490,
-        "GoDaddy": 725,
+        "GoDaddy": 726,
         "BigScoots": 346,
         "Liquid Web": 273,
         "GridPane": 240,
