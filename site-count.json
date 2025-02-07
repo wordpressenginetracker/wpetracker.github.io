@@ -1,6 +1,16 @@
 {
-    "siteCount": 43773,
+    "siteCount": 43776,
     "recentlyMoved": [
+        {
+            "domain_name": "movingsoon.co.uk",
+            "destination": "Pressable",
+            "date": "2025-02-07 10:22:53"
+        },
+        {
+            "domain_name": "nebraskacampingguide.com",
+            "destination": "SiteGround",
+            "date": "2025-02-07 10:13:31"
+        },
         {
             "domain_name": "www.project-academy.co.uk",
             "destination": "SiteGround",
@@ -477,11 +487,6 @@
             "date": "2025-02-06 17:20:55"
         },
         {
-            "domain_name": "www.ghcinc.com",
-            "destination": "Kinsta",
-            "date": "2025-02-06 17:15:20"
-        },
-        {
             "domain_name": "jennscalia.com",
             "destination": "Hostinger",
             "date": "2025-02-06 17:10:16"
@@ -495,11 +500,6 @@
             "domain_name": "cagazette.com",
             "destination": "Hostinger",
             "date": "2025-02-06 16:46:53"
-        },
-        {
-            "domain_name": "insurancegalveston.com",
-            "destination": "HostGator",
-            "date": "2025-02-06 16:34:22"
         }
     ],
     "dailyMovedStat": {
@@ -644,11 +644,11 @@
         "2025-02-06": "43666"
     },
     "topDestinationHosts": {
-        "Pressable": 7992,
+        "Pressable": 7993,
         "Bluehost": 3702,
         "Digital Ocean": 2716,
         "Kinsta": 2688,
-        "SiteGround": 2375,
+        "SiteGround": 2376,
         "Hostinger": 1515,
         "GoDaddy": 734,
         "BigScoots": 346,
