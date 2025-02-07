@@ -1,10 +1,35 @@
 {
-    "siteCount": 43759,
+    "siteCount": 43768,
     "recentlyMoved": [
+        {
+            "domain_name": "www.moonlightcrashers.com",
+            "destination": "Bluehost",
+            "date": "2025-02-07 09:25:32"
+        },
+        {
+            "domain_name": "sofastudio.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-07 08:56:54"
+        },
+        {
+            "domain_name": "internationaltaxlaw.com",
+            "destination": "Kinsta",
+            "date": "2025-02-07 08:43:02"
+        },
+        {
+            "domain_name": "blacksbeachoriginals.com",
+            "destination": "Hostinger",
+            "date": "2025-02-07 08:39:09"
+        },
         {
             "domain_name": "havenstg.underscore.co",
             "destination": "Hostinger",
             "date": "2025-02-07 08:21:48"
+        },
+        {
+            "domain_name": "bestsocialplay.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-07 08:14:33"
         },
         {
             "domain_name": "orbetting.com",
@@ -457,11 +482,6 @@
             "date": "2025-02-06 17:09:15"
         },
         {
-            "domain_name": "prestonhollowchurch.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-06 16:52:02"
-        },
-        {
             "domain_name": "californiaobserver.com",
             "destination": "Hostinger",
             "date": "2025-02-06 16:46:53"
@@ -477,29 +497,9 @@
             "date": "2025-02-06 16:45:22"
         },
         {
-            "domain_name": "hellohopscotch.com",
-            "destination": "Kinsta",
-            "date": "2025-02-06 16:43:06"
-        },
-        {
             "domain_name": "insurancegalveston.com",
             "destination": "HostGator",
             "date": "2025-02-06 16:34:22"
-        },
-        {
-            "domain_name": "www.dharmarenovations.com",
-            "destination": "Pressable",
-            "date": "2025-02-06 16:29:15"
-        },
-        {
-            "domain_name": "recoveryedge.com",
-            "destination": "Hostinger",
-            "date": "2025-02-06 16:25:16"
-        },
-        {
-            "domain_name": "www.bluestonehillsdentistry.com",
-            "destination": "Kinsta",
-            "date": "2025-02-06 16:18:18"
         }
     ],
     "dailyMovedStat": {
@@ -646,10 +646,10 @@
     "topDestinationHosts": {
         "Pressable": 7992,
         "Bluehost": 3701,
-        "Digital Ocean": 2715,
-        "Kinsta": 2687,
+        "Digital Ocean": 2716,
+        "Kinsta": 2688,
         "SiteGround": 2373,
-        "Hostinger": 1510,
+        "Hostinger": 1513,
         "GoDaddy": 734,
         "BigScoots": 346,
         "Liquid Web": 276,
