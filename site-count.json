@@ -1,6 +1,26 @@
 {
-    "siteCount": 43666,
+    "siteCount": 43680,
     "recentlyMoved": [
+        {
+            "domain_name": "pomodorinbpt.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-07 00:10:51"
+        },
+        {
+            "domain_name": "nuthatchnaturals.com",
+            "destination": "Kinsta",
+            "date": "2025-02-06 23:41:06"
+        },
+        {
+            "domain_name": "wheelpassion.org",
+            "destination": "Kinsta",
+            "date": "2025-02-06 23:22:54"
+        },
+        {
+            "domain_name": "wfselectric.com",
+            "destination": "Bluehost",
+            "date": "2025-02-06 23:22:54"
+        },
         {
             "domain_name": "familylawyerab.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "storeforms.bowlersmart.com",
             "destination": "WordPress VIP",
             "date": "2025-02-06 13:33:38"
-        },
-        {
-            "domain_name": "centercitycarpetcare.com",
-            "destination": "SiteGround",
-            "date": "2025-02-06 13:20:40"
-        },
-        {
-            "domain_name": "snackstopks.com",
-            "destination": "SiteGround",
-            "date": "2025-02-06 13:15:11"
-        },
-        {
-            "domain_name": "lasportsbettingsites.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-06 13:08:45"
-        },
-        {
-            "domain_name": "carpet-cleaning-doctors.com",
-            "destination": "SiteGround",
-            "date": "2025-02-06 13:06:20"
         }
     ],
     "dailyMovedStat": {
@@ -645,12 +645,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 7988,
-        "Bluehost": 3700,
+        "Bluehost": 3701,
         "Digital Ocean": 2704,
-        "Kinsta": 2683,
+        "Kinsta": 2685,
         "SiteGround": 2370,
         "Hostinger": 1507,
-        "GoDaddy": 732,
+        "GoDaddy": 733,
         "BigScoots": 346,
         "Liquid Web": 276,
         "GridPane": 241,
