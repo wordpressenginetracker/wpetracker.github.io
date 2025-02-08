@@ -1,6 +1,16 @@
 {
-    "siteCount": 44105,
+    "siteCount": 44108,
     "recentlyMoved": [
+        {
+            "domain_name": "venetiandecor.art",
+            "destination": "Hostinger",
+            "date": "2025-02-08 10:43:52"
+        },
+        {
+            "domain_name": "neoductcleaning.com",
+            "destination": "SiteGround",
+            "date": "2025-02-08 10:32:34"
+        },
         {
             "domain_name": "eliquidevapotrotter.com",
             "destination": "IONOS",
@@ -487,19 +497,9 @@
             "date": "2025-02-07 15:11:48"
         },
         {
-            "domain_name": "my.wp-wiz.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 14:59:25"
-        },
-        {
             "domain_name": "fallsrivertc.com",
             "destination": "Kinsta",
             "date": "2025-02-07 14:37:13"
-        },
-        {
-            "domain_name": "nardimedia.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 14:33:11"
         }
     ],
     "dailyMovedStat": {
@@ -649,8 +649,8 @@
         "Bluehost": 3705,
         "Kinsta": 2729,
         "Digital Ocean": 2727,
-        "SiteGround": 2397,
-        "Hostinger": 1530,
+        "SiteGround": 2398,
+        "Hostinger": 1531,
         "GoDaddy": 740,
         "BigScoots": 347,
         "Liquid Web": 276,
@@ -658,7 +658,7 @@
         "Elementor Hosting": 225,
         "WordPress.com": 202,
         "InMotion Hosting": 186,
-        "IONOS": 167,
+        "IONOS": 168,
         "OVH": 157,
         "Wordify": 152,
         "A2 Hosting": 143,
