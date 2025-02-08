@@ -1,6 +1,21 @@
 {
-    "siteCount": 44063,
+    "siteCount": 44067,
     "recentlyMoved": [
+        {
+            "domain_name": "cfe-fund.org",
+            "destination": "Kinsta",
+            "date": "2025-02-08 05:23:27"
+        },
+        {
+            "domain_name": "sizzlinghotmarriage.com",
+            "destination": "SiteGround",
+            "date": "2025-02-08 04:45:36"
+        },
+        {
+            "domain_name": "roofstruction.com",
+            "destination": "SiteGround",
+            "date": "2025-02-08 04:20:19"
+        },
         {
             "domain_name": "purposeoflife.in",
             "destination": "Hetzner Online",
@@ -427,11 +442,6 @@
             "date": "2025-02-07 13:41:16"
         },
         {
-            "domain_name": "shiponesource.com",
-            "destination": "Pressable",
-            "date": "2025-02-07 13:35:58"
-        },
-        {
             "domain_name": "skywaycapitalmarkets.com",
             "destination": "GoDaddy",
             "date": "2025-02-07 13:34:37"
@@ -440,16 +450,6 @@
             "domain_name": "cleanupgroupne.com",
             "destination": "Pressable",
             "date": "2025-02-07 13:28:01"
-        },
-        {
-            "domain_name": "cardentelecoms.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-02-07 13:26:00"
-        },
-        {
-            "domain_name": "cardenitservices.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-02-07 13:26:00"
         },
         {
             "domain_name": "si.cms.monaonline.com",
@@ -648,8 +648,8 @@
         "Pressable": 8019,
         "Bluehost": 3703,
         "Digital Ocean": 2726,
-        "Kinsta": 2724,
-        "SiteGround": 2388,
+        "Kinsta": 2725,
+        "SiteGround": 2390,
         "Hostinger": 1528,
         "GoDaddy": 740,
         "BigScoots": 347,
@@ -663,7 +663,7 @@
         "Wordify": 152,
         "A2 Hosting": 143,
         "Namecheap": 127,
-        "Hetzner Online": 119,
+        "Hetzner Online": 120,
         "DreamHost": 112
     },
     "dailyTotalStat": {
