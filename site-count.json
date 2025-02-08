@@ -1,10 +1,25 @@
 {
-    "siteCount": 44097,
+    "siteCount": 44105,
     "recentlyMoved": [
+        {
+            "domain_name": "eliquidevapotrotter.com",
+            "destination": "IONOS",
+            "date": "2025-02-08 10:18:52"
+        },
+        {
+            "domain_name": "edukustannus.fi",
+            "destination": "Kinsta",
+            "date": "2025-02-08 09:57:06"
+        },
         {
             "domain_name": "krendlmachine.com",
             "destination": "Digital Ocean",
             "date": "2025-02-08 09:32:28"
+        },
+        {
+            "domain_name": "martacarpio.com",
+            "destination": "IONOS",
+            "date": "2025-02-08 09:28:16"
         },
         {
             "domain_name": "softlinemediagroup.com",
@@ -485,21 +500,6 @@
             "domain_name": "nardimedia.com",
             "destination": "Kinsta",
             "date": "2025-02-07 14:33:11"
-        },
-        {
-            "domain_name": "medivisuals.com",
-            "destination": "SiteGround",
-            "date": "2025-02-07 14:32:22"
-        },
-        {
-            "domain_name": "thewordofprophecy.org",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-07 14:30:32"
-        },
-        {
-            "domain_name": "ebhath-tajed.com",
-            "destination": "A2 Hosting",
-            "date": "2025-02-07 14:17:48"
         }
     ],
     "dailyMovedStat": {
@@ -647,8 +647,8 @@
     "topDestinationHosts": {
         "Pressable": 8020,
         "Bluehost": 3705,
-        "Kinsta": 2728,
-        "Digital Ocean": 2726,
+        "Kinsta": 2729,
+        "Digital Ocean": 2727,
         "SiteGround": 2397,
         "Hostinger": 1530,
         "GoDaddy": 740,
@@ -658,7 +658,7 @@
         "Elementor Hosting": 225,
         "WordPress.com": 202,
         "InMotion Hosting": 186,
-        "IONOS": 166,
+        "IONOS": 167,
         "OVH": 157,
         "Wordify": 152,
         "A2 Hosting": 143,
