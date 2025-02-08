@@ -1,6 +1,66 @@
 {
-    "siteCount": 44246,
+    "siteCount": 44311,
     "recentlyMoved": [
+        {
+            "domain_name": "pmtechnologies.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 20:28:26"
+        },
+        {
+            "domain_name": "www.lastinglooksforyou.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 20:24:14"
+        },
+        {
+            "domain_name": "grovearcade.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 20:08:16"
+        },
+        {
+            "domain_name": "pinoncourt.com",
+            "destination": "Hostinger",
+            "date": "2025-02-08 20:04:49"
+        },
+        {
+            "domain_name": "www.demseymd.ca",
+            "destination": "Kinsta",
+            "date": "2025-02-08 20:01:19"
+        },
+        {
+            "domain_name": "charlenescuisine.com",
+            "destination": "Bluehost",
+            "date": "2025-02-08 20:00:27"
+        },
+        {
+            "domain_name": "www.charlottemedicalaesthetics.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 20:00:27"
+        },
+        {
+            "domain_name": "www.oncalladvantage.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 19:49:33"
+        },
+        {
+            "domain_name": "artistalleycondos.com",
+            "destination": "DreamHost",
+            "date": "2025-02-08 19:47:55"
+        },
+        {
+            "domain_name": "www.apexvisionslc.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 19:45:38"
+        },
+        {
+            "domain_name": "www.aesyracuse.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 19:44:18"
+        },
+        {
+            "domain_name": "www.veinspecialistsocala.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 19:43:14"
+        },
         {
             "domain_name": "empowergolf.com.au",
             "destination": "SiteGround",
@@ -437,69 +497,9 @@
             "date": "2025-02-08 01:19:15"
         },
         {
-            "domain_name": "calvarykenora.ca",
-            "destination": "Hostinger",
-            "date": "2025-02-08 00:45:51"
-        },
-        {
             "domain_name": "sfocp.com",
             "destination": "SiteGround",
             "date": "2025-02-08 00:45:17"
-        },
-        {
-            "domain_name": "jalalabadiplasticsurgery.com",
-            "destination": "HostGator",
-            "date": "2025-02-08 00:42:12"
-        },
-        {
-            "domain_name": "harden-law.com",
-            "destination": "Pressable",
-            "date": "2025-02-08 00:16:23"
-        },
-        {
-            "domain_name": "forwardelectricandair.com",
-            "destination": "SiteGround",
-            "date": "2025-02-07 23:41:03"
-        },
-        {
-            "domain_name": "usarivercruises.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-07 22:54:24"
-        },
-        {
-            "domain_name": "tophataffiliates.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 22:45:33"
-        },
-        {
-            "domain_name": "drrizzuto.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 22:24:04"
-        },
-        {
-            "domain_name": "eversight.nyc",
-            "destination": "Kinsta",
-            "date": "2025-02-07 22:18:43"
-        },
-        {
-            "domain_name": "medicareofflorida.com",
-            "destination": "A2 Hosting",
-            "date": "2025-02-07 22:09:46"
-        },
-        {
-            "domain_name": "clearpathasset.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 21:53:14"
-        },
-        {
-            "domain_name": "www.timtheroofguy.com",
-            "destination": "Pressable",
-            "date": "2025-02-07 21:28:45"
-        },
-        {
-            "domain_name": "castleashevillehomebuilders.com",
-            "destination": "Kinsta",
-            "date": "2025-02-07 20:56:29"
         }
     ],
     "dailyMovedStat": {
@@ -646,12 +646,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8031,
-        "Bluehost": 3708,
-        "Kinsta": 2750,
+        "Bluehost": 3709,
+        "Kinsta": 2759,
         "Digital Ocean": 2738,
-        "SiteGround": 2405,
-        "Hostinger": 1533,
-        "GoDaddy": 741,
+        "SiteGround": 2406,
+        "Hostinger": 1534,
+        "GoDaddy": 743,
         "BigScoots": 347,
         "Liquid Web": 276,
         "GridPane": 242,
@@ -664,7 +664,7 @@
         "A2 Hosting": 143,
         "Namecheap": 127,
         "Hetzner Online": 120,
-        "DreamHost": 113
+        "DreamHost": 114
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
