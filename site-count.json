@@ -1,6 +1,11 @@
 {
-    "siteCount": 44049,
+    "siteCount": 44054,
     "recentlyMoved": [
+        {
+            "domain_name": "mbwbrand.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 02:30:14"
+        },
         {
             "domain_name": "slcsmiles.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "sinclairtechnologiesllc.com",
             "destination": "Kinsta",
             "date": "2025-02-07 12:48:04"
-        },
-        {
-            "domain_name": "www.hrhubplus.com",
-            "destination": "Hostinger",
-            "date": "2025-02-07 12:27:14"
         }
     ],
     "dailyMovedStat": {
@@ -648,8 +648,8 @@
         "Pressable": 8019,
         "Bluehost": 3703,
         "Digital Ocean": 2726,
-        "Kinsta": 2722,
-        "SiteGround": 2387,
+        "Kinsta": 2723,
+        "SiteGround": 2388,
         "Hostinger": 1528,
         "GoDaddy": 740,
         "BigScoots": 347,
