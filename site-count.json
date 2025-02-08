@@ -1,6 +1,36 @@
 {
-    "siteCount": 44075,
+    "siteCount": 44087,
     "recentlyMoved": [
+        {
+            "domain_name": "ancientamericafoundation.org",
+            "destination": "Kinsta",
+            "date": "2025-02-08 08:08:27"
+        },
+        {
+            "domain_name": "www.scholarshipdevelopers.com",
+            "destination": "Bluehost",
+            "date": "2025-02-08 08:08:09"
+        },
+        {
+            "domain_name": "getneoservices.com",
+            "destination": "SiteGround",
+            "date": "2025-02-08 08:07:00"
+        },
+        {
+            "domain_name": "www.c-resorts.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 07:50:59"
+        },
+        {
+            "domain_name": "alisonramirezcounseling.com",
+            "destination": "Kinsta",
+            "date": "2025-02-08 07:50:12"
+        },
+        {
+            "domain_name": "vittlesvend.com",
+            "destination": "SiteGround",
+            "date": "2025-02-08 07:17:38"
+        },
         {
             "domain_name": "ejgraff.com",
             "destination": "Bluehost",
@@ -452,24 +482,9 @@
             "date": "2025-02-07 13:59:06"
         },
         {
-            "domain_name": "knowhow.distrelec.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-07 13:41:16"
-        },
-        {
-            "domain_name": "skywaycapitalmarkets.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-07 13:34:37"
-        },
-        {
             "domain_name": "cleanupgroupne.com",
             "destination": "Pressable",
             "date": "2025-02-07 13:28:01"
-        },
-        {
-            "domain_name": "kessingeraestheticderm.com",
-            "destination": "SiteGround",
-            "date": "2025-02-07 13:20:59"
         },
         {
             "domain_name": "www.precisionfluidpower.com",
@@ -482,24 +497,9 @@
             "date": "2025-02-07 13:12:29"
         },
         {
-            "domain_name": "ksmngt.com",
-            "destination": "Hostinger",
-            "date": "2025-02-07 13:05:56"
-        },
-        {
-            "domain_name": "www.mycxacademy.com",
-            "destination": "Hetzner Online",
-            "date": "2025-02-07 13:05:00"
-        },
-        {
             "domain_name": "www.onecityonechurch-louisville.org",
             "destination": "Pressable",
             "date": "2025-02-07 12:55:47"
-        },
-        {
-            "domain_name": "www.mid-stateelectricalcontracting.com",
-            "destination": "Pressable",
-            "date": "2025-02-07 12:49:37"
         }
     ],
     "dailyMovedStat": {
@@ -646,10 +646,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 8020,
-        "Bluehost": 3704,
+        "Bluehost": 3705,
+        "Kinsta": 2728,
         "Digital Ocean": 2726,
-        "Kinsta": 2725,
-        "SiteGround": 2391,
+        "SiteGround": 2393,
         "Hostinger": 1528,
         "GoDaddy": 740,
         "BigScoots": 347,
