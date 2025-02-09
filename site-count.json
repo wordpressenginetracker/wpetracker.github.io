@@ -1,10 +1,20 @@
 {
-    "siteCount": 44351,
+    "siteCount": 44355,
     "recentlyMoved": [
+        {
+            "domain_name": "mymixedmarketing.com",
+            "destination": "Kinsta",
+            "date": "2025-02-09 02:27:40"
+        },
         {
             "domain_name": "menshealthcenter.com",
             "destination": "SiteGround",
             "date": "2025-02-09 02:12:21"
+        },
+        {
+            "domain_name": "mullerlaw.com",
+            "destination": "Pressable",
+            "date": "2025-02-09 01:57:07"
         },
         {
             "domain_name": "surgicalbenefitmanagement.com",
@@ -490,16 +500,6 @@
             "domain_name": "rootwellvending.com",
             "destination": "SiteGround",
             "date": "2025-02-08 08:17:28"
-        },
-        {
-            "domain_name": "betterchoices4u.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 08:03:09"
-        },
-        {
-            "domain_name": "www.c-resorts.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 07:50:59"
         }
     ],
     "dailyMovedStat": {
@@ -646,9 +646,9 @@
         "2025-02-08": "44336"
     },
     "topDestinationHosts": {
-        "Pressable": 8032,
+        "Pressable": 8033,
         "Bluehost": 3709,
-        "Kinsta": 2763,
+        "Kinsta": 2764,
         "Digital Ocean": 2740,
         "SiteGround": 2411,
         "Hostinger": 1534,
