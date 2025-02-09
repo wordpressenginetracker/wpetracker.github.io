@@ -1,6 +1,21 @@
 {
-    "siteCount": 44406,
+    "siteCount": 44415,
     "recentlyMoved": [
+        {
+            "domain_name": "thegww.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-09 18:28:44"
+        },
+        {
+            "domain_name": "www.upwardregen.com",
+            "destination": "Hostinger",
+            "date": "2025-02-09 18:12:02"
+        },
+        {
+            "domain_name": "thedtfa.com",
+            "destination": "Kinsta",
+            "date": "2025-02-09 17:35:17"
+        },
         {
             "domain_name": "trashpandamn.com",
             "destination": "GoDaddy",
@@ -472,11 +487,6 @@
             "date": "2025-02-08 12:07:16"
         },
         {
-            "domain_name": "35pharma.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 12:01:11"
-        },
-        {
             "domain_name": "www.alwaysperfectcontracting.com",
             "destination": "Pressable",
             "date": "2025-02-08 11:41:44"
@@ -490,16 +500,6 @@
             "domain_name": "www.1stopinspections.com",
             "destination": "Pressable",
             "date": "2025-02-08 11:34:07"
-        },
-        {
-            "domain_name": "nyssf.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 11:26:27"
-        },
-        {
-            "domain_name": "parkchinois.com",
-            "destination": "Hostinger",
-            "date": "2025-02-08 11:20:28"
         }
     ],
     "dailyMovedStat": {
@@ -648,10 +648,10 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3709,
-        "Kinsta": 2765,
-        "Digital Ocean": 2740,
+        "Kinsta": 2766,
+        "Digital Ocean": 2741,
         "SiteGround": 2415,
-        "Hostinger": 1534,
+        "Hostinger": 1535,
         "GoDaddy": 746,
         "BigScoots": 348,
         "Liquid Web": 276,
