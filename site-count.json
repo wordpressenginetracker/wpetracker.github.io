@@ -1,10 +1,20 @@
 {
-    "siteCount": 44386,
+    "siteCount": 44390,
     "recentlyMoved": [
+        {
+            "domain_name": "trashpandamn.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-09 13:55:49"
+        },
         {
             "domain_name": "chicagodefender.com",
             "destination": "Kinsta",
             "date": "2025-02-09 13:44:09"
+        },
+        {
+            "domain_name": "maracontracting.ca",
+            "destination": "SiteGround",
+            "date": "2025-02-09 13:40:04"
         },
         {
             "domain_name": "cheapohippo.com",
@@ -490,16 +500,6 @@
             "domain_name": "parkchinois.com",
             "destination": "Hostinger",
             "date": "2025-02-08 11:20:28"
-        },
-        {
-            "domain_name": "venetiandecor.art",
-            "destination": "Hostinger",
-            "date": "2025-02-08 10:43:52"
-        },
-        {
-            "domain_name": "neoductcleaning.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 10:32:34"
         }
     ],
     "dailyMovedStat": {
@@ -648,9 +648,9 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3709,
-        "Kinsta": 2764,
+        "Kinsta": 2765,
         "Digital Ocean": 2740,
-        "SiteGround": 2414,
+        "SiteGround": 2415,
         "Hostinger": 1534,
         "GoDaddy": 745,
         "BigScoots": 348,
@@ -663,7 +663,7 @@
         "OVH": 158,
         "Wordify": 152,
         "A2 Hosting": 144,
-        "Namecheap": 127,
+        "Namecheap": 128,
         "Hetzner Online": 120,
         "DreamHost": 115
     },
