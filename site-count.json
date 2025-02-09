@@ -1,6 +1,11 @@
 {
-    "siteCount": 44375,
+    "siteCount": 44378,
     "recentlyMoved": [
+        {
+            "domain_name": "ellicium.com",
+            "destination": "DreamHost",
+            "date": "2025-02-09 10:17:26"
+        },
         {
             "domain_name": "www.academywestinsurance.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "martacarpio.com",
             "destination": "IONOS",
             "date": "2025-02-08 09:28:16"
-        },
-        {
-            "domain_name": "softlinemediagroup.com",
-            "destination": "Hostinger",
-            "date": "2025-02-08 09:06:57"
         }
     ],
     "dailyMovedStat": {
@@ -665,7 +665,7 @@
         "A2 Hosting": 144,
         "Namecheap": 127,
         "Hetzner Online": 120,
-        "DreamHost": 114
+        "DreamHost": 115
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
