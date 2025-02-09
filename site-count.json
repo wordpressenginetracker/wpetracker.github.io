@@ -1,6 +1,11 @@
 {
-    "siteCount": 44378,
+    "siteCount": 44380,
     "recentlyMoved": [
+        {
+            "domain_name": "windermerecotransactions.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-09 12:07:35"
+        },
         {
             "domain_name": "ellicium.com",
             "destination": "DreamHost",
@@ -492,11 +497,6 @@
             "date": "2025-02-08 09:57:06"
         },
         {
-            "domain_name": "krendlmachine.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 09:32:28"
-        },
-        {
             "domain_name": "martacarpio.com",
             "destination": "IONOS",
             "date": "2025-02-08 09:28:16"
@@ -652,7 +652,7 @@
         "Digital Ocean": 2740,
         "SiteGround": 2414,
         "Hostinger": 1534,
-        "GoDaddy": 744,
+        "GoDaddy": 745,
         "BigScoots": 348,
         "Liquid Web": 276,
         "GridPane": 242,
