@@ -1,6 +1,16 @@
 {
-    "siteCount": 44514,
+    "siteCount": 44518,
     "recentlyMoved": [
+        {
+            "domain_name": "3rosemedia.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-02-10 11:45:37"
+        },
+        {
+            "domain_name": "flexibletoolingsolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-02-10 11:28:42"
+        },
         {
             "domain_name": "www.eossleepdiagnostics.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "www.abasa.info",
             "destination": "Kinsta",
             "date": "2025-02-08 15:35:58"
-        },
-        {
-            "domain_name": "fairsingvineyard.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 14:35:40"
-        },
-        {
-            "domain_name": "www.wechangeminds.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 14:13:01"
         }
     ],
     "dailyMovedStat": {
@@ -649,7 +649,7 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2779,
+        "Kinsta": 2780,
         "Digital Ocean": 2743,
         "SiteGround": 2419,
         "Hostinger": 1539,
