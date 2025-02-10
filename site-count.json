@@ -1,6 +1,11 @@
 {
-    "siteCount": 44510,
+    "siteCount": 44511,
     "recentlyMoved": [
+        {
+            "domain_name": "www.eossleepdiagnostics.com",
+            "destination": "Hostinger",
+            "date": "2025-02-10 08:35:31"
+        },
         {
             "domain_name": "haikuhoolaulea.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.wechangeminds.com",
             "destination": "Digital Ocean",
             "date": "2025-02-08 14:13:01"
-        },
-        {
-            "domain_name": "www.waukeshairon.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 13:59:21"
         }
     ],
     "dailyMovedStat": {
@@ -652,7 +652,7 @@
         "Kinsta": 2779,
         "Digital Ocean": 2743,
         "SiteGround": 2419,
-        "Hostinger": 1538,
+        "Hostinger": 1539,
         "GoDaddy": 749,
         "BigScoots": 348,
         "Liquid Web": 276,
