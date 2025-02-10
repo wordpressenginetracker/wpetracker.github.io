@@ -1,6 +1,11 @@
 {
-    "siteCount": 44497,
+    "siteCount": 44502,
     "recentlyMoved": [
+        {
+            "domain_name": "elizabethperona.com",
+            "destination": "Kinsta",
+            "date": "2025-02-10 06:37:25"
+        },
         {
             "domain_name": "counselingandmindfulness.com",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-02-08 14:06:01"
         },
         {
-            "domain_name": "cosmic-fruit.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 14:04:41"
-        },
-        {
             "domain_name": "www.waukeshairon.com",
             "destination": "Kinsta",
             "date": "2025-02-08 13:59:21"
@@ -649,7 +649,7 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2777,
+        "Kinsta": 2778,
         "Digital Ocean": 2743,
         "SiteGround": 2419,
         "Hostinger": 1536,
