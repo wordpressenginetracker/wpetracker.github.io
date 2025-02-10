@@ -1,10 +1,15 @@
 {
-    "siteCount": 44482,
+    "siteCount": 44483,
     "recentlyMoved": [
         {
             "domain_name": "mindfulwebsolutions.com",
             "destination": "Kinsta",
             "date": "2025-02-10 02:44:09"
+        },
+        {
+            "domain_name": "norfolkaudiology.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-10 02:34:28"
         },
         {
             "domain_name": "taiga-upland.co.uk",
@@ -492,11 +497,6 @@
             "date": "2025-02-08 13:00:43"
         },
         {
-            "domain_name": "cabanamexicansomerset.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 12:55:28"
-        },
-        {
             "domain_name": "smallfootprinttravels.com",
             "destination": "Kinsta",
             "date": "2025-02-08 12:52:55"
@@ -649,8 +649,8 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2772,
-        "Digital Ocean": 2741,
+        "Kinsta": 2773,
+        "Digital Ocean": 2742,
         "SiteGround": 2418,
         "Hostinger": 1536,
         "GoDaddy": 748,
