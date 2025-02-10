@@ -1,6 +1,11 @@
 {
-    "siteCount": 44527,
+    "siteCount": 44529,
     "recentlyMoved": [
+        {
+            "domain_name": "ungarischeweinlese.de",
+            "destination": "Hostinger",
+            "date": "2025-02-10 15:03:00"
+        },
         {
             "domain_name": "tmelectricalservices.co.uk",
             "destination": "Krystal Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-02-08 15:58:35"
         },
         {
-            "domain_name": "ourfarmsanctuary.org",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 15:37:18"
-        },
-        {
             "domain_name": "www.abasa.info",
             "destination": "Kinsta",
             "date": "2025-02-08 15:35:58"
@@ -652,7 +652,7 @@
         "Kinsta": 2780,
         "Digital Ocean": 2743,
         "SiteGround": 2419,
-        "Hostinger": 1539,
+        "Hostinger": 1540,
         "GoDaddy": 749,
         "BigScoots": 348,
         "Liquid Web": 276,
