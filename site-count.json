@@ -1,6 +1,16 @@
 {
-    "siteCount": 44479,
+    "siteCount": 44482,
     "recentlyMoved": [
+        {
+            "domain_name": "mindfulwebsolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-02-10 02:44:09"
+        },
+        {
+            "domain_name": "taiga-upland.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-02-10 01:59:21"
+        },
         {
             "domain_name": "reviverestore.org",
             "destination": "SiteGround",
@@ -482,11 +492,6 @@
             "date": "2025-02-08 13:00:43"
         },
         {
-            "domain_name": "www.iwontbesilent.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 12:59:41"
-        },
-        {
             "domain_name": "cabanamexicansomerset.com",
             "destination": "Kinsta",
             "date": "2025-02-08 12:55:28"
@@ -495,11 +500,6 @@
             "domain_name": "smallfootprinttravels.com",
             "destination": "Kinsta",
             "date": "2025-02-08 12:52:55"
-        },
-        {
-            "domain_name": "butterfieldcn.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 12:34:14"
         }
     ],
     "dailyMovedStat": {
@@ -649,7 +649,7 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2771,
+        "Kinsta": 2772,
         "Digital Ocean": 2741,
         "SiteGround": 2418,
         "Hostinger": 1536,
