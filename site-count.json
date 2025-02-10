@@ -1,6 +1,26 @@
 {
-    "siteCount": 44458,
+    "siteCount": 44472,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ocallstars.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-10 00:27:31"
+        },
+        {
+            "domain_name": "ocean.reviverestore.org",
+            "destination": "SiteGround",
+            "date": "2025-02-09 23:56:14"
+        },
+        {
+            "domain_name": "authorityheating.com",
+            "destination": "Kinsta",
+            "date": "2025-02-09 23:49:21"
+        },
+        {
+            "domain_name": "123built.com",
+            "destination": "Kinsta",
+            "date": "2025-02-09 23:39:45"
+        },
         {
             "domain_name": "bridlewoodinsurance.com",
             "destination": "Kinsta",
@@ -462,19 +482,9 @@
             "date": "2025-02-08 12:52:55"
         },
         {
-            "domain_name": "www.betschartlandscape.com",
-            "destination": "Pressable",
-            "date": "2025-02-08 12:36:12"
-        },
-        {
             "domain_name": "butterfieldcn.com",
             "destination": "Kinsta",
             "date": "2025-02-08 12:34:14"
-        },
-        {
-            "domain_name": "aspencustomcabinetry.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 12:32:49"
         },
         {
             "domain_name": "bigenergyllc.com",
@@ -487,19 +497,9 @@
             "date": "2025-02-08 12:23:23"
         },
         {
-            "domain_name": "hamptons-plasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 12:20:14"
-        },
-        {
             "domain_name": "hasafh.com",
             "destination": "Digital Ocean",
             "date": "2025-02-08 12:12:41"
-        },
-        {
-            "domain_name": "arisecounselingclinic.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 12:07:16"
         }
     ],
     "dailyMovedStat": {
@@ -649,11 +649,11 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2768,
+        "Kinsta": 2769,
         "Digital Ocean": 2741,
-        "SiteGround": 2416,
+        "SiteGround": 2417,
         "Hostinger": 1535,
-        "GoDaddy": 747,
+        "GoDaddy": 748,
         "BigScoots": 348,
         "Liquid Web": 276,
         "GridPane": 242,
