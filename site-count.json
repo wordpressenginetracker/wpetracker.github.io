@@ -1,6 +1,11 @@
 {
-    "siteCount": 44602,
+    "siteCount": 44604,
     "recentlyMoved": [
+        {
+            "domain_name": "newpittsburghcourier.com",
+            "destination": "Kinsta",
+            "date": "2025-02-10 22:29:35"
+        },
         {
             "domain_name": "chophairdressing.com",
             "destination": "Digital Ocean",
@@ -477,11 +482,6 @@
             "date": "2025-02-08 17:45:22"
         },
         {
-            "domain_name": "championyig.com",
-            "destination": "Bluehost",
-            "date": "2025-02-08 17:25:23"
-        },
-        {
             "domain_name": "www.oakvilleeye.com",
             "destination": "Kinsta",
             "date": "2025-02-08 17:18:06"
@@ -644,12 +644,13 @@
         "2025-02-06": "43666",
         "2025-02-07": "44032",
         "2025-02-08": "44336",
-        "2025-02-09": "44458"
+        "2025-02-09": "44458",
+        "2025-02-10": "44604"
     },
     "topDestinationHosts": {
         "Pressable": 8034,
         "Bluehost": 3711,
-        "Kinsta": 2781,
+        "Kinsta": 2782,
         "Digital Ocean": 2747,
         "SiteGround": 2423,
         "Hostinger": 1541,
@@ -810,6 +811,7 @@
         "2025-02-06": "669214",
         "2025-02-07": "668683",
         "2025-02-08": "668510",
-        "2025-02-09": "668561"
+        "2025-02-09": "668561",
+        "2025-02-10": "668007"
     }
 }
