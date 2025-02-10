@@ -1,6 +1,11 @@
 {
-    "siteCount": 44493,
+    "siteCount": 44497,
     "recentlyMoved": [
+        {
+            "domain_name": "counselingandmindfulness.com",
+            "destination": "Kinsta",
+            "date": "2025-02-10 05:27:24"
+        },
         {
             "domain_name": "brookspsychologicalservices.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-02-08 13:42:12"
         },
         {
-            "domain_name": "clearskycounselor.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 13:36:47"
-        },
-        {
             "domain_name": "www.tinytownokcabins.com",
             "destination": "Pressable",
             "date": "2025-02-08 13:34:45"
@@ -649,7 +649,7 @@
     "topDestinationHosts": {
         "Pressable": 8033,
         "Bluehost": 3710,
-        "Kinsta": 2776,
+        "Kinsta": 2777,
         "Digital Ocean": 2743,
         "SiteGround": 2419,
         "Hostinger": 1536,
