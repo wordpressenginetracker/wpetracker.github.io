@@ -1,10 +1,15 @@
 {
-    "siteCount": 44596,
+    "siteCount": 44602,
     "recentlyMoved": [
         {
             "domain_name": "chophairdressing.com",
             "destination": "Digital Ocean",
             "date": "2025-02-10 21:33:56"
+        },
+        {
+            "domain_name": "lgsrc.com",
+            "destination": "Bluehost",
+            "date": "2025-02-10 21:22:25"
         },
         {
             "domain_name": "samgallerlaw.co.nz",
@@ -495,11 +500,6 @@
             "domain_name": "charlestoneye.com",
             "destination": "Kinsta",
             "date": "2025-02-08 16:55:24"
-        },
-        {
-            "domain_name": "bookerstravelandtours.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-08 16:21:57"
         }
     ],
     "dailyMovedStat": {
@@ -648,9 +648,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 8034,
-        "Bluehost": 3710,
+        "Bluehost": 3711,
         "Kinsta": 2781,
-        "Digital Ocean": 2746,
+        "Digital Ocean": 2747,
         "SiteGround": 2423,
         "Hostinger": 1541,
         "GoDaddy": 753,
