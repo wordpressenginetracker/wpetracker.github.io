@@ -1,6 +1,11 @@
 {
-    "siteCount": 44745,
+    "siteCount": 44752,
     "recentlyMoved": [
+        {
+            "domain_name": "electronicsvaluerecovery.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-11 14:34:31"
+        },
         {
             "domain_name": "moiramcnairnay.ca",
             "destination": "SiteGround",
@@ -15,6 +20,11 @@
             "domain_name": "mmmpod.net",
             "destination": "WordPress.com",
             "date": "2025-02-11 13:56:57"
+        },
+        {
+            "domain_name": "mooreandassociates.on.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-11 13:53:10"
         },
         {
             "domain_name": "www.righthousecapital.com",
@@ -490,16 +500,6 @@
             "domain_name": "windermerecotransactions.com",
             "destination": "GoDaddy",
             "date": "2025-02-09 12:07:35"
-        },
-        {
-            "domain_name": "ellicium.com",
-            "destination": "DreamHost",
-            "date": "2025-02-09 10:17:26"
-        },
-        {
-            "domain_name": "greaterlasvegasdental.com",
-            "destination": "SiteGround",
-            "date": "2025-02-09 03:41:53"
         }
     ],
     "dailyMovedStat": {
@@ -648,18 +648,18 @@
         "2025-02-10": "44604"
     },
     "topDestinationHosts": {
-        "Pressable": 8045,
+        "Pressable": 8049,
         "Bluehost": 3712,
-        "Kinsta": 2789,
-        "Digital Ocean": 2750,
-        "SiteGround": 2427,
-        "Hostinger": 1547,
+        "Kinsta": 2790,
+        "Digital Ocean": 2751,
+        "SiteGround": 2428,
+        "Hostinger": 1548,
         "GoDaddy": 754,
         "BigScoots": 349,
         "Liquid Web": 276,
         "GridPane": 242,
         "Elementor Hosting": 226,
-        "WordPress.com": 202,
+        "WordPress.com": 203,
         "InMotion Hosting": 188,
         "IONOS": 171,
         "OVH": 160,
