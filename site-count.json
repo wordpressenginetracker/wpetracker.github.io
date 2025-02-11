@@ -1,6 +1,21 @@
 {
-    "siteCount": 44677,
+    "siteCount": 44686,
     "recentlyMoved": [
+        {
+            "domain_name": "cravecraftonline.com",
+            "destination": "Kinsta",
+            "date": "2025-02-11 10:10:40"
+        },
+        {
+            "domain_name": "mikesemissionclinic.com",
+            "destination": "Pressable",
+            "date": "2025-02-11 10:07:07"
+        },
+        {
+            "domain_name": "theindybarber.com",
+            "destination": "Pressable",
+            "date": "2025-02-11 09:54:46"
+        },
         {
             "domain_name": "bioinformant.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "blueridgeeventstaffing.com",
             "destination": "Kinsta",
             "date": "2025-02-08 20:27:09"
-        },
-        {
-            "domain_name": "reddyderm.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 20:10:28"
-        },
-        {
-            "domain_name": "grovearcade.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 20:08:16"
-        },
-        {
-            "domain_name": "artistalleycondos.com",
-            "destination": "DreamHost",
-            "date": "2025-02-08 19:47:55"
         }
     ],
     "dailyMovedStat": {
@@ -648,9 +648,9 @@
         "2025-02-10": "44604"
     },
     "topDestinationHosts": {
-        "Pressable": 8039,
+        "Pressable": 8041,
         "Bluehost": 3712,
-        "Kinsta": 2785,
+        "Kinsta": 2787,
         "Digital Ocean": 2748,
         "SiteGround": 2427,
         "Hostinger": 1544,
