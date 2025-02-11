@@ -1,5 +1,5 @@
 {
-    "siteCount": 44941,
+    "siteCount": 44944,
     "recentlyMoved": [
         {
             "domain_name": "michellesfox.com",
@@ -10,6 +10,11 @@
             "domain_name": "www.yorkyates.com",
             "destination": "Kinsta",
             "date": "2025-02-11 22:36:36"
+        },
+        {
+            "domain_name": "montagano.ca",
+            "destination": "Pressable",
+            "date": "2025-02-11 21:55:25"
         },
         {
             "domain_name": "coachellaseo.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.barryrobinson.org",
             "destination": "Kinsta",
             "date": "2025-02-11 04:08:59"
-        },
-        {
-            "domain_name": "www.asiagardenjackson.com",
-            "destination": "Pressable",
-            "date": "2025-02-11 03:55:20"
         }
     ],
     "dailyMovedStat": {
@@ -645,10 +645,11 @@
         "2025-02-07": "44032",
         "2025-02-08": "44336",
         "2025-02-09": "44458",
-        "2025-02-10": "44604"
+        "2025-02-10": "44604",
+        "2025-02-11": "44944"
     },
     "topDestinationHosts": {
-        "Pressable": 8062,
+        "Pressable": 8063,
         "Bluehost": 3714,
         "Kinsta": 2801,
         "Digital Ocean": 2761,
@@ -812,6 +813,7 @@
         "2025-02-07": "668683",
         "2025-02-08": "668510",
         "2025-02-09": "668561",
-        "2025-02-10": "668007"
+        "2025-02-10": "668007",
+        "2025-02-11": "667450"
     }
 }
