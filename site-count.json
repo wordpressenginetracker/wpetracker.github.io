@@ -1,6 +1,11 @@
 {
-    "siteCount": 44649,
+    "siteCount": 44657,
     "recentlyMoved": [
+        {
+            "domain_name": "joa-interior.be",
+            "destination": "OVH",
+            "date": "2025-02-11 05:28:46"
+        },
         {
             "domain_name": "ankontechnology.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.veinspecialistsocala.com",
             "destination": "Kinsta",
             "date": "2025-02-08 19:43:14"
-        },
-        {
-            "domain_name": "newconceptsdentistry.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 18:38:19"
         }
     ],
     "dailyMovedStat": {
@@ -660,9 +660,9 @@
         "GridPane": 242,
         "Elementor Hosting": 226,
         "WordPress.com": 202,
-        "InMotion Hosting": 187,
+        "InMotion Hosting": 188,
         "IONOS": 171,
-        "OVH": 158,
+        "OVH": 159,
         "Wordify": 152,
         "A2 Hosting": 144,
         "Namecheap": 128,
