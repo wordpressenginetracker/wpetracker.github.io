@@ -1,6 +1,21 @@
 {
-    "siteCount": 44669,
+    "siteCount": 44673,
     "recentlyMoved": [
+        {
+            "domain_name": "archangelcenters.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-11 08:36:52"
+        },
+        {
+            "domain_name": "hallbarkemi.se",
+            "destination": "Pressable",
+            "date": "2025-02-11 08:03:06"
+        },
+        {
+            "domain_name": "greatdayvendingarkansas.com",
+            "destination": "SiteGround",
+            "date": "2025-02-11 08:00:25"
+        },
         {
             "domain_name": "ukskin.co.uk",
             "destination": "SiteGround",
@@ -457,19 +472,9 @@
             "date": "2025-02-08 20:32:20"
         },
         {
-            "domain_name": "pmtechnologies.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 20:28:26"
-        },
-        {
             "domain_name": "blueridgeeventstaffing.com",
             "destination": "Kinsta",
             "date": "2025-02-08 20:27:09"
-        },
-        {
-            "domain_name": "www.lastinglooksforyou.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 20:24:14"
         },
         {
             "domain_name": "reddyderm.com",
@@ -480,11 +485,6 @@
             "domain_name": "grovearcade.com",
             "destination": "Kinsta",
             "date": "2025-02-08 20:08:16"
-        },
-        {
-            "domain_name": "www.demseymd.ca",
-            "destination": "Kinsta",
-            "date": "2025-02-08 20:01:19"
         },
         {
             "domain_name": "www.oncalladvantage.com",
@@ -648,13 +648,13 @@
         "2025-02-10": "44604"
     },
     "topDestinationHosts": {
-        "Pressable": 8038,
+        "Pressable": 8039,
         "Bluehost": 3712,
         "Kinsta": 2784,
         "Digital Ocean": 2748,
-        "SiteGround": 2426,
+        "SiteGround": 2427,
         "Hostinger": 1544,
-        "GoDaddy": 753,
+        "GoDaddy": 754,
         "BigScoots": 348,
         "Liquid Web": 276,
         "GridPane": 242,
