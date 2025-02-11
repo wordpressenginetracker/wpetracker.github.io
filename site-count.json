@@ -1,10 +1,15 @@
 {
-    "siteCount": 44632,
+    "siteCount": 44637,
     "recentlyMoved": [
         {
             "domain_name": "www.thehsateam.com",
             "destination": "Hostinger",
             "date": "2025-02-11 02:17:47"
+        },
+        {
+            "domain_name": "utahsbesthomepros.com",
+            "destination": "Bluehost",
+            "date": "2025-02-11 02:10:38"
         },
         {
             "domain_name": "altruisticac.com",
@@ -495,11 +500,6 @@
             "domain_name": "theproductivityexperts.com",
             "destination": "Bluehost",
             "date": "2025-02-08 17:45:22"
-        },
-        {
-            "domain_name": "www.rklhomeinspections.com",
-            "destination": "Pressable",
-            "date": "2025-02-08 17:11:46"
         }
     ],
     "dailyMovedStat": {
@@ -649,7 +649,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8034,
-        "Bluehost": 3711,
+        "Bluehost": 3712,
         "Kinsta": 2783,
         "Digital Ocean": 2747,
         "SiteGround": 2423,
