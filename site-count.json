@@ -1,6 +1,11 @@
 {
-    "siteCount": 44627,
+    "siteCount": 44632,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thehsateam.com",
+            "destination": "Hostinger",
+            "date": "2025-02-11 02:17:47"
+        },
         {
             "domain_name": "altruisticac.com",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-02-08 18:03:19"
         },
         {
-            "domain_name": "lifeinharmonycounseling.com",
-            "destination": "SiteGround",
-            "date": "2025-02-08 17:53:58"
-        },
-        {
             "domain_name": "maimo.org",
             "destination": "Kinsta",
             "date": "2025-02-08 17:52:28"
@@ -653,7 +653,7 @@
         "Kinsta": 2783,
         "Digital Ocean": 2747,
         "SiteGround": 2423,
-        "Hostinger": 1543,
+        "Hostinger": 1544,
         "GoDaddy": 753,
         "BigScoots": 348,
         "Liquid Web": 276,
