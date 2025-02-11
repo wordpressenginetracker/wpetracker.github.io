@@ -1,6 +1,26 @@
 {
-    "siteCount": 44657,
+    "siteCount": 44665,
     "recentlyMoved": [
+        {
+            "domain_name": "drjohnringodds.com",
+            "destination": "Pressable",
+            "date": "2025-02-11 06:15:45"
+        },
+        {
+            "domain_name": "www.topshop.ch",
+            "destination": "Hetzner Online",
+            "date": "2025-02-11 05:59:44"
+        },
+        {
+            "domain_name": "ysbrantsz.nl",
+            "destination": "SiteGround",
+            "date": "2025-02-11 05:57:33"
+        },
+        {
+            "domain_name": "dandevsenterprise.com",
+            "destination": "SiteGround",
+            "date": "2025-02-11 05:38:18"
+        },
         {
             "domain_name": "joa-interior.be",
             "destination": "OVH",
@@ -457,11 +477,6 @@
             "date": "2025-02-08 20:08:16"
         },
         {
-            "domain_name": "pinoncourt.com",
-            "destination": "Hostinger",
-            "date": "2025-02-08 20:04:49"
-        },
-        {
             "domain_name": "www.demseymd.ca",
             "destination": "Kinsta",
             "date": "2025-02-08 20:01:19"
@@ -469,11 +484,6 @@
         {
             "domain_name": "charlenescuisine.com",
             "destination": "Bluehost",
-            "date": "2025-02-08 20:00:27"
-        },
-        {
-            "domain_name": "www.charlottemedicalaesthetics.com",
-            "destination": "Kinsta",
             "date": "2025-02-08 20:00:27"
         },
         {
@@ -485,16 +495,6 @@
             "domain_name": "artistalleycondos.com",
             "destination": "DreamHost",
             "date": "2025-02-08 19:47:55"
-        },
-        {
-            "domain_name": "www.apexvisionslc.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 19:45:38"
-        },
-        {
-            "domain_name": "www.aesyracuse.com",
-            "destination": "Kinsta",
-            "date": "2025-02-08 19:44:18"
         },
         {
             "domain_name": "www.veinspecialistsocala.com",
@@ -648,11 +648,11 @@
         "2025-02-10": "44604"
     },
     "topDestinationHosts": {
-        "Pressable": 8037,
+        "Pressable": 8038,
         "Bluehost": 3712,
         "Kinsta": 2784,
         "Digital Ocean": 2748,
-        "SiteGround": 2423,
+        "SiteGround": 2425,
         "Hostinger": 1544,
         "GoDaddy": 753,
         "BigScoots": 348,
@@ -666,7 +666,7 @@
         "Wordify": 152,
         "A2 Hosting": 144,
         "Namecheap": 128,
-        "Hetzner Online": 120,
+        "Hetzner Online": 121,
         "DreamHost": 116
     },
     "dailyTotalStat": {
