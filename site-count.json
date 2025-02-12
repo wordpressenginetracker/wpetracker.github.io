@@ -1,6 +1,21 @@
 {
-    "siteCount": 45330,
+    "siteCount": 45345,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thepitchingacademy.com",
+            "destination": "SiteGround",
+            "date": "2025-02-12 22:03:21"
+        },
+        {
+            "domain_name": "millionofstitches.com",
+            "destination": "Hostinger",
+            "date": "2025-02-12 21:50:23"
+        },
+        {
+            "domain_name": "lustreme.com.au",
+            "destination": "SiteGround",
+            "date": "2025-02-12 21:37:56"
+        },
         {
             "domain_name": "snsgroup.net",
             "destination": "Pressable",
@@ -10,6 +25,11 @@
             "domain_name": "safeuv.com",
             "destination": "BigScoots",
             "date": "2025-02-12 21:02:50"
+        },
+        {
+            "domain_name": "sportsdoc915.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 20:58:44"
         },
         {
             "domain_name": "rushcreekcreations.com",
@@ -447,16 +467,6 @@
             "date": "2025-02-12 14:01:35"
         },
         {
-            "domain_name": "consultspringboard.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-12 13:59:02"
-        },
-        {
-            "domain_name": "www.pknpk.com",
-            "destination": "BigScoots",
-            "date": "2025-02-12 13:58:49"
-        },
-        {
             "domain_name": "thekingofcovers.com",
             "destination": "SiteGround",
             "date": "2025-02-12 13:55:15"
@@ -480,16 +490,6 @@
             "domain_name": "www.vanairsystems.com",
             "destination": "BigScoots",
             "date": "2025-02-12 13:43:34"
-        },
-        {
-            "domain_name": "stephaniesidotiphotography.com",
-            "destination": "Bluehost",
-            "date": "2025-02-12 13:41:35"
-        },
-        {
-            "domain_name": "coronavision.net",
-            "destination": "SiteGround",
-            "date": "2025-02-12 13:37:52"
         },
         {
             "domain_name": "theaaagroup.com",
@@ -649,11 +649,11 @@
         "2025-02-11": "44944"
     },
     "topDestinationHosts": {
-        "Pressable": 8084,
+        "Pressable": 8085,
         "Bluehost": 3717,
-        "Kinsta": 2845,
+        "Kinsta": 2846,
         "Digital Ocean": 2780,
-        "SiteGround": 2462,
+        "SiteGround": 2464,
         "Hostinger": 1568,
         "GoDaddy": 764,
         "BigScoots": 362,
@@ -667,8 +667,8 @@
         "Wordify": 152,
         "A2 Hosting": 146,
         "Namecheap": 131,
-        "DreamHost": 121,
-        "Hetzner Online": 121
+        "Hetzner Online": 121,
+        "DreamHost": 121
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
