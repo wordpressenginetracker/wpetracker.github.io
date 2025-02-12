@@ -1,6 +1,21 @@
 {
-    "siteCount": 44944,
+    "siteCount": 44951,
     "recentlyMoved": [
+        {
+            "domain_name": "appliancerepairsoutherncalifornia.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-12 00:11:00"
+        },
+        {
+            "domain_name": "alicanto.org",
+            "destination": "Hostinger",
+            "date": "2025-02-12 00:00:03"
+        },
+        {
+            "domain_name": "wbfd.org",
+            "destination": "Pressable",
+            "date": "2025-02-11 23:21:34"
+        },
         {
             "domain_name": "michellesfox.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "dandevsenterprise.com",
             "destination": "SiteGround",
             "date": "2025-02-11 05:38:18"
-        },
-        {
-            "domain_name": "joa-interior.be",
-            "destination": "OVH",
-            "date": "2025-02-11 05:28:46"
-        },
-        {
-            "domain_name": "avedalasvegas.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-11 04:11:37"
-        },
-        {
-            "domain_name": "www.barryrobinson.org",
-            "destination": "Kinsta",
-            "date": "2025-02-11 04:08:59"
         }
     ],
     "dailyMovedStat": {
@@ -649,13 +649,13 @@
         "2025-02-11": "44944"
     },
     "topDestinationHosts": {
-        "Pressable": 8063,
+        "Pressable": 8064,
         "Bluehost": 3714,
         "Kinsta": 2801,
         "Digital Ocean": 2761,
         "SiteGround": 2439,
-        "Hostinger": 1552,
-        "GoDaddy": 758,
+        "Hostinger": 1553,
+        "GoDaddy": 759,
         "BigScoots": 351,
         "Liquid Web": 276,
         "GridPane": 242,
