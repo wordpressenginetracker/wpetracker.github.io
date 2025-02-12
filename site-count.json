@@ -1,6 +1,26 @@
 {
-    "siteCount": 45006,
+    "siteCount": 45023,
     "recentlyMoved": [
+        {
+            "domain_name": "pulaskidems.org",
+            "destination": "Kinsta",
+            "date": "2025-02-12 08:47:42"
+        },
+        {
+            "domain_name": "hcwellnessgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 08:32:29"
+        },
+        {
+            "domain_name": "ohanacounselingandwellness.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 07:29:31"
+        },
+        {
+            "domain_name": "nutrilillyherbs.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 07:19:28"
+        },
         {
             "domain_name": "vak-delft.nl",
             "destination": "SiteGround",
@@ -467,34 +487,14 @@
             "date": "2025-02-11 13:03:37"
         },
         {
-            "domain_name": "bluedream.com",
-            "destination": "Hostinger",
-            "date": "2025-02-11 13:01:13"
-        },
-        {
             "domain_name": "southparkmagazine.com",
             "destination": "Pressable",
             "date": "2025-02-11 13:00:53"
         },
         {
-            "domain_name": "www.fondation-maeght.com",
-            "destination": "OVH",
-            "date": "2025-02-11 12:56:38"
-        },
-        {
             "domain_name": "saultfitness.com",
             "destination": "Pressable",
             "date": "2025-02-11 12:45:29"
-        },
-        {
-            "domain_name": "reikiacademie.com",
-            "destination": "Hostinger",
-            "date": "2025-02-11 12:42:25"
-        },
-        {
-            "domain_name": "awt.us.com",
-            "destination": "BigScoots",
-            "date": "2025-02-11 12:31:51"
         },
         {
             "domain_name": "roninfitnessofrichardson.com",
@@ -651,7 +651,7 @@
     "topDestinationHosts": {
         "Pressable": 8065,
         "Bluehost": 3714,
-        "Kinsta": 2811,
+        "Kinsta": 2813,
         "Digital Ocean": 2763,
         "SiteGround": 2442,
         "Hostinger": 1553,
