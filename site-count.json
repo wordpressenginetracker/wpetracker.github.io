@@ -1,10 +1,25 @@
 {
-    "siteCount": 45247,
+    "siteCount": 45256,
     "recentlyMoved": [
+        {
+            "domain_name": "nationalaglawcenter.org",
+            "destination": "GoDaddy",
+            "date": "2025-02-12 19:01:49"
+        },
+        {
+            "domain_name": "vcitalia.com",
+            "destination": "SiteGround",
+            "date": "2025-02-12 18:47:38"
+        },
         {
             "domain_name": "drmotakis.com",
             "destination": "Kinsta",
             "date": "2025-02-12 18:40:59"
+        },
+        {
+            "domain_name": "no-aesthetics.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 18:31:26"
         },
         {
             "domain_name": "depotstyle.be",
@@ -15,6 +30,11 @@
             "domain_name": "www.visionandjourney.com",
             "destination": "OVH",
             "date": "2025-02-12 18:24:14"
+        },
+        {
+            "domain_name": "elkinsrandolphwv.com",
+            "destination": "DreamHost",
+            "date": "2025-02-12 18:21:34"
         },
         {
             "domain_name": "edsilvactrealestate.com",
@@ -45,6 +65,11 @@
             "domain_name": "www.thetintshop2.com",
             "destination": "SiteGround",
             "date": "2025-02-12 17:59:35"
+        },
+        {
+            "domain_name": "monumentstudio.co",
+            "destination": "Digital Ocean",
+            "date": "2025-02-12 17:59:07"
         },
         {
             "domain_name": "dstyle.be",
@@ -457,11 +482,6 @@
             "date": "2025-02-12 13:07:40"
         },
         {
-            "domain_name": "resiliencecounselingandconsulting.com",
-            "destination": "Kinsta",
-            "date": "2025-02-12 12:59:59"
-        },
-        {
             "domain_name": "christianevents.guide",
             "destination": "Digital Ocean",
             "date": "2025-02-12 12:55:05"
@@ -472,29 +492,9 @@
             "date": "2025-02-12 12:51:16"
         },
         {
-            "domain_name": "bldistributing.net",
-            "destination": "Pressable",
-            "date": "2025-02-12 12:41:01"
-        },
-        {
             "domain_name": "inverleithdentalcare.co.uk",
             "destination": "IONOS",
             "date": "2025-02-12 12:34:17"
-        },
-        {
-            "domain_name": "healfeet.ca",
-            "destination": "Hostinger",
-            "date": "2025-02-12 12:31:19"
-        },
-        {
-            "domain_name": "riversofhopecounseling.com",
-            "destination": "Kinsta",
-            "date": "2025-02-12 12:28:09"
-        },
-        {
-            "domain_name": "hurenindelanscroon.nl",
-            "destination": "SiteGround",
-            "date": "2025-02-12 12:20:54"
         },
         {
             "domain_name": "boldwealthmanagement.com",
@@ -651,11 +651,11 @@
     "topDestinationHosts": {
         "Pressable": 8083,
         "Bluehost": 3717,
-        "Kinsta": 2842,
-        "Digital Ocean": 2778,
-        "SiteGround": 2458,
+        "Kinsta": 2843,
+        "Digital Ocean": 2779,
+        "SiteGround": 2459,
         "Hostinger": 1564,
-        "GoDaddy": 763,
+        "GoDaddy": 764,
         "BigScoots": 361,
         "Liquid Web": 277,
         "GridPane": 242,
@@ -667,8 +667,8 @@
         "Wordify": 152,
         "A2 Hosting": 146,
         "Namecheap": 131,
-        "Hetzner Online": 121,
-        "DreamHost": 120
+        "DreamHost": 121,
+        "Hetzner Online": 121
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
