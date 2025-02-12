@@ -1,6 +1,11 @@
 {
-    "siteCount": 45050,
+    "siteCount": 45055,
     "recentlyMoved": [
+        {
+            "domain_name": "myfamilyestateplanning.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 10:45:47"
+        },
         {
             "domain_name": "www.servicedoctor.net",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-02-11 14:19:44"
         },
         {
-            "domain_name": "ealivefully.com",
-            "destination": "Pressable",
-            "date": "2025-02-11 14:04:43"
-        },
-        {
             "domain_name": "mmmpod.net",
             "destination": "WordPress.com",
             "date": "2025-02-11 13:56:57"
@@ -651,7 +651,7 @@
     "topDestinationHosts": {
         "Pressable": 8067,
         "Bluehost": 3714,
-        "Kinsta": 2817,
+        "Kinsta": 2818,
         "Digital Ocean": 2765,
         "SiteGround": 2442,
         "Hostinger": 1553,
