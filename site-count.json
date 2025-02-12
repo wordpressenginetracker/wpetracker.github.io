@@ -1,6 +1,16 @@
 {
-    "siteCount": 45345,
+    "siteCount": 45348,
     "recentlyMoved": [
+        {
+            "domain_name": "tucsonaccura.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 22:57:54"
+        },
+        {
+            "domain_name": "nescompany.com",
+            "destination": "Kinsta",
+            "date": "2025-02-12 22:15:37"
+        },
         {
             "domain_name": "www.thepitchingacademy.com",
             "destination": "SiteGround",
@@ -472,11 +482,6 @@
             "date": "2025-02-12 13:55:15"
         },
         {
-            "domain_name": "cssi.com",
-            "destination": "Kinsta",
-            "date": "2025-02-12 13:52:11"
-        },
-        {
             "domain_name": "meritusrecruiting.com",
             "destination": "DreamHost",
             "date": "2025-02-12 13:51:12"
@@ -495,11 +500,6 @@
             "domain_name": "theaaagroup.com",
             "destination": "Hostinger",
             "date": "2025-02-12 13:35:42"
-        },
-        {
-            "domain_name": "www.stormbowlinggear.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-12 13:30:33"
         }
     ],
     "dailyMovedStat": {
@@ -646,15 +646,16 @@
         "2025-02-08": "44336",
         "2025-02-09": "44458",
         "2025-02-10": "44604",
-        "2025-02-11": "44944"
+        "2025-02-11": "44944",
+        "2025-02-12": "45348"
     },
     "topDestinationHosts": {
         "Pressable": 8085,
         "Bluehost": 3717,
-        "Kinsta": 2846,
+        "Kinsta": 2848,
         "Digital Ocean": 2780,
         "SiteGround": 2464,
-        "Hostinger": 1568,
+        "Hostinger": 1569,
         "GoDaddy": 764,
         "BigScoots": 362,
         "Liquid Web": 278,
@@ -814,6 +815,7 @@
         "2025-02-08": "668510",
         "2025-02-09": "668561",
         "2025-02-10": "668007",
-        "2025-02-11": "667450"
+        "2025-02-11": "667450",
+        "2025-02-12": "666532"
     }
 }
