@@ -1,6 +1,11 @@
 {
-    "siteCount": 45680,
+    "siteCount": 45683,
     "recentlyMoved": [
+        {
+            "domain_name": "nodoorsteptax.com",
+            "destination": "Pressable",
+            "date": "2025-02-13 22:42:02"
+        },
         {
             "domain_name": "destinysspiritartistry.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "nescompany.com",
             "destination": "Kinsta",
             "date": "2025-02-12 22:15:37"
-        },
-        {
-            "domain_name": "millionofstitches.com",
-            "destination": "Hostinger",
-            "date": "2025-02-12 21:50:23"
         }
     ],
     "dailyMovedStat": {
@@ -647,10 +647,11 @@
         "2025-02-09": "44458",
         "2025-02-10": "44604",
         "2025-02-11": "44944",
-        "2025-02-12": "45348"
+        "2025-02-12": "45348",
+        "2025-02-13": "45683"
     },
     "topDestinationHosts": {
-        "Pressable": 8097,
+        "Pressable": 8098,
         "Bluehost": 3719,
         "Kinsta": 2865,
         "Digital Ocean": 2794,
@@ -816,6 +817,7 @@
         "2025-02-09": "668561",
         "2025-02-10": "668007",
         "2025-02-11": "667450",
-        "2025-02-12": "666532"
+        "2025-02-12": "666532",
+        "2025-02-13": "666044"
     }
 }
