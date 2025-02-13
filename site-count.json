@@ -1,5 +1,5 @@
 {
-    "siteCount": 45573,
+    "siteCount": 45578,
     "recentlyMoved": [
         {
             "domain_name": "dugutigimali.com",
@@ -20,6 +20,11 @@
             "domain_name": "www.theveincenter.us",
             "destination": "Kinsta",
             "date": "2025-02-13 18:19:44"
+        },
+        {
+            "domain_name": "energyzerbackrest.com",
+            "destination": "Kinsta",
+            "date": "2025-02-13 18:12:24"
         },
         {
             "domain_name": "colabpensacola.com",
@@ -495,11 +500,6 @@
             "domain_name": "dstyle.be",
             "destination": "Hostinger",
             "date": "2025-02-12 17:58:01"
-        },
-        {
-            "domain_name": "thesmartclinic.com",
-            "destination": "SiteGround",
-            "date": "2025-02-12 17:46:17"
         }
     ],
     "dailyMovedStat": {
@@ -652,10 +652,10 @@
     "topDestinationHosts": {
         "Pressable": 8092,
         "Bluehost": 3719,
-        "Kinsta": 2858,
+        "Kinsta": 2860,
         "Digital Ocean": 2791,
         "SiteGround": 2477,
-        "Hostinger": 1575,
+        "Hostinger": 1576,
         "GoDaddy": 768,
         "BigScoots": 363,
         "Liquid Web": 281,
