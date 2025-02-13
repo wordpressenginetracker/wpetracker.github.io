@@ -1,6 +1,11 @@
 {
-    "siteCount": 45507,
+    "siteCount": 45512,
     "recentlyMoved": [
+        {
+            "domain_name": "mswmedia.com",
+            "destination": "Kinsta",
+            "date": "2025-02-13 14:24:12"
+        },
         {
             "domain_name": "thronedepot.com",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "www.talaricoplumbing.com",
             "destination": "Pressable",
             "date": "2025-02-13 14:06:47"
+        },
+        {
+            "domain_name": "trinitychurchmn.com",
+            "destination": "Kinsta",
+            "date": "2025-02-13 13:59:11"
         },
         {
             "domain_name": "texasradiology.com",
@@ -472,11 +482,6 @@
             "date": "2025-02-12 17:23:37"
         },
         {
-            "domain_name": "jimrayconsultingservices.com",
-            "destination": "Pressable",
-            "date": "2025-02-12 17:21:48"
-        },
-        {
             "domain_name": "corksandcheers.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-12 17:19:12"
@@ -495,11 +500,6 @@
             "domain_name": "kenzieelizabeth.co",
             "destination": "WordPress.com",
             "date": "2025-02-12 16:45:42"
-        },
-        {
-            "domain_name": "selfoodsales.com",
-            "destination": "Kinsta",
-            "date": "2025-02-12 16:33:48"
         }
     ],
     "dailyMovedStat": {
@@ -652,7 +652,7 @@
     "topDestinationHosts": {
         "Pressable": 8090,
         "Bluehost": 3718,
-        "Kinsta": 2852,
+        "Kinsta": 2854,
         "Digital Ocean": 2787,
         "SiteGround": 2476,
         "Hostinger": 1574,
@@ -666,7 +666,7 @@
         "IONOS": 174,
         "OVH": 164,
         "Wordify": 152,
-        "A2 Hosting": 146,
+        "A2 Hosting": 147,
         "Namecheap": 133,
         "Hetzner Online": 123,
         "DreamHost": 122
