@@ -1,6 +1,11 @@
 {
-    "siteCount": 45696,
+    "siteCount": 45701,
     "recentlyMoved": [
+        {
+            "domain_name": "queensuniversitymedicalgroup.org",
+            "destination": "Pressable",
+            "date": "2025-02-14 00:34:15"
+        },
         {
             "domain_name": "policerecordsmanagement.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "psbindustries.com",
             "destination": "Digital Ocean",
             "date": "2025-02-13 00:32:42"
-        },
-        {
-            "domain_name": "ansrs.ai",
-            "destination": "SiteGround",
-            "date": "2025-02-12 23:52:22"
         }
     ],
     "dailyMovedStat": {
@@ -651,7 +651,7 @@
         "2025-02-13": "45683"
     },
     "topDestinationHosts": {
-        "Pressable": 8099,
+        "Pressable": 8100,
         "Bluehost": 3720,
         "Kinsta": 2866,
         "Digital Ocean": 2795,
