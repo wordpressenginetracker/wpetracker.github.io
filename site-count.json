@@ -1,6 +1,21 @@
 {
-    "siteCount": 45844,
+    "siteCount": 45853,
     "recentlyMoved": [
+        {
+            "domain_name": "newbodyfitnessbridport.co.uk",
+            "destination": "A2 Hosting",
+            "date": "2025-02-14 14:49:22"
+        },
+        {
+            "domain_name": "new-body.co.uk",
+            "destination": "A2 Hosting",
+            "date": "2025-02-14 14:49:22"
+        },
+        {
+            "domain_name": "veinandvascularcenters.com",
+            "destination": "Kinsta",
+            "date": "2025-02-14 14:26:13"
+        },
         {
             "domain_name": "tradesureinsurance.co.uk",
             "destination": "Krystal Hosting",
@@ -482,24 +497,9 @@
             "date": "2025-02-13 15:56:32"
         },
         {
-            "domain_name": "agrtq.qc.ca",
-            "destination": "OVH",
-            "date": "2025-02-13 15:47:54"
-        },
-        {
-            "domain_name": "gopaschal.com",
-            "destination": "Kinsta",
-            "date": "2025-02-13 15:40:10"
-        },
-        {
             "domain_name": "www.designfive.com",
             "destination": "Pressable",
             "date": "2025-02-13 15:39:51"
-        },
-        {
-            "domain_name": "accuworks.com",
-            "destination": "OVH",
-            "date": "2025-02-13 15:28:05"
         }
     ],
     "dailyMovedStat": {
@@ -653,7 +653,7 @@
     "topDestinationHosts": {
         "Pressable": 8105,
         "Bluehost": 3720,
-        "Kinsta": 2870,
+        "Kinsta": 2871,
         "Digital Ocean": 2807,
         "SiteGround": 2488,
         "Hostinger": 1588,
@@ -667,7 +667,7 @@
         "IONOS": 175,
         "OVH": 167,
         "Wordify": 152,
-        "A2 Hosting": 149,
+        "A2 Hosting": 151,
         "Namecheap": 134,
         "Hetzner Online": 123,
         "DreamHost": 123
