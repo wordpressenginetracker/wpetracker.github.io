@@ -1,6 +1,11 @@
 {
-    "siteCount": 46046,
+    "siteCount": 46049,
     "recentlyMoved": [
+        {
+            "domain_name": "verdeglobalcorporation.com",
+            "destination": "SiteGround",
+            "date": "2025-02-14 22:26:14"
+        },
         {
             "domain_name": "www.raniplasticsurgery.com",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-02-14 08:28:54"
         },
         {
-            "domain_name": "www.12bagger.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-14 08:21:08"
-        },
-        {
             "domain_name": "www.brunswickstaff.com",
             "destination": "WordPress VIP",
             "date": "2025-02-14 07:59:32"
@@ -648,14 +648,15 @@
         "2025-02-10": "44604",
         "2025-02-11": "44944",
         "2025-02-12": "45348",
-        "2025-02-13": "45683"
+        "2025-02-13": "45683",
+        "2025-02-14": "46049"
     },
     "topDestinationHosts": {
         "Pressable": 8116,
         "Bluehost": 3722,
         "Kinsta": 2881,
         "Digital Ocean": 2813,
-        "SiteGround": 2498,
+        "SiteGround": 2499,
         "Hostinger": 1590,
         "GoDaddy": 774,
         "BigScoots": 365,
@@ -818,6 +819,7 @@
         "2025-02-10": "668007",
         "2025-02-11": "667450",
         "2025-02-12": "666532",
-        "2025-02-13": "666044"
+        "2025-02-13": "666044",
+        "2025-02-14": "665532"
     }
 }
