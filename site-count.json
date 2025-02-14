@@ -1,6 +1,11 @@
 {
-    "siteCount": 45714,
+    "siteCount": 45717,
     "recentlyMoved": [
+        {
+            "domain_name": "jemeducate.com",
+            "destination": "Pressable",
+            "date": "2025-02-14 04:30:48"
+        },
         {
             "domain_name": "atmos.earth",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "crestonfirstumc.org",
             "destination": "SiteGround",
             "date": "2025-02-13 01:21:42"
-        },
-        {
-            "domain_name": "kimwozencraft.com",
-            "destination": "SiteGround",
-            "date": "2025-02-13 01:20:46"
         }
     ],
     "dailyMovedStat": {
@@ -651,7 +651,7 @@
         "2025-02-13": "45683"
     },
     "topDestinationHosts": {
-        "Pressable": 8100,
+        "Pressable": 8101,
         "Bluehost": 3720,
         "Kinsta": 2867,
         "Digital Ocean": 2795,
