@@ -1,6 +1,11 @@
 {
-    "siteCount": 46071,
+    "siteCount": 46073,
     "recentlyMoved": [
+        {
+            "domain_name": "naomipwashington.com",
+            "destination": "Bluehost",
+            "date": "2025-02-15 02:23:46"
+        },
         {
             "domain_name": "trolleypub.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "dillonelectrical.com",
             "destination": "Digital Ocean",
             "date": "2025-02-14 09:42:52"
-        },
-        {
-            "domain_name": "legacymaconsulting.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-14 09:21:07"
         }
     ],
     "dailyMovedStat": {
@@ -653,10 +653,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 8118,
-        "Bluehost": 3723,
+        "Bluehost": 3724,
         "Kinsta": 2881,
         "Digital Ocean": 2814,
-        "SiteGround": 2499,
+        "SiteGround": 2500,
         "Hostinger": 1591,
         "GoDaddy": 775,
         "BigScoots": 365,
