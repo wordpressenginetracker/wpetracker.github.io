@@ -1,6 +1,46 @@
 {
-    "siteCount": 46262,
+    "siteCount": 46325,
     "recentlyMoved": [
+        {
+            "domain_name": "quickrn.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-15 20:39:33"
+        },
+        {
+            "domain_name": "galataministries.org",
+            "destination": "DreamHost",
+            "date": "2025-02-15 20:16:25"
+        },
+        {
+            "domain_name": "wilsonlawgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-02-15 20:10:11"
+        },
+        {
+            "domain_name": "grahambehavior.com",
+            "destination": "Kinsta",
+            "date": "2025-02-15 19:53:45"
+        },
+        {
+            "domain_name": "fwiwa.com",
+            "destination": "A2 Hosting",
+            "date": "2025-02-15 19:47:03"
+        },
+        {
+            "domain_name": "greatcitymedical.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-15 19:41:58"
+        },
+        {
+            "domain_name": "opalpa.org",
+            "destination": "Digital Ocean",
+            "date": "2025-02-15 19:26:23"
+        },
+        {
+            "domain_name": "fortressfloorsmi.com",
+            "destination": "SiteGround",
+            "date": "2025-02-15 19:22:17"
+        },
         {
             "domain_name": "thrive.grahambehavior.com",
             "destination": "Kinsta",
@@ -457,49 +497,9 @@
             "date": "2025-02-14 20:09:23"
         },
         {
-            "domain_name": "pi.training",
-            "destination": "SiteGround",
-            "date": "2025-02-14 19:59:19"
-        },
-        {
             "domain_name": "growyourownthoughts.org",
             "destination": "InMotion Hosting",
             "date": "2025-02-14 19:53:22"
-        },
-        {
-            "domain_name": "abledevice.com",
-            "destination": "Namecheap",
-            "date": "2025-02-14 19:39:11"
-        },
-        {
-            "domain_name": "fennellpurifoy.com",
-            "destination": "SiteGround",
-            "date": "2025-02-14 19:29:37"
-        },
-        {
-            "domain_name": "feelbeautiful.com",
-            "destination": "HostGator",
-            "date": "2025-02-14 19:29:37"
-        },
-        {
-            "domain_name": "ocaaspire.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-02-14 19:28:07"
-        },
-        {
-            "domain_name": "newsouthconstruction.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-14 19:00:11"
-        },
-        {
-            "domain_name": "eoc.mfgsupplychain.org",
-            "destination": "Pressable",
-            "date": "2025-02-14 18:49:53"
-        },
-        {
-            "domain_name": "miravieseniorliving.com",
-            "destination": "OVH",
-            "date": "2025-02-14 17:58:04"
         }
     ],
     "dailyMovedStat": {
@@ -653,11 +653,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 8134,
-        "Bluehost": 3725,
-        "Kinsta": 2883,
-        "Digital Ocean": 2820,
-        "SiteGround": 2511,
-        "Hostinger": 1598,
+        "Bluehost": 3726,
+        "Kinsta": 2885,
+        "Digital Ocean": 2822,
+        "SiteGround": 2513,
+        "Hostinger": 1599,
         "GoDaddy": 780,
         "BigScoots": 366,
         "Liquid Web": 284,
@@ -665,13 +665,13 @@
         "GridPane": 244,
         "WordPress.com": 208,
         "InMotion Hosting": 192,
-        "IONOS": 176,
+        "IONOS": 177,
         "OVH": 168,
-        "A2 Hosting": 155,
+        "A2 Hosting": 156,
         "Wordify": 152,
         "Namecheap": 135,
-        "Hetzner Online": 124,
-        "DreamHost": 123
+        "DreamHost": 125,
+        "Hetzner Online": 124
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
