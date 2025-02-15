@@ -1,10 +1,15 @@
 {
-    "siteCount": 46119,
+    "siteCount": 46121,
     "recentlyMoved": [
         {
             "domain_name": "mebetting.com",
             "destination": "Digital Ocean",
             "date": "2025-02-15 10:25:42"
+        },
+        {
+            "domain_name": "vabetting.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-15 10:15:34"
         },
         {
             "domain_name": "crossfithouma.com",
@@ -495,11 +500,6 @@
             "domain_name": "ksbetting.com",
             "destination": "Digital Ocean",
             "date": "2025-02-14 12:55:43"
-        },
-        {
-            "domain_name": "catchlandandsea.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-14 12:37:24"
         }
     ],
     "dailyMovedStat": {
@@ -655,7 +655,7 @@
         "Pressable": 8124,
         "Bluehost": 3724,
         "Kinsta": 2881,
-        "Digital Ocean": 2817,
+        "Digital Ocean": 2818,
         "SiteGround": 2503,
         "Hostinger": 1593,
         "GoDaddy": 776,
