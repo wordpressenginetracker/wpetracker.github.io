@@ -1,6 +1,21 @@
 {
-    "siteCount": 46452,
+    "siteCount": 46458,
     "recentlyMoved": [
+        {
+            "domain_name": "theparentlink.org",
+            "destination": "Kinsta",
+            "date": "2025-02-16 22:19:14"
+        },
+        {
+            "domain_name": "mezzoly.com",
+            "destination": "Bluehost",
+            "date": "2025-02-16 21:41:32"
+        },
+        {
+            "domain_name": "stellarsmart.com",
+            "destination": "Kinsta",
+            "date": "2025-02-16 21:20:57"
+        },
         {
             "domain_name": "rmarketingdept.com",
             "destination": "Kinsta",
@@ -472,11 +487,6 @@
             "date": "2025-02-15 05:10:51"
         },
         {
-            "domain_name": "www.hammerbowlinggear.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-15 05:09:37"
-        },
-        {
             "domain_name": "seoreadytemplates.com",
             "destination": "SiteGround",
             "date": "2025-02-15 05:08:38"
@@ -487,19 +497,9 @@
             "date": "2025-02-15 05:08:17"
         },
         {
-            "domain_name": "jacobgreenandassociates.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 04:57:51"
-        },
-        {
             "domain_name": "ccapfunding.com",
             "destination": "Pressable",
             "date": "2025-02-15 04:47:22"
-        },
-        {
-            "domain_name": "bookhelp.ro",
-            "destination": "SiteGround",
-            "date": "2025-02-15 04:30:58"
         }
     ],
     "dailyMovedStat": {
@@ -654,8 +654,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 8138,
-        "Bluehost": 3729,
-        "Kinsta": 2892,
+        "Bluehost": 3730,
+        "Kinsta": 2894,
         "Digital Ocean": 2825,
         "SiteGround": 2514,
         "Hostinger": 1606,
