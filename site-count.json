@@ -1,6 +1,26 @@
 {
-    "siteCount": 46405,
+    "siteCount": 46415,
     "recentlyMoved": [
+        {
+            "domain_name": "insightcounselingservice.com",
+            "destination": "Kinsta",
+            "date": "2025-02-16 18:05:20"
+        },
+        {
+            "domain_name": "malchetskes.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-16 17:56:42"
+        },
+        {
+            "domain_name": "measureuppdx.com",
+            "destination": "SiteGround",
+            "date": "2025-02-16 17:51:09"
+        },
+        {
+            "domain_name": "thesolepath.com",
+            "destination": "Kinsta",
+            "date": "2025-02-16 17:45:47"
+        },
         {
             "domain_name": "jaiguruji.com",
             "destination": "Bluehost",
@@ -477,29 +497,9 @@
             "date": "2025-02-15 04:21:08"
         },
         {
-            "domain_name": "amerykaonline.com",
-            "destination": "Hostinger",
-            "date": "2025-02-15 04:12:46"
-        },
-        {
             "domain_name": "andersonremodeling.com",
             "destination": "Pressable",
             "date": "2025-02-15 04:06:54"
-        },
-        {
-            "domain_name": "amykristoff.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 03:41:19"
-        },
-        {
-            "domain_name": "naomipwashington.com",
-            "destination": "Bluehost",
-            "date": "2025-02-15 02:23:46"
-        },
-        {
-            "domain_name": "trolleypub.com",
-            "destination": "SiteGround",
-            "date": "2025-02-15 02:16:47"
         }
     ],
     "dailyMovedStat": {
@@ -655,11 +655,11 @@
     "topDestinationHosts": {
         "Pressable": 8138,
         "Bluehost": 3729,
-        "Kinsta": 2888,
+        "Kinsta": 2889,
         "Digital Ocean": 2825,
-        "SiteGround": 2513,
+        "SiteGround": 2514,
         "Hostinger": 1606,
-        "GoDaddy": 781,
+        "GoDaddy": 782,
         "BigScoots": 366,
         "Liquid Web": 284,
         "Elementor Hosting": 252,
