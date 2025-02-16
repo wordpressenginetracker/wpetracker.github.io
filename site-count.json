@@ -1,6 +1,16 @@
 {
-    "siteCount": 46347,
+    "siteCount": 46353,
     "recentlyMoved": [
+        {
+            "domain_name": "angelicmaids.com",
+            "destination": "Hostinger",
+            "date": "2025-02-16 00:03:22"
+        },
+        {
+            "domain_name": "peak-psychology.com",
+            "destination": "Kinsta",
+            "date": "2025-02-15 23:53:47"
+        },
         {
             "domain_name": "mountainplumbingnh.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2025-02-14 21:26:16"
         },
         {
-            "domain_name": "www.lebli.org",
-            "destination": "Kinsta",
-            "date": "2025-02-14 21:17:39"
-        },
-        {
             "domain_name": "cleanenergy.mfgsupplychain.org",
             "destination": "Pressable",
             "date": "2025-02-14 20:58:33"
-        },
-        {
-            "domain_name": "shirleyolsenmd.com",
-            "destination": "Kinsta",
-            "date": "2025-02-14 20:43:27"
         }
     ],
     "dailyMovedStat": {
@@ -655,10 +655,10 @@
     "topDestinationHosts": {
         "Pressable": 8135,
         "Bluehost": 3726,
-        "Kinsta": 2886,
+        "Kinsta": 2887,
         "Digital Ocean": 2823,
         "SiteGround": 2513,
-        "Hostinger": 1603,
+        "Hostinger": 1604,
         "GoDaddy": 781,
         "BigScoots": 366,
         "Liquid Web": 284,
