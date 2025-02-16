@@ -1,6 +1,31 @@
 {
-    "siteCount": 46396,
+    "siteCount": 46405,
     "recentlyMoved": [
+        {
+            "domain_name": "jaiguruji.com",
+            "destination": "Bluehost",
+            "date": "2025-02-16 17:14:09"
+        },
+        {
+            "domain_name": "carrieleephoto.com",
+            "destination": "Bluehost",
+            "date": "2025-02-16 17:00:18"
+        },
+        {
+            "domain_name": "johnmillerinsurance.com",
+            "destination": "Kinsta",
+            "date": "2025-02-16 16:56:45"
+        },
+        {
+            "domain_name": "www.eastpeakresort.com",
+            "destination": "Bluehost",
+            "date": "2025-02-16 16:43:40"
+        },
+        {
+            "domain_name": "registrywest85th.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-16 16:03:46"
+        },
         {
             "domain_name": "bossorthodontics.com",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "trolleypub.com",
             "destination": "SiteGround",
             "date": "2025-02-15 02:16:47"
-        },
-        {
-            "domain_name": "brandsimple.io",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-15 00:44:26"
-        },
-        {
-            "domain_name": "canucksautism.ca",
-            "destination": "Pressable",
-            "date": "2025-02-15 00:33:55"
-        },
-        {
-            "domain_name": "bhepta.org",
-            "destination": "Bluehost",
-            "date": "2025-02-15 00:21:44"
-        },
-        {
-            "domain_name": "pariscorp.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 00:03:03"
-        },
-        {
-            "domain_name": "www.concreteopenings.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-14 23:57:45"
         }
     ],
     "dailyMovedStat": {
@@ -654,11 +654,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 8138,
-        "Bluehost": 3726,
-        "Kinsta": 2887,
+        "Bluehost": 3729,
+        "Kinsta": 2888,
         "Digital Ocean": 2825,
         "SiteGround": 2513,
-        "Hostinger": 1605,
+        "Hostinger": 1606,
         "GoDaddy": 781,
         "BigScoots": 366,
         "Liquid Web": 284,
