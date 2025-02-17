@@ -1,6 +1,11 @@
 {
-    "siteCount": 46598,
+    "siteCount": 46601,
     "recentlyMoved": [
+        {
+            "domain_name": "excellimousine.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-17 23:05:15"
+        },
         {
             "domain_name": "moiteur.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "pba.coolwick.com",
             "destination": "WordPress VIP",
             "date": "2025-02-15 15:46:28"
-        },
-        {
-            "domain_name": "palmerfoundry.com",
-            "destination": "Hostinger",
-            "date": "2025-02-15 15:45:26"
         }
     ],
     "dailyMovedStat": {
@@ -651,7 +651,8 @@
         "2025-02-13": "45683",
         "2025-02-14": "46049",
         "2025-02-15": "46347",
-        "2025-02-16": "46459"
+        "2025-02-16": "46459",
+        "2025-02-17": "46601"
     },
     "topDestinationHosts": {
         "Pressable": 8139,
@@ -659,7 +660,7 @@
         "Kinsta": 2897,
         "Digital Ocean": 2829,
         "SiteGround": 2517,
-        "Hostinger": 1615,
+        "Hostinger": 1616,
         "GoDaddy": 784,
         "BigScoots": 373,
         "Liquid Web": 285,
@@ -824,6 +825,7 @@
         "2025-02-13": "666044",
         "2025-02-14": "665532",
         "2025-02-15": "665153",
-        "2025-02-16": "665560"
+        "2025-02-16": "665560",
+        "2025-02-17": "664940"
     }
 }
