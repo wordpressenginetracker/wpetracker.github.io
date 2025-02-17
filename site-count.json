@@ -1,6 +1,21 @@
 {
-    "siteCount": 46539,
+    "siteCount": 46546,
     "recentlyMoved": [
+        {
+            "domain_name": "authorrichardpells.com",
+            "destination": "SiteGround",
+            "date": "2025-02-17 16:13:46"
+        },
+        {
+            "domain_name": "wildhorsesatalisal.com",
+            "destination": "BigScoots",
+            "date": "2025-02-17 15:55:39"
+        },
+        {
+            "domain_name": "arryr.org",
+            "destination": "Hostinger",
+            "date": "2025-02-17 15:48:46"
+        },
         {
             "domain_name": "www.virgilhawkins.org",
             "destination": "Pressable",
@@ -477,11 +492,6 @@
             "date": "2025-02-15 13:51:22"
         },
         {
-            "domain_name": "communitycaringcenter.com",
-            "destination": "Kinsta",
-            "date": "2025-02-15 13:42:38"
-        },
-        {
             "domain_name": "www.summit-academy.org",
             "destination": "Pressable",
             "date": "2025-02-15 13:41:02"
@@ -490,16 +500,6 @@
             "domain_name": "www.roofing-surrey.com",
             "destination": "IONOS",
             "date": "2025-02-15 13:31:25"
-        },
-        {
-            "domain_name": "kevin-macedo.be",
-            "destination": "Hostinger",
-            "date": "2025-02-15 13:31:09"
-        },
-        {
-            "domain_name": "www.john-west.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-02-15 12:39:02"
         }
     ],
     "dailyMovedStat": {
@@ -656,24 +656,23 @@
     "topDestinationHosts": {
         "Pressable": 8139,
         "Bluehost": 3732,
-        "Kinsta": 2897,
         "Digital Ocean": 2827,
         "SiteGround": 2514,
-        "Hostinger": 1610,
+        "Hostinger": 1579,
         "GoDaddy": 783,
-        "BigScoots": 368,
+        "BigScoots": 369,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
         "GridPane": 244,
         "WordPress.com": 208,
         "InMotion Hosting": 194,
-        "IONOS": 177,
         "OVH": 171,
         "A2 Hosting": 156,
         "Wordify": 152,
         "Namecheap": 135,
-        "Hetzner Online": 126,
-        "DreamHost": 126
+        "DreamHost": 126,
+        "WordPress VIP": 57,
+        "HostPress": 3
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
