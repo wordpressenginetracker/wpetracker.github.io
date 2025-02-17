@@ -1,6 +1,21 @@
 {
-    "siteCount": 46513,
+    "siteCount": 46524,
     "recentlyMoved": [
+        {
+            "domain_name": "polaraidhealth.com",
+            "destination": "Hostinger",
+            "date": "2025-02-17 12:12:53"
+        },
+        {
+            "domain_name": "polaraidhealth-global.com",
+            "destination": "Hostinger",
+            "date": "2025-02-17 12:12:53"
+        },
+        {
+            "domain_name": "www.1866hirejoe.com",
+            "destination": "Kinsta",
+            "date": "2025-02-17 11:41:03"
+        },
         {
             "domain_name": "durhamgetandgo.com",
             "destination": "InMotion Hosting",
@@ -472,16 +487,6 @@
             "date": "2025-02-15 12:39:02"
         },
         {
-            "domain_name": "rajdasbhaumik.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-15 12:34:41"
-        },
-        {
-            "domain_name": "americanmetalcraft.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-15 12:28:02"
-        },
-        {
             "domain_name": "hmzremodel.com",
             "destination": "HostGator",
             "date": "2025-02-15 12:23:52"
@@ -495,11 +500,6 @@
             "domain_name": "heygirl.in",
             "destination": "Hetzner Online",
             "date": "2025-02-15 12:16:58"
-        },
-        {
-            "domain_name": "frontrow.uk.com",
-            "destination": "Krystal Hosting",
-            "date": "2025-02-15 11:30:57"
         }
     ],
     "dailyMovedStat": {
@@ -656,10 +656,10 @@
     "topDestinationHosts": {
         "Pressable": 8138,
         "Bluehost": 3732,
-        "Kinsta": 2896,
+        "Kinsta": 2897,
         "Digital Ocean": 2825,
         "SiteGround": 2514,
-        "Hostinger": 1607,
+        "Hostinger": 1609,
         "GoDaddy": 783,
         "BigScoots": 368,
         "Liquid Web": 285,
