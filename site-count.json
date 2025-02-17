@@ -1,6 +1,21 @@
 {
-    "siteCount": 46561,
+    "siteCount": 46591,
     "recentlyMoved": [
+        {
+            "domain_name": "aheadcatering.com",
+            "destination": "Hostinger",
+            "date": "2025-02-17 19:57:33"
+        },
+        {
+            "domain_name": "1440analytics.com",
+            "destination": "Hostinger",
+            "date": "2025-02-17 19:38:52"
+        },
+        {
+            "domain_name": "flawlessskinrx.com",
+            "destination": "SiteGround",
+            "date": "2025-02-17 19:19:53"
+        },
         {
             "domain_name": "thegrinder.news",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "farmers.directom.com",
             "destination": "Pressable",
             "date": "2025-02-15 14:26:56"
-        },
-        {
-            "domain_name": "expressonwheels.com",
-            "destination": "A2 Hosting",
-            "date": "2025-02-15 14:25:05"
-        },
-        {
-            "domain_name": "es.directom.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 14:09:23"
-        },
-        {
-            "domain_name": "paulchato.com",
-            "destination": "Hostinger",
-            "date": "2025-02-15 13:56:08"
         }
     ],
     "dailyMovedStat": {
@@ -655,12 +655,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8139,
-        "Bluehost": 3732,
+        "Bluehost": 3733,
         "Kinsta": 2897,
-        "Digital Ocean": 2827,
-        "SiteGround": 2515,
-        "Hostinger": 1612,
-        "GoDaddy": 783,
+        "Digital Ocean": 2829,
+        "SiteGround": 2516,
+        "Hostinger": 1614,
+        "GoDaddy": 784,
         "BigScoots": 373,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
