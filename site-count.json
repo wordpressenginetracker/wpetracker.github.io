@@ -1,6 +1,11 @@
 {
-    "siteCount": 46506,
+    "siteCount": 46512,
     "recentlyMoved": [
+        {
+            "domain_name": "durhamgetandgo.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-02-17 10:35:27"
+        },
         {
             "domain_name": "www.deromos.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "frontrow.uk.com",
             "destination": "Krystal Hosting",
             "date": "2025-02-15 11:30:57"
-        },
-        {
-            "domain_name": "vabetting.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-15 10:15:34"
         }
     ],
     "dailyMovedStat": {
@@ -666,7 +666,7 @@
         "Elementor Hosting": 253,
         "GridPane": 244,
         "WordPress.com": 208,
-        "InMotion Hosting": 193,
+        "InMotion Hosting": 194,
         "IONOS": 177,
         "OVH": 170,
         "A2 Hosting": 156,
