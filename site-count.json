@@ -1,10 +1,20 @@
 {
-    "siteCount": 46594,
+    "siteCount": 46598,
     "recentlyMoved": [
+        {
+            "domain_name": "moiteur.com",
+            "destination": "Hostinger",
+            "date": "2025-02-17 22:43:22"
+        },
         {
             "domain_name": "childrensministryonline.com",
             "destination": "SiteGround",
             "date": "2025-02-17 21:31:49"
+        },
+        {
+            "domain_name": "www.pisoria.com",
+            "destination": "IONOS",
+            "date": "2025-02-17 21:22:43"
         },
         {
             "domain_name": "aheadcatering.com",
@@ -490,16 +500,6 @@
             "domain_name": "palmerfoundry.com",
             "destination": "Hostinger",
             "date": "2025-02-15 15:45:26"
-        },
-        {
-            "domain_name": "pablospassport.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-15 15:33:59"
-        },
-        {
-            "domain_name": "finishingdynamics.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-02-15 15:20:35"
         }
     ],
     "dailyMovedStat": {
@@ -658,8 +658,8 @@
         "Bluehost": 3733,
         "Kinsta": 2897,
         "Digital Ocean": 2829,
-        "SiteGround": 2516,
-        "Hostinger": 1614,
+        "SiteGround": 2517,
+        "Hostinger": 1615,
         "GoDaddy": 784,
         "BigScoots": 373,
         "Liquid Web": 285,
@@ -667,7 +667,7 @@
         "GridPane": 244,
         "WordPress.com": 208,
         "InMotion Hosting": 194,
-        "IONOS": 177,
+        "IONOS": 178,
         "OVH": 171,
         "A2 Hosting": 156,
         "Wordify": 152,
