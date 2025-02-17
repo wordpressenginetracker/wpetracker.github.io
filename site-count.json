@@ -1,6 +1,16 @@
 {
-    "siteCount": 46524,
+    "siteCount": 46531,
     "recentlyMoved": [
+        {
+            "domain_name": "www.masterschool.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-17 13:08:22"
+        },
+        {
+            "domain_name": "boklek.no",
+            "destination": "Hetzner Online",
+            "date": "2025-02-17 13:05:57"
+        },
         {
             "domain_name": "polaraidhealth.com",
             "destination": "Hostinger",
@@ -10,6 +20,11 @@
             "domain_name": "polaraidhealth-global.com",
             "destination": "Hostinger",
             "date": "2025-02-17 12:12:53"
+        },
+        {
+            "domain_name": "reigatecoffee.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-02-17 12:08:46"
         },
         {
             "domain_name": "www.1866hirejoe.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.john-west.co.uk",
             "destination": "SiteGround",
             "date": "2025-02-15 12:39:02"
-        },
-        {
-            "domain_name": "hmzremodel.com",
-            "destination": "HostGator",
-            "date": "2025-02-15 12:23:52"
-        },
-        {
-            "domain_name": "beaucegold.com",
-            "destination": "Bluehost",
-            "date": "2025-02-15 12:17:55"
-        },
-        {
-            "domain_name": "heygirl.in",
-            "destination": "Hetzner Online",
-            "date": "2025-02-15 12:16:58"
         }
     ],
     "dailyMovedStat": {
@@ -657,9 +657,9 @@
         "Pressable": 8138,
         "Bluehost": 3732,
         "Kinsta": 2897,
-        "Digital Ocean": 2825,
+        "Digital Ocean": 2826,
         "SiteGround": 2514,
-        "Hostinger": 1609,
+        "Hostinger": 1610,
         "GoDaddy": 783,
         "BigScoots": 368,
         "Liquid Web": 285,
@@ -672,8 +672,8 @@
         "A2 Hosting": 156,
         "Wordify": 152,
         "Namecheap": 135,
-        "DreamHost": 126,
-        "Hetzner Online": 125
+        "Hetzner Online": 126,
+        "DreamHost": 126
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
