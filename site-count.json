@@ -1,6 +1,21 @@
 {
-    "siteCount": 46617,
+    "siteCount": 46621,
     "recentlyMoved": [
+        {
+            "domain_name": "coast.dev",
+            "destination": "Hostinger",
+            "date": "2025-02-18 01:43:32"
+        },
+        {
+            "domain_name": "thecopybae.com",
+            "destination": "BigScoots",
+            "date": "2025-02-18 01:28:22"
+        },
+        {
+            "domain_name": "colleenkeatingpoet.com",
+            "destination": "Kinsta",
+            "date": "2025-02-18 01:18:39"
+        },
         {
             "domain_name": "blog.smartz.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "success.oxfordeconomics.com",
             "destination": "GridPane",
             "date": "2025-02-15 17:14:42"
-        },
-        {
-            "domain_name": "kiradewalt.com",
-            "destination": "A2 Hosting",
-            "date": "2025-02-15 17:09:04"
-        },
-        {
-            "domain_name": "kilesigns.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 16:52:22"
-        },
-        {
-            "domain_name": "www.jjhbuilders.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-02-15 16:32:57"
         }
     ],
     "dailyMovedStat": {
@@ -657,12 +657,12 @@
     "topDestinationHosts": {
         "Pressable": 8142,
         "Bluehost": 3733,
-        "Kinsta": 2899,
+        "Kinsta": 2900,
         "Digital Ocean": 2830,
         "SiteGround": 2518,
-        "Hostinger": 1617,
+        "Hostinger": 1618,
         "GoDaddy": 784,
-        "BigScoots": 373,
+        "BigScoots": 374,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
         "GridPane": 244,
