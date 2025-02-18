@@ -1,6 +1,21 @@
 {
-    "siteCount": 46770,
+    "siteCount": 46774,
     "recentlyMoved": [
+        {
+            "domain_name": "news.uwf.edu",
+            "destination": "Pressable",
+            "date": "2025-02-18 18:59:31"
+        },
+        {
+            "domain_name": "turnerroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-02-18 18:41:59"
+        },
+        {
+            "domain_name": "northeastobgynsc.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-18 18:32:12"
+        },
         {
             "domain_name": "www.fromtherooftops.net",
             "destination": "HostGator",
@@ -485,21 +500,6 @@
             "domain_name": "durhamgetandgo.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-17 10:35:27"
-        },
-        {
-            "domain_name": "www.deromos.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-17 08:12:31"
-        },
-        {
-            "domain_name": "staycopperrock.com",
-            "destination": "Liquid Web",
-            "date": "2025-02-17 07:40:36"
-        },
-        {
-            "domain_name": "thedavidsonsmilestudio.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-17 06:12:52"
         }
     ],
     "dailyMovedStat": {
@@ -655,13 +655,13 @@
         "2025-02-17": "46601"
     },
     "topDestinationHosts": {
-        "Pressable": 8155,
+        "Pressable": 8156,
         "Bluehost": 3733,
         "Kinsta": 2913,
         "Digital Ocean": 2835,
-        "SiteGround": 2526,
+        "SiteGround": 2527,
         "Hostinger": 1629,
-        "GoDaddy": 785,
+        "GoDaddy": 786,
         "BigScoots": 379,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
