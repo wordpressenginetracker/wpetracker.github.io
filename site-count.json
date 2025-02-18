@@ -1,6 +1,36 @@
 {
-    "siteCount": 46601,
+    "siteCount": 46611,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bostern.com",
+            "destination": "Pressable",
+            "date": "2025-02-18 00:20:14"
+        },
+        {
+            "domain_name": "www.crabtreemarketing.com",
+            "destination": "Kinsta",
+            "date": "2025-02-18 00:18:18"
+        },
+        {
+            "domain_name": "aafesleep.com",
+            "destination": "Pressable",
+            "date": "2025-02-18 00:07:23"
+        },
+        {
+            "domain_name": "adrianng.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-17 23:55:24"
+        },
+        {
+            "domain_name": "pisoria.com",
+            "destination": "IONOS",
+            "date": "2025-02-17 23:43:49"
+        },
+        {
+            "domain_name": "grassroots417.com",
+            "destination": "SiteGround",
+            "date": "2025-02-17 23:37:28"
+        },
         {
             "domain_name": "excellimousine.ca",
             "destination": "Hostinger",
@@ -467,39 +497,9 @@
             "date": "2025-02-15 16:43:26"
         },
         {
-            "domain_name": "retail.firelockgames.com",
-            "destination": "Hostinger",
-            "date": "2025-02-15 16:41:17"
-        },
-        {
-            "domain_name": "herofl.com",
-            "destination": "Pressable",
-            "date": "2025-02-15 16:35:56"
-        },
-        {
             "domain_name": "www.jjhbuilders.co.uk",
             "destination": "SiteGround",
             "date": "2025-02-15 16:32:57"
-        },
-        {
-            "domain_name": "www.wellsaesthetics.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-15 16:16:24"
-        },
-        {
-            "domain_name": "amylouiseweddings.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-02-15 16:10:36"
-        },
-        {
-            "domain_name": "amertower.com",
-            "destination": "SiteGround",
-            "date": "2025-02-15 15:58:36"
-        },
-        {
-            "domain_name": "pba.coolwick.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-15 15:46:28"
         }
     ],
     "dailyMovedStat": {
@@ -655,12 +655,12 @@
         "2025-02-17": "46601"
     },
     "topDestinationHosts": {
-        "Pressable": 8139,
+        "Pressable": 8141,
         "Bluehost": 3733,
-        "Kinsta": 2897,
+        "Kinsta": 2899,
         "Digital Ocean": 2829,
-        "SiteGround": 2517,
-        "Hostinger": 1616,
+        "SiteGround": 2518,
+        "Hostinger": 1617,
         "GoDaddy": 784,
         "BigScoots": 373,
         "Liquid Web": 285,
@@ -668,7 +668,7 @@
         "GridPane": 244,
         "WordPress.com": 208,
         "InMotion Hosting": 194,
-        "IONOS": 178,
+        "IONOS": 179,
         "OVH": 171,
         "A2 Hosting": 156,
         "Wordify": 152,
