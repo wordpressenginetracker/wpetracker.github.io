@@ -1,10 +1,40 @@
 {
-    "siteCount": 46754,
+    "siteCount": 46770,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fromtherooftops.net",
+            "destination": "HostGator",
+            "date": "2025-02-18 18:01:14"
+        },
+        {
+            "domain_name": "www.teamchallenge-company.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-02-18 18:00:33"
+        },
+        {
+            "domain_name": "www.whitbyroofing.net",
+            "destination": "Pressable",
+            "date": "2025-02-18 17:42:16"
+        },
+        {
+            "domain_name": "www.wheelerorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2025-02-18 17:42:16"
+        },
+        {
+            "domain_name": "www.phbcorp.com",
+            "destination": "BigScoots",
+            "date": "2025-02-18 17:37:34"
+        },
         {
             "domain_name": "www.menardplasticsurgery.com",
             "destination": "Kinsta",
             "date": "2025-02-18 17:34:47"
+        },
+        {
+            "domain_name": "clients.restored316.com",
+            "destination": "BigScoots",
+            "date": "2025-02-18 17:31:04"
         },
         {
             "domain_name": "buildnorthern.com",
@@ -470,36 +500,6 @@
             "domain_name": "thedavidsonsmilestudio.com",
             "destination": "GoDaddy",
             "date": "2025-02-17 06:12:52"
-        },
-        {
-            "domain_name": "stickitcardgame.com",
-            "destination": "Kinsta",
-            "date": "2025-02-17 05:14:06"
-        },
-        {
-            "domain_name": "b17news.com",
-            "destination": "Bluehost",
-            "date": "2025-02-17 04:48:46"
-        },
-        {
-            "domain_name": "www.yourconsultants.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-02-17 02:33:03"
-        },
-        {
-            "domain_name": "dreamdry.com",
-            "destination": "Bluehost",
-            "date": "2025-02-17 02:06:27"
-        },
-        {
-            "domain_name": "solytic.com",
-            "destination": "Hetzner Online",
-            "date": "2025-02-17 01:14:10"
-        },
-        {
-            "domain_name": "www.findablackdoctor.com",
-            "destination": "BigScoots",
-            "date": "2025-02-17 00:46:25"
         }
     ],
     "dailyMovedStat": {
@@ -655,14 +655,14 @@
         "2025-02-17": "46601"
     },
     "topDestinationHosts": {
-        "Pressable": 8154,
+        "Pressable": 8155,
         "Bluehost": 3733,
-        "Kinsta": 2912,
-        "Digital Ocean": 2834,
+        "Kinsta": 2913,
+        "Digital Ocean": 2835,
         "SiteGround": 2526,
         "Hostinger": 1629,
         "GoDaddy": 785,
-        "BigScoots": 377,
+        "BigScoots": 379,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
         "GridPane": 245,
