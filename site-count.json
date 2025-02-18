@@ -1,10 +1,25 @@
 {
-    "siteCount": 46713,
+    "siteCount": 46717,
     "recentlyMoved": [
+        {
+            "domain_name": "uk.fillmed.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-18 14:52:39"
+        },
         {
             "domain_name": "mimifoods.ca",
             "destination": "Digital Ocean",
             "date": "2025-02-18 14:45:20"
+        },
+        {
+            "domain_name": "estespark.com",
+            "destination": "SiteGround",
+            "date": "2025-02-18 14:40:09"
+        },
+        {
+            "domain_name": "nicknewman.com",
+            "destination": "GridPane",
+            "date": "2025-02-18 14:24:44"
         },
         {
             "domain_name": "mbldnproductions.com",
@@ -485,21 +500,6 @@
             "domain_name": "registrywest85th.ca",
             "destination": "Hostinger",
             "date": "2025-02-16 16:03:46"
-        },
-        {
-            "domain_name": "bossorthodontics.com",
-            "destination": "Hostinger",
-            "date": "2025-02-16 13:03:38"
-        },
-        {
-            "domain_name": "www.pattonandbrauchtcpa.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-16 04:04:40"
-        },
-        {
-            "domain_name": "www.inceptra.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-16 03:38:11"
         }
     ],
     "dailyMovedStat": {
@@ -658,14 +658,14 @@
         "Pressable": 8146,
         "Bluehost": 3733,
         "Kinsta": 2906,
-        "Digital Ocean": 2832,
-        "SiteGround": 2524,
+        "Digital Ocean": 2834,
+        "SiteGround": 2525,
         "Hostinger": 1628,
         "GoDaddy": 784,
         "BigScoots": 376,
         "Liquid Web": 285,
         "Elementor Hosting": 253,
-        "GridPane": 244,
+        "GridPane": 245,
         "WordPress.com": 208,
         "InMotion Hosting": 195,
         "IONOS": 179,
