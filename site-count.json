@@ -1,6 +1,21 @@
 {
-    "siteCount": 46908,
+    "siteCount": 46917,
     "recentlyMoved": [
+        {
+            "domain_name": "smakfest.no",
+            "destination": "Hostinger",
+            "date": "2025-02-19 09:28:47"
+        },
+        {
+            "domain_name": "snackwavesvending.com",
+            "destination": "SiteGround",
+            "date": "2025-02-19 09:27:52"
+        },
+        {
+            "domain_name": "signapay.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-19 09:00:46"
+        },
         {
             "domain_name": "www.transfergo.ro",
             "destination": "WordPress VIP",
@@ -485,21 +500,6 @@
             "domain_name": "groggydogfranchise.com",
             "destination": "Hostinger",
             "date": "2025-02-18 11:41:55"
-        },
-        {
-            "domain_name": "mittalkidney.com",
-            "destination": "SiteGround",
-            "date": "2025-02-18 10:29:14"
-        },
-        {
-            "domain_name": "yesyouthenquiryservice.org",
-            "destination": "SiteGround",
-            "date": "2025-02-18 10:28:22"
-        },
-        {
-            "domain_name": "scaleops.com",
-            "destination": "Kinsta",
-            "date": "2025-02-18 08:30:20"
         }
     ],
     "dailyMovedStat": {
@@ -659,9 +659,9 @@
         "Pressable": 8162,
         "Bluehost": 3734,
         "Kinsta": 2917,
-        "Digital Ocean": 2839,
-        "SiteGround": 2535,
-        "Hostinger": 1632,
+        "Digital Ocean": 2840,
+        "SiteGround": 2536,
+        "Hostinger": 1633,
         "GoDaddy": 790,
         "BigScoots": 379,
         "Liquid Web": 286,
