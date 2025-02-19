@@ -1,6 +1,51 @@
 {
-    "siteCount": 46982,
+    "siteCount": 47005,
     "recentlyMoved": [
+        {
+            "domain_name": "www.awcandc.com",
+            "destination": "Pressable",
+            "date": "2025-02-19 16:18:52"
+        },
+        {
+            "domain_name": "womankindyoga.com",
+            "destination": "SiteGround",
+            "date": "2025-02-19 16:16:12"
+        },
+        {
+            "domain_name": "partners.uwga.org",
+            "destination": "SiteGround",
+            "date": "2025-02-19 16:00:52"
+        },
+        {
+            "domain_name": "abia.org.uk",
+            "destination": "Hostinger",
+            "date": "2025-02-19 15:58:37"
+        },
+        {
+            "domain_name": "gotogirlsolutions.ca",
+            "destination": "DreamHost",
+            "date": "2025-02-19 15:57:50"
+        },
+        {
+            "domain_name": "purp.me",
+            "destination": "Pressable",
+            "date": "2025-02-19 15:57:13"
+        },
+        {
+            "domain_name": "optimum-mo.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-19 15:53:09"
+        },
+        {
+            "domain_name": "oneupmoving.ca",
+            "destination": "DreamHost",
+            "date": "2025-02-19 15:31:12"
+        },
+        {
+            "domain_name": "fccsomerset.com",
+            "destination": "Liquid Web",
+            "date": "2025-02-19 15:28:00"
+        },
         {
             "domain_name": "northpond.com",
             "destination": "Kinsta",
@@ -447,26 +492,6 @@
             "date": "2025-02-18 17:15:05"
         },
         {
-            "domain_name": "ronduffindds.com",
-            "destination": "Kinsta",
-            "date": "2025-02-18 17:07:31"
-        },
-        {
-            "domain_name": "inskiplaw.com",
-            "destination": "Pressable",
-            "date": "2025-02-18 16:55:17"
-        },
-        {
-            "domain_name": "www.carolinamountaingrading.com",
-            "destination": "Pressable",
-            "date": "2025-02-18 16:47:45"
-        },
-        {
-            "domain_name": "www.ddrexcavation.com",
-            "destination": "Pressable",
-            "date": "2025-02-18 16:35:48"
-        },
-        {
             "domain_name": "sampair.com",
             "destination": "GoDaddy",
             "date": "2025-02-18 16:32:01"
@@ -475,31 +500,6 @@
             "domain_name": "bostonvitality.com",
             "destination": "SiteGround",
             "date": "2025-02-18 16:22:36"
-        },
-        {
-            "domain_name": "www.drbinur.com",
-            "destination": "Kinsta",
-            "date": "2025-02-18 16:13:11"
-        },
-        {
-            "domain_name": "www.edgewater-plumbing.com",
-            "destination": "Pressable",
-            "date": "2025-02-18 16:11:41"
-        },
-        {
-            "domain_name": "apic.uncg.edu",
-            "destination": "Pressable",
-            "date": "2025-02-18 15:51:35"
-        },
-        {
-            "domain_name": "www.awci.org",
-            "destination": "Pressable",
-            "date": "2025-02-18 15:42:12"
-        },
-        {
-            "domain_name": "andreamonti.info",
-            "destination": "Hostinger",
-            "date": "2025-02-18 15:40:55"
         }
     ],
     "dailyMovedStat": {
@@ -656,15 +656,15 @@
         "2025-02-18": "46847"
     },
     "topDestinationHosts": {
-        "Pressable": 8167,
+        "Pressable": 8168,
         "Bluehost": 3734,
         "Kinsta": 2919,
         "Digital Ocean": 2843,
-        "SiteGround": 2540,
-        "Hostinger": 1640,
-        "GoDaddy": 792,
+        "SiteGround": 2542,
+        "Hostinger": 1641,
+        "GoDaddy": 793,
         "BigScoots": 381,
-        "Liquid Web": 286,
+        "Liquid Web": 287,
         "Elementor Hosting": 253,
         "GridPane": 245,
         "WordPress.com": 209,
@@ -674,8 +674,8 @@
         "A2 Hosting": 156,
         "Wordify": 152,
         "Namecheap": 138,
-        "Hetzner Online": 127,
-        "DreamHost": 127
+        "DreamHost": 129,
+        "Hetzner Online": 127
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
