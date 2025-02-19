@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
     --primary-blue: #0075DF;
@@ -12,9 +12,9 @@
 
     --font-size-large: 24px;
     --font-size-medium: 20px;
-    --font-size-body: 1rem;
-    --font-size-small: 0.8rem;
-    --font-size-x-small: 0.6rem;
+    --font-size-body: 18px;
+    --font-size-small: 0.875rem;
+    --font-size-x-small: 0.625rem;
 
     --body-padding: 0.75rem;
 
@@ -88,6 +88,21 @@ p a {
     color: var(--highlight);
 }
 
+.info-section {
+    columns: 1;
+    column-gap: 40px;
+}
+
+.info-section p {
+    font-size: clamp( var(--font-size-small), 1.5vw, var(--font-size-body) );
+}
+
+.large-count__logo span {
+    color: var(--white);
+    font-size: var(--font-size-x-small);
+    font-weight: 700;
+}
+
 .info-section p:first-child {
     margin-top: 0;
 }
@@ -142,6 +157,12 @@ p a {
     text-align: center;
     letter-spacing: -0.4rem;
     margin-left: auto;
+}
+
+.large-count__logo {
+    display: flex;
+    align-items: center;
+    gap: 40px;
 }
 
 .right {
@@ -464,6 +485,10 @@ p a {
         flex-direction: row;
         justify-content: space-between;
     }
+
+    .info-section {
+        columns: 2;
+    }
 }
 
 @media (min-width: 800px) {
@@ -485,7 +510,6 @@ p a {
         left: 32px;
     }
 
-    .intro,
     .large-count {
         height: 50%;
     }
@@ -542,6 +566,12 @@ p a {
     }
 }
 
+@media (min-width: 1000px) {
+    .large-count__logo span {
+        max-width: 50%;
+    }
+}
+
 @media (min-height: 600px) and (min-width: 800px) {
     :root {
         --chart-height: 50vh;
@@ -555,6 +585,5 @@ p a {
     .header {
         flex-direction: column;
         height: 100%;
-        width: 50%;
     }
 }
