@@ -12,7 +12,7 @@
 
     --font-size-large: 24px;
     --font-size-medium: 20px;
-    --font-size-body: 18px;
+    --font-size-body: 17px;
     --font-size-small: 0.875rem;
     --font-size-x-small: 0.625rem;
 
@@ -516,11 +516,6 @@ p a {
 
     :root {
         --body-padding: 2rem;
-    }
-
-    .header {
-        flex-direction: row;
-        column-gap: 5rem;
     }
 
     .right {
