@@ -1,6 +1,11 @@
 {
-    "siteCount": 47366,
+    "siteCount": 47374,
     "recentlyMoved": [
+        {
+            "domain_name": "elitehealthproducts.org",
+            "destination": "Kinsta",
+            "date": "2025-02-20 18:44:08"
+        },
         {
             "domain_name": "miamishoresplumbing.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "integrativehealthgroup.net",
             "destination": "Pressable",
             "date": "2025-02-20 00:45:47"
-        },
-        {
-            "domain_name": "blossomforward.com",
-            "destination": "Kinsta",
-            "date": "2025-02-20 00:23:31"
         }
     ],
     "dailyMovedStat": {
@@ -659,11 +659,11 @@
     "topDestinationHosts": {
         "Pressable": 8206,
         "Bluehost": 3738,
-        "Kinsta": 2941,
+        "Kinsta": 2942,
         "Digital Ocean": 2868,
         "SiteGround": 2563,
         "Hostinger": 1654,
-        "GoDaddy": 801,
+        "GoDaddy": 802,
         "BigScoots": 385,
         "Liquid Web": 291,
         "Elementor Hosting": 253,
