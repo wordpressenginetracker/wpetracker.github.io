@@ -1,6 +1,26 @@
 {
-    "siteCount": 47172,
+    "siteCount": 47180,
     "recentlyMoved": [
+        {
+            "domain_name": "overheaddooraz.com",
+            "destination": "SiteGround",
+            "date": "2025-02-20 04:09:54"
+        },
+        {
+            "domain_name": "avenueaestheticsurgery.com.au",
+            "destination": "Hostinger",
+            "date": "2025-02-20 03:49:56"
+        },
+        {
+            "domain_name": "guidinghandshealthcare.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-20 03:46:56"
+        },
+        {
+            "domain_name": "www.coffeereview.com",
+            "destination": "Kinsta",
+            "date": "2025-02-20 03:18:34"
+        },
         {
             "domain_name": "teamrevivify.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "www.s-ab.se",
             "destination": "Hostinger",
             "date": "2025-02-19 09:42:45"
-        },
-        {
-            "domain_name": "smakfest.no",
-            "destination": "Hostinger",
-            "date": "2025-02-19 09:28:47"
-        },
-        {
-            "domain_name": "snackwavesvending.com",
-            "destination": "SiteGround",
-            "date": "2025-02-19 09:27:52"
-        },
-        {
-            "domain_name": "signapay.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-19 09:00:46"
-        },
-        {
-            "domain_name": "www.transfergo.ro",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 08:24:51"
         }
     ],
     "dailyMovedStat": {
@@ -659,11 +659,11 @@
     "topDestinationHosts": {
         "Pressable": 8180,
         "Bluehost": 3735,
-        "Kinsta": 2930,
+        "Kinsta": 2931,
         "Digital Ocean": 2853,
-        "SiteGround": 2552,
+        "SiteGround": 2553,
         "Hostinger": 1645,
-        "GoDaddy": 796,
+        "GoDaddy": 797,
         "BigScoots": 382,
         "Liquid Web": 289,
         "Elementor Hosting": 253,
