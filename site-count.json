@@ -1,10 +1,50 @@
 {
-    "siteCount": 47151,
+    "siteCount": 47166,
     "recentlyMoved": [
+        {
+            "domain_name": "hurontcc.com",
+            "destination": "Kinsta",
+            "date": "2025-02-20 00:54:32"
+        },
+        {
+            "domain_name": "www.giftcheckprogram.com",
+            "destination": "Pressable",
+            "date": "2025-02-20 00:51:35"
+        },
+        {
+            "domain_name": "showlowmfg.com",
+            "destination": "SiteGround",
+            "date": "2025-02-20 00:51:14"
+        },
+        {
+            "domain_name": "integrativehealthgroup.net",
+            "destination": "Pressable",
+            "date": "2025-02-20 00:45:47"
+        },
+        {
+            "domain_name": "blossomforward.com",
+            "destination": "Kinsta",
+            "date": "2025-02-20 00:23:31"
+        },
+        {
+            "domain_name": "hmgconstructionllc.com",
+            "destination": "Pressable",
+            "date": "2025-02-20 00:17:29"
+        },
+        {
+            "domain_name": "rapidhomebuyerstn.com",
+            "destination": "Pressable",
+            "date": "2025-02-20 00:05:22"
+        },
         {
             "domain_name": "oileater.com",
             "destination": "Pressable",
             "date": "2025-02-20 00:00:25"
+        },
+        {
+            "domain_name": "recycledrubber.com",
+            "destination": "Pressable",
+            "date": "2025-02-19 23:56:39"
         },
         {
             "domain_name": "optimaorthopedics.com",
@@ -460,46 +500,6 @@
             "domain_name": "www.transfergo.fr",
             "destination": "WordPress VIP",
             "date": "2025-02-19 08:24:51"
-        },
-        {
-            "domain_name": "www.transfergo.es",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 08:24:51"
-        },
-        {
-            "domain_name": "www.americanwaterproofers.com",
-            "destination": "Pressable",
-            "date": "2025-02-19 08:19:46"
-        },
-        {
-            "domain_name": "pandoravending.com",
-            "destination": "SiteGround",
-            "date": "2025-02-19 07:44:16"
-        },
-        {
-            "domain_name": "www.austinayurveda.com",
-            "destination": "SiteGround",
-            "date": "2025-02-19 07:20:46"
-        },
-        {
-            "domain_name": "www.transfergo.ua",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 06:12:05"
-        },
-        {
-            "domain_name": "www.transfergo.ru",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 06:12:05"
-        },
-        {
-            "domain_name": "www.transfergo.lt",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 06:12:05"
-        },
-        {
-            "domain_name": "www.transfergo.de",
-            "destination": "WordPress VIP",
-            "date": "2025-02-19 06:12:05"
         }
     ],
     "dailyMovedStat": {
@@ -657,11 +657,11 @@
         "2025-02-19": "47142"
     },
     "topDestinationHosts": {
-        "Pressable": 8174,
+        "Pressable": 8179,
         "Bluehost": 3735,
-        "Kinsta": 2928,
+        "Kinsta": 2930,
         "Digital Ocean": 2851,
-        "SiteGround": 2551,
+        "SiteGround": 2552,
         "Hostinger": 1645,
         "GoDaddy": 796,
         "BigScoots": 382,
