@@ -1,10 +1,20 @@
 {
-    "siteCount": 47300,
+    "siteCount": 47307,
     "recentlyMoved": [
+        {
+            "domain_name": "etowahvalley.com",
+            "destination": "WordPress VIP",
+            "date": "2025-02-20 14:27:48"
+        },
         {
             "domain_name": "www.vdwws.com",
             "destination": "Digital Ocean",
             "date": "2025-02-20 14:22:48"
+        },
+        {
+            "domain_name": "mycontrolroom.com",
+            "destination": "SiteGround",
+            "date": "2025-02-20 13:57:56"
         },
         {
             "domain_name": "midwestcountrymusic.org",
@@ -482,11 +492,6 @@
             "date": "2025-02-19 18:19:11"
         },
         {
-            "domain_name": "www.waywardmedical.com",
-            "destination": "Kinsta",
-            "date": "2025-02-19 18:07:20"
-        },
-        {
             "domain_name": "www.werestorations.com",
             "destination": "Pressable",
             "date": "2025-02-19 17:48:38"
@@ -495,11 +500,6 @@
             "domain_name": "theparisianguide.com",
             "destination": "Hostinger",
             "date": "2025-02-19 17:48:11"
-        },
-        {
-            "domain_name": "decainsight.com",
-            "destination": "Hetzner Online",
-            "date": "2025-02-19 17:37:32"
         }
     ],
     "dailyMovedStat": {
@@ -658,12 +658,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8197,
-        "Bluehost": 3736,
-        "Kinsta": 2938,
-        "Digital Ocean": 2860,
-        "SiteGround": 2557,
-        "Hostinger": 1650,
-        "GoDaddy": 798,
+        "Bluehost": 3737,
+        "Kinsta": 2939,
+        "Digital Ocean": 2863,
+        "SiteGround": 2558,
+        "Hostinger": 1653,
+        "GoDaddy": 799,
         "BigScoots": 383,
         "Liquid Web": 289,
         "Elementor Hosting": 253,
@@ -675,7 +675,7 @@
         "A2 Hosting": 157,
         "Wordify": 153,
         "Namecheap": 138,
-        "DreamHost": 131,
+        "DreamHost": 132,
         "Hetzner Online": 129
     },
     "dailyTotalStat": {
