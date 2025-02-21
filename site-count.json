@@ -1,10 +1,30 @@
 {
-    "siteCount": 47653,
+    "siteCount": 47677,
     "recentlyMoved": [
+        {
+            "domain_name": "hackettsimpsontripodi.com",
+            "destination": "Hostinger",
+            "date": "2025-02-21 14:12:49"
+        },
+        {
+            "domain_name": "www.whmg.net",
+            "destination": "Kinsta",
+            "date": "2025-02-21 13:57:32"
+        },
+        {
+            "domain_name": "discover.drinksubculture.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-21 13:52:55"
+        },
         {
             "domain_name": "cfsofcentralmb.mb.ca",
             "destination": "Pressable",
             "date": "2025-02-21 13:30:07"
+        },
+        {
+            "domain_name": "tandemmediaco.com",
+            "destination": "SiteGround",
+            "date": "2025-02-21 13:19:21"
         },
         {
             "domain_name": "www.gregorysfences.com",
@@ -20,6 +40,11 @@
             "domain_name": "www.ionpath.com",
             "destination": "InMotion Hosting",
             "date": "2025-02-21 13:06:28"
+        },
+        {
+            "domain_name": "www.optimalclimateair.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-21 13:03:49"
         },
         {
             "domain_name": "blog.inkscroll.com",
@@ -467,39 +492,14 @@
             "date": "2025-02-20 16:35:52"
         },
         {
-            "domain_name": "beautyandbreadwoodshop.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-20 16:33:12"
-        },
-        {
-            "domain_name": "www.chaiyasate-plasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-02-20 16:33:07"
-        },
-        {
             "domain_name": "buckleylaw.net",
             "destination": "Pressable",
             "date": "2025-02-20 16:31:54"
         },
         {
-            "domain_name": "beyondskinderm.com",
-            "destination": "Liquid Web",
-            "date": "2025-02-20 16:28:39"
-        },
-        {
-            "domain_name": "www.candmmachining.com",
-            "destination": "Pressable",
-            "date": "2025-02-20 16:20:42"
-        },
-        {
             "domain_name": "injectorcoachinstitute.com",
             "destination": "SiteGround",
             "date": "2025-02-20 16:19:53"
-        },
-        {
-            "domain_name": "www.daveshomeremodeling.com",
-            "destination": "Pressable",
-            "date": "2025-02-20 16:10:19"
         }
     ],
     "dailyMovedStat": {
@@ -660,9 +660,9 @@
     "topDestinationHosts": {
         "Pressable": 8214,
         "Bluehost": 3743,
-        "Kinsta": 2956,
-        "Digital Ocean": 2884,
-        "SiteGround": 2576,
+        "Kinsta": 2958,
+        "Digital Ocean": 2886,
+        "SiteGround": 2577,
         "Hostinger": 1659,
         "GoDaddy": 803,
         "BigScoots": 387,
