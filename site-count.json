@@ -1,6 +1,21 @@
 {
-    "siteCount": 47869,
+    "siteCount": 47880,
     "recentlyMoved": [
+        {
+            "domain_name": "dtbrokerage.ca",
+            "destination": "Pressable",
+            "date": "2025-02-21 22:36:45"
+        },
+        {
+            "domain_name": "thecentreparty.ca",
+            "destination": "Hostinger",
+            "date": "2025-02-21 22:18:39"
+        },
+        {
+            "domain_name": "www.vpnspblog.com",
+            "destination": "Namecheap",
+            "date": "2025-02-21 21:45:27"
+        },
         {
             "domain_name": "www.northcuttdental.com",
             "destination": "Liquid Web",
@@ -482,24 +497,9 @@
             "date": "2025-02-21 09:07:02"
         },
         {
-            "domain_name": "riteliteportablelighting.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-02-21 08:51:38"
-        },
-        {
             "domain_name": "jdkitchens.co.uk",
             "destination": "SiteGround",
             "date": "2025-02-21 08:37:51"
-        },
-        {
-            "domain_name": "graaaphic.com",
-            "destination": "Bluehost",
-            "date": "2025-02-21 08:06:54"
-        },
-        {
-            "domain_name": "www.therapevv.net",
-            "destination": "Kinsta",
-            "date": "2025-02-21 07:48:15"
         }
     ],
     "dailyMovedStat": {
@@ -658,15 +658,15 @@
         "2025-02-20": "47482"
     },
     "topDestinationHosts": {
-        "Pressable": 8231,
+        "Pressable": 8232,
         "Bluehost": 3744,
         "Kinsta": 2971,
         "Digital Ocean": 2894,
         "SiteGround": 2587,
-        "Hostinger": 1663,
+        "Hostinger": 1664,
         "GoDaddy": 807,
         "BigScoots": 389,
-        "Liquid Web": 295,
+        "Liquid Web": 296,
         "Elementor Hosting": 255,
         "GridPane": 245,
         "WordPress.com": 213,
@@ -675,7 +675,7 @@
         "OVH": 179,
         "A2 Hosting": 159,
         "Wordify": 153,
-        "Namecheap": 143,
+        "Namecheap": 144,
         "DreamHost": 133,
         "Hetzner Online": 130
     },
