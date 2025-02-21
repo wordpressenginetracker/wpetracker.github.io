@@ -1,6 +1,21 @@
 {
-    "siteCount": 47560,
+    "siteCount": 47572,
     "recentlyMoved": [
+        {
+            "domain_name": "sellyourbusiness.biz",
+            "destination": "Digital Ocean",
+            "date": "2025-02-21 09:28:59"
+        },
+        {
+            "domain_name": "riteliteportablelighting.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-02-21 08:51:38"
+        },
+        {
+            "domain_name": "jdkitchens.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-02-21 08:37:51"
+        },
         {
             "domain_name": "www.anytimeautoglassaz.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "www.northcountryfoodbank.org",
             "destination": "Digital Ocean",
             "date": "2025-02-20 12:59:22"
-        },
-        {
-            "domain_name": "boscastle.cornwall.sch.uk",
-            "destination": "Hostinger",
-            "date": "2025-02-20 12:37:52"
-        },
-        {
-            "domain_name": "riteliteireland.ie",
-            "destination": "Kinsta",
-            "date": "2025-02-20 12:13:30"
-        },
-        {
-            "domain_name": "ritelite.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-02-20 12:13:30"
         }
     ],
     "dailyMovedStat": {
@@ -660,9 +660,9 @@
     "topDestinationHosts": {
         "Pressable": 8209,
         "Bluehost": 3741,
-        "Kinsta": 2952,
-        "Digital Ocean": 2881,
-        "SiteGround": 2570,
+        "Kinsta": 2953,
+        "Digital Ocean": 2882,
+        "SiteGround": 2571,
         "Hostinger": 1659,
         "GoDaddy": 803,
         "BigScoots": 387,
