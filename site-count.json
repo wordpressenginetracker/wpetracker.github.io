@@ -1,10 +1,25 @@
 {
-    "siteCount": 47677,
+    "siteCount": 47687,
     "recentlyMoved": [
+        {
+            "domain_name": "nomadtogether.com",
+            "destination": "SiteGround",
+            "date": "2025-02-21 14:39:47"
+        },
         {
             "domain_name": "hackettsimpsontripodi.com",
             "destination": "Hostinger",
             "date": "2025-02-21 14:12:49"
+        },
+        {
+            "domain_name": "exegon.com",
+            "destination": "Kinsta",
+            "date": "2025-02-21 14:12:28"
+        },
+        {
+            "domain_name": "endfgmnetwork.org",
+            "destination": "Liquid Web",
+            "date": "2025-02-21 14:00:33"
         },
         {
             "domain_name": "www.whmg.net",
@@ -482,24 +497,9 @@
             "date": "2025-02-20 16:51:40"
         },
         {
-            "domain_name": "inestes.com",
-            "destination": "SiteGround",
-            "date": "2025-02-20 16:42:21"
-        },
-        {
-            "domain_name": "inkmeetspaper.com",
-            "destination": "Pressable",
-            "date": "2025-02-20 16:35:52"
-        },
-        {
             "domain_name": "buckleylaw.net",
             "destination": "Pressable",
             "date": "2025-02-20 16:31:54"
-        },
-        {
-            "domain_name": "injectorcoachinstitute.com",
-            "destination": "SiteGround",
-            "date": "2025-02-20 16:19:53"
         }
     ],
     "dailyMovedStat": {
@@ -660,13 +660,13 @@
     "topDestinationHosts": {
         "Pressable": 8214,
         "Bluehost": 3743,
-        "Kinsta": 2958,
+        "Kinsta": 2959,
         "Digital Ocean": 2886,
-        "SiteGround": 2577,
-        "Hostinger": 1659,
+        "SiteGround": 2578,
+        "Hostinger": 1660,
         "GoDaddy": 803,
         "BigScoots": 387,
-        "Liquid Web": 292,
+        "Liquid Web": 293,
         "Elementor Hosting": 254,
         "GridPane": 245,
         "WordPress.com": 211,
