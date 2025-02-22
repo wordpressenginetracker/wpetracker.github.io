@@ -1,6 +1,16 @@
 {
-    "siteCount": 47910,
+    "siteCount": 47925,
     "recentlyMoved": [
+        {
+            "domain_name": "workforcescience.com",
+            "destination": "Kinsta",
+            "date": "2025-02-22 03:57:28"
+        },
+        {
+            "domain_name": "practicegrowthacademy.com",
+            "destination": "Hostinger",
+            "date": "2025-02-22 03:57:03"
+        },
         {
             "domain_name": "www.sandersandsandersroofing.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.bench.law",
             "destination": "WordPress.com",
             "date": "2025-02-21 11:22:14"
-        },
-        {
-            "domain_name": "www.facialloungeokc.com",
-            "destination": "Kinsta",
-            "date": "2025-02-21 10:47:40"
-        },
-        {
-            "domain_name": "www.4everchanged.com",
-            "destination": "Kinsta",
-            "date": "2025-02-21 10:09:03"
         }
     ],
     "dailyMovedStat": {
@@ -661,10 +661,10 @@
     "topDestinationHosts": {
         "Pressable": 8234,
         "Bluehost": 3746,
-        "Kinsta": 2971,
+        "Kinsta": 2972,
         "Digital Ocean": 2895,
         "SiteGround": 2590,
-        "Hostinger": 1665,
+        "Hostinger": 1666,
         "GoDaddy": 807,
         "BigScoots": 389,
         "Liquid Web": 296,
