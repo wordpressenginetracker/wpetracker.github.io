@@ -1,6 +1,11 @@
 {
-    "siteCount": 48093,
+    "siteCount": 48096,
     "recentlyMoved": [
+        {
+            "domain_name": "njfaces.com",
+            "destination": "Kinsta",
+            "date": "2025-02-22 18:42:45"
+        },
         {
             "domain_name": "youngsinsuranceburlington.ca",
             "destination": "Digital Ocean",
@@ -462,11 +467,6 @@
             "date": "2025-02-21 20:09:42"
         },
         {
-            "domain_name": "actnowtraining.ca",
-            "destination": "Hostinger",
-            "date": "2025-02-21 20:05:26"
-        },
-        {
             "domain_name": "fredsilfenmd.com",
             "destination": "Kinsta",
             "date": "2025-02-21 20:04:30"
@@ -661,9 +661,9 @@
     "topDestinationHosts": {
         "Pressable": 8241,
         "Bluehost": 3747,
-        "Kinsta": 2980,
+        "Kinsta": 2981,
         "Digital Ocean": 2913,
-        "SiteGround": 2602,
+        "SiteGround": 2603,
         "Hostinger": 1673,
         "GoDaddy": 810,
         "BigScoots": 392,
