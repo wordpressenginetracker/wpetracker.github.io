@@ -1,6 +1,11 @@
 {
-    "siteCount": 47903,
+    "siteCount": 47908,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sandersandsandersroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-02-22 01:26:28"
+        },
         {
             "domain_name": "www.lawyerdz.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-02-21 10:47:40"
         },
         {
-            "domain_name": "docs.inkscroll.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-21 10:21:05"
-        },
-        {
             "domain_name": "www.4everchanged.com",
             "destination": "Kinsta",
             "date": "2025-02-21 10:09:03"
@@ -663,7 +663,7 @@
         "Bluehost": 3746,
         "Kinsta": 2971,
         "Digital Ocean": 2895,
-        "SiteGround": 2589,
+        "SiteGround": 2590,
         "Hostinger": 1665,
         "GoDaddy": 807,
         "BigScoots": 389,
