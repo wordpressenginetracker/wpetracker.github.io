@@ -1,6 +1,11 @@
 {
-    "siteCount": 47953,
+    "siteCount": 47965,
     "recentlyMoved": [
+        {
+            "domain_name": "adkinsfinancial.com",
+            "destination": "Hostinger",
+            "date": "2025-02-22 10:24:14"
+        },
         {
             "domain_name": "infernopodcast.se",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-02-21 13:19:21"
         },
         {
-            "domain_name": "www.gregorysfences.com",
-            "destination": "Pressable",
-            "date": "2025-02-21 13:11:46"
-        },
-        {
             "domain_name": "www.nourieye.com",
             "destination": "Kinsta",
             "date": "2025-02-21 13:10:44"
@@ -664,7 +664,7 @@
         "Kinsta": 2973,
         "Digital Ocean": 2896,
         "SiteGround": 2591,
-        "Hostinger": 1670,
+        "Hostinger": 1671,
         "GoDaddy": 808,
         "BigScoots": 389,
         "Liquid Web": 296,
