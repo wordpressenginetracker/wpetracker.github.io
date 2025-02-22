@@ -1,6 +1,21 @@
 {
-    "siteCount": 47925,
+    "siteCount": 47931,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jbmbuses.com",
+            "destination": "GoDaddy",
+            "date": "2025-02-22 05:13:31"
+        },
+        {
+            "domain_name": "integrum.se",
+            "destination": "Pressable",
+            "date": "2025-02-22 04:54:07"
+        },
+        {
+            "domain_name": "imerkur.com",
+            "destination": "Hostinger",
+            "date": "2025-02-22 04:53:25"
+        },
         {
             "domain_name": "workforcescience.com",
             "destination": "Kinsta",
@@ -477,29 +492,14 @@
             "date": "2025-02-21 12:12:03"
         },
         {
-            "domain_name": "weathershieldroofingny.com",
-            "destination": "Pressable",
-            "date": "2025-02-21 12:08:29"
-        },
-        {
             "domain_name": "pleasantviewgarden.com",
             "destination": "Pressable",
             "date": "2025-02-21 11:54:27"
         },
         {
-            "domain_name": "aidagroup.org",
-            "destination": "A2 Hosting",
-            "date": "2025-02-21 11:43:25"
-        },
-        {
             "domain_name": "www.abonmarche.com",
             "destination": "SiteGround",
             "date": "2025-02-21 11:40:11"
-        },
-        {
-            "domain_name": "www.bench.law",
-            "destination": "WordPress.com",
-            "date": "2025-02-21 11:22:14"
         }
     ],
     "dailyMovedStat": {
@@ -659,13 +659,13 @@
         "2025-02-21": "47882"
     },
     "topDestinationHosts": {
-        "Pressable": 8234,
+        "Pressable": 8235,
         "Bluehost": 3746,
         "Kinsta": 2972,
         "Digital Ocean": 2895,
         "SiteGround": 2590,
-        "Hostinger": 1666,
-        "GoDaddy": 807,
+        "Hostinger": 1667,
+        "GoDaddy": 808,
         "BigScoots": 389,
         "Liquid Web": 296,
         "Elementor Hosting": 255,
