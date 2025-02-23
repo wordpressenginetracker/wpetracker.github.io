@@ -1,6 +1,11 @@
 {
-    "siteCount": 48241,
+    "siteCount": 48243,
     "recentlyMoved": [
+        {
+            "domain_name": "exponentialgrowthpd.com",
+            "destination": "Bluehost",
+            "date": "2025-02-23 14:09:15"
+        },
         {
             "domain_name": "mowglv.org",
             "destination": "InMotion Hosting",
@@ -487,11 +492,6 @@
             "date": "2025-02-22 12:55:25"
         },
         {
-            "domain_name": "aravive.com",
-            "destination": "OVH",
-            "date": "2025-02-22 12:27:28"
-        },
-        {
             "domain_name": "hapukuriverterrace.co.nz",
             "destination": "Digital Ocean",
             "date": "2025-02-22 12:25:51"
@@ -661,7 +661,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8244,
-        "Bluehost": 3749,
+        "Bluehost": 3750,
         "Kinsta": 2990,
         "Digital Ocean": 2923,
         "SiteGround": 2605,
