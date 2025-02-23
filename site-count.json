@@ -1,6 +1,11 @@
 {
-    "siteCount": 48221,
+    "siteCount": 48225,
     "recentlyMoved": [
+        {
+            "domain_name": "minemaker.co",
+            "destination": "IONOS",
+            "date": "2025-02-23 10:02:00"
+        },
         {
             "domain_name": "judgebrothersinc.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-02-22 11:40:32"
         },
         {
-            "domain_name": "adkinsfinancial.com",
-            "destination": "Hostinger",
-            "date": "2025-02-22 10:24:14"
-        },
-        {
             "domain_name": "experts.peakspancapital.com",
             "destination": "Digital Ocean",
             "date": "2025-02-22 10:05:08"
@@ -674,7 +674,7 @@
         "WordPress.com": 215,
         "InMotion Hosting": 201,
         "OVH": 184,
-        "IONOS": 181,
+        "IONOS": 182,
         "A2 Hosting": 159,
         "Wordify": 153,
         "DreamHost": 145,
