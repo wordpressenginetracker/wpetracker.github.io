@@ -1,6 +1,11 @@
 {
-    "siteCount": 48195,
+    "siteCount": 48200,
     "recentlyMoved": [
+        {
+            "domain_name": "red-reactive.com",
+            "destination": "Hostinger",
+            "date": "2025-02-23 00:50:19"
+        },
         {
             "domain_name": "ownyourshit.ca",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "www.fayercoach.com",
             "destination": "Hostinger",
             "date": "2025-02-22 08:15:19"
-        },
-        {
-            "domain_name": "christopherrealestate.ca",
-            "destination": "Hostinger",
-            "date": "2025-02-22 05:11:31"
         }
     ],
     "dailyMovedStat": {
@@ -665,7 +665,7 @@
         "Kinsta": 2989,
         "Digital Ocean": 2922,
         "SiteGround": 2604,
-        "Hostinger": 1674,
+        "Hostinger": 1675,
         "GoDaddy": 810,
         "BigScoots": 393,
         "Liquid Web": 297,
