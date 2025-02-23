@@ -1,6 +1,11 @@
 {
-    "siteCount": 48234,
+    "siteCount": 48241,
     "recentlyMoved": [
+        {
+            "domain_name": "mowglv.org",
+            "destination": "InMotion Hosting",
+            "date": "2025-02-23 14:08:12"
+        },
         {
             "domain_name": "rvnahealth.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "hyspec.com.au",
             "destination": "Digital Ocean",
             "date": "2025-02-22 12:14:02"
-        },
-        {
-            "domain_name": "andyforgie.com",
-            "destination": "SiteGround",
-            "date": "2025-02-22 11:40:32"
         }
     ],
     "dailyMovedStat": {
@@ -672,7 +672,7 @@
         "Elementor Hosting": 255,
         "GridPane": 245,
         "WordPress.com": 215,
-        "InMotion Hosting": 201,
+        "InMotion Hosting": 202,
         "OVH": 184,
         "IONOS": 182,
         "A2 Hosting": 159,
