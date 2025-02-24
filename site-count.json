@@ -1,10 +1,55 @@
 {
-    "siteCount": 48421,
+    "siteCount": 48435,
     "recentlyMoved": [
+        {
+            "domain_name": "michellechartrandrealty.ca",
+            "destination": "SiteGround",
+            "date": "2025-02-24 18:31:04"
+        },
+        {
+            "domain_name": "www.utahherald.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 18:18:30"
+        },
+        {
+            "domain_name": "www.urbantulsa.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 18:18:30"
+        },
+        {
+            "domain_name": "www.wigderson.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 18:16:58"
+        },
+        {
+            "domain_name": "www.welcometotripcity.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 18:10:11"
+        },
+        {
+            "domain_name": "www.workingforchange.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 17:49:52"
+        },
+        {
+            "domain_name": "members.playalchemist.com",
+            "destination": "WordPress.com",
+            "date": "2025-02-24 17:45:56"
+        },
         {
             "domain_name": "www.melissaseclecticbookshelf.com",
             "destination": "Kinsta",
             "date": "2025-02-24 17:33:07"
+        },
+        {
+            "domain_name": "www.sheawinecellars.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 17:29:56"
+        },
+        {
+            "domain_name": "www.shootfortheedit.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 17:25:45"
         },
         {
             "domain_name": "canadagraphene.com",
@@ -437,11 +482,6 @@
             "date": "2025-02-22 20:08:08"
         },
         {
-            "domain_name": "pennsrock.org",
-            "destination": "Kinsta",
-            "date": "2025-02-22 20:07:46"
-        },
-        {
             "domain_name": "homegardenhero.com",
             "destination": "Digital Ocean",
             "date": "2025-02-22 20:05:29"
@@ -460,46 +500,6 @@
             "domain_name": "platinumgarages.ca",
             "destination": "DreamHost",
             "date": "2025-02-22 19:48:20"
-        },
-        {
-            "domain_name": "allstoragesolutions.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-22 19:26:13"
-        },
-        {
-            "domain_name": "njfaces.com",
-            "destination": "Kinsta",
-            "date": "2025-02-22 18:42:45"
-        },
-        {
-            "domain_name": "youngsinsuranceburlington.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 18:37:54"
-        },
-        {
-            "domain_name": "treetriminsurance.com",
-            "destination": "SiteGround",
-            "date": "2025-02-22 18:19:57"
-        },
-        {
-            "domain_name": "zentnercollection.com",
-            "destination": "SiteGround",
-            "date": "2025-02-22 18:19:03"
-        },
-        {
-            "domain_name": "yellowspringsdental.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 18:04:28"
-        },
-        {
-            "domain_name": "themamasagas.com",
-            "destination": "Kinsta",
-            "date": "2025-02-22 18:00:17"
-        },
-        {
-            "domain_name": "www.valleyeyepros.com",
-            "destination": "Kinsta",
-            "date": "2025-02-22 17:49:28"
         }
     ],
     "dailyMovedStat": {
@@ -663,16 +663,16 @@
     "topDestinationHosts": {
         "Pressable": 8247,
         "Bluehost": 3752,
-        "Kinsta": 3000,
+        "Kinsta": 3006,
         "Digital Ocean": 2925,
-        "SiteGround": 2620,
+        "SiteGround": 2622,
         "Hostinger": 1683,
         "GoDaddy": 813,
         "BigScoots": 396,
         "Liquid Web": 298,
         "Elementor Hosting": 256,
         "GridPane": 245,
-        "WordPress.com": 215,
+        "WordPress.com": 216,
         "InMotion Hosting": 202,
         "OVH": 186,
         "IONOS": 182,
