@@ -1,6 +1,11 @@
 {
-    "siteCount": 48343,
+    "siteCount": 48345,
     "recentlyMoved": [
+        {
+            "domain_name": "ellevatemedspa.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 02:48:58"
+        },
         {
             "domain_name": "drsachaelliott.com",
             "destination": "DreamHost",
@@ -467,11 +472,6 @@
             "date": "2025-02-22 16:22:40"
         },
         {
-            "domain_name": "americancolossus.org",
-            "destination": "Hostinger",
-            "date": "2025-02-22 16:22:23"
-        },
-        {
             "domain_name": "rent25maple.com",
             "destination": "GoDaddy",
             "date": "2025-02-22 16:07:32"
@@ -665,7 +665,7 @@
         "Bluehost": 3752,
         "Kinsta": 2996,
         "Digital Ocean": 2925,
-        "SiteGround": 2609,
+        "SiteGround": 2610,
         "Hostinger": 1680,
         "GoDaddy": 811,
         "BigScoots": 395,
