@@ -1,10 +1,20 @@
 {
-    "siteCount": 48484,
+    "siteCount": 48490,
     "recentlyMoved": [
+        {
+            "domain_name": "empowermali.org",
+            "destination": "Kinsta",
+            "date": "2025-02-24 21:52:58"
+        },
         {
             "domain_name": "www.peaceorchard.co.uk",
             "destination": "Krystal Hosting",
             "date": "2025-02-24 21:36:38"
+        },
+        {
+            "domain_name": "clearlysafeauto.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 21:29:36"
         },
         {
             "domain_name": "www.maryannefieldinglifecoach.com",
@@ -477,11 +487,6 @@
             "date": "2025-02-22 21:44:20"
         },
         {
-            "domain_name": "certifiedforgotten.com",
-            "destination": "WordPress VIP",
-            "date": "2025-02-22 21:39:16"
-        },
-        {
             "domain_name": "martincity.org",
             "destination": "Bluehost",
             "date": "2025-02-22 21:29:13"
@@ -495,11 +500,6 @@
             "domain_name": "larlee.com",
             "destination": "Pressable",
             "date": "2025-02-22 21:16:04"
-        },
-        {
-            "domain_name": "www.mtfacialsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-02-22 21:01:58"
         }
     ],
     "dailyMovedStat": {
@@ -663,7 +663,7 @@
     "topDestinationHosts": {
         "Pressable": 8247,
         "Bluehost": 3752,
-        "Kinsta": 3014,
+        "Kinsta": 3015,
         "Digital Ocean": 2928,
         "SiteGround": 2627,
         "Hostinger": 1683,
