@@ -1,6 +1,11 @@
 {
-    "siteCount": 48377,
+    "siteCount": 48384,
     "recentlyMoved": [
+        {
+            "domain_name": "happyfin.digital",
+            "destination": "Elementor Hosting",
+            "date": "2025-02-24 12:42:13"
+        },
         {
             "domain_name": "fames.fr",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "redninjamedia.com",
             "destination": "WordPress.com",
             "date": "2025-02-22 16:03:43"
-        },
-        {
-            "domain_name": "harlantwpoh.org",
-            "destination": "Pressable",
-            "date": "2025-02-22 15:58:29"
         }
     ],
     "dailyMovedStat": {
@@ -670,7 +670,7 @@
         "GoDaddy": 811,
         "BigScoots": 395,
         "Liquid Web": 298,
-        "Elementor Hosting": 255,
+        "Elementor Hosting": 256,
         "GridPane": 245,
         "WordPress.com": 215,
         "InMotion Hosting": 202,
