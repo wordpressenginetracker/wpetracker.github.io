@@ -1,10 +1,30 @@
 {
-    "siteCount": 48435,
+    "siteCount": 48440,
     "recentlyMoved": [
+        {
+            "domain_name": "nordic-waste.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 18:46:48"
+        },
+        {
+            "domain_name": "nordic-snow.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 18:46:48"
+        },
         {
             "domain_name": "michellechartrandrealty.ca",
             "destination": "SiteGround",
             "date": "2025-02-24 18:31:04"
+        },
+        {
+            "domain_name": "vampedmusic.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 18:24:54"
+        },
+        {
+            "domain_name": "tuskers.ca",
+            "destination": "SiteGround",
+            "date": "2025-02-24 18:21:10"
         },
         {
             "domain_name": "www.utahherald.com",
@@ -437,16 +457,6 @@
             "date": "2025-02-22 20:50:28"
         },
         {
-            "domain_name": "awlmc.org",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 20:47:29"
-        },
-        {
-            "domain_name": "www.classicturfandtree.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 20:46:55"
-        },
-        {
             "domain_name": "www.komanorthopedics.com",
             "destination": "Kinsta",
             "date": "2025-02-22 20:44:50"
@@ -465,11 +475,6 @@
             "domain_name": "buyinrosarito.com",
             "destination": "Hostinger",
             "date": "2025-02-22 20:28:46"
-        },
-        {
-            "domain_name": "pinnaclesecurity.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-22 20:23:28"
         },
         {
             "domain_name": "jakeklassenplumbing.com",
@@ -495,11 +500,6 @@
             "domain_name": "bbsolutions.ca",
             "destination": "DreamHost",
             "date": "2025-02-22 19:57:04"
-        },
-        {
-            "domain_name": "platinumgarages.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-22 19:48:20"
         }
     ],
     "dailyMovedStat": {
@@ -665,7 +665,7 @@
         "Bluehost": 3752,
         "Kinsta": 3006,
         "Digital Ocean": 2925,
-        "SiteGround": 2622,
+        "SiteGround": 2626,
         "Hostinger": 1683,
         "GoDaddy": 813,
         "BigScoots": 396,
