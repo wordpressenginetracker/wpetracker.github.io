@@ -1,6 +1,31 @@
 {
-    "siteCount": 48440,
+    "siteCount": 48474,
     "recentlyMoved": [
+        {
+            "domain_name": "healthalytica.com",
+            "destination": "WordPress.com",
+            "date": "2025-02-24 20:40:33"
+        },
+        {
+            "domain_name": "www.fivenightsonline.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 20:09:01"
+        },
+        {
+            "domain_name": "www.checkerboardnightmare.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 19:56:40"
+        },
+        {
+            "domain_name": "www.albanydailystar.com",
+            "destination": "Kinsta",
+            "date": "2025-02-24 19:55:13"
+        },
+        {
+            "domain_name": "frost-mover.com",
+            "destination": "SiteGround",
+            "date": "2025-02-24 19:48:37"
+        },
         {
             "domain_name": "nordic-waste.com",
             "destination": "SiteGround",
@@ -467,11 +492,6 @@
             "date": "2025-02-22 20:36:17"
         },
         {
-            "domain_name": "howtallheight.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 20:29:43"
-        },
-        {
             "domain_name": "buyinrosarito.com",
             "destination": "Hostinger",
             "date": "2025-02-22 20:28:46"
@@ -480,26 +500,6 @@
             "domain_name": "jakeklassenplumbing.com",
             "destination": "DreamHost",
             "date": "2025-02-22 20:21:25"
-        },
-        {
-            "domain_name": "redsealroofingltd.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-22 20:08:08"
-        },
-        {
-            "domain_name": "homegardenhero.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 20:05:29"
-        },
-        {
-            "domain_name": "backyardweds.com",
-            "destination": "OVH",
-            "date": "2025-02-22 20:04:05"
-        },
-        {
-            "domain_name": "bbsolutions.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-22 19:57:04"
         }
     ],
     "dailyMovedStat": {
@@ -663,11 +663,11 @@
     "topDestinationHosts": {
         "Pressable": 8247,
         "Bluehost": 3752,
-        "Kinsta": 3006,
-        "Digital Ocean": 2925,
-        "SiteGround": 2626,
+        "Kinsta": 3008,
+        "Digital Ocean": 2928,
+        "SiteGround": 2627,
         "Hostinger": 1683,
-        "GoDaddy": 813,
+        "GoDaddy": 814,
         "BigScoots": 396,
         "Liquid Web": 298,
         "Elementor Hosting": 256,
