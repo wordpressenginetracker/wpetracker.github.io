@@ -1,6 +1,11 @@
 {
-    "siteCount": 48357,
+    "siteCount": 48360,
     "recentlyMoved": [
+        {
+            "domain_name": "eatfourstar.com",
+            "destination": "Liquid Web",
+            "date": "2025-02-24 06:01:03"
+        },
         {
             "domain_name": "buildingintelligence.com",
             "destination": "SiteGround",
@@ -467,11 +472,6 @@
             "date": "2025-02-22 16:34:52"
         },
         {
-            "domain_name": "greenlitmarketing.com",
-            "destination": "SiteGround",
-            "date": "2025-02-22 16:29:57"
-        },
-        {
             "domain_name": "arcticfirehvac.ca",
             "destination": "Digital Ocean",
             "date": "2025-02-22 16:22:40"
@@ -669,7 +669,7 @@
         "Hostinger": 1680,
         "GoDaddy": 811,
         "BigScoots": 395,
-        "Liquid Web": 297,
+        "Liquid Web": 298,
         "Elementor Hosting": 255,
         "GridPane": 245,
         "WordPress.com": 215,
