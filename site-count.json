@@ -1,6 +1,11 @@
 {
-    "siteCount": 48547,
+    "siteCount": 48553,
     "recentlyMoved": [
+        {
+            "domain_name": "virtualroots.ca",
+            "destination": "SiteGround",
+            "date": "2025-02-25 10:35:37"
+        },
         {
             "domain_name": "dlpcoatings.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "handwork-studio.com",
             "destination": "Bluehost",
             "date": "2025-02-23 04:05:23"
-        },
-        {
-            "domain_name": "salontwistbend.com",
-            "destination": "Hostinger",
-            "date": "2025-02-23 03:56:06"
         }
     ],
     "dailyMovedStat": {
@@ -666,7 +666,7 @@
         "Bluehost": 3752,
         "Kinsta": 3018,
         "Digital Ocean": 2929,
-        "SiteGround": 2629,
+        "SiteGround": 2630,
         "Hostinger": 1684,
         "GoDaddy": 814,
         "BigScoots": 396,
