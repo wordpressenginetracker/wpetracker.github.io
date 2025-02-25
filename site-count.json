@@ -1,6 +1,11 @@
 {
-    "siteCount": 48495,
+    "siteCount": 48498,
     "recentlyMoved": [
+        {
+            "domain_name": "bss-solar.com.au",
+            "destination": "SiteGround",
+            "date": "2025-02-25 00:23:34"
+        },
         {
             "domain_name": "www.unitsci.com",
             "destination": "Pressable",
@@ -477,11 +482,6 @@
             "date": "2025-02-22 21:59:56"
         },
         {
-            "domain_name": "www.sadc-cae.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-02-22 21:52:43"
-        },
-        {
             "domain_name": "lookatlondonky.com",
             "destination": "Kinsta",
             "date": "2025-02-22 21:50:13"
@@ -666,7 +666,7 @@
         "Bluehost": 3752,
         "Kinsta": 3017,
         "Digital Ocean": 2928,
-        "SiteGround": 2627,
+        "SiteGround": 2628,
         "Hostinger": 1683,
         "GoDaddy": 814,
         "BigScoots": 396,
