@@ -1,6 +1,16 @@
 {
-    "siteCount": 48537,
+    "siteCount": 48547,
     "recentlyMoved": [
+        {
+            "domain_name": "dlpcoatings.com",
+            "destination": "Pressable",
+            "date": "2025-02-25 10:11:25"
+        },
+        {
+            "domain_name": "theoliverkingfoundation.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-02-25 10:08:38"
+        },
         {
             "domain_name": "www.ironmountainhotsprings.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "salontwistbend.com",
             "destination": "Hostinger",
             "date": "2025-02-23 03:56:06"
-        },
-        {
-            "domain_name": "aapg.ca",
-            "destination": "DreamHost",
-            "date": "2025-02-23 03:29:50"
-        },
-        {
-            "domain_name": "red-reactive.com",
-            "destination": "Hostinger",
-            "date": "2025-02-23 00:50:19"
         }
     ],
     "dailyMovedStat": {
@@ -662,11 +662,11 @@
         "2025-02-24": "48491"
     },
     "topDestinationHosts": {
-        "Pressable": 8252,
+        "Pressable": 8253,
         "Bluehost": 3752,
         "Kinsta": 3018,
         "Digital Ocean": 2929,
-        "SiteGround": 2628,
+        "SiteGround": 2629,
         "Hostinger": 1684,
         "GoDaddy": 814,
         "BigScoots": 396,
