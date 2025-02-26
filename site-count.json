@@ -1,6 +1,21 @@
 {
-    "siteCount": 48858,
+    "siteCount": 48870,
     "recentlyMoved": [
+        {
+            "domain_name": "thezimmermangroup.com",
+            "destination": "SiteGround",
+            "date": "2025-02-26 10:00:18"
+        },
+        {
+            "domain_name": "detroitdentalnow.com",
+            "destination": "Bluehost",
+            "date": "2025-02-26 09:33:40"
+        },
+        {
+            "domain_name": "www.policygoat.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-02-26 09:14:34"
+        },
         {
             "domain_name": "shadowacct.com.au",
             "destination": "Namecheap",
@@ -485,21 +500,6 @@
             "domain_name": "searchenginerapbattle.com",
             "destination": "Pressable",
             "date": "2025-02-25 12:53:16"
-        },
-        {
-            "domain_name": "www.epicvents.com",
-            "destination": "Pressable",
-            "date": "2025-02-25 12:38:40"
-        },
-        {
-            "domain_name": "www.dtroofing.co.uk",
-            "destination": "IONOS",
-            "date": "2025-02-25 12:26:47"
-        },
-        {
-            "domain_name": "heatherharlan.com",
-            "destination": "SiteGround",
-            "date": "2025-02-25 12:09:06"
         }
     ],
     "dailyMovedStat": {
@@ -664,10 +664,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 8272,
-        "Bluehost": 3756,
+        "Bluehost": 3757,
         "Kinsta": 3028,
         "Digital Ocean": 2956,
-        "SiteGround": 2649,
+        "SiteGround": 2650,
         "Hostinger": 1690,
         "GoDaddy": 824,
         "BigScoots": 398,
@@ -675,7 +675,7 @@
         "Elementor Hosting": 257,
         "GridPane": 245,
         "WordPress.com": 218,
-        "InMotion Hosting": 204,
+        "InMotion Hosting": 205,
         "OVH": 189,
         "IONOS": 183,
         "A2 Hosting": 160,
