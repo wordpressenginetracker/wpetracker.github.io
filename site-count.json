@@ -1,6 +1,11 @@
 {
-    "siteCount": 48851,
+    "siteCount": 48858,
     "recentlyMoved": [
+        {
+            "domain_name": "shadowacct.com.au",
+            "destination": "Namecheap",
+            "date": "2025-02-26 08:43:29"
+        },
         {
             "domain_name": "www.andoverglassworksltd.co.uk",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-02-25 12:26:47"
         },
         {
-            "domain_name": "haroldmckay.com",
-            "destination": "SiteGround",
-            "date": "2025-02-25 12:14:57"
-        },
-        {
             "domain_name": "heatherharlan.com",
             "destination": "SiteGround",
             "date": "2025-02-25 12:09:06"
@@ -681,7 +681,7 @@
         "A2 Hosting": 160,
         "Wordify": 155,
         "DreamHost": 149,
-        "Namecheap": 145,
+        "Namecheap": 146,
         "Hetzner Online": 132
     },
     "dailyTotalStat": {
