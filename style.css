@@ -146,6 +146,7 @@ p a {
 .left {
     display: flex;
     flex-direction: column;
+    background-color: var(--primary-blue);
 }
 
 .number-of-sites__count {
@@ -504,6 +505,10 @@ p a {
     main > section.chart {
         width: 50%;
         overflow: hidden;
+    }
+
+    .left {
+        overflow: scroll;
     }
 
     .chart-container__title {
