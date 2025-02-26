@@ -1,10 +1,45 @@
 {
-    "siteCount": 49121,
+    "siteCount": 49136,
     "recentlyMoved": [
+        {
+            "domain_name": "twoadventuroussouls.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-26 22:41:48"
+        },
+        {
+            "domain_name": "www.wingsinsurance.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-26 22:20:52"
+        },
+        {
+            "domain_name": "mahaiwe.org",
+            "destination": "Pressable",
+            "date": "2025-02-26 22:07:47"
+        },
+        {
+            "domain_name": "lclspas.com",
+            "destination": "Pressable",
+            "date": "2025-02-26 21:49:28"
+        },
+        {
+            "domain_name": "www.physicianseyecare.com",
+            "destination": "Kinsta",
+            "date": "2025-02-26 21:15:54"
+        },
         {
             "domain_name": "johanneandamanda.com",
             "destination": "SiteGround",
             "date": "2025-02-26 21:14:45"
+        },
+        {
+            "domain_name": "www.sportcourtnortherncalifornia.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-26 21:10:22"
+        },
+        {
+            "domain_name": "lonestarpromoving.com",
+            "destination": "SiteGround",
+            "date": "2025-02-26 21:10:22"
         },
         {
             "domain_name": "jcraigmorrisonmd.com",
@@ -465,41 +500,6 @@
             "domain_name": "expresstoughening.com",
             "destination": "Kinsta",
             "date": "2025-02-26 10:41:16"
-        },
-        {
-            "domain_name": "unika.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-02-26 10:21:04"
-        },
-        {
-            "domain_name": "unifieddentalcare.com",
-            "destination": "Bluehost",
-            "date": "2025-02-26 10:21:04"
-        },
-        {
-            "domain_name": "thezimmermangroup.com",
-            "destination": "SiteGround",
-            "date": "2025-02-26 10:00:18"
-        },
-        {
-            "domain_name": "detroitdentalnow.com",
-            "destination": "Bluehost",
-            "date": "2025-02-26 09:33:40"
-        },
-        {
-            "domain_name": "www.policygoat.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-26 09:14:34"
-        },
-        {
-            "domain_name": "shadowacct.com.au",
-            "destination": "Namecheap",
-            "date": "2025-02-26 08:43:29"
-        },
-        {
-            "domain_name": "arizdui.com",
-            "destination": "SiteGround",
-            "date": "2025-02-26 08:03:17"
         }
     ],
     "dailyMovedStat": {
@@ -663,11 +663,11 @@
         "2025-02-25": "48780"
     },
     "topDestinationHosts": {
-        "Pressable": 8282,
+        "Pressable": 8284,
         "Bluehost": 3764,
-        "Kinsta": 3043,
-        "Digital Ocean": 2985,
-        "SiteGround": 2662,
+        "Kinsta": 3044,
+        "Digital Ocean": 2987,
+        "SiteGround": 2663,
         "Hostinger": 1696,
         "GoDaddy": 831,
         "BigScoots": 399,
