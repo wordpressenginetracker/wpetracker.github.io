@@ -1,6 +1,26 @@
 {
-    "siteCount": 49137,
+    "siteCount": 49146,
     "recentlyMoved": [
+        {
+            "domain_name": "harristyres.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2025-02-27 00:39:50"
+        },
+        {
+            "domain_name": "alisonkriel.com",
+            "destination": "WordPress.com",
+            "date": "2025-02-27 00:20:57"
+        },
+        {
+            "domain_name": "heavenlysoulandspirit.com",
+            "destination": "Liquid Web",
+            "date": "2025-02-27 00:04:26"
+        },
+        {
+            "domain_name": "grosslawllc.com",
+            "destination": "Kinsta",
+            "date": "2025-02-26 23:44:19"
+        },
         {
             "domain_name": "twoadventuroussouls.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "getbrookscoaching.com",
             "destination": "Digital Ocean",
             "date": "2025-02-26 11:35:28"
-        },
-        {
-            "domain_name": "weddingsonsandkeybeach.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-26 11:20:15"
-        },
-        {
-            "domain_name": "aaroelevators.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-26 11:16:24"
-        },
-        {
-            "domain_name": "foodandplan.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-02-26 11:12:36"
-        },
-        {
-            "domain_name": "expresstoughening.com",
-            "destination": "Kinsta",
-            "date": "2025-02-26 10:41:16"
         }
     ],
     "dailyMovedStat": {
@@ -666,8 +666,8 @@
     "topDestinationHosts": {
         "Pressable": 8284,
         "Bluehost": 3764,
-        "Kinsta": 3044,
-        "Digital Ocean": 2988,
+        "Kinsta": 3045,
+        "Digital Ocean": 2989,
         "SiteGround": 2663,
         "Hostinger": 1696,
         "GoDaddy": 831,
@@ -675,7 +675,7 @@
         "Liquid Web": 303,
         "Elementor Hosting": 257,
         "GridPane": 245,
-        "WordPress.com": 219,
+        "WordPress.com": 220,
         "InMotion Hosting": 207,
         "OVH": 190,
         "IONOS": 183,
