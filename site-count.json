@@ -1,6 +1,31 @@
 {
-    "siteCount": 49167,
+    "siteCount": 49175,
     "recentlyMoved": [
+        {
+            "domain_name": "azpoolkeeper.com",
+            "destination": "SiteGround",
+            "date": "2025-02-27 04:24:50"
+        },
+        {
+            "domain_name": "arizonaasda.org",
+            "destination": "SiteGround",
+            "date": "2025-02-27 04:24:22"
+        },
+        {
+            "domain_name": "arrowhomecare.net",
+            "destination": "SiteGround",
+            "date": "2025-02-27 04:06:07"
+        },
+        {
+            "domain_name": "forkinpepe.com",
+            "destination": "Pressable",
+            "date": "2025-02-27 03:31:23"
+        },
+        {
+            "domain_name": "3qfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-27 03:08:38"
+        },
         {
             "domain_name": "eternityandtaxes.com",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "louiselevesquerealestate.ca",
             "destination": "SiteGround",
             "date": "2025-02-26 13:42:23"
-        },
-        {
-            "domain_name": "www.oraclehearingcenter.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-26 13:26:19"
-        },
-        {
-            "domain_name": "cfinvigorate.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-26 13:14:34"
-        },
-        {
-            "domain_name": "soothing-scents.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-26 13:12:10"
-        },
-        {
-            "domain_name": "shiloh.church",
-            "destination": "InMotion Hosting",
-            "date": "2025-02-26 13:00:35"
-        },
-        {
-            "domain_name": "www.lampertscabinets.com",
-            "destination": "Digital Ocean",
-            "date": "2025-02-26 12:38:39"
         }
     ],
     "dailyMovedStat": {
@@ -664,11 +664,11 @@
         "2025-02-26": "49137"
     },
     "topDestinationHosts": {
-        "Pressable": 8288,
+        "Pressable": 8289,
         "Bluehost": 3764,
         "Kinsta": 3048,
-        "Digital Ocean": 2990,
-        "SiteGround": 2667,
+        "Digital Ocean": 2991,
+        "SiteGround": 2669,
         "Hostinger": 1696,
         "GoDaddy": 832,
         "BigScoots": 399,
