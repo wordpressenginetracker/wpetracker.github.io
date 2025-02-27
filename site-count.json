@@ -1,6 +1,16 @@
 {
-    "siteCount": 49368,
+    "siteCount": 49371,
     "recentlyMoved": [
+        {
+            "domain_name": "execperformance.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-27 18:49:18"
+        },
+        {
+            "domain_name": "etsinsulation.com",
+            "destination": "Digital Ocean",
+            "date": "2025-02-27 18:43:41"
+        },
         {
             "domain_name": "mycibp.ca",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "azpoolkeeper.com",
             "destination": "SiteGround",
             "date": "2025-02-27 04:24:50"
-        },
-        {
-            "domain_name": "arizonaasda.org",
-            "destination": "SiteGround",
-            "date": "2025-02-27 04:24:22"
-        },
-        {
-            "domain_name": "arrowhomecare.net",
-            "destination": "SiteGround",
-            "date": "2025-02-27 04:06:07"
         }
     ],
     "dailyMovedStat": {
@@ -664,10 +664,10 @@
         "2025-02-26": "49137"
     },
     "topDestinationHosts": {
-        "Pressable": 8309,
+        "Pressable": 8310,
         "Bluehost": 3765,
-        "Kinsta": 3068,
-        "Digital Ocean": 3007,
+        "Kinsta": 3069,
+        "Digital Ocean": 3009,
         "SiteGround": 2679,
         "Hostinger": 1706,
         "GoDaddy": 840,
