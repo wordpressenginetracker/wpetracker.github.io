@@ -1,6 +1,11 @@
 {
-    "siteCount": 49527,
+    "siteCount": 49531,
     "recentlyMoved": [
+        {
+            "domain_name": "blog.lyvecap.com",
+            "destination": "SiteGround",
+            "date": "2025-02-28 05:06:08"
+        },
         {
             "domain_name": "associationofgeostrategicanalysis.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "emeraldrealtyil.com",
             "destination": "Wordify",
             "date": "2025-02-27 13:52:20"
-        },
-        {
-            "domain_name": "emeraldpropertymgt.com",
-            "destination": "Wordify",
-            "date": "2025-02-27 13:52:20"
         }
     ],
     "dailyMovedStat": {
@@ -669,9 +669,9 @@
         "Bluehost": 3767,
         "Kinsta": 3075,
         "Digital Ocean": 3013,
-        "SiteGround": 2684,
+        "SiteGround": 2686,
         "Hostinger": 1708,
-        "GoDaddy": 844,
+        "GoDaddy": 845,
         "BigScoots": 399,
         "Liquid Web": 305,
         "Elementor Hosting": 257,
