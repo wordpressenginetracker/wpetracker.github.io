@@ -1,6 +1,16 @@
 {
-    "siteCount": 49868,
+    "siteCount": 49879,
     "recentlyMoved": [
+        {
+            "domain_name": "brighterlevel.com",
+            "destination": "Hostinger",
+            "date": "2025-02-28 21:08:26"
+        },
+        {
+            "domain_name": "kelownahousesforsale.com",
+            "destination": "SiteGround",
+            "date": "2025-02-28 20:57:50"
+        },
         {
             "domain_name": "www.sandselectric.com",
             "destination": "Pressable",
@@ -10,6 +20,11 @@
             "domain_name": "www.bapmolding.com",
             "destination": "BigScoots",
             "date": "2025-02-28 20:20:11"
+        },
+        {
+            "domain_name": "www.deserthillsplasticsurgery.com",
+            "destination": "Kinsta",
+            "date": "2025-02-28 20:19:59"
         },
         {
             "domain_name": "www.allphasesdermatology.com",
@@ -477,11 +492,6 @@
             "date": "2025-02-28 10:52:39"
         },
         {
-            "domain_name": "www.webenalysis.com",
-            "destination": "Kinsta",
-            "date": "2025-02-28 10:29:23"
-        },
-        {
             "domain_name": "nomorekneepainnj.com",
             "destination": "SiteGround",
             "date": "2025-02-28 10:29:03"
@@ -490,16 +500,6 @@
             "domain_name": "tptulsa.com",
             "destination": "Kinsta",
             "date": "2025-02-28 10:22:11"
-        },
-        {
-            "domain_name": "www.triplearadio.com",
-            "destination": "Kinsta",
-            "date": "2025-02-28 09:41:05"
-        },
-        {
-            "domain_name": "www.usaura.com",
-            "destination": "Kinsta",
-            "date": "2025-02-28 09:33:17"
         }
     ],
     "dailyMovedStat": {
@@ -667,10 +667,10 @@
     "topDestinationHosts": {
         "Pressable": 8349,
         "Bluehost": 3771,
-        "Kinsta": 3127,
+        "Kinsta": 3128,
         "Digital Ocean": 3031,
-        "SiteGround": 2705,
-        "Hostinger": 1717,
+        "SiteGround": 2706,
+        "Hostinger": 1718,
         "GoDaddy": 847,
         "BigScoots": 400,
         "Liquid Web": 308,
