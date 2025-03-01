@@ -1,6 +1,11 @@
 {
-    "siteCount": 49957,
+    "siteCount": 49970,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bmohunts.com",
+            "destination": "SiteGround",
+            "date": "2025-03-01 08:04:08"
+        },
         {
             "domain_name": "europeanautomotive.ca",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.qersdyn.com",
             "destination": "Bluehost",
             "date": "2025-02-28 13:12:32"
-        },
-        {
-            "domain_name": "kmesystems.com",
-            "destination": "Kinsta",
-            "date": "2025-02-28 13:11:17"
         }
     ],
     "dailyMovedStat": {
@@ -670,7 +670,7 @@
         "Bluehost": 3773,
         "Kinsta": 3136,
         "Digital Ocean": 3035,
-        "SiteGround": 2714,
+        "SiteGround": 2715,
         "Hostinger": 1719,
         "GoDaddy": 848,
         "BigScoots": 400,
