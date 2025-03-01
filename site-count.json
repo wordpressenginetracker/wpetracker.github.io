@@ -1,6 +1,11 @@
 {
-    "siteCount": 49984,
+    "siteCount": 49986,
     "recentlyMoved": [
+        {
+            "domain_name": "newcastle94.com",
+            "destination": "Hostinger",
+            "date": "2025-03-01 10:48:28"
+        },
         {
             "domain_name": "monicaflores.ca",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "vercon.co.uk",
             "destination": "Hostinger",
             "date": "2025-02-28 14:16:08"
-        },
-        {
-            "domain_name": "www.vnsociety.org",
-            "destination": "Kinsta",
-            "date": "2025-02-28 13:37:01"
         }
     ],
     "dailyMovedStat": {
@@ -671,7 +671,7 @@
         "Kinsta": 3136,
         "Digital Ocean": 3035,
         "SiteGround": 2716,
-        "Hostinger": 1719,
+        "Hostinger": 1720,
         "GoDaddy": 849,
         "BigScoots": 400,
         "Liquid Web": 308,
