@@ -1,6 +1,11 @@
 {
-    "siteCount": 50235,
+    "siteCount": 50236,
     "recentlyMoved": [
+        {
+            "domain_name": "vacationtripguides.com",
+            "destination": "DreamHost",
+            "date": "2025-03-01 22:31:09"
+        },
         {
             "domain_name": "thetacoblock.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.passportswithpurpose.org",
             "destination": "Kinsta",
             "date": "2025-03-01 04:56:52"
-        },
-        {
-            "domain_name": "rvawellnessvending.com",
-            "destination": "SiteGround",
-            "date": "2025-03-01 04:15:21"
         }
     ],
     "dailyMovedStat": {
@@ -663,13 +663,14 @@
         "2025-02-25": "48780",
         "2025-02-26": "49137",
         "2025-02-27": "49487",
-        "2025-02-28": "49895"
+        "2025-02-28": "49895",
+        "2025-03-01": "50236"
     },
     "topDestinationHosts": {
         "Pressable": 8368,
         "Bluehost": 3780,
         "Kinsta": 3151,
-        "Digital Ocean": 3045,
+        "Digital Ocean": 3046,
         "SiteGround": 2735,
         "Hostinger": 1727,
         "GoDaddy": 851,
@@ -684,7 +685,7 @@
         "Wordify": 173,
         "A2 Hosting": 164,
         "Namecheap": 153,
-        "DreamHost": 149,
+        "DreamHost": 150,
         "Hetzner Online": 138
     },
     "dailyTotalStat": {
@@ -848,6 +849,7 @@
         "2025-02-25": "661139",
         "2025-02-26": "660657",
         "2025-02-27": "659673",
-        "2025-02-28": "659033"
+        "2025-02-28": "659033",
+        "2025-03-01": "658420"
     }
 }
