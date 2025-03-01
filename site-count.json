@@ -1,6 +1,26 @@
 {
-    "siteCount": 49973,
+    "siteCount": 49984,
     "recentlyMoved": [
+        {
+            "domain_name": "monicaflores.ca",
+            "destination": "SiteGround",
+            "date": "2025-03-01 10:38:18"
+        },
+        {
+            "domain_name": "meridian84.com",
+            "destination": "Bluehost",
+            "date": "2025-03-01 10:23:41"
+        },
+        {
+            "domain_name": "ludingtonlabs.com",
+            "destination": "Bluehost",
+            "date": "2025-03-01 09:42:41"
+        },
+        {
+            "domain_name": "www.springbornstaffing.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-01 09:32:41"
+        },
         {
             "domain_name": "www.bmohunts.com",
             "destination": "SiteGround",
@@ -477,29 +497,9 @@
             "date": "2025-02-28 14:16:08"
         },
         {
-            "domain_name": "sustainrockford.org",
-            "destination": "Wordify",
-            "date": "2025-02-28 13:46:26"
-        },
-        {
             "domain_name": "www.vnsociety.org",
             "destination": "Kinsta",
             "date": "2025-02-28 13:37:01"
-        },
-        {
-            "domain_name": "www.villageshalom.org",
-            "destination": "Kinsta",
-            "date": "2025-02-28 13:37:01"
-        },
-        {
-            "domain_name": "cincinnatimaintenance.com",
-            "destination": "GoDaddy",
-            "date": "2025-02-28 13:28:29"
-        },
-        {
-            "domain_name": "www.qersdyn.com",
-            "destination": "Bluehost",
-            "date": "2025-02-28 13:12:32"
         }
     ],
     "dailyMovedStat": {
@@ -667,12 +667,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8353,
-        "Bluehost": 3773,
+        "Bluehost": 3775,
         "Kinsta": 3136,
         "Digital Ocean": 3035,
-        "SiteGround": 2715,
+        "SiteGround": 2716,
         "Hostinger": 1719,
-        "GoDaddy": 848,
+        "GoDaddy": 849,
         "BigScoots": 400,
         "Liquid Web": 308,
         "Elementor Hosting": 257,
