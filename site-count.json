@@ -1,6 +1,11 @@
 {
-    "siteCount": 49923,
+    "siteCount": 49925,
     "recentlyMoved": [
+        {
+            "domain_name": "travelofix.com",
+            "destination": "Hostinger",
+            "date": "2025-03-01 02:01:40"
+        },
         {
             "domain_name": "shorelineconcreteconcepts.com.au",
             "destination": "Bluehost",
@@ -487,11 +492,6 @@
             "date": "2025-02-28 12:31:52"
         },
         {
-            "domain_name": "hktruck.com",
-            "destination": "Kinsta",
-            "date": "2025-02-28 12:21:20"
-        },
-        {
             "domain_name": "bridgeotw.org",
             "destination": "Digital Ocean",
             "date": "2025-02-28 12:18:23"
@@ -671,7 +671,7 @@
         "Kinsta": 3130,
         "Digital Ocean": 3034,
         "SiteGround": 2711,
-        "Hostinger": 1718,
+        "Hostinger": 1719,
         "GoDaddy": 847,
         "BigScoots": 400,
         "Liquid Web": 308,
