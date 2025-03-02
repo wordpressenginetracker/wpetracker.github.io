@@ -1,6 +1,11 @@
 {
-    "siteCount": 50290,
+    "siteCount": 50294,
     "recentlyMoved": [
+        {
+            "domain_name": "hardownltd.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-03-02 12:35:36"
+        },
         {
             "domain_name": "northerntransmissions.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "buyandsellwithmichelle.ca",
             "destination": "SiteGround",
             "date": "2025-03-01 12:43:32"
-        },
-        {
-            "domain_name": "homefinderbc.com",
-            "destination": "SiteGround",
-            "date": "2025-03-01 12:08:26"
         }
     ],
     "dailyMovedStat": {
@@ -670,7 +670,7 @@
         "Pressable": 8371,
         "Bluehost": 3781,
         "Kinsta": 3153,
-        "Digital Ocean": 3046,
+        "Digital Ocean": 3047,
         "SiteGround": 2745,
         "Hostinger": 1731,
         "GoDaddy": 852,
