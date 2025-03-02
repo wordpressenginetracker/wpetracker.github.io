@@ -1,6 +1,41 @@
 {
-    "siteCount": 50257,
+    "siteCount": 50272,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cashbackaz.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 04:37:25"
+        },
+        {
+            "domain_name": "linkdentalcenter.com",
+            "destination": "Hostinger",
+            "date": "2025-03-02 04:24:18"
+        },
+        {
+            "domain_name": "www.casm-inc.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 04:19:10"
+        },
+        {
+            "domain_name": "pattenmonument.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 04:08:24"
+        },
+        {
+            "domain_name": "myaudaciousfaith.com",
+            "destination": "Bluehost",
+            "date": "2025-03-02 04:00:51"
+        },
+        {
+            "domain_name": "bowers-hill.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 03:59:05"
+        },
+        {
+            "domain_name": "oasisairandsolar.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-02 03:19:42"
+        },
         {
             "domain_name": "thesageoaklakecharles.com",
             "destination": "Pressable",
@@ -465,41 +500,6 @@
             "domain_name": "14thstreetcapital.com",
             "destination": "Bluehost",
             "date": "2025-03-01 11:10:50"
-        },
-        {
-            "domain_name": "newcastle94.com",
-            "destination": "Hostinger",
-            "date": "2025-03-01 10:48:28"
-        },
-        {
-            "domain_name": "monicaflores.ca",
-            "destination": "SiteGround",
-            "date": "2025-03-01 10:38:18"
-        },
-        {
-            "domain_name": "meridian84.com",
-            "destination": "Bluehost",
-            "date": "2025-03-01 10:23:41"
-        },
-        {
-            "domain_name": "ludingtonlabs.com",
-            "destination": "Bluehost",
-            "date": "2025-03-01 09:42:41"
-        },
-        {
-            "domain_name": "www.springbornstaffing.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-01 09:32:41"
-        },
-        {
-            "domain_name": "www.bmohunts.com",
-            "destination": "SiteGround",
-            "date": "2025-03-01 08:04:08"
-        },
-        {
-            "domain_name": "nobacz.com",
-            "destination": "IONOS",
-            "date": "2025-03-01 06:37:02"
         }
     ],
     "dailyMovedStat": {
@@ -668,12 +668,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8371,
-        "Bluehost": 3780,
+        "Bluehost": 3781,
         "Kinsta": 3152,
         "Digital Ocean": 3046,
-        "SiteGround": 2737,
-        "Hostinger": 1727,
-        "GoDaddy": 851,
+        "SiteGround": 2741,
+        "Hostinger": 1728,
+        "GoDaddy": 852,
         "BigScoots": 401,
         "Liquid Web": 310,
         "Elementor Hosting": 257,
