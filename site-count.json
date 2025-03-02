@@ -1,6 +1,11 @@
 {
-    "siteCount": 50236,
+    "siteCount": 50240,
     "recentlyMoved": [
+        {
+            "domain_name": "andrewmillerfamilydentistry.com",
+            "destination": "SiteGround",
+            "date": "2025-03-01 23:42:29"
+        },
         {
             "domain_name": "vacationtripguides.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "www.redeem-office.com",
             "destination": "Kinsta",
             "date": "2025-03-01 04:58:49"
-        },
-        {
-            "domain_name": "www.passportswithpurpose.org",
-            "destination": "Kinsta",
-            "date": "2025-03-01 04:56:52"
         }
     ],
     "dailyMovedStat": {
@@ -671,7 +671,7 @@
         "Bluehost": 3780,
         "Kinsta": 3151,
         "Digital Ocean": 3046,
-        "SiteGround": 2735,
+        "SiteGround": 2736,
         "Hostinger": 1727,
         "GoDaddy": 851,
         "BigScoots": 401,
