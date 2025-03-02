@@ -1,6 +1,16 @@
 {
-    "siteCount": 50285,
+    "siteCount": 50290,
     "recentlyMoved": [
+        {
+            "domain_name": "northerntransmissions.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 10:44:48"
+        },
+        {
+            "domain_name": "mypromovideos.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 10:36:45"
+        },
         {
             "domain_name": "cwsdance.com",
             "destination": "Hostinger",
@@ -487,16 +497,6 @@
             "date": "2025-03-01 12:43:32"
         },
         {
-            "domain_name": "autoclear.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 12:42:20"
-        },
-        {
-            "domain_name": "awitalian.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 12:34:12"
-        },
-        {
             "domain_name": "homefinderbc.com",
             "destination": "SiteGround",
             "date": "2025-03-01 12:08:26"
@@ -671,7 +671,7 @@
         "Bluehost": 3781,
         "Kinsta": 3153,
         "Digital Ocean": 3046,
-        "SiteGround": 2743,
+        "SiteGround": 2745,
         "Hostinger": 1731,
         "GoDaddy": 852,
         "BigScoots": 401,
