@@ -1,6 +1,11 @@
 {
-    "siteCount": 50338,
+    "siteCount": 50345,
     "recentlyMoved": [
+        {
+            "domain_name": "canmorerealestate.com",
+            "destination": "SiteGround",
+            "date": "2025-03-02 17:01:50"
+        },
         {
             "domain_name": "therootedsisters.com",
             "destination": "Bluehost",
@@ -482,11 +487,6 @@
             "date": "2025-03-01 13:39:33"
         },
         {
-            "domain_name": "www.petitionthem.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 13:28:39"
-        },
-        {
             "domain_name": "www.sedgefordhall.com",
             "destination": "Krystal Hosting",
             "date": "2025-03-01 13:28:02"
@@ -671,7 +671,7 @@
         "Bluehost": 3782,
         "Kinsta": 3154,
         "Digital Ocean": 3047,
-        "SiteGround": 2746,
+        "SiteGround": 2747,
         "Hostinger": 1732,
         "GoDaddy": 852,
         "BigScoots": 401,
