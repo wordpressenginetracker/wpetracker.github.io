@@ -1,6 +1,16 @@
 {
-    "siteCount": 50240,
+    "siteCount": 50247,
     "recentlyMoved": [
+        {
+            "domain_name": "www.franklinpaulinspections.com",
+            "destination": "Pressable",
+            "date": "2025-03-02 01:04:24"
+        },
+        {
+            "domain_name": "rlptraining.ca",
+            "destination": "SiteGround",
+            "date": "2025-03-02 00:12:02"
+        },
         {
             "domain_name": "andrewmillerfamilydentistry.com",
             "destination": "SiteGround",
@@ -487,16 +497,6 @@
             "date": "2025-03-01 05:45:07"
         },
         {
-            "domain_name": "www.qentertainment.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 05:32:16"
-        },
-        {
-            "domain_name": "www.protectfamiliesprotectchoices.org",
-            "destination": "Kinsta",
-            "date": "2025-03-01 05:26:01"
-        },
-        {
             "domain_name": "www.redeem-office.com",
             "destination": "Kinsta",
             "date": "2025-03-01 04:58:49"
@@ -667,11 +667,11 @@
         "2025-03-01": "50236"
     },
     "topDestinationHosts": {
-        "Pressable": 8368,
+        "Pressable": 8369,
         "Bluehost": 3780,
         "Kinsta": 3151,
         "Digital Ocean": 3046,
-        "SiteGround": 2736,
+        "SiteGround": 2737,
         "Hostinger": 1727,
         "GoDaddy": 851,
         "BigScoots": 401,
