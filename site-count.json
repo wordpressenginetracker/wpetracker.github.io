@@ -1,6 +1,16 @@
 {
-    "siteCount": 50491,
+    "siteCount": 50495,
     "recentlyMoved": [
+        {
+            "domain_name": "junkforcemaryland.com",
+            "destination": "SiteGround",
+            "date": "2025-03-03 16:39:48"
+        },
+        {
+            "domain_name": "redifrittata.com",
+            "destination": "SiteGround",
+            "date": "2025-03-03 16:30:43"
+        },
         {
             "domain_name": "montaltopt.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "ibdodr.com",
             "destination": "Bluehost",
             "date": "2025-03-01 16:42:12"
-        },
-        {
-            "domain_name": "www.drjenniferrobinson.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 16:28:42"
-        },
-        {
-            "domain_name": "housesbynicole.com",
-            "destination": "SiteGround",
-            "date": "2025-03-01 16:18:50"
         }
     ],
     "dailyMovedStat": {
@@ -672,7 +672,7 @@
         "Bluehost": 3784,
         "Kinsta": 3156,
         "Digital Ocean": 3056,
-        "SiteGround": 2753,
+        "SiteGround": 2755,
         "Hostinger": 1734,
         "GoDaddy": 853,
         "BigScoots": 401,
