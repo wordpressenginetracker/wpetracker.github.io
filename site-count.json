@@ -1,6 +1,36 @@
 {
-    "siteCount": 50409,
+    "siteCount": 50425,
     "recentlyMoved": [
+        {
+            "domain_name": "windsorrealty.com",
+            "destination": "SiteGround",
+            "date": "2025-03-03 00:09:05"
+        },
+        {
+            "domain_name": "auroraboardworks.com",
+            "destination": "IONOS",
+            "date": "2025-03-02 23:57:16"
+        },
+        {
+            "domain_name": "greggjaclin.org",
+            "destination": "Digital Ocean",
+            "date": "2025-03-02 23:49:46"
+        },
+        {
+            "domain_name": "greggjaclin.net",
+            "destination": "Digital Ocean",
+            "date": "2025-03-02 23:49:46"
+        },
+        {
+            "domain_name": "greggjaclin.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-02 23:49:46"
+        },
+        {
+            "domain_name": "goallclear.com",
+            "destination": "Kinsta",
+            "date": "2025-03-02 23:46:54"
+        },
         {
             "domain_name": "www.immediateservicesac.com",
             "destination": "Digital Ocean",
@@ -462,44 +492,14 @@
             "date": "2025-03-01 14:07:32"
         },
         {
-            "domain_name": "meridian84advisors.com",
-            "destination": "Bluehost",
-            "date": "2025-03-01 14:06:28"
-        },
-        {
             "domain_name": "englishmaids.biz",
             "destination": "Liquid Web",
             "date": "2025-03-01 14:03:21"
         },
         {
-            "domain_name": "www.superiorpaintpros.com",
-            "destination": "Pressable",
-            "date": "2025-03-01 13:59:31"
-        },
-        {
-            "domain_name": "www.staleycap.com",
-            "destination": "Pressable",
-            "date": "2025-03-01 13:58:20"
-        },
-        {
-            "domain_name": "measuredsem.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-01 13:55:41"
-        },
-        {
             "domain_name": "multi-medix.com",
             "destination": "Digital Ocean",
             "date": "2025-03-01 13:54:52"
-        },
-        {
-            "domain_name": "theofficeevent.net",
-            "destination": "Digital Ocean",
-            "date": "2025-03-01 13:52:34"
-        },
-        {
-            "domain_name": "dennisassociates.com",
-            "destination": "SiteGround",
-            "date": "2025-03-01 13:22:28"
         }
     ],
     "dailyMovedStat": {
@@ -670,9 +670,9 @@
     "topDestinationHosts": {
         "Pressable": 8373,
         "Bluehost": 3782,
-        "Kinsta": 3154,
-        "Digital Ocean": 3049,
-        "SiteGround": 2749,
+        "Kinsta": 3155,
+        "Digital Ocean": 3052,
+        "SiteGround": 2750,
         "Hostinger": 1732,
         "GoDaddy": 853,
         "BigScoots": 401,
@@ -682,7 +682,7 @@
         "WordPress.com": 227,
         "InMotion Hosting": 215,
         "OVH": 194,
-        "IONOS": 188,
+        "IONOS": 189,
         "Wordify": 173,
         "A2 Hosting": 164,
         "Namecheap": 153,
