@@ -1,6 +1,11 @@
 {
-    "siteCount": 50463,
+    "siteCount": 50464,
     "recentlyMoved": [
+        {
+            "domain_name": "stitchingadvice.com",
+            "destination": "Namecheap",
+            "date": "2025-03-03 09:44:07"
+        },
         {
             "domain_name": "brandhavenagency.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "aogeotech.com",
             "destination": "Bluehost",
             "date": "2025-03-01 15:59:16"
-        },
-        {
-            "domain_name": "www.accem.com",
-            "destination": "Kinsta",
-            "date": "2025-03-01 15:47:36"
         }
     ],
     "dailyMovedStat": {
@@ -671,7 +671,7 @@
         "Pressable": 8373,
         "Bluehost": 3782,
         "Kinsta": 3156,
-        "Digital Ocean": 3055,
+        "Digital Ocean": 3056,
         "SiteGround": 2753,
         "Hostinger": 1733,
         "GoDaddy": 853,
@@ -685,7 +685,7 @@
         "IONOS": 189,
         "Wordify": 173,
         "A2 Hosting": 164,
-        "Namecheap": 153,
+        "Namecheap": 154,
         "DreamHost": 150,
         "Hetzner Online": 138
     },
