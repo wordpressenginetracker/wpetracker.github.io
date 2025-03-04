@@ -1,6 +1,11 @@
 {
-    "siteCount": 50564,
+    "siteCount": 50567,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ce-strategy.com",
+            "destination": "Kinsta",
+            "date": "2025-03-04 00:15:04"
+        },
         {
             "domain_name": "mcmanamanlaw.com",
             "destination": "Namecheap",
@@ -477,11 +482,6 @@
             "date": "2025-03-01 17:35:52"
         },
         {
-            "domain_name": "chrismasterjohnphd.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-03-01 17:32:03"
-        },
-        {
             "domain_name": "dkexteriors.com",
             "destination": "Pressable",
             "date": "2025-03-01 17:30:59"
@@ -671,7 +671,7 @@
     "topDestinationHosts": {
         "Pressable": 8374,
         "Bluehost": 3785,
-        "Kinsta": 3158,
+        "Kinsta": 3159,
         "Digital Ocean": 3061,
         "SiteGround": 2757,
         "Hostinger": 1734,
