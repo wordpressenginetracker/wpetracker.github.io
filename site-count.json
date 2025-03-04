@@ -1,6 +1,11 @@
 {
-    "siteCount": 50674,
+    "siteCount": 50678,
     "recentlyMoved": [
+        {
+            "domain_name": "newbedfordcreative.org",
+            "destination": "Kinsta",
+            "date": "2025-03-04 14:22:01"
+        },
         {
             "domain_name": "telemundoportland.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.casm-inc.com",
             "destination": "SiteGround",
             "date": "2025-03-02 04:19:10"
-        },
-        {
-            "domain_name": "myaudaciousfaith.com",
-            "destination": "Bluehost",
-            "date": "2025-03-02 04:00:51"
         }
     ],
     "dailyMovedStat": {
@@ -671,7 +671,7 @@
     "topDestinationHosts": {
         "Pressable": 8383,
         "Bluehost": 3787,
-        "Kinsta": 3168,
+        "Kinsta": 3169,
         "Digital Ocean": 3067,
         "SiteGround": 2765,
         "Hostinger": 1739,
