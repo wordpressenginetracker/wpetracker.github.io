@@ -1,6 +1,11 @@
 {
-    "siteCount": 50860,
+    "siteCount": 50863,
     "recentlyMoved": [
+        {
+            "domain_name": "njdog.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-04 23:04:28"
+        },
         {
             "domain_name": "dingersbaseball.com",
             "destination": "SiteGround",
@@ -10,6 +15,11 @@
             "domain_name": "www.vonbondies.com",
             "destination": "Kinsta",
             "date": "2025-03-04 22:11:32"
+        },
+        {
+            "domain_name": "twaylifting.com",
+            "destination": "Kinsta",
+            "date": "2025-03-04 21:57:21"
         },
         {
             "domain_name": "www.trymodern.com",
@@ -490,16 +500,6 @@
             "domain_name": "evolvefamilyacupuncture.com",
             "destination": "Hostinger",
             "date": "2025-03-04 10:25:20"
-        },
-        {
-            "domain_name": "disruptivediscovery.com",
-            "destination": "Kinsta",
-            "date": "2025-03-04 10:09:55"
-        },
-        {
-            "domain_name": "therapbd.com",
-            "destination": "Kinsta",
-            "date": "2025-03-04 09:51:15"
         }
     ],
     "dailyMovedStat": {
@@ -666,16 +666,17 @@
         "2025-02-28": "49895",
         "2025-03-01": "50236",
         "2025-03-02": "50409",
-        "2025-03-03": "50564"
+        "2025-03-03": "50564",
+        "2025-03-04": "50863"
     },
     "topDestinationHosts": {
         "Pressable": 8396,
         "Bluehost": 3788,
-        "Kinsta": 3186,
+        "Kinsta": 3187,
         "Digital Ocean": 3084,
         "SiteGround": 2774,
         "Hostinger": 1741,
-        "GoDaddy": 857,
+        "GoDaddy": 858,
         "BigScoots": 403,
         "Liquid Web": 315,
         "Elementor Hosting": 259,
@@ -854,6 +855,7 @@
         "2025-02-28": "659033",
         "2025-03-01": "658420",
         "2025-03-02": "658935",
-        "2025-03-03": "658373"
+        "2025-03-03": "658373",
+        "2025-03-04": "657386"
     }
 }
