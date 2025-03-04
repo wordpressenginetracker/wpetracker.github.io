@@ -1,6 +1,16 @@
 {
-    "siteCount": 50766,
+    "siteCount": 50829,
     "recentlyMoved": [
+        {
+            "domain_name": "odellandco.com",
+            "destination": "Kinsta",
+            "date": "2025-03-04 19:49:42"
+        },
+        {
+            "domain_name": "www.austinalpine.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-04 19:43:57"
+        },
         {
             "domain_name": "thirdeyewood.com",
             "destination": "Kinsta",
@@ -487,16 +497,6 @@
             "date": "2025-03-03 18:09:57"
         },
         {
-            "domain_name": "telemundominnesota.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-03 18:09:57"
-        },
-        {
-            "domain_name": "telemundoba.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-03 18:09:57"
-        },
-        {
             "domain_name": "manuelsuarez.com",
             "destination": "HostGator",
             "date": "2025-03-03 17:55:53"
@@ -669,25 +669,25 @@
         "2025-03-03": "50564"
     },
     "topDestinationHosts": {
-        "Pressable": 8392,
+        "Pressable": 8393,
         "Bluehost": 3788,
-        "Kinsta": 3177,
-        "Digital Ocean": 3080,
+        "Kinsta": 3178,
+        "Digital Ocean": 3082,
         "SiteGround": 2770,
         "Hostinger": 1741,
         "GoDaddy": 856,
         "BigScoots": 403,
-        "Liquid Web": 314,
-        "Elementor Hosting": 258,
+        "Liquid Web": 315,
+        "Elementor Hosting": 259,
         "GridPane": 248,
         "WordPress.com": 230,
         "InMotion Hosting": 215,
-        "OVH": 194,
+        "OVH": 195,
         "IONOS": 190,
         "Wordify": 174,
         "A2 Hosting": 164,
         "Namecheap": 155,
-        "DreamHost": 150,
+        "DreamHost": 151,
         "Hetzner Online": 138
     },
     "dailyTotalStat": {
