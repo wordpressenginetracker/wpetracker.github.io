@@ -1,6 +1,36 @@
 {
-    "siteCount": 50913,
+    "siteCount": 50923,
     "recentlyMoved": [
+        {
+            "domain_name": "eecuttingedge.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-05 06:21:16"
+        },
+        {
+            "domain_name": "www.selectcleaningauckland.co.nz",
+            "destination": "Pressable",
+            "date": "2025-03-05 05:52:20"
+        },
+        {
+            "domain_name": "www.threesonorans.com",
+            "destination": "Kinsta",
+            "date": "2025-03-05 05:44:56"
+        },
+        {
+            "domain_name": "teamgzfs.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-05 05:41:50"
+        },
+        {
+            "domain_name": "tfgm.co.nz",
+            "destination": "Pressable",
+            "date": "2025-03-05 05:28:51"
+        },
+        {
+            "domain_name": "like.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-03-05 05:27:44"
+        },
         {
             "domain_name": "www.nzgs.org",
             "destination": "Pressable",
@@ -457,19 +487,9 @@
             "date": "2025-03-04 14:22:01"
         },
         {
-            "domain_name": "telemundoportland.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-04 14:00:48"
-        },
-        {
             "domain_name": "thorogoodusa.com",
             "destination": "Digital Ocean",
             "date": "2025-03-04 13:52:09"
-        },
-        {
-            "domain_name": "tenacitypaducah.com",
-            "destination": "Hostinger",
-            "date": "2025-03-04 13:40:55"
         },
         {
             "domain_name": "toptalentlearning.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.woolsleepingbag.com",
             "destination": "Kinsta",
             "date": "2025-03-04 13:40:02"
-        },
-        {
-            "domain_name": "www.shadygroveflowers.com",
-            "destination": "Kinsta",
-            "date": "2025-03-04 13:39:07"
-        },
-        {
-            "domain_name": "www.romellibailbonds.com",
-            "destination": "IONOS",
-            "date": "2025-03-04 13:28:52"
-        },
-        {
-            "domain_name": "daienviro.com",
-            "destination": "SiteGround",
-            "date": "2025-03-04 13:17:41"
-        },
-        {
-            "domain_name": "londonceilidhclub.com",
-            "destination": "SiteGround",
-            "date": "2025-03-04 13:08:29"
         }
     ],
     "dailyMovedStat": {
@@ -670,10 +670,10 @@
         "2025-03-04": "50863"
     },
     "topDestinationHosts": {
-        "Pressable": 8407,
+        "Pressable": 8410,
         "Bluehost": 3788,
-        "Kinsta": 3191,
-        "Digital Ocean": 3087,
+        "Kinsta": 3192,
+        "Digital Ocean": 3089,
         "SiteGround": 2776,
         "Hostinger": 1741,
         "GoDaddy": 858,
@@ -689,7 +689,7 @@
         "A2 Hosting": 164,
         "Namecheap": 155,
         "DreamHost": 152,
-        "Hetzner Online": 138
+        "Hetzner Online": 139
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
