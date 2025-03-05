@@ -1,10 +1,15 @@
 {
-    "siteCount": 51093,
+    "siteCount": 51096,
     "recentlyMoved": [
         {
             "domain_name": "themedspaaustin.com",
             "destination": "Kinsta",
             "date": "2025-03-05 18:25:41"
+        },
+        {
+            "domain_name": "nextsuccess.org",
+            "destination": "Digital Ocean",
+            "date": "2025-03-05 18:11:35"
         },
         {
             "domain_name": "motivss.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.fitufinance.com",
             "destination": "Kinsta",
             "date": "2025-03-05 00:00:16"
-        },
-        {
-            "domain_name": "njdog.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-04 23:04:28"
         }
     ],
     "dailyMovedStat": {
@@ -673,10 +673,10 @@
         "Pressable": 8420,
         "Bluehost": 3790,
         "Kinsta": 3203,
-        "Digital Ocean": 3102,
+        "Digital Ocean": 3103,
         "SiteGround": 2786,
         "Hostinger": 1746,
-        "GoDaddy": 861,
+        "GoDaddy": 862,
         "BigScoots": 409,
         "Liquid Web": 315,
         "Elementor Hosting": 260,
