@@ -1,6 +1,11 @@
 {
-    "siteCount": 50944,
+    "siteCount": 50954,
     "recentlyMoved": [
+        {
+            "domain_name": "eastofenglandappg.org.uk",
+            "destination": "SiteGround",
+            "date": "2025-03-05 10:16:20"
+        },
         {
             "domain_name": "www.kinetecusa.com",
             "destination": "Digital Ocean",
@@ -457,11 +462,6 @@
             "date": "2025-03-04 16:19:05"
         },
         {
-            "domain_name": "advisorinbound.com",
-            "destination": "Pressable",
-            "date": "2025-03-04 16:13:05"
-        },
-        {
             "domain_name": "www.bigdaddysseptic.com",
             "destination": "Pressable",
             "date": "2025-03-04 15:57:41"
@@ -674,7 +674,7 @@
         "Bluehost": 3788,
         "Kinsta": 3194,
         "Digital Ocean": 3092,
-        "SiteGround": 2776,
+        "SiteGround": 2777,
         "Hostinger": 1742,
         "GoDaddy": 858,
         "BigScoots": 403,
