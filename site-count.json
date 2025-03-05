@@ -1,5 +1,5 @@
 {
-    "siteCount": 51250,
+    "siteCount": 51252,
     "recentlyMoved": [
         {
             "domain_name": "esblog.nextdoor.com",
@@ -10,6 +10,11 @@
             "domain_name": "tycolexcavating.com",
             "destination": "SiteGround",
             "date": "2025-03-05 22:38:40"
+        },
+        {
+            "domain_name": "evolvelube.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-05 22:05:28"
         },
         {
             "domain_name": "dkblog.nextdoor.com",
@@ -477,11 +482,6 @@
             "date": "2025-03-05 13:44:10"
         },
         {
-            "domain_name": "southcountyhearing.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-05 13:36:21"
-        },
-        {
             "domain_name": "www.sittonmechanical.com",
             "destination": "Digital Ocean",
             "date": "2025-03-05 13:32:07"
@@ -667,13 +667,14 @@
         "2025-03-01": "50236",
         "2025-03-02": "50409",
         "2025-03-03": "50564",
-        "2025-03-04": "50863"
+        "2025-03-04": "50863",
+        "2025-03-05": "51252"
     },
     "topDestinationHosts": {
         "Pressable": 8424,
         "Bluehost": 3790,
         "Kinsta": 3220,
-        "Digital Ocean": 3112,
+        "Digital Ocean": 3114,
         "SiteGround": 2792,
         "Hostinger": 1750,
         "GoDaddy": 862,
@@ -856,6 +857,7 @@
         "2025-03-01": "658420",
         "2025-03-02": "658935",
         "2025-03-03": "658373",
-        "2025-03-04": "657386"
+        "2025-03-04": "657386",
+        "2025-03-05": "656761"
     }
 }
