@@ -1,6 +1,21 @@
 {
-    "siteCount": 51511,
+    "siteCount": 51517,
     "recentlyMoved": [
+        {
+            "domain_name": "newlifeturf.com",
+            "destination": "SiteGround",
+            "date": "2025-03-06 18:45:56"
+        },
+        {
+            "domain_name": "euro-motion.com",
+            "destination": "DreamHost",
+            "date": "2025-03-06 18:41:55"
+        },
+        {
+            "domain_name": "erinstutland.com",
+            "destination": "BigScoots",
+            "date": "2025-03-06 18:39:56"
+        },
         {
             "domain_name": "ecosupplements.fi",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "nanmckayconnects.com",
             "destination": "SiteGround",
             "date": "2025-03-06 06:27:50"
-        },
-        {
-            "domain_name": "desertskyclosets.com",
-            "destination": "SiteGround",
-            "date": "2025-03-06 05:46:20"
-        },
-        {
-            "domain_name": "thelandapp.com",
-            "destination": "SiteGround",
-            "date": "2025-03-06 05:34:32"
-        },
-        {
-            "domain_name": "www.theredboats.co.nz",
-            "destination": "Pressable",
-            "date": "2025-03-06 05:26:43"
         }
     ],
     "dailyMovedStat": {
@@ -675,10 +675,10 @@
         "Bluehost": 3794,
         "Kinsta": 3239,
         "Digital Ocean": 3129,
-        "SiteGround": 2808,
+        "SiteGround": 2809,
         "Hostinger": 1756,
         "GoDaddy": 873,
-        "BigScoots": 427,
+        "BigScoots": 428,
         "Liquid Web": 320,
         "Elementor Hosting": 261,
         "GridPane": 248,
@@ -688,7 +688,7 @@
         "IONOS": 191,
         "Wordify": 174,
         "A2 Hosting": 164,
-        "DreamHost": 158,
+        "DreamHost": 159,
         "Namecheap": 157,
         "Hetzner Online": 140
     },
