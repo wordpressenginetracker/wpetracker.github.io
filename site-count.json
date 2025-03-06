@@ -1,6 +1,11 @@
 {
-    "siteCount": 51334,
+    "siteCount": 51337,
     "recentlyMoved": [
+        {
+            "domain_name": "nubuildz.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-06 10:48:42"
+        },
         {
             "domain_name": "transitionselite.com",
             "destination": "Hostinger",
@@ -15,6 +20,11 @@
             "domain_name": "mind-i.com",
             "destination": "GoDaddy",
             "date": "2025-03-06 10:29:10"
+        },
+        {
+            "domain_name": "norsap.no",
+            "destination": "Digital Ocean",
+            "date": "2025-03-06 10:15:04"
         },
         {
             "domain_name": "ecosupplements.se",
@@ -472,16 +482,6 @@
             "date": "2025-03-05 17:45:51"
         },
         {
-            "domain_name": "leaningladderoliveoil.com",
-            "destination": "SiteGround",
-            "date": "2025-03-05 17:39:29"
-        },
-        {
-            "domain_name": "leahmatsonphd.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-05 17:39:29"
-        },
-        {
             "domain_name": "www.riberahealthcare.org",
             "destination": "Kinsta",
             "date": "2025-03-05 17:34:48"
@@ -674,10 +674,10 @@
         "Pressable": 8429,
         "Bluehost": 3792,
         "Kinsta": 3225,
-        "Digital Ocean": 3121,
+        "Digital Ocean": 3122,
         "SiteGround": 2796,
         "Hostinger": 1751,
-        "GoDaddy": 869,
+        "GoDaddy": 870,
         "BigScoots": 420,
         "Liquid Web": 317,
         "Elementor Hosting": 261,
