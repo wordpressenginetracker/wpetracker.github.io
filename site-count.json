@@ -1,10 +1,20 @@
 {
-    "siteCount": 51264,
+    "siteCount": 51270,
     "recentlyMoved": [
         {
             "domain_name": "aublog.nextdoor.com",
             "destination": "Digital Ocean",
             "date": "2025-03-06 00:37:03"
+        },
+        {
+            "domain_name": "restorationrangers.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-06 00:17:20"
+        },
+        {
+            "domain_name": "redfoxroofers.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-06 00:09:28"
         },
         {
             "domain_name": "www.riverbankcoaching.com",
@@ -490,16 +500,6 @@
             "domain_name": "deeptech.studio",
             "destination": "SiteGround",
             "date": "2025-03-05 13:45:08"
-        },
-        {
-            "domain_name": "www.steadyairllc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-05 13:29:48"
-        },
-        {
-            "domain_name": "madexmtns.com",
-            "destination": "Kinsta",
-            "date": "2025-03-05 13:10:59"
         }
     ],
     "dailyMovedStat": {
@@ -677,7 +677,7 @@
         "Digital Ocean": 3117,
         "SiteGround": 2792,
         "Hostinger": 1750,
-        "GoDaddy": 862,
+        "GoDaddy": 864,
         "BigScoots": 420,
         "Liquid Web": 317,
         "Elementor Hosting": 260,
