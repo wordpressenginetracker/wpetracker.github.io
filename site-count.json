@@ -1,10 +1,15 @@
 {
-    "siteCount": 51677,
+    "siteCount": 51682,
     "recentlyMoved": [
         {
             "domain_name": "greenberry.com",
             "destination": "SiteGround",
             "date": "2025-03-07 08:31:50"
+        },
+        {
+            "domain_name": "resilientme.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-03-07 08:30:57"
         },
         {
             "domain_name": "www.boselectric.com",
@@ -482,11 +487,6 @@
             "date": "2025-03-06 13:27:30"
         },
         {
-            "domain_name": "coeusinsurance.com",
-            "destination": "Kinsta",
-            "date": "2025-03-06 13:18:53"
-        },
-        {
             "domain_name": "comprehensiveneurosurgery.com",
             "destination": "Kinsta",
             "date": "2025-03-06 13:11:19"
@@ -675,7 +675,7 @@
         "Pressable": 8456,
         "Bluehost": 3795,
         "Kinsta": 3249,
-        "Digital Ocean": 3134,
+        "Digital Ocean": 3135,
         "SiteGround": 2823,
         "Hostinger": 1758,
         "GoDaddy": 874,
