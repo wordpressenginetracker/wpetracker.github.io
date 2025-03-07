@@ -1,6 +1,11 @@
 {
-    "siteCount": 51664,
+    "siteCount": 51666,
     "recentlyMoved": [
+        {
+            "domain_name": "nqbk.se",
+            "destination": "Kinsta",
+            "date": "2025-03-07 06:47:32"
+        },
         {
             "domain_name": "sullivanfdn.org",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "stohrslawnservice.com",
             "destination": "Bluehost",
             "date": "2025-03-06 13:07:18"
-        },
-        {
-            "domain_name": "centerforwellnessmd.com",
-            "destination": "Kinsta",
-            "date": "2025-03-06 12:38:08"
         }
     ],
     "dailyMovedStat": {
@@ -674,7 +674,7 @@
     "topDestinationHosts": {
         "Pressable": 8456,
         "Bluehost": 3795,
-        "Kinsta": 3247,
+        "Kinsta": 3248,
         "Digital Ocean": 3134,
         "SiteGround": 2821,
         "Hostinger": 1758,
