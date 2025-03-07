@@ -1,10 +1,20 @@
 {
-    "siteCount": 51851,
+    "siteCount": 51857,
     "recentlyMoved": [
+        {
+            "domain_name": "notimetocare.com",
+            "destination": "Kinsta",
+            "date": "2025-03-07 18:37:41"
+        },
         {
             "domain_name": "tucsondictograph.com",
             "destination": "Kinsta",
             "date": "2025-03-07 18:28:32"
+        },
+        {
+            "domain_name": "erniescomo.com",
+            "destination": "Hostinger",
+            "date": "2025-03-07 18:27:36"
         },
         {
             "domain_name": "duffyandyoung.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.oldtruth.com",
             "destination": "Kinsta",
             "date": "2025-03-06 21:20:00"
-        },
-        {
-            "domain_name": "www.kennethtwaymd.com",
-            "destination": "Kinsta",
-            "date": "2025-03-06 21:15:48"
-        },
-        {
-            "domain_name": "www.mightyscribes.com",
-            "destination": "Kinsta",
-            "date": "2025-03-06 20:40:20"
         }
     ],
     "dailyMovedStat": {
@@ -674,10 +674,10 @@
     "topDestinationHosts": {
         "Pressable": 8473,
         "Bluehost": 3795,
-        "Kinsta": 3258,
+        "Kinsta": 3260,
         "Digital Ocean": 3144,
         "SiteGround": 2830,
-        "Hostinger": 1771,
+        "Hostinger": 1772,
         "GoDaddy": 877,
         "BigScoots": 431,
         "Liquid Web": 325,
