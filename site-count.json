@@ -1,6 +1,11 @@
 {
-    "siteCount": 52099,
+    "siteCount": 52100,
     "recentlyMoved": [
+        {
+            "domain_name": "fairchildusa.com",
+            "destination": "Kinsta",
+            "date": "2025-03-08 14:35:03"
+        },
         {
             "domain_name": "michiganhorseproperty.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "traviscountyappliancerepair.com",
             "destination": "Digital Ocean",
             "date": "2025-03-07 18:13:39"
-        },
-        {
-            "domain_name": "yourconciergenyc.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-07 18:08:50"
         }
     ],
     "dailyMovedStat": {
@@ -673,19 +673,19 @@
         "2025-03-07": "51957"
     },
     "topDestinationHosts": {
-        "Pressable": 8485,
+        "Pressable": 8488,
         "Bluehost": 3796,
-        "Kinsta": 3288,
-        "Digital Ocean": 3152,
-        "SiteGround": 2838,
-        "Hostinger": 1780,
-        "GoDaddy": 879,
+        "Kinsta": 3290,
+        "Digital Ocean": 3155,
+        "SiteGround": 2842,
+        "Hostinger": 1781,
+        "GoDaddy": 880,
         "BigScoots": 432,
-        "Liquid Web": 327,
+        "Liquid Web": 329,
         "Elementor Hosting": 262,
         "GridPane": 249,
         "WordPress.com": 236,
-        "InMotion Hosting": 221,
+        "InMotion Hosting": 222,
         "OVH": 201,
         "IONOS": 191,
         "Wordify": 174,
