@@ -1,6 +1,16 @@
 {
-    "siteCount": 51966,
+    "siteCount": 51974,
     "recentlyMoved": [
+        {
+            "domain_name": "iebiolab.com",
+            "destination": "SiteGround",
+            "date": "2025-03-08 00:50:27"
+        },
+        {
+            "domain_name": "barleycanada.com",
+            "destination": "Namecheap",
+            "date": "2025-03-07 23:55:50"
+        },
         {
             "domain_name": "elegantstitchesinc.com",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2025-03-07 12:07:32"
         },
         {
-            "domain_name": "alineasphalt.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-07 12:07:09"
-        },
-        {
             "domain_name": "www.schoolchoiceintl.com",
             "destination": "Kinsta",
             "date": "2025-03-07 11:52:16"
@@ -495,11 +500,6 @@
             "domain_name": "getfitatchampsfitness.com",
             "destination": "Hostinger",
             "date": "2025-03-07 11:33:35"
-        },
-        {
-            "domain_name": "fitcitycrossfit.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-07 11:14:54"
         }
     ],
     "dailyMovedStat": {
@@ -677,7 +677,7 @@
         "Bluehost": 3796,
         "Kinsta": 3280,
         "Digital Ocean": 3145,
-        "SiteGround": 2834,
+        "SiteGround": 2835,
         "Hostinger": 1774,
         "GoDaddy": 877,
         "BigScoots": 431,
@@ -691,7 +691,7 @@
         "Wordify": 174,
         "A2 Hosting": 165,
         "DreamHost": 162,
-        "Namecheap": 158,
+        "Namecheap": 159,
         "Hetzner Online": 145
     },
     "dailyTotalStat": {
