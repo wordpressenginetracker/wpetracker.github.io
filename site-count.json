@@ -1,6 +1,41 @@
 {
-    "siteCount": 52054,
+    "siteCount": 52074,
     "recentlyMoved": [
+        {
+            "domain_name": "kopiraittila.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-03-08 13:22:24"
+        },
+        {
+            "domain_name": "www.jeanliudesign.com",
+            "destination": "Pressable",
+            "date": "2025-03-08 12:59:33"
+        },
+        {
+            "domain_name": "www.ngadumpsters.com",
+            "destination": "Pressable",
+            "date": "2025-03-08 12:51:44"
+        },
+        {
+            "domain_name": "clarksvillebodysculpting.com",
+            "destination": "WordPress.com",
+            "date": "2025-03-08 12:47:09"
+        },
+        {
+            "domain_name": "childcheckmate.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-08 12:43:56"
+        },
+        {
+            "domain_name": "jonathangeitner.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-03-08 12:32:04"
+        },
+        {
+            "domain_name": "boulevardlashesyyj.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-08 12:24:16"
+        },
         {
             "domain_name": "hansa-flex.sk",
             "destination": "Kinsta",
@@ -25,6 +60,21 @@
             "domain_name": "hansa-flex.hr",
             "destination": "Kinsta",
             "date": "2025-03-08 12:22:48"
+        },
+        {
+            "domain_name": "revolutiondistro.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-08 12:20:05"
+        },
+        {
+            "domain_name": "bestmenopausesupplements.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-03-08 12:09:22"
+        },
+        {
+            "domain_name": "www.dcelectronics.com",
+            "destination": "BigScoots",
+            "date": "2025-03-08 12:07:38"
         },
         {
             "domain_name": "withpurposellc.com",
@@ -442,11 +492,6 @@
             "date": "2025-03-07 17:07:16"
         },
         {
-            "domain_name": "blog.blablacar.cz",
-            "destination": "Pressable",
-            "date": "2025-03-07 17:04:35"
-        },
-        {
             "domain_name": "corinnescatering.com",
             "destination": "Hostinger",
             "date": "2025-03-07 17:03:48"
@@ -455,51 +500,6 @@
             "domain_name": "cbfstrategy.com",
             "destination": "Hostinger",
             "date": "2025-03-07 16:47:53"
-        },
-        {
-            "domain_name": "handsonscience.ca",
-            "destination": "SiteGround",
-            "date": "2025-03-07 16:37:35"
-        },
-        {
-            "domain_name": "hammerfallsconstruction.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-07 16:37:35"
-        },
-        {
-            "domain_name": "www.keylawoffice.com",
-            "destination": "GridPane",
-            "date": "2025-03-07 16:35:24"
-        },
-        {
-            "domain_name": "altawinebar.com",
-            "destination": "Pressable",
-            "date": "2025-03-07 16:18:29"
-        },
-        {
-            "domain_name": "www.austinhandsurgeons.com",
-            "destination": "Kinsta",
-            "date": "2025-03-07 16:15:59"
-        },
-        {
-            "domain_name": "www.animaldoctorsclydach.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2025-03-07 16:07:51"
-        },
-        {
-            "domain_name": "www.hearthstonestoves.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-07 15:54:20"
-        },
-        {
-            "domain_name": "a-1securityonline.com",
-            "destination": "Pressable",
-            "date": "2025-03-07 15:50:53"
-        },
-        {
-            "domain_name": "www.urbanmobilityla.com",
-            "destination": "Kinsta",
-            "date": "2025-03-07 15:31:51"
         }
     ],
     "dailyMovedStat": {
@@ -673,18 +673,18 @@
         "2025-03-07": "51957"
     },
     "topDestinationHosts": {
-        "Pressable": 8483,
+        "Pressable": 8485,
         "Bluehost": 3796,
         "Kinsta": 3288,
-        "Digital Ocean": 3149,
-        "SiteGround": 2837,
+        "Digital Ocean": 3152,
+        "SiteGround": 2838,
         "Hostinger": 1780,
-        "GoDaddy": 878,
-        "BigScoots": 431,
+        "GoDaddy": 879,
+        "BigScoots": 432,
         "Liquid Web": 327,
         "Elementor Hosting": 262,
         "GridPane": 249,
-        "WordPress.com": 235,
+        "WordPress.com": 236,
         "InMotion Hosting": 221,
         "OVH": 201,
         "IONOS": 191,
@@ -692,7 +692,7 @@
         "A2 Hosting": 165,
         "DreamHost": 162,
         "Namecheap": 159,
-        "Hetzner Online": 145
+        "Hetzner Online": 146
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
