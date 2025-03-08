@@ -1,6 +1,11 @@
 {
-    "siteCount": 51988,
+    "siteCount": 51997,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dsmpmarketing.com",
+            "destination": "SiteGround",
+            "date": "2025-03-08 04:33:24"
+        },
         {
             "domain_name": "penancegym.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-03-07 12:21:47"
         },
         {
-            "domain_name": "www.kurcoconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-03-07 12:13:23"
-        },
-        {
             "domain_name": "www.bvtnews.com",
             "destination": "Kinsta",
             "date": "2025-03-07 12:12:30"
@@ -677,7 +677,7 @@
         "Bluehost": 3796,
         "Kinsta": 3280,
         "Digital Ocean": 3147,
-        "SiteGround": 2835,
+        "SiteGround": 2836,
         "Hostinger": 1774,
         "GoDaddy": 877,
         "BigScoots": 431,
