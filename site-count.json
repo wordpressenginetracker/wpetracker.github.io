@@ -1,5 +1,5 @@
 {
-    "siteCount": 52010,
+    "siteCount": 52012,
     "recentlyMoved": [
         {
             "domain_name": "equalaccess.pro",
@@ -20,6 +20,11 @@
             "domain_name": "thepark.company",
             "destination": "Pressable",
             "date": "2025-03-08 06:20:05"
+        },
+        {
+            "domain_name": "newsroom.blablacar.com.br",
+            "destination": "Pressable",
+            "date": "2025-03-08 06:00:46"
         },
         {
             "domain_name": "doors.acclaimgaragedoors.com",
@@ -487,11 +492,6 @@
             "date": "2025-03-07 12:53:05"
         },
         {
-            "domain_name": "joepiscopo.org",
-            "destination": "GoDaddy",
-            "date": "2025-03-07 12:52:13"
-        },
-        {
             "domain_name": "www.land-sea.net",
             "destination": "Pressable",
             "date": "2025-03-07 12:44:28"
@@ -673,12 +673,12 @@
         "2025-03-07": "51957"
     },
     "topDestinationHosts": {
-        "Pressable": 8479,
+        "Pressable": 8480,
         "Bluehost": 3796,
         "Kinsta": 3280,
         "Digital Ocean": 3147,
         "SiteGround": 2837,
-        "Hostinger": 1775,
+        "Hostinger": 1778,
         "GoDaddy": 877,
         "BigScoots": 431,
         "Liquid Web": 326,
