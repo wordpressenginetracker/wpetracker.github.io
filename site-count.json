@@ -1,6 +1,11 @@
 {
-    "siteCount": 52296,
+    "siteCount": 52298,
     "recentlyMoved": [
+        {
+            "domain_name": "experienceinvestigators.com",
+            "destination": "Liquid Web",
+            "date": "2025-03-09 02:23:33"
+        },
         {
             "domain_name": "dochypnosis.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "subboxy.com",
             "destination": "Hostinger",
             "date": "2025-03-08 05:19:52"
-        },
-        {
-            "domain_name": "www.dsmpmarketing.com",
-            "destination": "SiteGround",
-            "date": "2025-03-08 04:33:24"
         }
     ],
     "dailyMovedStat": {
@@ -682,7 +682,7 @@
         "Hostinger": 1784,
         "GoDaddy": 881,
         "BigScoots": 438,
-        "Liquid Web": 330,
+        "Liquid Web": 331,
         "Elementor Hosting": 263,
         "GridPane": 250,
         "WordPress.com": 236,
