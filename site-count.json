@@ -1,6 +1,11 @@
 {
-    "siteCount": 52325,
+    "siteCount": 52329,
     "recentlyMoved": [
+        {
+            "domain_name": "dwjtravel.com",
+            "destination": "WordPress.com",
+            "date": "2025-03-09 09:48:58"
+        },
         {
             "domain_name": "closetandbeyond.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-03-08 06:47:07"
         },
         {
-            "domain_name": "equalacademy.org",
-            "destination": "Hostinger",
-            "date": "2025-03-08 06:47:07"
-        },
-        {
             "domain_name": "newsroom.blablacar.com.br",
             "destination": "Pressable",
             "date": "2025-03-08 06:00:46"
@@ -685,7 +685,7 @@
         "Liquid Web": 331,
         "Elementor Hosting": 263,
         "GridPane": 250,
-        "WordPress.com": 236,
+        "WordPress.com": 237,
         "InMotion Hosting": 224,
         "OVH": 202,
         "IONOS": 191,
