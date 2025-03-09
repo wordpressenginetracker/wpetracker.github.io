@@ -1,6 +1,36 @@
 {
-    "siteCount": 52365,
+    "siteCount": 52383,
     "recentlyMoved": [
+        {
+            "domain_name": "christopherjonesphoto.com",
+            "destination": "Pressable",
+            "date": "2025-03-09 17:38:58"
+        },
+        {
+            "domain_name": "killerclients.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-09 17:34:28"
+        },
+        {
+            "domain_name": "central-downtown.com",
+            "destination": "Pressable",
+            "date": "2025-03-09 17:33:36"
+        },
+        {
+            "domain_name": "bolddisposal.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-09 16:40:52"
+        },
+        {
+            "domain_name": "shamcomanagement.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-09 16:27:30"
+        },
+        {
+            "domain_name": "benchmarkdevelopment.com",
+            "destination": "Pressable",
+            "date": "2025-03-09 16:22:44"
+        },
         {
             "domain_name": "primepropertiesandconsulting.com",
             "destination": "Digital Ocean",
@@ -457,24 +487,9 @@
             "date": "2025-03-08 12:07:38"
         },
         {
-            "domain_name": "withpurposellc.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-08 12:00:51"
-        },
-        {
             "domain_name": "www.aireprocs.com",
             "destination": "Pressable",
             "date": "2025-03-08 11:56:35"
-        },
-        {
-            "domain_name": "abiquawindvineyard.com",
-            "destination": "Pressable",
-            "date": "2025-03-08 11:53:06"
-        },
-        {
-            "domain_name": "abiquawind.com",
-            "destination": "Pressable",
-            "date": "2025-03-08 11:53:06"
         },
         {
             "domain_name": "gulllakerealty.info",
@@ -485,21 +500,6 @@
             "domain_name": "www.accutemp.pro",
             "destination": "Digital Ocean",
             "date": "2025-03-08 11:33:03"
-        },
-        {
-            "domain_name": "forwardchurch.ca",
-            "destination": "OVH",
-            "date": "2025-03-08 11:16:04"
-        },
-        {
-            "domain_name": "www.therapservices.net",
-            "destination": "Kinsta",
-            "date": "2025-03-08 09:47:43"
-        },
-        {
-            "domain_name": "www.historynerd.ca",
-            "destination": "OVH",
-            "date": "2025-03-08 09:39:15"
         }
     ],
     "dailyMovedStat": {
@@ -674,13 +674,13 @@
         "2025-03-08": "52282"
     },
     "topDestinationHosts": {
-        "Pressable": 8498,
+        "Pressable": 8501,
         "Bluehost": 3798,
         "Kinsta": 3307,
-        "Digital Ocean": 3164,
+        "Digital Ocean": 3166,
         "SiteGround": 2849,
         "Hostinger": 1785,
-        "GoDaddy": 881,
+        "GoDaddy": 882,
         "BigScoots": 438,
         "Liquid Web": 331,
         "Elementor Hosting": 263,
