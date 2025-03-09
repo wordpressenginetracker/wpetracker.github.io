@@ -1,6 +1,11 @@
 {
-    "siteCount": 52292,
+    "siteCount": 52296,
     "recentlyMoved": [
+        {
+            "domain_name": "dochypnosis.com",
+            "destination": "SiteGround",
+            "date": "2025-03-09 02:11:06"
+        },
         {
             "domain_name": "www.tradingcosts.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.dsmpmarketing.com",
             "destination": "SiteGround",
             "date": "2025-03-08 04:33:24"
-        },
-        {
-            "domain_name": "groundupfoundationrepair.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-08 04:02:00"
         }
     ],
     "dailyMovedStat": {
@@ -678,7 +678,7 @@
         "Bluehost": 3796,
         "Kinsta": 3307,
         "Digital Ocean": 3161,
-        "SiteGround": 2845,
+        "SiteGround": 2846,
         "Hostinger": 1784,
         "GoDaddy": 881,
         "BigScoots": 438,
