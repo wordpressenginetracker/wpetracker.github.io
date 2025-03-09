@@ -1,5 +1,5 @@
 {
-    "siteCount": 52383,
+    "siteCount": 52389,
     "recentlyMoved": [
         {
             "domain_name": "christopherjonesphoto.com",
@@ -15,6 +15,11 @@
             "domain_name": "central-downtown.com",
             "destination": "Pressable",
             "date": "2025-03-09 17:33:36"
+        },
+        {
+            "domain_name": "corptalk.com",
+            "destination": "Pressable",
+            "date": "2025-03-09 17:23:28"
         },
         {
             "domain_name": "bolddisposal.com",
@@ -495,11 +500,6 @@
             "domain_name": "gulllakerealty.info",
             "destination": "Liquid Web",
             "date": "2025-03-08 11:47:29"
-        },
-        {
-            "domain_name": "www.accutemp.pro",
-            "destination": "Digital Ocean",
-            "date": "2025-03-08 11:33:03"
         }
     ],
     "dailyMovedStat": {
@@ -674,7 +674,7 @@
         "2025-03-08": "52282"
     },
     "topDestinationHosts": {
-        "Pressable": 8501,
+        "Pressable": 8502,
         "Bluehost": 3798,
         "Kinsta": 3307,
         "Digital Ocean": 3166,
