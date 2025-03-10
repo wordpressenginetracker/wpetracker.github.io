@@ -1,6 +1,16 @@
 {
-    "siteCount": 52503,
+    "siteCount": 52557,
     "recentlyMoved": [
+        {
+            "domain_name": "globalwinesiowa.com",
+            "destination": "SiteGround",
+            "date": "2025-03-10 20:01:27"
+        },
+        {
+            "domain_name": "ormondevethospital.ie",
+            "destination": "Hetzner Online",
+            "date": "2025-03-10 19:23:23"
+        },
         {
             "domain_name": "www.linkgraph.com",
             "destination": "Kinsta",
@@ -462,11 +472,6 @@
             "date": "2025-03-08 13:48:40"
         },
         {
-            "domain_name": "studiogroupchicago.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-08 13:41:00"
-        },
-        {
             "domain_name": "cubiscan.com",
             "destination": "Hostinger",
             "date": "2025-03-08 13:40:43"
@@ -490,11 +495,6 @@
             "domain_name": "www.spineandrehab.com",
             "destination": "Digital Ocean",
             "date": "2025-03-08 13:23:04"
-        },
-        {
-            "domain_name": "suegarciafitness.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-03-08 13:19:52"
         },
         {
             "domain_name": "www.snlandcruisers.com",
@@ -678,23 +678,23 @@
         "Pressable": 8504,
         "Bluehost": 3798,
         "Kinsta": 3308,
-        "Digital Ocean": 3168,
-        "SiteGround": 2854,
-        "Hostinger": 1791,
+        "Digital Ocean": 3171,
+        "SiteGround": 2856,
+        "Hostinger": 1792,
         "GoDaddy": 883,
         "BigScoots": 438,
         "Liquid Web": 331,
-        "Elementor Hosting": 263,
+        "Elementor Hosting": 264,
         "GridPane": 250,
         "WordPress.com": 237,
         "InMotion Hosting": 224,
         "OVH": 202,
-        "IONOS": 191,
+        "IONOS": 192,
         "Wordify": 174,
         "A2 Hosting": 165,
         "DreamHost": 163,
         "Namecheap": 161,
-        "Hetzner Online": 146
+        "Hetzner Online": 147
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
