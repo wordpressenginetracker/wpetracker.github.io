@@ -1,6 +1,11 @@
 {
-    "siteCount": 52456,
+    "siteCount": 52458,
     "recentlyMoved": [
+        {
+            "domain_name": "brizbit.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-10 05:01:42"
+        },
         {
             "domain_name": "balloonshopnyc.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "jonathangeitner.co.uk",
             "destination": "SiteGround",
             "date": "2025-03-08 12:32:04"
-        },
-        {
-            "domain_name": "boulevardlashesyyj.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-08 12:24:16"
         }
     ],
     "dailyMovedStat": {
@@ -675,13 +675,13 @@
         "2025-03-09": "52426"
     },
     "topDestinationHosts": {
-        "Pressable": 8503,
+        "Pressable": 8504,
         "Bluehost": 3798,
         "Kinsta": 3307,
         "Digital Ocean": 3166,
         "SiteGround": 2852,
         "Hostinger": 1791,
-        "GoDaddy": 882,
+        "GoDaddy": 883,
         "BigScoots": 438,
         "Liquid Web": 331,
         "Elementor Hosting": 263,
