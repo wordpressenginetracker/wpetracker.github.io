@@ -1,5 +1,5 @@
 {
-    "siteCount": 52474,
+    "siteCount": 52476,
     "recentlyMoved": [
         {
             "domain_name": "binns.media",
@@ -675,19 +675,26 @@
         "2025-03-09": "52426"
     },
     "topDestinationHosts": {
+        "Pressable": 8504,
         "Bluehost": 3798,
+        "Kinsta": 3307,
         "Digital Ocean": 3166,
-        "Hostinger": 1757,
+        "SiteGround": 2853,
+        "Hostinger": 1791,
+        "GoDaddy": 883,
+        "BigScoots": 438,
         "Liquid Web": 331,
+        "Elementor Hosting": 263,
+        "GridPane": 250,
         "WordPress.com": 237,
         "InMotion Hosting": 224,
         "OVH": 202,
         "IONOS": 191,
         "Wordify": 174,
+        "A2 Hosting": 165,
         "DreamHost": 163,
-        "HostGator": 103,
-        "Krystal Hosting": 85,
-        "WordPress VIP": 77
+        "Namecheap": 161,
+        "Hetzner Online": 146
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
