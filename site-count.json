@@ -1,6 +1,11 @@
 {
-    "siteCount": 52470,
+    "siteCount": 52474,
     "recentlyMoved": [
+        {
+            "domain_name": "binns.media",
+            "destination": "SiteGround",
+            "date": "2025-03-10 08:19:10"
+        },
         {
             "domain_name": "priorityrental.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "childcheckmate.com",
             "destination": "Digital Ocean",
             "date": "2025-03-08 12:43:56"
-        },
-        {
-            "domain_name": "jonathangeitner.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-03-08 12:32:04"
         }
     ],
     "dailyMovedStat": {
@@ -675,26 +675,19 @@
         "2025-03-09": "52426"
     },
     "topDestinationHosts": {
-        "Pressable": 8504,
         "Bluehost": 3798,
-        "Kinsta": 3307,
         "Digital Ocean": 3166,
-        "SiteGround": 2852,
-        "Hostinger": 1791,
-        "GoDaddy": 883,
-        "BigScoots": 438,
+        "Hostinger": 1757,
         "Liquid Web": 331,
-        "Elementor Hosting": 263,
-        "GridPane": 250,
         "WordPress.com": 237,
         "InMotion Hosting": 224,
         "OVH": 202,
         "IONOS": 191,
         "Wordify": 174,
-        "A2 Hosting": 165,
         "DreamHost": 163,
-        "Namecheap": 161,
-        "Hetzner Online": 146
+        "HostGator": 103,
+        "Krystal Hosting": 85,
+        "WordPress VIP": 77
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
