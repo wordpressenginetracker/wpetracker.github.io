@@ -1,6 +1,16 @@
 {
-    "siteCount": 52570,
+    "siteCount": 52575,
     "recentlyMoved": [
+        {
+            "domain_name": "wedgelabels.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-11 00:08:16"
+        },
+        {
+            "domain_name": "fervor-records.com",
+            "destination": "OVH",
+            "date": "2025-03-10 23:40:07"
+        },
         {
             "domain_name": "newrockies.com",
             "destination": "Elementor Hosting",
@@ -472,11 +482,6 @@
             "date": "2025-03-08 14:12:17"
         },
         {
-            "domain_name": "medicinalgenomics.com",
-            "destination": "SiteGround",
-            "date": "2025-03-08 14:06:01"
-        },
-        {
             "domain_name": "thrivingtogetheratlanta.org",
             "destination": "SiteGround",
             "date": "2025-03-08 14:04:05"
@@ -495,11 +500,6 @@
             "domain_name": "ttrc.org.uk",
             "destination": "SiteGround",
             "date": "2025-03-08 13:48:40"
-        },
-        {
-            "domain_name": "matchboxllc.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-08 13:37:56"
         }
     ],
     "dailyMovedStat": {
@@ -679,7 +679,7 @@
         "Pressable": 8504,
         "Bluehost": 3798,
         "Kinsta": 3309,
-        "Digital Ocean": 3171,
+        "Digital Ocean": 3172,
         "SiteGround": 2856,
         "Hostinger": 1794,
         "GoDaddy": 883,
@@ -689,7 +689,7 @@
         "GridPane": 250,
         "WordPress.com": 237,
         "InMotion Hosting": 224,
-        "OVH": 202,
+        "OVH": 203,
         "IONOS": 192,
         "Wordify": 174,
         "A2 Hosting": 165,
