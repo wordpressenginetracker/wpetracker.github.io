@@ -1,6 +1,11 @@
 {
-    "siteCount": 52614,
+    "siteCount": 52621,
     "recentlyMoved": [
+        {
+            "domain_name": "www.acesiowa.com",
+            "destination": "Pressable",
+            "date": "2025-03-11 08:03:56"
+        },
         {
             "domain_name": "viennasquare.com",
             "destination": "Digital Ocean",
@@ -477,11 +482,6 @@
             "date": "2025-03-08 16:51:41"
         },
         {
-            "domain_name": "resourcevt.org",
-            "destination": "Elementor Hosting",
-            "date": "2025-03-08 16:44:26"
-        },
-        {
             "domain_name": "www.grumpyshvac.com",
             "destination": "Pressable",
             "date": "2025-03-08 16:38:20"
@@ -676,7 +676,7 @@
         "2025-03-10": "52570"
     },
     "topDestinationHosts": {
-        "Pressable": 8506,
+        "Pressable": 8507,
         "Bluehost": 3798,
         "Kinsta": 3309,
         "Digital Ocean": 3178,
