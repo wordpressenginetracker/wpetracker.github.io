@@ -1,15 +1,55 @@
 {
-    "siteCount": 52852,
+    "siteCount": 52866,
     "recentlyMoved": [
+        {
+            "domain_name": "kindredvines.com",
+            "destination": "SiteGround",
+            "date": "2025-03-11 20:58:07"
+        },
+        {
+            "domain_name": "brunospizzaclifton.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-11 20:55:04"
+        },
+        {
+            "domain_name": "www.jahnleeye.com",
+            "destination": "Kinsta",
+            "date": "2025-03-11 20:54:02"
+        },
+        {
+            "domain_name": "www.escapescontracting.com",
+            "destination": "Pressable",
+            "date": "2025-03-11 20:51:36"
+        },
+        {
+            "domain_name": "ironwoodpediatricdentistry.com",
+            "destination": "Kinsta",
+            "date": "2025-03-11 20:44:24"
+        },
         {
             "domain_name": "bactelife.com",
             "destination": "SiteGround",
             "date": "2025-03-11 20:42:32"
         },
         {
+            "domain_name": "sermonary.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-11 20:42:24"
+        },
+        {
             "domain_name": "www.carefreecrafts.com",
             "destination": "Hostinger",
             "date": "2025-03-11 20:36:36"
+        },
+        {
+            "domain_name": "www.homestead.tours",
+            "destination": "Hostinger",
+            "date": "2025-03-11 20:27:25"
+        },
+        {
+            "domain_name": "sakejapanesebistro.com",
+            "destination": "Hostinger",
+            "date": "2025-03-11 20:26:34"
         },
         {
             "domain_name": "altourage.com",
@@ -460,46 +500,6 @@
             "domain_name": "www.acesiowa.com",
             "destination": "Pressable",
             "date": "2025-03-11 08:03:56"
-        },
-        {
-            "domain_name": "viennasquare.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 06:36:18"
-        },
-        {
-            "domain_name": "mrwongschicken.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 06:09:29"
-        },
-        {
-            "domain_name": "www.trinityroofingconstruction.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 06:06:47"
-        },
-        {
-            "domain_name": "manstockholm.se",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 05:47:00"
-        },
-        {
-            "domain_name": "theunioncollege.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 05:35:37"
-        },
-        {
-            "domain_name": "barbersofsweden.se",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 04:40:40"
-        },
-        {
-            "domain_name": "www.goproappliancerepair.com",
-            "destination": "Pressable",
-            "date": "2025-03-11 04:24:47"
-        },
-        {
-            "domain_name": "naturallyflawlessskincare.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-03-11 02:42:44"
         }
     ],
     "dailyMovedStat": {
@@ -676,13 +676,13 @@
         "2025-03-10": "52570"
     },
     "topDestinationHosts": {
-        "Pressable": 8536,
+        "Pressable": 8537,
         "Bluehost": 3803,
-        "Kinsta": 3313,
-        "Digital Ocean": 3190,
-        "SiteGround": 2877,
-        "Hostinger": 1800,
-        "GoDaddy": 887,
+        "Kinsta": 3315,
+        "Digital Ocean": 3191,
+        "SiteGround": 2878,
+        "Hostinger": 1802,
+        "GoDaddy": 888,
         "BigScoots": 443,
         "Liquid Web": 332,
         "Elementor Hosting": 265,
@@ -694,7 +694,7 @@
         "Wordify": 174,
         "DreamHost": 167,
         "A2 Hosting": 165,
-        "Namecheap": 162,
+        "Namecheap": 163,
         "Hetzner Online": 149
     },
     "dailyTotalStat": {
