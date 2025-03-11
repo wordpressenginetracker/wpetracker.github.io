@@ -1,6 +1,11 @@
 {
-    "siteCount": 52794,
+    "siteCount": 52795,
     "recentlyMoved": [
+        {
+            "domain_name": "evergreenhomevacationrentals.com",
+            "destination": "Pressable",
+            "date": "2025-03-11 18:35:54"
+        },
         {
             "domain_name": "environmental-landworks.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.parcvetcare.org",
             "destination": "Hetzner Online",
             "date": "2025-03-10 21:03:40"
-        },
-        {
-            "domain_name": "insurance-innovators.com",
-            "destination": "Hostinger",
-            "date": "2025-03-10 20:34:21"
         }
     ],
     "dailyMovedStat": {
@@ -676,11 +676,11 @@
         "2025-03-10": "52570"
     },
     "topDestinationHosts": {
-        "Pressable": 8532,
+        "Pressable": 8534,
         "Bluehost": 3803,
         "Kinsta": 3313,
         "Digital Ocean": 3190,
-        "SiteGround": 2873,
+        "SiteGround": 2874,
         "Hostinger": 1798,
         "GoDaddy": 887,
         "BigScoots": 443,
