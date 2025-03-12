@@ -1,6 +1,11 @@
 {
-    "siteCount": 52918,
+    "siteCount": 52919,
     "recentlyMoved": [
+        {
+            "domain_name": "extremearizona.com",
+            "destination": "SiteGround",
+            "date": "2025-03-12 02:32:16"
+        },
         {
             "domain_name": "mama-notes.de",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "movementfundamentals.org",
             "destination": "SiteGround",
             "date": "2025-03-11 13:51:20"
-        },
-        {
-            "domain_name": "eacg.com",
-            "destination": "SiteGround",
-            "date": "2025-03-11 13:38:59"
         }
     ],
     "dailyMovedStat": {
@@ -681,7 +681,7 @@
         "Bluehost": 3803,
         "Kinsta": 3329,
         "Digital Ocean": 3193,
-        "SiteGround": 2884,
+        "SiteGround": 2885,
         "Hostinger": 1805,
         "GoDaddy": 888,
         "BigScoots": 443,
