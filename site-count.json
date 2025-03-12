@@ -1,6 +1,26 @@
 {
-    "siteCount": 52923,
+    "siteCount": 52931,
     "recentlyMoved": [
+        {
+            "domain_name": "kolbryggan.se",
+            "destination": "Kinsta",
+            "date": "2025-03-12 05:12:20"
+        },
+        {
+            "domain_name": "www.fishonsd.com",
+            "destination": "SiteGround",
+            "date": "2025-03-12 04:55:24"
+        },
+        {
+            "domain_name": "www.fishonpuertopenasco.com",
+            "destination": "SiteGround",
+            "date": "2025-03-12 04:55:24"
+        },
+        {
+            "domain_name": "www.furnitureresourceanddesign.com",
+            "destination": "SiteGround",
+            "date": "2025-03-12 04:17:40"
+        },
         {
             "domain_name": "extremearizona.com",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "veteranspridepest.com",
             "destination": "GoDaddy",
             "date": "2025-03-11 14:32:24"
-        },
-        {
-            "domain_name": "truckfactoringreviews.com",
-            "destination": "SiteGround",
-            "date": "2025-03-11 14:26:53"
-        },
-        {
-            "domain_name": "momandpop.shop",
-            "destination": "Digital Ocean",
-            "date": "2025-03-11 14:04:13"
-        },
-        {
-            "domain_name": "trapazon.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-11 14:03:19"
-        },
-        {
-            "domain_name": "movementfundamentals.org",
-            "destination": "SiteGround",
-            "date": "2025-03-11 13:51:20"
         }
     ],
     "dailyMovedStat": {
@@ -679,9 +679,9 @@
     "topDestinationHosts": {
         "Pressable": 8541,
         "Bluehost": 3803,
-        "Kinsta": 3329,
+        "Kinsta": 3330,
         "Digital Ocean": 3193,
-        "SiteGround": 2885,
+        "SiteGround": 2888,
         "Hostinger": 1805,
         "GoDaddy": 888,
         "BigScoots": 443,
