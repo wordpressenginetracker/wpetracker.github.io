@@ -1,6 +1,21 @@
 {
-    "siteCount": 53208,
+    "siteCount": 53218,
     "recentlyMoved": [
+        {
+            "domain_name": "celesdentalstudio.com",
+            "destination": "DreamHost",
+            "date": "2025-03-12 21:26:46"
+        },
+        {
+            "domain_name": "rubiconrecycling.co",
+            "destination": "SiteGround",
+            "date": "2025-03-12 20:37:07"
+        },
+        {
+            "domain_name": "www.greatermarylandeye.com",
+            "destination": "Kinsta",
+            "date": "2025-03-12 20:24:22"
+        },
         {
             "domain_name": "www.summercampaustralia.com.au",
             "destination": "Pressable",
@@ -467,16 +482,6 @@
             "date": "2025-03-12 08:28:54"
         },
         {
-            "domain_name": "almondsmiles.com",
-            "destination": "A2 Hosting",
-            "date": "2025-03-12 08:18:03"
-        },
-        {
-            "domain_name": "pathfindertreeservice.com",
-            "destination": "Hostinger",
-            "date": "2025-03-12 08:03:56"
-        },
-        {
             "domain_name": "annajebsen.no",
             "destination": "SiteGround",
             "date": "2025-03-12 07:41:20"
@@ -495,11 +500,6 @@
             "domain_name": "www.alondrahomecare.com",
             "destination": "GoDaddy",
             "date": "2025-03-12 07:34:08"
-        },
-        {
-            "domain_name": "wilsonscarpetcleaning.com.au",
-            "destination": "SiteGround",
-            "date": "2025-03-12 07:31:59"
         }
     ],
     "dailyMovedStat": {
@@ -679,9 +679,9 @@
     "topDestinationHosts": {
         "Pressable": 8578,
         "Bluehost": 3807,
-        "Kinsta": 3341,
+        "Kinsta": 3342,
         "Digital Ocean": 3206,
-        "SiteGround": 2907,
+        "SiteGround": 2908,
         "Hostinger": 1811,
         "GoDaddy": 893,
         "BigScoots": 446,
@@ -693,7 +693,7 @@
         "OVH": 206,
         "IONOS": 192,
         "Wordify": 174,
-        "DreamHost": 169,
+        "DreamHost": 170,
         "A2 Hosting": 168,
         "Namecheap": 163,
         "Hetzner Online": 149
