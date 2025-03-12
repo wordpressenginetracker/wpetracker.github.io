@@ -1,6 +1,11 @@
 {
-    "siteCount": 53137,
+    "siteCount": 53140,
     "recentlyMoved": [
+        {
+            "domain_name": "vietnamoztag.com.au",
+            "destination": "Hostinger",
+            "date": "2025-03-12 18:48:40"
+        },
         {
             "domain_name": "directory.palmspringslife.com",
             "destination": "SiteGround",
@@ -20,6 +25,11 @@
             "domain_name": "micromertic.com",
             "destination": "Bluehost",
             "date": "2025-03-12 18:02:25"
+        },
+        {
+            "domain_name": "eyevision2020.net",
+            "destination": "Kinsta",
+            "date": "2025-03-12 18:02:05"
         },
         {
             "domain_name": "www.whitfields.ca",
@@ -490,16 +500,6 @@
             "domain_name": "mama-notes.de",
             "destination": "Digital Ocean",
             "date": "2025-03-12 02:07:06"
-        },
-        {
-            "domain_name": "www.pagerelease.com",
-            "destination": "Kinsta",
-            "date": "2025-03-12 01:13:27"
-        },
-        {
-            "domain_name": "www.grandmotherstouch.com",
-            "destination": "Hostinger",
-            "date": "2025-03-12 01:04:30"
         }
     ],
     "dailyMovedStat": {
@@ -679,10 +679,10 @@
     "topDestinationHosts": {
         "Pressable": 8571,
         "Bluehost": 3807,
-        "Kinsta": 3338,
+        "Kinsta": 3339,
         "Digital Ocean": 3205,
         "SiteGround": 2907,
-        "Hostinger": 1810,
+        "Hostinger": 1811,
         "GoDaddy": 893,
         "BigScoots": 446,
         "Liquid Web": 332,
