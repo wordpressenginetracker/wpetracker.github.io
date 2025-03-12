@@ -1,6 +1,11 @@
 {
-    "siteCount": 53218,
+    "siteCount": 53220,
     "recentlyMoved": [
+        {
+            "domain_name": "unmatchedstyle.com",
+            "destination": "Kinsta",
+            "date": "2025-03-12 22:25:22"
+        },
         {
             "domain_name": "celesdentalstudio.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "goatonatote.com",
             "destination": "SiteGround",
             "date": "2025-03-12 07:40:08"
-        },
-        {
-            "domain_name": "www.alondrahomecare.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-12 07:34:08"
         }
     ],
     "dailyMovedStat": {
