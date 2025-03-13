@@ -1,6 +1,31 @@
 {
-    "siteCount": 53517,
+    "siteCount": 53526,
     "recentlyMoved": [
+        {
+            "domain_name": "somerbakery.us",
+            "destination": "Hostinger",
+            "date": "2025-03-13 21:38:10"
+        },
+        {
+            "domain_name": "singleplyroofingexperts.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-13 21:28:05"
+        },
+        {
+            "domain_name": "lapazservicecenter.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-13 21:09:47"
+        },
+        {
+            "domain_name": "www.faceiqmedspa.com",
+            "destination": "Kinsta",
+            "date": "2025-03-13 20:39:58"
+        },
+        {
+            "domain_name": "www.elitesurgicalctr.com",
+            "destination": "Kinsta",
+            "date": "2025-03-13 20:39:11"
+        },
         {
             "domain_name": "baptistvillage.org",
             "destination": "SiteGround",
@@ -475,31 +500,6 @@
             "domain_name": "callfamilyfirst.com",
             "destination": "A2 Hosting",
             "date": "2025-03-13 04:59:39"
-        },
-        {
-            "domain_name": "www.firsttimehomebuyernv.com",
-            "destination": "OVH",
-            "date": "2025-03-13 04:48:52"
-        },
-        {
-            "domain_name": "www.humblepieusa.com",
-            "destination": "SiteGround",
-            "date": "2025-03-13 04:40:46"
-        },
-        {
-            "domain_name": "realtyhubsupport.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-13 04:02:20"
-        },
-        {
-            "domain_name": "hermanhermsen.nl",
-            "destination": "Hetzner Online",
-            "date": "2025-03-13 03:58:17"
-        },
-        {
-            "domain_name": "www.artisanfamilydentistry.com",
-            "destination": "SiteGround",
-            "date": "2025-03-13 03:38:37"
         }
     ],
     "dailyMovedStat": {
@@ -680,11 +680,11 @@
     "topDestinationHosts": {
         "Pressable": 8607,
         "Bluehost": 3814,
-        "Kinsta": 3374,
+        "Kinsta": 3376,
         "Digital Ocean": 3223,
-        "SiteGround": 2930,
-        "Hostinger": 1818,
-        "GoDaddy": 895,
+        "SiteGround": 2931,
+        "Hostinger": 1819,
+        "GoDaddy": 896,
         "BigScoots": 447,
         "Liquid Web": 333,
         "Elementor Hosting": 266,
