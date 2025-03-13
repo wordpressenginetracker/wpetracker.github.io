@@ -1,6 +1,11 @@
 {
-    "siteCount": 53379,
+    "siteCount": 53380,
     "recentlyMoved": [
+        {
+            "domain_name": "noellaandres.com",
+            "destination": "BigScoots",
+            "date": "2025-03-13 14:20:57"
+        },
         {
             "domain_name": "newlevelsolutions.ca",
             "destination": "Namecheap",
@@ -492,11 +497,6 @@
             "date": "2025-03-12 17:11:00"
         },
         {
-            "domain_name": "smilemoretoday.com",
-            "destination": "SiteGround",
-            "date": "2025-03-12 17:01:16"
-        },
-        {
             "domain_name": "www.mypremierelectric.com",
             "destination": "Pressable",
             "date": "2025-03-12 16:41:27"
@@ -678,14 +678,14 @@
         "2025-03-12": "53220"
     },
     "topDestinationHosts": {
-        "Pressable": 8587,
+        "Pressable": 8592,
         "Bluehost": 3813,
-        "Kinsta": 3358,
-        "Digital Ocean": 3214,
-        "SiteGround": 2919,
+        "Kinsta": 3359,
+        "Digital Ocean": 3215,
+        "SiteGround": 2920,
         "Hostinger": 1816,
         "GoDaddy": 893,
-        "BigScoots": 446,
+        "BigScoots": 447,
         "Liquid Web": 333,
         "Elementor Hosting": 266,
         "GridPane": 250,
@@ -696,7 +696,7 @@
         "Wordify": 174,
         "DreamHost": 170,
         "A2 Hosting": 169,
-        "Namecheap": 163,
+        "Namecheap": 165,
         "Hetzner Online": 151
     },
     "dailyTotalStat": {
