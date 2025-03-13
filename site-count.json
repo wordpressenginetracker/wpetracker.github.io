@@ -1,15 +1,35 @@
 {
-    "siteCount": 53526,
+    "siteCount": 53533,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sunlakespestcontrol.com",
+            "destination": "SiteGround",
+            "date": "2025-03-13 21:45:20"
+        },
         {
             "domain_name": "somerbakery.us",
             "destination": "Hostinger",
             "date": "2025-03-13 21:38:10"
         },
         {
+            "domain_name": "mayoplumber.ie",
+            "destination": "Namecheap",
+            "date": "2025-03-13 21:35:48"
+        },
+        {
+            "domain_name": "designvisioninteriors.com",
+            "destination": "Hostinger",
+            "date": "2025-03-13 21:31:54"
+        },
+        {
             "domain_name": "singleplyroofingexperts.com",
             "destination": "GoDaddy",
             "date": "2025-03-13 21:28:05"
+        },
+        {
+            "domain_name": "www.southbayequitylending.com",
+            "destination": "BigScoots",
+            "date": "2025-03-13 21:10:15"
         },
         {
             "domain_name": "lapazservicecenter.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.hitmeseo.net",
             "destination": "Digital Ocean",
             "date": "2025-03-13 08:33:45"
-        },
-        {
-            "domain_name": "www.asiagategroup.com",
-            "destination": "Liquid Web",
-            "date": "2025-03-13 08:12:18"
-        },
-        {
-            "domain_name": "magalivaldez.com",
-            "destination": "SiteGround",
-            "date": "2025-03-13 05:57:58"
-        },
-        {
-            "domain_name": "www.thebrexitparty.org",
-            "destination": "SiteGround",
-            "date": "2025-03-13 05:30:18"
-        },
-        {
-            "domain_name": "callfamilyfirst.com",
-            "destination": "A2 Hosting",
-            "date": "2025-03-13 04:59:39"
         }
     ],
     "dailyMovedStat": {
@@ -682,10 +682,10 @@
         "Bluehost": 3814,
         "Kinsta": 3376,
         "Digital Ocean": 3223,
-        "SiteGround": 2931,
-        "Hostinger": 1819,
-        "GoDaddy": 896,
-        "BigScoots": 447,
+        "SiteGround": 2932,
+        "Hostinger": 1820,
+        "GoDaddy": 897,
+        "BigScoots": 448,
         "Liquid Web": 333,
         "Elementor Hosting": 266,
         "GridPane": 250,
@@ -696,7 +696,7 @@
         "Wordify": 174,
         "DreamHost": 170,
         "A2 Hosting": 170,
-        "Namecheap": 166,
+        "Namecheap": 167,
         "Hetzner Online": 151
     },
     "dailyTotalStat": {
