@@ -1,6 +1,26 @@
 {
-    "siteCount": 53749,
+    "siteCount": 53766,
     "recentlyMoved": [
+        {
+            "domain_name": "euverita.com",
+            "destination": "SiteGround",
+            "date": "2025-03-14 18:04:09"
+        },
+        {
+            "domain_name": "crossfitrapture.com",
+            "destination": "A2 Hosting",
+            "date": "2025-03-14 18:00:51"
+        },
+        {
+            "domain_name": "elitefaor.com",
+            "destination": "Kinsta",
+            "date": "2025-03-14 17:52:28"
+        },
+        {
+            "domain_name": "truficient.com",
+            "destination": "Hostinger",
+            "date": "2025-03-14 17:42:49"
+        },
         {
             "domain_name": "www.nws-homes.com",
             "destination": "Pressable",
@@ -15,6 +35,11 @@
             "domain_name": "southcoastguttermonkeys.com",
             "destination": "SiteGround",
             "date": "2025-03-14 17:25:09"
+        },
+        {
+            "domain_name": "delawarevalleyguttermonkeys.com",
+            "destination": "SiteGround",
+            "date": "2025-03-14 17:23:15"
         },
         {
             "domain_name": "capecodguttermonkeys.com",
@@ -475,31 +500,6 @@
             "domain_name": "fashionweekelpaseo.com",
             "destination": "SiteGround",
             "date": "2025-03-13 18:35:03"
-        },
-        {
-            "domain_name": "nightopsadventures.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-13 18:24:35"
-        },
-        {
-            "domain_name": "newsanchored.com",
-            "destination": "SiteGround",
-            "date": "2025-03-13 18:20:10"
-        },
-        {
-            "domain_name": "treatlane.com",
-            "destination": "Bluehost",
-            "date": "2025-03-13 17:59:23"
-        },
-        {
-            "domain_name": "tlusageorgiafoothills.org",
-            "destination": "Digital Ocean",
-            "date": "2025-03-13 17:56:03"
-        },
-        {
-            "domain_name": "murdockplumbing.com",
-            "destination": "A2 Hosting",
-            "date": "2025-03-13 17:49:56"
         }
     ],
     "dailyMovedStat": {
@@ -681,10 +681,10 @@
     "topDestinationHosts": {
         "Pressable": 8626,
         "Bluehost": 3815,
-        "Kinsta": 3384,
+        "Kinsta": 3385,
         "Digital Ocean": 3232,
-        "SiteGround": 2950,
-        "Hostinger": 1834,
+        "SiteGround": 2951,
+        "Hostinger": 1835,
         "GoDaddy": 899,
         "BigScoots": 449,
         "Liquid Web": 336,
@@ -695,7 +695,7 @@
         "OVH": 207,
         "IONOS": 192,
         "Wordify": 174,
-        "A2 Hosting": 172,
+        "A2 Hosting": 173,
         "DreamHost": 171,
         "Namecheap": 167,
         "Hetzner Online": 151
