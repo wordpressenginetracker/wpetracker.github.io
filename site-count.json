@@ -1,6 +1,11 @@
 {
-    "siteCount": 53638,
+    "siteCount": 53639,
     "recentlyMoved": [
+        {
+            "domain_name": "nishapunjabi.com",
+            "destination": "Liquid Web",
+            "date": "2025-03-14 10:44:51"
+        },
         {
             "domain_name": "drven.fit",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "backsplash.com",
             "destination": "Kinsta",
             "date": "2025-03-13 16:04:11"
-        },
-        {
-            "domain_name": "www.atomictoy.org",
-            "destination": "Kinsta",
-            "date": "2025-03-13 16:03:41"
         }
     ],
     "dailyMovedStat": {
@@ -687,7 +687,7 @@
         "Hostinger": 1825,
         "GoDaddy": 898,
         "BigScoots": 448,
-        "Liquid Web": 334,
+        "Liquid Web": 335,
         "Elementor Hosting": 266,
         "GridPane": 250,
         "WordPress.com": 238,
