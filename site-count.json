@@ -1,6 +1,16 @@
 {
-    "siteCount": 53871,
+    "siteCount": 53874,
     "recentlyMoved": [
+        {
+            "domain_name": "addon.ventures",
+            "destination": "Hostinger",
+            "date": "2025-03-15 03:44:33"
+        },
+        {
+            "domain_name": "afn.ph",
+            "destination": "Hostinger",
+            "date": "2025-03-15 03:38:08"
+        },
         {
             "domain_name": "www.aireno.com.au",
             "destination": "Kinsta",
@@ -477,11 +487,6 @@
             "date": "2025-03-14 05:15:54"
         },
         {
-            "domain_name": "www.homecinemamarin.com",
-            "destination": "Bluehost",
-            "date": "2025-03-14 05:14:16"
-        },
-        {
             "domain_name": "www.indoorcomforthsv.com",
             "destination": "SiteGround",
             "date": "2025-03-14 04:48:33"
@@ -495,11 +500,6 @@
             "domain_name": "www.iconhairaz.com",
             "destination": "SiteGround",
             "date": "2025-03-14 04:26:19"
-        },
-        {
-            "domain_name": "incaseinnovation.se",
-            "destination": "Kinsta",
-            "date": "2025-03-14 04:12:23"
         }
     ],
     "dailyMovedStat": {
@@ -685,7 +685,7 @@
         "Kinsta": 3400,
         "Digital Ocean": 3234,
         "SiteGround": 2959,
-        "Hostinger": 1842,
+        "Hostinger": 1844,
         "GoDaddy": 899,
         "BigScoots": 449,
         "Liquid Web": 336,
