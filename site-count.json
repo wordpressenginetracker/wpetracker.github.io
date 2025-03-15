@@ -1,15 +1,30 @@
 {
-    "siteCount": 54088,
+    "siteCount": 54097,
     "recentlyMoved": [
+        {
+            "domain_name": "www.udc.edu",
+            "destination": "Digital Ocean",
+            "date": "2025-03-15 22:03:52"
+        },
         {
             "domain_name": "www.plackastoragebuildings.com",
             "destination": "WordPress.com",
             "date": "2025-03-15 21:38:48"
         },
         {
+            "domain_name": "telemundokc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-15 21:23:04"
+        },
+        {
             "domain_name": "www.patrickmalonelaw.com",
             "destination": "SiteGround",
             "date": "2025-03-15 21:14:04"
+        },
+        {
+            "domain_name": "www.samsaircontrol.com",
+            "destination": "Kinsta",
+            "date": "2025-03-15 21:06:45"
         },
         {
             "domain_name": "schway.com",
@@ -485,21 +500,6 @@
             "domain_name": "adelaidepsychologyandco.com.au",
             "destination": "SiteGround",
             "date": "2025-03-14 23:23:17"
-        },
-        {
-            "domain_name": "okeziepediatrics.com",
-            "destination": "Hostinger",
-            "date": "2025-03-14 23:13:32"
-        },
-        {
-            "domain_name": "feblo.com",
-            "destination": "Hostinger",
-            "date": "2025-03-14 23:03:20"
-        },
-        {
-            "domain_name": "newschoolsforneworleans.org",
-            "destination": "SiteGround",
-            "date": "2025-03-14 22:14:02"
         }
     ],
     "dailyMovedStat": {
@@ -682,8 +682,8 @@
     "topDestinationHosts": {
         "Pressable": 8646,
         "Bluehost": 3817,
-        "Kinsta": 3420,
-        "Digital Ocean": 3242,
+        "Kinsta": 3421,
+        "Digital Ocean": 3244,
         "SiteGround": 2968,
         "Hostinger": 1852,
         "GoDaddy": 903,
@@ -691,7 +691,7 @@
         "Liquid Web": 338,
         "Elementor Hosting": 266,
         "GridPane": 250,
-        "WordPress.com": 239,
+        "WordPress.com": 240,
         "InMotion Hosting": 226,
         "OVH": 208,
         "IONOS": 194,
