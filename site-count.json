@@ -1,5 +1,5 @@
 {
-    "siteCount": 54255,
+    "siteCount": 54257,
     "recentlyMoved": [
         {
             "domain_name": "vampirelibrary.com",
@@ -27,9 +27,19 @@
             "date": "2025-03-16 22:08:52"
         },
         {
+            "domain_name": "neworleanspoi.com",
+            "destination": "SiteGround",
+            "date": "2025-03-16 22:06:47"
+        },
+        {
             "domain_name": "vegaspoi.com",
             "destination": "SiteGround",
             "date": "2025-03-16 22:05:54"
+        },
+        {
+            "domain_name": "newyorkcitypoi.com",
+            "destination": "SiteGround",
+            "date": "2025-03-16 22:05:10"
         },
         {
             "domain_name": "minneapolispoi.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.graceumc.com",
             "destination": "Pressable",
             "date": "2025-03-15 16:17:59"
-        },
-        {
-            "domain_name": "blockchain121.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-15 16:06:29"
-        },
-        {
-            "domain_name": "www.e-writer.org",
-            "destination": "Kinsta",
-            "date": "2025-03-15 16:00:19"
         }
     ],
     "dailyMovedStat": {
@@ -678,14 +678,15 @@
         "2025-03-12": "53220",
         "2025-03-13": "53534",
         "2025-03-14": "53837",
-        "2025-03-15": "54098"
+        "2025-03-15": "54098",
+        "2025-03-16": "54257"
     },
     "topDestinationHosts": {
         "Pressable": 8653,
         "Bluehost": 3822,
-        "Kinsta": 3427,
+        "Kinsta": 3428,
         "Digital Ocean": 3247,
-        "SiteGround": 3006,
+        "SiteGround": 3011,
         "Hostinger": 1855,
         "GoDaddy": 905,
         "BigScoots": 450,
@@ -878,6 +879,7 @@
         "2025-03-12": "652968",
         "2025-03-13": "651809",
         "2025-03-14": "651701",
-        "2025-03-15": "651462"
+        "2025-03-15": "651462",
+        "2025-03-16": "652080"
     }
 }
