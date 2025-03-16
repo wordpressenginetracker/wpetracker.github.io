@@ -1,6 +1,31 @@
 {
-    "siteCount": 54098,
+    "siteCount": 54104,
     "recentlyMoved": [
+        {
+            "domain_name": "app.newurbanmedia.io",
+            "destination": "Kinsta",
+            "date": "2025-03-16 00:06:02"
+        },
+        {
+            "domain_name": "www.goldcoastenglishschool.com",
+            "destination": "Pressable",
+            "date": "2025-03-15 23:31:36"
+        },
+        {
+            "domain_name": "abundiafinancial.com",
+            "destination": "Kinsta",
+            "date": "2025-03-15 23:30:40"
+        },
+        {
+            "domain_name": "vrnsg.com",
+            "destination": "Pressable",
+            "date": "2025-03-15 23:27:22"
+        },
+        {
+            "domain_name": "www.kidsenglishschool.org",
+            "destination": "Pressable",
+            "date": "2025-03-15 23:20:49"
+        },
         {
             "domain_name": "www.udc.edu",
             "destination": "Digital Ocean",
@@ -472,34 +497,9 @@
             "date": "2025-03-15 00:06:43"
         },
         {
-            "domain_name": "amanda-international.com",
-            "destination": "Hostinger",
-            "date": "2025-03-14 23:48:20"
-        },
-        {
-            "domain_name": "floridatrustandestateplanning.com",
-            "destination": "Kinsta",
-            "date": "2025-03-14 23:45:45"
-        },
-        {
-            "domain_name": "fivejune.ca",
-            "destination": "WordPress.com",
-            "date": "2025-03-14 23:43:56"
-        },
-        {
-            "domain_name": "www.alterecodirect.com",
-            "destination": "Kinsta",
-            "date": "2025-03-14 23:43:05"
-        },
-        {
             "domain_name": "www.artmission.org",
             "destination": "Kinsta",
             "date": "2025-03-14 23:31:37"
-        },
-        {
-            "domain_name": "adelaidepsychologyandco.com.au",
-            "destination": "SiteGround",
-            "date": "2025-03-14 23:23:17"
         }
     ],
     "dailyMovedStat": {
@@ -681,9 +681,9 @@
         "2025-03-15": "54098"
     },
     "topDestinationHosts": {
-        "Pressable": 8646,
+        "Pressable": 8649,
         "Bluehost": 3817,
-        "Kinsta": 3421,
+        "Kinsta": 3423,
         "Digital Ocean": 3244,
         "SiteGround": 2968,
         "Hostinger": 1852,
