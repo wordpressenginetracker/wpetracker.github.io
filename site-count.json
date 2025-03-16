@@ -1,5 +1,5 @@
 {
-    "siteCount": 54121,
+    "siteCount": 54122,
     "recentlyMoved": [
         {
             "domain_name": "uniqueautofresno.com",
@@ -15,6 +15,11 @@
             "domain_name": "members.bmohunts.com",
             "destination": "SiteGround",
             "date": "2025-03-16 02:20:40"
+        },
+        {
+            "domain_name": "newurbanmedia.io",
+            "destination": "Kinsta",
+            "date": "2025-03-16 02:06:12"
         },
         {
             "domain_name": "dogparkvet.com",
@@ -492,11 +497,6 @@
             "date": "2025-03-15 01:15:02"
         },
         {
-            "domain_name": "cobbshillestate.com.au",
-            "destination": "SiteGround",
-            "date": "2025-03-15 01:10:45"
-        },
-        {
             "domain_name": "www.rocksaltplum.com",
             "destination": "Kinsta",
             "date": "2025-03-15 01:05:35"
@@ -683,9 +683,9 @@
     "topDestinationHosts": {
         "Pressable": 8651,
         "Bluehost": 3818,
-        "Kinsta": 3423,
+        "Kinsta": 3424,
         "Digital Ocean": 3244,
-        "SiteGround": 2970,
+        "SiteGround": 2971,
         "Hostinger": 1852,
         "GoDaddy": 903,
         "BigScoots": 450,
