@@ -1,6 +1,11 @@
 {
-    "siteCount": 54146,
+    "siteCount": 54150,
     "recentlyMoved": [
+        {
+            "domain_name": "riverrockzillah.com",
+            "destination": "A2 Hosting",
+            "date": "2025-03-16 08:20:36"
+        },
         {
             "domain_name": "gorunningtours.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "lander.avalonriskmanagement.com",
             "destination": "SiteGround",
             "date": "2025-03-15 05:14:02"
-        },
-        {
-            "domain_name": "kingdomhelps.org",
-            "destination": "SiteGround",
-            "date": "2025-03-15 04:51:56"
         }
     ],
     "dailyMovedStat": {
@@ -696,7 +696,7 @@
         "InMotion Hosting": 229,
         "OVH": 208,
         "IONOS": 194,
-        "A2 Hosting": 175,
+        "A2 Hosting": 176,
         "DreamHost": 174,
         "Wordify": 174,
         "Namecheap": 168,
