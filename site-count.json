@@ -1,6 +1,11 @@
 {
-    "siteCount": 54313,
+    "siteCount": 54319,
     "recentlyMoved": [
+        {
+            "domain_name": "klmaacademy.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-03-17 13:07:14"
+        },
         {
             "domain_name": "pauldeloughery.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.greystonealloys.com",
             "destination": "Pressable",
             "date": "2025-03-15 19:20:16"
-        },
-        {
-            "domain_name": "denaliaviationhistory.com",
-            "destination": "Hostinger",
-            "date": "2025-03-15 18:01:44"
         }
     ],
     "dailyMovedStat": {
@@ -686,7 +686,7 @@
         "Bluehost": 3822,
         "Kinsta": 3430,
         "Digital Ocean": 3249,
-        "SiteGround": 3014,
+        "SiteGround": 3015,
         "Hostinger": 1856,
         "GoDaddy": 906,
         "BigScoots": 450,
