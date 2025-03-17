@@ -1,6 +1,11 @@
 {
-    "siteCount": 54308,
+    "siteCount": 54313,
     "recentlyMoved": [
+        {
+            "domain_name": "pauldeloughery.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-17 12:13:27"
+        },
         {
             "domain_name": "nicolapaulukat.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "denaliaviationhistory.com",
             "destination": "Hostinger",
             "date": "2025-03-15 18:01:44"
-        },
-        {
-            "domain_name": "www.ultawealthmanagement.com",
-            "destination": "Kinsta",
-            "date": "2025-03-15 17:25:29"
         }
     ],
     "dailyMovedStat": {
@@ -688,7 +688,7 @@
         "Digital Ocean": 3249,
         "SiteGround": 3014,
         "Hostinger": 1856,
-        "GoDaddy": 905,
+        "GoDaddy": 906,
         "BigScoots": 450,
         "Liquid Web": 338,
         "Elementor Hosting": 266,
