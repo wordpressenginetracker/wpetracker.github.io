@@ -1,6 +1,21 @@
 {
-    "siteCount": 54525,
+    "siteCount": 54537,
     "recentlyMoved": [
+        {
+            "domain_name": "defalcoelectric.com",
+            "destination": "Kinsta",
+            "date": "2025-03-18 14:13:42"
+        },
+        {
+            "domain_name": "michaelalanhomes.com",
+            "destination": "DreamHost",
+            "date": "2025-03-18 14:07:01"
+        },
+        {
+            "domain_name": "corcoranadmin.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-18 13:44:18"
+        },
         {
             "domain_name": "landsautoservice.com",
             "destination": "Namecheap",
@@ -20,6 +35,11 @@
             "domain_name": "www.glazingrenovations.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-03-18 12:58:23"
+        },
+        {
+            "domain_name": "www.remodelamerica.us",
+            "destination": "Pressable",
+            "date": "2025-03-18 12:55:32"
         },
         {
             "domain_name": "sourcecoffeehouse.com",
@@ -480,26 +500,6 @@
             "domain_name": "bostonpoi.com",
             "destination": "SiteGround",
             "date": "2025-03-16 20:21:20"
-        },
-        {
-            "domain_name": "phoenixpoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 20:12:56"
-        },
-        {
-            "domain_name": "www.theexceptionalhomecenter.com",
-            "destination": "Pressable",
-            "date": "2025-03-16 19:48:48"
-        },
-        {
-            "domain_name": "nirwanlawcorp.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 18:20:32"
-        },
-        {
-            "domain_name": "unpoised.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 18:14:39"
         }
     ],
     "dailyMovedStat": {
@@ -683,10 +683,10 @@
         "2025-03-17": "54406"
     },
     "topDestinationHosts": {
-        "Pressable": 8656,
+        "Pressable": 8658,
         "Bluehost": 3823,
-        "Kinsta": 3437,
-        "Digital Ocean": 3250,
+        "Kinsta": 3440,
+        "Digital Ocean": 3253,
         "SiteGround": 3029,
         "Hostinger": 1863,
         "GoDaddy": 906,
@@ -698,10 +698,10 @@
         "InMotion Hosting": 232,
         "OVH": 209,
         "IONOS": 196,
-        "A2 Hosting": 179,
-        "DreamHost": 176,
+        "A2 Hosting": 180,
+        "DreamHost": 178,
         "Wordify": 174,
-        "Namecheap": 172,
+        "Namecheap": 173,
         "Hetzner Online": 151
     },
     "dailyTotalStat": {
