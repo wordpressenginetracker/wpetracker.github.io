@@ -1,6 +1,36 @@
 {
-    "siteCount": 54592,
+    "siteCount": 54636,
     "recentlyMoved": [
+        {
+            "domain_name": "help.itadirectaccess.ca",
+            "destination": "Pressable",
+            "date": "2025-03-18 20:13:53"
+        },
+        {
+            "domain_name": "wheatresearch.ca",
+            "destination": "Namecheap",
+            "date": "2025-03-18 20:04:46"
+        },
+        {
+            "domain_name": "golucius.com",
+            "destination": "Kinsta",
+            "date": "2025-03-18 20:04:18"
+        },
+        {
+            "domain_name": "admin.provostandpritchard.com",
+            "destination": "SiteGround",
+            "date": "2025-03-18 20:03:42"
+        },
+        {
+            "domain_name": "fergusonindustrialco.com",
+            "destination": "Kinsta",
+            "date": "2025-03-18 19:45:48"
+        },
+        {
+            "domain_name": "fresnostreamgroup.com",
+            "destination": "SiteGround",
+            "date": "2025-03-18 19:38:02"
+        },
         {
             "domain_name": "moneylive-insights.com",
             "destination": "Hostinger",
@@ -467,39 +497,9 @@
             "date": "2025-03-16 23:19:13"
         },
         {
-            "domain_name": "vampirelibrary.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 22:34:42"
-        },
-        {
-            "domain_name": "events.midsouthpride.org",
-            "destination": "Kinsta",
-            "date": "2025-03-16 22:21:32"
-        },
-        {
-            "domain_name": "nashvillepoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 22:10:12"
-        },
-        {
-            "domain_name": "neworleanspoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 22:06:47"
-        },
-        {
-            "domain_name": "vegaspoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 22:05:54"
-        },
-        {
             "domain_name": "newyorkcitypoi.com",
             "destination": "SiteGround",
             "date": "2025-03-16 22:05:10"
-        },
-        {
-            "domain_name": "minneapolispoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-16 21:56:17"
         }
     ],
     "dailyMovedStat": {
@@ -684,10 +684,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 8661,
-        "Bluehost": 3823,
-        "Kinsta": 3447,
+        "Bluehost": 3824,
+        "Kinsta": 3449,
         "Digital Ocean": 3255,
-        "SiteGround": 3031,
+        "SiteGround": 3034,
         "Hostinger": 1865,
         "GoDaddy": 907,
         "BigScoots": 451,
@@ -695,13 +695,13 @@
         "Elementor Hosting": 266,
         "GridPane": 250,
         "WordPress.com": 242,
-        "InMotion Hosting": 233,
+        "InMotion Hosting": 234,
         "OVH": 209,
         "IONOS": 196,
         "A2 Hosting": 180,
         "DreamHost": 180,
         "Wordify": 174,
-        "Namecheap": 173,
+        "Namecheap": 174,
         "Hetzner Online": 151
     },
     "dailyTotalStat": {
