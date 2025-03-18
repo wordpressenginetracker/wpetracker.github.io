@@ -1,6 +1,21 @@
 {
-    "siteCount": 54415,
+    "siteCount": 54420,
     "recentlyMoved": [
+        {
+            "domain_name": "skinbyjessicaluise.com.au",
+            "destination": "WordPress.com",
+            "date": "2025-03-18 01:25:25"
+        },
+        {
+            "domain_name": "searchatlas.com",
+            "destination": "Kinsta",
+            "date": "2025-03-18 01:20:39"
+        },
+        {
+            "domain_name": "www.hardackerroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-03-18 00:54:39"
+        },
         {
             "domain_name": "fastautoglass.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2025-03-16 00:47:28"
         },
         {
-            "domain_name": "bergstromwines.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-03-16 00:36:10"
-        },
-        {
             "domain_name": "iops.aero",
             "destination": "Bluehost",
             "date": "2025-03-16 00:21:53"
-        },
-        {
-            "domain_name": "app.newurbanmedia.io",
-            "destination": "Kinsta",
-            "date": "2025-03-16 00:06:02"
-        },
-        {
-            "domain_name": "www.kidsenglishschool.org",
-            "destination": "Pressable",
-            "date": "2025-03-15 23:20:49"
         }
     ],
     "dailyMovedStat": {
@@ -685,16 +685,16 @@
     "topDestinationHosts": {
         "Pressable": 8654,
         "Bluehost": 3823,
-        "Kinsta": 3431,
+        "Kinsta": 3432,
         "Digital Ocean": 3249,
-        "SiteGround": 3020,
+        "SiteGround": 3021,
         "Hostinger": 1860,
         "GoDaddy": 906,
         "BigScoots": 450,
         "Liquid Web": 339,
         "Elementor Hosting": 266,
         "GridPane": 250,
-        "WordPress.com": 241,
+        "WordPress.com": 242,
         "InMotion Hosting": 230,
         "OVH": 209,
         "IONOS": 195,
