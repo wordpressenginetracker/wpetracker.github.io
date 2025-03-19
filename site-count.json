@@ -1,6 +1,16 @@
 {
-    "siteCount": 54717,
+    "siteCount": 54727,
     "recentlyMoved": [
+        {
+            "domain_name": "mycnmedical.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-19 10:09:26"
+        },
+        {
+            "domain_name": "www.ropeaccessinlondon.co.uk",
+            "destination": "IONOS",
+            "date": "2025-03-19 09:44:12"
+        },
         {
             "domain_name": "www.mtlampojajaahdytys.fi",
             "destination": "Hostinger",
@@ -477,11 +487,6 @@
             "date": "2025-03-18 05:33:23"
         },
         {
-            "domain_name": "buildmax.com",
-            "destination": "Pressable",
-            "date": "2025-03-18 05:06:46"
-        },
-        {
             "domain_name": "shoply.com",
             "destination": "BigScoots",
             "date": "2025-03-18 04:40:28"
@@ -495,11 +500,6 @@
             "domain_name": "cdotobacconist.com",
             "destination": "Pressable",
             "date": "2025-03-18 04:36:49"
-        },
-        {
-            "domain_name": "austinorthodonticarts.com",
-            "destination": "Liquid Web",
-            "date": "2025-03-18 03:53:16"
         }
     ],
     "dailyMovedStat": {
@@ -689,8 +689,8 @@
         "Kinsta": 3453,
         "Digital Ocean": 3255,
         "SiteGround": 3040,
-        "Hostinger": 1868,
-        "GoDaddy": 909,
+        "Hostinger": 1869,
+        "GoDaddy": 910,
         "BigScoots": 452,
         "Liquid Web": 343,
         "Elementor Hosting": 266,
@@ -698,7 +698,7 @@
         "WordPress.com": 243,
         "InMotion Hosting": 234,
         "OVH": 209,
-        "IONOS": 196,
+        "IONOS": 197,
         "A2 Hosting": 180,
         "DreamHost": 180,
         "Namecheap": 176,
