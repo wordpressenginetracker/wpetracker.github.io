@@ -1,6 +1,31 @@
 {
-    "siteCount": 54668,
+    "siteCount": 54675,
     "recentlyMoved": [
+        {
+            "domain_name": "www.careerisrael.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-19 04:40:17"
+        },
+        {
+            "domain_name": "www.chattanoogadrivingschool.com",
+            "destination": "Liquid Web",
+            "date": "2025-03-19 04:30:20"
+        },
+        {
+            "domain_name": "plumbing.oaklandrooter.com",
+            "destination": "SiteGround",
+            "date": "2025-03-19 03:45:37"
+        },
+        {
+            "domain_name": "wpnomads.club",
+            "destination": "Namecheap",
+            "date": "2025-03-19 03:37:15"
+        },
+        {
+            "domain_name": "officialescapetown.com",
+            "destination": "Hostinger",
+            "date": "2025-03-19 03:13:13"
+        },
         {
             "domain_name": "ahartzpacktoschool.com",
             "destination": "Kinsta",
@@ -472,34 +497,9 @@
             "date": "2025-03-17 17:47:28"
         },
         {
-            "domain_name": "arizonapoi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-17 16:19:12"
-        },
-        {
             "domain_name": "healthy-magazines.com",
             "destination": "SiteGround",
             "date": "2025-03-17 16:07:43"
-        },
-        {
-            "domain_name": "puls3media.com",
-            "destination": "Hostinger",
-            "date": "2025-03-17 15:47:30"
-        },
-        {
-            "domain_name": "tractiongapbook.com",
-            "destination": "Namecheap",
-            "date": "2025-03-17 14:11:03"
-        },
-        {
-            "domain_name": "memphisnoticias.com",
-            "destination": "Kinsta",
-            "date": "2025-03-17 14:10:38"
-        },
-        {
-            "domain_name": "www.youthdynamics.org",
-            "destination": "Hostinger",
-            "date": "2025-03-17 13:51:20"
         }
     ],
     "dailyMovedStat": {
@@ -688,11 +688,11 @@
         "Bluehost": 3824,
         "Kinsta": 3452,
         "Digital Ocean": 3255,
-        "SiteGround": 3036,
-        "Hostinger": 1865,
-        "GoDaddy": 908,
+        "SiteGround": 3037,
+        "Hostinger": 1866,
+        "GoDaddy": 909,
         "BigScoots": 451,
-        "Liquid Web": 342,
+        "Liquid Web": 343,
         "Elementor Hosting": 266,
         "GridPane": 251,
         "WordPress.com": 243,
@@ -701,8 +701,8 @@
         "IONOS": 196,
         "A2 Hosting": 180,
         "DreamHost": 180,
+        "Namecheap": 175,
         "Wordify": 174,
-        "Namecheap": 174,
         "Hetzner Online": 151
     },
     "dailyTotalStat": {
