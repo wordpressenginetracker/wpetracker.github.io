@@ -1,6 +1,11 @@
 {
-    "siteCount": 54950,
+    "siteCount": 54951,
     "recentlyMoved": [
+        {
+            "domain_name": "execprorc.com",
+            "destination": "Hostinger",
+            "date": "2025-03-20 02:34:54"
+        },
         {
             "domain_name": "xiva.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.ryanryanlaw.com",
             "destination": "SiteGround",
             "date": "2025-03-19 05:22:16"
-        },
-        {
-            "domain_name": "bokosky4judge.com",
-            "destination": "Namecheap",
-            "date": "2025-03-19 04:37:59"
         }
     ],
     "dailyMovedStat": {
@@ -690,7 +690,7 @@
         "Kinsta": 3474,
         "Digital Ocean": 3263,
         "SiteGround": 3049,
-        "Hostinger": 1875,
+        "Hostinger": 1876,
         "GoDaddy": 915,
         "BigScoots": 454,
         "Liquid Web": 347,
