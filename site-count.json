@@ -1,6 +1,21 @@
 {
-    "siteCount": 54966,
+    "siteCount": 54975,
     "recentlyMoved": [
+        {
+            "domain_name": "vandorp.eu",
+            "destination": "Kinsta",
+            "date": "2025-03-20 06:13:43"
+        },
+        {
+            "domain_name": "connorconcretecutting.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-03-20 05:49:53"
+        },
+        {
+            "domain_name": "strategiqconsultants.com",
+            "destination": "Hostinger",
+            "date": "2025-03-20 05:11:38"
+        },
         {
             "domain_name": "soulberrymarket.com",
             "destination": "SiteGround",
@@ -477,11 +492,6 @@
             "date": "2025-03-19 08:47:01"
         },
         {
-            "domain_name": "hestia-studio.com",
-            "destination": "BigScoots",
-            "date": "2025-03-19 08:43:49"
-        },
-        {
             "domain_name": "www.fortismedia.com",
             "destination": "Hostinger",
             "date": "2025-03-19 08:43:45"
@@ -490,16 +500,6 @@
             "domain_name": "blind.org.uk",
             "destination": "Hetzner Online",
             "date": "2025-03-19 08:13:11"
-        },
-        {
-            "domain_name": "axiom-sustainability.com",
-            "destination": "SiteGround",
-            "date": "2025-03-19 07:57:43"
-        },
-        {
-            "domain_name": "aleeshasadvancedfootcare.com",
-            "destination": "Pressable",
-            "date": "2025-03-19 07:51:00"
         }
     ],
     "dailyMovedStat": {
@@ -687,17 +687,17 @@
     "topDestinationHosts": {
         "Pressable": 8691,
         "Bluehost": 3828,
-        "Kinsta": 3474,
+        "Kinsta": 3475,
         "Digital Ocean": 3263,
         "SiteGround": 3050,
-        "Hostinger": 1876,
+        "Hostinger": 1877,
         "GoDaddy": 915,
         "BigScoots": 454,
         "Liquid Web": 347,
         "Elementor Hosting": 267,
         "GridPane": 252,
         "WordPress.com": 245,
-        "InMotion Hosting": 234,
+        "InMotion Hosting": 235,
         "OVH": 209,
         "IONOS": 197,
         "DreamHost": 182,
