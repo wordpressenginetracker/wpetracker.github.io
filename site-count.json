@@ -1,15 +1,65 @@
 {
-    "siteCount": 55034,
+    "siteCount": 55054,
     "recentlyMoved": [
+        {
+            "domain_name": "www.planet-pip.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 13:32:03"
+        },
+        {
+            "domain_name": "kdeecustomcreations.com",
+            "destination": "SiteGround",
+            "date": "2025-03-20 13:15:01"
+        },
+        {
+            "domain_name": "sequiturrenewables.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 12:56:29"
+        },
+        {
+            "domain_name": "seotheory.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 12:56:29"
+        },
+        {
+            "domain_name": "www.graphitech.org",
+            "destination": "Kinsta",
+            "date": "2025-03-20 12:50:36"
+        },
+        {
+            "domain_name": "www.polewskilaw.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 12:49:48"
+        },
         {
             "domain_name": "www.convistore.co.uk",
             "destination": "Kinsta",
             "date": "2025-03-20 12:46:34"
         },
         {
+            "domain_name": "www.mitziscafe.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 12:43:09"
+        },
+        {
             "domain_name": "qvt.com",
             "destination": "Kinsta",
             "date": "2025-03-20 12:39:32"
+        },
+        {
+            "domain_name": "www.legacybuilderswi.com",
+            "destination": "Pressable",
+            "date": "2025-03-20 12:39:13"
+        },
+        {
+            "domain_name": "shoptalkshow.com",
+            "destination": "Pressable",
+            "date": "2025-03-20 12:39:01"
+        },
+        {
+            "domain_name": "broadwayergonomics.com",
+            "destination": "Hostinger",
+            "date": "2025-03-20 12:18:55"
         },
         {
             "domain_name": "apneaap.org",
@@ -427,11 +477,6 @@
             "date": "2025-03-19 16:15:29"
         },
         {
-            "domain_name": "aerialmoblights.com",
-            "destination": "Pressable",
-            "date": "2025-03-19 16:07:39"
-        },
-        {
             "domain_name": "www.dunphyplumbingandheating.com",
             "destination": "Pressable",
             "date": "2025-03-19 16:04:37"
@@ -440,16 +485,6 @@
             "domain_name": "www.dfwwatersofteners.com",
             "destination": "Pressable",
             "date": "2025-03-19 16:01:05"
-        },
-        {
-            "domain_name": "glowtiquesalonandmedspa.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-19 15:58:58"
-        },
-        {
-            "domain_name": "glowtideexpress.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-19 15:58:58"
         },
         {
             "domain_name": "hittrecords.com",
@@ -465,41 +500,6 @@
             "domain_name": "quotesondesign.com",
             "destination": "Pressable",
             "date": "2025-03-19 15:48:52"
-        },
-        {
-            "domain_name": "www.aquasciencepoolservice.com",
-            "destination": "Pressable",
-            "date": "2025-03-19 15:39:54"
-        },
-        {
-            "domain_name": "www.porterfirm.com",
-            "destination": "Liquid Web",
-            "date": "2025-03-19 15:28:30"
-        },
-        {
-            "domain_name": "frankiesitaliano.com",
-            "destination": "Pressable",
-            "date": "2025-03-19 15:25:28"
-        },
-        {
-            "domain_name": "10neighborhoods.com",
-            "destination": "Pressable",
-            "date": "2025-03-19 15:08:37"
-        },
-        {
-            "domain_name": "exclusiveimage.net",
-            "destination": "Hostinger",
-            "date": "2025-03-19 14:48:29"
-        },
-        {
-            "domain_name": "mwdistrict.com",
-            "destination": "SiteGround",
-            "date": "2025-03-19 14:21:40"
-        },
-        {
-            "domain_name": "newgencontraception.org",
-            "destination": "Kinsta",
-            "date": "2025-03-19 14:04:26"
         }
     ],
     "dailyMovedStat": {
@@ -685,12 +685,12 @@
         "2025-03-19": "54933"
     },
     "topDestinationHosts": {
-        "Pressable": 8696,
+        "Pressable": 8698,
         "Bluehost": 3828,
-        "Kinsta": 3485,
+        "Kinsta": 3490,
         "Digital Ocean": 3266,
-        "SiteGround": 3055,
-        "Hostinger": 1881,
+        "SiteGround": 3056,
+        "Hostinger": 1882,
         "GoDaddy": 916,
         "BigScoots": 454,
         "Liquid Web": 347,
