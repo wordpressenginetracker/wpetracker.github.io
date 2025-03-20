@@ -1,6 +1,41 @@
 {
-    "siteCount": 55202,
+    "siteCount": 55213,
     "recentlyMoved": [
+        {
+            "domain_name": "cinnamonsparks.com",
+            "destination": "Pressable",
+            "date": "2025-03-20 21:08:29"
+        },
+        {
+            "domain_name": "www.gvdentalfamily.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 21:02:09"
+        },
+        {
+            "domain_name": "www.freddentalcenter.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 20:45:03"
+        },
+        {
+            "domain_name": "www.eyeinstituteofhouston.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 20:36:08"
+        },
+        {
+            "domain_name": "www.dljslaw.com",
+            "destination": "Pressable",
+            "date": "2025-03-20 20:30:03"
+        },
+        {
+            "domain_name": "www.dentalkidzclub.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 20:24:00"
+        },
+        {
+            "domain_name": "www.futurefoodsystems.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-20 20:21:09"
+        },
         {
             "domain_name": "gensondoor.com",
             "destination": "Digital Ocean",
@@ -465,41 +500,6 @@
             "domain_name": "aim.partners",
             "destination": "Hostinger",
             "date": "2025-03-20 07:54:40"
-        },
-        {
-            "domain_name": "vandorp.eu",
-            "destination": "Kinsta",
-            "date": "2025-03-20 06:13:43"
-        },
-        {
-            "domain_name": "connorconcretecutting.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-03-20 05:49:53"
-        },
-        {
-            "domain_name": "strategiqconsultants.com",
-            "destination": "Hostinger",
-            "date": "2025-03-20 05:11:38"
-        },
-        {
-            "domain_name": "soulberrymarket.com",
-            "destination": "SiteGround",
-            "date": "2025-03-20 05:11:31"
-        },
-        {
-            "domain_name": "startelevator.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 05:03:11"
-        },
-        {
-            "domain_name": "execprorc.com",
-            "destination": "Hostinger",
-            "date": "2025-03-20 02:34:54"
-        },
-        {
-            "domain_name": "xiva.in",
-            "destination": "Hostinger",
-            "date": "2025-03-20 01:31:23"
         }
     ],
     "dailyMovedStat": {
@@ -685,10 +685,10 @@
         "2025-03-19": "54933"
     },
     "topDestinationHosts": {
-        "Pressable": 8704,
+        "Pressable": 8705,
         "Bluehost": 3829,
-        "Kinsta": 3521,
-        "Digital Ocean": 3272,
+        "Kinsta": 3525,
+        "Digital Ocean": 3273,
         "SiteGround": 3060,
         "Hostinger": 1885,
         "GoDaddy": 917,
