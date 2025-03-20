@@ -1,6 +1,21 @@
 {
-    "siteCount": 54977,
+    "siteCount": 54984,
     "recentlyMoved": [
+        {
+            "domain_name": "bartlettimage.com",
+            "destination": "Pressable",
+            "date": "2025-03-20 08:08:19"
+        },
+        {
+            "domain_name": "www.columbialac.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 08:00:24"
+        },
+        {
+            "domain_name": "aim.partners",
+            "destination": "Hostinger",
+            "date": "2025-03-20 07:54:40"
+        },
         {
             "domain_name": "vandorp.eu",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "coconutcreativestudio.co.uk",
             "destination": "Hostinger",
             "date": "2025-03-19 08:56:48"
-        },
-        {
-            "domain_name": "jedicancerfoundation.org",
-            "destination": "Kinsta",
-            "date": "2025-03-19 08:47:01"
-        },
-        {
-            "domain_name": "www.fortismedia.com",
-            "destination": "Hostinger",
-            "date": "2025-03-19 08:43:45"
-        },
-        {
-            "domain_name": "blind.org.uk",
-            "destination": "Hetzner Online",
-            "date": "2025-03-19 08:13:11"
         }
     ],
     "dailyMovedStat": {
@@ -690,7 +690,7 @@
         "Kinsta": 3476,
         "Digital Ocean": 3263,
         "SiteGround": 3050,
-        "Hostinger": 1877,
+        "Hostinger": 1878,
         "GoDaddy": 915,
         "BigScoots": 454,
         "Liquid Web": 347,
