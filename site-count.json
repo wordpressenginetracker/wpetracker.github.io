@@ -1,6 +1,26 @@
 {
-    "siteCount": 54939,
+    "siteCount": 54944,
     "recentlyMoved": [
+        {
+            "domain_name": "www.oxtools.com.ve",
+            "destination": "HostGator",
+            "date": "2025-03-20 01:09:45"
+        },
+        {
+            "domain_name": "roctek.ca",
+            "destination": "SiteGround",
+            "date": "2025-03-20 00:50:38"
+        },
+        {
+            "domain_name": "hot.tech",
+            "destination": "SiteGround",
+            "date": "2025-03-20 00:36:12"
+        },
+        {
+            "domain_name": "www.maloneyplumbing.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 00:35:53"
+        },
         {
             "domain_name": "amixsystems.com",
             "destination": "GoDaddy",
@@ -480,26 +500,6 @@
             "domain_name": "www.chattanoogadrivingschool.com",
             "destination": "Liquid Web",
             "date": "2025-03-19 04:30:20"
-        },
-        {
-            "domain_name": "plumbing.oaklandrooter.com",
-            "destination": "SiteGround",
-            "date": "2025-03-19 03:45:37"
-        },
-        {
-            "domain_name": "wpnomads.club",
-            "destination": "Namecheap",
-            "date": "2025-03-19 03:37:15"
-        },
-        {
-            "domain_name": "officialescapetown.com",
-            "destination": "Hostinger",
-            "date": "2025-03-19 03:13:13"
-        },
-        {
-            "domain_name": "www.calviswyant.com",
-            "destination": "SiteGround",
-            "date": "2025-03-18 23:40:57"
         }
     ],
     "dailyMovedStat": {
@@ -687,9 +687,9 @@
     "topDestinationHosts": {
         "Pressable": 8691,
         "Bluehost": 3828,
-        "Kinsta": 3472,
+        "Kinsta": 3473,
         "Digital Ocean": 3263,
-        "SiteGround": 3047,
+        "SiteGround": 3049,
         "Hostinger": 1874,
         "GoDaddy": 915,
         "BigScoots": 454,
