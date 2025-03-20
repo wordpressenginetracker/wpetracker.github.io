@@ -1,6 +1,16 @@
 {
-    "siteCount": 54955,
+    "siteCount": 54966,
     "recentlyMoved": [
+        {
+            "domain_name": "soulberrymarket.com",
+            "destination": "SiteGround",
+            "date": "2025-03-20 05:11:31"
+        },
+        {
+            "domain_name": "startelevator.com",
+            "destination": "Kinsta",
+            "date": "2025-03-20 05:03:11"
+        },
         {
             "domain_name": "execprorc.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "aleeshasadvancedfootcare.com",
             "destination": "Pressable",
             "date": "2025-03-19 07:51:00"
-        },
-        {
-            "domain_name": "www.quickresponsegaragedoor.com",
-            "destination": "SiteGround",
-            "date": "2025-03-19 05:35:18"
-        },
-        {
-            "domain_name": "www.ryanryanlaw.com",
-            "destination": "SiteGround",
-            "date": "2025-03-19 05:22:16"
         }
     ],
     "dailyMovedStat": {
@@ -689,7 +689,7 @@
         "Bluehost": 3828,
         "Kinsta": 3474,
         "Digital Ocean": 3263,
-        "SiteGround": 3049,
+        "SiteGround": 3050,
         "Hostinger": 1876,
         "GoDaddy": 915,
         "BigScoots": 454,
