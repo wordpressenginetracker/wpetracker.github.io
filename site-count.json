@@ -1,6 +1,11 @@
 {
-    "siteCount": 55263,
+    "siteCount": 55270,
     "recentlyMoved": [
+        {
+            "domain_name": "caraudiophoenix.com",
+            "destination": "SiteGround",
+            "date": "2025-03-21 05:05:18"
+        },
         {
             "domain_name": "operationalintelligence.com.au",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "www.hearingcarefl.com",
             "destination": "Digital Ocean",
             "date": "2025-03-20 11:40:18"
-        },
-        {
-            "domain_name": "gonextek.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 11:32:11"
         }
     ],
     "dailyMovedStat": {
@@ -690,7 +690,7 @@
         "Bluehost": 3831,
         "Kinsta": 3528,
         "Digital Ocean": 3274,
-        "SiteGround": 3065,
+        "SiteGround": 3066,
         "Hostinger": 1887,
         "GoDaddy": 917,
         "BigScoots": 456,
