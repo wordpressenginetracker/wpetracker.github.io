@@ -1,6 +1,11 @@
 {
-    "siteCount": 55414,
+    "siteCount": 55416,
     "recentlyMoved": [
+        {
+            "domain_name": "nofa.organiclandcare.net",
+            "destination": "Kinsta",
+            "date": "2025-03-21 18:49:34"
+        },
         {
             "domain_name": "misstracycreates.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "marksbolts.com",
             "destination": "Bluehost",
             "date": "2025-03-20 17:30:16"
-        },
-        {
-            "domain_name": "manickbhan.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 17:24:11"
         }
     ],
     "dailyMovedStat": {
@@ -688,7 +688,7 @@
     "topDestinationHosts": {
         "Pressable": 8718,
         "Bluehost": 3835,
-        "Kinsta": 3545,
+        "Kinsta": 3546,
         "Digital Ocean": 3279,
         "SiteGround": 3076,
         "Hostinger": 1891,
