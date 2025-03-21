@@ -1,6 +1,16 @@
 {
-    "siteCount": 55313,
+    "siteCount": 55315,
     "recentlyMoved": [
+        {
+            "domain_name": "vertexsecurity.com",
+            "destination": "Kinsta",
+            "date": "2025-03-21 10:48:39"
+        },
+        {
+            "domain_name": "vantage-tag.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-21 10:39:06"
+        },
         {
             "domain_name": "elitewellness.fit",
             "destination": "Digital Ocean",
@@ -467,11 +477,6 @@
             "date": "2025-03-20 13:36:07"
         },
         {
-            "domain_name": "www.planet-pip.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 13:32:03"
-        },
-        {
             "domain_name": "denverplumbingteam.com",
             "destination": "Liquid Web",
             "date": "2025-03-20 13:28:19"
@@ -495,11 +500,6 @@
             "domain_name": "www.polewskilaw.com",
             "destination": "Kinsta",
             "date": "2025-03-20 12:49:48"
-        },
-        {
-            "domain_name": "www.mitziscafe.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 12:43:09"
         }
     ],
     "dailyMovedStat": {
@@ -688,11 +688,11 @@
     "topDestinationHosts": {
         "Pressable": 8710,
         "Bluehost": 3833,
-        "Kinsta": 3531,
+        "Kinsta": 3532,
         "Digital Ocean": 3275,
         "SiteGround": 3069,
         "Hostinger": 1888,
-        "GoDaddy": 917,
+        "GoDaddy": 918,
         "BigScoots": 456,
         "Liquid Web": 350,
         "Elementor Hosting": 268,
