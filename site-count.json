@@ -1,6 +1,16 @@
 {
-    "siteCount": 55284,
+    "siteCount": 55290,
     "recentlyMoved": [
+        {
+            "domain_name": "ps-nuoriso.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-03-21 07:58:55"
+        },
+        {
+            "domain_name": "www.carefreecharters.com",
+            "destination": "A2 Hosting",
+            "date": "2025-03-21 07:58:53"
+        },
         {
             "domain_name": "nesplandscapes.edu.au",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "armstronglock.com",
             "destination": "Pressable",
             "date": "2025-03-20 12:14:41"
-        },
-        {
-            "domain_name": "www.bencosystemsinc.com",
-            "destination": "Pressable",
-            "date": "2025-03-20 12:13:09"
-        },
-        {
-            "domain_name": "www.hearingcarefl.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-20 11:40:18"
         }
     ],
     "dailyMovedStat": {
@@ -702,10 +702,10 @@
         "OVH": 210,
         "IONOS": 198,
         "DreamHost": 184,
+        "A2 Hosting": 182,
         "Namecheap": 182,
-        "A2 Hosting": 181,
         "Wordify": 174,
-        "Hetzner Online": 154
+        "Hetzner Online": 155
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
