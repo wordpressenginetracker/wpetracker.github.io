@@ -1,6 +1,11 @@
 {
-    "siteCount": 55261,
+    "siteCount": 55263,
     "recentlyMoved": [
+        {
+            "domain_name": "operationalintelligence.com.au",
+            "destination": "Namecheap",
+            "date": "2025-03-21 03:22:56"
+        },
         {
             "domain_name": "thepetersonlawfirm.com",
             "destination": "SiteGround",
@@ -467,11 +472,6 @@
             "date": "2025-03-20 12:13:09"
         },
         {
-            "domain_name": "www.andersondentalfindlay.com",
-            "destination": "GridPane",
-            "date": "2025-03-20 11:57:36"
-        },
-        {
             "domain_name": "gouldsalonspa.com",
             "destination": "Kinsta",
             "date": "2025-03-20 11:55:49"
@@ -703,7 +703,7 @@
         "IONOS": 198,
         "DreamHost": 184,
         "A2 Hosting": 181,
-        "Namecheap": 179,
+        "Namecheap": 180,
         "Wordify": 174,
         "Hetzner Online": 154
     },
