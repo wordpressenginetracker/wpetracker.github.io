@@ -1,5 +1,5 @@
 {
-    "siteCount": 55477,
+    "siteCount": 55482,
     "recentlyMoved": [
         {
             "domain_name": "stephensonrife.com",
@@ -10,6 +10,11 @@
             "domain_name": "sillfamilyvineyards.com",
             "destination": "SiteGround",
             "date": "2025-03-21 21:20:24"
+        },
+        {
+            "domain_name": "www.retinaspec.com",
+            "destination": "Kinsta",
+            "date": "2025-03-21 21:00:45"
         },
         {
             "domain_name": "shivastudio.org",
@@ -492,11 +497,6 @@
             "date": "2025-03-20 20:30:03"
         },
         {
-            "domain_name": "www.dentalkidzclub.com",
-            "destination": "Kinsta",
-            "date": "2025-03-20 20:24:00"
-        },
-        {
             "domain_name": "www.futurefoodsystems.com",
             "destination": "Digital Ocean",
             "date": "2025-03-20 20:21:09"
@@ -688,9 +688,9 @@
     "topDestinationHosts": {
         "Pressable": 8718,
         "Bluehost": 3836,
-        "Kinsta": 3549,
+        "Kinsta": 3550,
         "Digital Ocean": 3281,
-        "SiteGround": 3078,
+        "SiteGround": 3079,
         "Hostinger": 1891,
         "GoDaddy": 922,
         "BigScoots": 456,
