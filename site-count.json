@@ -1,5 +1,5 @@
 {
-    "siteCount": 55745,
+    "siteCount": 55746,
     "recentlyMoved": [
         {
             "domain_name": "elsministries.org",
@@ -10,6 +10,11 @@
             "domain_name": "mybiblestudytools.com",
             "destination": "Pressable",
             "date": "2025-03-22 22:35:56"
+        },
+        {
+            "domain_name": "northernwildernessoutpost.org",
+            "destination": "Pressable",
+            "date": "2025-03-22 22:25:18"
         },
         {
             "domain_name": "dynalloyinc.com",
@@ -495,11 +500,6 @@
             "domain_name": "changealgorithm.com",
             "destination": "Pressable",
             "date": "2025-03-22 01:13:47"
-        },
-        {
-            "domain_name": "certifiedcodertraining.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-22 01:11:18"
         }
     ],
     "dailyMovedStat": {
@@ -684,10 +684,11 @@
         "2025-03-18": "54657",
         "2025-03-19": "54933",
         "2025-03-20": "55225",
-        "2025-03-21": "55482"
+        "2025-03-21": "55482",
+        "2025-03-22": "55746"
     },
     "topDestinationHosts": {
-        "Pressable": 8745,
+        "Pressable": 8747,
         "Bluehost": 3837,
         "Kinsta": 3564,
         "Digital Ocean": 3302,
@@ -890,6 +891,7 @@
         "2025-03-18": "650956",
         "2025-03-19": "650132",
         "2025-03-20": "649462",
-        "2025-03-21": "649013"
+        "2025-03-21": "649013",
+        "2025-03-22": "648185"
     }
 }
