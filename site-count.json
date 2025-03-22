@@ -1,10 +1,25 @@
 {
-    "siteCount": 55550,
+    "siteCount": 55557,
     "recentlyMoved": [
+        {
+            "domain_name": "velocity504.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-03-22 10:23:19"
+        },
+        {
+            "domain_name": "thestylishbride.com",
+            "destination": "BigScoots",
+            "date": "2025-03-22 10:12:49"
+        },
         {
             "domain_name": "lavalleyindustries.com",
             "destination": "Digital Ocean",
             "date": "2025-03-22 09:42:18"
+        },
+        {
+            "domain_name": "www.therwlife.com",
+            "destination": "Hostinger",
+            "date": "2025-03-22 09:29:21"
         },
         {
             "domain_name": "ipg.dvmelite.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.carefreecharters.com",
             "destination": "A2 Hosting",
             "date": "2025-03-21 07:58:53"
-        },
-        {
-            "domain_name": "nesplandscapes.edu.au",
-            "destination": "Kinsta",
-            "date": "2025-03-21 06:27:28"
-        },
-        {
-            "domain_name": "tgevending.com",
-            "destination": "SiteGround",
-            "date": "2025-03-21 06:06:08"
-        },
-        {
-            "domain_name": "www.tnkelectric.com",
-            "destination": "SiteGround",
-            "date": "2025-03-21 05:51:57"
         }
     ],
     "dailyMovedStat": {
@@ -692,9 +692,9 @@
         "Kinsta": 3558,
         "Digital Ocean": 3285,
         "SiteGround": 3081,
-        "Hostinger": 1893,
+        "Hostinger": 1894,
         "GoDaddy": 923,
-        "BigScoots": 456,
+        "BigScoots": 457,
         "Liquid Web": 350,
         "Elementor Hosting": 270,
         "GridPane": 253,
