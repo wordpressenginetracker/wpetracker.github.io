@@ -1,6 +1,11 @@
 {
-    "siteCount": 55773,
+    "siteCount": 55777,
     "recentlyMoved": [
+        {
+            "domain_name": "lesliemastinevents.com",
+            "destination": "BigScoots",
+            "date": "2025-03-23 09:46:32"
+        },
         {
             "domain_name": "www.pbrbuilders.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "mobileaxept.com",
             "destination": "SiteGround",
             "date": "2025-03-22 05:49:48"
-        },
-        {
-            "domain_name": "carpetcleaningprofessionals.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-03-22 04:29:47"
         }
     ],
     "dailyMovedStat": {
@@ -688,14 +688,14 @@
         "2025-03-22": "55746"
     },
     "topDestinationHosts": {
-        "Pressable": 8751,
+        "Pressable": 8752,
         "Bluehost": 3837,
         "Kinsta": 3565,
         "Digital Ocean": 3303,
         "SiteGround": 3097,
         "Hostinger": 1901,
         "GoDaddy": 925,
-        "BigScoots": 458,
+        "BigScoots": 459,
         "Liquid Web": 354,
         "Elementor Hosting": 270,
         "GridPane": 253,
