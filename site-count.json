@@ -1,6 +1,11 @@
 {
-    "siteCount": 55785,
+    "siteCount": 55788,
     "recentlyMoved": [
+        {
+            "domain_name": "newtownartsfestival.com",
+            "destination": "Kinsta",
+            "date": "2025-03-23 14:57:01"
+        },
         {
             "domain_name": "databasedynamics.net",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "www.therwlife.com",
             "destination": "Hostinger",
             "date": "2025-03-22 09:29:21"
-        },
-        {
-            "domain_name": "sgautoinc.com",
-            "destination": "A2 Hosting",
-            "date": "2025-03-22 08:33:56"
         }
     ],
     "dailyMovedStat": {
@@ -690,7 +690,7 @@
     "topDestinationHosts": {
         "Pressable": 8752,
         "Bluehost": 3838,
-        "Kinsta": 3566,
+        "Kinsta": 3567,
         "Digital Ocean": 3303,
         "SiteGround": 3097,
         "Hostinger": 1901,
