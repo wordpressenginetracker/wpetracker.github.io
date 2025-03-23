@@ -1,6 +1,11 @@
 {
-    "siteCount": 55777,
+    "siteCount": 55779,
     "recentlyMoved": [
+        {
+            "domain_name": "graybarnsvt.com",
+            "destination": "BigScoots",
+            "date": "2025-03-23 11:36:55"
+        },
         {
             "domain_name": "lesliemastinevents.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "fittracmenlopark.com",
             "destination": "Digital Ocean",
             "date": "2025-03-22 07:33:00"
-        },
-        {
-            "domain_name": "mobileaxept.com",
-            "destination": "SiteGround",
-            "date": "2025-03-22 05:49:48"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
         "SiteGround": 3097,
         "Hostinger": 1901,
         "GoDaddy": 925,
-        "BigScoots": 459,
+        "BigScoots": 460,
         "Liquid Web": 354,
         "Elementor Hosting": 270,
         "GridPane": 253,
