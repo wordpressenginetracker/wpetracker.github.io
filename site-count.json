@@ -1,6 +1,21 @@
 {
-    "siteCount": 55746,
+    "siteCount": 55750,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bluefishdental.com",
+            "destination": "Pressable",
+            "date": "2025-03-23 00:09:29"
+        },
+        {
+            "domain_name": "www.bizbuzzcontent.com",
+            "destination": "Pressable",
+            "date": "2025-03-23 00:03:19"
+        },
+        {
+            "domain_name": "findquintehomes.com",
+            "destination": "SiteGround",
+            "date": "2025-03-22 23:13:00"
+        },
         {
             "domain_name": "elsministries.org",
             "destination": "Pressable",
@@ -477,16 +492,6 @@
             "date": "2025-03-22 02:04:26"
         },
         {
-            "domain_name": "creationreadingcourse.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 01:50:06"
-        },
-        {
-            "domain_name": "maternalgospel.org",
-            "destination": "Pressable",
-            "date": "2025-03-22 01:42:41"
-        },
-        {
             "domain_name": "totheleast.org",
             "destination": "Pressable",
             "date": "2025-03-22 01:42:00"
@@ -495,11 +500,6 @@
             "domain_name": "totallifestylechange.org",
             "destination": "Pressable",
             "date": "2025-03-22 01:42:00"
-        },
-        {
-            "domain_name": "changealgorithm.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 01:13:47"
         }
     ],
     "dailyMovedStat": {
@@ -688,11 +688,11 @@
         "2025-03-22": "55746"
     },
     "topDestinationHosts": {
-        "Pressable": 8747,
+        "Pressable": 8749,
         "Bluehost": 3837,
         "Kinsta": 3564,
         "Digital Ocean": 3302,
-        "SiteGround": 3094,
+        "SiteGround": 3095,
         "Hostinger": 1899,
         "GoDaddy": 925,
         "BigScoots": 458,
