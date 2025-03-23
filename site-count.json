@@ -1,6 +1,16 @@
 {
-    "siteCount": 55779,
+    "siteCount": 55782,
     "recentlyMoved": [
+        {
+            "domain_name": "katherinehammons.com",
+            "destination": "Bluehost",
+            "date": "2025-03-23 12:41:46"
+        },
+        {
+            "domain_name": "huronfam.org",
+            "destination": "GoDaddy",
+            "date": "2025-03-23 12:05:23"
+        },
         {
             "domain_name": "graybarnsvt.com",
             "destination": "BigScoots",
@@ -490,16 +500,6 @@
             "domain_name": "www.dependabledoor.com",
             "destination": "InMotion Hosting",
             "date": "2025-03-22 08:29:43"
-        },
-        {
-            "domain_name": "fittracredwoodcity.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-22 07:33:00"
-        },
-        {
-            "domain_name": "fittracmenlopark.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-22 07:33:00"
         }
     ],
     "dailyMovedStat": {
@@ -689,12 +689,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 8752,
-        "Bluehost": 3837,
+        "Bluehost": 3838,
         "Kinsta": 3565,
         "Digital Ocean": 3303,
         "SiteGround": 3097,
         "Hostinger": 1901,
-        "GoDaddy": 925,
+        "GoDaddy": 926,
         "BigScoots": 460,
         "Liquid Web": 354,
         "Elementor Hosting": 270,
