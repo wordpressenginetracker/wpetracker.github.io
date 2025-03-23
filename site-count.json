@@ -1,6 +1,11 @@
 {
-    "siteCount": 55757,
+    "siteCount": 55758,
     "recentlyMoved": [
+        {
+            "domain_name": "nucleusconstruction.com",
+            "destination": "SiteGround",
+            "date": "2025-03-23 02:12:15"
+        },
         {
             "domain_name": "libraries.dvmelite.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.multiversekitchens.com",
             "destination": "Kinsta",
             "date": "2025-03-22 03:35:24"
-        },
-        {
-            "domain_name": "2seewhales.com",
-            "destination": "Kinsta",
-            "date": "2025-03-22 03:09:36"
         }
     ],
     "dailyMovedStat": {
@@ -692,7 +692,7 @@
         "Bluehost": 3837,
         "Kinsta": 3565,
         "Digital Ocean": 3303,
-        "SiteGround": 3095,
+        "SiteGround": 3096,
         "Hostinger": 1900,
         "GoDaddy": 925,
         "BigScoots": 458,
