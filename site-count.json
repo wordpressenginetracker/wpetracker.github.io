@@ -1,6 +1,11 @@
 {
-    "siteCount": 55880,
+    "siteCount": 55883,
     "recentlyMoved": [
+        {
+            "domain_name": "linklaboratory.com",
+            "destination": "Kinsta",
+            "date": "2025-03-24 01:10:06"
+        },
         {
             "domain_name": "integritychimneyservice.com",
             "destination": "Digital Ocean",
@@ -482,11 +487,6 @@
             "date": "2025-03-22 17:17:41"
         },
         {
-            "domain_name": "www.logicinspectors.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 17:15:07"
-        },
-        {
             "domain_name": "www.maryfreebed.com",
             "destination": "Kinsta",
             "date": "2025-03-22 17:13:39"
@@ -691,7 +691,7 @@
     "topDestinationHosts": {
         "Pressable": 8752,
         "Bluehost": 3839,
-        "Kinsta": 3590,
+        "Kinsta": 3591,
         "Digital Ocean": 3304,
         "SiteGround": 3103,
         "Hostinger": 1904,
