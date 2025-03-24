@@ -1,6 +1,16 @@
 {
-    "siteCount": 56021,
+    "siteCount": 56029,
     "recentlyMoved": [
+        {
+            "domain_name": "rumscheidt.com",
+            "destination": "Pressable",
+            "date": "2025-03-24 20:42:16"
+        },
+        {
+            "domain_name": "rpbakehouse.com",
+            "destination": "Pressable",
+            "date": "2025-03-24 20:42:07"
+        },
         {
             "domain_name": "thegyminmissionhills.com",
             "destination": "Pressable",
@@ -462,11 +472,6 @@
             "date": "2025-03-22 20:34:50"
         },
         {
-            "domain_name": "www.magnesslaw.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 20:33:13"
-        },
-        {
             "domain_name": "jlhomebuilding.com",
             "destination": "Pressable",
             "date": "2025-03-22 20:28:18"
@@ -495,11 +500,6 @@
             "domain_name": "arcorpidaho.com",
             "destination": "SiteGround",
             "date": "2025-03-22 20:08:30"
-        },
-        {
-            "domain_name": "gleamsofglory.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 20:05:58"
         }
     ],
     "dailyMovedStat": {
@@ -689,7 +689,7 @@
         "2025-03-23": "55862"
     },
     "topDestinationHosts": {
-        "Pressable": 8755,
+        "Pressable": 8757,
         "Bluehost": 3840,
         "Kinsta": 3596,
         "Digital Ocean": 3306,
