@@ -1,6 +1,11 @@
 {
-    "siteCount": 55862,
+    "siteCount": 55872,
     "recentlyMoved": [
+        {
+            "domain_name": "werunockids.org",
+            "destination": "WordPress.com",
+            "date": "2025-03-23 23:15:28"
+        },
         {
             "domain_name": "moremetadata.com",
             "destination": "SiteGround",
@@ -472,11 +477,6 @@
             "date": "2025-03-22 17:13:39"
         },
         {
-            "domain_name": "www.idealdentalpartners.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-22 17:09:57"
-        },
-        {
             "domain_name": "canadacareercounselling.com",
             "destination": "Hostinger",
             "date": "2025-03-22 17:09:48"
@@ -700,7 +700,7 @@
         "Liquid Web": 354,
         "Elementor Hosting": 270,
         "GridPane": 253,
-        "WordPress.com": 248,
+        "WordPress.com": 249,
         "InMotion Hosting": 242,
         "OVH": 213,
         "IONOS": 201,
