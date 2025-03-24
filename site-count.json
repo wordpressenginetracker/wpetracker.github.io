@@ -1,6 +1,16 @@
 {
-    "siteCount": 55916,
+    "siteCount": 55924,
     "recentlyMoved": [
+        {
+            "domain_name": "interiordesignerny.com",
+            "destination": "Kinsta",
+            "date": "2025-03-24 08:17:24"
+        },
+        {
+            "domain_name": "www.enable-access.com",
+            "destination": "Kinsta",
+            "date": "2025-03-24 08:09:21"
+        },
         {
             "domain_name": "erikarnesen.no",
             "destination": "Digital Ocean",
@@ -482,11 +492,6 @@
             "date": "2025-03-22 17:42:19"
         },
         {
-            "domain_name": "www.prohearingmgmt.com",
-            "destination": "WordPress.com",
-            "date": "2025-03-22 17:41:54"
-        },
-        {
             "domain_name": "mandyrush.com",
             "destination": "Digital Ocean",
             "date": "2025-03-22 17:26:11"
@@ -495,11 +500,6 @@
             "domain_name": "www.sdoamg.com",
             "destination": "Kinsta",
             "date": "2025-03-22 17:17:41"
-        },
-        {
-            "domain_name": "coachadg.com",
-            "destination": "SiteGround",
-            "date": "2025-03-22 16:59:59"
         }
     ],
     "dailyMovedStat": {
@@ -691,7 +691,7 @@
     "topDestinationHosts": {
         "Pressable": 8752,
         "Bluehost": 3839,
-        "Kinsta": 3591,
+        "Kinsta": 3593,
         "Digital Ocean": 3306,
         "SiteGround": 3103,
         "Hostinger": 1904,
