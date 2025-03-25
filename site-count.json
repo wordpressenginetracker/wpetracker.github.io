@@ -1,10 +1,20 @@
 {
-    "siteCount": 56066,
+    "siteCount": 56077,
     "recentlyMoved": [
+        {
+            "domain_name": "mutantcr3w.com",
+            "destination": "Hostinger",
+            "date": "2025-03-25 06:09:52"
+        },
         {
             "domain_name": "kraggruppen.no",
             "destination": "Hetzner Online",
             "date": "2025-03-25 05:38:06"
+        },
+        {
+            "domain_name": "ltlgruppen.no",
+            "destination": "Hetzner Online",
+            "date": "2025-03-25 05:12:06"
         },
         {
             "domain_name": "www.campbellfordelegate.com",
@@ -490,16 +500,6 @@
             "domain_name": "northernwildernessoutpost.org",
             "destination": "Pressable",
             "date": "2025-03-22 22:25:18"
-        },
-        {
-            "domain_name": "dynalloyinc.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 22:02:20"
-        },
-        {
-            "domain_name": "mercuryfreebaby.org",
-            "destination": "OVH",
-            "date": "2025-03-22 21:26:34"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
         "Kinsta": 3598,
         "Digital Ocean": 3308,
         "SiteGround": 3111,
-        "Hostinger": 1910,
+        "Hostinger": 1911,
         "GoDaddy": 927,
         "BigScoots": 461,
         "Liquid Web": 354,
@@ -709,7 +709,7 @@
         "DreamHost": 187,
         "A2 Hosting": 185,
         "Wordify": 175,
-        "Hetzner Online": 157
+        "Hetzner Online": 158
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
