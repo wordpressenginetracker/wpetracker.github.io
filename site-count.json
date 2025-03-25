@@ -1,6 +1,11 @@
 {
-    "siteCount": 56057,
+    "siteCount": 56066,
     "recentlyMoved": [
+        {
+            "domain_name": "kraggruppen.no",
+            "destination": "Hetzner Online",
+            "date": "2025-03-25 05:38:06"
+        },
         {
             "domain_name": "www.campbellfordelegate.com",
             "destination": "WordPress.com",
@@ -10,6 +15,11 @@
             "domain_name": "ginolis.com",
             "destination": "Pressable",
             "date": "2025-03-25 04:12:30"
+        },
+        {
+            "domain_name": "bigcatering.no",
+            "destination": "Hetzner Online",
+            "date": "2025-03-25 04:12:08"
         },
         {
             "domain_name": "texashistory.com",
@@ -487,16 +497,6 @@
             "date": "2025-03-22 22:02:20"
         },
         {
-            "domain_name": "marilenacleaning.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 21:53:08"
-        },
-        {
-            "domain_name": "danburymusiccentre.org",
-            "destination": "Kinsta",
-            "date": "2025-03-22 21:31:06"
-        },
-        {
             "domain_name": "mercuryfreebaby.org",
             "destination": "OVH",
             "date": "2025-03-22 21:26:34"
@@ -709,7 +709,7 @@
         "DreamHost": 187,
         "A2 Hosting": 185,
         "Wordify": 175,
-        "Hetzner Online": 155
+        "Hetzner Online": 157
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
