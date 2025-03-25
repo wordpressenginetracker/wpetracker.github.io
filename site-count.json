@@ -1,6 +1,11 @@
 {
-    "siteCount": 56176,
+    "siteCount": 56177,
     "recentlyMoved": [
+        {
+            "domain_name": "newbuildings.org",
+            "destination": "Pressable",
+            "date": "2025-03-25 14:28:14"
+        },
         {
             "domain_name": "www.weinbergwpb.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.yourmetalnews.com",
             "destination": "Kinsta",
             "date": "2025-03-23 17:41:58"
-        },
-        {
-            "domain_name": "www.sophiadeluz.com",
-            "destination": "Kinsta",
-            "date": "2025-03-23 17:33:15"
         }
     ],
     "dailyMovedStat": {
@@ -690,7 +690,7 @@
         "2025-03-24": "56036"
     },
     "topDestinationHosts": {
-        "Pressable": 8769,
+        "Pressable": 8770,
         "Bluehost": 3840,
         "Kinsta": 3607,
         "Digital Ocean": 3316,
