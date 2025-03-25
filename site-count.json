@@ -1,6 +1,26 @@
 {
-    "siteCount": 56036,
+    "siteCount": 56041,
     "recentlyMoved": [
+        {
+            "domain_name": "adelaidefarmersmarket.com.au",
+            "destination": "Kinsta",
+            "date": "2025-03-25 00:05:10"
+        },
+        {
+            "domain_name": "goldenmilealliance.org",
+            "destination": "Digital Ocean",
+            "date": "2025-03-24 23:55:42"
+        },
+        {
+            "domain_name": "www.auslux.com.au",
+            "destination": "Kinsta",
+            "date": "2025-03-24 23:45:40"
+        },
+        {
+            "domain_name": "oberix.com",
+            "destination": "Namecheap",
+            "date": "2025-03-24 23:13:26"
+        },
         {
             "domain_name": "theaccountabilitygroup.com",
             "destination": "Hostinger",
@@ -457,11 +477,6 @@
             "date": "2025-03-22 21:31:06"
         },
         {
-            "domain_name": "www.nonprofitlegalcenter.com",
-            "destination": "GoDaddy",
-            "date": "2025-03-22 21:30:43"
-        },
-        {
             "domain_name": "mercuryfreebaby.org",
             "destination": "OVH",
             "date": "2025-03-22 21:26:34"
@@ -477,11 +492,6 @@
             "date": "2025-03-22 20:54:40"
         },
         {
-            "domain_name": "roxeemorden.com",
-            "destination": "SiteGround",
-            "date": "2025-03-22 20:51:30"
-        },
-        {
             "domain_name": "laurahillary.ca",
             "destination": "SiteGround",
             "date": "2025-03-22 20:48:51"
@@ -490,16 +500,6 @@
             "domain_name": "latticeworkcapital.com",
             "destination": "Pressable",
             "date": "2025-03-22 20:48:51"
-        },
-        {
-            "domain_name": "jlhomebuilding.com",
-            "destination": "Pressable",
-            "date": "2025-03-22 20:28:18"
-        },
-        {
-            "domain_name": "intersectgroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-03-22 20:27:01"
         }
     ],
     "dailyMovedStat": {
@@ -692,8 +692,8 @@
     "topDestinationHosts": {
         "Pressable": 8760,
         "Bluehost": 3840,
-        "Kinsta": 3596,
-        "Digital Ocean": 3306,
+        "Kinsta": 3598,
+        "Digital Ocean": 3307,
         "SiteGround": 3111,
         "Hostinger": 1909,
         "GoDaddy": 927,
@@ -705,7 +705,7 @@
         "InMotion Hosting": 243,
         "OVH": 213,
         "IONOS": 202,
-        "Namecheap": 188,
+        "Namecheap": 189,
         "DreamHost": 187,
         "A2 Hosting": 185,
         "Wordify": 175,
