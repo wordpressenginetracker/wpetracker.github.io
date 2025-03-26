@@ -1,6 +1,11 @@
 {
-    "siteCount": 56529,
+    "siteCount": 56532,
     "recentlyMoved": [
+        {
+            "domain_name": "erottajankulma.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-03-26 18:48:11"
+        },
         {
             "domain_name": "tmariecreativeco.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "codylassen.com",
             "destination": "Kinsta",
             "date": "2025-03-25 21:40:37"
-        },
-        {
-            "domain_name": "ci-group.com",
-            "destination": "Kinsta",
-            "date": "2025-03-25 21:14:58"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
         "Bluehost": 3843,
         "Kinsta": 3657,
         "Digital Ocean": 3332,
-        "SiteGround": 3136,
+        "SiteGround": 3137,
         "Hostinger": 1929,
         "GoDaddy": 936,
         "BigScoots": 462,
@@ -710,7 +710,7 @@
         "DreamHost": 188,
         "A2 Hosting": 187,
         "Wordify": 175,
-        "Hetzner Online": 160
+        "Hetzner Online": 161
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
