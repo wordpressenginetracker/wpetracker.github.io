@@ -1,6 +1,11 @@
 {
-    "siteCount": 56397,
+    "siteCount": 56399,
     "recentlyMoved": [
+        {
+            "domain_name": "farmersandcooksdeli.com",
+            "destination": "Kinsta",
+            "date": "2025-03-26 10:19:58"
+        },
         {
             "domain_name": "medcovet.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "jcgtechnologies.com",
             "destination": "Pressable",
             "date": "2025-03-25 12:57:30"
-        },
-        {
-            "domain_name": "bespokelongevity.com.au",
-            "destination": "Kinsta",
-            "date": "2025-03-25 12:21:44"
         }
     ],
     "dailyMovedStat": {
@@ -693,7 +693,7 @@
     "topDestinationHosts": {
         "Pressable": 8780,
         "Bluehost": 3842,
-        "Kinsta": 3636,
+        "Kinsta": 3637,
         "Digital Ocean": 3326,
         "SiteGround": 3130,
         "Hostinger": 1923,
