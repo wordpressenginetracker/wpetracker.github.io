@@ -1,6 +1,16 @@
 {
-    "siteCount": 56348,
+    "siteCount": 56356,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thesignmaker.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2025-03-26 06:02:26"
+        },
+        {
+            "domain_name": "yuvedofoundation.de",
+            "destination": "IONOS",
+            "date": "2025-03-26 05:41:26"
+        },
         {
             "domain_name": "kidchorecharts.com",
             "destination": "SiteGround",
@@ -487,16 +497,6 @@
             "date": "2025-03-25 08:52:13"
         },
         {
-            "domain_name": "healthiervendingtn.com",
-            "destination": "SiteGround",
-            "date": "2025-03-25 08:37:51"
-        },
-        {
-            "domain_name": "bamboodental.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-03-25 08:19:53"
-        },
-        {
             "domain_name": "ioppublishing.org",
             "destination": "Kinsta",
             "date": "2025-03-25 08:14:16"
@@ -694,7 +694,7 @@
         "Pressable": 8779,
         "Bluehost": 3842,
         "Kinsta": 3629,
-        "Digital Ocean": 3321,
+        "Digital Ocean": 3322,
         "SiteGround": 3128,
         "Hostinger": 1921,
         "GoDaddy": 930,
@@ -705,7 +705,7 @@
         "GridPane": 253,
         "InMotion Hosting": 244,
         "OVH": 214,
-        "IONOS": 202,
+        "IONOS": 203,
         "Namecheap": 193,
         "DreamHost": 188,
         "A2 Hosting": 186,
