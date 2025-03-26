@@ -1,6 +1,11 @@
 {
-    "siteCount": 56334,
+    "siteCount": 56335,
     "recentlyMoved": [
+        {
+            "domain_name": "nextventuremedia.com",
+            "destination": "SiteGround",
+            "date": "2025-03-26 02:46:48"
+        },
         {
             "domain_name": "clowns4kids.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "ltlgruppen.no",
             "destination": "Hetzner Online",
             "date": "2025-03-25 05:12:06"
-        },
-        {
-            "domain_name": "bigcatering.no",
-            "destination": "Hetzner Online",
-            "date": "2025-03-25 04:12:08"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
         "Bluehost": 3842,
         "Kinsta": 3628,
         "Digital Ocean": 3321,
-        "SiteGround": 3124,
+        "SiteGround": 3125,
         "Hostinger": 1921,
         "GoDaddy": 930,
         "BigScoots": 462,
