@@ -1,6 +1,11 @@
 {
-    "siteCount": 56898,
+    "siteCount": 56899,
     "recentlyMoved": [
+        {
+            "domain_name": "newtowncreek.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-27 22:37:41"
+        },
         {
             "domain_name": "ufofestival.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "murisor.no",
             "destination": "Hetzner Online",
             "date": "2025-03-27 06:40:49"
-        },
-        {
-            "domain_name": "monessnacks.com",
-            "destination": "SiteGround",
-            "date": "2025-03-27 05:49:19"
         }
     ],
     "dailyMovedStat": {
@@ -689,13 +689,14 @@
         "2025-03-23": "55862",
         "2025-03-24": "56036",
         "2025-03-25": "56323",
-        "2025-03-26": "56602"
+        "2025-03-26": "56602",
+        "2025-03-27": "56899"
     },
     "topDestinationHosts": {
         "Pressable": 8803,
         "Bluehost": 3843,
         "Kinsta": 3710,
-        "Digital Ocean": 3343,
+        "Digital Ocean": 3344,
         "SiteGround": 3164,
         "Hostinger": 1935,
         "GoDaddy": 940,
@@ -900,6 +901,7 @@
         "2025-03-23": "648982",
         "2025-03-24": "648266",
         "2025-03-25": "647543",
-        "2025-03-26": "646405"
+        "2025-03-26": "646405",
+        "2025-03-27": "646355"
     }
 }
