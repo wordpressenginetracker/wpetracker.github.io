@@ -1,10 +1,15 @@
 {
-    "siteCount": 56916,
+    "siteCount": 56922,
     "recentlyMoved": [
         {
             "domain_name": "stamfordcradletocareer.org",
             "destination": "Hostinger",
             "date": "2025-03-28 01:36:12"
+        },
+        {
+            "domain_name": "www.sonicspray.co.nz",
+            "destination": "Pressable",
+            "date": "2025-03-28 01:23:05"
         },
         {
             "domain_name": "www.mccawley.com",
@@ -495,11 +500,6 @@
             "domain_name": "solarwatersolutions.fi",
             "destination": "Hetzner Online",
             "date": "2025-03-27 08:46:14"
-        },
-        {
-            "domain_name": "camarketinggroup.com.au",
-            "destination": "Hostinger",
-            "date": "2025-03-27 08:38:34"
         }
     ],
     "dailyMovedStat": {
@@ -693,12 +693,12 @@
         "2025-03-27": "56899"
     },
     "topDestinationHosts": {
-        "Pressable": 8803,
+        "Pressable": 8804,
         "Bluehost": 3843,
         "Kinsta": 3711,
         "Digital Ocean": 3345,
         "SiteGround": 3165,
-        "Hostinger": 1937,
+        "Hostinger": 1938,
         "GoDaddy": 940,
         "BigScoots": 463,
         "Liquid Web": 363,
