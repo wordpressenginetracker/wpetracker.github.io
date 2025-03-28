@@ -1,5 +1,5 @@
 {
-    "siteCount": 56998,
+    "siteCount": 56999,
     "recentlyMoved": [
         {
             "domain_name": "deeprootsdistributing.com",
@@ -30,6 +30,11 @@
             "domain_name": "marathondgtl.com",
             "destination": "Kinsta",
             "date": "2025-03-28 10:08:27"
+        },
+        {
+            "domain_name": "verticalagri.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-28 09:57:10"
         },
         {
             "domain_name": "www.yeuell.com",
@@ -495,11 +500,6 @@
             "domain_name": "insuribly.com",
             "destination": "Kinsta",
             "date": "2025-03-27 16:30:59"
-        },
-        {
-            "domain_name": "homeswithbrandi.com",
-            "destination": "SiteGround",
-            "date": "2025-03-27 16:28:40"
         }
     ],
     "dailyMovedStat": {
@@ -696,7 +696,7 @@
         "Pressable": 8806,
         "Bluehost": 3843,
         "Kinsta": 3731,
-        "Digital Ocean": 3350,
+        "Digital Ocean": 3351,
         "SiteGround": 3175,
         "Hostinger": 1940,
         "GoDaddy": 940,
