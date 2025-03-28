@@ -1,6 +1,11 @@
 {
-    "siteCount": 56922,
+    "siteCount": 56923,
     "recentlyMoved": [
+        {
+            "domain_name": "nexusarts.org.au",
+            "destination": "Kinsta",
+            "date": "2025-03-28 02:39:59"
+        },
         {
             "domain_name": "stamfordcradletocareer.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.thebearingcompany.co.uk",
             "destination": "SiteGround",
             "date": "2025-03-27 09:23:00"
-        },
-        {
-            "domain_name": "solarwatersolutions.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-03-27 08:46:14"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
     "topDestinationHosts": {
         "Pressable": 8804,
         "Bluehost": 3843,
-        "Kinsta": 3711,
+        "Kinsta": 3712,
         "Digital Ocean": 3345,
         "SiteGround": 3165,
         "Hostinger": 1938,
