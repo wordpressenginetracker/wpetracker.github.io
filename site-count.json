@@ -1,6 +1,16 @@
 {
-    "siteCount": 57242,
+    "siteCount": 57248,
     "recentlyMoved": [
+        {
+            "domain_name": "www.imhvac.net",
+            "destination": "SiteGround",
+            "date": "2025-03-29 04:44:12"
+        },
+        {
+            "domain_name": "www.drcarriebarlow.com",
+            "destination": "SiteGround",
+            "date": "2025-03-29 04:18:07"
+        },
         {
             "domain_name": "www.blackandblacksurgical.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "louisianawontbesilent.com",
             "destination": "SiteGround",
             "date": "2025-03-28 13:03:52"
-        },
-        {
-            "domain_name": "krisscapital.com",
-            "destination": "Kinsta",
-            "date": "2025-03-28 12:57:49"
-        },
-        {
-            "domain_name": "square-1.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-03-28 12:42:25"
         }
     ],
     "dailyMovedStat": {
@@ -698,7 +698,7 @@
         "Bluehost": 3846,
         "Kinsta": 3762,
         "Digital Ocean": 3367,
-        "SiteGround": 3196,
+        "SiteGround": 3198,
         "Hostinger": 1946,
         "GoDaddy": 940,
         "BigScoots": 465,
