@@ -1,6 +1,21 @@
 {
-    "siteCount": 57258,
+    "siteCount": 57274,
     "recentlyMoved": [
+        {
+            "domain_name": "bbs-collection.com",
+            "destination": "Pressable",
+            "date": "2025-03-29 08:44:41"
+        },
+        {
+            "domain_name": "americantruffle.com",
+            "destination": "Pressable",
+            "date": "2025-03-29 08:14:29"
+        },
+        {
+            "domain_name": "anastaciajones.com",
+            "destination": "Hostinger",
+            "date": "2025-03-29 07:38:38"
+        },
         {
             "domain_name": "emersonresort.com",
             "destination": "SiteGround",
@@ -462,11 +477,6 @@
             "date": "2025-03-28 14:10:07"
         },
         {
-            "domain_name": "marketprices.laa.co.uk",
-            "destination": "IONOS",
-            "date": "2025-03-28 14:04:52"
-        },
-        {
             "domain_name": "vcisystems.co.uk",
             "destination": "Krystal Hosting",
             "date": "2025-03-28 14:04:28"
@@ -490,16 +500,6 @@
             "domain_name": "www.brushcreekcamp.com",
             "destination": "Pressable",
             "date": "2025-03-28 13:40:25"
-        },
-        {
-            "domain_name": "www.superfloorstore.com",
-            "destination": "Pressable",
-            "date": "2025-03-28 13:13:02"
-        },
-        {
-            "domain_name": "cvmconstructioncorp.com",
-            "destination": "Kinsta",
-            "date": "2025-03-28 13:11:39"
         }
     ],
     "dailyMovedStat": {
@@ -694,12 +694,12 @@
         "2025-03-28": "57194"
     },
     "topDestinationHosts": {
-        "Pressable": 8841,
+        "Pressable": 8842,
         "Bluehost": 3846,
         "Kinsta": 3762,
         "Digital Ocean": 3367,
         "SiteGround": 3200,
-        "Hostinger": 1946,
+        "Hostinger": 1947,
         "GoDaddy": 940,
         "BigScoots": 465,
         "Liquid Web": 364,
