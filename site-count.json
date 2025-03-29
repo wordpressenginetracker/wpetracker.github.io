@@ -1,10 +1,15 @@
 {
-    "siteCount": 57371,
+    "siteCount": 57372,
     "recentlyMoved": [
         {
             "domain_name": "unitedos.com",
             "destination": "InMotion Hosting",
             "date": "2025-03-29 14:25:47"
+        },
+        {
+            "domain_name": "fapesbooks.com.br",
+            "destination": "Hostinger",
+            "date": "2025-03-29 14:18:43"
         },
         {
             "domain_name": "epmlivingpress.net",
@@ -495,11 +500,6 @@
             "domain_name": "www.kawasumiamerica.com",
             "destination": "BigScoots",
             "date": "2025-03-28 20:47:08"
-        },
-        {
-            "domain_name": "www.jeffreydcartermd.com",
-            "destination": "Kinsta",
-            "date": "2025-03-28 20:24:15"
         }
     ],
     "dailyMovedStat": {
@@ -694,12 +694,12 @@
         "2025-03-28": "57194"
     },
     "topDestinationHosts": {
-        "Pressable": 8863,
+        "Pressable": 8864,
         "Bluehost": 3847,
         "Kinsta": 3772,
         "Digital Ocean": 3370,
         "SiteGround": 3203,
-        "Hostinger": 1951,
+        "Hostinger": 1952,
         "GoDaddy": 942,
         "BigScoots": 465,
         "Liquid Web": 364,
