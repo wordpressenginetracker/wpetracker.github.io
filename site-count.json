@@ -1,6 +1,16 @@
 {
-    "siteCount": 57201,
+    "siteCount": 57206,
     "recentlyMoved": [
+        {
+            "domain_name": "www.markbeckpaintings.com",
+            "destination": "Pressable",
+            "date": "2025-03-29 01:23:47"
+        },
+        {
+            "domain_name": "slaters5050.com",
+            "destination": "Pressable",
+            "date": "2025-03-29 01:01:51"
+        },
         {
             "domain_name": "heattraceeng.com.au",
             "destination": "SiteGround",
@@ -467,19 +477,9 @@
             "date": "2025-03-28 09:38:01"
         },
         {
-            "domain_name": "capulincreative.com",
-            "destination": "SiteGround",
-            "date": "2025-03-28 09:29:06"
-        },
-        {
             "domain_name": "customcreations417.com",
             "destination": "SiteGround",
             "date": "2025-03-28 09:28:12"
-        },
-        {
-            "domain_name": "byersuro.com",
-            "destination": "Kinsta",
-            "date": "2025-03-28 09:22:32"
         },
         {
             "domain_name": "thehultquistfirm.com",
@@ -694,11 +694,11 @@
         "2025-03-28": "57194"
     },
     "topDestinationHosts": {
-        "Pressable": 8822,
+        "Pressable": 8824,
         "Bluehost": 3846,
         "Kinsta": 3761,
         "Digital Ocean": 3364,
-        "SiteGround": 3187,
+        "SiteGround": 3188,
         "Hostinger": 1945,
         "GoDaddy": 940,
         "BigScoots": 465,
