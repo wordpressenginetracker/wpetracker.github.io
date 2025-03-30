@@ -1,6 +1,11 @@
 {
-    "siteCount": 57525,
+    "siteCount": 57526,
     "recentlyMoved": [
+        {
+            "domain_name": "nola.seaverfranks.com",
+            "destination": "Digital Ocean",
+            "date": "2025-03-30 02:26:10"
+        },
         {
             "domain_name": "crossfitchamblee.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.hitchmylius.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-03-29 12:13:44"
-        },
-        {
-            "domain_name": "h2oplumbers.com",
-            "destination": "Hostinger",
-            "date": "2025-03-29 11:56:41"
         }
     ],
     "dailyMovedStat": {
@@ -698,7 +698,7 @@
         "Pressable": 8896,
         "Bluehost": 3848,
         "Kinsta": 3787,
-        "Digital Ocean": 3372,
+        "Digital Ocean": 3373,
         "SiteGround": 3215,
         "Hostinger": 1957,
         "GoDaddy": 945,
