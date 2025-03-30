@@ -1,6 +1,26 @@
 {
-    "siteCount": 57504,
+    "siteCount": 57513,
     "recentlyMoved": [
+        {
+            "domain_name": "gardencitymedia.com",
+            "destination": "Pressable",
+            "date": "2025-03-30 00:19:51"
+        },
+        {
+            "domain_name": "proaudiovoices.com",
+            "destination": "Pressable",
+            "date": "2025-03-30 00:02:27"
+        },
+        {
+            "domain_name": "pwdcnc.org",
+            "destination": "Pressable",
+            "date": "2025-03-29 23:57:03"
+        },
+        {
+            "domain_name": "photobotanic.com",
+            "destination": "Pressable",
+            "date": "2025-03-29 23:35:01"
+        },
         {
             "domain_name": "dreamofitaly.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "emerginc.com",
             "destination": "Kinsta",
             "date": "2025-03-29 10:23:30"
-        },
-        {
-            "domain_name": "www.anastaciajones.com",
-            "destination": "Hostinger",
-            "date": "2025-03-29 09:39:55"
-        },
-        {
-            "domain_name": "csatlanta.com",
-            "destination": "Hostinger",
-            "date": "2025-03-29 09:20:24"
-        },
-        {
-            "domain_name": "dharmaspirit.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 09:19:04"
-        },
-        {
-            "domain_name": "dgiinvestors.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 09:19:04"
         }
     ],
     "dailyMovedStat": {
@@ -695,7 +695,7 @@
         "2025-03-29": "57504"
     },
     "topDestinationHosts": {
-        "Pressable": 8887,
+        "Pressable": 8891,
         "Bluehost": 3848,
         "Kinsta": 3787,
         "Digital Ocean": 3372,
