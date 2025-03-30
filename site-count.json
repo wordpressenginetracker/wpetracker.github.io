@@ -1,6 +1,16 @@
 {
-    "siteCount": 57563,
+    "siteCount": 57566,
     "recentlyMoved": [
+        {
+            "domain_name": "dradanielapinho.com",
+            "destination": "SiteGround",
+            "date": "2025-03-30 10:10:32"
+        },
+        {
+            "domain_name": "upclear.com",
+            "destination": "Kinsta",
+            "date": "2025-03-30 10:00:55"
+        },
         {
             "domain_name": "somarts.org",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "neighborlymusic.net",
             "destination": "Pressable",
             "date": "2025-03-29 13:51:48"
-        },
-        {
-            "domain_name": "drhollygordon.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 13:27:25"
-        },
-        {
-            "domain_name": "dreamoftravel.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 13:27:25"
         }
     ],
     "dailyMovedStat": {
@@ -695,11 +695,11 @@
         "2025-03-29": "57504"
     },
     "topDestinationHosts": {
-        "Pressable": 8912,
+        "Pressable": 8913,
         "Bluehost": 3849,
-        "Kinsta": 3787,
+        "Kinsta": 3788,
         "Digital Ocean": 3373,
-        "SiteGround": 3217,
+        "SiteGround": 3218,
         "Hostinger": 1957,
         "GoDaddy": 945,
         "BigScoots": 465,
