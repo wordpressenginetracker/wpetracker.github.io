@@ -1,10 +1,45 @@
 {
-    "siteCount": 57700,
+    "siteCount": 57711,
     "recentlyMoved": [
+        {
+            "domain_name": "thistlewaithe.org",
+            "destination": "Kinsta",
+            "date": "2025-03-31 14:23:06"
+        },
+        {
+            "domain_name": "luisandclark.com",
+            "destination": "Pressable",
+            "date": "2025-03-31 13:56:30"
+        },
+        {
+            "domain_name": "therainbowrabbit.com",
+            "destination": "Kinsta",
+            "date": "2025-03-31 13:43:53"
+        },
+        {
+            "domain_name": "stonybrookcapital.com",
+            "destination": "Kinsta",
+            "date": "2025-03-31 13:40:24"
+        },
+        {
+            "domain_name": "stockbridgechamber.org",
+            "destination": "Pressable",
+            "date": "2025-03-31 13:40:24"
+        },
         {
             "domain_name": "kidsnewsnyc.com",
             "destination": "Kinsta",
             "date": "2025-03-31 13:29:53"
+        },
+        {
+            "domain_name": "surenarugs.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-31 13:24:57"
+        },
+        {
+            "domain_name": "lexcuity.com",
+            "destination": "Kinsta",
+            "date": "2025-03-31 13:23:46"
         },
         {
             "domain_name": "jayrhindbuilders.com",
@@ -465,41 +500,6 @@
             "domain_name": "acgarizona.com",
             "destination": "GoDaddy",
             "date": "2025-03-29 19:14:11"
-        },
-        {
-            "domain_name": "njsolarpower.com",
-            "destination": "SiteGround",
-            "date": "2025-03-29 18:57:23"
-        },
-        {
-            "domain_name": "vavascularinstitute.com",
-            "destination": "SiteGround",
-            "date": "2025-03-29 18:45:19"
-        },
-        {
-            "domain_name": "epoxypower.com",
-            "destination": "SiteGround",
-            "date": "2025-03-29 18:42:59"
-        },
-        {
-            "domain_name": "elevatedaestheticsnc.com",
-            "destination": "Kinsta",
-            "date": "2025-03-29 18:24:53"
-        },
-        {
-            "domain_name": "therivermerch.com",
-            "destination": "Kinsta",
-            "date": "2025-03-29 17:59:28"
-        },
-        {
-            "domain_name": "marklewiswagner.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 17:53:57"
-        },
-        {
-            "domain_name": "dowdaconsultants.com",
-            "destination": "SiteGround",
-            "date": "2025-03-29 17:45:13"
         }
     ],
     "dailyMovedStat": {
@@ -696,13 +696,13 @@
         "2025-03-30": "57643"
     },
     "topDestinationHosts": {
-        "Pressable": 8921,
+        "Pressable": 8923,
         "Bluehost": 3853,
-        "Kinsta": 3801,
+        "Kinsta": 3805,
         "Digital Ocean": 3377,
         "SiteGround": 3225,
         "Hostinger": 1961,
-        "GoDaddy": 947,
+        "GoDaddy": 948,
         "BigScoots": 468,
         "Liquid Web": 367,
         "Elementor Hosting": 272,
