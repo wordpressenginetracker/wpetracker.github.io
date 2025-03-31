@@ -1,10 +1,25 @@
 {
-    "siteCount": 57728,
+    "siteCount": 57734,
     "recentlyMoved": [
+        {
+            "domain_name": "musicmakerscolorado.com",
+            "destination": "SiteGround",
+            "date": "2025-03-31 18:01:25"
+        },
+        {
+            "domain_name": "www.runarhalonen.no",
+            "destination": "SiteGround",
+            "date": "2025-03-31 17:38:12"
+        },
         {
             "domain_name": "calrailnews.org",
             "destination": "Pressable",
             "date": "2025-03-31 17:26:15"
+        },
+        {
+            "domain_name": "marinfineproperty.com",
+            "destination": "Pressable",
+            "date": "2025-03-31 17:21:44"
         },
         {
             "domain_name": "shoringrental.com",
@@ -485,21 +500,6 @@
             "domain_name": "daraja.org",
             "destination": "Pressable",
             "date": "2025-03-29 21:23:23"
-        },
-        {
-            "domain_name": "www.happybodyatx.com",
-            "destination": "Kinsta",
-            "date": "2025-03-29 21:09:24"
-        },
-        {
-            "domain_name": "sonomabackyardpools.com",
-            "destination": "SiteGround",
-            "date": "2025-03-29 20:55:06"
-        },
-        {
-            "domain_name": "rimandtirepro.ca",
-            "destination": "Hostinger",
-            "date": "2025-03-29 20:20:54"
         }
     ],
     "dailyMovedStat": {
@@ -696,11 +696,11 @@
         "2025-03-30": "57643"
     },
     "topDestinationHosts": {
-        "Pressable": 8928,
+        "Pressable": 8929,
         "Bluehost": 3853,
         "Kinsta": 3806,
         "Digital Ocean": 3378,
-        "SiteGround": 3226,
+        "SiteGround": 3227,
         "Hostinger": 1962,
         "GoDaddy": 948,
         "BigScoots": 468,
