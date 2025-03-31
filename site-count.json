@@ -1,6 +1,16 @@
 {
-    "siteCount": 57658,
+    "siteCount": 57663,
     "recentlyMoved": [
+        {
+            "domain_name": "metropolitanspa.com",
+            "destination": "SiteGround",
+            "date": "2025-03-31 01:31:02"
+        },
+        {
+            "domain_name": "thelemn.com",
+            "destination": "Hostinger",
+            "date": "2025-03-31 01:28:18"
+        },
         {
             "domain_name": "spectrumvic.org.au",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "jrconstruction.pro",
             "destination": "Pressable",
             "date": "2025-03-29 16:42:19"
-        },
-        {
-            "domain_name": "calabasascenter.com",
-            "destination": "Hostinger",
-            "date": "2025-03-29 16:39:01"
-        },
-        {
-            "domain_name": "janicepostwhite.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 16:21:40"
         }
     ],
     "dailyMovedStat": {
@@ -700,8 +700,8 @@
         "Bluehost": 3852,
         "Kinsta": 3797,
         "Digital Ocean": 3377,
-        "SiteGround": 3221,
-        "Hostinger": 1960,
+        "SiteGround": 3222,
+        "Hostinger": 1961,
         "GoDaddy": 945,
         "BigScoots": 467,
         "Liquid Web": 367,
