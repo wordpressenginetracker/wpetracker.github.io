@@ -1,6 +1,31 @@
 {
-    "siteCount": 57692,
+    "siteCount": 57700,
     "recentlyMoved": [
+        {
+            "domain_name": "kidsnewsnyc.com",
+            "destination": "Kinsta",
+            "date": "2025-03-31 13:29:53"
+        },
+        {
+            "domain_name": "jayrhindbuilders.com",
+            "destination": "Pressable",
+            "date": "2025-03-31 13:09:36"
+        },
+        {
+            "domain_name": "kirkhamraikes.com",
+            "destination": "Kinsta",
+            "date": "2025-03-31 13:08:46"
+        },
+        {
+            "domain_name": "classilab.ca",
+            "destination": "Bluehost",
+            "date": "2025-03-31 12:57:14"
+        },
+        {
+            "domain_name": "johnalcock.com",
+            "destination": "GoDaddy",
+            "date": "2025-03-31 12:56:47"
+        },
         {
             "domain_name": "rblpartners.com",
             "destination": "Kinsta",
@@ -462,11 +487,6 @@
             "date": "2025-03-29 18:24:53"
         },
         {
-            "domain_name": "marinlink.org",
-            "destination": "Pressable",
-            "date": "2025-03-29 18:04:09"
-        },
-        {
             "domain_name": "therivermerch.com",
             "destination": "Kinsta",
             "date": "2025-03-29 17:59:28"
@@ -477,29 +497,9 @@
             "date": "2025-03-29 17:53:57"
         },
         {
-            "domain_name": "supremestaffing.agency",
-            "destination": "Kinsta",
-            "date": "2025-03-29 17:48:34"
-        },
-        {
             "domain_name": "dowdaconsultants.com",
             "destination": "SiteGround",
             "date": "2025-03-29 17:45:13"
-        },
-        {
-            "domain_name": "lonepeak.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 17:22:23"
-        },
-        {
-            "domain_name": "macaccountinggroup.com",
-            "destination": "Pressable",
-            "date": "2025-03-29 17:15:27"
-        },
-        {
-            "domain_name": "csaad.nyu.edu",
-            "destination": "Kinsta",
-            "date": "2025-03-29 17:14:08"
         }
     ],
     "dailyMovedStat": {
@@ -696,14 +696,14 @@
         "2025-03-30": "57643"
     },
     "topDestinationHosts": {
-        "Pressable": 8920,
-        "Bluehost": 3852,
-        "Kinsta": 3798,
+        "Pressable": 8921,
+        "Bluehost": 3853,
+        "Kinsta": 3801,
         "Digital Ocean": 3377,
         "SiteGround": 3225,
         "Hostinger": 1961,
-        "GoDaddy": 946,
-        "BigScoots": 467,
+        "GoDaddy": 947,
+        "BigScoots": 468,
         "Liquid Web": 367,
         "Elementor Hosting": 272,
         "WordPress.com": 259,
