@@ -1,6 +1,16 @@
 {
-    "siteCount": 57672,
+    "siteCount": 57679,
     "recentlyMoved": [
+        {
+            "domain_name": "mountainderm.com",
+            "destination": "SiteGround",
+            "date": "2025-03-31 06:35:47"
+        },
+        {
+            "domain_name": "marblesuitesapartments.com",
+            "destination": "SiteGround",
+            "date": "2025-03-31 05:59:23"
+        },
         {
             "domain_name": "metropolitanspa.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "southerneventplanners.com",
             "destination": "Kinsta",
             "date": "2025-03-29 16:56:41"
-        },
-        {
-            "domain_name": "signatureoutdoorliving.com",
-            "destination": "Kinsta",
-            "date": "2025-03-29 16:43:54"
-        },
-        {
-            "domain_name": "jrconstruction.pro",
-            "destination": "Pressable",
-            "date": "2025-03-29 16:42:19"
         }
     ],
     "dailyMovedStat": {
@@ -700,7 +700,7 @@
         "Bluehost": 3852,
         "Kinsta": 3797,
         "Digital Ocean": 3377,
-        "SiteGround": 3222,
+        "SiteGround": 3224,
         "Hostinger": 1961,
         "GoDaddy": 945,
         "BigScoots": 467,
