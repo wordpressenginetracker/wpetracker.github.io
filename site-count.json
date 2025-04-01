@@ -1,6 +1,11 @@
 {
-    "siteCount": 58010,
+    "siteCount": 58011,
     "recentlyMoved": [
+        {
+            "domain_name": "virtuosonline.com",
+            "destination": "Hostinger",
+            "date": "2025-04-01 18:20:55"
+        },
         {
             "domain_name": "montoya.design",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.biblememorygoal.com",
             "destination": "Kinsta",
             "date": "2025-04-01 03:44:07"
-        },
-        {
-            "domain_name": "www.allthingssecured.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 03:43:48"
         }
     ],
     "dailyMovedStat": {
@@ -702,7 +702,7 @@
         "Kinsta": 3838,
         "Digital Ocean": 3395,
         "SiteGround": 3237,
-        "Hostinger": 1976,
+        "Hostinger": 1977,
         "GoDaddy": 950,
         "BigScoots": 469,
         "Liquid Web": 368,
