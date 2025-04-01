@@ -1,6 +1,21 @@
 {
-    "siteCount": 58086,
+    "siteCount": 58095,
     "recentlyMoved": [
+        {
+            "domain_name": "ddumpsters.com",
+            "destination": "SiteGround",
+            "date": "2025-04-01 21:43:01"
+        },
+        {
+            "domain_name": "www.southeastcollege.org",
+            "destination": "OVH",
+            "date": "2025-04-01 21:37:11"
+        },
+        {
+            "domain_name": "www.stop-af.com",
+            "destination": "Kinsta",
+            "date": "2025-04-01 21:19:35"
+        },
         {
             "domain_name": "kbcconsult.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "deccanpolymers.com",
             "destination": "Digital Ocean",
             "date": "2025-04-01 05:32:11"
-        },
-        {
-            "domain_name": "castellodivarzi.com",
-            "destination": "Hostinger",
-            "date": "2025-04-01 05:14:46"
-        },
-        {
-            "domain_name": "sivabalanelectricalandhardwares.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-01 05:04:13"
-        },
-        {
-            "domain_name": "www.joshsummers.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 04:38:53"
         }
     ],
     "dailyMovedStat": {
@@ -699,9 +699,9 @@
     "topDestinationHosts": {
         "Pressable": 8951,
         "Bluehost": 3856,
-        "Kinsta": 3841,
+        "Kinsta": 3842,
         "Digital Ocean": 3395,
-        "SiteGround": 3239,
+        "SiteGround": 3240,
         "Hostinger": 1978,
         "GoDaddy": 952,
         "BigScoots": 469,
@@ -710,7 +710,7 @@
         "WordPress.com": 261,
         "GridPane": 256,
         "InMotion Hosting": 254,
-        "OVH": 220,
+        "OVH": 221,
         "IONOS": 206,
         "Namecheap": 197,
         "A2 Hosting": 193,
