@@ -1,6 +1,26 @@
 {
-    "siteCount": 58011,
+    "siteCount": 58073,
     "recentlyMoved": [
+        {
+            "domain_name": "ambritengineering.com",
+            "destination": "Pressable",
+            "date": "2025-04-01 20:20:45"
+        },
+        {
+            "domain_name": "whippleplumbing.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-01 20:11:42"
+        },
+        {
+            "domain_name": "fearlessdigitaljourney.com",
+            "destination": "Pressable",
+            "date": "2025-04-01 19:58:47"
+        },
+        {
+            "domain_name": "allhoursplumbingslc.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-01 19:36:29"
+        },
         {
             "domain_name": "virtuosonline.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-04-01 05:01:59"
         },
         {
-            "domain_name": "www.farwestchina.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 04:54:56"
-        },
-        {
             "domain_name": "www.joshsummers.com",
             "destination": "Kinsta",
             "date": "2025-04-01 04:38:53"
-        },
-        {
-            "domain_name": "www.chinabloggers.info",
-            "destination": "Kinsta",
-            "date": "2025-04-01 04:13:02"
-        },
-        {
-            "domain_name": "www.china-mike.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 04:13:02"
-        },
-        {
-            "domain_name": "www.biblememorygoal.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 03:44:07"
         }
     ],
     "dailyMovedStat": {
@@ -697,24 +697,24 @@
         "2025-03-31": "57781"
     },
     "topDestinationHosts": {
-        "Pressable": 8949,
+        "Pressable": 8951,
         "Bluehost": 3856,
-        "Kinsta": 3838,
+        "Kinsta": 3839,
         "Digital Ocean": 3395,
-        "SiteGround": 3237,
-        "Hostinger": 1977,
-        "GoDaddy": 950,
+        "SiteGround": 3239,
+        "Hostinger": 1978,
+        "GoDaddy": 952,
         "BigScoots": 469,
-        "Liquid Web": 368,
+        "Liquid Web": 369,
         "Elementor Hosting": 272,
         "WordPress.com": 261,
         "GridPane": 256,
         "InMotion Hosting": 254,
         "OVH": 219,
-        "IONOS": 205,
+        "IONOS": 206,
         "Namecheap": 197,
-        "A2 Hosting": 192,
-        "DreamHost": 191,
+        "A2 Hosting": 193,
+        "DreamHost": 192,
         "Wordify": 175,
         "Hetzner Online": 164
     },
