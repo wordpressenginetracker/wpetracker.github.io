@@ -1,6 +1,16 @@
 {
-    "siteCount": 57791,
+    "siteCount": 57795,
     "recentlyMoved": [
+        {
+            "domain_name": "www.virtualaddressfinder.com",
+            "destination": "Kinsta",
+            "date": "2025-04-01 02:05:28"
+        },
+        {
+            "domain_name": "threechairsfinancial.com.au",
+            "destination": "Kinsta",
+            "date": "2025-04-01 01:59:53"
+        },
         {
             "domain_name": "ciomit.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "brannengourmet.com",
             "destination": "Pressable",
             "date": "2025-03-30 00:16:00"
-        },
-        {
-            "domain_name": "resurrectionhs.com",
-            "destination": "Pressable",
-            "date": "2025-03-30 00:11:13"
-        },
-        {
-            "domain_name": "pwdcnc.org",
-            "destination": "Pressable",
-            "date": "2025-03-29 23:57:03"
         }
     ],
     "dailyMovedStat": {
@@ -699,7 +699,7 @@
     "topDestinationHosts": {
         "Pressable": 8933,
         "Bluehost": 3854,
-        "Kinsta": 3806,
+        "Kinsta": 3808,
         "Digital Ocean": 3378,
         "SiteGround": 3231,
         "Hostinger": 1964,
