@@ -1,6 +1,11 @@
 {
-    "siteCount": 57939,
+    "siteCount": 57940,
     "recentlyMoved": [
+        {
+            "domain_name": "victor-sierra.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-04-01 14:14:25"
+        },
         {
             "domain_name": "martinkidsdental.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "rblpartners.com",
             "destination": "Kinsta",
             "date": "2025-03-31 12:32:46"
-        },
-        {
-            "domain_name": "hiawathahomecare.com",
-            "destination": "BigScoots",
-            "date": "2025-03-31 12:00:47"
         }
     ],
     "dailyMovedStat": {
@@ -709,7 +709,7 @@
         "Elementor Hosting": 272,
         "WordPress.com": 261,
         "GridPane": 256,
-        "InMotion Hosting": 253,
+        "InMotion Hosting": 254,
         "OVH": 217,
         "IONOS": 205,
         "Namecheap": 197,
