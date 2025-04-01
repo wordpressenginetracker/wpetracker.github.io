@@ -1,6 +1,41 @@
 {
-    "siteCount": 57861,
+    "siteCount": 57879,
     "recentlyMoved": [
+        {
+            "domain_name": "twospoonsstudio.com",
+            "destination": "BigScoots",
+            "date": "2025-04-01 10:19:04"
+        },
+        {
+            "domain_name": "ecosupplements.at",
+            "destination": "Kinsta",
+            "date": "2025-04-01 10:17:23"
+        },
+        {
+            "domain_name": "drtechindia.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-01 10:04:40"
+        },
+        {
+            "domain_name": "doylehire.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-04-01 09:53:42"
+        },
+        {
+            "domain_name": "legacybd.com",
+            "destination": "Kinsta",
+            "date": "2025-04-01 09:43:25"
+        },
+        {
+            "domain_name": "eaglearbor.com",
+            "destination": "Kinsta",
+            "date": "2025-04-01 09:40:48"
+        },
+        {
+            "domain_name": "dojocoworking.es",
+            "destination": "WordPress.com",
+            "date": "2025-04-01 09:35:23"
+        },
         {
             "domain_name": "kalaidentalclinic.com",
             "destination": "Digital Ocean",
@@ -462,44 +497,9 @@
             "date": "2025-03-30 13:35:17"
         },
         {
-            "domain_name": "blackchrome.cc",
-            "destination": "Digital Ocean",
-            "date": "2025-03-30 13:01:18"
-        },
-        {
-            "domain_name": "samoonmd.com",
-            "destination": "Kinsta",
-            "date": "2025-03-30 12:50:21"
-        },
-        {
             "domain_name": "sienadev.com",
             "destination": "Kinsta",
             "date": "2025-03-30 12:35:20"
-        },
-        {
-            "domain_name": "rinnai.bo",
-            "destination": "Hostinger",
-            "date": "2025-03-30 12:32:55"
-        },
-        {
-            "domain_name": "allinonedirectms.com",
-            "destination": "Pressable",
-            "date": "2025-03-30 12:10:55"
-        },
-        {
-            "domain_name": "ageofaquariuschico.com",
-            "destination": "Pressable",
-            "date": "2025-03-30 11:57:03"
-        },
-        {
-            "domain_name": "prepperpress.com",
-            "destination": "Pressable",
-            "date": "2025-03-30 11:42:12"
-        },
-        {
-            "domain_name": "gatewayhousing.nyc",
-            "destination": "Kinsta",
-            "date": "2025-03-30 11:29:28"
         }
     ],
     "dailyMovedStat": {
@@ -699,15 +699,15 @@
     "topDestinationHosts": {
         "Pressable": 8934,
         "Bluehost": 3854,
-        "Kinsta": 3824,
-        "Digital Ocean": 3384,
+        "Kinsta": 3827,
+        "Digital Ocean": 3386,
         "SiteGround": 3232,
         "Hostinger": 1965,
         "GoDaddy": 949,
-        "BigScoots": 468,
+        "BigScoots": 469,
         "Liquid Web": 367,
         "Elementor Hosting": 272,
-        "WordPress.com": 259,
+        "WordPress.com": 260,
         "GridPane": 256,
         "InMotion Hosting": 253,
         "OVH": 217,
