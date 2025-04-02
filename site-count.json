@@ -1,5 +1,5 @@
 {
-    "siteCount": 58444,
+    "siteCount": 58448,
     "recentlyMoved": [
         {
             "domain_name": "mmsprayersusa.com",
@@ -10,6 +10,16 @@
             "domain_name": "ecosupplements.com",
             "destination": "Kinsta",
             "date": "2025-04-02 22:36:08"
+        },
+        {
+            "domain_name": "escalantecyclery.com",
+            "destination": "Pressable",
+            "date": "2025-04-02 22:32:40"
+        },
+        {
+            "domain_name": "nanoacademic.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 22:17:44"
         },
         {
             "domain_name": "themedicaredetectives.com",
@@ -490,16 +500,6 @@
             "domain_name": "fairmontresidencesla.com",
             "destination": "InMotion Hosting",
             "date": "2025-04-02 06:24:07"
-        },
-        {
-            "domain_name": "myguideinseville.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-02 06:08:51"
-        },
-        {
-            "domain_name": "esquirescoffee.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-04-02 05:53:32"
         }
     ],
     "dailyMovedStat": {
@@ -695,11 +695,12 @@
         "2025-03-29": "57504",
         "2025-03-30": "57643",
         "2025-03-31": "57781",
-        "2025-04-01": "58095"
+        "2025-04-01": "58095",
+        "2025-04-02": "58448"
     },
     "topDestinationHosts": {
-        "Pressable": 8957,
-        "Kinsta": 3867,
+        "Pressable": 8958,
+        "Kinsta": 3868,
         "Bluehost": 3861,
         "Digital Ocean": 3416,
         "SiteGround": 3259,
@@ -912,6 +913,7 @@
         "2025-03-29": "645467",
         "2025-03-30": "645953",
         "2025-03-31": "645012",
-        "2025-04-01": "644244"
+        "2025-04-01": "644244",
+        "2025-04-02": "643678"
     }
 }
