@@ -1,6 +1,41 @@
 {
-    "siteCount": 58332,
+    "siteCount": 58425,
     "recentlyMoved": [
+        {
+            "domain_name": "printechny.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 20:21:41"
+        },
+        {
+            "domain_name": "walshgroup.co",
+            "destination": "Bluehost",
+            "date": "2025-04-02 20:04:13"
+        },
+        {
+            "domain_name": "greyfrancis.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 20:00:27"
+        },
+        {
+            "domain_name": "www.becnelrt.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-02 19:41:21"
+        },
+        {
+            "domain_name": "overheaddoorsales.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-04-02 19:34:20"
+        },
+        {
+            "domain_name": "save-mother-earth.org",
+            "destination": "Hostinger",
+            "date": "2025-04-02 19:27:30"
+        },
+        {
+            "domain_name": "aapi.aero",
+            "destination": "Digital Ocean",
+            "date": "2025-04-02 19:18:27"
+        },
         {
             "domain_name": "enduranceacquisition.com",
             "destination": "Kinsta",
@@ -452,11 +487,6 @@
             "date": "2025-04-02 05:13:02"
         },
         {
-            "domain_name": "gsmjh.org",
-            "destination": "Bluehost",
-            "date": "2025-04-02 04:29:45"
-        },
-        {
             "domain_name": "brickhousehealthandfitness.com",
             "destination": "Digital Ocean",
             "date": "2025-04-02 04:23:15"
@@ -470,36 +500,6 @@
             "domain_name": "www.epykdentalarts.com",
             "destination": "SiteGround",
             "date": "2025-04-02 04:04:00"
-        },
-        {
-            "domain_name": "elevatedmotoring.com",
-            "destination": "Bluehost",
-            "date": "2025-04-02 01:53:52"
-        },
-        {
-            "domain_name": "ldny.org",
-            "destination": "Digital Ocean",
-            "date": "2025-04-02 01:37:52"
-        },
-        {
-            "domain_name": "sepulvedalawgroup.com",
-            "destination": "SiteGround",
-            "date": "2025-04-02 00:33:01"
-        },
-        {
-            "domain_name": "greenhillcontracting.net",
-            "destination": "WordPress.com",
-            "date": "2025-04-01 23:44:33"
-        },
-        {
-            "domain_name": "ddumpsters.com",
-            "destination": "SiteGround",
-            "date": "2025-04-01 21:43:01"
-        },
-        {
-            "domain_name": "www.stop-af.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 21:19:35"
         }
     ],
     "dailyMovedStat": {
@@ -699,25 +699,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 8957,
-        "Kinsta": 3863,
-        "Bluehost": 3859,
-        "Digital Ocean": 3411,
-        "SiteGround": 3254,
-        "Hostinger": 1996,
+        "Kinsta": 3865,
+        "Bluehost": 3860,
+        "Digital Ocean": 3416,
+        "SiteGround": 3256,
+        "Hostinger": 1997,
         "GoDaddy": 956,
         "BigScoots": 470,
         "Liquid Web": 373,
         "Elementor Hosting": 272,
-        "WordPress.com": 266,
+        "WordPress.com": 267,
         "GridPane": 257,
         "InMotion Hosting": 256,
         "OVH": 221,
         "IONOS": 207,
         "Namecheap": 198,
-        "DreamHost": 193,
+        "DreamHost": 194,
         "A2 Hosting": 193,
         "Wordify": 175,
-        "Hetzner Online": 164
+        "Hetzner Online": 166
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
