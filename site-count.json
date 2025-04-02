@@ -1,6 +1,11 @@
 {
-    "siteCount": 58104,
+    "siteCount": 58113,
     "recentlyMoved": [
+        {
+            "domain_name": "sepulvedalawgroup.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 00:33:01"
+        },
         {
             "domain_name": "greenhillcontracting.net",
             "destination": "WordPress.com",
@@ -472,11 +477,6 @@
             "date": "2025-04-01 05:55:19"
         },
         {
-            "domain_name": "www.retreatinabag.net",
-            "destination": "Kinsta",
-            "date": "2025-04-01 05:51:01"
-        },
-        {
             "domain_name": "theinspirept.com",
             "destination": "InMotion Hosting",
             "date": "2025-04-01 05:45:58"
@@ -702,7 +702,7 @@
         "Bluehost": 3856,
         "Kinsta": 3842,
         "Digital Ocean": 3395,
-        "SiteGround": 3240,
+        "SiteGround": 3241,
         "Hostinger": 1978,
         "GoDaddy": 952,
         "BigScoots": 469,
