@@ -1,10 +1,35 @@
 {
-    "siteCount": 58124,
+    "siteCount": 58133,
     "recentlyMoved": [
+        {
+            "domain_name": "chriscookperformance.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 05:28:34"
+        },
+        {
+            "domain_name": "www.interlockinstall.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 05:13:02"
+        },
         {
             "domain_name": "gsmjh.org",
             "destination": "Bluehost",
             "date": "2025-04-02 04:29:45"
+        },
+        {
+            "domain_name": "brickhousehealthandfitness.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-02 04:23:15"
+        },
+        {
+            "domain_name": "www.danielhopwood.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-02 04:16:59"
+        },
+        {
+            "domain_name": "www.epykdentalarts.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 04:04:00"
         },
         {
             "domain_name": "elevatedmotoring.com",
@@ -475,31 +500,6 @@
             "domain_name": "parkour.uk",
             "destination": "Krystal Hosting",
             "date": "2025-04-01 07:20:36"
-        },
-        {
-            "domain_name": "mumubl.com",
-            "destination": "Krystal Hosting",
-            "date": "2025-04-01 06:09:27"
-        },
-        {
-            "domain_name": "theinspirept.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-04-01 05:45:58"
-        },
-        {
-            "domain_name": "drmahalakshmiprasad.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-01 05:40:08"
-        },
-        {
-            "domain_name": "www.xjtravelguide.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 05:40:05"
-        },
-        {
-            "domain_name": "millerwoodtradepub.com",
-            "destination": "Kinsta",
-            "date": "2025-04-01 05:36:36"
         }
     ],
     "dailyMovedStat": {
@@ -701,8 +701,8 @@
         "Pressable": 8951,
         "Bluehost": 3858,
         "Kinsta": 3842,
-        "Digital Ocean": 3396,
-        "SiteGround": 3241,
+        "Digital Ocean": 3398,
+        "SiteGround": 3244,
         "Hostinger": 1978,
         "GoDaddy": 952,
         "BigScoots": 469,
