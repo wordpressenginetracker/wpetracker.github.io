@@ -1,10 +1,65 @@
 {
-    "siteCount": 58160,
+    "siteCount": 58180,
     "recentlyMoved": [
+        {
+            "domain_name": "capitalcraftsmen.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 09:20:24"
+        },
+        {
+            "domain_name": "cainfood.com",
+            "destination": "Hostinger",
+            "date": "2025-04-02 09:04:02"
+        },
+        {
+            "domain_name": "jennifergeigermd.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 09:01:43"
+        },
+        {
+            "domain_name": "chiromission.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 08:53:56"
+        },
+        {
+            "domain_name": "jsimonarchitect.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 08:45:56"
+        },
+        {
+            "domain_name": "blackmountainoilandgas.com",
+            "destination": "Hostinger",
+            "date": "2025-04-02 08:36:07"
+        },
+        {
+            "domain_name": "selectcentralcoast.org",
+            "destination": "Hostinger",
+            "date": "2025-04-02 08:35:18"
+        },
+        {
+            "domain_name": "www.larrymjacobson.com",
+            "destination": "Kinsta",
+            "date": "2025-04-02 08:26:22"
+        },
         {
             "domain_name": "pymahal.com",
             "destination": "Digital Ocean",
             "date": "2025-04-02 08:22:12"
+        },
+        {
+            "domain_name": "saltnsauna.com",
+            "destination": "Liquid Web",
+            "date": "2025-04-02 08:17:55"
+        },
+        {
+            "domain_name": "bmenergystorage.com",
+            "destination": "Hostinger",
+            "date": "2025-04-02 08:15:20"
+        },
+        {
+            "domain_name": "www.entrapped.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 08:10:38"
         },
         {
             "domain_name": "pjtfoods.com",
@@ -442,64 +497,9 @@
             "date": "2025-04-01 12:32:55"
         },
         {
-            "domain_name": "rsvpsanjose.org",
-            "destination": "Hostinger",
-            "date": "2025-04-01 12:24:12"
-        },
-        {
             "domain_name": "ipscorp.com",
             "destination": "Kinsta",
             "date": "2025-04-01 12:22:07"
-        },
-        {
-            "domain_name": "www.monomoysealcruise.com",
-            "destination": "WordPress VIP",
-            "date": "2025-04-01 12:20:15"
-        },
-        {
-            "domain_name": "run3tv.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-01 12:18:56"
-        },
-        {
-            "domain_name": "pazgohil.com",
-            "destination": "SiteGround",
-            "date": "2025-04-01 12:15:47"
-        },
-        {
-            "domain_name": "bayexecutivetransport.com",
-            "destination": "Hostinger",
-            "date": "2025-04-01 12:03:46"
-        },
-        {
-            "domain_name": "premierurologycorp.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-01 12:01:32"
-        },
-        {
-            "domain_name": "www.oneseahawk.com",
-            "destination": "Bluehost",
-            "date": "2025-04-01 11:59:34"
-        },
-        {
-            "domain_name": "www.meshbesherlawfirm.com",
-            "destination": "SiteGround",
-            "date": "2025-04-01 11:45:44"
-        },
-        {
-            "domain_name": "pluralismaccelerator.us",
-            "destination": "Hostinger",
-            "date": "2025-04-01 11:43:42"
-        },
-        {
-            "domain_name": "fenixalma.com",
-            "destination": "Bluehost",
-            "date": "2025-04-01 11:31:51"
-        },
-        {
-            "domain_name": "twospoonsstudio.com",
-            "destination": "BigScoots",
-            "date": "2025-04-01 10:19:04"
         }
     ],
     "dailyMovedStat": {
@@ -700,15 +700,15 @@
     "topDestinationHosts": {
         "Pressable": 8951,
         "Bluehost": 3858,
-        "Kinsta": 3847,
+        "Kinsta": 3851,
         "Digital Ocean": 3403,
-        "SiteGround": 3244,
-        "Hostinger": 1978,
+        "SiteGround": 3246,
+        "Hostinger": 1982,
         "GoDaddy": 952,
         "BigScoots": 469,
-        "Liquid Web": 369,
+        "Liquid Web": 370,
         "Elementor Hosting": 272,
-        "WordPress.com": 264,
+        "WordPress.com": 265,
         "GridPane": 256,
         "InMotion Hosting": 255,
         "OVH": 221,
