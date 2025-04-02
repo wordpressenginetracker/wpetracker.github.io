@@ -1,10 +1,35 @@
 {
-    "siteCount": 58316,
+    "siteCount": 58328,
     "recentlyMoved": [
+        {
+            "domain_name": "dowdalllaw.com",
+            "destination": "Bluehost",
+            "date": "2025-04-02 18:20:54"
+        },
+        {
+            "domain_name": "dial1.ca",
+            "destination": "Hostinger",
+            "date": "2025-04-02 18:02:46"
+        },
+        {
+            "domain_name": "www.vlplawgroup.com",
+            "destination": "Hostinger",
+            "date": "2025-04-02 17:56:26"
+        },
+        {
+            "domain_name": "lazypawvet.com",
+            "destination": "Liquid Web",
+            "date": "2025-04-02 17:52:43"
+        },
         {
             "domain_name": "christmaslightingtulsa.com",
             "destination": "SiteGround",
             "date": "2025-04-02 17:45:36"
+        },
+        {
+            "domain_name": "www.saesprayersusa.com",
+            "destination": "SiteGround",
+            "date": "2025-04-02 17:19:32"
         },
         {
             "domain_name": "solidifiedsolutions.ca",
@@ -475,31 +500,6 @@
             "domain_name": "brokermatch.com",
             "destination": "OVH",
             "date": "2025-04-01 20:22:19"
-        },
-        {
-            "domain_name": "ambritengineering.com",
-            "destination": "Pressable",
-            "date": "2025-04-01 20:20:45"
-        },
-        {
-            "domain_name": "whippleplumbing.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-01 20:11:42"
-        },
-        {
-            "domain_name": "fearlessdigitaljourney.com",
-            "destination": "Pressable",
-            "date": "2025-04-01 19:58:47"
-        },
-        {
-            "domain_name": "allhoursplumbingslc.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-01 19:36:29"
-        },
-        {
-            "domain_name": "virtuosonline.com",
-            "destination": "Hostinger",
-            "date": "2025-04-01 18:20:55"
         }
     ],
     "dailyMovedStat": {
@@ -700,13 +700,13 @@
     "topDestinationHosts": {
         "Pressable": 8956,
         "Kinsta": 3862,
-        "Bluehost": 3858,
+        "Bluehost": 3859,
         "Digital Ocean": 3411,
-        "SiteGround": 3251,
-        "Hostinger": 1994,
+        "SiteGround": 3253,
+        "Hostinger": 1996,
         "GoDaddy": 956,
         "BigScoots": 470,
-        "Liquid Web": 372,
+        "Liquid Web": 373,
         "Elementor Hosting": 272,
         "WordPress.com": 266,
         "GridPane": 257,
