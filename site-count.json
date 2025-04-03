@@ -1,6 +1,11 @@
 {
-    "siteCount": 58465,
+    "siteCount": 58469,
     "recentlyMoved": [
+        {
+            "domain_name": "theofficertatum.com",
+            "destination": "SiteGround",
+            "date": "2025-04-03 02:06:38"
+        },
         {
             "domain_name": "www.h2orestorations.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "aten.life",
             "destination": "Digital Ocean",
             "date": "2025-04-02 07:47:58"
-        },
-        {
-            "domain_name": "gilbertmichelrolle.com",
-            "destination": "Kinsta",
-            "date": "2025-04-02 07:46:31"
         }
     ],
     "dailyMovedStat": {
@@ -703,7 +703,7 @@
         "Kinsta": 3868,
         "Bluehost": 3862,
         "Digital Ocean": 3417,
-        "SiteGround": 3260,
+        "SiteGround": 3261,
         "Hostinger": 1997,
         "GoDaddy": 957,
         "BigScoots": 470,
