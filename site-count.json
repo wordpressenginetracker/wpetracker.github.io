@@ -1,6 +1,11 @@
 {
-    "siteCount": 58707,
+    "siteCount": 58713,
     "recentlyMoved": [
+        {
+            "domain_name": "www.latuapasta.com",
+            "destination": "SiteGround",
+            "date": "2025-04-03 21:13:44"
+        },
         {
             "domain_name": "pmsigns.ca",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-04-02 18:17:49"
         },
         {
-            "domain_name": "dial1.ca",
-            "destination": "Hostinger",
-            "date": "2025-04-02 18:02:46"
-        },
-        {
             "domain_name": "moxieandcocreative.com",
             "destination": "InMotion Hosting",
             "date": "2025-04-02 17:56:31"
@@ -703,13 +703,13 @@
         "Kinsta": 3881,
         "Bluehost": 3864,
         "Digital Ocean": 3434,
-        "SiteGround": 3272,
+        "SiteGround": 3273,
         "Hostinger": 1999,
         "GoDaddy": 963,
         "BigScoots": 470,
         "Liquid Web": 375,
         "Elementor Hosting": 273,
-        "WordPress.com": 268,
+        "WordPress.com": 269,
         "InMotion Hosting": 257,
         "GridPane": 257,
         "OVH": 223,
