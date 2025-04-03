@@ -1,6 +1,21 @@
 {
-    "siteCount": 58478,
+    "siteCount": 58485,
     "recentlyMoved": [
+        {
+            "domain_name": "smtgroups.in",
+            "destination": "Digital Ocean",
+            "date": "2025-04-03 05:09:22"
+        },
+        {
+            "domain_name": "www.neoledge.com",
+            "destination": "OVH",
+            "date": "2025-04-03 05:06:38"
+        },
+        {
+            "domain_name": "ryan-jayberg.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-04-03 04:23:10"
+        },
         {
             "domain_name": "activevt.com",
             "destination": "Digital Ocean",
@@ -467,11 +482,6 @@
             "date": "2025-04-02 08:45:56"
         },
         {
-            "domain_name": "blackmountainoilandgas.com",
-            "destination": "Hostinger",
-            "date": "2025-04-02 08:36:07"
-        },
-        {
             "domain_name": "selectcentralcoast.org",
             "destination": "Hostinger",
             "date": "2025-04-02 08:35:18"
@@ -490,16 +500,6 @@
             "domain_name": "bmenergystorage.com",
             "destination": "Hostinger",
             "date": "2025-04-02 08:15:20"
-        },
-        {
-            "domain_name": "www.entrapped.com",
-            "destination": "SiteGround",
-            "date": "2025-04-02 08:10:38"
-        },
-        {
-            "domain_name": "bancoalimentoslpa.org",
-            "destination": "WordPress.com",
-            "date": "2025-04-02 07:55:48"
         }
     ],
     "dailyMovedStat": {
@@ -702,8 +702,8 @@
         "Pressable": 8960,
         "Kinsta": 3868,
         "Bluehost": 3862,
-        "Digital Ocean": 3418,
-        "SiteGround": 3263,
+        "Digital Ocean": 3419,
+        "SiteGround": 3264,
         "Hostinger": 1997,
         "GoDaddy": 957,
         "BigScoots": 470,
@@ -712,7 +712,7 @@
         "WordPress.com": 267,
         "GridPane": 257,
         "InMotion Hosting": 256,
-        "OVH": 221,
+        "OVH": 222,
         "IONOS": 207,
         "Namecheap": 199,
         "DreamHost": 194,
