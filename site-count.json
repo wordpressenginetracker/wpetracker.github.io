@@ -1,6 +1,11 @@
 {
-    "siteCount": 58524,
+    "siteCount": 58525,
     "recentlyMoved": [
+        {
+            "domain_name": "nomadsnation.com",
+            "destination": "Bluehost",
+            "date": "2025-04-03 10:47:56"
+        },
         {
             "domain_name": "southwiltsski.com",
             "destination": "Krystal Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-04-02 10:00:15"
         },
         {
-            "domain_name": "maximilianart.com",
-            "destination": "Kinsta",
-            "date": "2025-04-02 09:55:34"
-        },
-        {
             "domain_name": "dsmarchitecture.com",
             "destination": "Kinsta",
             "date": "2025-04-02 09:38:49"
@@ -701,7 +701,7 @@
     "topDestinationHosts": {
         "Pressable": 8960,
         "Kinsta": 3868,
-        "Bluehost": 3862,
+        "Bluehost": 3863,
         "Digital Ocean": 3424,
         "SiteGround": 3266,
         "Hostinger": 1998,
