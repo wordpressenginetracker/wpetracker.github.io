@@ -1,6 +1,11 @@
 {
-    "siteCount": 58485,
+    "siteCount": 58495,
     "recentlyMoved": [
+        {
+            "domain_name": "tomacklaw.com",
+            "destination": "SiteGround",
+            "date": "2025-04-03 06:32:13"
+        },
         {
             "domain_name": "smtgroups.in",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "saltnsauna.com",
             "destination": "Liquid Web",
             "date": "2025-04-02 08:17:55"
-        },
-        {
-            "domain_name": "bmenergystorage.com",
-            "destination": "Hostinger",
-            "date": "2025-04-02 08:15:20"
         }
     ],
     "dailyMovedStat": {
@@ -703,7 +703,7 @@
         "Kinsta": 3868,
         "Bluehost": 3862,
         "Digital Ocean": 3419,
-        "SiteGround": 3264,
+        "SiteGround": 3265,
         "Hostinger": 1997,
         "GoDaddy": 957,
         "BigScoots": 470,
