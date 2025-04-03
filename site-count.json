@@ -1,6 +1,21 @@
 {
-    "siteCount": 58713,
+    "siteCount": 58724,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stoneroselaw.com",
+            "destination": "Kinsta",
+            "date": "2025-04-03 21:59:30"
+        },
+        {
+            "domain_name": "www.scottsdale-duilawyer.com",
+            "destination": "Kinsta",
+            "date": "2025-04-03 21:29:11"
+        },
+        {
+            "domain_name": "www.reaxis.com",
+            "destination": "Pressable",
+            "date": "2025-04-03 21:16:52"
+        },
         {
             "domain_name": "www.latuapasta.com",
             "destination": "SiteGround",
@@ -477,29 +492,14 @@
             "date": "2025-04-02 19:18:27"
         },
         {
-            "domain_name": "enduranceacquisition.com",
-            "destination": "Kinsta",
-            "date": "2025-04-02 18:50:46"
-        },
-        {
             "domain_name": "mygroup.com",
             "destination": "Pressable",
             "date": "2025-04-02 18:35:53"
         },
         {
-            "domain_name": "dowdalllaw.com",
-            "destination": "Bluehost",
-            "date": "2025-04-02 18:20:54"
-        },
-        {
             "domain_name": "newsteaddental.co",
             "destination": "SiteGround",
             "date": "2025-04-02 18:17:49"
-        },
-        {
-            "domain_name": "moxieandcocreative.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-04-02 17:56:31"
         }
     ],
     "dailyMovedStat": {
@@ -699,8 +699,8 @@
         "2025-04-02": "58448"
     },
     "topDestinationHosts": {
-        "Pressable": 8971,
-        "Kinsta": 3881,
+        "Pressable": 8972,
+        "Kinsta": 3883,
         "Bluehost": 3864,
         "Digital Ocean": 3434,
         "SiteGround": 3273,
