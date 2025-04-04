@@ -1,5 +1,5 @@
 {
-    "siteCount": 58909,
+    "siteCount": 58911,
     "recentlyMoved": [
         {
             "domain_name": "traceynicholephoto.com",
@@ -15,6 +15,11 @@
             "domain_name": "mbinderlaw.com",
             "destination": "SiteGround",
             "date": "2025-04-04 18:12:35"
+        },
+        {
+            "domain_name": "mytexashouse.com",
+            "destination": "Bluehost",
+            "date": "2025-04-04 18:03:16"
         },
         {
             "domain_name": "daliaphotography.com",
@@ -495,11 +500,6 @@
             "domain_name": "fisherfamilymusic.com",
             "destination": "Pressable",
             "date": "2025-04-03 15:18:29"
-        },
-        {
-            "domain_name": "escapeadventures.com",
-            "destination": "Pressable",
-            "date": "2025-04-03 13:46:53"
         }
     ],
     "dailyMovedStat": {
@@ -702,7 +702,7 @@
     "topDestinationHosts": {
         "Pressable": 8977,
         "Kinsta": 3895,
-        "Bluehost": 3868,
+        "Bluehost": 3869,
         "Digital Ocean": 3445,
         "SiteGround": 3282,
         "Hostinger": 2002,
