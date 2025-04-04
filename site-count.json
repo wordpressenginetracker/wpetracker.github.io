@@ -1,5 +1,5 @@
 {
-    "siteCount": 58863,
+    "siteCount": 58866,
     "recentlyMoved": [
         {
             "domain_name": "tiffanybondphotography.com",
@@ -40,6 +40,11 @@
             "domain_name": "unfinishedconversation.com",
             "destination": "Pressable",
             "date": "2025-04-04 14:07:29"
+        },
+        {
+            "domain_name": "vaultbusiness.solutions",
+            "destination": "Kinsta",
+            "date": "2025-04-04 14:03:55"
         },
         {
             "domain_name": "danamcneil.com",
@@ -487,11 +492,6 @@
             "date": "2025-04-03 12:34:32"
         },
         {
-            "domain_name": "gts-ts.com",
-            "destination": "OVH",
-            "date": "2025-04-03 12:15:08"
-        },
-        {
             "domain_name": "resourcerealtygroupmi.com",
             "destination": "Liquid Web",
             "date": "2025-04-03 12:06:09"
@@ -700,8 +700,8 @@
         "2025-04-03": "58725"
     },
     "topDestinationHosts": {
-        "Pressable": 8976,
-        "Kinsta": 3889,
+        "Pressable": 8977,
+        "Kinsta": 3890,
         "Bluehost": 3865,
         "Digital Ocean": 3442,
         "SiteGround": 3279,
