@@ -1,10 +1,20 @@
 {
-    "siteCount": 58763,
+    "siteCount": 58772,
     "recentlyMoved": [
         {
             "domain_name": "clients.bidviewmarketing.com",
             "destination": "Digital Ocean",
             "date": "2025-04-04 05:23:54"
+        },
+        {
+            "domain_name": "leadertunturilappi.fi",
+            "destination": "Kinsta",
+            "date": "2025-04-04 05:11:48"
+        },
+        {
+            "domain_name": "lawebsitedesign.com",
+            "destination": "SiteGround",
+            "date": "2025-04-04 05:02:37"
         },
         {
             "domain_name": "joshmartin95.com",
@@ -490,16 +500,6 @@
             "domain_name": "celli-usa.com",
             "destination": "SiteGround",
             "date": "2025-04-02 20:54:20"
-        },
-        {
-            "domain_name": "brucegreydental.com",
-            "destination": "Bluehost",
-            "date": "2025-04-02 20:37:40"
-        },
-        {
-            "domain_name": "innovative-signs.com",
-            "destination": "Kinsta",
-            "date": "2025-04-02 20:19:47"
         }
     ],
     "dailyMovedStat": {
@@ -701,10 +701,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 8972,
-        "Kinsta": 3884,
+        "Kinsta": 3885,
         "Bluehost": 3864,
-        "Digital Ocean": 3436,
-        "SiteGround": 3274,
+        "Digital Ocean": 3437,
+        "SiteGround": 3275,
         "Hostinger": 2001,
         "GoDaddy": 963,
         "BigScoots": 471,
