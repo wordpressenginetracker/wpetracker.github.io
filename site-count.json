@@ -1,6 +1,11 @@
 {
-    "siteCount": 58974,
+    "siteCount": 58977,
     "recentlyMoved": [
+        {
+            "domain_name": "dockzilla.com",
+            "destination": "SiteGround",
+            "date": "2025-04-04 21:39:53"
+        },
         {
             "domain_name": "reeceaggregatesandrecycling.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "hotelstry.ca",
             "destination": "SiteGround",
             "date": "2025-04-03 16:05:14"
-        },
-        {
-            "domain_name": "www.refreshmedental.com",
-            "destination": "SiteGround",
-            "date": "2025-04-03 15:37:49"
         }
     ],
     "dailyMovedStat": {
@@ -704,7 +704,7 @@
         "Kinsta": 3896,
         "Bluehost": 3869,
         "Digital Ocean": 3446,
-        "SiteGround": 3283,
+        "SiteGround": 3284,
         "Hostinger": 2002,
         "GoDaddy": 968,
         "BigScoots": 475,
