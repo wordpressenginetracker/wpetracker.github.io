@@ -1,6 +1,41 @@
 {
-    "siteCount": 59004,
+    "siteCount": 59016,
     "recentlyMoved": [
+        {
+            "domain_name": "kaptureaesthetics.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-05 05:04:32"
+        },
+        {
+            "domain_name": "smilesinspringfield.com",
+            "destination": "GridPane",
+            "date": "2025-04-05 04:54:56"
+        },
+        {
+            "domain_name": "www.hansa-flex.at",
+            "destination": "Kinsta",
+            "date": "2025-04-05 04:52:49"
+        },
+        {
+            "domain_name": "blog.blablacar.sk",
+            "destination": "Pressable",
+            "date": "2025-04-05 04:31:26"
+        },
+        {
+            "domain_name": "blog.blablacar.ro",
+            "destination": "Pressable",
+            "date": "2025-04-05 04:31:26"
+        },
+        {
+            "domain_name": "blog.blablacar.nl",
+            "destination": "Pressable",
+            "date": "2025-04-05 04:31:26"
+        },
+        {
+            "domain_name": "blog.blablacar.mx",
+            "destination": "Pressable",
+            "date": "2025-04-05 04:31:26"
+        },
         {
             "domain_name": "www.2thenations.com",
             "destination": "SiteGround",
@@ -442,11 +477,6 @@
             "date": "2025-04-03 21:13:44"
         },
         {
-            "domain_name": "pmsigns.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-04-03 20:20:19"
-        },
-        {
             "domain_name": "www.premiergenerators.com",
             "destination": "Kinsta",
             "date": "2025-04-03 20:20:13"
@@ -467,39 +497,9 @@
             "date": "2025-04-03 19:58:55"
         },
         {
-            "domain_name": "www.habitatcltregion.org",
-            "destination": "Digital Ocean",
-            "date": "2025-04-03 19:58:28"
-        },
-        {
-            "domain_name": "oncologycircle.com",
-            "destination": "Kinsta",
-            "date": "2025-04-03 19:58:16"
-        },
-        {
-            "domain_name": "www.cltregionrestore.org",
-            "destination": "Digital Ocean",
-            "date": "2025-04-03 19:50:33"
-        },
-        {
             "domain_name": "aquamax.co",
             "destination": "Kinsta",
             "date": "2025-04-03 19:48:06"
-        },
-        {
-            "domain_name": "epicroofs.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-03 18:39:47"
-        },
-        {
-            "domain_name": "needashed.co.nz",
-            "destination": "Pressable",
-            "date": "2025-04-03 18:35:46"
-        },
-        {
-            "domain_name": "michaelcowelltours.ie",
-            "destination": "Hostinger",
-            "date": "2025-04-03 17:54:53"
         }
     ],
     "dailyMovedStat": {
@@ -701,10 +701,10 @@
         "2025-04-04": "58980"
     },
     "topDestinationHosts": {
-        "Pressable": 8978,
-        "Kinsta": 3897,
+        "Pressable": 8982,
+        "Kinsta": 3898,
         "Bluehost": 3869,
-        "Digital Ocean": 3447,
+        "Digital Ocean": 3449,
         "SiteGround": 3286,
         "Hostinger": 2003,
         "GoDaddy": 968,
@@ -713,7 +713,7 @@
         "Elementor Hosting": 273,
         "WordPress.com": 269,
         "InMotion Hosting": 258,
-        "GridPane": 257,
+        "GridPane": 258,
         "OVH": 226,
         "IONOS": 209,
         "Namecheap": 200,
