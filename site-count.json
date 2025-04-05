@@ -1,6 +1,11 @@
 {
-    "siteCount": 59047,
+    "siteCount": 59048,
     "recentlyMoved": [
+        {
+            "domain_name": "nomadadventure.com",
+            "destination": "Pressable",
+            "date": "2025-04-05 10:34:32"
+        },
         {
             "domain_name": "edwtn.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.xlhlink.com.au",
             "destination": "Hostinger",
             "date": "2025-04-04 01:44:26"
-        },
-        {
-            "domain_name": "www.xlhlink.asia",
-            "destination": "Hostinger",
-            "date": "2025-04-04 01:44:26"
         }
     ],
     "dailyMovedStat": {
@@ -701,7 +701,7 @@
         "2025-04-04": "58980"
     },
     "topDestinationHosts": {
-        "Pressable": 8982,
+        "Pressable": 8983,
         "Kinsta": 3902,
         "Bluehost": 3869,
         "Digital Ocean": 3451,
