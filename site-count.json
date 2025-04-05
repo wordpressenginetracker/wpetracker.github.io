@@ -1,6 +1,11 @@
 {
-    "siteCount": 59023,
+    "siteCount": 59031,
     "recentlyMoved": [
+        {
+            "domain_name": "www.marketatthefareway.com",
+            "destination": "Kinsta",
+            "date": "2025-04-05 07:31:39"
+        },
         {
             "domain_name": "moocow.in",
             "destination": "Digital Ocean",
@@ -487,11 +492,6 @@
             "date": "2025-04-03 21:13:44"
         },
         {
-            "domain_name": "www.premiergenerators.com",
-            "destination": "Kinsta",
-            "date": "2025-04-03 20:20:13"
-        },
-        {
             "domain_name": "priscillamckinney.com",
             "destination": "GoDaddy",
             "date": "2025-04-03 20:04:56"
@@ -702,7 +702,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8982,
-        "Kinsta": 3898,
+        "Kinsta": 3899,
         "Bluehost": 3869,
         "Digital Ocean": 3450,
         "SiteGround": 3287,
