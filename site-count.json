@@ -1,6 +1,11 @@
 {
-    "siteCount": 59125,
+    "siteCount": 59185,
     "recentlyMoved": [
+        {
+            "domain_name": "www.chaseprop.com",
+            "destination": "SiteGround",
+            "date": "2025-04-05 20:05:38"
+        },
         {
             "domain_name": "nuorralife.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "kylethegirlphoto.com",
             "destination": "BigScoots",
             "date": "2025-04-04 13:12:55"
-        },
-        {
-            "domain_name": "rwhvacinc.net",
-            "destination": "Pressable",
-            "date": "2025-04-04 12:33:09"
         }
     ],
     "dailyMovedStat": {
@@ -702,14 +702,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 8987,
-        "Kinsta": 3910,
-        "Bluehost": 3869,
+        "Kinsta": 3911,
+        "Bluehost": 3870,
         "Digital Ocean": 3452,
-        "SiteGround": 3290,
+        "SiteGround": 3291,
         "Hostinger": 2004,
         "GoDaddy": 971,
         "BigScoots": 478,
-        "Liquid Web": 381,
+        "Liquid Web": 382,
         "Elementor Hosting": 273,
         "WordPress.com": 269,
         "InMotion Hosting": 259,
@@ -717,8 +717,8 @@
         "OVH": 226,
         "IONOS": 209,
         "Namecheap": 202,
-        "DreamHost": 197,
-        "A2 Hosting": 194,
+        "DreamHost": 198,
+        "A2 Hosting": 195,
         "Wordify": 178,
         "Hetzner Online": 171
     },
