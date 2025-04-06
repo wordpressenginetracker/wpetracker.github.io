@@ -1,6 +1,26 @@
 {
-    "siteCount": 59208,
+    "siteCount": 59217,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gracecommunitychurch.net",
+            "destination": "GoDaddy",
+            "date": "2025-04-06 01:04:48"
+        },
+        {
+            "domain_name": "janewooldridge.com",
+            "destination": "Pressable",
+            "date": "2025-04-06 00:47:49"
+        },
+        {
+            "domain_name": "www.jpjlandscaping.com",
+            "destination": "SiteGround",
+            "date": "2025-04-06 00:29:24"
+        },
+        {
+            "domain_name": "www.enlace.link",
+            "destination": "GoDaddy",
+            "date": "2025-04-06 00:15:29"
+        },
         {
             "domain_name": "www.kcampbellmd.com",
             "destination": "Kinsta",
@@ -462,11 +482,6 @@
             "date": "2025-04-04 15:28:46"
         },
         {
-            "domain_name": "tiffanybondphotography.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-04 14:26:29"
-        },
-        {
             "domain_name": "trekkenchantedevents.com",
             "destination": "GoDaddy",
             "date": "2025-04-04 14:14:38"
@@ -477,11 +492,6 @@
             "date": "2025-04-04 14:14:38"
         },
         {
-            "domain_name": "easttexashomesllc.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-04 14:09:06"
-        },
-        {
             "domain_name": "unfinishedconversation.com",
             "destination": "Pressable",
             "date": "2025-04-04 14:07:29"
@@ -490,16 +500,6 @@
             "domain_name": "vaultbusiness.solutions",
             "destination": "Kinsta",
             "date": "2025-04-04 14:03:55"
-        },
-        {
-            "domain_name": "meetingst.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-04 13:54:47"
-        },
-        {
-            "domain_name": "yiuiht.fyuyuy-cgyy.app.tc",
-            "destination": "Hetzner Online",
-            "date": "2025-04-04 13:40:41"
         }
     ],
     "dailyMovedStat": {
@@ -702,13 +702,13 @@
         "2025-04-05": "59205"
     },
     "topDestinationHosts": {
-        "Pressable": 8988,
+        "Pressable": 8989,
         "Kinsta": 3913,
         "Bluehost": 3870,
         "Digital Ocean": 3452,
-        "SiteGround": 3299,
+        "SiteGround": 3300,
         "Hostinger": 2004,
-        "GoDaddy": 971,
+        "GoDaddy": 973,
         "BigScoots": 478,
         "Liquid Web": 383,
         "Elementor Hosting": 273,
