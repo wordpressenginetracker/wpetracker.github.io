@@ -1,6 +1,11 @@
 {
-    "siteCount": 59241,
+    "siteCount": 59247,
     "recentlyMoved": [
+        {
+            "domain_name": "agcarbonalliance.ca",
+            "destination": "Namecheap",
+            "date": "2025-04-06 07:18:05"
+        },
         {
             "domain_name": "atozscrap.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.middlesexplasticsurgerycenter.com",
             "destination": "Kinsta",
             "date": "2025-04-04 16:56:48"
-        },
-        {
-            "domain_name": "shoresdentalgroup.com",
-            "destination": "Bluehost",
-            "date": "2025-04-04 16:35:00"
         }
     ],
     "dailyMovedStat": {
@@ -717,7 +717,7 @@
         "GridPane": 258,
         "OVH": 226,
         "IONOS": 209,
-        "Namecheap": 202,
+        "Namecheap": 203,
         "DreamHost": 199,
         "A2 Hosting": 195,
         "Wordify": 178,
