@@ -1,5 +1,5 @@
 {
-    "siteCount": 59284,
+    "siteCount": 59286,
     "recentlyMoved": [
         {
             "domain_name": "hollandquality.com",
@@ -15,6 +15,11 @@
             "domain_name": "bendlelang.com",
             "destination": "SiteGround",
             "date": "2025-04-06 14:18:39"
+        },
+        {
+            "domain_name": "videoup.co",
+            "destination": "Digital Ocean",
+            "date": "2025-04-06 14:15:26"
         },
         {
             "domain_name": "culturesofworldsocialism.com",
@@ -495,11 +500,6 @@
             "domain_name": "dockzilla.com",
             "destination": "SiteGround",
             "date": "2025-04-04 21:39:53"
-        },
-        {
-            "domain_name": "baystatepatent.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-04 20:15:45"
         }
     ],
     "dailyMovedStat": {
@@ -705,7 +705,7 @@
         "Pressable": 8990,
         "Kinsta": 3914,
         "Bluehost": 3871,
-        "Digital Ocean": 3461,
+        "Digital Ocean": 3462,
         "SiteGround": 3311,
         "Hostinger": 2007,
         "GoDaddy": 973,
