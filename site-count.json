@@ -1,6 +1,21 @@
 {
-    "siteCount": 59262,
+    "siteCount": 59271,
     "recentlyMoved": [
+        {
+            "domain_name": "artmargins.com",
+            "destination": "SiteGround",
+            "date": "2025-04-06 12:36:48"
+        },
+        {
+            "domain_name": "fmformula.com",
+            "destination": "SiteGround",
+            "date": "2025-04-06 11:45:24"
+        },
+        {
+            "domain_name": "allisoncraneinteriors.com",
+            "destination": "Pressable",
+            "date": "2025-04-06 11:44:08"
+        },
         {
             "domain_name": "mithraimpex.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "woodhamhvac.com",
             "destination": "Pressable",
             "date": "2025-04-04 19:46:21"
-        },
-        {
-            "domain_name": "traceynicholephoto.com",
-            "destination": "Bluehost",
-            "date": "2025-04-04 18:20:38"
-        },
-        {
-            "domain_name": "thistleandtwigflorist.com",
-            "destination": "Kinsta",
-            "date": "2025-04-04 18:17:54"
-        },
-        {
-            "domain_name": "mytexashouse.com",
-            "destination": "Bluehost",
-            "date": "2025-04-04 18:03:16"
         }
     ],
     "dailyMovedStat": {
@@ -702,11 +702,11 @@
         "2025-04-05": "59205"
     },
     "topDestinationHosts": {
-        "Pressable": 8989,
+        "Pressable": 8990,
         "Kinsta": 3914,
         "Bluehost": 3871,
         "Digital Ocean": 3461,
-        "SiteGround": 3304,
+        "SiteGround": 3306,
         "Hostinger": 2007,
         "GoDaddy": 973,
         "BigScoots": 478,
