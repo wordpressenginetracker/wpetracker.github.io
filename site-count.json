@@ -1,6 +1,16 @@
 {
-    "siteCount": 59297,
+    "siteCount": 59303,
     "recentlyMoved": [
+        {
+            "domain_name": "mastercollisiongroup.com",
+            "destination": "SiteGround",
+            "date": "2025-04-06 17:49:53"
+        },
+        {
+            "domain_name": "www.windyacresinn.ca",
+            "destination": "GoDaddy",
+            "date": "2025-04-06 17:36:16"
+        },
         {
             "domain_name": "wildsidenaturetours.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "mcaftermarket.com",
             "destination": "IONOS",
             "date": "2025-04-05 01:49:34"
-        },
-        {
-            "domain_name": "pirchoutdoors.com",
-            "destination": "SiteGround",
-            "date": "2025-04-05 00:21:59"
-        },
-        {
-            "domain_name": "atlantisevents.com",
-            "destination": "Kinsta",
-            "date": "2025-04-05 00:14:07"
         }
     ],
     "dailyMovedStat": {
@@ -706,9 +706,9 @@
         "Kinsta": 3914,
         "Bluehost": 3871,
         "Digital Ocean": 3462,
-        "SiteGround": 3311,
+        "SiteGround": 3312,
         "Hostinger": 2008,
-        "GoDaddy": 973,
+        "GoDaddy": 974,
         "BigScoots": 478,
         "Liquid Web": 383,
         "Elementor Hosting": 273,
