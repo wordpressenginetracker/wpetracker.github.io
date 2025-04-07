@@ -1,6 +1,16 @@
 {
-    "siteCount": 59336,
+    "siteCount": 59338,
     "recentlyMoved": [
+        {
+            "domain_name": "virginiaassetgroup.com",
+            "destination": "IONOS",
+            "date": "2025-04-07 02:47:07"
+        },
+        {
+            "domain_name": "neropanels.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-04-07 02:45:23"
+        },
         {
             "domain_name": "taikorihi.co.nz",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "blog.blablacar.ro",
             "destination": "Pressable",
             "date": "2025-04-05 04:31:26"
-        },
-        {
-            "domain_name": "blog.blablacar.nl",
-            "destination": "Pressable",
-            "date": "2025-04-05 04:31:26"
-        },
-        {
-            "domain_name": "blog.blablacar.mx",
-            "destination": "Pressable",
-            "date": "2025-04-05 04:31:26"
         }
     ],
     "dailyMovedStat": {
@@ -704,7 +704,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8992,
-        "Kinsta": 3914,
+        "Kinsta": 3915,
         "Bluehost": 3872,
         "Digital Ocean": 3462,
         "SiteGround": 3313,
@@ -717,7 +717,7 @@
         "InMotion Hosting": 259,
         "GridPane": 258,
         "OVH": 227,
-        "IONOS": 209,
+        "IONOS": 210,
         "Namecheap": 203,
         "DreamHost": 199,
         "A2 Hosting": 195,
