@@ -1,6 +1,16 @@
 {
-    "siteCount": 59322,
+    "siteCount": 59325,
     "recentlyMoved": [
+        {
+            "domain_name": "forsmansfinest.com",
+            "destination": "SiteGround",
+            "date": "2025-04-06 23:43:48"
+        },
+        {
+            "domain_name": "nycu.fm",
+            "destination": "Hostinger",
+            "date": "2025-04-06 23:28:18"
+        },
         {
             "domain_name": "mastercollisiongroup.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "helloevents.in",
             "destination": "Digital Ocean",
             "date": "2025-04-05 03:56:25"
-        },
-        {
-            "domain_name": "environtechengineers.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-05 02:36:46"
-        },
-        {
-            "domain_name": "mcaftermarket.com",
-            "destination": "IONOS",
-            "date": "2025-04-05 01:49:34"
         }
     ],
     "dailyMovedStat": {
@@ -707,8 +707,8 @@
         "Kinsta": 3914,
         "Bluehost": 3872,
         "Digital Ocean": 3462,
-        "SiteGround": 3312,
-        "Hostinger": 2008,
+        "SiteGround": 3313,
+        "Hostinger": 2009,
         "GoDaddy": 974,
         "BigScoots": 478,
         "Liquid Web": 383,
