@@ -1,6 +1,11 @@
 {
-    "siteCount": 59358,
+    "siteCount": 59361,
     "recentlyMoved": [
+        {
+            "domain_name": "www.aihr.com",
+            "destination": "Kinsta",
+            "date": "2025-04-07 12:21:09"
+        },
         {
             "domain_name": "explorealife.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.senormist.com",
             "destination": "SiteGround",
             "date": "2025-04-05 05:33:43"
-        },
-        {
-            "domain_name": "smilesinspringfield.com",
-            "destination": "GridPane",
-            "date": "2025-04-05 04:54:56"
         }
     ],
     "dailyMovedStat": {
@@ -704,7 +704,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8992,
-        "Kinsta": 3915,
+        "Kinsta": 3916,
         "Bluehost": 3872,
         "Digital Ocean": 3462,
         "SiteGround": 3316,
