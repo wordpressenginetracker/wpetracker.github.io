@@ -1,6 +1,11 @@
 {
-    "siteCount": 59338,
+    "siteCount": 59340,
     "recentlyMoved": [
+        {
+            "domain_name": "pillarsofhopecounseling.com",
+            "destination": "SiteGround",
+            "date": "2025-04-07 03:33:59"
+        },
         {
             "domain_name": "virginiaassetgroup.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "blog.blablacar.sk",
             "destination": "Pressable",
             "date": "2025-04-05 04:31:26"
-        },
-        {
-            "domain_name": "blog.blablacar.ro",
-            "destination": "Pressable",
-            "date": "2025-04-05 04:31:26"
         }
     ],
     "dailyMovedStat": {
@@ -707,7 +707,7 @@
         "Kinsta": 3915,
         "Bluehost": 3872,
         "Digital Ocean": 3462,
-        "SiteGround": 3313,
+        "SiteGround": 3314,
         "Hostinger": 2009,
         "GoDaddy": 974,
         "BigScoots": 478,
