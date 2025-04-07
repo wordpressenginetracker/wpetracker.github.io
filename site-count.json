@@ -1,6 +1,11 @@
 {
-    "siteCount": 59374,
+    "siteCount": 59376,
     "recentlyMoved": [
+        {
+            "domain_name": "www.soundx.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-04-07 17:36:17"
+        },
         {
             "domain_name": "ink19.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "keukavalleybuilders.com",
             "destination": "GoDaddy",
             "date": "2025-04-05 08:41:21"
-        },
-        {
-            "domain_name": "infinitymathtutoring.com",
-            "destination": "DreamHost",
-            "date": "2025-04-05 08:15:00"
         }
     ],
     "dailyMovedStat": {
@@ -704,7 +704,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8992,
-        "Kinsta": 3916,
+        "Kinsta": 3917,
         "Bluehost": 3872,
         "Digital Ocean": 3463,
         "SiteGround": 3318,
