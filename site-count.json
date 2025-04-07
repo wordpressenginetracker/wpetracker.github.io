@@ -1,6 +1,11 @@
 {
-    "siteCount": 59356,
+    "siteCount": 59358,
     "recentlyMoved": [
+        {
+            "domain_name": "explorealife.com",
+            "destination": "SiteGround",
+            "date": "2025-04-07 10:42:17"
+        },
         {
             "domain_name": "manplusmachines.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-04-05 05:33:43"
         },
         {
-            "domain_name": "kaptureaesthetics.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-05 05:04:32"
-        },
-        {
             "domain_name": "smilesinspringfield.com",
             "destination": "GridPane",
             "date": "2025-04-05 04:54:56"
@@ -707,7 +707,7 @@
         "Kinsta": 3915,
         "Bluehost": 3872,
         "Digital Ocean": 3462,
-        "SiteGround": 3315,
+        "SiteGround": 3316,
         "Hostinger": 2010,
         "GoDaddy": 974,
         "BigScoots": 478,
