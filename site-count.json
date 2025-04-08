@@ -1,6 +1,11 @@
 {
-    "siteCount": 59457,
+    "siteCount": 59458,
     "recentlyMoved": [
+        {
+            "domain_name": "northtexas-vending.com",
+            "destination": "SiteGround",
+            "date": "2025-04-08 06:43:51"
+        },
         {
             "domain_name": "www.oakfielddevelopments.com",
             "destination": "Krystal Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "karainzunzaphotography.com",
             "destination": "BigScoots",
             "date": "2025-04-05 13:03:57"
-        },
-        {
-            "domain_name": "bmdevelopments.net",
-            "destination": "Hetzner Online",
-            "date": "2025-04-05 12:43:36"
         }
     ],
     "dailyMovedStat": {
@@ -708,7 +708,7 @@
         "Kinsta": 3918,
         "Bluehost": 3872,
         "Digital Ocean": 3468,
-        "SiteGround": 3319,
+        "SiteGround": 3320,
         "Hostinger": 2013,
         "GoDaddy": 974,
         "BigScoots": 479,
