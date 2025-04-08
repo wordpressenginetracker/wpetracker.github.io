@@ -1,10 +1,15 @@
 {
-    "siteCount": 59454,
+    "siteCount": 59457,
     "recentlyMoved": [
         {
             "domain_name": "www.oakfielddevelopments.com",
             "destination": "Krystal Hosting",
             "date": "2025-04-08 05:48:40"
+        },
+        {
+            "domain_name": "spokenwordgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-04-08 05:12:18"
         },
         {
             "domain_name": "sctractors.com.au",
@@ -495,11 +500,6 @@
             "domain_name": "bmdevelopments.net",
             "destination": "Hetzner Online",
             "date": "2025-04-05 12:43:36"
-        },
-        {
-            "domain_name": "restaurantlabellecreole.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-05 12:24:25"
         }
     ],
     "dailyMovedStat": {
@@ -705,7 +705,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 8993,
-        "Kinsta": 3917,
+        "Kinsta": 3918,
         "Bluehost": 3872,
         "Digital Ocean": 3468,
         "SiteGround": 3319,
