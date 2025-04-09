@@ -1,10 +1,30 @@
 {
-    "siteCount": 59763,
+    "siteCount": 59774,
     "recentlyMoved": [
+        {
+            "domain_name": "jobsnotpolitics.com",
+            "destination": "Hostinger",
+            "date": "2025-04-09 13:00:43"
+        },
+        {
+            "domain_name": "splashprojects.com",
+            "destination": "Kinsta",
+            "date": "2025-04-09 13:00:17"
+        },
+        {
+            "domain_name": "www.jonesactlaw.com",
+            "destination": "Kinsta",
+            "date": "2025-04-09 12:55:43"
+        },
         {
             "domain_name": "protofinancial.com",
             "destination": "Hostinger",
             "date": "2025-04-09 12:42:50"
+        },
+        {
+            "domain_name": "hotelnapoleonmemphis.com",
+            "destination": "Kinsta",
+            "date": "2025-04-09 12:32:58"
         },
         {
             "domain_name": "www.danapianolessons.com",
@@ -15,6 +35,11 @@
             "domain_name": "www.bellefirma.com",
             "destination": "Kinsta",
             "date": "2025-04-09 12:15:13"
+        },
+        {
+            "domain_name": "www.designsbyvagency.com",
+            "destination": "DreamHost",
+            "date": "2025-04-09 12:09:12"
         },
         {
             "domain_name": "grandcentralmarket.com",
@@ -475,31 +500,6 @@
             "domain_name": "bluestonewellnessfl.com",
             "destination": "SiteGround",
             "date": "2025-04-08 12:49:32"
-        },
-        {
-            "domain_name": "resources.staging.aihr.com",
-            "destination": "Kinsta",
-            "date": "2025-04-08 12:47:27"
-        },
-        {
-            "domain_name": "hollowayroofing.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-08 12:40:47"
-        },
-        {
-            "domain_name": "ramanipackaging.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-08 12:39:32"
-        },
-        {
-            "domain_name": "healthysnackersvending.com",
-            "destination": "SiteGround",
-            "date": "2025-04-08 12:24:18"
-        },
-        {
-            "domain_name": "bhmtrilakes.com",
-            "destination": "SiteGround",
-            "date": "2025-04-08 12:08:28"
         }
     ],
     "dailyMovedStat": {
@@ -706,11 +706,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9005,
-        "Kinsta": 3942,
+        "Kinsta": 3944,
         "Bluehost": 3876,
         "Digital Ocean": 3490,
         "SiteGround": 3339,
-        "Hostinger": 2024,
+        "Hostinger": 2025,
         "GoDaddy": 977,
         "BigScoots": 481,
         "Liquid Web": 387,
@@ -721,7 +721,7 @@
         "OVH": 227,
         "IONOS": 210,
         "Namecheap": 205,
-        "DreamHost": 199,
+        "DreamHost": 200,
         "A2 Hosting": 196,
         "Wordify": 178,
         "Hetzner Online": 171
