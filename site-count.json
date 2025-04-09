@@ -1,6 +1,16 @@
 {
-    "siteCount": 59684,
+    "siteCount": 59688,
     "recentlyMoved": [
+        {
+            "domain_name": "allurepacificaesthetics.com",
+            "destination": "WordPress.com",
+            "date": "2025-04-08 23:56:28"
+        },
+        {
+            "domain_name": "adamsairamarillo.com",
+            "destination": "SiteGround",
+            "date": "2025-04-08 23:28:06"
+        },
         {
             "domain_name": "monicaburtonlmft.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "pillarsofhopecounseling.com",
             "destination": "SiteGround",
             "date": "2025-04-07 03:33:59"
-        },
-        {
-            "domain_name": "virginiaassetgroup.com",
-            "destination": "IONOS",
-            "date": "2025-04-07 02:47:07"
-        },
-        {
-            "domain_name": "neropanels.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-04-07 02:45:23"
         }
     ],
     "dailyMovedStat": {
@@ -709,12 +709,12 @@
         "Kinsta": 3930,
         "Bluehost": 3876,
         "Digital Ocean": 3480,
-        "SiteGround": 3333,
+        "SiteGround": 3334,
         "Hostinger": 2021,
         "GoDaddy": 976,
         "BigScoots": 481,
         "Liquid Web": 387,
-        "WordPress.com": 274,
+        "WordPress.com": 275,
         "Elementor Hosting": 273,
         "InMotion Hosting": 262,
         "GridPane": 260,
