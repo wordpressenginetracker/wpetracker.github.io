@@ -1,6 +1,26 @@
 {
-    "siteCount": 59696,
+    "siteCount": 59702,
     "recentlyMoved": [
+        {
+            "domain_name": "markhughesfoundation.com.au",
+            "destination": "Kinsta",
+            "date": "2025-04-09 02:04:21"
+        },
+        {
+            "domain_name": "criana.site",
+            "destination": "Kinsta",
+            "date": "2025-04-09 01:35:59"
+        },
+        {
+            "domain_name": "charlottecityguide.com",
+            "destination": "Hostinger",
+            "date": "2025-04-09 01:34:44"
+        },
+        {
+            "domain_name": "kingdomext.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-09 00:58:27"
+        },
         {
             "domain_name": "housatonicmeeting.org",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "ink19.com",
             "destination": "SiteGround",
             "date": "2025-04-07 16:58:33"
-        },
-        {
-            "domain_name": "bankerscompass.com",
-            "destination": "SiteGround",
-            "date": "2025-04-07 16:42:46"
-        },
-        {
-            "domain_name": "rc-detail.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-07 15:57:31"
-        },
-        {
-            "domain_name": "www.aihr.com",
-            "destination": "Kinsta",
-            "date": "2025-04-07 12:21:09"
-        },
-        {
-            "domain_name": "explorealife.com",
-            "destination": "SiteGround",
-            "date": "2025-04-07 10:42:17"
         }
     ],
     "dailyMovedStat": {
@@ -706,12 +706,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 9003,
-        "Kinsta": 3932,
+        "Kinsta": 3934,
         "Bluehost": 3876,
         "Digital Ocean": 3480,
-        "SiteGround": 3334,
-        "Hostinger": 2021,
-        "GoDaddy": 976,
+        "SiteGround": 3335,
+        "Hostinger": 2022,
+        "GoDaddy": 977,
         "BigScoots": 481,
         "Liquid Web": 387,
         "WordPress.com": 275,
