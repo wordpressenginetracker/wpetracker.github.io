@@ -1,6 +1,16 @@
 {
-    "siteCount": 59821,
+    "siteCount": 59833,
     "recentlyMoved": [
+        {
+            "domain_name": "scarmazzihomes.com",
+            "destination": "Kinsta",
+            "date": "2025-04-09 17:13:00"
+        },
+        {
+            "domain_name": "www.columbiasprings.org",
+            "destination": "Digital Ocean",
+            "date": "2025-04-09 16:47:49"
+        },
         {
             "domain_name": "assemblyhistoricheights.com",
             "destination": "Liquid Web",
@@ -462,11 +472,6 @@
             "date": "2025-04-08 16:54:16"
         },
         {
-            "domain_name": "bicyclesunlimited.com",
-            "destination": "SiteGround",
-            "date": "2025-04-08 16:54:07"
-        },
-        {
             "domain_name": "iwest.com",
             "destination": "SiteGround",
             "date": "2025-04-08 16:50:13"
@@ -495,11 +500,6 @@
             "domain_name": "inhibrx.com",
             "destination": "Pressable",
             "date": "2025-04-08 16:21:11"
-        },
-        {
-            "domain_name": "asgroup.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-08 16:05:43"
         }
     ],
     "dailyMovedStat": {
@@ -706,9 +706,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 9007,
-        "Kinsta": 3946,
+        "Kinsta": 3947,
         "Bluehost": 3877,
-        "Digital Ocean": 3494,
+        "Digital Ocean": 3495,
         "SiteGround": 3340,
         "Hostinger": 2026,
         "GoDaddy": 979,
