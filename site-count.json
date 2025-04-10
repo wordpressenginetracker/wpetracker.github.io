@@ -1,6 +1,11 @@
 {
-    "siteCount": 59948,
+    "siteCount": 59953,
     "recentlyMoved": [
+        {
+            "domain_name": "www.justcarpetsofprescot.com",
+            "destination": "Kinsta",
+            "date": "2025-04-10 04:50:20"
+        },
         {
             "domain_name": "h2greensteel.earth",
             "destination": "GoDaddy",
@@ -10,6 +15,11 @@
             "domain_name": "www.carolroyseteam.com",
             "destination": "SiteGround",
             "date": "2025-04-10 04:28:20"
+        },
+        {
+            "domain_name": "roxygage.com",
+            "destination": "WordPress.com",
+            "date": "2025-04-10 04:25:38"
         },
         {
             "domain_name": "hdships.com",
@@ -490,16 +500,6 @@
             "domain_name": "malvicastanedastore.com",
             "destination": "Hostinger",
             "date": "2025-04-08 21:44:37"
-        },
-        {
-            "domain_name": "www.montereybayeyecenter.com",
-            "destination": "Kinsta",
-            "date": "2025-04-08 20:59:10"
-        },
-        {
-            "domain_name": "klsphotographers.com",
-            "destination": "BigScoots",
-            "date": "2025-04-08 20:56:06"
         }
     ],
     "dailyMovedStat": {
@@ -707,15 +707,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 9009,
-        "Kinsta": 3955,
+        "Kinsta": 3956,
         "Bluehost": 3877,
-        "Digital Ocean": 3498,
+        "Digital Ocean": 3499,
         "SiteGround": 3346,
         "Hostinger": 2029,
         "GoDaddy": 982,
         "BigScoots": 484,
         "Liquid Web": 390,
-        "WordPress.com": 275,
+        "WordPress.com": 276,
         "Elementor Hosting": 273,
         "InMotion Hosting": 264,
         "GridPane": 263,
