@@ -1,6 +1,16 @@
 {
-    "siteCount": 60141,
+    "siteCount": 60153,
     "recentlyMoved": [
+        {
+            "domain_name": "brandedstrategic.com",
+            "destination": "WordPress.com",
+            "date": "2025-04-10 21:07:32"
+        },
+        {
+            "domain_name": "hivedevelopments.ca",
+            "destination": "SiteGround",
+            "date": "2025-04-10 20:31:37"
+        },
         {
             "domain_name": "parhamgroup.net",
             "destination": "HostGator",
@@ -490,16 +500,6 @@
             "domain_name": "www.columbiasprings.org",
             "destination": "Digital Ocean",
             "date": "2025-04-09 16:47:49"
-        },
-        {
-            "domain_name": "assemblyhistoricheights.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-09 16:42:04"
-        },
-        {
-            "domain_name": "guignardanimalclinic.com",
-            "destination": "GridPane",
-            "date": "2025-04-09 15:57:25"
         }
     ],
     "dailyMovedStat": {
@@ -710,12 +710,12 @@
         "Kinsta": 3972,
         "Bluehost": 3881,
         "Digital Ocean": 3513,
-        "SiteGround": 3358,
+        "SiteGround": 3359,
         "Hostinger": 2032,
         "GoDaddy": 985,
         "BigScoots": 484,
         "Liquid Web": 390,
-        "WordPress.com": 278,
+        "WordPress.com": 279,
         "Elementor Hosting": 274,
         "GridPane": 266,
         "InMotion Hosting": 266,
