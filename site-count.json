@@ -1,6 +1,16 @@
 {
-    "siteCount": 60321,
+    "siteCount": 60323,
     "recentlyMoved": [
+        {
+            "domain_name": "exams.prodoula.com",
+            "destination": "SiteGround",
+            "date": "2025-04-11 19:03:18"
+        },
+        {
+            "domain_name": "eustisroofing.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-11 18:52:07"
+        },
         {
             "domain_name": "tikiboatlongisland.com",
             "destination": "Hostinger",
@@ -472,11 +482,6 @@
             "date": "2025-04-10 13:26:38"
         },
         {
-            "domain_name": "autographixne.com",
-            "destination": "GridPane",
-            "date": "2025-04-10 12:39:19"
-        },
-        {
             "domain_name": "iresqshield.com",
             "destination": "Kinsta",
             "date": "2025-04-10 12:36:27"
@@ -490,11 +495,6 @@
             "domain_name": "roubenflooringsolutions.com",
             "destination": "Kinsta",
             "date": "2025-04-10 12:30:21"
-        },
-        {
-            "domain_name": "hakimfry.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-04-10 12:26:12"
         },
         {
             "domain_name": "hmwilliams.co.uk",
@@ -711,9 +711,9 @@
         "Kinsta": 3981,
         "Bluehost": 3882,
         "Digital Ocean": 3523,
-        "SiteGround": 3376,
+        "SiteGround": 3377,
         "Hostinger": 2042,
-        "GoDaddy": 986,
+        "GoDaddy": 987,
         "BigScoots": 485,
         "Liquid Web": 391,
         "WordPress.com": 282,
