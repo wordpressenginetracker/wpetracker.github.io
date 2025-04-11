@@ -1,6 +1,11 @@
 {
-    "siteCount": 60191,
+    "siteCount": 60196,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gnetconstruction.com",
+            "destination": "Hostinger",
+            "date": "2025-04-11 05:00:52"
+        },
         {
             "domain_name": "ramcoca.in",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "schoolsofperea.org",
             "destination": "Kinsta",
             "date": "2025-04-09 20:28:35"
-        },
-        {
-            "domain_name": "pompandclout.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-09 19:43:50"
         }
     ],
     "dailyMovedStat": {
@@ -710,9 +710,9 @@
         "Pressable": 9013,
         "Kinsta": 3975,
         "Bluehost": 3881,
-        "Digital Ocean": 3513,
+        "Digital Ocean": 3514,
         "SiteGround": 3359,
-        "Hostinger": 2034,
+        "Hostinger": 2035,
         "GoDaddy": 985,
         "BigScoots": 484,
         "Liquid Web": 390,
