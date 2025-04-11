@@ -1,6 +1,26 @@
 {
-    "siteCount": 60196,
+    "siteCount": 60201,
     "recentlyMoved": [
+        {
+            "domain_name": "thechantbrand.com",
+            "destination": "Namecheap",
+            "date": "2025-04-11 05:56:15"
+        },
+        {
+            "domain_name": "www.thepursuitnw.com",
+            "destination": "Hostinger",
+            "date": "2025-04-11 05:54:43"
+        },
+        {
+            "domain_name": "www.possumman.com.au",
+            "destination": "Hostinger",
+            "date": "2025-04-11 05:52:20"
+        },
+        {
+            "domain_name": "division1vending.com",
+            "destination": "SiteGround",
+            "date": "2025-04-11 05:44:48"
+        },
         {
             "domain_name": "www.gnetconstruction.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "shellesimonlaw.com",
             "destination": "SiteGround",
             "date": "2025-04-09 21:04:03"
-        },
-        {
-            "domain_name": "roncorrea.com",
-            "destination": "Kinsta",
-            "date": "2025-04-09 20:43:05"
-        },
-        {
-            "domain_name": "benefitspdx.org",
-            "destination": "SiteGround",
-            "date": "2025-04-09 20:41:45"
-        },
-        {
-            "domain_name": "reviveregen.com",
-            "destination": "Kinsta",
-            "date": "2025-04-09 20:36:44"
-        },
-        {
-            "domain_name": "schoolsofperea.org",
-            "destination": "Kinsta",
-            "date": "2025-04-09 20:28:35"
         }
     ],
     "dailyMovedStat": {
@@ -711,8 +711,8 @@
         "Kinsta": 3975,
         "Bluehost": 3881,
         "Digital Ocean": 3514,
-        "SiteGround": 3359,
-        "Hostinger": 2035,
+        "SiteGround": 3360,
+        "Hostinger": 2037,
         "GoDaddy": 985,
         "BigScoots": 484,
         "Liquid Web": 390,
@@ -722,7 +722,7 @@
         "InMotion Hosting": 266,
         "OVH": 228,
         "IONOS": 211,
-        "Namecheap": 207,
+        "Namecheap": 208,
         "DreamHost": 201,
         "A2 Hosting": 196,
         "Wordify": 178,
