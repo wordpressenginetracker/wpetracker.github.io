@@ -1,10 +1,45 @@
 {
-    "siteCount": 60570,
+    "siteCount": 60585,
     "recentlyMoved": [
+        {
+            "domain_name": "www.spinks-law.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-12 18:04:29"
+        },
+        {
+            "domain_name": "www.supercellroofing.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 17:58:38"
+        },
+        {
+            "domain_name": "lefaephoto.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 17:56:57"
+        },
+        {
+            "domain_name": "coronadoderm.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 17:56:23"
+        },
+        {
+            "domain_name": "summitxproperties.com",
+            "destination": "SiteGround",
+            "date": "2025-04-12 17:51:02"
+        },
         {
             "domain_name": "southeastsolarpros.com",
             "destination": "Wordify",
             "date": "2025-04-12 17:37:28"
+        },
+        {
+            "domain_name": "comfortmasters.net",
+            "destination": "SiteGround",
+            "date": "2025-04-12 17:16:27"
+        },
+        {
+            "domain_name": "cnslien.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 17:15:04"
         },
         {
             "domain_name": "www.novaeyecare.com",
@@ -462,44 +497,9 @@
             "date": "2025-04-11 17:40:19"
         },
         {
-            "domain_name": "www.jmfloridasolutions.com",
-            "destination": "Hostinger",
-            "date": "2025-04-11 17:19:53"
-        },
-        {
-            "domain_name": "saviimediamarketing.com",
-            "destination": "HostGator",
-            "date": "2025-04-11 17:12:41"
-        },
-        {
             "domain_name": "www.prodoula.com",
             "destination": "SiteGround",
             "date": "2025-04-11 17:11:13"
-        },
-        {
-            "domain_name": "www.numatgroup.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-11 16:59:37"
-        },
-        {
-            "domain_name": "www.lightshedphoto.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 16:43:55"
-        },
-        {
-            "domain_name": "campanyroofingny.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 16:33:40"
-        },
-        {
-            "domain_name": "idlewildchurch.org",
-            "destination": "Kinsta",
-            "date": "2025-04-11 16:28:12"
-        },
-        {
-            "domain_name": "borgesroofing.com",
-            "destination": "Pressable",
-            "date": "2025-04-11 16:23:13"
         }
     ],
     "dailyMovedStat": {
@@ -708,13 +708,13 @@
         "2025-04-11": "60411"
     },
     "topDestinationHosts": {
-        "Pressable": 9033,
-        "Kinsta": 4003,
+        "Pressable": 9037,
+        "Kinsta": 4004,
         "Bluehost": 3885,
         "Digital Ocean": 3532,
-        "SiteGround": 3391,
+        "SiteGround": 3393,
         "Hostinger": 2055,
-        "GoDaddy": 988,
+        "GoDaddy": 989,
         "BigScoots": 486,
         "Liquid Web": 393,
         "WordPress.com": 282,
@@ -726,7 +726,7 @@
         "Namecheap": 210,
         "DreamHost": 203,
         "A2 Hosting": 196,
-        "Wordify": 178,
+        "Wordify": 179,
         "Hetzner Online": 172
     },
     "dailyTotalStat": {
