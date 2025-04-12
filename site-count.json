@@ -1,10 +1,45 @@
 {
-    "siteCount": 60655,
+    "siteCount": 60664,
     "recentlyMoved": [
+        {
+            "domain_name": "www.serviceconversion.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 22:01:17"
+        },
+        {
+            "domain_name": "sthelenahistorytour.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-12 21:54:52"
+        },
+        {
+            "domain_name": "mallorybellphotography.com",
+            "destination": "BigScoots",
+            "date": "2025-04-12 21:46:04"
+        },
+        {
+            "domain_name": "collietrailsretreat.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-04-12 21:44:21"
+        },
+        {
+            "domain_name": "cmcelectrical.com",
+            "destination": "Pressable",
+            "date": "2025-04-12 21:34:41"
+        },
+        {
+            "domain_name": "www.tceyecenter.com",
+            "destination": "Kinsta",
+            "date": "2025-04-12 21:26:32"
+        },
         {
             "domain_name": "servicon.io",
             "destination": "Pressable",
             "date": "2025-04-12 21:25:54"
+        },
+        {
+            "domain_name": "lindavistafoundation.org",
+            "destination": "GoDaddy",
+            "date": "2025-04-12 21:13:55"
         },
         {
             "domain_name": "www.herringtonhomesllc.com",
@@ -465,41 +500,6 @@
             "domain_name": "www.thefalconsite.org",
             "destination": "Pressable",
             "date": "2025-04-11 21:24:32"
-        },
-        {
-            "domain_name": "cheapergreens.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 21:23:18"
-        },
-        {
-            "domain_name": "sheleanaaiyana.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 21:20:24"
-        },
-        {
-            "domain_name": "www.newyorkentspecialist.com",
-            "destination": "Kinsta",
-            "date": "2025-04-11 21:12:08"
-        },
-        {
-            "domain_name": "www.plsnyc.com",
-            "destination": "Hostinger",
-            "date": "2025-04-11 21:04:41"
-        },
-        {
-            "domain_name": "www.budandbreakfast.com",
-            "destination": "Pressable",
-            "date": "2025-04-11 20:22:01"
-        },
-        {
-            "domain_name": "atlona.com",
-            "destination": "Pressable",
-            "date": "2025-04-11 19:47:12"
-        },
-        {
-            "domain_name": "wrasafeme.org",
-            "destination": "Kinsta",
-            "date": "2025-04-11 19:41:58"
         }
     ],
     "dailyMovedStat": {
@@ -708,14 +708,14 @@
         "2025-04-11": "60411"
     },
     "topDestinationHosts": {
-        "Pressable": 9042,
-        "Kinsta": 4004,
+        "Pressable": 9044,
+        "Kinsta": 4005,
         "Bluehost": 3887,
-        "Digital Ocean": 3533,
+        "Digital Ocean": 3535,
         "SiteGround": 3394,
         "Hostinger": 2055,
-        "GoDaddy": 990,
-        "BigScoots": 487,
+        "GoDaddy": 991,
+        "BigScoots": 488,
         "Liquid Web": 393,
         "WordPress.com": 283,
         "Elementor Hosting": 276,
