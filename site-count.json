@@ -1,6 +1,16 @@
 {
-    "siteCount": 60665,
+    "siteCount": 60673,
     "recentlyMoved": [
+        {
+            "domain_name": "pnwheatingair.com",
+            "destination": "Pressable",
+            "date": "2025-04-13 00:10:17"
+        },
+        {
+            "domain_name": "freedomresidential.net",
+            "destination": "Pressable",
+            "date": "2025-04-12 23:28:51"
+        },
         {
             "domain_name": "www.serviceconversion.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "myiotabenefits.com",
             "destination": "SiteGround",
             "date": "2025-04-11 22:14:01"
-        },
-        {
-            "domain_name": "streampropertypartners.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 21:34:01"
-        },
-        {
-            "domain_name": "www.thefalconsite.org",
-            "destination": "Pressable",
-            "date": "2025-04-11 21:24:32"
         }
     ],
     "dailyMovedStat": {
@@ -709,7 +709,7 @@
         "2025-04-12": "60665"
     },
     "topDestinationHosts": {
-        "Pressable": 9044,
+        "Pressable": 9046,
         "Kinsta": 4005,
         "Bluehost": 3887,
         "Digital Ocean": 3535,
