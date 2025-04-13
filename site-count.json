@@ -1,6 +1,11 @@
 {
-    "siteCount": 60673,
+    "siteCount": 60676,
     "recentlyMoved": [
+        {
+            "domain_name": "cadmusgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-04-13 00:41:36"
+        },
         {
             "domain_name": "pnwheatingair.com",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-04-11 22:37:37"
         },
         {
-            "domain_name": "thesoutherncross.org.au",
-            "destination": "WordPress VIP",
-            "date": "2025-04-11 22:27:22"
-        },
-        {
             "domain_name": "nightmare-events.com",
             "destination": "Hostinger",
             "date": "2025-04-11 22:26:06"
@@ -710,7 +710,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9046,
-        "Kinsta": 4005,
+        "Kinsta": 4006,
         "Bluehost": 3887,
         "Digital Ocean": 3535,
         "SiteGround": 3394,
