@@ -1,6 +1,11 @@
 {
-    "siteCount": 60778,
+    "siteCount": 60783,
     "recentlyMoved": [
+        {
+            "domain_name": "ther3hotel.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-13 22:06:07"
+        },
         {
             "domain_name": "bbsconstruction.ca",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "pmil.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-04-12 11:36:38"
-        },
-        {
-            "domain_name": "plymouthport.org.uk",
-            "destination": "Kinsta",
-            "date": "2025-04-12 11:36:38"
         }
     ],
     "dailyMovedStat": {
@@ -712,7 +712,7 @@
         "Pressable": 9050,
         "Kinsta": 4015,
         "Bluehost": 3887,
-        "Digital Ocean": 3537,
+        "Digital Ocean": 3538,
         "SiteGround": 3401,
         "Hostinger": 2062,
         "GoDaddy": 991,
