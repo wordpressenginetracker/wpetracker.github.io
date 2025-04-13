@@ -1,6 +1,11 @@
 {
-    "siteCount": 60709,
+    "siteCount": 60712,
     "recentlyMoved": [
+        {
+            "domain_name": "pathways.episcopalatlanta.org",
+            "destination": "SiteGround",
+            "date": "2025-04-13 11:46:39"
+        },
         {
             "domain_name": "jetanibrothers.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.mtadlocklaw.com",
             "destination": "SiteGround",
             "date": "2025-04-12 05:38:39"
-        },
-        {
-            "domain_name": "pss-team.com",
-            "destination": "Hostinger",
-            "date": "2025-04-12 04:22:49"
         }
     ],
     "dailyMovedStat": {
@@ -713,7 +713,7 @@
         "Kinsta": 4008,
         "Bluehost": 3887,
         "Digital Ocean": 3536,
-        "SiteGround": 3396,
+        "SiteGround": 3397,
         "Hostinger": 2057,
         "GoDaddy": 991,
         "BigScoots": 488,
