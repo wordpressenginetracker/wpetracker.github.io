@@ -1,6 +1,26 @@
 {
-    "siteCount": 60683,
+    "siteCount": 60698,
     "recentlyMoved": [
+        {
+            "domain_name": "protectionvisaaustralia.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-04-13 04:25:31"
+        },
+        {
+            "domain_name": "ecosupplements.eu",
+            "destination": "Kinsta",
+            "date": "2025-04-13 04:24:44"
+        },
+        {
+            "domain_name": "stonerockdentalcare.com",
+            "destination": "SiteGround",
+            "date": "2025-04-13 03:34:47"
+        },
+        {
+            "domain_name": "opendoorsdi.org",
+            "destination": "Kinsta",
+            "date": "2025-04-13 03:25:17"
+        },
         {
             "domain_name": "eefkids.org",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "agilabharath.com",
             "destination": "Digital Ocean",
             "date": "2025-04-12 03:42:11"
-        },
-        {
-            "domain_name": "mytravel.agency",
-            "destination": "Bluehost",
-            "date": "2025-04-12 02:39:04"
-        },
-        {
-            "domain_name": "nikhilmurthy.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-12 02:15:30"
-        },
-        {
-            "domain_name": "interfreightservices.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-04-12 00:29:26"
-        },
-        {
-            "domain_name": "rdmiami.com",
-            "destination": "Hostinger",
-            "date": "2025-04-12 00:17:45"
         }
     ],
     "dailyMovedStat": {
@@ -710,10 +710,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 9049,
-        "Kinsta": 4006,
+        "Kinsta": 4008,
         "Bluehost": 3887,
-        "Digital Ocean": 3535,
-        "SiteGround": 3394,
+        "Digital Ocean": 3536,
+        "SiteGround": 3395,
         "Hostinger": 2056,
         "GoDaddy": 991,
         "BigScoots": 488,
