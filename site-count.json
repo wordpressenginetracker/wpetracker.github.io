@@ -1,6 +1,21 @@
 {
-    "siteCount": 60676,
+    "siteCount": 60682,
     "recentlyMoved": [
+        {
+            "domain_name": "crosbyattorney.com",
+            "destination": "Pressable",
+            "date": "2025-04-13 02:06:40"
+        },
+        {
+            "domain_name": "zocalito.com",
+            "destination": "Pressable",
+            "date": "2025-04-13 02:04:22"
+        },
+        {
+            "domain_name": "codyclan.net",
+            "destination": "Hostinger",
+            "date": "2025-04-13 01:54:27"
+        },
         {
             "domain_name": "cadmusgroup.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "healthscreen.com.au",
             "destination": "SiteGround",
             "date": "2025-04-12 00:08:41"
-        },
-        {
-            "domain_name": "unitedrentalsbenefits.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 22:37:37"
-        },
-        {
-            "domain_name": "nightmare-events.com",
-            "destination": "Hostinger",
-            "date": "2025-04-11 22:26:06"
-        },
-        {
-            "domain_name": "myiotabenefits.com",
-            "destination": "SiteGround",
-            "date": "2025-04-11 22:14:01"
         }
     ],
     "dailyMovedStat": {
@@ -709,12 +709,12 @@
         "2025-04-12": "60665"
     },
     "topDestinationHosts": {
-        "Pressable": 9046,
+        "Pressable": 9047,
         "Kinsta": 4006,
         "Bluehost": 3887,
         "Digital Ocean": 3535,
         "SiteGround": 3394,
-        "Hostinger": 2055,
+        "Hostinger": 2056,
         "GoDaddy": 991,
         "BigScoots": 488,
         "Liquid Web": 393,
