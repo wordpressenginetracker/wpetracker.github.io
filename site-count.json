@@ -1,6 +1,11 @@
 {
-    "siteCount": 60837,
+    "siteCount": 60841,
     "recentlyMoved": [
+        {
+            "domain_name": "bbtfeme.com",
+            "destination": "Hostinger",
+            "date": "2025-04-14 04:31:42"
+        },
         {
             "domain_name": "worryfreewanderings.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "spenceralbright.com",
             "destination": "Pressable",
             "date": "2025-04-12 13:16:59"
-        },
-        {
-            "domain_name": "www.msduk.org.uk",
-            "destination": "Hostinger",
-            "date": "2025-04-12 13:15:09"
         }
     ],
     "dailyMovedStat": {
@@ -715,7 +715,7 @@
         "Bluehost": 3887,
         "Digital Ocean": 3539,
         "SiteGround": 3404,
-        "Hostinger": 2063,
+        "Hostinger": 2064,
         "GoDaddy": 991,
         "BigScoots": 488,
         "Liquid Web": 394,
