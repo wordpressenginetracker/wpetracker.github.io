@@ -1,6 +1,16 @@
 {
-    "siteCount": 60859,
+    "siteCount": 60869,
     "recentlyMoved": [
+        {
+            "domain_name": "www.nacdsfoundation.org",
+            "destination": "Hostinger",
+            "date": "2025-04-14 11:23:35"
+        },
+        {
+            "domain_name": "aboutgiving.co.nz",
+            "destination": "Pressable",
+            "date": "2025-04-14 11:18:53"
+        },
         {
             "domain_name": "dreamoodle.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2025-04-12 14:03:53"
         },
         {
-            "domain_name": "www.summitatr.com",
-            "destination": "DreamHost",
-            "date": "2025-04-12 13:37:43"
-        },
-        {
             "domain_name": "thefirehousefitnesscenter.com",
             "destination": "Digital Ocean",
             "date": "2025-04-12 13:35:29"
-        },
-        {
-            "domain_name": "surpluscoatings.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 13:18:27"
         }
     ],
     "dailyMovedStat": {
@@ -710,12 +710,12 @@
         "2025-04-13": "60784"
     },
     "topDestinationHosts": {
-        "Pressable": 9051,
+        "Pressable": 9052,
         "Kinsta": 4016,
         "Bluehost": 3887,
         "Digital Ocean": 3539,
         "SiteGround": 3404,
-        "Hostinger": 2067,
+        "Hostinger": 2068,
         "GoDaddy": 991,
         "BigScoots": 488,
         "Liquid Web": 394,
