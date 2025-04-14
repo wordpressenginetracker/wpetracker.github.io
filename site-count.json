@@ -1,6 +1,16 @@
 {
-    "siteCount": 60811,
+    "siteCount": 60816,
     "recentlyMoved": [
+        {
+            "domain_name": "caseyzeman.com",
+            "destination": "Hostinger",
+            "date": "2025-04-14 01:42:21"
+        },
+        {
+            "domain_name": "riflecre.com",
+            "destination": "Pressable",
+            "date": "2025-04-14 00:50:04"
+        },
         {
             "domain_name": "pacificsecuritygroup.com.au",
             "destination": "SiteGround",
@@ -482,11 +492,6 @@
             "date": "2025-04-12 12:46:28"
         },
         {
-            "domain_name": "heihomehost.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 12:36:07"
-        },
-        {
             "domain_name": "ipo.org",
             "destination": "Kinsta",
             "date": "2025-04-12 12:27:58"
@@ -495,11 +500,6 @@
             "domain_name": "www.eliteplumbingandwater.com",
             "destination": "Pressable",
             "date": "2025-04-12 12:14:27"
-        },
-        {
-            "domain_name": "hipbonemarketing.com",
-            "destination": "Hostinger",
-            "date": "2025-04-12 12:04:29"
         }
     ],
     "dailyMovedStat": {
@@ -710,12 +710,12 @@
         "2025-04-13": "60784"
     },
     "topDestinationHosts": {
-        "Pressable": 9050,
+        "Pressable": 9051,
         "Kinsta": 4015,
         "Bluehost": 3887,
-        "Digital Ocean": 3538,
+        "Digital Ocean": 3539,
         "SiteGround": 3403,
-        "Hostinger": 2062,
+        "Hostinger": 2063,
         "GoDaddy": 991,
         "BigScoots": 488,
         "Liquid Web": 394,
