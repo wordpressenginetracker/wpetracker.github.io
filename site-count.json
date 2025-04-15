@@ -1,6 +1,11 @@
 {
-    "siteCount": 61171,
+    "siteCount": 61175,
     "recentlyMoved": [
+        {
+            "domain_name": "www.humbleoysterbar.com",
+            "destination": "SiteGround",
+            "date": "2025-04-15 20:30:27"
+        },
         {
             "domain_name": "performancepowdercoating.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.pharmacyvoter.org",
             "destination": "Hostinger",
             "date": "2025-04-13 16:09:51"
-        },
-        {
-            "domain_name": "fayetteacademy.org",
-            "destination": "Kinsta",
-            "date": "2025-04-13 15:25:15"
         }
     ],
     "dailyMovedStat": {
@@ -714,10 +714,10 @@
         "Pressable": 9061,
         "Kinsta": 4032,
         "Bluehost": 3889,
-        "Digital Ocean": 3548,
-        "SiteGround": 3420,
+        "Digital Ocean": 3549,
+        "SiteGround": 3421,
         "Hostinger": 2075,
-        "GoDaddy": 995,
+        "GoDaddy": 996,
         "BigScoots": 489,
         "Liquid Web": 395,
         "WordPress.com": 288,
@@ -727,7 +727,7 @@
         "OVH": 230,
         "IONOS": 213,
         "Namecheap": 213,
-        "DreamHost": 205,
+        "DreamHost": 206,
         "A2 Hosting": 199,
         "Wordify": 179,
         "Hetzner Online": 172
