@@ -1,6 +1,21 @@
 {
-    "siteCount": 60951,
+    "siteCount": 60958,
     "recentlyMoved": [
+        {
+            "domain_name": "www.casli.org",
+            "destination": "Kinsta",
+            "date": "2025-04-15 04:36:07"
+        },
+        {
+            "domain_name": "amdr.org",
+            "destination": "Kinsta",
+            "date": "2025-04-15 03:59:11"
+        },
+        {
+            "domain_name": "32web.agency",
+            "destination": "Hostinger",
+            "date": "2025-04-15 03:59:05"
+        },
         {
             "domain_name": "thepostsa.au",
             "destination": "WordPress VIP",
@@ -482,24 +497,9 @@
             "date": "2025-04-12 16:54:57"
         },
         {
-            "domain_name": "hotelsanbuena.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 16:38:33"
-        },
-        {
             "domain_name": "www.enduringlandscapes.com",
             "destination": "Pressable",
             "date": "2025-04-12 16:37:17"
-        },
-        {
-            "domain_name": "www.cifcamuebles.com",
-            "destination": "Hostinger",
-            "date": "2025-04-12 16:17:37"
-        },
-        {
-            "domain_name": "redfordagency.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-12 16:15:23"
         }
     ],
     "dailyMovedStat": {
@@ -712,11 +712,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9052,
-        "Kinsta": 4016,
+        "Kinsta": 4017,
         "Bluehost": 3888,
         "Digital Ocean": 3542,
         "SiteGround": 3412,
-        "Hostinger": 2071,
+        "Hostinger": 2072,
         "GoDaddy": 993,
         "BigScoots": 488,
         "Liquid Web": 394,
