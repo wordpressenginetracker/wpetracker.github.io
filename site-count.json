@@ -1,6 +1,11 @@
 {
-    "siteCount": 61012,
+    "siteCount": 61016,
     "recentlyMoved": [
+        {
+            "domain_name": "tsplearn.co.uk",
+            "destination": "WordPress.com",
+            "date": "2025-04-15 10:04:00"
+        },
         {
             "domain_name": "taycitiescleangrowth.scot",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "argylehairsolutions.com",
             "destination": "Bluehost",
             "date": "2025-04-12 19:54:45"
-        },
-        {
-            "domain_name": "comfortzoneacrepair.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 19:51:49"
         }
     ],
     "dailyMovedStat": {
@@ -720,7 +720,7 @@
         "GoDaddy": 994,
         "BigScoots": 488,
         "Liquid Web": 394,
-        "WordPress.com": 286,
+        "WordPress.com": 287,
         "Elementor Hosting": 276,
         "InMotion Hosting": 269,
         "GridPane": 267,
