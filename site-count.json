@@ -1,6 +1,21 @@
 {
-    "siteCount": 61183,
+    "siteCount": 61186,
     "recentlyMoved": [
+        {
+            "domain_name": "mybluemonkey.org",
+            "destination": "Liquid Web",
+            "date": "2025-04-15 22:59:42"
+        },
+        {
+            "domain_name": "mobileidworld.com",
+            "destination": "SiteGround",
+            "date": "2025-04-15 22:23:09"
+        },
+        {
+            "domain_name": "ewmlobby.com",
+            "destination": "GridPane",
+            "date": "2025-04-15 22:16:29"
+        },
         {
             "domain_name": "www.t2biosystems.com",
             "destination": "InMotion Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "sidecarmemories.com",
             "destination": "Digital Ocean",
             "date": "2025-04-13 17:01:00"
-        },
-        {
-            "domain_name": "jgboydlaw.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-13 16:42:04"
-        },
-        {
-            "domain_name": "atlona-asia.com.cn",
-            "destination": "Pressable",
-            "date": "2025-04-13 16:40:09"
-        },
-        {
-            "domain_name": "www.gbts.com.mx",
-            "destination": "Hostinger",
-            "date": "2025-04-13 16:36:33"
         }
     ],
     "dailyMovedStat": {
@@ -708,22 +708,23 @@
         "2025-04-11": "60411",
         "2025-04-12": "60665",
         "2025-04-13": "60784",
-        "2025-04-14": "60943"
+        "2025-04-14": "60943",
+        "2025-04-15": "61186"
     },
     "topDestinationHosts": {
         "Pressable": 9061,
         "Kinsta": 4032,
         "Bluehost": 3889,
         "Digital Ocean": 3549,
-        "SiteGround": 3421,
+        "SiteGround": 3422,
         "Hostinger": 2075,
         "GoDaddy": 996,
         "BigScoots": 489,
-        "Liquid Web": 395,
+        "Liquid Web": 396,
         "WordPress.com": 288,
         "Elementor Hosting": 276,
+        "GridPane": 270,
         "InMotion Hosting": 270,
-        "GridPane": 269,
         "OVH": 230,
         "IONOS": 213,
         "Namecheap": 213,
@@ -938,6 +939,7 @@
         "2025-04-11": "639382",
         "2025-04-12": "638654",
         "2025-04-13": "639187",
-        "2025-04-14": "637940"
+        "2025-04-14": "637940",
+        "2025-04-15": "637950"
     }
 }
