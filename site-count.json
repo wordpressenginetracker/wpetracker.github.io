@@ -1,6 +1,11 @@
 {
-    "siteCount": 61175,
+    "siteCount": 61183,
     "recentlyMoved": [
+        {
+            "domain_name": "www.t2biosystems.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-04-15 21:41:17"
+        },
         {
             "domain_name": "www.humbleoysterbar.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.gbts.com.mx",
             "destination": "Hostinger",
             "date": "2025-04-13 16:36:33"
-        },
-        {
-            "domain_name": "www.pharmacyvoter.org",
-            "destination": "Hostinger",
-            "date": "2025-04-13 16:09:51"
         }
     ],
     "dailyMovedStat": {
@@ -722,8 +722,8 @@
         "Liquid Web": 395,
         "WordPress.com": 288,
         "Elementor Hosting": 276,
+        "InMotion Hosting": 270,
         "GridPane": 269,
-        "InMotion Hosting": 269,
         "OVH": 230,
         "IONOS": 213,
         "Namecheap": 213,
