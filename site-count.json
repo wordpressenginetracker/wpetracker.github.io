@@ -1,6 +1,11 @@
 {
-    "siteCount": 61057,
+    "siteCount": 61063,
     "recentlyMoved": [
+        {
+            "domain_name": "visionwifi.com",
+            "destination": "Hostinger",
+            "date": "2025-04-15 15:08:08"
+        },
         {
             "domain_name": "modedevieinteriors.com",
             "destination": "GridPane",
@@ -10,6 +15,11 @@
             "domain_name": "zimtechsupplies.us",
             "destination": "Namecheap",
             "date": "2025-04-15 14:11:40"
+        },
+        {
+            "domain_name": "estebaninteriors.com",
+            "destination": "Pressable",
+            "date": "2025-04-15 14:09:17"
         },
         {
             "domain_name": "teignmouthharbour.com",
@@ -490,16 +500,6 @@
             "domain_name": "zocalito.com",
             "destination": "Pressable",
             "date": "2025-04-13 02:04:22"
-        },
-        {
-            "domain_name": "codyclan.net",
-            "destination": "Hostinger",
-            "date": "2025-04-13 01:54:27"
-        },
-        {
-            "domain_name": "cadmusgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-04-13 00:41:36"
         }
     ],
     "dailyMovedStat": {
@@ -711,12 +711,12 @@
         "2025-04-14": "60943"
     },
     "topDestinationHosts": {
-        "Pressable": 9059,
+        "Pressable": 9060,
         "Kinsta": 4027,
         "Bluehost": 3888,
         "Digital Ocean": 3546,
         "SiteGround": 3417,
-        "Hostinger": 2072,
+        "Hostinger": 2073,
         "GoDaddy": 994,
         "BigScoots": 488,
         "Liquid Web": 395,
