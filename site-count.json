@@ -1,6 +1,16 @@
 {
-    "siteCount": 60943,
+    "siteCount": 60948,
     "recentlyMoved": [
+        {
+            "domain_name": "paragontools.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-14 23:45:29"
+        },
+        {
+            "domain_name": "occ-ortho.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-14 23:05:14"
+        },
         {
             "domain_name": "transporterhouston.com",
             "destination": "Hostinger",
@@ -482,11 +492,6 @@
             "date": "2025-04-12 16:24:04"
         },
         {
-            "domain_name": "gracephx.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 16:21:04"
-        },
-        {
             "domain_name": "www.cifcamuebles.com",
             "destination": "Hostinger",
             "date": "2025-04-12 16:17:37"
@@ -495,11 +500,6 @@
             "domain_name": "redfordagency.com",
             "destination": "GoDaddy",
             "date": "2025-04-12 16:15:23"
-        },
-        {
-            "domain_name": "www.borderins.com",
-            "destination": "Hostinger",
-            "date": "2025-04-12 15:48:30"
         }
     ],
     "dailyMovedStat": {
@@ -715,9 +715,9 @@
         "Kinsta": 4016,
         "Bluehost": 3888,
         "Digital Ocean": 3542,
-        "SiteGround": 3411,
+        "SiteGround": 3412,
         "Hostinger": 2071,
-        "GoDaddy": 992,
+        "GoDaddy": 993,
         "BigScoots": 488,
         "Liquid Web": 394,
         "WordPress.com": 284,
