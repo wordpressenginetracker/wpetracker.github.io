@@ -1,6 +1,21 @@
 {
-    "siteCount": 60979,
+    "siteCount": 60993,
     "recentlyMoved": [
+        {
+            "domain_name": "hatchandnest.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-15 08:29:52"
+        },
+        {
+            "domain_name": "pandhlaw.com",
+            "destination": "Kinsta",
+            "date": "2025-04-15 07:45:53"
+        },
+        {
+            "domain_name": "paal.co",
+            "destination": "SiteGround",
+            "date": "2025-04-15 07:27:53"
+        },
         {
             "domain_name": "empirichealthyvending.com",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-04-12 17:58:38"
         },
         {
-            "domain_name": "lefaephoto.com",
-            "destination": "Pressable",
-            "date": "2025-04-12 17:56:57"
-        },
-        {
             "domain_name": "coronadoderm.com",
             "destination": "Pressable",
             "date": "2025-04-12 17:56:23"
-        },
-        {
-            "domain_name": "summitxproperties.com",
-            "destination": "SiteGround",
-            "date": "2025-04-12 17:51:02"
-        },
-        {
-            "domain_name": "comfortmasters.net",
-            "destination": "SiteGround",
-            "date": "2025-04-12 17:16:27"
         }
     ],
     "dailyMovedStat": {
@@ -712,12 +712,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 9056,
-        "Kinsta": 4019,
+        "Kinsta": 4020,
         "Bluehost": 3888,
         "Digital Ocean": 3544,
-        "SiteGround": 3413,
+        "SiteGround": 3414,
         "Hostinger": 2072,
-        "GoDaddy": 993,
+        "GoDaddy": 994,
         "BigScoots": 488,
         "Liquid Web": 394,
         "WordPress.com": 285,
