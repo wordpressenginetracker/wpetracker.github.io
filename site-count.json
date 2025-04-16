@@ -1,6 +1,31 @@
 {
-    "siteCount": 61218,
+    "siteCount": 61227,
     "recentlyMoved": [
+        {
+            "domain_name": "postbump.com.au",
+            "destination": "InMotion Hosting",
+            "date": "2025-04-16 04:26:04"
+        },
+        {
+            "domain_name": "pennyhawkphotographyco.com",
+            "destination": "Hetzner Online",
+            "date": "2025-04-16 04:18:30"
+        },
+        {
+            "domain_name": "opbrewco.com",
+            "destination": "A2 Hosting",
+            "date": "2025-04-16 04:00:37"
+        },
+        {
+            "domain_name": "flashlight360.com",
+            "destination": "SiteGround",
+            "date": "2025-04-16 03:28:38"
+        },
+        {
+            "domain_name": "onegoodshotphotography.com",
+            "destination": "BigScoots",
+            "date": "2025-04-16 03:13:07"
+        },
         {
             "domain_name": "monomalaysia.com",
             "destination": "WordPress.com",
@@ -475,31 +500,6 @@
             "domain_name": "www.regripit.com",
             "destination": "Hostinger",
             "date": "2025-04-14 05:53:21"
-        },
-        {
-            "domain_name": "bbtfeme.com",
-            "destination": "Hostinger",
-            "date": "2025-04-14 04:31:42"
-        },
-        {
-            "domain_name": "worryfreewanderings.com",
-            "destination": "Namecheap",
-            "date": "2025-04-14 04:04:17"
-        },
-        {
-            "domain_name": "discoverinterpreting.org",
-            "destination": "Kinsta",
-            "date": "2025-04-14 02:32:23"
-        },
-        {
-            "domain_name": "caseyzeman.com",
-            "destination": "Hostinger",
-            "date": "2025-04-14 01:42:21"
-        },
-        {
-            "domain_name": "spotlesscleaningnc.com",
-            "destination": "SiteGround",
-            "date": "2025-04-14 01:31:52"
         }
     ],
     "dailyMovedStat": {
@@ -716,22 +716,22 @@
         "Kinsta": 4032,
         "Bluehost": 3889,
         "Digital Ocean": 3550,
-        "SiteGround": 3423,
+        "SiteGround": 3424,
         "Hostinger": 2075,
         "GoDaddy": 997,
-        "BigScoots": 489,
+        "BigScoots": 490,
         "Liquid Web": 397,
         "WordPress.com": 291,
         "Elementor Hosting": 276,
+        "InMotion Hosting": 271,
         "GridPane": 270,
-        "InMotion Hosting": 270,
         "OVH": 231,
         "IONOS": 213,
         "Namecheap": 213,
         "DreamHost": 206,
-        "A2 Hosting": 200,
+        "A2 Hosting": 201,
         "Wordify": 179,
-        "Hetzner Online": 172
+        "Hetzner Online": 173
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
