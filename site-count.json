@@ -1,6 +1,16 @@
 {
-    "siteCount": 61433,
+    "siteCount": 61436,
     "recentlyMoved": [
+        {
+            "domain_name": "elizabethbroderick.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-16 22:12:04"
+        },
+        {
+            "domain_name": "echucamoamaholidayvillas.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-16 21:59:53"
+        },
         {
             "domain_name": "tchplumbing.com",
             "destination": "GridPane",
@@ -482,11 +492,6 @@
             "date": "2025-04-15 16:12:54"
         },
         {
-            "domain_name": "www.greatfallslawcenter.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-15 16:08:43"
-        },
-        {
             "domain_name": "partner-visa-australia.com.au",
             "destination": "Digital Ocean",
             "date": "2025-04-15 15:39:19"
@@ -495,11 +500,6 @@
             "domain_name": "wrongaboutgender.com",
             "destination": "Digital Ocean",
             "date": "2025-04-15 15:31:00"
-        },
-        {
-            "domain_name": "onemooresolutions.com",
-            "destination": "Bluehost",
-            "date": "2025-04-15 15:18:06"
         }
     ],
     "dailyMovedStat": {
@@ -709,14 +709,15 @@
         "2025-04-12": "60665",
         "2025-04-13": "60784",
         "2025-04-14": "60943",
-        "2025-04-15": "61186"
+        "2025-04-15": "61186",
+        "2025-04-16": "61436"
     },
     "topDestinationHosts": {
         "Pressable": 9068,
         "Kinsta": 4046,
         "Bluehost": 3891,
         "Digital Ocean": 3558,
-        "SiteGround": 3437,
+        "SiteGround": 3439,
         "Hostinger": 2086,
         "GoDaddy": 999,
         "BigScoots": 490,
@@ -940,6 +941,7 @@
         "2025-04-12": "638654",
         "2025-04-13": "639187",
         "2025-04-14": "637940",
-        "2025-04-15": "637950"
+        "2025-04-15": "637950",
+        "2025-04-16": "637207"
     }
 }
