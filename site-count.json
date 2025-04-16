@@ -1,6 +1,11 @@
 {
-    "siteCount": 61227,
+    "siteCount": 61231,
     "recentlyMoved": [
+        {
+            "domain_name": "jeremystandley.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-16 04:57:46"
+        },
         {
             "domain_name": "postbump.com.au",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "totalsurfacingsolutions.co.uk",
             "destination": "IONOS",
             "date": "2025-04-14 06:16:09"
-        },
-        {
-            "domain_name": "www.regripit.com",
-            "destination": "Hostinger",
-            "date": "2025-04-14 05:53:21"
         }
     ],
     "dailyMovedStat": {
@@ -715,7 +715,7 @@
         "Pressable": 9061,
         "Kinsta": 4032,
         "Bluehost": 3889,
-        "Digital Ocean": 3550,
+        "Digital Ocean": 3551,
         "SiteGround": 3424,
         "Hostinger": 2075,
         "GoDaddy": 997,
