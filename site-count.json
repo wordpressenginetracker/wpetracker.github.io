@@ -1,6 +1,16 @@
 {
-    "siteCount": 61186,
+    "siteCount": 61203,
     "recentlyMoved": [
+        {
+            "domain_name": "www.creospace.com.au",
+            "destination": "WordPress.com",
+            "date": "2025-04-16 00:33:41"
+        },
+        {
+            "domain_name": "accardicompanies.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-16 00:07:39"
+        },
         {
             "domain_name": "mybluemonkey.org",
             "destination": "Liquid Web",
@@ -490,16 +500,6 @@
             "domain_name": "thenyelawgroup.com",
             "destination": "Hostinger",
             "date": "2025-04-13 17:47:56"
-        },
-        {
-            "domain_name": "lichtefeldinc.com",
-            "destination": "SiteGround",
-            "date": "2025-04-13 17:24:28"
-        },
-        {
-            "domain_name": "sidecarmemories.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-13 17:01:00"
         }
     ],
     "dailyMovedStat": {
@@ -715,7 +715,7 @@
         "Pressable": 9061,
         "Kinsta": 4032,
         "Bluehost": 3889,
-        "Digital Ocean": 3549,
+        "Digital Ocean": 3550,
         "SiteGround": 3422,
         "Hostinger": 2075,
         "GoDaddy": 996,
