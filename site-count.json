@@ -1,6 +1,11 @@
 {
-    "siteCount": 61237,
+    "siteCount": 61241,
     "recentlyMoved": [
+        {
+            "domain_name": "vanavilfinearts.com",
+            "destination": "Hostinger",
+            "date": "2025-04-16 06:12:23"
+        },
         {
             "domain_name": "jeremystandley.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "stf.com.tr",
             "destination": "Hostinger",
             "date": "2025-04-14 09:20:47"
-        },
-        {
-            "domain_name": "totalsurfacingsolutions.co.uk",
-            "destination": "IONOS",
-            "date": "2025-04-14 06:16:09"
         }
     ],
     "dailyMovedStat": {
@@ -717,7 +717,7 @@
         "Bluehost": 3889,
         "Digital Ocean": 3551,
         "SiteGround": 3424,
-        "Hostinger": 2075,
+        "Hostinger": 2076,
         "GoDaddy": 997,
         "BigScoots": 490,
         "Liquid Web": 397,
