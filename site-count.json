@@ -1,15 +1,45 @@
 {
-    "siteCount": 61825,
+    "siteCount": 61850,
     "recentlyMoved": [
+        {
+            "domain_name": "isenbergerphoto.com",
+            "destination": "Kinsta",
+            "date": "2025-04-18 12:55:31"
+        },
+        {
+            "domain_name": "soulsvillecharterschool.org",
+            "destination": "Kinsta",
+            "date": "2025-04-18 12:50:39"
+        },
+        {
+            "domain_name": "satisbistro.com",
+            "destination": "Pressable",
+            "date": "2025-04-18 12:45:12"
+        },
+        {
+            "domain_name": "www.fsm.agency",
+            "destination": "Kinsta",
+            "date": "2025-04-18 12:41:46"
+        },
         {
             "domain_name": "quigleyac.com",
             "destination": "Kinsta",
             "date": "2025-04-18 12:31:34"
         },
         {
+            "domain_name": "www.jeritautomation.com",
+            "destination": "SiteGround",
+            "date": "2025-04-18 12:31:26"
+        },
+        {
             "domain_name": "anaheimcourtluxurytownhomes.com",
             "destination": "Hostinger",
             "date": "2025-04-18 12:17:55"
+        },
+        {
+            "domain_name": "benditinc.com",
+            "destination": "SiteGround",
+            "date": "2025-04-18 12:02:15"
         },
         {
             "domain_name": "greenacressewvac.com",
@@ -457,21 +487,6 @@
             "date": "2025-04-17 13:41:06"
         },
         {
-            "domain_name": "citycannabis.co",
-            "destination": "SiteGround",
-            "date": "2025-04-17 13:39:44"
-        },
-        {
-            "domain_name": "cfrealestateinvestments.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 13:39:43"
-        },
-        {
-            "domain_name": "cflofficials.com",
-            "destination": "Hostinger",
-            "date": "2025-04-17 13:39:43"
-        },
-        {
             "domain_name": "datafunctions.com",
             "destination": "Kinsta",
             "date": "2025-04-17 13:36:22"
@@ -482,24 +497,9 @@
             "date": "2025-04-17 13:19:57"
         },
         {
-            "domain_name": "bythewaytoday.org",
-            "destination": "Kinsta",
-            "date": "2025-04-17 13:11:29"
-        },
-        {
-            "domain_name": "skillsusatx.org",
-            "destination": "InMotion Hosting",
-            "date": "2025-04-17 13:10:37"
-        },
-        {
             "domain_name": "connectingcommunitiesconsulting.com",
             "destination": "Kinsta",
             "date": "2025-04-17 13:07:22"
-        },
-        {
-            "domain_name": "insuranceadvisorstn.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 12:23:45"
         }
     ],
     "dailyMovedStat": {
@@ -714,11 +714,11 @@
         "2025-04-17": "61735"
     },
     "topDestinationHosts": {
-        "Pressable": 9078,
-        "Kinsta": 4122,
+        "Pressable": 9079,
+        "Kinsta": 4126,
         "Bluehost": 3899,
         "Digital Ocean": 3578,
-        "SiteGround": 3461,
+        "SiteGround": 3463,
         "Hostinger": 2093,
         "GoDaddy": 1003,
         "BigScoots": 491,
