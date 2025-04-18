@@ -1,6 +1,21 @@
 {
-    "siteCount": 61768,
+    "siteCount": 61774,
     "recentlyMoved": [
+        {
+            "domain_name": "environmentalintegrity.org",
+            "destination": "Pressable",
+            "date": "2025-04-18 06:07:15"
+        },
+        {
+            "domain_name": "dkvendingllc.com",
+            "destination": "SiteGround",
+            "date": "2025-04-18 06:03:07"
+        },
+        {
+            "domain_name": "sws.am",
+            "destination": "Bluehost",
+            "date": "2025-04-18 06:00:04"
+        },
         {
             "domain_name": "sarafoods.co.in",
             "destination": "Digital Ocean",
@@ -482,24 +497,9 @@
             "date": "2025-04-17 12:02:01"
         },
         {
-            "domain_name": "garplift.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 11:56:08"
-        },
-        {
             "domain_name": "www.cosmeticdentistsblog.com",
             "destination": "Kinsta",
             "date": "2025-04-17 11:54:33"
-        },
-        {
-            "domain_name": "pecinteractive.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 11:54:17"
-        },
-        {
-            "domain_name": "frankiemazzapica.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 11:44:03"
         }
     ],
     "dailyMovedStat": {
@@ -716,9 +716,9 @@
     "topDestinationHosts": {
         "Pressable": 9073,
         "Kinsta": 4120,
-        "Bluehost": 3897,
+        "Bluehost": 3898,
         "Digital Ocean": 3577,
-        "SiteGround": 3458,
+        "SiteGround": 3459,
         "Hostinger": 2092,
         "GoDaddy": 1003,
         "BigScoots": 491,
