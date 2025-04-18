@@ -1,6 +1,21 @@
 {
-    "siteCount": 61754,
+    "siteCount": 61760,
     "recentlyMoved": [
+        {
+            "domain_name": "tadairenterprises.com",
+            "destination": "Kinsta",
+            "date": "2025-04-18 01:53:29"
+        },
+        {
+            "domain_name": "theacademygroup.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-18 01:52:22"
+        },
+        {
+            "domain_name": "www.riteboiler.com",
+            "destination": "Kinsta",
+            "date": "2025-04-18 01:38:29"
+        },
         {
             "domain_name": "sarahstephens.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "underwoodac.com",
             "destination": "SiteGround",
             "date": "2025-04-17 10:04:36"
-        },
-        {
-            "domain_name": "lizardloungecr.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 09:47:20"
-        },
-        {
-            "domain_name": "www.yewtreebath.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-04-17 09:46:24"
-        },
-        {
-            "domain_name": "claritydiagnostics.com",
-            "destination": "SiteGround",
-            "date": "2025-04-17 09:12:49"
         }
     ],
     "dailyMovedStat": {
@@ -715,9 +715,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 9073,
-        "Kinsta": 4118,
+        "Kinsta": 4120,
         "Bluehost": 3897,
-        "Digital Ocean": 3574,
+        "Digital Ocean": 3576,
         "SiteGround": 3457,
         "Hostinger": 2092,
         "GoDaddy": 1002,
