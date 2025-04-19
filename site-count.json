@@ -1,6 +1,21 @@
 {
-    "siteCount": 62026,
+    "siteCount": 62031,
     "recentlyMoved": [
+        {
+            "domain_name": "travelshaykh.com",
+            "destination": "Hostinger",
+            "date": "2025-04-19 02:34:22"
+        },
+        {
+            "domain_name": "digitalipservices.com",
+            "destination": "SiteGround",
+            "date": "2025-04-19 01:50:19"
+        },
+        {
+            "domain_name": "thebsblog.com",
+            "destination": "SiteGround",
+            "date": "2025-04-19 01:47:03"
+        },
         {
             "domain_name": "spiritoftheswamp.com",
             "destination": "WordPress VIP",
@@ -467,16 +482,6 @@
             "date": "2025-04-17 22:21:54"
         },
         {
-            "domain_name": "tanglewoodanimalhospital.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 22:09:54"
-        },
-        {
-            "domain_name": "tadahsweets.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 21:54:54"
-        },
-        {
             "domain_name": "mchcustombuilders.com",
             "destination": "Kinsta",
             "date": "2025-04-17 21:49:08"
@@ -495,11 +500,6 @@
             "domain_name": "thebeardedbakertx.com",
             "destination": "Kinsta",
             "date": "2025-04-17 21:40:24"
-        },
-        {
-            "domain_name": "loudellalane.com",
-            "destination": "Kinsta",
-            "date": "2025-04-17 21:26:12"
         }
     ],
     "dailyMovedStat": {
@@ -719,8 +719,8 @@
         "Kinsta": 4138,
         "Bluehost": 3902,
         "Digital Ocean": 3585,
-        "SiteGround": 3473,
-        "Hostinger": 2100,
+        "SiteGround": 3475,
+        "Hostinger": 2101,
         "GoDaddy": 1008,
         "BigScoots": 491,
         "Liquid Web": 403,
