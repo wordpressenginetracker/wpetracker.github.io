@@ -1,6 +1,11 @@
 {
-    "siteCount": 62277,
+    "siteCount": 62283,
     "recentlyMoved": [
+        {
+            "domain_name": "contigoranchfredericksburg.com",
+            "destination": "Bluehost",
+            "date": "2025-04-20 17:12:07"
+        },
         {
             "domain_name": "www.architectsbydesign.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "animalemergencydeland.com",
             "destination": "GridPane",
             "date": "2025-04-18 20:25:04"
-        },
-        {
-            "domain_name": "www.landmarkabstract.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-18 20:10:20"
         }
     ],
     "dailyMovedStat": {
@@ -718,7 +718,7 @@
     "topDestinationHosts": {
         "Pressable": 9091,
         "Kinsta": 4162,
-        "Bluehost": 3905,
+        "Bluehost": 3906,
         "Digital Ocean": 3592,
         "SiteGround": 3485,
         "Hostinger": 2123,
