@@ -1,6 +1,11 @@
 {
-    "siteCount": 62232,
+    "siteCount": 62236,
     "recentlyMoved": [
+        {
+            "domain_name": "milliganpusateri.com",
+            "destination": "Bluehost",
+            "date": "2025-04-20 10:23:34"
+        },
         {
             "domain_name": "bnibrookline.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "tayloredcontent.com",
             "destination": "Hostinger",
             "date": "2025-04-18 17:19:11"
-        },
-        {
-            "domain_name": "crossfit4551.com.au",
-            "destination": "Hostinger",
-            "date": "2025-04-18 17:13:38"
         }
     ],
     "dailyMovedStat": {
@@ -718,7 +718,7 @@
     "topDestinationHosts": {
         "Pressable": 9089,
         "Kinsta": 4159,
-        "Bluehost": 3904,
+        "Bluehost": 3905,
         "Digital Ocean": 3592,
         "SiteGround": 3484,
         "Hostinger": 2120,
