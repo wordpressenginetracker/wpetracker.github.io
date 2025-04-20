@@ -1,6 +1,11 @@
 {
-    "siteCount": 62299,
+    "siteCount": 62302,
     "recentlyMoved": [
+        {
+            "domain_name": "rootedinawareness.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-20 20:52:34"
+        },
         {
             "domain_name": "go4exim.co.in",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-04-18 21:07:55"
         },
         {
-            "domain_name": "jamachi.com",
-            "destination": "Namecheap",
-            "date": "2025-04-18 20:46:40"
-        },
-        {
             "domain_name": "kandafamily.com",
             "destination": "Kinsta",
             "date": "2025-04-18 20:41:38"
@@ -719,7 +719,7 @@
         "Pressable": 9091,
         "Kinsta": 4162,
         "Bluehost": 3906,
-        "Digital Ocean": 3594,
+        "Digital Ocean": 3595,
         "SiteGround": 3486,
         "Hostinger": 2124,
         "GoDaddy": 1012,
