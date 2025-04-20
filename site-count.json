@@ -1,6 +1,11 @@
 {
-    "siteCount": 62206,
+    "siteCount": 62209,
     "recentlyMoved": [
+        {
+            "domain_name": "nysenterprises.com",
+            "destination": "WordPress.com",
+            "date": "2025-04-19 23:32:57"
+        },
         {
             "domain_name": "explainingantisemitism.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-04-18 17:02:37"
         },
         {
-            "domain_name": "join.liveops.com",
-            "destination": "Kinsta",
-            "date": "2025-04-18 17:02:02"
-        },
-        {
             "domain_name": "stabilis-solutions.com",
             "destination": "Liquid Web",
             "date": "2025-04-18 17:01:52"
@@ -725,7 +725,7 @@
         "GoDaddy": 1011,
         "BigScoots": 493,
         "Liquid Web": 404,
-        "WordPress.com": 293,
+        "WordPress.com": 294,
         "GridPane": 282,
         "InMotion Hosting": 277,
         "Elementor Hosting": 276,
@@ -735,7 +735,7 @@
         "DreamHost": 210,
         "A2 Hosting": 201,
         "Wordify": 181,
-        "Hetzner Online": 175
+        "Hetzner Online": 176
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
