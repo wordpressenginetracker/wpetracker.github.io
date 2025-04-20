@@ -1,6 +1,21 @@
 {
-    "siteCount": 62253,
+    "siteCount": 62275,
     "recentlyMoved": [
+        {
+            "domain_name": "www.architectsbydesign.com",
+            "destination": "Pressable",
+            "date": "2025-04-20 16:15:10"
+        },
+        {
+            "domain_name": "alliant-ebc.com",
+            "destination": "SiteGround",
+            "date": "2025-04-20 16:05:49"
+        },
+        {
+            "domain_name": "gomopress.com",
+            "destination": "WordPress.com",
+            "date": "2025-04-20 15:41:34"
+        },
         {
             "domain_name": "myfamilyspring.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "www.landmarkabstract.com",
             "destination": "Liquid Web",
             "date": "2025-04-18 20:10:20"
-        },
-        {
-            "domain_name": "nerdface.com",
-            "destination": "Bluehost",
-            "date": "2025-04-18 18:43:12"
-        },
-        {
-            "domain_name": "eightone.ca",
-            "destination": "DreamHost",
-            "date": "2025-04-18 18:37:33"
-        },
-        {
-            "domain_name": "murraywealthgroup.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-18 17:53:10"
         }
     ],
     "dailyMovedStat": {
@@ -716,16 +716,16 @@
         "2025-04-19": "62206"
     },
     "topDestinationHosts": {
-        "Pressable": 9090,
+        "Pressable": 9091,
         "Kinsta": 4162,
         "Bluehost": 3905,
         "Digital Ocean": 3592,
-        "SiteGround": 3484,
+        "SiteGround": 3485,
         "Hostinger": 2123,
         "GoDaddy": 1012,
         "BigScoots": 493,
         "Liquid Web": 404,
-        "WordPress.com": 294,
+        "WordPress.com": 295,
         "GridPane": 282,
         "InMotion Hosting": 277,
         "Elementor Hosting": 276,
