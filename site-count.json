@@ -1,6 +1,11 @@
 {
-    "siteCount": 62414,
+    "siteCount": 62420,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cvh4h.org",
+            "destination": "GoDaddy",
+            "date": "2025-04-21 20:36:07"
+        },
         {
             "domain_name": "wildwoodplaytherapy.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "wellmadestrategy.com",
             "destination": "Hostinger",
             "date": "2025-04-19 11:19:07"
-        },
-        {
-            "domain_name": "tvlstransports.com",
-            "destination": "Hostinger",
-            "date": "2025-04-19 09:47:36"
         }
     ],
     "dailyMovedStat": {
@@ -723,7 +723,7 @@
         "Digital Ocean": 3596,
         "SiteGround": 3491,
         "Hostinger": 2131,
-        "GoDaddy": 1014,
+        "GoDaddy": 1015,
         "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 297,
