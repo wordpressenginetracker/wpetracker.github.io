@@ -1,6 +1,11 @@
 {
-    "siteCount": 62381,
+    "siteCount": 62383,
     "recentlyMoved": [
+        {
+            "domain_name": "uwayac.org",
+            "destination": "WordPress.com",
+            "date": "2025-04-21 18:27:29"
+        },
         {
             "domain_name": "www.dermaluxespa.com",
             "destination": "GoDaddy",
@@ -492,11 +497,6 @@
             "date": "2025-04-19 10:16:15"
         },
         {
-            "domain_name": "www.seo149.com",
-            "destination": "HostGator",
-            "date": "2025-04-19 10:02:06"
-        },
-        {
             "domain_name": "tvlstransports.com",
             "destination": "Hostinger",
             "date": "2025-04-19 09:47:36"
@@ -726,7 +726,7 @@
         "GoDaddy": 1014,
         "BigScoots": 493,
         "Liquid Web": 405,
-        "WordPress.com": 296,
+        "WordPress.com": 297,
         "GridPane": 282,
         "InMotion Hosting": 277,
         "Elementor Hosting": 276,
