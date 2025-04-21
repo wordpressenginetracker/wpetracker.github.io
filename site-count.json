@@ -1,6 +1,11 @@
 {
-    "siteCount": 62319,
+    "siteCount": 62325,
     "recentlyMoved": [
+        {
+            "domain_name": "minglecity.com",
+            "destination": "SiteGround",
+            "date": "2025-04-21 01:43:22"
+        },
         {
             "domain_name": "heinous.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "spiritoftheswamp.com",
             "destination": "WordPress VIP",
             "date": "2025-04-19 01:23:42"
-        },
-        {
-            "domain_name": "www.cuttingedgeelectric.net",
-            "destination": "SiteGround",
-            "date": "2025-04-19 00:41:39"
         }
     ],
     "dailyMovedStat": {
@@ -721,7 +721,7 @@
         "Kinsta": 4162,
         "Bluehost": 3906,
         "Digital Ocean": 3596,
-        "SiteGround": 3487,
+        "SiteGround": 3488,
         "Hostinger": 2125,
         "GoDaddy": 1012,
         "BigScoots": 493,
