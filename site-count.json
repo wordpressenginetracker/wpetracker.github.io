@@ -1,6 +1,11 @@
 {
-    "siteCount": 62375,
+    "siteCount": 62379,
     "recentlyMoved": [
+        {
+            "domain_name": "roosterfishboats.com",
+            "destination": "Hostinger",
+            "date": "2025-04-21 16:21:18"
+        },
         {
             "domain_name": "babyloncares.org",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "tyringhaminitiative.com",
             "destination": "Hostinger",
             "date": "2025-04-19 06:30:31"
-        },
-        {
-            "domain_name": "madurairifleclub.in",
-            "destination": "GoDaddy",
-            "date": "2025-04-19 05:19:06"
         }
     ],
     "dailyMovedStat": {
@@ -722,8 +722,8 @@
         "Bluehost": 3906,
         "Digital Ocean": 3596,
         "SiteGround": 3490,
-        "Hostinger": 2129,
-        "GoDaddy": 1012,
+        "Hostinger": 2130,
+        "GoDaddy": 1013,
         "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 296,
