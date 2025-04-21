@@ -1,6 +1,11 @@
 {
-    "siteCount": 62353,
+    "siteCount": 62355,
     "recentlyMoved": [
+        {
+            "domain_name": "alfatradingindianspices.com",
+            "destination": "Hostinger",
+            "date": "2025-04-21 11:39:39"
+        },
         {
             "domain_name": "unitechpest.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "travelshaykh.com",
             "destination": "Hostinger",
             "date": "2025-04-19 02:34:22"
-        },
-        {
-            "domain_name": "digitalipservices.com",
-            "destination": "SiteGround",
-            "date": "2025-04-19 01:50:19"
         }
     ],
     "dailyMovedStat": {
@@ -722,7 +722,7 @@
         "Bluehost": 3906,
         "Digital Ocean": 3596,
         "SiteGround": 3490,
-        "Hostinger": 2125,
+        "Hostinger": 2126,
         "GoDaddy": 1012,
         "BigScoots": 493,
         "Liquid Web": 405,
