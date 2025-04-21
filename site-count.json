@@ -1,6 +1,11 @@
 {
-    "siteCount": 62379,
+    "siteCount": 62381,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dermaluxespa.com",
+            "destination": "GoDaddy",
+            "date": "2025-04-21 17:48:23"
+        },
         {
             "domain_name": "roosterfishboats.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "tvlstransports.com",
             "destination": "Hostinger",
             "date": "2025-04-19 09:47:36"
-        },
-        {
-            "domain_name": "tyringhaminitiative.com",
-            "destination": "Hostinger",
-            "date": "2025-04-19 06:30:31"
         }
     ],
     "dailyMovedStat": {
@@ -723,7 +723,7 @@
         "Digital Ocean": 3596,
         "SiteGround": 3490,
         "Hostinger": 2130,
-        "GoDaddy": 1013,
+        "GoDaddy": 1014,
         "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 296,
