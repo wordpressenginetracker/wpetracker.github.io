@@ -1,6 +1,46 @@
 {
-    "siteCount": 62553,
+    "siteCount": 62566,
     "recentlyMoved": [
+        {
+            "domain_name": "everestwindows.ca",
+            "destination": "IONOS",
+            "date": "2025-04-22 18:57:39"
+        },
+        {
+            "domain_name": "momandmitchell.org",
+            "destination": "GoDaddy",
+            "date": "2025-04-22 18:52:16"
+        },
+        {
+            "domain_name": "naplesmeridian.com",
+            "destination": "Hostinger",
+            "date": "2025-04-22 18:38:35"
+        },
+        {
+            "domain_name": "globalami.org",
+            "destination": "Hostinger",
+            "date": "2025-04-22 18:22:43"
+        },
+        {
+            "domain_name": "eyesonthenorthoptometry.com",
+            "destination": "Hostinger",
+            "date": "2025-04-22 18:22:43"
+        },
+        {
+            "domain_name": "familyskillbuilders.org",
+            "destination": "SiteGround",
+            "date": "2025-04-22 18:21:52"
+        },
+        {
+            "domain_name": "torontowhiteboardvideos.ca",
+            "destination": "Hostinger",
+            "date": "2025-04-22 18:05:38"
+        },
+        {
+            "domain_name": "testimonialvideos.ca",
+            "destination": "Hostinger",
+            "date": "2025-04-22 18:05:38"
+        },
         {
             "domain_name": "cookseypr.com",
             "destination": "SiteGround",
@@ -460,46 +500,6 @@
             "domain_name": "explainingantisemitism.com",
             "destination": "Hostinger",
             "date": "2025-04-19 22:29:40"
-        },
-        {
-            "domain_name": "lucidworks.com",
-            "destination": "Kinsta",
-            "date": "2025-04-19 22:06:59"
-        },
-        {
-            "domain_name": "www.wisechoicemedicine.com",
-            "destination": "Pressable",
-            "date": "2025-04-19 21:54:44"
-        },
-        {
-            "domain_name": "www.risinglightcounseling.com",
-            "destination": "BigScoots",
-            "date": "2025-04-19 21:29:26"
-        },
-        {
-            "domain_name": "susanslome.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-19 21:27:46"
-        },
-        {
-            "domain_name": "rigosroofinginstallersinc.com",
-            "destination": "Kinsta",
-            "date": "2025-04-19 20:45:54"
-        },
-        {
-            "domain_name": "cannaregroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-19 20:43:22"
-        },
-        {
-            "domain_name": "www.comodynes.net",
-            "destination": "BigScoots",
-            "date": "2025-04-19 20:37:41"
-        },
-        {
-            "domain_name": "alliantglobal.com",
-            "destination": "Kinsta",
-            "date": "2025-04-19 19:49:41"
         }
     ],
     "dailyMovedStat": {
@@ -718,13 +718,13 @@
         "2025-04-21": "62425"
     },
     "topDestinationHosts": {
-        "Pressable": 9095,
+        "Pressable": 9096,
         "Kinsta": 4173,
         "Bluehost": 3908,
         "Digital Ocean": 3597,
-        "SiteGround": 3502,
-        "Hostinger": 2146,
-        "GoDaddy": 1016,
+        "SiteGround": 3503,
+        "Hostinger": 2151,
+        "GoDaddy": 1017,
         "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 298,
@@ -732,8 +732,8 @@
         "InMotion Hosting": 278,
         "Elementor Hosting": 276,
         "OVH": 236,
+        "IONOS": 216,
         "Namecheap": 216,
-        "IONOS": 215,
         "DreamHost": 210,
         "A2 Hosting": 202,
         "Wordify": 181,
