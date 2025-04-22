@@ -1,6 +1,26 @@
 {
-    "siteCount": 62631,
+    "siteCount": 62639,
     "recentlyMoved": [
+        {
+            "domain_name": "tjsteph.com",
+            "destination": "SiteGround",
+            "date": "2025-04-22 22:55:35"
+        },
+        {
+            "domain_name": "tohimtheglory.com",
+            "destination": "Hostinger",
+            "date": "2025-04-22 22:52:35"
+        },
+        {
+            "domain_name": "nebraskadoorandwindow.com",
+            "destination": "Hostinger",
+            "date": "2025-04-22 22:21:53"
+        },
+        {
+            "domain_name": "michellesmith.me",
+            "destination": "SiteGround",
+            "date": "2025-04-22 22:11:43"
+        },
         {
             "domain_name": "libertylive.us",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "myfamilyspring.com",
             "destination": "Kinsta",
             "date": "2025-04-20 14:07:38"
-        },
-        {
-            "domain_name": "street.thebentway.ca",
-            "destination": "Kinsta",
-            "date": "2025-04-20 13:17:07"
-        },
-        {
-            "domain_name": "cloudreplica.com",
-            "destination": "Kinsta",
-            "date": "2025-04-20 12:58:51"
-        },
-        {
-            "domain_name": "benthamdentalclinic.ca",
-            "destination": "Hostinger",
-            "date": "2025-04-20 12:25:56"
-        },
-        {
-            "domain_name": "annamalaitraders.com",
-            "destination": "Hostinger",
-            "date": "2025-04-20 12:15:50"
         }
     ],
     "dailyMovedStat": {
@@ -715,15 +715,16 @@
         "2025-04-18": "62014",
         "2025-04-19": "62206",
         "2025-04-20": "62308",
-        "2025-04-21": "62425"
+        "2025-04-21": "62425",
+        "2025-04-22": "62639"
     },
     "topDestinationHosts": {
         "Pressable": 9098,
         "Kinsta": 4174,
         "Bluehost": 3908,
         "Digital Ocean": 3599,
-        "SiteGround": 3508,
-        "Hostinger": 2153,
+        "SiteGround": 3510,
+        "Hostinger": 2155,
         "GoDaddy": 1017,
         "BigScoots": 493,
         "Liquid Web": 405,
@@ -952,6 +953,7 @@
         "2025-04-18": "636114",
         "2025-04-19": "635826",
         "2025-04-20": "636609",
-        "2025-04-21": "635938"
+        "2025-04-21": "635938",
+        "2025-04-22": "635035"
     }
 }
