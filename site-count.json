@@ -1,10 +1,25 @@
 {
-    "siteCount": 62429,
+    "siteCount": 62436,
     "recentlyMoved": [
+        {
+            "domain_name": "semanstrees.com",
+            "destination": "SiteGround",
+            "date": "2025-04-22 01:04:02"
+        },
+        {
+            "domain_name": "catherinewrites.com",
+            "destination": "SiteGround",
+            "date": "2025-04-22 00:56:36"
+        },
         {
             "domain_name": "greenthumblawnservice.net",
             "destination": "Hostinger",
             "date": "2025-04-22 00:23:00"
+        },
+        {
+            "domain_name": "www.empowerbd.org",
+            "destination": "Hostinger",
+            "date": "2025-04-22 00:07:27"
         },
         {
             "domain_name": "anvilroofers.com",
@@ -485,21 +500,6 @@
             "domain_name": "bhdentures.com",
             "destination": "SiteGround",
             "date": "2025-04-19 12:14:40"
-        },
-        {
-            "domain_name": "prppaininstitute.com",
-            "destination": "Kinsta",
-            "date": "2025-04-19 12:03:03"
-        },
-        {
-            "domain_name": "propheticwordofhope.com",
-            "destination": "Kinsta",
-            "date": "2025-04-19 12:02:37"
-        },
-        {
-            "domain_name": "www.the2020plan.org",
-            "destination": "Hostinger",
-            "date": "2025-04-19 11:59:35"
         }
     ],
     "dailyMovedStat": {
@@ -722,8 +722,8 @@
         "Kinsta": 4164,
         "Bluehost": 3906,
         "Digital Ocean": 3596,
-        "SiteGround": 3492,
-        "Hostinger": 2132,
+        "SiteGround": 3494,
+        "Hostinger": 2133,
         "GoDaddy": 1015,
         "BigScoots": 493,
         "Liquid Web": 405,
