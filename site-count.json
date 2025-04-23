@@ -1,6 +1,21 @@
 {
-    "siteCount": 62652,
+    "siteCount": 62663,
     "recentlyMoved": [
+        {
+            "domain_name": "havenhouseinn.uk",
+            "destination": "Hostinger",
+            "date": "2025-04-23 03:59:31"
+        },
+        {
+            "domain_name": "gibsonbusinessperformance.info",
+            "destination": "Digital Ocean",
+            "date": "2025-04-23 03:39:06"
+        },
+        {
+            "domain_name": "octopus-app.com",
+            "destination": "SiteGround",
+            "date": "2025-04-23 03:11:16"
+        },
         {
             "domain_name": "networking.cards",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "heinous.com",
             "destination": "SiteGround",
             "date": "2025-04-21 00:30:03"
-        },
-        {
-            "domain_name": "plsdotell.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-21 00:14:08"
-        },
-        {
-            "domain_name": "amirthaagro.com",
-            "destination": "Hostinger",
-            "date": "2025-04-20 23:59:30"
-        },
-        {
-            "domain_name": "gltaco.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-20 23:56:40"
         }
     ],
     "dailyMovedStat": {
@@ -722,9 +722,9 @@
         "Pressable": 9098,
         "Kinsta": 4177,
         "Bluehost": 3908,
-        "Digital Ocean": 3599,
-        "SiteGround": 3512,
-        "Hostinger": 2158,
+        "Digital Ocean": 3600,
+        "SiteGround": 3513,
+        "Hostinger": 2159,
         "GoDaddy": 1017,
         "BigScoots": 493,
         "Liquid Web": 405,
