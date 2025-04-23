@@ -1,6 +1,16 @@
 {
-    "siteCount": 62644,
+    "siteCount": 62647,
     "recentlyMoved": [
+        {
+            "domain_name": "schoenstatt.com",
+            "destination": "IONOS",
+            "date": "2025-04-23 00:55:21"
+        },
+        {
+            "domain_name": "celebrantinternational.com",
+            "destination": "Hostinger",
+            "date": "2025-04-23 00:52:36"
+        },
         {
             "domain_name": "heartofthehealer.org",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "womenendingprohibition.org",
             "destination": "Digital Ocean",
             "date": "2025-04-20 19:39:23"
-        },
-        {
-            "domain_name": "contigoranchfredericksburg.com",
-            "destination": "Bluehost",
-            "date": "2025-04-20 17:12:07"
-        },
-        {
-            "domain_name": "gomopress.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-20 15:41:34"
         }
     ],
     "dailyMovedStat": {
@@ -724,7 +724,7 @@
         "Bluehost": 3908,
         "Digital Ocean": 3599,
         "SiteGround": 3510,
-        "Hostinger": 2155,
+        "Hostinger": 2157,
         "GoDaddy": 1017,
         "BigScoots": 493,
         "Liquid Web": 405,
@@ -733,7 +733,7 @@
         "InMotion Hosting": 278,
         "Elementor Hosting": 276,
         "OVH": 236,
-        "IONOS": 216,
+        "IONOS": 217,
         "Namecheap": 216,
         "DreamHost": 210,
         "A2 Hosting": 202,
