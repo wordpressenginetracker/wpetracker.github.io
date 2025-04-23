@@ -1,6 +1,21 @@
 {
-    "siteCount": 62872,
+    "siteCount": 62911,
     "recentlyMoved": [
+        {
+            "domain_name": "www.medteamsolutions.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-23 19:47:11"
+        },
+        {
+            "domain_name": "www.medhost.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-23 19:47:11"
+        },
+        {
+            "domain_name": "www.leemingbc.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 19:47:11"
+        },
         {
             "domain_name": "edgeofwonder.travel",
             "destination": "BigScoots",
@@ -477,11 +492,6 @@
             "date": "2025-04-22 17:37:19"
         },
         {
-            "domain_name": "www.lincolnusa.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 17:34:39"
-        },
-        {
             "domain_name": "www.redcedarsteel.com",
             "destination": "SiteGround",
             "date": "2025-04-22 17:29:40"
@@ -490,16 +500,6 @@
             "domain_name": "sweatermann.com",
             "destination": "SiteGround",
             "date": "2025-04-22 17:29:30"
-        },
-        {
-            "domain_name": "sethfc.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 17:23:38"
-        },
-        {
-            "domain_name": "www.lawrencevilleplasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 17:02:51"
         }
     ],
     "dailyMovedStat": {
@@ -720,12 +720,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 9103,
-        "Kinsta": 4186,
+        "Kinsta": 4187,
         "Bluehost": 3908,
-        "Digital Ocean": 3612,
-        "SiteGround": 3522,
+        "Digital Ocean": 3615,
+        "SiteGround": 3525,
         "Hostinger": 2168,
-        "GoDaddy": 1018,
+        "GoDaddy": 1019,
         "BigScoots": 494,
         "Liquid Web": 405,
         "WordPress.com": 298,
