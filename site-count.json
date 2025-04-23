@@ -1,6 +1,51 @@
 {
-    "siteCount": 62911,
+    "siteCount": 62922,
     "recentlyMoved": [
+        {
+            "domain_name": "solution-focused.com",
+            "destination": "SiteGround",
+            "date": "2025-04-23 21:39:09"
+        },
+        {
+            "domain_name": "ccciowa.org",
+            "destination": "Kinsta",
+            "date": "2025-04-23 21:31:07"
+        },
+        {
+            "domain_name": "sourdsign.com",
+            "destination": "Pressable",
+            "date": "2025-04-23 21:29:44"
+        },
+        {
+            "domain_name": "resilienceinstitute.global",
+            "destination": "Namecheap",
+            "date": "2025-04-23 21:03:00"
+        },
+        {
+            "domain_name": "servlegacy.com",
+            "destination": "Kinsta",
+            "date": "2025-04-23 21:01:49"
+        },
+        {
+            "domain_name": "kavinirrigaations.com",
+            "destination": "Hostinger",
+            "date": "2025-04-23 20:59:35"
+        },
+        {
+            "domain_name": "rainbowatticstair.com",
+            "destination": "Pressable",
+            "date": "2025-04-23 20:45:31"
+        },
+        {
+            "domain_name": "jjbestinsurance.com",
+            "destination": "Pressable",
+            "date": "2025-04-23 20:42:01"
+        },
+        {
+            "domain_name": "iceheatingandcooling.net",
+            "destination": "GoDaddy",
+            "date": "2025-04-23 20:29:02"
+        },
         {
             "domain_name": "www.medteamsolutions.com",
             "destination": "Digital Ocean",
@@ -427,11 +472,6 @@
             "date": "2025-04-22 18:57:39"
         },
         {
-            "domain_name": "momandmitchell.org",
-            "destination": "GoDaddy",
-            "date": "2025-04-22 18:52:16"
-        },
-        {
             "domain_name": "naplesmeridian.com",
             "destination": "Hostinger",
             "date": "2025-04-22 18:38:35"
@@ -460,46 +500,6 @@
             "domain_name": "testimonialvideos.ca",
             "destination": "Hostinger",
             "date": "2025-04-22 18:05:38"
-        },
-        {
-            "domain_name": "cookseypr.com",
-            "destination": "SiteGround",
-            "date": "2025-04-22 18:04:14"
-        },
-        {
-            "domain_name": "tanyafreeman.law",
-            "destination": "SiteGround",
-            "date": "2025-04-22 17:55:15"
-        },
-        {
-            "domain_name": "threeomens.com",
-            "destination": "Pressable",
-            "date": "2025-04-22 17:47:46"
-        },
-        {
-            "domain_name": "chadbrownlaw.com",
-            "destination": "SiteGround",
-            "date": "2025-04-22 17:45:38"
-        },
-        {
-            "domain_name": "lot9brew.com",
-            "destination": "Pressable",
-            "date": "2025-04-22 17:43:44"
-        },
-        {
-            "domain_name": "lander.swimhappypools.com",
-            "destination": "SiteGround",
-            "date": "2025-04-22 17:37:19"
-        },
-        {
-            "domain_name": "www.redcedarsteel.com",
-            "destination": "SiteGround",
-            "date": "2025-04-22 17:29:40"
-        },
-        {
-            "domain_name": "sweatermann.com",
-            "destination": "SiteGround",
-            "date": "2025-04-22 17:29:30"
         }
     ],
     "dailyMovedStat": {
@@ -719,13 +719,13 @@
         "2025-04-22": "62639"
     },
     "topDestinationHosts": {
-        "Pressable": 9103,
-        "Kinsta": 4187,
+        "Pressable": 9105,
+        "Kinsta": 4189,
         "Bluehost": 3908,
         "Digital Ocean": 3615,
         "SiteGround": 3525,
-        "Hostinger": 2168,
-        "GoDaddy": 1019,
+        "Hostinger": 2169,
+        "GoDaddy": 1020,
         "BigScoots": 494,
         "Liquid Web": 405,
         "WordPress.com": 298,
@@ -734,7 +734,7 @@
         "Elementor Hosting": 276,
         "OVH": 236,
         "IONOS": 219,
-        "Namecheap": 218,
+        "Namecheap": 219,
         "DreamHost": 210,
         "A2 Hosting": 202,
         "Wordify": 181,
