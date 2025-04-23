@@ -1,6 +1,11 @@
 {
-    "siteCount": 62942,
+    "siteCount": 62945,
     "recentlyMoved": [
+        {
+            "domain_name": "etchedcreative.com",
+            "destination": "Pressable",
+            "date": "2025-04-23 22:58:49"
+        },
         {
             "domain_name": "thegoodlifecolorado.com",
             "destination": "SiteGround",
@@ -17,9 +22,19 @@
             "date": "2025-04-23 22:32:05"
         },
         {
+            "domain_name": "myjourneybook.org",
+            "destination": "Kinsta",
+            "date": "2025-04-23 22:31:56"
+        },
+        {
             "domain_name": "easthighschoolalumnifoundation.org",
             "destination": "Kinsta",
             "date": "2025-04-23 22:31:35"
+        },
+        {
+            "domain_name": "viridilabs.com",
+            "destination": "Pressable",
+            "date": "2025-04-23 22:25:52"
         },
         {
             "domain_name": "desmoinesehsalumni.com",
@@ -482,24 +497,9 @@
             "date": "2025-04-22 21:02:14"
         },
         {
-            "domain_name": "hiltonsheartland.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 20:28:47"
-        },
-        {
             "domain_name": "biwealthplanning.com",
             "destination": "SiteGround",
             "date": "2025-04-22 20:24:55"
-        },
-        {
-            "domain_name": "baldwincanoe.com",
-            "destination": "Hostinger",
-            "date": "2025-04-22 20:15:56"
-        },
-        {
-            "domain_name": "gpados.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-22 19:45:06"
         }
     ],
     "dailyMovedStat": {
@@ -716,15 +716,16 @@
         "2025-04-19": "62206",
         "2025-04-20": "62308",
         "2025-04-21": "62425",
-        "2025-04-22": "62639"
+        "2025-04-22": "62639",
+        "2025-04-23": "62945"
     },
     "topDestinationHosts": {
-        "Pressable": 9105,
-        "Kinsta": 4189,
+        "Pressable": 9109,
+        "Kinsta": 4198,
         "Bluehost": 3908,
         "Digital Ocean": 3615,
-        "SiteGround": 3525,
-        "Hostinger": 2169,
+        "SiteGround": 3529,
+        "Hostinger": 2170,
         "GoDaddy": 1020,
         "BigScoots": 494,
         "Liquid Web": 405,
@@ -954,6 +955,7 @@
         "2025-04-19": "635826",
         "2025-04-20": "636609",
         "2025-04-21": "635938",
-        "2025-04-22": "635035"
+        "2025-04-22": "635035",
+        "2025-04-23": "634499"
     }
 }
