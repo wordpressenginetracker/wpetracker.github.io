@@ -1,6 +1,16 @@
 {
-    "siteCount": 62711,
+    "siteCount": 62744,
     "recentlyMoved": [
+        {
+            "domain_name": "incarnationparish.org",
+            "destination": "Kinsta",
+            "date": "2025-04-23 08:47:12"
+        },
+        {
+            "domain_name": "www.dpl-group.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-04-23 08:26:36"
+        },
         {
             "domain_name": "www.wcbc.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.cvh4h.org",
             "destination": "GoDaddy",
             "date": "2025-04-21 20:36:07"
-        },
-        {
-            "domain_name": "wildwoodplaytherapy.com",
-            "destination": "SiteGround",
-            "date": "2025-04-21 20:03:50"
-        },
-        {
-            "domain_name": "uwayac.org",
-            "destination": "WordPress.com",
-            "date": "2025-04-21 18:27:29"
         }
     ],
     "dailyMovedStat": {
@@ -720,25 +720,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 9098,
-        "Kinsta": 4178,
+        "Kinsta": 4179,
         "Bluehost": 3908,
         "Digital Ocean": 3605,
         "SiteGround": 3519,
-        "Hostinger": 2159,
+        "Hostinger": 2160,
         "GoDaddy": 1017,
+        "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 298,
         "GridPane": 283,
         "InMotion Hosting": 278,
         "Elementor Hosting": 276,
         "OVH": 236,
-        "Namecheap": 217,
         "IONOS": 217,
+        "Namecheap": 217,
         "DreamHost": 210,
+        "A2 Hosting": 202,
         "Wordify": 181,
-        "Hetzner Online": 176,
-        "Krystal Hosting": 104,
-        "WordPress VIP": 89
+        "Hetzner Online": 176
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
