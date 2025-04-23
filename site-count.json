@@ -1,6 +1,36 @@
 {
-    "siteCount": 62679,
+    "siteCount": 62711,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wcbc.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 08:23:30"
+        },
+        {
+            "domain_name": "powellandson.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-23 08:18:17"
+        },
+        {
+            "domain_name": "www.elthambowlsclub.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 08:16:42"
+        },
+        {
+            "domain_name": "www.mundaringsportingclub.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 07:55:43"
+        },
+        {
+            "domain_name": "www.dalkeithnbc.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 07:46:33"
+        },
+        {
+            "domain_name": "www.whitehillsbowlsclub.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-23 07:41:59"
+        },
         {
             "domain_name": "timothycenter.com",
             "destination": "Digital Ocean",
@@ -470,36 +500,6 @@
             "domain_name": "uwayac.org",
             "destination": "WordPress.com",
             "date": "2025-04-21 18:27:29"
-        },
-        {
-            "domain_name": "www.dermaluxespa.com",
-            "destination": "GoDaddy",
-            "date": "2025-04-21 17:48:23"
-        },
-        {
-            "domain_name": "roosterfishboats.com",
-            "destination": "Hostinger",
-            "date": "2025-04-21 16:21:18"
-        },
-        {
-            "domain_name": "babyloncares.org",
-            "destination": "GoDaddy",
-            "date": "2025-04-21 16:07:42"
-        },
-        {
-            "domain_name": "rcsindustrialservices.com",
-            "destination": "Hostinger",
-            "date": "2025-04-21 14:15:08"
-        },
-        {
-            "domain_name": "nextlevelrenovators.com",
-            "destination": "Hostinger",
-            "date": "2025-04-21 14:15:08"
-        },
-        {
-            "domain_name": "ecrproperty.com",
-            "destination": "Hostinger",
-            "date": "2025-04-21 14:01:24"
         }
     ],
     "dailyMovedStat": {
@@ -722,23 +722,23 @@
         "Pressable": 9098,
         "Kinsta": 4178,
         "Bluehost": 3908,
-        "Digital Ocean": 3604,
-        "SiteGround": 3514,
+        "Digital Ocean": 3605,
+        "SiteGround": 3519,
         "Hostinger": 2159,
         "GoDaddy": 1017,
-        "BigScoots": 493,
         "Liquid Web": 405,
         "WordPress.com": 298,
         "GridPane": 283,
         "InMotion Hosting": 278,
         "Elementor Hosting": 276,
         "OVH": 236,
-        "IONOS": 217,
         "Namecheap": 217,
+        "IONOS": 217,
         "DreamHost": 210,
-        "A2 Hosting": 202,
         "Wordify": 181,
-        "Hetzner Online": 176
+        "Hetzner Online": 176,
+        "Krystal Hosting": 104,
+        "WordPress VIP": 89
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
