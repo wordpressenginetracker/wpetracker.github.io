@@ -1,6 +1,11 @@
 {
-    "siteCount": 62958,
+    "siteCount": 62962,
     "recentlyMoved": [
+        {
+            "domain_name": "thisdreamlife.com",
+            "destination": "SiteGround",
+            "date": "2025-04-24 02:12:45"
+        },
         {
             "domain_name": "innovatagroup.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-04-23 00:17:24"
         },
         {
-            "domain_name": "wallingtonweb.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 23:57:03"
-        },
-        {
             "domain_name": "grouplore.com",
             "destination": "Kinsta",
             "date": "2025-04-22 23:50:38"
@@ -724,7 +724,7 @@
         "Kinsta": 4198,
         "Bluehost": 3908,
         "Digital Ocean": 3615,
-        "SiteGround": 3530,
+        "SiteGround": 3531,
         "Hostinger": 2173,
         "GoDaddy": 1021,
         "BigScoots": 494,
