@@ -1,10 +1,20 @@
 {
-    "siteCount": 62962,
+    "siteCount": 62967,
     "recentlyMoved": [
+        {
+            "domain_name": "elopeonmaui.com",
+            "destination": "HostGator",
+            "date": "2025-04-24 02:30:32"
+        },
         {
             "domain_name": "thisdreamlife.com",
             "destination": "SiteGround",
             "date": "2025-04-24 02:12:45"
+        },
+        {
+            "domain_name": "mushroomsforsale.com",
+            "destination": "Hostinger",
+            "date": "2025-04-24 01:54:49"
         },
         {
             "domain_name": "innovatagroup.com",
@@ -490,16 +500,6 @@
             "domain_name": "celebrantinternational.com",
             "destination": "Hostinger",
             "date": "2025-04-23 00:52:36"
-        },
-        {
-            "domain_name": "heartofthehealer.org",
-            "destination": "Hostinger",
-            "date": "2025-04-23 00:17:24"
-        },
-        {
-            "domain_name": "grouplore.com",
-            "destination": "Kinsta",
-            "date": "2025-04-22 23:50:38"
         }
     ],
     "dailyMovedStat": {
@@ -725,7 +725,7 @@
         "Bluehost": 3908,
         "Digital Ocean": 3615,
         "SiteGround": 3531,
-        "Hostinger": 2173,
+        "Hostinger": 2174,
         "GoDaddy": 1021,
         "BigScoots": 494,
         "Liquid Web": 406,
