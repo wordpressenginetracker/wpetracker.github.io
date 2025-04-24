@@ -1,6 +1,21 @@
 {
-    "siteCount": 62967,
+    "siteCount": 62977,
     "recentlyMoved": [
+        {
+            "domain_name": "oh-hello.co",
+            "destination": "Digital Ocean",
+            "date": "2025-04-24 03:56:31"
+        },
+        {
+            "domain_name": "palmins.com",
+            "destination": "Hostinger",
+            "date": "2025-04-24 03:53:27"
+        },
+        {
+            "domain_name": "wilkesacademy.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-04-24 03:31:10"
+        },
         {
             "domain_name": "elopeonmaui.com",
             "destination": "HostGator",
@@ -477,11 +492,6 @@
             "date": "2025-04-23 02:58:36"
         },
         {
-            "domain_name": "synd.io",
-            "destination": "Kinsta",
-            "date": "2025-04-23 01:40:30"
-        },
-        {
             "domain_name": "deeptechminimal.com",
             "destination": "Hostinger",
             "date": "2025-04-23 01:38:14"
@@ -490,16 +500,6 @@
             "domain_name": "lupoelectric.com",
             "destination": "SiteGround",
             "date": "2025-04-23 01:24:53"
-        },
-        {
-            "domain_name": "schoenstatt.com",
-            "destination": "IONOS",
-            "date": "2025-04-23 00:55:21"
-        },
-        {
-            "domain_name": "celebrantinternational.com",
-            "destination": "Hostinger",
-            "date": "2025-04-23 00:52:36"
         }
     ],
     "dailyMovedStat": {
@@ -723,9 +723,9 @@
         "Pressable": 9110,
         "Kinsta": 4198,
         "Bluehost": 3908,
-        "Digital Ocean": 3615,
+        "Digital Ocean": 3617,
         "SiteGround": 3531,
-        "Hostinger": 2174,
+        "Hostinger": 2175,
         "GoDaddy": 1021,
         "BigScoots": 494,
         "Liquid Web": 406,
