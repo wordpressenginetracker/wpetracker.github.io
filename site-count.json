@@ -1,6 +1,11 @@
 {
-    "siteCount": 63282,
+    "siteCount": 63283,
     "recentlyMoved": [
+        {
+            "domain_name": "naturalselection.travel",
+            "destination": "Hetzner Online",
+            "date": "2025-04-25 06:03:53"
+        },
         {
             "domain_name": "www.runutsco.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-04-24 09:14:39"
         },
         {
-            "domain_name": "kanchisupermarket.in",
-            "destination": "Hostinger",
-            "date": "2025-04-24 09:06:20"
-        },
-        {
             "domain_name": "katypressurewashingpros.com",
             "destination": "Pressable",
             "date": "2025-04-24 09:02:45"
@@ -740,7 +740,7 @@
         "DreamHost": 212,
         "A2 Hosting": 203,
         "Wordify": 181,
-        "Hetzner Online": 178
+        "Hetzner Online": 179
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
