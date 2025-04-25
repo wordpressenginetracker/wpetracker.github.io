@@ -1,10 +1,20 @@
 {
-    "siteCount": 63292,
+    "siteCount": 63301,
     "recentlyMoved": [
+        {
+            "domain_name": "kdlandscapinginc.com",
+            "destination": "Wordify",
+            "date": "2025-04-25 08:56:02"
+        },
         {
             "domain_name": "www.bleujenflorist.com",
             "destination": "Digital Ocean",
             "date": "2025-04-25 08:28:54"
+        },
+        {
+            "domain_name": "bubbleplanet.in",
+            "destination": "Hostinger",
+            "date": "2025-04-25 08:28:17"
         },
         {
             "domain_name": "antor.com",
@@ -487,16 +497,6 @@
             "date": "2025-04-24 10:45:37"
         },
         {
-            "domain_name": "keyringmedia.com",
-            "destination": "Hostinger",
-            "date": "2025-04-24 10:44:51"
-        },
-        {
-            "domain_name": "mentalhealthproviders.org",
-            "destination": "SiteGround",
-            "date": "2025-04-24 10:26:08"
-        },
-        {
             "domain_name": "fabconprecast.com",
             "destination": "Kinsta",
             "date": "2025-04-24 10:09:57"
@@ -726,7 +726,7 @@
         "Bluehost": 3910,
         "Digital Ocean": 3630,
         "SiteGround": 3555,
-        "Hostinger": 2192,
+        "Hostinger": 2193,
         "GoDaddy": 1025,
         "BigScoots": 495,
         "Liquid Web": 406,
@@ -739,7 +739,7 @@
         "Namecheap": 220,
         "DreamHost": 212,
         "A2 Hosting": 203,
-        "Wordify": 181,
+        "Wordify": 182,
         "Hetzner Online": 179
     },
     "dailyTotalStat": {
