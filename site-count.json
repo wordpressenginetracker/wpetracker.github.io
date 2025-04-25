@@ -1,6 +1,11 @@
 {
-    "siteCount": 63443,
+    "siteCount": 63490,
     "recentlyMoved": [
+        {
+            "domain_name": "globalignition.app",
+            "destination": "Kinsta",
+            "date": "2025-04-25 20:26:32"
+        },
         {
             "domain_name": "excellentroofs.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.jackmorrisfoundation.com",
             "destination": "SiteGround",
             "date": "2025-04-25 05:17:16"
-        },
-        {
-            "domain_name": "hrbc.org.au",
-            "destination": "SiteGround",
-            "date": "2025-04-25 04:01:54"
         }
     ],
     "dailyMovedStat": {
@@ -722,20 +722,20 @@
     },
     "topDestinationHosts": {
         "Pressable": 9150,
-        "Kinsta": 4244,
-        "Bluehost": 3911,
-        "Digital Ocean": 3641,
-        "SiteGround": 3565,
+        "Kinsta": 4245,
+        "Bluehost": 3912,
+        "Digital Ocean": 3643,
+        "SiteGround": 3567,
         "Hostinger": 2200,
         "GoDaddy": 1028,
         "BigScoots": 495,
-        "Liquid Web": 409,
+        "Liquid Web": 410,
         "WordPress.com": 300,
         "GridPane": 285,
         "InMotion Hosting": 279,
         "Elementor Hosting": 278,
         "OVH": 240,
-        "IONOS": 221,
+        "IONOS": 222,
         "Namecheap": 220,
         "DreamHost": 212,
         "A2 Hosting": 206,
