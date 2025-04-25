@@ -1,6 +1,16 @@
 {
-    "siteCount": 63263,
+    "siteCount": 63269,
     "recentlyMoved": [
+        {
+            "domain_name": "sogoo.com.tw",
+            "destination": "Hostinger",
+            "date": "2025-04-25 05:22:47"
+        },
+        {
+            "domain_name": "www.jackmorrisfoundation.com",
+            "destination": "SiteGround",
+            "date": "2025-04-25 05:17:16"
+        },
         {
             "domain_name": "probalans.hr",
             "destination": "Hetzner Online",
@@ -10,6 +20,11 @@
             "domain_name": "www.conveylaw.com",
             "destination": "Krystal Hosting",
             "date": "2025-04-25 04:10:39"
+        },
+        {
+            "domain_name": "hrbc.org.au",
+            "destination": "SiteGround",
+            "date": "2025-04-25 04:01:54"
         },
         {
             "domain_name": "portnoarlungabowlingclub.org.au",
@@ -485,21 +500,6 @@
             "domain_name": "www.vaginismusmd.com",
             "destination": "Kinsta",
             "date": "2025-04-24 06:05:47"
-        },
-        {
-            "domain_name": "www.spermbankdirectory.com",
-            "destination": "Kinsta",
-            "date": "2025-04-24 05:22:24"
-        },
-        {
-            "domain_name": "southseftonpcn.nhs.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-04-24 05:20:14"
-        },
-        {
-            "domain_name": "chiropractorscottsdale.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-24 05:08:07"
         }
     ],
     "dailyMovedStat": {
@@ -725,8 +725,8 @@
         "Kinsta": 4225,
         "Bluehost": 3910,
         "Digital Ocean": 3629,
-        "SiteGround": 3552,
-        "Hostinger": 2188,
+        "SiteGround": 3554,
+        "Hostinger": 2189,
         "GoDaddy": 1025,
         "BigScoots": 495,
         "Liquid Web": 406,
