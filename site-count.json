@@ -1,6 +1,16 @@
 {
-    "siteCount": 63515,
+    "siteCount": 63519,
     "recentlyMoved": [
+        {
+            "domain_name": "munchease.com",
+            "destination": "Pressable",
+            "date": "2025-04-26 02:40:53"
+        },
+        {
+            "domain_name": "meyerinjurylawyers.com",
+            "destination": "SiteGround",
+            "date": "2025-04-26 02:12:36"
+        },
         {
             "domain_name": "kiwigrab.co.nz",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "bubbleplanet.in",
             "destination": "Hostinger",
             "date": "2025-04-25 08:28:17"
-        },
-        {
-            "domain_name": "antor.com",
-            "destination": "Hostinger",
-            "date": "2025-04-25 08:27:05"
-        },
-        {
-            "domain_name": "fourth-element.co.nz",
-            "destination": "Kinsta",
-            "date": "2025-04-25 07:47:27"
         }
     ],
     "dailyMovedStat": {
@@ -726,7 +726,7 @@
         "Kinsta": 4246,
         "Bluehost": 3912,
         "Digital Ocean": 3644,
-        "SiteGround": 3572,
+        "SiteGround": 3573,
         "Hostinger": 2201,
         "GoDaddy": 1029,
         "BigScoots": 495,
