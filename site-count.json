@@ -1,5 +1,5 @@
 {
-    "siteCount": 63775,
+    "siteCount": 63779,
     "recentlyMoved": [
         {
             "domain_name": "mjlawson.com",
@@ -10,6 +10,11 @@
             "domain_name": "www.uberfreight.com",
             "destination": "Kinsta",
             "date": "2025-04-26 22:01:28"
+        },
+        {
+            "domain_name": "uriroyal.hr",
+            "destination": "Hetzner Online",
+            "date": "2025-04-26 21:57:13"
         },
         {
             "domain_name": "www.ticketingbusinessforum.com",
@@ -495,11 +500,6 @@
             "domain_name": "westauckland.co.nz",
             "destination": "Hostinger",
             "date": "2025-04-26 07:35:15"
-        },
-        {
-            "domain_name": "wabashchristian.org",
-            "destination": "SiteGround",
-            "date": "2025-04-26 07:28:27"
         }
     ],
     "dailyMovedStat": {
@@ -719,7 +719,8 @@
         "2025-04-22": "62639",
         "2025-04-23": "62945",
         "2025-04-24": "63231",
-        "2025-04-25": "63502"
+        "2025-04-25": "63502",
+        "2025-04-26": "63779"
     },
     "topDestinationHosts": {
         "Pressable": 9170,
@@ -727,7 +728,7 @@
         "Bluehost": 3913,
         "Digital Ocean": 3651,
         "SiteGround": 3604,
-        "Hostinger": 2216,
+        "Hostinger": 2217,
         "GoDaddy": 1036,
         "BigScoots": 496,
         "Liquid Web": 412,
@@ -741,7 +742,7 @@
         "DreamHost": 214,
         "A2 Hosting": 206,
         "Wordify": 182,
-        "Hetzner Online": 179
+        "Hetzner Online": 180
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
@@ -960,6 +961,7 @@
         "2025-04-22": "635035",
         "2025-04-23": "634499",
         "2025-04-24": "633896",
-        "2025-04-25": "633146"
+        "2025-04-25": "633146",
+        "2025-04-26": "632886"
     }
 }
