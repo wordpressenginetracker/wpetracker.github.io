@@ -1,10 +1,15 @@
 {
-    "siteCount": 63714,
+    "siteCount": 63717,
     "recentlyMoved": [
         {
             "domain_name": "motazhajaj.com",
             "destination": "SiteGround",
             "date": "2025-04-26 18:38:28"
+        },
+        {
+            "domain_name": "nkcf.org",
+            "destination": "SiteGround",
+            "date": "2025-04-26 18:08:57"
         },
         {
             "domain_name": "maderatec.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.disruptorleague.com",
             "destination": "SiteGround",
             "date": "2025-04-26 04:49:14"
-        },
-        {
-            "domain_name": "munchease.com",
-            "destination": "Pressable",
-            "date": "2025-04-26 02:40:53"
         }
     ],
     "dailyMovedStat": {
@@ -726,7 +726,7 @@
         "Kinsta": 4260,
         "Bluehost": 3913,
         "Digital Ocean": 3648,
-        "SiteGround": 3599,
+        "SiteGround": 3601,
         "Hostinger": 2216,
         "GoDaddy": 1034,
         "BigScoots": 496,
