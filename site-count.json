@@ -1,6 +1,11 @@
 {
-    "siteCount": 63805,
+    "siteCount": 63807,
     "recentlyMoved": [
+        {
+            "domain_name": "nesfjelletvest.no",
+            "destination": "Digital Ocean",
+            "date": "2025-04-27 10:16:50"
+        },
         {
             "domain_name": "timmermannsstolen.no",
             "destination": "Digital Ocean",
@@ -482,11 +487,6 @@
             "date": "2025-04-26 09:50:29"
         },
         {
-            "domain_name": "cromerelectrical.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-04-26 09:41:15"
-        },
-        {
             "domain_name": "theredpen.in",
             "destination": "Hostinger",
             "date": "2025-04-26 09:37:09"
@@ -726,7 +726,7 @@
         "Pressable": 9170,
         "Kinsta": 4266,
         "Bluehost": 3913,
-        "Digital Ocean": 3653,
+        "Digital Ocean": 3654,
         "SiteGround": 3605,
         "Hostinger": 2218,
         "GoDaddy": 1036,
