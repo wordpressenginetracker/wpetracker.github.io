@@ -1,6 +1,11 @@
 {
-    "siteCount": 63782,
+    "siteCount": 63783,
     "recentlyMoved": [
+        {
+            "domain_name": "inspirerock.com",
+            "destination": "SiteGround",
+            "date": "2025-04-27 00:46:22"
+        },
         {
             "domain_name": "mjlawson.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "allsaintsbedford.ca",
             "destination": "SiteGround",
             "date": "2025-04-26 07:56:43"
-        },
-        {
-            "domain_name": "westauckland.co.nz",
-            "destination": "Hostinger",
-            "date": "2025-04-26 07:35:15"
         }
     ],
     "dailyMovedStat": {
@@ -727,7 +727,7 @@
         "Kinsta": 4263,
         "Bluehost": 3913,
         "Digital Ocean": 3651,
-        "SiteGround": 3604,
+        "SiteGround": 3605,
         "Hostinger": 2217,
         "GoDaddy": 1036,
         "BigScoots": 496,
