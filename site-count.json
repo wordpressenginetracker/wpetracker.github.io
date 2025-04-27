@@ -1,6 +1,11 @@
 {
-    "siteCount": 63783,
+    "siteCount": 63788,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ticketingbusinessasia.com",
+            "destination": "Kinsta",
+            "date": "2025-04-27 01:36:44"
+        },
         {
             "domain_name": "inspirerock.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.blackfordinsurance.com",
             "destination": "Krystal Hosting",
             "date": "2025-04-26 08:01:31"
-        },
-        {
-            "domain_name": "allsaintsbedford.ca",
-            "destination": "SiteGround",
-            "date": "2025-04-26 07:56:43"
         }
     ],
     "dailyMovedStat": {
@@ -724,7 +724,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9170,
-        "Kinsta": 4263,
+        "Kinsta": 4264,
         "Bluehost": 3913,
         "Digital Ocean": 3651,
         "SiteGround": 3605,
