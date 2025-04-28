@@ -1,6 +1,11 @@
 {
-    "siteCount": 63920,
+    "siteCount": 63926,
     "recentlyMoved": [
+        {
+            "domain_name": "insideoutphysio.com",
+            "destination": "Hostinger",
+            "date": "2025-04-28 12:42:45"
+        },
         {
             "domain_name": "maycourtclubofkw.org",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "councilofmls.org",
             "destination": "SiteGround",
             "date": "2025-04-26 13:10:47"
-        },
-        {
-            "domain_name": "srikumarlodge.com",
-            "destination": "Hostinger",
-            "date": "2025-04-26 13:03:17"
         }
     ],
     "dailyMovedStat": {
@@ -729,7 +729,7 @@
         "Bluehost": 3914,
         "Digital Ocean": 3656,
         "SiteGround": 3613,
-        "Hostinger": 2220,
+        "Hostinger": 2221,
         "GoDaddy": 1037,
         "BigScoots": 496,
         "Liquid Web": 412,
