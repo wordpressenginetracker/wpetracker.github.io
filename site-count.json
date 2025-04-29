@@ -1,6 +1,16 @@
 {
-    "siteCount": 64028,
+    "siteCount": 64030,
     "recentlyMoved": [
+        {
+            "domain_name": "yorkbenevolent.org",
+            "destination": "GoDaddy",
+            "date": "2025-04-29 06:15:56"
+        },
+        {
+            "domain_name": "yassbowlingclub.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-29 06:13:27"
+        },
         {
             "domain_name": "breheny.co.uk",
             "destination": "IONOS",
@@ -487,19 +497,9 @@
             "date": "2025-04-26 16:35:48"
         },
         {
-            "domain_name": "healingheartsfoundation.net",
-            "destination": "Kinsta",
-            "date": "2025-04-26 16:33:44"
-        },
-        {
             "domain_name": "www.duartelawoffices.com",
             "destination": "Pressable",
             "date": "2025-04-26 16:17:45"
-        },
-        {
-            "domain_name": "badgermn.com",
-            "destination": "Liquid Web",
-            "date": "2025-04-26 16:01:47"
         }
     ],
     "dailyMovedStat": {
@@ -729,9 +729,9 @@
         "Kinsta": 4268,
         "Bluehost": 3914,
         "Digital Ocean": 3656,
-        "SiteGround": 3618,
+        "SiteGround": 3619,
         "Hostinger": 2237,
-        "GoDaddy": 1037,
+        "GoDaddy": 1038,
         "BigScoots": 496,
         "Liquid Web": 413,
         "WordPress.com": 301,
