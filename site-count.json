@@ -1,6 +1,11 @@
 {
-    "siteCount": 64282,
+    "siteCount": 64289,
     "recentlyMoved": [
+        {
+            "domain_name": "weedoo.energy",
+            "destination": "Pressable",
+            "date": "2025-04-30 07:53:34"
+        },
         {
             "domain_name": "surgelectrical.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-04-29 01:32:50"
         },
         {
-            "domain_name": "sierramafirewise.com",
-            "destination": "Hostinger",
-            "date": "2025-04-29 01:20:19"
-        },
-        {
             "domain_name": "sivabluemetals.com",
             "destination": "Hostinger",
             "date": "2025-04-29 01:04:18"
@@ -726,7 +726,7 @@
         "2025-04-29": "64228"
     },
     "topDestinationHosts": {
-        "Pressable": 9187,
+        "Pressable": 9188,
         "Kinsta": 4286,
         "Bluehost": 3916,
         "Digital Ocean": 3665,
