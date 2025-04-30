@@ -1,6 +1,11 @@
 {
-    "siteCount": 64234,
+    "siteCount": 64242,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lkplaystructures.com",
+            "destination": "OVH",
+            "date": "2025-04-30 01:47:54"
+        },
         {
             "domain_name": "77productions.com.au",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "collaborativedivorcesolutions.ca",
             "destination": "Hostinger",
             "date": "2025-04-28 21:59:18"
-        },
-        {
-            "domain_name": "www.canyonland.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-04-28 20:41:11"
         }
     ],
     "dailyMovedStat": {
@@ -739,7 +739,7 @@
         "GridPane": 287,
         "InMotion Hosting": 281,
         "Elementor Hosting": 280,
-        "OVH": 244,
+        "OVH": 245,
         "IONOS": 226,
         "Namecheap": 221,
         "DreamHost": 217,
