@@ -1,6 +1,11 @@
 {
-    "siteCount": 64272,
+    "siteCount": 64282,
     "recentlyMoved": [
+        {
+            "domain_name": "surgelectrical.com",
+            "destination": "Hostinger",
+            "date": "2025-04-30 05:36:34"
+        },
         {
             "domain_name": "gamefunnel.io",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "sivabluemetals.com",
             "destination": "Hostinger",
             "date": "2025-04-29 01:04:18"
-        },
-        {
-            "domain_name": "bizportdoes.com",
-            "destination": "SiteGround",
-            "date": "2025-04-29 00:25:57"
         }
     ],
     "dailyMovedStat": {
@@ -731,7 +731,7 @@
         "Bluehost": 3916,
         "Digital Ocean": 3665,
         "SiteGround": 3626,
-        "Hostinger": 2252,
+        "Hostinger": 2253,
         "GoDaddy": 1043,
         "BigScoots": 497,
         "Liquid Web": 414,
