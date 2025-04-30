@@ -1,6 +1,11 @@
 {
-    "siteCount": 64228,
+    "siteCount": 64231,
     "recentlyMoved": [
+        {
+            "domain_name": "77productions.com.au",
+            "destination": "SiteGround",
+            "date": "2025-04-30 00:00:38"
+        },
         {
             "domain_name": "empathyinc.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.canyonland.com",
             "destination": "Elementor Hosting",
             "date": "2025-04-28 20:41:11"
-        },
-        {
-            "domain_name": "plasteringforbeginners.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-04-28 19:36:26"
         }
     ],
     "dailyMovedStat": {
@@ -730,7 +730,7 @@
         "Kinsta": 4286,
         "Bluehost": 3916,
         "Digital Ocean": 3665,
-        "SiteGround": 3623,
+        "SiteGround": 3624,
         "Hostinger": 2252,
         "GoDaddy": 1042,
         "BigScoots": 497,
