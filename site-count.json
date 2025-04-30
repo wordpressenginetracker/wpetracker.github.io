@@ -1,6 +1,26 @@
 {
-    "siteCount": 64503,
+    "siteCount": 64520,
     "recentlyMoved": [
+        {
+            "domain_name": "brennanicolephotography.com",
+            "destination": "Hostinger",
+            "date": "2025-04-30 21:11:10"
+        },
+        {
+            "domain_name": "carpetshine.ie",
+            "destination": "Hostinger",
+            "date": "2025-04-30 21:09:10"
+        },
+        {
+            "domain_name": "bostonmoms.com",
+            "destination": "Digital Ocean",
+            "date": "2025-04-30 20:27:18"
+        },
+        {
+            "domain_name": "betaglukan.hr",
+            "destination": "Hetzner Online",
+            "date": "2025-04-30 20:21:42"
+        },
         {
             "domain_name": "prcdirectory.maderausd.org",
             "destination": "Pressable",
@@ -472,16 +492,6 @@
             "date": "2025-04-29 16:46:23"
         },
         {
-            "domain_name": "barriekickboxing.ca",
-            "destination": "A2 Hosting",
-            "date": "2025-04-29 16:40:37"
-        },
-        {
-            "domain_name": "reymannfoundation.org",
-            "destination": "Kinsta",
-            "date": "2025-04-29 16:39:11"
-        },
-        {
             "domain_name": "samphiregardening.co.uk",
             "destination": "SiteGround",
             "date": "2025-04-29 16:38:50"
@@ -490,16 +500,6 @@
             "domain_name": "rm343.com",
             "destination": "Digital Ocean",
             "date": "2025-04-29 16:35:21"
-        },
-        {
-            "domain_name": "redefineyourspine.com",
-            "destination": "Digital Ocean",
-            "date": "2025-04-29 16:33:41"
-        },
-        {
-            "domain_name": "balahota.com",
-            "destination": "WordPress.com",
-            "date": "2025-04-29 16:10:53"
         }
     ],
     "dailyMovedStat": {
@@ -729,9 +729,9 @@
         "Pressable": 9204,
         "Kinsta": 4295,
         "Bluehost": 3917,
-        "Digital Ocean": 3672,
+        "Digital Ocean": 3673,
         "SiteGround": 3631,
-        "Hostinger": 2265,
+        "Hostinger": 2267,
         "GoDaddy": 1045,
         "BigScoots": 500,
         "Liquid Web": 416,
@@ -744,8 +744,8 @@
         "Namecheap": 221,
         "A2 Hosting": 219,
         "DreamHost": 217,
-        "Wordify": 183,
-        "Hetzner Online": 183
+        "Hetzner Online": 184,
+        "Wordify": 183
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
