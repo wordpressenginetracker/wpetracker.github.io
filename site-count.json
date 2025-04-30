@@ -1,6 +1,21 @@
 {
-    "siteCount": 64289,
+    "siteCount": 64298,
     "recentlyMoved": [
+        {
+            "domain_name": "www.oxts.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-04-30 09:17:33"
+        },
+        {
+            "domain_name": "www.homesteadelectric.net",
+            "destination": "Pressable",
+            "date": "2025-04-30 08:39:17"
+        },
+        {
+            "domain_name": "boltonservicewnc.com",
+            "destination": "Liquid Web",
+            "date": "2025-04-30 08:23:06"
+        },
         {
             "domain_name": "weedoo.energy",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.convertiv.com",
             "destination": "WordPress VIP",
             "date": "2025-04-29 03:50:57"
-        },
-        {
-            "domain_name": "ewrlaw.com",
-            "destination": "Hostinger",
-            "date": "2025-04-29 02:56:36"
-        },
-        {
-            "domain_name": "cornerstone-pd.com",
-            "destination": "Pressable",
-            "date": "2025-04-29 01:32:50"
-        },
-        {
-            "domain_name": "sivabluemetals.com",
-            "destination": "Hostinger",
-            "date": "2025-04-29 01:04:18"
         }
     ],
     "dailyMovedStat": {
@@ -726,7 +726,7 @@
         "2025-04-29": "64228"
     },
     "topDestinationHosts": {
-        "Pressable": 9188,
+        "Pressable": 9189,
         "Kinsta": 4286,
         "Bluehost": 3916,
         "Digital Ocean": 3665,
@@ -734,7 +734,7 @@
         "Hostinger": 2253,
         "GoDaddy": 1043,
         "BigScoots": 497,
-        "Liquid Web": 414,
+        "Liquid Web": 415,
         "WordPress.com": 303,
         "GridPane": 287,
         "InMotion Hosting": 281,
