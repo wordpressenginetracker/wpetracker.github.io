@@ -1,6 +1,16 @@
 {
-    "siteCount": 64565,
+    "siteCount": 64571,
     "recentlyMoved": [
+        {
+            "domain_name": "citizensassembly.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-05-01 05:31:22"
+        },
+        {
+            "domain_name": "rklsundholm.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-05-01 04:23:30"
+        },
         {
             "domain_name": "pharmas.rs",
             "destination": "Hetzner Online",
@@ -482,11 +492,6 @@
             "date": "2025-04-29 19:41:47"
         },
         {
-            "domain_name": "drantoniatsallasnd.com",
-            "destination": "Hostinger",
-            "date": "2025-04-29 18:32:59"
-        },
-        {
             "domain_name": "esoregon.com",
             "destination": "Digital Ocean",
             "date": "2025-04-29 18:07:33"
@@ -495,11 +500,6 @@
             "domain_name": "ellenmalcolmson.com",
             "destination": "Hostinger",
             "date": "2025-04-29 18:04:55"
-        },
-        {
-            "domain_name": "drothlaw.com",
-            "destination": "Kinsta",
-            "date": "2025-04-29 17:46:29"
         }
     ],
     "dailyMovedStat": {
@@ -745,7 +745,7 @@
         "Namecheap": 221,
         "A2 Hosting": 219,
         "DreamHost": 217,
-        "Hetzner Online": 186,
+        "Hetzner Online": 187,
         "Wordify": 183
     },
     "dailyTotalStat": {
