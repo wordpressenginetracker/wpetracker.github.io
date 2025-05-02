@@ -1,5 +1,5 @@
 {
-    "siteCount": 64897,
+    "siteCount": 64899,
     "recentlyMoved": [
         {
             "domain_name": "training.locate2u.com",
@@ -7,9 +7,19 @@
             "date": "2025-05-02 02:26:10"
         },
         {
+            "domain_name": "elizabethtruckcenter.com",
+            "destination": "SiteGround",
+            "date": "2025-05-02 02:24:50"
+        },
+        {
             "domain_name": "missionnash.com",
             "destination": "DreamHost",
             "date": "2025-05-02 02:14:17"
+        },
+        {
+            "domain_name": "nickdoyle.com",
+            "destination": "Hostinger",
+            "date": "2025-05-02 02:13:41"
         },
         {
             "domain_name": "texastbonesteakhouse.com",
@@ -487,19 +497,9 @@
             "date": "2025-05-01 09:30:38"
         },
         {
-            "domain_name": "k-spirits.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-05-01 09:15:02"
-        },
-        {
             "domain_name": "left-lane.nl",
             "destination": "Hostinger",
             "date": "2025-05-01 09:13:16"
-        },
-        {
-            "domain_name": "www.macrolease.com",
-            "destination": "Pressable",
-            "date": "2025-05-01 08:38:07"
         }
     ],
     "dailyMovedStat": {
@@ -732,8 +732,8 @@
         "Kinsta": 4308,
         "Bluehost": 3925,
         "Digital Ocean": 3694,
-        "SiteGround": 3656,
-        "Hostinger": 2284,
+        "SiteGround": 3657,
+        "Hostinger": 2285,
         "GoDaddy": 1047,
         "BigScoots": 503,
         "Liquid Web": 417,
