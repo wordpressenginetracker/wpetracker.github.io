@@ -1,5 +1,5 @@
 {
-    "siteCount": 65014,
+    "siteCount": 65016,
     "recentlyMoved": [
         {
             "domain_name": "mpox.ongov.net",
@@ -25,6 +25,11 @@
             "domain_name": "domainhsm.com",
             "destination": "HostGator",
             "date": "2025-05-02 14:07:58"
+        },
+        {
+            "domain_name": "exploreclinicalresearch.com",
+            "destination": "Kinsta",
+            "date": "2025-05-02 14:02:43"
         },
         {
             "domain_name": "ratellecommunications.com",
@@ -492,11 +497,6 @@
             "date": "2025-05-01 16:48:48"
         },
         {
-            "domain_name": "seeory.com",
-            "destination": "Hostinger",
-            "date": "2025-05-01 16:43:29"
-        },
-        {
             "domain_name": "www.knightcrafted.com",
             "destination": "Pressable",
             "date": "2025-05-01 16:30:31"
@@ -729,11 +729,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9231,
-        "Kinsta": 4319,
+        "Kinsta": 4320,
         "Bluehost": 3927,
         "Digital Ocean": 3700,
         "SiteGround": 3666,
-        "Hostinger": 2293,
+        "Hostinger": 2294,
         "GoDaddy": 1049,
         "BigScoots": 503,
         "Liquid Web": 419,
