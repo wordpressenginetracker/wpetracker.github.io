@@ -1,6 +1,21 @@
 {
-    "siteCount": 65079,
+    "siteCount": 65084,
     "recentlyMoved": [
+        {
+            "domain_name": "victoriafriedrich.com",
+            "destination": "Hostinger",
+            "date": "2025-05-02 18:56:02"
+        },
+        {
+            "domain_name": "nralegal.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-02 18:39:38"
+        },
+        {
+            "domain_name": "villadelsol-fl.com",
+            "destination": "Pressable",
+            "date": "2025-05-02 18:28:36"
+        },
         {
             "domain_name": "www.theappraisalteaminc.com",
             "destination": "Pressable",
@@ -482,24 +497,9 @@
             "date": "2025-05-01 23:37:42"
         },
         {
-            "domain_name": "janikmedia.com",
-            "destination": "Hostinger",
-            "date": "2025-05-01 22:40:58"
-        },
-        {
             "domain_name": "trentcs.com",
             "destination": "Hostinger",
             "date": "2025-05-01 22:40:29"
-        },
-        {
-            "domain_name": "yoderbontragerinsurance.com",
-            "destination": "SiteGround",
-            "date": "2025-05-01 22:21:34"
-        },
-        {
-            "domain_name": "thewilliamsteam.ca",
-            "destination": "SiteGround",
-            "date": "2025-05-01 21:46:19"
         }
     ],
     "dailyMovedStat": {
@@ -728,12 +728,12 @@
         "2025-05-01": "64867"
     },
     "topDestinationHosts": {
-        "Pressable": 9234,
+        "Pressable": 9235,
         "Kinsta": 4337,
         "Bluehost": 3927,
         "Digital Ocean": 3700,
-        "SiteGround": 3670,
-        "Hostinger": 2294,
+        "SiteGround": 3671,
+        "Hostinger": 2297,
         "GoDaddy": 1049,
         "BigScoots": 503,
         "Liquid Web": 420,
