@@ -1,6 +1,11 @@
 {
-    "siteCount": 65465,
+    "siteCount": 65470,
     "recentlyMoved": [
+        {
+            "domain_name": "b3brokers.com",
+            "destination": "Hostinger",
+            "date": "2025-05-04 12:25:41"
+        },
         {
             "domain_name": "www.pocketpackstcg.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "hopeinterventions.com",
             "destination": "Kinsta",
             "date": "2025-05-02 20:14:21"
-        },
-        {
-            "domain_name": "bayareamaltipooandmaltese.com",
-            "destination": "Pressable",
-            "date": "2025-05-02 20:04:39"
         }
     ],
     "dailyMovedStat": {
@@ -732,7 +732,7 @@
     "topDestinationHosts": {
         "Pressable": 9248,
         "Kinsta": 4365,
-        "Bluehost": 3929,
+        "Bluehost": 3930,
         "Digital Ocean": 3715,
         "SiteGround": 3688,
         "Hostinger": 2318,
