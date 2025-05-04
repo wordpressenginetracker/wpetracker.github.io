@@ -1,10 +1,20 @@
 {
-    "siteCount": 65476,
+    "siteCount": 65481,
     "recentlyMoved": [
         {
             "domain_name": "sponteoperating.com",
             "destination": "GoDaddy",
             "date": "2025-05-04 13:34:48"
+        },
+        {
+            "domain_name": "sumbi.studio",
+            "destination": "WordPress.com",
+            "date": "2025-05-04 13:16:21"
+        },
+        {
+            "domain_name": "curiousprojects.com",
+            "destination": "SiteGround",
+            "date": "2025-05-04 13:15:44"
         },
         {
             "domain_name": "www.graciesanbruno.com",
@@ -482,11 +492,6 @@
             "date": "2025-05-02 21:51:24"
         },
         {
-            "domain_name": "jokersaudio.com",
-            "destination": "Liquid Web",
-            "date": "2025-05-02 21:21:21"
-        },
-        {
             "domain_name": "slkprivatewealth.com",
             "destination": "SiteGround",
             "date": "2025-05-02 21:17:17"
@@ -495,11 +500,6 @@
             "domain_name": "cfrandassociates.com",
             "destination": "Pressable",
             "date": "2025-05-02 21:11:43"
-        },
-        {
-            "domain_name": "sdinternetmarketing.com",
-            "destination": "Kinsta",
-            "date": "2025-05-02 21:07:37"
         }
     ],
     "dailyMovedStat": {
@@ -734,12 +734,12 @@
         "Kinsta": 4365,
         "Bluehost": 3930,
         "Digital Ocean": 3715,
-        "SiteGround": 3688,
+        "SiteGround": 3689,
         "Hostinger": 2319,
-        "GoDaddy": 1052,
+        "GoDaddy": 1053,
         "BigScoots": 504,
         "Liquid Web": 425,
-        "WordPress.com": 307,
+        "WordPress.com": 308,
         "GridPane": 292,
         "InMotion Hosting": 284,
         "Elementor Hosting": 282,
