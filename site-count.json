@@ -1,6 +1,11 @@
 {
-    "siteCount": 65490,
+    "siteCount": 65498,
     "recentlyMoved": [
+        {
+            "domain_name": "www.workcolumbiavalley.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-05-04 17:55:41"
+        },
         {
             "domain_name": "renterschoicesites.ca",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-05-02 23:58:35"
         },
         {
-            "domain_name": "lifteasy.com.au",
-            "destination": "Elementor Hosting",
-            "date": "2025-05-02 21:51:34"
-        },
-        {
             "domain_name": "surveys.club.reclink.org",
             "destination": "SiteGround",
             "date": "2025-05-02 21:51:24"
@@ -733,7 +733,7 @@
         "Pressable": 9249,
         "Kinsta": 4365,
         "Bluehost": 3930,
-        "Digital Ocean": 3716,
+        "Digital Ocean": 3717,
         "SiteGround": 3689,
         "Hostinger": 2320,
         "GoDaddy": 1053,
