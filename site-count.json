@@ -1,6 +1,16 @@
 {
-    "siteCount": 65470,
+    "siteCount": 65476,
     "recentlyMoved": [
+        {
+            "domain_name": "sponteoperating.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-04 13:34:48"
+        },
+        {
+            "domain_name": "www.graciesanbruno.com",
+            "destination": "Pressable",
+            "date": "2025-05-04 13:09:27"
+        },
         {
             "domain_name": "b3brokers.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "sdinternetmarketing.com",
             "destination": "Kinsta",
             "date": "2025-05-02 21:07:37"
-        },
-        {
-            "domain_name": "saikosanjose.com",
-            "destination": "Pressable",
-            "date": "2025-05-02 20:40:26"
-        },
-        {
-            "domain_name": "hopeinterventions.com",
-            "destination": "Kinsta",
-            "date": "2025-05-02 20:14:21"
         }
     ],
     "dailyMovedStat": {
@@ -730,12 +730,12 @@
         "2025-05-03": "65417"
     },
     "topDestinationHosts": {
-        "Pressable": 9248,
+        "Pressable": 9249,
         "Kinsta": 4365,
         "Bluehost": 3930,
         "Digital Ocean": 3715,
         "SiteGround": 3688,
-        "Hostinger": 2318,
+        "Hostinger": 2319,
         "GoDaddy": 1052,
         "BigScoots": 504,
         "Liquid Web": 425,
