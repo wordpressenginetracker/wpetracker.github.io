@@ -1,6 +1,11 @@
 {
-    "siteCount": 65506,
+    "siteCount": 65511,
     "recentlyMoved": [
+        {
+            "domain_name": "bellasalonaustin.com",
+            "destination": "Hostinger",
+            "date": "2025-05-04 20:41:49"
+        },
         {
             "domain_name": "www.workcolumbiavalley.ca",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.bayarea-bernedoodles.com",
             "destination": "Pressable",
             "date": "2025-05-02 23:58:35"
-        },
-        {
-            "domain_name": "surveys.club.reclink.org",
-            "destination": "SiteGround",
-            "date": "2025-05-02 21:51:24"
         }
     ],
     "dailyMovedStat": {
@@ -735,7 +735,7 @@
         "Bluehost": 3930,
         "Digital Ocean": 3717,
         "SiteGround": 3689,
-        "Hostinger": 2320,
+        "Hostinger": 2321,
         "GoDaddy": 1053,
         "BigScoots": 504,
         "Liquid Web": 425,
