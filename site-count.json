@@ -1,6 +1,11 @@
 {
-    "siteCount": 65451,
+    "siteCount": 65459,
     "recentlyMoved": [
+        {
+            "domain_name": "welcomecafe.in",
+            "destination": "Hostinger",
+            "date": "2025-05-04 07:27:35"
+        },
         {
             "domain_name": "stanfeld.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "paulkamish.com",
             "destination": "Hostinger",
             "date": "2025-05-02 19:53:40"
-        },
-        {
-            "domain_name": "wilsoncpa.net",
-            "destination": "Kinsta",
-            "date": "2025-05-02 19:38:21"
         }
     ],
     "dailyMovedStat": {
@@ -735,7 +735,7 @@
         "Bluehost": 3929,
         "Digital Ocean": 3715,
         "SiteGround": 3687,
-        "Hostinger": 2317,
+        "Hostinger": 2318,
         "GoDaddy": 1052,
         "BigScoots": 504,
         "Liquid Web": 424,
