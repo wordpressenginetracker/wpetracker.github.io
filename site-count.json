@@ -1,6 +1,16 @@
 {
-    "siteCount": 65608,
+    "siteCount": 65613,
     "recentlyMoved": [
+        {
+            "domain_name": "eagleshavengolfcourse.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-05 18:31:35"
+        },
+        {
+            "domain_name": "drnashatlatib.com",
+            "destination": "SiteGround",
+            "date": "2025-05-05 18:05:42"
+        },
         {
             "domain_name": "branded.larazon.es",
             "destination": "OVH",
@@ -477,11 +487,6 @@
             "date": "2025-05-03 10:00:41"
         },
         {
-            "domain_name": "sunseaplastics.in",
-            "destination": "Hostinger",
-            "date": "2025-05-03 09:58:24"
-        },
-        {
             "domain_name": "teslaelectrics.in",
             "destination": "Hostinger",
             "date": "2025-05-03 09:54:18"
@@ -495,11 +500,6 @@
             "domain_name": "tac10.com",
             "destination": "GoDaddy",
             "date": "2025-05-03 09:28:40"
-        },
-        {
-            "domain_name": "www.executivemotel-maine.com",
-            "destination": "Hostinger",
-            "date": "2025-05-03 08:58:45"
         }
     ],
     "dailyMovedStat": {
@@ -735,9 +735,9 @@
         "Kinsta": 4367,
         "Bluehost": 3930,
         "Digital Ocean": 3724,
-        "SiteGround": 3694,
+        "SiteGround": 3695,
         "Hostinger": 2323,
-        "GoDaddy": 1053,
+        "GoDaddy": 1054,
         "BigScoots": 504,
         "Liquid Web": 425,
         "WordPress.com": 309,
