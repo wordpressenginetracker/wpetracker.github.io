@@ -1,6 +1,11 @@
 {
-    "siteCount": 65596,
+    "siteCount": 65600,
     "recentlyMoved": [
+        {
+            "domain_name": "branded.larazon.es",
+            "destination": "OVH",
+            "date": "2025-05-05 13:07:26"
+        },
         {
             "domain_name": "exploresideways.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.executivemotel-maine.com",
             "destination": "Hostinger",
             "date": "2025-05-03 08:58:45"
-        },
-        {
-            "domain_name": "ashburtonsocietyarts.co.nz",
-            "destination": "Digital Ocean",
-            "date": "2025-05-03 08:00:18"
         }
     ],
     "dailyMovedStat": {
@@ -744,7 +744,7 @@
         "GridPane": 293,
         "InMotion Hosting": 284,
         "Elementor Hosting": 282,
-        "OVH": 254,
+        "OVH": 255,
         "IONOS": 233,
         "A2 Hosting": 225,
         "DreamHost": 223,
