@@ -1,6 +1,16 @@
 {
-    "siteCount": 65568,
+    "siteCount": 65572,
     "recentlyMoved": [
+        {
+            "domain_name": "specialchronicles.com",
+            "destination": "Kinsta",
+            "date": "2025-05-05 04:54:37"
+        },
+        {
+            "domain_name": "sbenatidentistry.ca",
+            "destination": "SiteGround",
+            "date": "2025-05-05 04:51:21"
+        },
         {
             "domain_name": "naturalspacesdomes.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "thiagarajanauto.com",
             "destination": "Hostinger",
             "date": "2025-05-03 05:32:44"
-        },
-        {
-            "domain_name": "ritelitesigns.com",
-            "destination": "SiteGround",
-            "date": "2025-05-03 04:46:41"
-        },
-        {
-            "domain_name": "sandiegoironworks.com",
-            "destination": "Kinsta",
-            "date": "2025-05-03 04:30:21"
         }
     ],
     "dailyMovedStat": {
@@ -732,10 +732,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 9252,
-        "Kinsta": 4366,
+        "Kinsta": 4367,
         "Bluehost": 3930,
         "Digital Ocean": 3721,
-        "SiteGround": 3693,
+        "SiteGround": 3694,
         "Hostinger": 2323,
         "GoDaddy": 1053,
         "BigScoots": 504,
