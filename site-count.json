@@ -1,10 +1,20 @@
 {
-    "siteCount": 65892,
+    "siteCount": 65900,
     "recentlyMoved": [
+        {
+            "domain_name": "jpemd.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-06 21:09:59"
+        },
         {
             "domain_name": "www.betterbudgetguide.com",
             "destination": "BigScoots",
             "date": "2025-05-06 20:33:41"
+        },
+        {
+            "domain_name": "sarahmorrau.com",
+            "destination": "Kinsta",
+            "date": "2025-05-06 20:28:33"
         },
         {
             "domain_name": "phelpsbuilders.com",
@@ -490,16 +500,6 @@
             "domain_name": "pacesettersoccer.com",
             "destination": "HostGator",
             "date": "2025-05-04 23:19:54"
-        },
-        {
-            "domain_name": "danielwarchow.com",
-            "destination": "SiteGround",
-            "date": "2025-05-04 22:06:32"
-        },
-        {
-            "domain_name": "crossaction.net",
-            "destination": "Kinsta",
-            "date": "2025-05-04 21:47:02"
         }
     ],
     "dailyMovedStat": {
@@ -733,17 +733,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 9257,
-        "Kinsta": 4384,
+        "Kinsta": 4385,
         "Bluehost": 3932,
         "Digital Ocean": 3737,
         "SiteGround": 3710,
         "Hostinger": 2338,
-        "GoDaddy": 1054,
+        "GoDaddy": 1055,
         "BigScoots": 505,
         "Liquid Web": 427,
         "WordPress.com": 312,
         "GridPane": 293,
-        "InMotion Hosting": 285,
+        "InMotion Hosting": 286,
         "Elementor Hosting": 282,
         "OVH": 258,
         "IONOS": 235,
