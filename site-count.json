@@ -1,6 +1,11 @@
 {
-    "siteCount": 65724,
+    "siteCount": 65728,
     "recentlyMoved": [
+        {
+            "domain_name": "vendingvault4u.com",
+            "destination": "SiteGround",
+            "date": "2025-05-06 10:48:42"
+        },
         {
             "domain_name": "bayviewnaturalhealth.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-05-03 16:07:03"
         },
         {
-            "domain_name": "apacpain.com",
-            "destination": "Kinsta",
-            "date": "2025-05-03 16:04:25"
-        },
-        {
             "domain_name": "axialfitnessgym.com",
             "destination": "A2 Hosting",
             "date": "2025-05-03 16:03:55"
@@ -736,7 +736,7 @@
         "Kinsta": 4373,
         "Bluehost": 3932,
         "Digital Ocean": 3732,
-        "SiteGround": 3701,
+        "SiteGround": 3702,
         "Hostinger": 2332,
         "GoDaddy": 1054,
         "BigScoots": 504,
