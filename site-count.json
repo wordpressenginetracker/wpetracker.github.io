@@ -1,6 +1,11 @@
 {
-    "siteCount": 65693,
+    "siteCount": 65694,
     "recentlyMoved": [
+        {
+            "domain_name": "exporthelpcenter.co.in",
+            "destination": "Hostinger",
+            "date": "2025-05-06 06:32:45"
+        },
         {
             "domain_name": "toughturtlewindows.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "builtbygroundup.com",
             "destination": "Kinsta",
             "date": "2025-05-03 12:39:34"
-        },
-        {
-            "domain_name": "irishforestowners.com",
-            "destination": "WordPress.com",
-            "date": "2025-05-03 12:36:38"
         }
     ],
     "dailyMovedStat": {
@@ -737,7 +737,7 @@
         "Bluehost": 3931,
         "Digital Ocean": 3730,
         "SiteGround": 3701,
-        "Hostinger": 2325,
+        "Hostinger": 2326,
         "GoDaddy": 1054,
         "BigScoots": 504,
         "Liquid Web": 425,
