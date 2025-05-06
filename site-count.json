@@ -1,6 +1,11 @@
 {
-    "siteCount": 65911,
+    "siteCount": 65917,
     "recentlyMoved": [
+        {
+            "domain_name": "nunnallyinstitute.org",
+            "destination": "Kinsta",
+            "date": "2025-05-06 23:06:38"
+        },
         {
             "domain_name": "mercadovial.tv",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.babyotterswimschool.com",
             "destination": "SiteGround",
             "date": "2025-05-05 00:05:33"
-        },
-        {
-            "domain_name": "www.port701.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-04 23:58:19"
         }
     ],
     "dailyMovedStat": {
@@ -729,15 +729,16 @@
         "2025-05-02": "65185",
         "2025-05-03": "65417",
         "2025-05-04": "65518",
-        "2025-05-05": "65663"
+        "2025-05-05": "65663",
+        "2025-05-06": "65917"
     },
     "topDestinationHosts": {
         "Pressable": 9257,
-        "Kinsta": 4386,
+        "Kinsta": 4387,
         "Bluehost": 3932,
         "Digital Ocean": 3737,
         "SiteGround": 3710,
-        "Hostinger": 2339,
+        "Hostinger": 2340,
         "GoDaddy": 1055,
         "BigScoots": 505,
         "Liquid Web": 427,
@@ -980,6 +981,7 @@
         "2025-05-02": "629718",
         "2025-05-03": "629688",
         "2025-05-04": "631250",
-        "2025-05-05": "630431"
+        "2025-05-05": "630431",
+        "2025-05-06": "630103"
     }
 }
