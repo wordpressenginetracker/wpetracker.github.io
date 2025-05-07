@@ -1,6 +1,11 @@
 {
-    "siteCount": 66163,
+    "siteCount": 66165,
     "recentlyMoved": [
+        {
+            "domain_name": "excavat.co.nz",
+            "destination": "SiteGround",
+            "date": "2025-05-07 22:36:44"
+        },
         {
             "domain_name": "studiomkn.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "fmkicksband.com",
             "destination": "Kinsta",
             "date": "2025-05-06 19:32:58"
-        },
-        {
-            "domain_name": "1304living.com",
-            "destination": "Kinsta",
-            "date": "2025-05-06 19:08:32"
         }
     ],
     "dailyMovedStat": {
@@ -730,14 +730,15 @@
         "2025-05-03": "65417",
         "2025-05-04": "65518",
         "2025-05-05": "65663",
-        "2025-05-06": "65917"
+        "2025-05-06": "65917",
+        "2025-05-07": "66165"
     },
     "topDestinationHosts": {
         "Pressable": 9262,
         "Kinsta": 4408,
         "Bluehost": 3933,
         "Digital Ocean": 3757,
-        "SiteGround": 3725,
+        "SiteGround": 3726,
         "Hostinger": 2346,
         "GoDaddy": 1058,
         "BigScoots": 508,
@@ -982,6 +983,7 @@
         "2025-05-03": "629688",
         "2025-05-04": "631250",
         "2025-05-05": "630431",
-        "2025-05-06": "630103"
+        "2025-05-06": "630103",
+        "2025-05-07": "629582"
     }
 }
