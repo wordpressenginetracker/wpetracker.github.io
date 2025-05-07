@@ -1,6 +1,16 @@
 {
-    "siteCount": 65917,
+    "siteCount": 65921,
     "recentlyMoved": [
+        {
+            "domain_name": "gosunaura.com",
+            "destination": "WordPress.com",
+            "date": "2025-05-07 00:23:15"
+        },
+        {
+            "domain_name": "wavenunnally.com",
+            "destination": "Kinsta",
+            "date": "2025-05-06 23:31:48"
+        },
         {
             "domain_name": "nunnallyinstitute.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "theoaklondon.com",
             "destination": "Hostinger",
             "date": "2025-05-05 01:48:47"
-        },
-        {
-            "domain_name": "rhodeislandmoms.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-05 00:12:19"
-        },
-        {
-            "domain_name": "www.babyotterswimschool.com",
-            "destination": "SiteGround",
-            "date": "2025-05-05 00:05:33"
         }
     ],
     "dailyMovedStat": {
@@ -734,7 +734,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9257,
-        "Kinsta": 4387,
+        "Kinsta": 4388,
         "Bluehost": 3932,
         "Digital Ocean": 3737,
         "SiteGround": 3710,
@@ -742,7 +742,7 @@
         "GoDaddy": 1055,
         "BigScoots": 505,
         "Liquid Web": 427,
-        "WordPress.com": 312,
+        "WordPress.com": 313,
         "GridPane": 293,
         "InMotion Hosting": 286,
         "Elementor Hosting": 282,
