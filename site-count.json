@@ -1,6 +1,11 @@
 {
-    "siteCount": 65921,
+    "siteCount": 65924,
     "recentlyMoved": [
+        {
+            "domain_name": "koglove.com",
+            "destination": "A2 Hosting",
+            "date": "2025-05-07 00:53:10"
+        },
         {
             "domain_name": "gosunaura.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "theoakw12.com",
             "destination": "Hostinger",
             "date": "2025-05-05 01:48:47"
-        },
-        {
-            "domain_name": "theoaklondon.com",
-            "destination": "Hostinger",
-            "date": "2025-05-05 01:48:47"
         }
     ],
     "dailyMovedStat": {
@@ -748,7 +748,7 @@
         "Elementor Hosting": 282,
         "OVH": 258,
         "IONOS": 235,
-        "A2 Hosting": 234,
+        "A2 Hosting": 235,
         "DreamHost": 223,
         "Namecheap": 223,
         "Hetzner Online": 192,
