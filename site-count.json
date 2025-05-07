@@ -1,6 +1,11 @@
 {
-    "siteCount": 65976,
+    "siteCount": 65979,
     "recentlyMoved": [
+        {
+            "domain_name": "norcastconcrete.com",
+            "destination": "SiteGround",
+            "date": "2025-05-07 10:50:18"
+        },
         {
             "domain_name": "eligma.lt",
             "destination": "Digital Ocean",
@@ -15,6 +20,11 @@
             "domain_name": "eligma.agency",
             "destination": "Digital Ocean",
             "date": "2025-05-07 10:26:38"
+        },
+        {
+            "domain_name": "energysystemsgroup.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-07 10:20:48"
         },
         {
             "domain_name": "store.onwire.us",
@@ -490,16 +500,6 @@
             "domain_name": "anandakutirfoundation.org",
             "destination": "Digital Ocean",
             "date": "2025-05-06 03:48:42"
-        },
-        {
-            "domain_name": "fertkel.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-06 03:37:33"
-        },
-        {
-            "domain_name": "beanpak.com.au",
-            "destination": "OVH",
-            "date": "2025-05-06 00:43:56"
         }
     ],
     "dailyMovedStat": {
@@ -736,12 +736,12 @@
         "Pressable": 9257,
         "Kinsta": 4389,
         "Bluehost": 3932,
-        "Digital Ocean": 3739,
-        "SiteGround": 3713,
+        "Digital Ocean": 3742,
+        "SiteGround": 3714,
         "Hostinger": 2341,
         "GoDaddy": 1056,
         "BigScoots": 506,
-        "Liquid Web": 428,
+        "Liquid Web": 429,
         "WordPress.com": 313,
         "GridPane": 293,
         "InMotion Hosting": 288,
