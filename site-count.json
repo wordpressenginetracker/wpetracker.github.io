@@ -1,6 +1,11 @@
 {
-    "siteCount": 65924,
+    "siteCount": 65929,
     "recentlyMoved": [
+        {
+            "domain_name": "maskingdom.com",
+            "destination": "Hostinger",
+            "date": "2025-05-07 01:51:38"
+        },
         {
             "domain_name": "koglove.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "mtpbc.org.au",
             "destination": "SiteGround",
             "date": "2025-05-05 02:22:35"
-        },
-        {
-            "domain_name": "theoakw12.com",
-            "destination": "Hostinger",
-            "date": "2025-05-05 01:48:47"
         }
     ],
     "dailyMovedStat": {
@@ -738,7 +738,7 @@
         "Bluehost": 3932,
         "Digital Ocean": 3737,
         "SiteGround": 3710,
-        "Hostinger": 2340,
+        "Hostinger": 2341,
         "GoDaddy": 1055,
         "BigScoots": 505,
         "Liquid Web": 427,
