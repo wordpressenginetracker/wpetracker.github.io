@@ -1,6 +1,11 @@
 {
-    "siteCount": 66208,
+    "siteCount": 66210,
     "recentlyMoved": [
+        {
+            "domain_name": "es.altamiranoagency.com",
+            "destination": "Bluehost",
+            "date": "2025-05-08 06:47:55"
+        },
         {
             "domain_name": "destination.yotpo.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.kindleylawyers.com",
             "destination": "GoDaddy",
             "date": "2025-05-07 04:02:49"
-        },
-        {
-            "domain_name": "maskingdom.com",
-            "destination": "Hostinger",
-            "date": "2025-05-07 01:51:38"
         }
     ],
     "dailyMovedStat": {
@@ -736,7 +736,7 @@
     "topDestinationHosts": {
         "Pressable": 9262,
         "Kinsta": 4411,
-        "Bluehost": 3933,
+        "Bluehost": 3934,
         "Digital Ocean": 3761,
         "SiteGround": 3729,
         "Hostinger": 2346,
