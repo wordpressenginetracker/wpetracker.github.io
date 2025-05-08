@@ -1,6 +1,21 @@
 {
-    "siteCount": 66346,
+    "siteCount": 66360,
     "recentlyMoved": [
+        {
+            "domain_name": "freshcomms.ca",
+            "destination": "Hostinger",
+            "date": "2025-05-08 18:38:03"
+        },
+        {
+            "domain_name": "meliohomes.ca",
+            "destination": "Hostinger",
+            "date": "2025-05-08 17:58:52"
+        },
+        {
+            "domain_name": "davidgeschke.com",
+            "destination": "Hostinger",
+            "date": "2025-05-08 17:45:23"
+        },
         {
             "domain_name": "cf3rings.com",
             "destination": "A2 Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "corprocpr.com",
             "destination": "Kinsta",
             "date": "2025-05-07 17:09:20"
-        },
-        {
-            "domain_name": "bushidoprotection.com",
-            "destination": "SiteGround",
-            "date": "2025-05-07 17:07:47"
-        },
-        {
-            "domain_name": "www.kenny-electric.com",
-            "destination": "Pressable",
-            "date": "2025-05-07 16:55:43"
-        },
-        {
-            "domain_name": "sfoasa.com",
-            "destination": "Kinsta",
-            "date": "2025-05-07 16:47:51"
         }
     ],
     "dailyMovedStat": {
@@ -739,7 +739,7 @@
         "Bluehost": 3936,
         "Digital Ocean": 3773,
         "SiteGround": 3734,
-        "Hostinger": 2351,
+        "Hostinger": 2353,
         "GoDaddy": 1059,
         "BigScoots": 509,
         "Liquid Web": 432,
