@@ -1,6 +1,21 @@
 {
-    "siteCount": 66185,
+    "siteCount": 66193,
     "recentlyMoved": [
+        {
+            "domain_name": "additude.co.in",
+            "destination": "Digital Ocean",
+            "date": "2025-05-08 04:09:31"
+        },
+        {
+            "domain_name": "goodcatchfoods.com",
+            "destination": "SiteGround",
+            "date": "2025-05-08 04:03:45"
+        },
+        {
+            "domain_name": "gamblino.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-08 03:37:30"
+        },
         {
             "domain_name": "tietoanuorista.fi",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "gosunaura.com",
             "destination": "WordPress.com",
             "date": "2025-05-07 00:23:15"
-        },
-        {
-            "domain_name": "wavenunnally.com",
-            "destination": "Kinsta",
-            "date": "2025-05-06 23:31:48"
-        },
-        {
-            "domain_name": "nunnallyinstitute.org",
-            "destination": "Kinsta",
-            "date": "2025-05-06 23:06:38"
-        },
-        {
-            "domain_name": "rosineperelberg.com",
-            "destination": "Hostinger",
-            "date": "2025-05-06 21:55:58"
         }
     ],
     "dailyMovedStat": {
@@ -737,8 +737,8 @@
         "Pressable": 9262,
         "Kinsta": 4411,
         "Bluehost": 3933,
-        "Digital Ocean": 3758,
-        "SiteGround": 3728,
+        "Digital Ocean": 3760,
+        "SiteGround": 3729,
         "Hostinger": 2346,
         "GoDaddy": 1059,
         "BigScoots": 508,
