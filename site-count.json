@@ -1,6 +1,26 @@
 {
-    "siteCount": 66458,
+    "siteCount": 66470,
     "recentlyMoved": [
+        {
+            "domain_name": "southeastbowls.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-09 05:42:26"
+        },
+        {
+            "domain_name": "ccbowls.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-09 04:58:11"
+        },
+        {
+            "domain_name": "huntervalleybowls.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-09 04:20:06"
+        },
+        {
+            "domain_name": "illawarrabowls.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-09 04:12:35"
+        },
         {
             "domain_name": "greaternewcastlebowls.com.au",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "www.epayme.co.uk",
             "destination": "IONOS",
             "date": "2025-05-08 04:30:12"
-        },
-        {
-            "domain_name": "additude.co.in",
-            "destination": "Digital Ocean",
-            "date": "2025-05-08 04:09:31"
-        },
-        {
-            "domain_name": "goodcatchfoods.com",
-            "destination": "SiteGround",
-            "date": "2025-05-08 04:03:45"
-        },
-        {
-            "domain_name": "gamblino.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-08 03:37:30"
-        },
-        {
-            "domain_name": "elitecleanerstailors.com",
-            "destination": "SiteGround",
-            "date": "2025-05-08 01:59:02"
         }
     ],
     "dailyMovedStat": {
@@ -739,7 +739,7 @@
         "Kinsta": 4428,
         "Bluehost": 3937,
         "Digital Ocean": 3775,
-        "SiteGround": 3748,
+        "SiteGround": 3752,
         "Hostinger": 2358,
         "GoDaddy": 1059,
         "BigScoots": 509,
