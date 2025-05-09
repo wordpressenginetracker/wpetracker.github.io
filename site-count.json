@@ -1,6 +1,11 @@
 {
-    "siteCount": 66684,
+    "siteCount": 66691,
     "recentlyMoved": [
+        {
+            "domain_name": "delicesdelyly.ca",
+            "destination": "OVH",
+            "date": "2025-05-09 21:59:04"
+        },
         {
             "domain_name": "shoop.net",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "cf3rings.com",
             "destination": "A2 Hosting",
             "date": "2025-05-08 17:41:27"
-        },
-        {
-            "domain_name": "www.mikegoodsonroofingllc.com",
-            "destination": "Pressable",
-            "date": "2025-05-08 17:06:22"
         }
     ],
     "dailyMovedStat": {
@@ -748,7 +748,7 @@
         "GridPane": 295,
         "InMotion Hosting": 289,
         "Elementor Hosting": 284,
-        "OVH": 259,
+        "OVH": 260,
         "A2 Hosting": 257,
         "IONOS": 237,
         "DreamHost": 227,
