@@ -1,6 +1,11 @@
 {
-    "siteCount": 66616,
+    "siteCount": 66670,
     "recentlyMoved": [
+        {
+            "domain_name": "anchorcenter.org",
+            "destination": "SiteGround",
+            "date": "2025-05-09 20:07:49"
+        },
         {
             "domain_name": "viviscape.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-05-08 16:40:06"
         },
         {
-            "domain_name": "bangorcultureandartscollective.com",
-            "destination": "DreamHost",
-            "date": "2025-05-08 16:22:25"
-        },
-        {
             "domain_name": "realliferesources.org",
             "destination": "Digital Ocean",
             "date": "2025-05-08 16:16:35"
@@ -738,13 +738,13 @@
         "Pressable": 9277,
         "Kinsta": 4443,
         "Bluehost": 3939,
-        "Digital Ocean": 3779,
-        "SiteGround": 3758,
-        "Hostinger": 2369,
+        "Digital Ocean": 3780,
+        "SiteGround": 3759,
+        "Hostinger": 2370,
         "GoDaddy": 1061,
         "BigScoots": 510,
         "Liquid Web": 435,
-        "WordPress.com": 318,
+        "WordPress.com": 319,
         "GridPane": 295,
         "InMotion Hosting": 289,
         "Elementor Hosting": 284,
@@ -753,7 +753,7 @@
         "IONOS": 237,
         "DreamHost": 227,
         "Namecheap": 225,
-        "Hetzner Online": 192,
+        "Hetzner Online": 194,
         "Wordify": 183
     },
     "dailyTotalStat": {
