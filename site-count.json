@@ -1,6 +1,16 @@
 {
-    "siteCount": 66451,
+    "siteCount": 66453,
     "recentlyMoved": [
+        {
+            "domain_name": "newsline.colesag.com",
+            "destination": "Namecheap",
+            "date": "2025-05-09 02:42:49"
+        },
+        {
+            "domain_name": "nepeanhighlandersbowls.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-09 02:39:57"
+        },
         {
             "domain_name": "metrosouthwestbowls.com.au",
             "destination": "SiteGround",
@@ -487,19 +497,9 @@
             "date": "2025-05-08 01:59:02"
         },
         {
-            "domain_name": "www.studiotate.com.au",
-            "destination": "Kinsta",
-            "date": "2025-05-08 01:56:27"
-        },
-        {
             "domain_name": "themightywonton.com",
             "destination": "Kinsta",
             "date": "2025-05-08 01:52:43"
-        },
-        {
-            "domain_name": "hccta.org",
-            "destination": "SiteGround",
-            "date": "2025-05-08 00:09:35"
         }
     ],
     "dailyMovedStat": {
@@ -739,7 +739,7 @@
         "Kinsta": 4428,
         "Bluehost": 3937,
         "Digital Ocean": 3774,
-        "SiteGround": 3746,
+        "SiteGround": 3747,
         "Hostinger": 2358,
         "GoDaddy": 1059,
         "BigScoots": 509,
@@ -752,7 +752,7 @@
         "A2 Hosting": 249,
         "IONOS": 237,
         "DreamHost": 226,
-        "Namecheap": 224,
+        "Namecheap": 225,
         "Hetzner Online": 192,
         "Wordify": 183
     },
