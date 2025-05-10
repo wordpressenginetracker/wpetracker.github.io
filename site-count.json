@@ -1,6 +1,16 @@
 {
-    "siteCount": 66757,
+    "siteCount": 66764,
     "recentlyMoved": [
+        {
+            "domain_name": "kvsmillet.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-10 09:07:00"
+        },
+        {
+            "domain_name": "somoscuatro.es",
+            "destination": "Hetzner Online",
+            "date": "2025-05-10 09:05:49"
+        },
         {
             "domain_name": "helpmegrowcalhoun.org",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "riverinamurraybowls.com.au",
             "destination": "SiteGround",
             "date": "2025-05-09 01:03:04"
-        },
-        {
-            "domain_name": "arzacanada.org",
-            "destination": "Hostinger",
-            "date": "2025-05-09 00:28:57"
-        },
-        {
-            "domain_name": "gethsemanecathedralfargo.org",
-            "destination": "Kinsta",
-            "date": "2025-05-08 23:54:01"
         }
     ],
     "dailyMovedStat": {
@@ -739,7 +739,7 @@
         "Pressable": 9277,
         "Kinsta": 4446,
         "Bluehost": 3941,
-        "Digital Ocean": 3785,
+        "Digital Ocean": 3787,
         "SiteGround": 3763,
         "Hostinger": 2373,
         "GoDaddy": 1061,
@@ -754,7 +754,7 @@
         "IONOS": 237,
         "DreamHost": 227,
         "Namecheap": 225,
-        "Hetzner Online": 194,
+        "Hetzner Online": 195,
         "Wordify": 183
     },
     "dailyTotalStat": {
