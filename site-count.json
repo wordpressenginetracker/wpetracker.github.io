@@ -1,6 +1,16 @@
 {
-    "siteCount": 66693,
+    "siteCount": 66701,
     "recentlyMoved": [
+        {
+            "domain_name": "happydesigncompany.com",
+            "destination": "Kinsta",
+            "date": "2025-05-09 23:51:03"
+        },
+        {
+            "domain_name": "wallofsound.ca",
+            "destination": "Bluehost",
+            "date": "2025-05-09 23:50:06"
+        },
         {
             "domain_name": "delicesdelyly.ca",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "meliohomes.ca",
             "destination": "Hostinger",
             "date": "2025-05-08 17:58:52"
-        },
-        {
-            "domain_name": "davidgeschke.com",
-            "destination": "Hostinger",
-            "date": "2025-05-08 17:45:23"
-        },
-        {
-            "domain_name": "cf3rings.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-08 17:41:27"
         }
     ],
     "dailyMovedStat": {
@@ -737,8 +737,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 9277,
-        "Kinsta": 4443,
-        "Bluehost": 3940,
+        "Kinsta": 4444,
+        "Bluehost": 3941,
         "Digital Ocean": 3782,
         "SiteGround": 3760,
         "Hostinger": 2370,
