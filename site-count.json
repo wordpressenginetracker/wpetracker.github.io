@@ -1,6 +1,16 @@
 {
-    "siteCount": 66924,
+    "siteCount": 66930,
     "recentlyMoved": [
+        {
+            "domain_name": "sandovallegal.com",
+            "destination": "Kinsta",
+            "date": "2025-05-10 21:12:07"
+        },
+        {
+            "domain_name": "hudsonfilmr.com",
+            "destination": "DreamHost",
+            "date": "2025-05-10 20:44:57"
+        },
         {
             "domain_name": "www.truenorthsj.com",
             "destination": "DreamHost",
@@ -490,16 +500,6 @@
             "domain_name": "www.alhintonlaw.com",
             "destination": "Bluehost",
             "date": "2025-05-09 15:45:58"
-        },
-        {
-            "domain_name": "crossfitcp.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-09 13:57:43"
-        },
-        {
-            "domain_name": "crossfitcitrine.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-09 13:57:43"
         }
     ],
     "dailyMovedStat": {
@@ -737,7 +737,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9283,
-        "Kinsta": 4455,
+        "Kinsta": 4456,
         "Bluehost": 3941,
         "Digital Ocean": 3795,
         "SiteGround": 3771,
@@ -752,7 +752,7 @@
         "A2 Hosting": 261,
         "OVH": 260,
         "IONOS": 237,
-        "DreamHost": 228,
+        "DreamHost": 229,
         "Namecheap": 227,
         "Hetzner Online": 195,
         "Wordify": 183
