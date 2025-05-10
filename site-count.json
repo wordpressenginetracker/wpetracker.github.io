@@ -1,6 +1,11 @@
 {
-    "siteCount": 66701,
+    "siteCount": 66708,
     "recentlyMoved": [
+        {
+            "domain_name": "s2genomics.com",
+            "destination": "SiteGround",
+            "date": "2025-05-10 00:22:46"
+        },
         {
             "domain_name": "happydesigncompany.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "freshcomms.ca",
             "destination": "Hostinger",
             "date": "2025-05-08 18:38:03"
-        },
-        {
-            "domain_name": "meliohomes.ca",
-            "destination": "Hostinger",
-            "date": "2025-05-08 17:58:52"
         }
     ],
     "dailyMovedStat": {
@@ -740,7 +740,7 @@
         "Kinsta": 4444,
         "Bluehost": 3941,
         "Digital Ocean": 3782,
-        "SiteGround": 3760,
+        "SiteGround": 3761,
         "Hostinger": 2370,
         "GoDaddy": 1061,
         "BigScoots": 510,
