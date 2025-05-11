@@ -1,6 +1,11 @@
 {
-    "siteCount": 67041,
+    "siteCount": 67045,
     "recentlyMoved": [
+        {
+            "domain_name": "centurawealth.com",
+            "destination": "Kinsta",
+            "date": "2025-05-11 21:09:49"
+        },
         {
             "domain_name": "www.bethpageobgyn.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "viviscape.com",
             "destination": "Hostinger",
             "date": "2025-05-09 18:49:57"
-        },
-        {
-            "domain_name": "virginiavendingenterprises.com",
-            "destination": "Kinsta",
-            "date": "2025-05-09 18:44:14"
         }
     ],
     "dailyMovedStat": {
@@ -738,7 +738,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9283,
-        "Kinsta": 4462,
+        "Kinsta": 4463,
         "Bluehost": 3941,
         "Digital Ocean": 3800,
         "SiteGround": 3774,
