@@ -1,6 +1,16 @@
 {
-    "siteCount": 66942,
+    "siteCount": 66946,
     "recentlyMoved": [
+        {
+            "domain_name": "childrenwithoutborders.ca",
+            "destination": "GoDaddy",
+            "date": "2025-05-11 01:28:45"
+        },
+        {
+            "domain_name": "jsconnor.com",
+            "destination": "SiteGround",
+            "date": "2025-05-11 00:42:12"
+        },
         {
             "domain_name": "mjdtransporthauling.net",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "killarneylakeside.com",
             "destination": "WordPress VIP",
             "date": "2025-05-09 16:39:32"
-        },
-        {
-            "domain_name": "www.deluxcabinets.com",
-            "destination": "SiteGround",
-            "date": "2025-05-09 16:13:00"
-        },
-        {
-            "domain_name": "www.cosmeticdermatologyblog.com",
-            "destination": "Kinsta",
-            "date": "2025-05-09 15:52:01"
         }
     ],
     "dailyMovedStat": {
@@ -741,7 +741,7 @@
         "Kinsta": 4456,
         "Bluehost": 3941,
         "Digital Ocean": 3795,
-        "SiteGround": 3772,
+        "SiteGround": 3773,
         "Hostinger": 2383,
         "GoDaddy": 1064,
         "BigScoots": 511,
