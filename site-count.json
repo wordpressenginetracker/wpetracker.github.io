@@ -1,6 +1,11 @@
 {
-    "siteCount": 66978,
+    "siteCount": 66981,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wagmag.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-11 09:28:37"
+        },
         {
             "domain_name": "www.escapetaunton.co.uk",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "cheeleylawgroup.com",
             "destination": "Hostinger",
             "date": "2025-05-09 17:18:36"
-        },
-        {
-            "domain_name": "chaikenvision.com",
-            "destination": "Kinsta",
-            "date": "2025-05-09 17:00:51"
         }
     ],
     "dailyMovedStat": {
@@ -745,7 +745,7 @@
         "Hostinger": 2383,
         "GoDaddy": 1065,
         "BigScoots": 511,
-        "Liquid Web": 435,
+        "Liquid Web": 436,
         "WordPress.com": 324,
         "GridPane": 296,
         "InMotion Hosting": 290,
