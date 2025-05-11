@@ -1,6 +1,11 @@
 {
-    "siteCount": 66996,
+    "siteCount": 67001,
     "recentlyMoved": [
+        {
+            "domain_name": "countertopworldar.com",
+            "destination": "Kinsta",
+            "date": "2025-05-11 13:44:28"
+        },
         {
             "domain_name": "c-suitesaunas.com",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-05-09 18:17:40"
         },
         {
-            "domain_name": "dentistryofhockessin.com",
-            "destination": "Kinsta",
-            "date": "2025-05-09 18:13:45"
-        },
-        {
             "domain_name": "truefuture.tv",
             "destination": "SiteGround",
             "date": "2025-05-09 18:11:47"
@@ -738,7 +738,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9283,
-        "Kinsta": 4460,
+        "Kinsta": 4461,
         "Bluehost": 3941,
         "Digital Ocean": 3797,
         "SiteGround": 3774,
