@@ -1,6 +1,11 @@
 {
-    "siteCount": 67078,
+    "siteCount": 67084,
     "recentlyMoved": [
+        {
+            "domain_name": "alyahospital.com",
+            "destination": "Hostinger",
+            "date": "2025-05-12 07:34:05"
+        },
         {
             "domain_name": "ledbetteraudiology.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "tempotec.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-05-10 01:18:25"
-        },
-        {
-            "domain_name": "s2genomics.com",
-            "destination": "SiteGround",
-            "date": "2025-05-10 00:22:46"
         }
     ],
     "dailyMovedStat": {
@@ -743,7 +743,7 @@
         "Bluehost": 3944,
         "Digital Ocean": 3801,
         "SiteGround": 3777,
-        "Hostinger": 2384,
+        "Hostinger": 2385,
         "GoDaddy": 1065,
         "BigScoots": 511,
         "Liquid Web": 438,
