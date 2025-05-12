@@ -1,6 +1,16 @@
 {
-    "siteCount": 67142,
+    "siteCount": 67147,
     "recentlyMoved": [
+        {
+            "domain_name": "www.storyease.com",
+            "destination": "SiteGround",
+            "date": "2025-05-12 21:47:32"
+        },
+        {
+            "domain_name": "thewildflowergrill.com",
+            "destination": "BigScoots",
+            "date": "2025-05-12 21:37:01"
+        },
         {
             "domain_name": "wiatt.org",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "coxhavenvending.com",
             "destination": "SiteGround",
             "date": "2025-05-10 05:36:34"
-        },
-        {
-            "domain_name": "ladyandthehair.com.au",
-            "destination": "SiteGround",
-            "date": "2025-05-10 05:16:26"
-        },
-        {
-            "domain_name": "jhtdesign.com",
-            "destination": "Kinsta",
-            "date": "2025-05-10 04:29:38"
         }
     ],
     "dailyMovedStat": {
@@ -742,10 +742,10 @@
         "Kinsta": 4464,
         "Bluehost": 3946,
         "Digital Ocean": 3801,
-        "SiteGround": 3777,
+        "SiteGround": 3778,
         "Hostinger": 2387,
         "GoDaddy": 1067,
-        "BigScoots": 511,
+        "BigScoots": 512,
         "Liquid Web": 438,
         "WordPress.com": 324,
         "GridPane": 296,
