@@ -1,10 +1,25 @@
 {
-    "siteCount": 67056,
+    "siteCount": 67059,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cowandapple.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-05-12 00:22:16"
+        },
         {
             "domain_name": "gloryboundmn.org",
             "destination": "SiteGround",
             "date": "2025-05-12 00:19:56"
+        },
+        {
+            "domain_name": "beaverplumbingandheating.com",
+            "destination": "Hostinger",
+            "date": "2025-05-12 00:17:40"
+        },
+        {
+            "domain_name": "www.cybersecurity-insiders.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-12 00:13:16"
         },
         {
             "domain_name": "pressconf.events",
@@ -485,21 +500,6 @@
             "domain_name": "shoop.net",
             "destination": "Digital Ocean",
             "date": "2025-05-09 20:50:16"
-        },
-        {
-            "domain_name": "joemalonetraining.com",
-            "destination": "SiteGround",
-            "date": "2025-05-09 20:48:35"
-        },
-        {
-            "domain_name": "robertositalianpizzeria.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-09 20:41:48"
-        },
-        {
-            "domain_name": "reverence.media",
-            "destination": "Bluehost",
-            "date": "2025-05-09 20:21:17"
         }
     ],
     "dailyMovedStat": {
@@ -741,9 +741,9 @@
         "Pressable": 9283,
         "Kinsta": 4463,
         "Bluehost": 3942,
-        "Digital Ocean": 3800,
-        "SiteGround": 3775,
-        "Hostinger": 2383,
+        "Digital Ocean": 3801,
+        "SiteGround": 3776,
+        "Hostinger": 2384,
         "GoDaddy": 1065,
         "BigScoots": 511,
         "Liquid Web": 438,
