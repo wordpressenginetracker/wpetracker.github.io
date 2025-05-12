@@ -1,6 +1,11 @@
 {
-    "siteCount": 67075,
+    "siteCount": 67078,
     "recentlyMoved": [
+        {
+            "domain_name": "ledbetteraudiology.com",
+            "destination": "Bluehost",
+            "date": "2025-05-12 04:59:41"
+        },
         {
             "domain_name": "roamhumanitarian.org",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "s2genomics.com",
             "destination": "SiteGround",
             "date": "2025-05-10 00:22:46"
-        },
-        {
-            "domain_name": "happydesigncompany.com",
-            "destination": "Kinsta",
-            "date": "2025-05-09 23:51:03"
         }
     ],
     "dailyMovedStat": {
@@ -740,7 +740,7 @@
     "topDestinationHosts": {
         "Pressable": 9283,
         "Kinsta": 4463,
-        "Bluehost": 3943,
+        "Bluehost": 3944,
         "Digital Ocean": 3801,
         "SiteGround": 3777,
         "Hostinger": 2384,
