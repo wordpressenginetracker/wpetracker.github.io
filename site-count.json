@@ -1,6 +1,11 @@
 {
-    "siteCount": 67105,
+    "siteCount": 67108,
     "recentlyMoved": [
+        {
+            "domain_name": "ballardmachineworks.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-12 16:09:10"
+        },
         {
             "domain_name": "evolvedance.net",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.enkeleksamen.no",
             "destination": "Kinsta",
             "date": "2025-05-10 04:06:06"
-        },
-        {
-            "domain_name": "unitedsteak.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-10 02:12:26"
         }
     ],
     "dailyMovedStat": {
@@ -744,7 +744,7 @@
         "Digital Ocean": 3801,
         "SiteGround": 3777,
         "Hostinger": 2385,
-        "GoDaddy": 1066,
+        "GoDaddy": 1067,
         "BigScoots": 511,
         "Liquid Web": 438,
         "WordPress.com": 324,
