@@ -1,6 +1,11 @@
 {
-    "siteCount": 67213,
+    "siteCount": 67215,
     "recentlyMoved": [
+        {
+            "domain_name": "visualwind.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-05-13 10:34:55"
+        },
         {
             "domain_name": "zlataglad.com",
             "destination": "OVH",
@@ -467,11 +472,6 @@
             "date": "2025-05-10 13:02:47"
         },
         {
-            "domain_name": "www.deeterdentalgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-05-10 12:45:01"
-        },
-        {
             "domain_name": "interculturaheredia.com",
             "destination": "Hostinger",
             "date": "2025-05-10 12:43:48"
@@ -743,7 +743,7 @@
         "Kinsta": 4469,
         "Bluehost": 3946,
         "Digital Ocean": 3808,
-        "SiteGround": 3780,
+        "SiteGround": 3781,
         "Hostinger": 2390,
         "GoDaddy": 1067,
         "BigScoots": 512,
