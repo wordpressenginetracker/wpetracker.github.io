@@ -1,6 +1,21 @@
 {
-    "siteCount": 67387,
+    "siteCount": 67391,
     "recentlyMoved": [
+        {
+            "domain_name": "doyleloghomes.com",
+            "destination": "Kinsta",
+            "date": "2025-05-13 22:23:09"
+        },
+        {
+            "domain_name": "goldenlighthealingnyc.com",
+            "destination": "Hostinger",
+            "date": "2025-05-13 22:02:21"
+        },
+        {
+            "domain_name": "designlectur.es",
+            "destination": "DreamHost",
+            "date": "2025-05-13 21:37:55"
+        },
         {
             "domain_name": "www.joepalermo.com",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "edmontoneyelids.ca",
             "destination": "DreamHost",
             "date": "2025-05-13 06:35:17"
-        },
-        {
-            "domain_name": "thegidocs.com",
-            "destination": "Kinsta",
-            "date": "2025-05-13 06:15:50"
-        },
-        {
-            "domain_name": "bahr.no",
-            "destination": "Digital Ocean",
-            "date": "2025-05-13 04:37:50"
-        },
-        {
-            "domain_name": "ovusmedical.com",
-            "destination": "Hostinger",
-            "date": "2025-05-13 03:25:17"
         }
     ],
     "dailyMovedStat": {
@@ -740,7 +740,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9291,
-        "Kinsta": 4482,
+        "Kinsta": 4483,
         "Bluehost": 3949,
         "Digital Ocean": 3838,
         "SiteGround": 3789,
@@ -756,7 +756,7 @@
         "OVH": 262,
         "IONOS": 238,
         "Namecheap": 232,
-        "DreamHost": 231,
+        "DreamHost": 232,
         "Hetzner Online": 197,
         "Wordify": 183
     },
