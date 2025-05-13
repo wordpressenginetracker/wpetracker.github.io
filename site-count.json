@@ -1,10 +1,15 @@
 {
-    "siteCount": 67391,
+    "siteCount": 67392,
     "recentlyMoved": [
         {
             "domain_name": "doyleloghomes.com",
             "destination": "Kinsta",
             "date": "2025-05-13 22:23:09"
+        },
+        {
+            "domain_name": "naturestable.com",
+            "destination": "HostGator",
+            "date": "2025-05-13 22:19:40"
         },
         {
             "domain_name": "goldenlighthealingnyc.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.huntersmoonretreat.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-05-13 07:18:41"
-        },
-        {
-            "domain_name": "edmontoneyelids.ca",
-            "destination": "DreamHost",
-            "date": "2025-05-13 06:35:17"
         }
     ],
     "dailyMovedStat": {
@@ -736,7 +736,8 @@
         "2025-05-09": "66693",
         "2025-05-10": "66939",
         "2025-05-11": "67051",
-        "2025-05-12": "67147"
+        "2025-05-12": "67147",
+        "2025-05-13": "67392"
     },
     "topDestinationHosts": {
         "Pressable": 9291,
@@ -744,7 +745,7 @@
         "Bluehost": 3949,
         "Digital Ocean": 3838,
         "SiteGround": 3789,
-        "Hostinger": 2394,
+        "Hostinger": 2395,
         "GoDaddy": 1070,
         "BigScoots": 515,
         "Liquid Web": 441,
@@ -994,6 +995,7 @@
         "2025-05-09": "628116",
         "2025-05-10": "627458",
         "2025-05-11": "628549",
-        "2025-05-12": "625863"
+        "2025-05-12": "625863",
+        "2025-05-13": "627210"
     }
 }
