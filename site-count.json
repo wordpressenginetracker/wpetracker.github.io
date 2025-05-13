@@ -1,6 +1,16 @@
 {
-    "siteCount": 67162,
+    "siteCount": 67171,
     "recentlyMoved": [
+        {
+            "domain_name": "bahr.no",
+            "destination": "Digital Ocean",
+            "date": "2025-05-13 04:37:50"
+        },
+        {
+            "domain_name": "ovusmedical.com",
+            "destination": "Hostinger",
+            "date": "2025-05-13 03:25:17"
+        },
         {
             "domain_name": "tobiaspartners.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "crossfitcoloradosprings.com",
             "destination": "A2 Hosting",
             "date": "2025-05-10 09:47:07"
-        },
-        {
-            "domain_name": "crossfitcarnage.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-10 09:47:07"
-        },
-        {
-            "domain_name": "crossfitbravura.net",
-            "destination": "A2 Hosting",
-            "date": "2025-05-10 09:47:07"
         }
     ],
     "dailyMovedStat": {
@@ -744,7 +744,7 @@
         "Bluehost": 3946,
         "Digital Ocean": 3802,
         "SiteGround": 3779,
-        "Hostinger": 2388,
+        "Hostinger": 2389,
         "GoDaddy": 1067,
         "BigScoots": 512,
         "Liquid Web": 438,
