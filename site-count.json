@@ -1,6 +1,16 @@
 {
-    "siteCount": 67175,
+    "siteCount": 67182,
     "recentlyMoved": [
+        {
+            "domain_name": "edmontoneyelids.ca",
+            "destination": "DreamHost",
+            "date": "2025-05-13 06:35:17"
+        },
+        {
+            "domain_name": "thegidocs.com",
+            "destination": "Kinsta",
+            "date": "2025-05-13 06:15:50"
+        },
         {
             "domain_name": "bahr.no",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "maartech.com",
             "destination": "Hostinger",
             "date": "2025-05-10 10:32:07"
-        },
-        {
-            "domain_name": "tilerestoration.ie",
-            "destination": "Hostinger",
-            "date": "2025-05-10 10:31:10"
-        },
-        {
-            "domain_name": "crossfitcoloradosprings.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-10 09:47:07"
         }
     ],
     "dailyMovedStat": {
@@ -740,7 +740,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9283,
-        "Kinsta": 4467,
+        "Kinsta": 4468,
         "Bluehost": 3946,
         "Digital Ocean": 3803,
         "SiteGround": 3779,
@@ -756,7 +756,7 @@
         "OVH": 260,
         "IONOS": 237,
         "Namecheap": 230,
-        "DreamHost": 229,
+        "DreamHost": 230,
         "Hetzner Online": 196,
         "Wordify": 183
     },
