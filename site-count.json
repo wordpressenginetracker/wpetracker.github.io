@@ -1,6 +1,11 @@
 {
-    "siteCount": 67149,
+    "siteCount": 67154,
     "recentlyMoved": [
+        {
+            "domain_name": "caswellcovemarina.net",
+            "destination": "Digital Ocean",
+            "date": "2025-05-13 01:19:29"
+        },
         {
             "domain_name": "happyoak.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "somoscuatro.es",
             "destination": "Hetzner Online",
             "date": "2025-05-10 09:05:49"
-        },
-        {
-            "domain_name": "helpmegrowcalhoun.org",
-            "destination": "Digital Ocean",
-            "date": "2025-05-10 08:39:55"
         }
     ],
     "dailyMovedStat": {
@@ -742,7 +742,7 @@
         "Pressable": 9283,
         "Kinsta": 4465,
         "Bluehost": 3946,
-        "Digital Ocean": 3801,
+        "Digital Ocean": 3802,
         "SiteGround": 3778,
         "Hostinger": 2388,
         "GoDaddy": 1067,
