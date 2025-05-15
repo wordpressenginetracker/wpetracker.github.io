@@ -1,10 +1,20 @@
 {
-    "siteCount": 67696,
+    "siteCount": 67712,
     "recentlyMoved": [
+        {
+            "domain_name": "capitolviewwinery.com",
+            "destination": "SiteGround",
+            "date": "2025-05-15 08:38:32"
+        },
         {
             "domain_name": "gabrielaguraiiblaw.com",
             "destination": "Pressable",
             "date": "2025-05-15 08:04:53"
+        },
+        {
+            "domain_name": "beddingbarn.com.au",
+            "destination": "Kinsta",
+            "date": "2025-05-15 07:59:18"
         },
         {
             "domain_name": "freedmarcroft.com",
@@ -490,16 +500,6 @@
             "domain_name": "wendycityfaces.com",
             "destination": "Pressable",
             "date": "2025-05-14 03:33:34"
-        },
-        {
-            "domain_name": "oneposuniversity.com",
-            "destination": "SiteGround",
-            "date": "2025-05-14 03:26:13"
-        },
-        {
-            "domain_name": "treocreate.com.au",
-            "destination": "Kinsta",
-            "date": "2025-05-14 02:13:54"
         }
     ],
     "dailyMovedStat": {
@@ -741,11 +741,11 @@
         "2025-05-14": "67640"
     },
     "topDestinationHosts": {
-        "Pressable": 9307,
-        "Kinsta": 4502,
+        "Pressable": 9308,
+        "Kinsta": 4503,
         "Bluehost": 3953,
         "Digital Ocean": 3850,
-        "SiteGround": 3808,
+        "SiteGround": 3812,
         "Hostinger": 2408,
         "GoDaddy": 1072,
         "BigScoots": 518,
