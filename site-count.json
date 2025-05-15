@@ -1,5 +1,5 @@
 {
-    "siteCount": 67899,
+    "siteCount": 67901,
     "recentlyMoved": [
         {
             "domain_name": "dustycoast.com",
@@ -7,9 +7,19 @@
             "date": "2025-05-15 22:36:57"
         },
         {
+            "domain_name": "nevilleeng.com",
+            "destination": "Namecheap",
+            "date": "2025-05-15 22:26:24"
+        },
+        {
             "domain_name": "mcalester.health",
             "destination": "Kinsta",
             "date": "2025-05-15 22:02:11"
+        },
+        {
+            "domain_name": "eoawc.org",
+            "destination": "Kinsta",
+            "date": "2025-05-15 21:59:09"
         },
         {
             "domain_name": "creeksideinn.com",
@@ -472,11 +482,6 @@
             "date": "2025-05-14 21:29:18"
         },
         {
-            "domain_name": "backfromdementia.com",
-            "destination": "Bluehost",
-            "date": "2025-05-14 20:48:42"
-        },
-        {
             "domain_name": "hide.bar",
             "destination": "Hostinger",
             "date": "2025-05-14 20:46:02"
@@ -495,11 +500,6 @@
             "domain_name": "barrister-hall.com",
             "destination": "Pressable",
             "date": "2025-05-14 20:10:04"
-        },
-        {
-            "domain_name": "anti-planner.com",
-            "destination": "Pressable",
-            "date": "2025-05-14 19:50:00"
         }
     ],
     "dailyMovedStat": {
@@ -738,11 +738,12 @@
         "2025-05-11": "67051",
         "2025-05-12": "67147",
         "2025-05-13": "67392",
-        "2025-05-14": "67640"
+        "2025-05-14": "67640",
+        "2025-05-15": "67901"
     },
     "topDestinationHosts": {
         "Pressable": 9314,
-        "Kinsta": 4520,
+        "Kinsta": 4521,
         "Bluehost": 3954,
         "Digital Ocean": 3860,
         "SiteGround": 3822,
@@ -758,7 +759,7 @@
         "OVH": 265,
         "DreamHost": 242,
         "IONOS": 239,
-        "Namecheap": 234,
+        "Namecheap": 235,
         "Hetzner Online": 198,
         "Wordify": 183
     },
@@ -998,6 +999,7 @@
         "2025-05-11": "628549",
         "2025-05-12": "625863",
         "2025-05-13": "627210",
-        "2025-05-14": "626539"
+        "2025-05-14": "626539",
+        "2025-05-15": "625772"
     }
 }
