@@ -1,10 +1,20 @@
 {
-    "siteCount": 67650,
+    "siteCount": 67657,
     "recentlyMoved": [
+        {
+            "domain_name": "indepthgeotech.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-15 00:57:34"
+        },
         {
             "domain_name": "www.cschomecare.com",
             "destination": "WordPress.com",
             "date": "2025-05-15 00:44:52"
+        },
+        {
+            "domain_name": "sdic.org",
+            "destination": "A2 Hosting",
+            "date": "2025-05-15 00:27:39"
         },
         {
             "domain_name": "aokrr.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.eyesolutionsardmore.com",
             "destination": "Kinsta",
             "date": "2025-05-13 20:25:33"
-        },
-        {
-            "domain_name": "hearing.rkaudiology.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-13 20:19:52"
-        },
-        {
-            "domain_name": "barrierreeffishingcharter.com.au",
-            "destination": "SiteGround",
-            "date": "2025-05-13 20:15:30"
         }
     ],
     "dailyMovedStat": {
@@ -745,16 +745,16 @@
         "Kinsta": 4502,
         "Bluehost": 3953,
         "Digital Ocean": 3848,
-        "SiteGround": 3805,
+        "SiteGround": 3806,
         "Hostinger": 2406,
         "GoDaddy": 1072,
         "BigScoots": 518,
         "Liquid Web": 443,
-        "WordPress.com": 325,
+        "WordPress.com": 326,
         "GridPane": 297,
         "InMotion Hosting": 294,
         "Elementor Hosting": 284,
-        "A2 Hosting": 266,
+        "A2 Hosting": 267,
         "OVH": 263,
         "IONOS": 239,
         "DreamHost": 234,
