@@ -1,10 +1,15 @@
 {
-    "siteCount": 68123,
+    "siteCount": 68126,
     "recentlyMoved": [
         {
             "domain_name": "theyellowgazebo.com",
             "destination": "Kinsta",
             "date": "2025-05-16 18:12:14"
+        },
+        {
+            "domain_name": "vickiehowell.com",
+            "destination": "SiteGround",
+            "date": "2025-05-16 18:08:08"
         },
         {
             "domain_name": "kw-oiaa.ca",
@@ -495,11 +500,6 @@
             "domain_name": "centerportdental.com",
             "destination": "SiteGround",
             "date": "2025-05-15 16:51:18"
-        },
-        {
-            "domain_name": "jcrhc.org",
-            "destination": "GoDaddy",
-            "date": "2025-05-15 16:39:26"
         }
     ],
     "dailyMovedStat": {
@@ -746,8 +746,8 @@
         "Kinsta": 4547,
         "Bluehost": 3957,
         "Digital Ocean": 3874,
-        "SiteGround": 3830,
-        "Hostinger": 2428,
+        "SiteGround": 3831,
+        "Hostinger": 2429,
         "GoDaddy": 1074,
         "BigScoots": 521,
         "Liquid Web": 445,
