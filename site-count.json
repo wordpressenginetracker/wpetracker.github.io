@@ -1,6 +1,11 @@
 {
-    "siteCount": 68393,
+    "siteCount": 68396,
     "recentlyMoved": [
+        {
+            "domain_name": "kratzerconsulting.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-17 21:40:52"
+        },
         {
             "domain_name": "winstonscup.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.bciref.com",
             "destination": "Pressable",
             "date": "2025-05-16 15:51:54"
-        },
-        {
-            "domain_name": "giffordfamilydentistry.com",
-            "destination": "Hostinger",
-            "date": "2025-05-16 15:44:59"
         }
     ],
     "dailyMovedStat": {
@@ -745,13 +745,13 @@
     "topDestinationHosts": {
         "Pressable": 9332,
         "Kinsta": 4580,
-        "Bluehost": 3957,
+        "Bluehost": 3958,
         "Digital Ocean": 3887,
-        "SiteGround": 3833,
+        "SiteGround": 3835,
         "Hostinger": 2443,
         "GoDaddy": 1076,
         "BigScoots": 523,
-        "Liquid Web": 447,
+        "Liquid Web": 448,
         "WordPress.com": 329,
         "GridPane": 300,
         "InMotion Hosting": 296,
