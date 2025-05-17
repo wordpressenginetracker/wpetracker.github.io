@@ -1,6 +1,11 @@
 {
-    "siteCount": 68331,
+    "siteCount": 68338,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dhaval-jadav.com",
+            "destination": "Kinsta",
+            "date": "2025-05-17 16:47:47"
+        },
         {
             "domain_name": "forestlakes.net",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-05-16 14:12:48"
         },
         {
-            "domain_name": "www.shopwarehousebargains.com",
-            "destination": "SiteGround",
-            "date": "2025-05-16 13:59:30"
-        },
-        {
             "domain_name": "theknitshow.com",
             "destination": "SiteGround",
             "date": "2025-05-16 13:34:24"
@@ -744,11 +744,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9332,
-        "Kinsta": 4574,
+        "Kinsta": 4575,
         "Bluehost": 3957,
         "Digital Ocean": 3885,
         "SiteGround": 3833,
-        "Hostinger": 2440,
+        "Hostinger": 2441,
         "GoDaddy": 1075,
         "BigScoots": 523,
         "Liquid Web": 447,
