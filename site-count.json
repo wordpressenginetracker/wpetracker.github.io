@@ -1,6 +1,11 @@
 {
-    "siteCount": 68551,
+    "siteCount": 68553,
     "recentlyMoved": [
+        {
+            "domain_name": "cuttingforbusiness.com",
+            "destination": "Bluehost",
+            "date": "2025-05-18 01:46:07"
+        },
         {
             "domain_name": "keerthiherbals.com",
             "destination": "Digital Ocean",
@@ -472,11 +477,6 @@
             "date": "2025-05-16 16:49:11"
         },
         {
-            "domain_name": "rbknox.org",
-            "destination": "Digital Ocean",
-            "date": "2025-05-16 16:44:14"
-        },
-        {
             "domain_name": "jstokes.com",
             "destination": "Digital Ocean",
             "date": "2025-05-16 16:41:21"
@@ -746,7 +746,7 @@
     "topDestinationHosts": {
         "Pressable": 9333,
         "Kinsta": 4580,
-        "Bluehost": 3958,
+        "Bluehost": 3959,
         "Digital Ocean": 3888,
         "SiteGround": 3838,
         "Hostinger": 2443,
