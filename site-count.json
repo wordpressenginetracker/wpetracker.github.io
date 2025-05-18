@@ -1,6 +1,11 @@
 {
-    "siteCount": 68554,
+    "siteCount": 68606,
     "recentlyMoved": [
+        {
+            "domain_name": "acuite.io",
+            "destination": "Kinsta",
+            "date": "2025-05-18 03:24:48"
+        },
         {
             "domain_name": "nationalprimeexporters.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-05-16 16:25:16"
         },
         {
-            "domain_name": "www.eastalabamaaging.org",
-            "destination": "Pressable",
-            "date": "2025-05-16 16:25:16"
-        },
-        {
             "domain_name": "www.growpediatrictherapy.com",
             "destination": "Pressable",
             "date": "2025-05-16 16:19:19"
@@ -745,7 +745,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9333,
-        "Kinsta": 4580,
+        "Kinsta": 4581,
         "Bluehost": 3959,
         "Digital Ocean": 3889,
         "SiteGround": 3838,
