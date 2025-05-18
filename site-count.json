@@ -1,6 +1,11 @@
 {
-    "siteCount": 68630,
+    "siteCount": 68634,
     "recentlyMoved": [
+        {
+            "domain_name": "www.evolutionlondon.com",
+            "destination": "IONOS",
+            "date": "2025-05-18 16:59:33"
+        },
         {
             "domain_name": "deltaschool.in",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "yuneslaw.com",
             "destination": "SiteGround",
             "date": "2025-05-16 17:43:20"
-        },
-        {
-            "domain_name": "deeproots.org",
-            "destination": "Kinsta",
-            "date": "2025-05-16 17:26:47"
         }
     ],
     "dailyMovedStat": {
@@ -760,7 +760,7 @@
         "A2 Hosting": 269,
         "OVH": 266,
         "DreamHost": 242,
-        "IONOS": 239,
+        "IONOS": 240,
         "Namecheap": 238,
         "Hetzner Online": 198,
         "Wordify": 183
