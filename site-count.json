@@ -1,6 +1,26 @@
 {
-    "siteCount": 68692,
+    "siteCount": 68700,
     "recentlyMoved": [
+        {
+            "domain_name": "marinadorcol.rs",
+            "destination": "Hetzner Online",
+            "date": "2025-05-19 06:21:43"
+        },
+        {
+            "domain_name": "dhavaljadavalliantgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-05-19 06:12:56"
+        },
+        {
+            "domain_name": "michaeloconnor.ca",
+            "destination": "SiteGround",
+            "date": "2025-05-19 06:10:08"
+        },
+        {
+            "domain_name": "cosmosmilesdental.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-19 05:31:36"
+        },
         {
             "domain_name": "einsteincorrected.com",
             "destination": "SiteGround",
@@ -477,29 +497,9 @@
             "date": "2025-05-16 22:53:16"
         },
         {
-            "domain_name": "lotusheroproject.org",
-            "destination": "Hostinger",
-            "date": "2025-05-16 22:48:04"
-        },
-        {
-            "domain_name": "emerald-inn.co.nz",
-            "destination": "Hostinger",
-            "date": "2025-05-16 22:25:27"
-        },
-        {
             "domain_name": "stouffvillelbc.com",
             "destination": "Hostinger",
             "date": "2025-05-16 22:11:48"
-        },
-        {
-            "domain_name": "yesdfw.com",
-            "destination": "SiteGround",
-            "date": "2025-05-16 21:45:45"
-        },
-        {
-            "domain_name": "shippingintime.com",
-            "destination": "Hostinger",
-            "date": "2025-05-16 21:16:48"
         }
     ],
     "dailyMovedStat": {
@@ -746,12 +746,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 9333,
-        "Kinsta": 4582,
+        "Kinsta": 4583,
         "Bluehost": 3960,
         "Digital Ocean": 3893,
-        "SiteGround": 3843,
+        "SiteGround": 3844,
         "Hostinger": 2444,
-        "GoDaddy": 1078,
+        "GoDaddy": 1079,
         "BigScoots": 523,
         "Liquid Web": 450,
         "WordPress.com": 329,
@@ -763,7 +763,7 @@
         "DreamHost": 242,
         "IONOS": 241,
         "Namecheap": 238,
-        "Hetzner Online": 198,
+        "Hetzner Online": 199,
         "Wordify": 183
     },
     "dailyTotalStat": {
