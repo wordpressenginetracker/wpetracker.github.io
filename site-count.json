@@ -1,10 +1,20 @@
 {
-    "siteCount": 68771,
+    "siteCount": 68774,
     "recentlyMoved": [
+        {
+            "domain_name": "cmersvp.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-19 21:47:13"
+        },
         {
             "domain_name": "ardith.ca",
             "destination": "SiteGround",
             "date": "2025-05-19 20:24:49"
+        },
+        {
+            "domain_name": "rtaccountingservices.com",
+            "destination": "Hostinger",
+            "date": "2025-05-19 20:18:18"
         },
         {
             "domain_name": "midcenturymidland.org",
@@ -490,16 +500,6 @@
             "domain_name": "karpagamhomes.com",
             "destination": "Hostinger",
             "date": "2025-05-17 04:41:13"
-        },
-        {
-            "domain_name": "www.escandonroofinginc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-17 04:37:16"
-        },
-        {
-            "domain_name": "www.compareposquotes.com.au",
-            "destination": "Hostinger",
-            "date": "2025-05-17 04:25:06"
         }
     ],
     "dailyMovedStat": {
@@ -750,7 +750,7 @@
         "Bluehost": 3960,
         "Digital Ocean": 3896,
         "SiteGround": 3848,
-        "Hostinger": 2450,
+        "Hostinger": 2451,
         "GoDaddy": 1080,
         "BigScoots": 524,
         "Liquid Web": 450,
