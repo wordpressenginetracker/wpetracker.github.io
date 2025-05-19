@@ -1,6 +1,11 @@
 {
-    "siteCount": 68666,
+    "siteCount": 68668,
     "recentlyMoved": [
+        {
+            "domain_name": "arthurhaberman.ca",
+            "destination": "SiteGround",
+            "date": "2025-05-19 00:17:34"
+        },
         {
             "domain_name": "www.movingvenue.com",
             "destination": "IONOS",
@@ -482,11 +487,6 @@
             "date": "2025-05-16 19:32:35"
         },
         {
-            "domain_name": "theyellowgazebo.com",
-            "destination": "Kinsta",
-            "date": "2025-05-16 18:12:14"
-        },
-        {
             "domain_name": "vickiehowell.com",
             "destination": "SiteGround",
             "date": "2025-05-16 18:08:08"
@@ -749,7 +749,7 @@
         "Kinsta": 4582,
         "Bluehost": 3959,
         "Digital Ocean": 3891,
-        "SiteGround": 3838,
+        "SiteGround": 3839,
         "Hostinger": 2444,
         "GoDaddy": 1078,
         "BigScoots": 523,
