@@ -1,6 +1,11 @@
 {
-    "siteCount": 68774,
+    "siteCount": 68777,
     "recentlyMoved": [
+        {
+            "domain_name": "dovercompany.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-19 22:06:28"
+        },
         {
             "domain_name": "cmersvp.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "singledesis.com",
             "destination": "WordPress.com",
             "date": "2025-05-17 04:55:55"
-        },
-        {
-            "domain_name": "karpagamhomes.com",
-            "destination": "Hostinger",
-            "date": "2025-05-17 04:41:13"
         }
     ],
     "dailyMovedStat": {
@@ -748,7 +748,7 @@
         "Pressable": 9333,
         "Kinsta": 4583,
         "Bluehost": 3960,
-        "Digital Ocean": 3896,
+        "Digital Ocean": 3898,
         "SiteGround": 3848,
         "Hostinger": 2451,
         "GoDaddy": 1080,
