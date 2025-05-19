@@ -1,6 +1,11 @@
 {
-    "siteCount": 68713,
+    "siteCount": 68717,
     "recentlyMoved": [
+        {
+            "domain_name": "skupress.com",
+            "destination": "Hostinger",
+            "date": "2025-05-19 12:50:56"
+        },
         {
             "domain_name": "nicolawebb.ca",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "france.toyoko-inn.com",
             "destination": "Hostinger",
             "date": "2025-05-17 00:11:23"
-        },
-        {
-            "domain_name": "fandagroghouse.com",
-            "destination": "SiteGround",
-            "date": "2025-05-16 22:53:16"
         }
     ],
     "dailyMovedStat": {
@@ -750,7 +750,7 @@
         "Bluehost": 3960,
         "Digital Ocean": 3893,
         "SiteGround": 3845,
-        "Hostinger": 2444,
+        "Hostinger": 2445,
         "GoDaddy": 1079,
         "BigScoots": 523,
         "Liquid Web": 450,
