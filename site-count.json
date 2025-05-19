@@ -1,6 +1,11 @@
 {
-    "siteCount": 68700,
+    "siteCount": 68704,
     "recentlyMoved": [
+        {
+            "domain_name": "nicolawebb.ca",
+            "destination": "SiteGround",
+            "date": "2025-05-19 06:29:16"
+        },
         {
             "domain_name": "marinadorcol.rs",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "fandagroghouse.com",
             "destination": "SiteGround",
             "date": "2025-05-16 22:53:16"
-        },
-        {
-            "domain_name": "stouffvillelbc.com",
-            "destination": "Hostinger",
-            "date": "2025-05-16 22:11:48"
         }
     ],
     "dailyMovedStat": {
@@ -749,7 +749,7 @@
         "Kinsta": 4583,
         "Bluehost": 3960,
         "Digital Ocean": 3893,
-        "SiteGround": 3844,
+        "SiteGround": 3845,
         "Hostinger": 2444,
         "GoDaddy": 1079,
         "BigScoots": 523,
