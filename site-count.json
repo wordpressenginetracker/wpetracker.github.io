@@ -1,6 +1,11 @@
 {
-    "siteCount": 68844,
+    "siteCount": 68846,
     "recentlyMoved": [
+        {
+            "domain_name": "voltedgemarketing.com",
+            "destination": "Pressable",
+            "date": "2025-05-20 10:55:20"
+        },
         {
             "domain_name": "threeplusone.us",
             "destination": "Digital Ocean",
@@ -20,6 +25,11 @@
             "domain_name": "tunesonthesands.com",
             "destination": "Hostinger",
             "date": "2025-05-20 10:06:10"
+        },
+        {
+            "domain_name": "fairairva.com",
+            "destination": "SiteGround",
+            "date": "2025-05-20 09:57:41"
         },
         {
             "domain_name": "crossfitdyr.com",
@@ -490,16 +500,6 @@
             "domain_name": "speedlinestorage.com",
             "destination": "Kinsta",
             "date": "2025-05-17 12:52:48"
-        },
-        {
-            "domain_name": "hospiceofmcalester.org",
-            "destination": "Kinsta",
-            "date": "2025-05-17 12:40:22"
-        },
-        {
-            "domain_name": "sagebykaty.com",
-            "destination": "Kinsta",
-            "date": "2025-05-17 12:28:06"
         }
     ],
     "dailyMovedStat": {
@@ -746,11 +746,11 @@
         "2025-05-19": "68777"
     },
     "topDestinationHosts": {
-        "Pressable": 9333,
+        "Pressable": 9334,
         "Kinsta": 4584,
         "Bluehost": 3960,
         "Digital Ocean": 3903,
-        "SiteGround": 3852,
+        "SiteGround": 3853,
         "Hostinger": 2455,
         "GoDaddy": 1080,
         "BigScoots": 524,
