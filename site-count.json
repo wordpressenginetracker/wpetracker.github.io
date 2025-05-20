@@ -1,6 +1,16 @@
 {
-    "siteCount": 68789,
+    "siteCount": 68795,
     "recentlyMoved": [
+        {
+            "domain_name": "www.destinationfitcations.com",
+            "destination": "SiteGround",
+            "date": "2025-05-20 04:18:00"
+        },
+        {
+            "domain_name": "www.pilatestempe.com",
+            "destination": "SiteGround",
+            "date": "2025-05-20 03:49:47"
+        },
         {
             "domain_name": "tomorrowrar.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.gaming.se",
             "destination": "Kinsta",
             "date": "2025-05-17 08:22:28"
-        },
-        {
-            "domain_name": "www.empirestatepsychiatry.com",
-            "destination": "Kinsta",
-            "date": "2025-05-17 08:22:09"
-        },
-        {
-            "domain_name": "basilandbay.com",
-            "destination": "BigScoots",
-            "date": "2025-05-17 08:07:30"
         }
     ],
     "dailyMovedStat": {
@@ -750,7 +750,7 @@
         "Kinsta": 4584,
         "Bluehost": 3960,
         "Digital Ocean": 3900,
-        "SiteGround": 3849,
+        "SiteGround": 3851,
         "Hostinger": 2452,
         "GoDaddy": 1080,
         "BigScoots": 524,
