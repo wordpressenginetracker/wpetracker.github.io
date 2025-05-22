@@ -1,6 +1,11 @@
 {
-    "siteCount": 69364,
+    "siteCount": 69369,
     "recentlyMoved": [
+        {
+            "domain_name": "animalcosmetictestban.com.au",
+            "destination": "SiteGround",
+            "date": "2025-05-22 04:06:39"
+        },
         {
             "domain_name": "yachtingexperts.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-05-21 09:18:15"
         },
         {
-            "domain_name": "bwdigitalmarketing.ie",
-            "destination": "Hostinger",
-            "date": "2025-05-21 09:12:51"
-        },
-        {
             "domain_name": "chopscotch.com",
             "destination": "Bluehost",
             "date": "2025-05-21 09:12:46"
@@ -752,8 +752,8 @@
         "Kinsta": 4680,
         "Bluehost": 3971,
         "Digital Ocean": 3932,
-        "SiteGround": 3880,
-        "Hostinger": 2479,
+        "SiteGround": 3881,
+        "Hostinger": 2480,
         "GoDaddy": 1090,
         "BigScoots": 526,
         "Liquid Web": 455,
