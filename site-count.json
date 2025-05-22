@@ -1,6 +1,11 @@
 {
-    "siteCount": 69377,
+    "siteCount": 69382,
     "recentlyMoved": [
+        {
+            "domain_name": "tandmvend.com",
+            "destination": "SiteGround",
+            "date": "2025-05-22 05:38:33"
+        },
         {
             "domain_name": "animalcosmetictestban.com.au",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "coyoteriverhempco.com",
             "destination": "OVH",
             "date": "2025-05-21 09:18:15"
-        },
-        {
-            "domain_name": "chopscotch.com",
-            "destination": "Bluehost",
-            "date": "2025-05-21 09:12:46"
         }
     ],
     "dailyMovedStat": {
@@ -752,7 +752,7 @@
         "Kinsta": 4680,
         "Bluehost": 3971,
         "Digital Ocean": 3932,
-        "SiteGround": 3881,
+        "SiteGround": 3882,
         "Hostinger": 2480,
         "GoDaddy": 1090,
         "BigScoots": 526,
