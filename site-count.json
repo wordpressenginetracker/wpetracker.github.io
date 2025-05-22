@@ -1,6 +1,11 @@
 {
-    "siteCount": 69382,
+    "siteCount": 69398,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lyvinn.com",
+            "destination": "Hetzner Online",
+            "date": "2025-05-22 08:19:48"
+        },
         {
             "domain_name": "tandmvend.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-05-21 09:45:53"
         },
         {
-            "domain_name": "latinoamerica.ioppublishing.org",
-            "destination": "Kinsta",
-            "date": "2025-05-21 09:20:26"
-        },
-        {
             "domain_name": "coyoteriverhempco.com",
             "destination": "OVH",
             "date": "2025-05-21 09:18:15"
@@ -766,7 +766,7 @@
         "IONOS": 245,
         "DreamHost": 244,
         "Namecheap": 240,
-        "Hetzner Online": 201,
+        "Hetzner Online": 202,
         "Wordify": 183
     },
     "dailyTotalStat": {
