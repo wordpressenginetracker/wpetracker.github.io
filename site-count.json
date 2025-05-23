@@ -1,6 +1,11 @@
 {
-    "siteCount": 69916,
+    "siteCount": 69917,
     "recentlyMoved": [
+        {
+            "domain_name": "famemichigan.org",
+            "destination": "Digital Ocean",
+            "date": "2025-05-23 22:51:26"
+        },
         {
             "domain_name": "tlfitness.au",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "onlinecoursesbymako.com",
             "destination": "SiteGround",
             "date": "2025-05-23 07:10:35"
-        },
-        {
-            "domain_name": "elkhartcove.com",
-            "destination": "Hostinger",
-            "date": "2025-05-23 06:10:45"
         }
     ],
     "dailyMovedStat": {
@@ -746,13 +746,14 @@
         "2025-05-19": "68777",
         "2025-05-20": "69087",
         "2025-05-21": "69343",
-        "2025-05-22": "69628"
+        "2025-05-22": "69628",
+        "2025-05-23": "69917"
     },
     "topDestinationHosts": {
         "Pressable": 9431,
         "Kinsta": 4710,
         "Bluehost": 3975,
-        "Digital Ocean": 3966,
+        "Digital Ocean": 3967,
         "SiteGround": 3906,
         "Hostinger": 2508,
         "GoDaddy": 1091,
@@ -1014,6 +1015,7 @@
         "2025-05-19": "625487",
         "2025-05-20": "624727",
         "2025-05-21": "624001",
-        "2025-05-22": "623327"
+        "2025-05-22": "623327",
+        "2025-05-23": "622604"
     }
 }
