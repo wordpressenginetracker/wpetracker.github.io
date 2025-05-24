@@ -1,6 +1,11 @@
 {
-    "siteCount": 69975,
+    "siteCount": 69988,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gordonhighlander.com",
+            "destination": "Kinsta",
+            "date": "2025-05-24 08:24:37"
+        },
         {
             "domain_name": "fkkblaw.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "ritualbarbell.com",
             "destination": "Digital Ocean",
             "date": "2025-05-23 11:37:24"
-        },
-        {
-            "domain_name": "futurehomesdb.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-23 11:32:37"
         }
     ],
     "dailyMovedStat": {
@@ -751,7 +751,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9438,
-        "Kinsta": 4711,
+        "Kinsta": 4712,
         "Bluehost": 3976,
         "Digital Ocean": 3967,
         "SiteGround": 3910,
