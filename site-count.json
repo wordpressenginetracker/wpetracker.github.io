@@ -1,6 +1,16 @@
 {
-    "siteCount": 70156,
+    "siteCount": 70162,
     "recentlyMoved": [
+        {
+            "domain_name": "manchesterwomenshealth.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-05-24 21:55:47"
+        },
+        {
+            "domain_name": "legacyinternationalinc.com",
+            "destination": "SiteGround",
+            "date": "2025-05-24 21:38:45"
+        },
         {
             "domain_name": "chantillygracetx.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "fedhebrewschools.org",
             "destination": "Hostinger",
             "date": "2025-05-23 17:39:23"
-        },
-        {
-            "domain_name": "ypurchasing.com",
-            "destination": "Hostinger",
-            "date": "2025-05-23 17:34:51"
-        },
-        {
-            "domain_name": "magictriptools.com",
-            "destination": "Hostinger",
-            "date": "2025-05-23 17:25:15"
         }
     ],
     "dailyMovedStat": {
@@ -754,8 +754,8 @@
         "Kinsta": 4718,
         "Bluehost": 3977,
         "Digital Ocean": 3973,
-        "SiteGround": 3920,
-        "Hostinger": 2516,
+        "SiteGround": 3921,
+        "Hostinger": 2517,
         "GoDaddy": 1093,
         "BigScoots": 528,
         "Liquid Web": 463,
