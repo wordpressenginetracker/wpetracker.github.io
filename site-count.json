@@ -1,6 +1,16 @@
 {
-    "siteCount": 69964,
+    "siteCount": 69966,
     "recentlyMoved": [
+        {
+            "domain_name": "zeevwexler.com",
+            "destination": "SiteGround",
+            "date": "2025-05-24 06:06:29"
+        },
+        {
+            "domain_name": "www.venjuris.com",
+            "destination": "SiteGround",
+            "date": "2025-05-24 05:42:06"
+        },
         {
             "domain_name": "cocopetsalon.com.au",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "flamingofanatics.com",
             "destination": "Hostinger",
             "date": "2025-05-23 11:14:37"
-        },
-        {
-            "domain_name": "omgfloorcoatings.com",
-            "destination": "Hostinger",
-            "date": "2025-05-23 11:09:48"
-        },
-        {
-            "domain_name": "umfmichigan.org",
-            "destination": "Liquid Web",
-            "date": "2025-05-23 10:16:48"
         }
     ],
     "dailyMovedStat": {
@@ -750,11 +750,11 @@
         "2025-05-23": "69917"
     },
     "topDestinationHosts": {
-        "Pressable": 9436,
+        "Pressable": 9437,
         "Kinsta": 4711,
         "Bluehost": 3976,
         "Digital Ocean": 3967,
-        "SiteGround": 3908,
+        "SiteGround": 3910,
         "Hostinger": 2508,
         "GoDaddy": 1091,
         "BigScoots": 526,
