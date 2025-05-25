@@ -1,6 +1,21 @@
 {
-    "siteCount": 70162,
+    "siteCount": 70171,
     "recentlyMoved": [
+        {
+            "domain_name": "www.consimworld.com",
+            "destination": "SiteGround",
+            "date": "2025-05-25 00:08:58"
+        },
+        {
+            "domain_name": "fenceitforu.com",
+            "destination": "SiteGround",
+            "date": "2025-05-24 23:53:19"
+        },
+        {
+            "domain_name": "amcollege.edu",
+            "destination": "Digital Ocean",
+            "date": "2025-05-24 23:40:48"
+        },
         {
             "domain_name": "manchesterwomenshealth.co.uk",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "oregoncas.org",
             "destination": "Hostinger",
             "date": "2025-05-23 19:12:21"
-        },
-        {
-            "domain_name": "elplomerolatino.com",
-            "destination": "Namecheap",
-            "date": "2025-05-23 18:18:05"
-        },
-        {
-            "domain_name": "midwestcartz.com",
-            "destination": "SiteGround",
-            "date": "2025-05-23 17:56:30"
-        },
-        {
-            "domain_name": "fedhebrewschools.org",
-            "destination": "Hostinger",
-            "date": "2025-05-23 17:39:23"
         }
     ],
     "dailyMovedStat": {
@@ -754,8 +754,8 @@
         "Pressable": 9457,
         "Kinsta": 4718,
         "Bluehost": 3977,
-        "Digital Ocean": 3973,
-        "SiteGround": 3921,
+        "Digital Ocean": 3974,
+        "SiteGround": 3922,
         "Hostinger": 2517,
         "GoDaddy": 1093,
         "BigScoots": 528,
@@ -763,7 +763,7 @@
         "WordPress.com": 338,
         "GridPane": 305,
         "InMotion Hosting": 305,
-        "A2 Hosting": 293,
+        "A2 Hosting": 294,
         "Elementor Hosting": 285,
         "OVH": 272,
         "DreamHost": 248,
