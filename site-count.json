@@ -1,6 +1,11 @@
 {
-    "siteCount": 70246,
+    "siteCount": 70249,
     "recentlyMoved": [
+        {
+            "domain_name": "dipaways.com",
+            "destination": "Hostinger",
+            "date": "2025-05-25 22:02:47"
+        },
         {
             "domain_name": "laurakamark.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "www.alliantgroup.com",
             "destination": "Kinsta",
             "date": "2025-05-23 23:48:35"
-        },
-        {
-            "domain_name": "absoluteautomotive.au",
-            "destination": "Pressable",
-            "date": "2025-05-23 23:27:26"
         }
     ],
     "dailyMovedStat": {
@@ -756,7 +756,7 @@
         "Digital Ocean": 3982,
         "Bluehost": 3977,
         "SiteGround": 3924,
-        "Hostinger": 2520,
+        "Hostinger": 2521,
         "GoDaddy": 1093,
         "BigScoots": 529,
         "Liquid Web": 463,
