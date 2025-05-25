@@ -1,6 +1,11 @@
 {
-    "siteCount": 70214,
+    "siteCount": 70220,
     "recentlyMoved": [
+        {
+            "domain_name": "www.voyagerplumbing.com",
+            "destination": "Kinsta",
+            "date": "2025-05-25 13:23:07"
+        },
         {
             "domain_name": "www.netherwoodhouse.co.uk",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "famemichigan.org",
             "destination": "Digital Ocean",
             "date": "2025-05-23 22:51:26"
-        },
-        {
-            "domain_name": "videofromtheheart.com",
-            "destination": "Hostinger",
-            "date": "2025-05-23 21:40:06"
         }
     ],
     "dailyMovedStat": {
@@ -752,7 +752,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9457,
-        "Kinsta": 4718,
+        "Kinsta": 4719,
         "Digital Ocean": 3982,
         "Bluehost": 3977,
         "SiteGround": 3924,
