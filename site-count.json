@@ -1,6 +1,16 @@
 {
-    "siteCount": 70171,
+    "siteCount": 70177,
     "recentlyMoved": [
+        {
+            "domain_name": "www.maxwellbook.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-05-25 01:26:33"
+        },
+        {
+            "domain_name": "bodybalanceptonline.com",
+            "destination": "SiteGround",
+            "date": "2025-05-25 00:58:11"
+        },
         {
             "domain_name": "www.consimworld.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "pafumc.org",
             "destination": "SiteGround",
             "date": "2025-05-23 19:29:40"
-        },
-        {
-            "domain_name": "westcalport.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-23 19:25:40"
-        },
-        {
-            "domain_name": "oregoncas.org",
-            "destination": "Hostinger",
-            "date": "2025-05-23 19:12:21"
         }
     ],
     "dailyMovedStat": {
@@ -755,14 +755,14 @@
         "Kinsta": 4718,
         "Bluehost": 3977,
         "Digital Ocean": 3974,
-        "SiteGround": 3922,
+        "SiteGround": 3924,
         "Hostinger": 2517,
         "GoDaddy": 1093,
         "BigScoots": 528,
         "Liquid Web": 463,
         "WordPress.com": 338,
+        "InMotion Hosting": 306,
         "GridPane": 305,
-        "InMotion Hosting": 305,
         "A2 Hosting": 294,
         "Elementor Hosting": 285,
         "OVH": 272,
