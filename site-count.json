@@ -1,6 +1,11 @@
 {
-    "siteCount": 70283,
+    "siteCount": 70287,
     "recentlyMoved": [
+        {
+            "domain_name": "integritycoatingsofpa.com",
+            "destination": "Hostinger",
+            "date": "2025-05-26 08:59:39"
+        },
         {
             "domain_name": "garagefloorgeeks.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "blog.blablacar.pt",
             "destination": "Pressable",
             "date": "2025-05-24 04:33:54"
-        },
-        {
-            "domain_name": "blog.blablacar.in",
-            "destination": "Pressable",
-            "date": "2025-05-24 04:33:54"
         }
     ],
     "dailyMovedStat": {
@@ -757,7 +757,7 @@
         "Digital Ocean": 3982,
         "Bluehost": 3977,
         "SiteGround": 3925,
-        "Hostinger": 2524,
+        "Hostinger": 2525,
         "GoDaddy": 1094,
         "BigScoots": 529,
         "Liquid Web": 463,
