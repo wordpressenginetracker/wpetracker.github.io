@@ -1,6 +1,11 @@
 {
-    "siteCount": 70311,
+    "siteCount": 70315,
     "recentlyMoved": [
+        {
+            "domain_name": "www.adventuredfwb.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-26 15:54:36"
+        },
         {
             "domain_name": "www.fodolcottages.co.uk",
             "destination": "Digital Ocean",
@@ -487,11 +492,6 @@
             "date": "2025-05-24 11:50:06"
         },
         {
-            "domain_name": "acadianbrick.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-24 11:28:18"
-        },
-        {
             "domain_name": "pauhanasaunas.com",
             "destination": "SiteGround",
             "date": "2025-05-24 11:21:14"
@@ -754,7 +754,7 @@
     "topDestinationHosts": {
         "Pressable": 9458,
         "Kinsta": 4719,
-        "Digital Ocean": 3990,
+        "Digital Ocean": 3991,
         "Bluehost": 3977,
         "SiteGround": 3925,
         "Hostinger": 2526,
