@@ -1,6 +1,16 @@
 {
-    "siteCount": 70315,
+    "siteCount": 70320,
     "recentlyMoved": [
+        {
+            "domain_name": "klickflow.io",
+            "destination": "GoDaddy",
+            "date": "2025-05-26 17:33:04"
+        },
+        {
+            "domain_name": "jollyplumbing.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-26 16:25:57"
+        },
         {
             "domain_name": "www.adventuredfwb.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "giveatrium.org",
             "destination": "Liquid Web",
             "date": "2025-05-24 11:50:06"
-        },
-        {
-            "domain_name": "pauhanasaunas.com",
-            "destination": "SiteGround",
-            "date": "2025-05-24 11:21:14"
-        },
-        {
-            "domain_name": "pauhanabuilds.com",
-            "destination": "SiteGround",
-            "date": "2025-05-24 11:21:14"
         }
     ],
     "dailyMovedStat": {
@@ -758,9 +758,9 @@
         "Bluehost": 3977,
         "SiteGround": 3925,
         "Hostinger": 2526,
-        "GoDaddy": 1094,
+        "GoDaddy": 1095,
         "BigScoots": 529,
-        "Liquid Web": 463,
+        "Liquid Web": 464,
         "WordPress.com": 338,
         "InMotion Hosting": 306,
         "GridPane": 305,
