@@ -1,6 +1,26 @@
 {
-    "siteCount": 70256,
+    "siteCount": 70265,
     "recentlyMoved": [
+        {
+            "domain_name": "www.privatedetective.london",
+            "destination": "Hostinger",
+            "date": "2025-05-26 01:18:42"
+        },
+        {
+            "domain_name": "bio-techconsulting.com",
+            "destination": "GoDaddy",
+            "date": "2025-05-26 01:02:20"
+        },
+        {
+            "domain_name": "rodnylamarre.com",
+            "destination": "SiteGround",
+            "date": "2025-05-26 00:15:39"
+        },
+        {
+            "domain_name": "bgcecal.org",
+            "destination": "Pressable",
+            "date": "2025-05-26 00:03:37"
+        },
         {
             "domain_name": "dipaways.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-05-24 01:18:07"
         },
         {
-            "domain_name": "www.lyonworkspace.com",
-            "destination": "Pressable",
-            "date": "2025-05-24 01:11:11"
-        },
-        {
             "domain_name": "conceptbev.com",
             "destination": "Pressable",
             "date": "2025-05-24 01:03:42"
-        },
-        {
-            "domain_name": "www.eliyoungblood.com",
-            "destination": "SiteGround",
-            "date": "2025-05-24 00:47:35"
-        },
-        {
-            "domain_name": "fortyfoursignature.com",
-            "destination": "Bluehost",
-            "date": "2025-05-24 00:10:43"
-        },
-        {
-            "domain_name": "www.alliantgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-05-23 23:48:35"
         }
     ],
     "dailyMovedStat": {
@@ -752,13 +752,13 @@
         "2025-05-25": "70250"
     },
     "topDestinationHosts": {
-        "Pressable": 9457,
+        "Pressable": 9458,
         "Kinsta": 4719,
         "Digital Ocean": 3982,
         "Bluehost": 3977,
-        "SiteGround": 3924,
+        "SiteGround": 3925,
         "Hostinger": 2521,
-        "GoDaddy": 1093,
+        "GoDaddy": 1094,
         "BigScoots": 529,
         "Liquid Web": 463,
         "WordPress.com": 338,
