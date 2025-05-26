@@ -1,6 +1,21 @@
 {
-    "siteCount": 70362,
+    "siteCount": 70369,
     "recentlyMoved": [
+        {
+            "domain_name": "darialoffphotography.com",
+            "destination": "IONOS",
+            "date": "2025-05-26 22:08:45"
+        },
+        {
+            "domain_name": "www.solarlightingdesigns.eco",
+            "destination": "SiteGround",
+            "date": "2025-05-26 21:55:44"
+        },
+        {
+            "domain_name": "suriarimer.com",
+            "destination": "Hostinger",
+            "date": "2025-05-26 21:21:18"
+        },
         {
             "domain_name": "klickflow.io",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "henstockchiropractic.com",
             "destination": "SiteGround",
             "date": "2025-05-24 12:12:54"
-        },
-        {
-            "domain_name": "www.atriumhealthfoundation.org",
-            "destination": "Liquid Web",
-            "date": "2025-05-24 11:55:50"
-        },
-        {
-            "domain_name": "www.theoldstonechapel.com",
-            "destination": "Kinsta",
-            "date": "2025-05-24 11:50:28"
-        },
-        {
-            "domain_name": "giveatrium.org",
-            "destination": "Liquid Web",
-            "date": "2025-05-24 11:50:06"
         }
     ],
     "dailyMovedStat": {
@@ -756,8 +756,8 @@
         "Kinsta": 4719,
         "Digital Ocean": 3992,
         "Bluehost": 3978,
-        "SiteGround": 3928,
-        "Hostinger": 2528,
+        "SiteGround": 3929,
+        "Hostinger": 2529,
         "GoDaddy": 1096,
         "BigScoots": 529,
         "Liquid Web": 464,
@@ -768,7 +768,7 @@
         "Elementor Hosting": 285,
         "OVH": 274,
         "DreamHost": 249,
-        "IONOS": 247,
+        "IONOS": 248,
         "Namecheap": 243,
         "Hetzner Online": 203,
         "Wordify": 183
