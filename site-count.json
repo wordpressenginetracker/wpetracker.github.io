@@ -1,6 +1,11 @@
 {
-    "siteCount": 70380,
+    "siteCount": 70385,
     "recentlyMoved": [
+        {
+            "domain_name": "aweddingloft.com",
+            "destination": "Hostinger",
+            "date": "2025-05-27 04:03:27"
+        },
         {
             "domain_name": "eyecatchmultimedia.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-05-24 13:08:50"
         },
         {
-            "domain_name": "bossplumbingltd.com",
-            "destination": "GoDaddy",
-            "date": "2025-05-24 13:04:53"
-        },
-        {
             "domain_name": "catooil.com",
             "destination": "Digital Ocean",
             "date": "2025-05-24 12:36:13"
@@ -758,7 +758,7 @@
         "Digital Ocean": 3993,
         "Bluehost": 3978,
         "SiteGround": 3929,
-        "Hostinger": 2529,
+        "Hostinger": 2530,
         "GoDaddy": 1096,
         "BigScoots": 529,
         "Liquid Web": 464,
