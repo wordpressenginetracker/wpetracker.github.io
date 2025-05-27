@@ -1,6 +1,11 @@
 {
-    "siteCount": 70515,
+    "siteCount": 70520,
     "recentlyMoved": [
+        {
+            "domain_name": "kingsgate.legal",
+            "destination": "GoDaddy",
+            "date": "2025-05-27 21:03:19"
+        },
         {
             "domain_name": "www.childrenspediatricurology.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "tournamentbaseball.world",
             "destination": "Digital Ocean",
             "date": "2025-05-24 18:44:36"
-        },
-        {
-            "domain_name": "drjohnrmoore.com",
-            "destination": "Kinsta",
-            "date": "2025-05-24 17:42:56"
         }
     ],
     "dailyMovedStat": {
@@ -759,7 +759,7 @@
         "Bluehost": 3978,
         "SiteGround": 3936,
         "Hostinger": 2536,
-        "GoDaddy": 1096,
+        "GoDaddy": 1097,
         "BigScoots": 530,
         "Liquid Web": 465,
         "WordPress.com": 339,
