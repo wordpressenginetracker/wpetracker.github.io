@@ -1,10 +1,30 @@
 {
-    "siteCount": 70455,
+    "siteCount": 70465,
     "recentlyMoved": [
+        {
+            "domain_name": "epochroofing.com",
+            "destination": "A2 Hosting",
+            "date": "2025-05-27 14:13:37"
+        },
+        {
+            "domain_name": "empoweredbysweat.com",
+            "destination": "WordPress.com",
+            "date": "2025-05-27 14:03:39"
+        },
+        {
+            "domain_name": "www.thestablesbreaks.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-27 13:53:32"
+        },
         {
             "domain_name": "chrisdrozda.com",
             "destination": "SiteGround",
             "date": "2025-05-27 13:29:54"
+        },
+        {
+            "domain_name": "www.trevellisbedandbreakfast.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-27 13:28:22"
         },
         {
             "domain_name": "www.kingfisherholidaypark.co.uk",
@@ -480,26 +500,6 @@
             "domain_name": "www.successplusconsulting.com",
             "destination": "Pressable",
             "date": "2025-05-24 17:06:36"
-        },
-        {
-            "domain_name": "www.miamihypnosisandtherapy.com",
-            "destination": "GoDaddy",
-            "date": "2025-05-24 17:01:36"
-        },
-        {
-            "domain_name": "cfmentality.com",
-            "destination": "A2 Hosting",
-            "date": "2025-05-24 16:59:22"
-        },
-        {
-            "domain_name": "www.optim-llc.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-05-24 16:51:21"
-        },
-        {
-            "domain_name": "silverspringwindows.com",
-            "destination": "Hostinger",
-            "date": "2025-05-24 16:34:40"
         }
     ],
     "dailyMovedStat": {
@@ -755,17 +755,17 @@
     "topDestinationHosts": {
         "Pressable": 9460,
         "Kinsta": 4720,
-        "Digital Ocean": 4002,
+        "Digital Ocean": 4004,
         "Bluehost": 3978,
         "SiteGround": 3935,
         "Hostinger": 2534,
         "GoDaddy": 1096,
         "BigScoots": 529,
         "Liquid Web": 464,
-        "WordPress.com": 338,
+        "WordPress.com": 339,
         "InMotion Hosting": 306,
         "GridPane": 305,
-        "A2 Hosting": 294,
+        "A2 Hosting": 295,
         "Elementor Hosting": 285,
         "OVH": 274,
         "DreamHost": 249,
