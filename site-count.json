@@ -1,6 +1,11 @@
 {
-    "siteCount": 70616,
+    "siteCount": 70617,
     "recentlyMoved": [
+        {
+            "domain_name": "northgraniteridge.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-28 10:13:58"
+        },
         {
             "domain_name": "eldonsquare.co.uk",
             "destination": "Krystal Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "laurakamark.com",
             "destination": "BigScoots",
             "date": "2025-05-25 17:42:29"
-        },
-        {
-            "domain_name": "www.voyagerplumbing.com",
-            "destination": "Kinsta",
-            "date": "2025-05-25 13:23:07"
         }
     ],
     "dailyMovedStat": {
@@ -762,7 +762,7 @@
         "Hostinger": 2537,
         "GoDaddy": 1097,
         "BigScoots": 530,
-        "Liquid Web": 466,
+        "Liquid Web": 467,
         "WordPress.com": 339,
         "InMotion Hosting": 306,
         "GridPane": 305,
