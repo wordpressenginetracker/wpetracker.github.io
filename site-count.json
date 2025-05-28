@@ -1,6 +1,16 @@
 {
-    "siteCount": 70530,
+    "siteCount": 70542,
     "recentlyMoved": [
+        {
+            "domain_name": "beautilase.co.nz",
+            "destination": "Liquid Web",
+            "date": "2025-05-28 00:37:23"
+        },
+        {
+            "domain_name": "jaysonglobal.com",
+            "destination": "SiteGround",
+            "date": "2025-05-28 00:33:30"
+        },
         {
             "domain_name": "graywoodllc.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "manchesterwomenshealth.co.uk",
             "destination": "Hostinger",
             "date": "2025-05-24 21:55:47"
-        },
-        {
-            "domain_name": "legacyinternationalinc.com",
-            "destination": "SiteGround",
-            "date": "2025-05-24 21:38:45"
-        },
-        {
-            "domain_name": "chantillygracetx.com",
-            "destination": "Kinsta",
-            "date": "2025-05-24 20:48:27"
         }
     ],
     "dailyMovedStat": {
@@ -758,11 +758,11 @@
         "Kinsta": 4725,
         "Digital Ocean": 4012,
         "Bluehost": 3978,
-        "SiteGround": 3938,
+        "SiteGround": 3939,
         "Hostinger": 2536,
         "GoDaddy": 1097,
         "BigScoots": 530,
-        "Liquid Web": 465,
+        "Liquid Web": 466,
         "WordPress.com": 339,
         "InMotion Hosting": 306,
         "GridPane": 305,
