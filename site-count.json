@@ -1,6 +1,16 @@
 {
-    "siteCount": 70523,
+    "siteCount": 70530,
     "recentlyMoved": [
+        {
+            "domain_name": "graywoodllc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-28 00:26:53"
+        },
+        {
+            "domain_name": "www.bowlsvic.org.au",
+            "destination": "SiteGround",
+            "date": "2025-05-28 00:16:59"
+        },
         {
             "domain_name": "treemasters.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "chantillygracetx.com",
             "destination": "Kinsta",
             "date": "2025-05-24 20:48:27"
-        },
-        {
-            "domain_name": "ishbelwell.com",
-            "destination": "BigScoots",
-            "date": "2025-05-24 20:20:30"
-        },
-        {
-            "domain_name": "andalusiapowersports.com",
-            "destination": "Kinsta",
-            "date": "2025-05-24 19:48:52"
         }
     ],
     "dailyMovedStat": {
@@ -756,9 +756,9 @@
     "topDestinationHosts": {
         "Pressable": 9461,
         "Kinsta": 4725,
-        "Digital Ocean": 4011,
+        "Digital Ocean": 4012,
         "Bluehost": 3978,
-        "SiteGround": 3937,
+        "SiteGround": 3938,
         "Hostinger": 2536,
         "GoDaddy": 1097,
         "BigScoots": 530,
