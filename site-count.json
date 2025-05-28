@@ -1,6 +1,11 @@
 {
-    "siteCount": 70598,
+    "siteCount": 70606,
     "recentlyMoved": [
+        {
+            "domain_name": "championins.com",
+            "destination": "SiteGround",
+            "date": "2025-05-28 09:01:59"
+        },
         {
             "domain_name": "wovenandwoods.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.muttonbarn.com",
             "destination": "Digital Ocean",
             "date": "2025-05-25 13:06:54"
-        },
-        {
-            "domain_name": "www.meiklewestlandfarm.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-05-25 12:40:46"
         }
     ],
     "dailyMovedStat": {
@@ -758,7 +758,7 @@
         "Kinsta": 4726,
         "Digital Ocean": 4015,
         "Bluehost": 3978,
-        "SiteGround": 3942,
+        "SiteGround": 3943,
         "Hostinger": 2537,
         "GoDaddy": 1097,
         "BigScoots": 530,
