@@ -1,6 +1,21 @@
 {
-    "siteCount": 70854,
+    "siteCount": 70867,
     "recentlyMoved": [
+        {
+            "domain_name": "eastonhomes.com",
+            "destination": "Pressable",
+            "date": "2025-05-29 06:17:10"
+        },
+        {
+            "domain_name": "leveluporganics.com",
+            "destination": "Bluehost",
+            "date": "2025-05-29 05:33:52"
+        },
+        {
+            "domain_name": "dakvastgoedbeheer.nl",
+            "destination": "Hostinger",
+            "date": "2025-05-29 05:16:59"
+        },
         {
             "domain_name": "irio.com",
             "destination": "DreamHost",
@@ -485,21 +500,6 @@
             "domain_name": "www.bowlsvic.org.au",
             "destination": "SiteGround",
             "date": "2025-05-28 00:16:59"
-        },
-        {
-            "domain_name": "treemasters.com",
-            "destination": "SiteGround",
-            "date": "2025-05-27 21:46:14"
-        },
-        {
-            "domain_name": "support.local5x.com",
-            "destination": "Kinsta",
-            "date": "2025-05-27 21:32:36"
-        },
-        {
-            "domain_name": "kingsgate.legal",
-            "destination": "GoDaddy",
-            "date": "2025-05-27 21:03:19"
         }
     ],
     "dailyMovedStat": {
@@ -755,12 +755,12 @@
         "2025-05-28": "70802"
     },
     "topDestinationHosts": {
-        "Pressable": 9481,
+        "Pressable": 9482,
         "Kinsta": 4732,
         "Digital Ocean": 4024,
-        "Bluehost": 3978,
+        "Bluehost": 3979,
         "SiteGround": 3955,
-        "Hostinger": 2552,
+        "Hostinger": 2553,
         "GoDaddy": 1100,
         "BigScoots": 531,
         "Liquid Web": 468,
