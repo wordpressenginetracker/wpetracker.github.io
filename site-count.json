@@ -1,10 +1,15 @@
 {
-    "siteCount": 71103,
+    "siteCount": 71106,
     "recentlyMoved": [
         {
             "domain_name": "tuckersdoggiedelights.com",
             "destination": "BigScoots",
             "date": "2025-05-29 22:19:19"
+        },
+        {
+            "domain_name": "vigilwatchsecurity.com.au",
+            "destination": "Hostinger",
+            "date": "2025-05-29 22:00:57"
         },
         {
             "domain_name": "mainersfortaxfairness.org",
@@ -495,11 +500,6 @@
             "domain_name": "www.lancasterchamber.com",
             "destination": "Kinsta",
             "date": "2025-05-29 01:19:32"
-        },
-        {
-            "domain_name": "buildabilityla.org",
-            "destination": "Pressable",
-            "date": "2025-05-29 00:26:14"
         }
     ],
     "dailyMovedStat": {
@@ -752,7 +752,8 @@
         "2025-05-25": "70250",
         "2025-05-26": "70369",
         "2025-05-27": "70523",
-        "2025-05-28": "70802"
+        "2025-05-28": "70802",
+        "2025-05-29": "71106"
     },
     "topDestinationHosts": {
         "Pressable": 9490,
@@ -760,7 +761,7 @@
         "Digital Ocean": 4072,
         "Bluehost": 3982,
         "SiteGround": 3961,
-        "Hostinger": 2561,
+        "Hostinger": 2562,
         "GoDaddy": 1101,
         "BigScoots": 532,
         "Liquid Web": 471,
@@ -1026,6 +1027,7 @@
         "2025-05-25": "623078",
         "2025-05-26": "622766",
         "2025-05-27": "621930",
-        "2025-05-28": "621269"
+        "2025-05-28": "621269",
+        "2025-05-29": "618211"
     }
 }
