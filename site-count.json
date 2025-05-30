@@ -1,6 +1,26 @@
 {
-    "siteCount": 71265,
+    "siteCount": 71279,
     "recentlyMoved": [
+        {
+            "domain_name": "ayodia.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-05-30 15:58:55"
+        },
+        {
+            "domain_name": "pmevolution.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-05-30 15:43:45"
+        },
+        {
+            "domain_name": "www.bayarea-websolutions.com",
+            "destination": "Pressable",
+            "date": "2025-05-30 15:41:41"
+        },
+        {
+            "domain_name": "www.armanidevelopment.com",
+            "destination": "Pressable",
+            "date": "2025-05-30 15:36:06"
+        },
         {
             "domain_name": "nwpgallery.org",
             "destination": "Pressable",
@@ -457,19 +477,9 @@
             "date": "2025-05-29 13:08:26"
         },
         {
-            "domain_name": "imagerebornfoundation.org",
-            "destination": "Kinsta",
-            "date": "2025-05-29 13:04:07"
-        },
-        {
             "domain_name": "careers.roundmanbrewing.com",
             "destination": "Pressable",
             "date": "2025-05-29 13:00:54"
-        },
-        {
-            "domain_name": "biltmorederm.com",
-            "destination": "Liquid Web",
-            "date": "2025-05-29 12:58:38"
         },
         {
             "domain_name": "www.gollyfarm.co.uk",
@@ -490,16 +500,6 @@
             "domain_name": "brownsroofingla.com",
             "destination": "Kinsta",
             "date": "2025-05-29 12:20:18"
-        },
-        {
-            "domain_name": "procheck-inspections.net",
-            "destination": "InMotion Hosting",
-            "date": "2025-05-29 12:10:35"
-        },
-        {
-            "domain_name": "greenanalytical.com",
-            "destination": "Bluehost",
-            "date": "2025-05-29 12:01:09"
         }
     ],
     "dailyMovedStat": {
@@ -756,9 +756,9 @@
         "2025-05-29": "71106"
     },
     "topDestinationHosts": {
-        "Pressable": 9503,
+        "Pressable": 9505,
         "Kinsta": 4741,
-        "Digital Ocean": 4080,
+        "Digital Ocean": 4081,
         "Bluehost": 3982,
         "SiteGround": 3969,
         "Hostinger": 2568,
