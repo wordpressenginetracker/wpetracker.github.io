@@ -1,6 +1,16 @@
 {
-    "siteCount": 71120,
+    "siteCount": 71137,
     "recentlyMoved": [
+        {
+            "domain_name": "maverickburs.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-30 02:00:14"
+        },
+        {
+            "domain_name": "mcabc.org",
+            "destination": "Pressable",
+            "date": "2025-05-30 01:38:05"
+        },
         {
             "domain_name": "www.dunhamlaw.com",
             "destination": "BigScoots",
@@ -477,11 +487,6 @@
             "date": "2025-05-29 04:51:47"
         },
         {
-            "domain_name": "hockeyone.com.au",
-            "destination": "SiteGround",
-            "date": "2025-05-29 04:50:20"
-        },
-        {
             "domain_name": "blog.blablacar.es",
             "destination": "Pressable",
             "date": "2025-05-29 04:23:46"
@@ -495,11 +500,6 @@
             "domain_name": "blog.blablacar.com.br",
             "destination": "Pressable",
             "date": "2025-05-29 04:23:46"
-        },
-        {
-            "domain_name": "www.all4seasonsgarages.com",
-            "destination": "SiteGround",
-            "date": "2025-05-29 04:21:02"
         }
     ],
     "dailyMovedStat": {
@@ -756,9 +756,9 @@
         "2025-05-29": "71106"
     },
     "topDestinationHosts": {
-        "Pressable": 9491,
+        "Pressable": 9492,
         "Kinsta": 4739,
-        "Digital Ocean": 4072,
+        "Digital Ocean": 4073,
         "Bluehost": 3982,
         "SiteGround": 3961,
         "Hostinger": 2562,
