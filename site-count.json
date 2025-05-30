@@ -1,6 +1,11 @@
 {
-    "siteCount": 71106,
+    "siteCount": 71111,
     "recentlyMoved": [
+        {
+            "domain_name": "firstival.com.au",
+            "destination": "Kinsta",
+            "date": "2025-05-29 23:24:06"
+        },
         {
             "domain_name": "tuckersdoggiedelights.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "nikichristopoulosmd.com",
             "destination": "A2 Hosting",
             "date": "2025-05-29 02:07:25"
-        },
-        {
-            "domain_name": "www.lancasterchamber.com",
-            "destination": "Kinsta",
-            "date": "2025-05-29 01:19:32"
         }
     ],
     "dailyMovedStat": {
@@ -757,7 +757,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9490,
-        "Kinsta": 4738,
+        "Kinsta": 4739,
         "Digital Ocean": 4072,
         "Bluehost": 3982,
         "SiteGround": 3961,
