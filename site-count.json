@@ -1,6 +1,11 @@
 {
-    "siteCount": 71441,
+    "siteCount": 71449,
     "recentlyMoved": [
+        {
+            "domain_name": "christinadunbar.com",
+            "destination": "Bluehost",
+            "date": "2025-05-31 05:00:46"
+        },
         {
             "domain_name": "www.nrlawgroup.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "suganyamobiles.com",
             "destination": "Digital Ocean",
             "date": "2025-05-30 05:12:49"
-        },
-        {
-            "domain_name": "silverpalace.co",
-            "destination": "Digital Ocean",
-            "date": "2025-05-30 04:31:37"
         }
     ],
     "dailyMovedStat": {
@@ -760,7 +760,7 @@
         "Pressable": 9516,
         "Kinsta": 4752,
         "Digital Ocean": 4092,
-        "Bluehost": 3983,
+        "Bluehost": 3984,
         "SiteGround": 3979,
         "Hostinger": 2569,
         "GoDaddy": 1105,
