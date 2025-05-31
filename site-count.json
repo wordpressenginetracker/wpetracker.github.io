@@ -1,6 +1,21 @@
 {
-    "siteCount": 71426,
+    "siteCount": 71441,
     "recentlyMoved": [
+        {
+            "domain_name": "www.nrlawgroup.com",
+            "destination": "Liquid Web",
+            "date": "2025-05-31 03:48:38"
+        },
+        {
+            "domain_name": "anatomytattoo.com",
+            "destination": "Digital Ocean",
+            "date": "2025-05-31 03:34:17"
+        },
+        {
+            "domain_name": "pitkansillanranta3.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-05-31 03:34:06"
+        },
         {
             "domain_name": "nowadays.media",
             "destination": "Pressable",
@@ -482,24 +497,9 @@
             "date": "2025-05-30 05:12:49"
         },
         {
-            "domain_name": "santayana.com",
-            "destination": "SiteGround",
-            "date": "2025-05-30 05:02:41"
-        },
-        {
-            "domain_name": "jabberdigitalmedia.com",
-            "destination": "IONOS",
-            "date": "2025-05-30 04:38:15"
-        },
-        {
             "domain_name": "silverpalace.co",
             "destination": "Digital Ocean",
             "date": "2025-05-30 04:31:37"
-        },
-        {
-            "domain_name": "radianceglobal.in",
-            "destination": "Digital Ocean",
-            "date": "2025-05-30 04:10:38"
         }
     ],
     "dailyMovedStat": {
@@ -759,13 +759,13 @@
     "topDestinationHosts": {
         "Pressable": 9516,
         "Kinsta": 4752,
-        "Digital Ocean": 4091,
+        "Digital Ocean": 4092,
         "Bluehost": 3983,
         "SiteGround": 3979,
         "Hostinger": 2569,
         "GoDaddy": 1105,
         "BigScoots": 545,
-        "Liquid Web": 472,
+        "Liquid Web": 473,
         "WordPress.com": 339,
         "InMotion Hosting": 314,
         "GridPane": 307,
@@ -775,7 +775,7 @@
         "DreamHost": 253,
         "IONOS": 252,
         "Namecheap": 248,
-        "Hetzner Online": 206,
+        "Hetzner Online": 207,
         "Wordify": 183
     },
     "dailyTotalStat": {
