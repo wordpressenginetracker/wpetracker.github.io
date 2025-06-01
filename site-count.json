@@ -1,6 +1,11 @@
 {
-    "siteCount": 71821,
+    "siteCount": 71828,
     "recentlyMoved": [
+        {
+            "domain_name": "krantec.fi",
+            "destination": "Hostinger",
+            "date": "2025-06-01 17:28:57"
+        },
         {
             "domain_name": "www.charlesgracie.com",
             "destination": "Pressable",
@@ -422,11 +427,6 @@
             "date": "2025-05-31 16:22:42"
         },
         {
-            "domain_name": "paradiseconcretecoatings.com",
-            "destination": "Hostinger",
-            "date": "2025-05-31 16:13:45"
-        },
-        {
             "domain_name": "balliegng.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:12:05"
@@ -763,7 +763,7 @@
         "Digital Ocean": 4129,
         "SiteGround": 3992,
         "Bluehost": 3985,
-        "Hostinger": 2581,
+        "Hostinger": 2582,
         "GoDaddy": 1109,
         "BigScoots": 545,
         "Liquid Web": 475,
