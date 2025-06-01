@@ -1,6 +1,11 @@
 {
-    "siteCount": 71773,
+    "siteCount": 71780,
     "recentlyMoved": [
+        {
+            "domain_name": "www.oldsmiddyselfcatering.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-06-01 08:44:28"
+        },
         {
             "domain_name": "www.villafemos.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "millersgrant.org",
             "destination": "SiteGround",
             "date": "2025-05-31 13:44:32"
-        },
-        {
-            "domain_name": "maison-e.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-05-31 13:18:16"
         }
     ],
     "dailyMovedStat": {
@@ -760,7 +760,7 @@
     "topDestinationHosts": {
         "Pressable": 9530,
         "Kinsta": 4822,
-        "Digital Ocean": 4126,
+        "Digital Ocean": 4127,
         "SiteGround": 3989,
         "Bluehost": 3985,
         "Hostinger": 2580,
