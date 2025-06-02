@@ -1,6 +1,16 @@
 {
-    "siteCount": 71926,
+    "siteCount": 71932,
     "recentlyMoved": [
+        {
+            "domain_name": "tunesinthepark.com",
+            "destination": "Hostinger",
+            "date": "2025-06-02 14:26:53"
+        },
+        {
+            "domain_name": "mattlove.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-02 14:15:19"
+        },
         {
             "domain_name": "soldbyrandeep.ca",
             "destination": "SiteGround",
@@ -462,16 +472,6 @@
             "date": "2025-05-31 16:37:06"
         },
         {
-            "domain_name": "rhodestoremedy.com",
-            "destination": "SiteGround",
-            "date": "2025-05-31 16:34:59"
-        },
-        {
-            "domain_name": "rffvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:34:59"
-        },
-        {
             "domain_name": "jlvend.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:31:33"
@@ -762,9 +762,9 @@
         "Pressable": 9538,
         "Kinsta": 4825,
         "Digital Ocean": 4130,
-        "SiteGround": 3997,
+        "SiteGround": 3998,
         "Bluehost": 3985,
-        "Hostinger": 2586,
+        "Hostinger": 2587,
         "GoDaddy": 1110,
         "BigScoots": 545,
         "Liquid Web": 476,
