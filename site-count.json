@@ -1,6 +1,16 @@
 {
-    "siteCount": 71909,
+    "siteCount": 71913,
     "recentlyMoved": [
+        {
+            "domain_name": "domisource.com",
+            "destination": "Hostinger",
+            "date": "2025-06-02 09:41:35"
+        },
+        {
+            "domain_name": "www.trappi.fi",
+            "destination": "Hostinger",
+            "date": "2025-06-02 09:23:23"
+        },
         {
             "domain_name": "www.whatsafteratx.org",
             "destination": "Namecheap",
@@ -422,11 +432,6 @@
             "date": "2025-05-31 16:43:15"
         },
         {
-            "domain_name": "www.craftnowphila.org",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:41:16"
-        },
-        {
             "domain_name": "johnbrichardslaw.com",
             "destination": "GoDaddy",
             "date": "2025-05-31 16:37:06"
@@ -465,11 +470,6 @@
             "domain_name": "sergeantsnack.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:30:23"
-        },
-        {
-            "domain_name": "azfelizvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:29:05"
         },
         {
             "domain_name": "hustlevend.com",
@@ -764,7 +764,7 @@
         "Digital Ocean": 4129,
         "SiteGround": 3993,
         "Bluehost": 3985,
-        "Hostinger": 2583,
+        "Hostinger": 2585,
         "GoDaddy": 1110,
         "BigScoots": 545,
         "Liquid Web": 476,
