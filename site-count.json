@@ -1,6 +1,11 @@
 {
-    "siteCount": 71985,
+    "siteCount": 71988,
     "recentlyMoved": [
+        {
+            "domain_name": "nufx.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-06-02 22:30:36"
+        },
         {
             "domain_name": "cmi.apriori.com",
             "destination": "Kinsta",
@@ -447,11 +452,6 @@
             "date": "2025-05-31 17:31:53"
         },
         {
-            "domain_name": "snacksavvynh.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:31:53"
-        },
-        {
             "domain_name": "leslykahn.com",
             "destination": "Pressable",
             "date": "2025-05-31 17:30:45"
@@ -756,12 +756,13 @@
         "2025-05-29": "71106",
         "2025-05-30": "71398",
         "2025-05-31": "71740",
-        "2025-06-01": "71871"
+        "2025-06-01": "71871",
+        "2025-06-02": "71988"
     },
     "topDestinationHosts": {
         "Pressable": 9540,
         "Kinsta": 4826,
-        "Digital Ocean": 4132,
+        "Digital Ocean": 4133,
         "SiteGround": 4007,
         "Bluehost": 3985,
         "Hostinger": 2590,
@@ -1034,6 +1035,7 @@
         "2025-05-29": "618211",
         "2025-05-30": "619721",
         "2025-05-31": "617860",
-        "2025-06-01": "620276"
+        "2025-06-01": "620276",
+        "2025-06-02": "619172"
     }
 }
