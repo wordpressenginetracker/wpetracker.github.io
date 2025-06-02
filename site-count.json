@@ -1,6 +1,21 @@
 {
-    "siteCount": 71915,
+    "siteCount": 71921,
     "recentlyMoved": [
+        {
+            "domain_name": "arogyahospital.org",
+            "destination": "Digital Ocean",
+            "date": "2025-06-02 12:01:33"
+        },
+        {
+            "domain_name": "pbflaw.com",
+            "destination": "Hostinger",
+            "date": "2025-06-02 11:58:33"
+        },
+        {
+            "domain_name": "ottawaopenhouses.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-02 11:26:47"
+        },
         {
             "domain_name": "domisource.com",
             "destination": "Hostinger",
@@ -447,11 +462,6 @@
             "date": "2025-05-31 16:34:59"
         },
         {
-            "domain_name": "henryvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:32:33"
-        },
-        {
             "domain_name": "jlvend.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:31:33"
@@ -477,11 +487,6 @@
             "date": "2025-05-31 16:22:42"
         },
         {
-            "domain_name": "balliegng.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:12:05"
-        },
-        {
             "domain_name": "bluejayvending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:11:51"
@@ -495,11 +500,6 @@
             "domain_name": "www.ecommerce-nation.com",
             "destination": "Hostinger",
             "date": "2025-05-31 15:57:47"
-        },
-        {
-            "domain_name": "beansprovisions.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 15:56:23"
         }
     ],
     "dailyMovedStat": {
@@ -761,10 +761,10 @@
     "topDestinationHosts": {
         "Pressable": 9538,
         "Kinsta": 4825,
-        "Digital Ocean": 4129,
-        "SiteGround": 3993,
+        "Digital Ocean": 4130,
+        "SiteGround": 3994,
         "Bluehost": 3985,
-        "Hostinger": 2585,
+        "Hostinger": 2586,
         "GoDaddy": 1110,
         "BigScoots": 545,
         "Liquid Web": 476,
