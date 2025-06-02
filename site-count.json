@@ -1,6 +1,11 @@
 {
-    "siteCount": 71982,
+    "siteCount": 71985,
     "recentlyMoved": [
+        {
+            "domain_name": "cmi.apriori.com",
+            "destination": "Kinsta",
+            "date": "2025-06-02 21:51:38"
+        },
         {
             "domain_name": "kentexworland.com",
             "destination": "SiteGround",
@@ -447,11 +452,6 @@
             "date": "2025-05-31 17:31:53"
         },
         {
-            "domain_name": "snack-genie.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:31:53"
-        },
-        {
             "domain_name": "leslykahn.com",
             "destination": "Pressable",
             "date": "2025-05-31 17:30:45"
@@ -760,7 +760,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9540,
-        "Kinsta": 4825,
+        "Kinsta": 4826,
         "Digital Ocean": 4132,
         "SiteGround": 4007,
         "Bluehost": 3985,
