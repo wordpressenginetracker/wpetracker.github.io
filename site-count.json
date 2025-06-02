@@ -1,6 +1,21 @@
 {
-    "siteCount": 71921,
+    "siteCount": 71926,
     "recentlyMoved": [
+        {
+            "domain_name": "soldbyrandeep.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-02 13:01:44"
+        },
+        {
+            "domain_name": "kelownaopenhouses.com",
+            "destination": "SiteGround",
+            "date": "2025-06-02 12:43:27"
+        },
+        {
+            "domain_name": "rickbracken.com",
+            "destination": "SiteGround",
+            "date": "2025-06-02 12:16:01"
+        },
         {
             "domain_name": "arogyahospital.org",
             "destination": "Digital Ocean",
@@ -437,11 +452,6 @@
             "date": "2025-05-31 16:50:38"
         },
         {
-            "domain_name": "hsevending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:43:41"
-        },
-        {
             "domain_name": "smartvendingidaho.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:43:15"
@@ -482,11 +492,6 @@
             "date": "2025-05-31 16:30:23"
         },
         {
-            "domain_name": "hustlevend.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:22:42"
-        },
-        {
             "domain_name": "bluejayvending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:11:51"
@@ -495,11 +500,6 @@
             "domain_name": "rkb-vending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:05:26"
-        },
-        {
-            "domain_name": "www.ecommerce-nation.com",
-            "destination": "Hostinger",
-            "date": "2025-05-31 15:57:47"
         }
     ],
     "dailyMovedStat": {
@@ -762,7 +762,7 @@
         "Pressable": 9538,
         "Kinsta": 4825,
         "Digital Ocean": 4130,
-        "SiteGround": 3994,
+        "SiteGround": 3997,
         "Bluehost": 3985,
         "Hostinger": 2586,
         "GoDaddy": 1110,
