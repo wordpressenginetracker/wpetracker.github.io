@@ -1,6 +1,11 @@
 {
-    "siteCount": 71890,
+    "siteCount": 71897,
     "recentlyMoved": [
+        {
+            "domain_name": "centxgps.com",
+            "destination": "Kinsta",
+            "date": "2025-06-02 05:06:17"
+        },
         {
             "domain_name": "personique.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "beansprovisions.com",
             "destination": "Kinsta",
             "date": "2025-05-31 15:56:23"
-        },
-        {
-            "domain_name": "premierwebcreations.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 15:46:54"
         }
     ],
     "dailyMovedStat": {
@@ -760,7 +760,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9537,
-        "Kinsta": 4824,
+        "Kinsta": 4825,
         "Digital Ocean": 4129,
         "SiteGround": 3993,
         "Bluehost": 3985,
