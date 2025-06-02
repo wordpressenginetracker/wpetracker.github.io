@@ -1,6 +1,21 @@
 {
-    "siteCount": 71876,
+    "siteCount": 71883,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lminsurancesolutions.net",
+            "destination": "SiteGround",
+            "date": "2025-06-02 00:57:22"
+        },
+        {
+            "domain_name": "www.gracietracy.com",
+            "destination": "Pressable",
+            "date": "2025-06-02 00:22:32"
+        },
+        {
+            "domain_name": "www.graciesm.com",
+            "destination": "Pressable",
+            "date": "2025-06-02 00:22:32"
+        },
         {
             "domain_name": "www.centralif.org",
             "destination": "Pressable",
@@ -452,16 +467,6 @@
             "date": "2025-05-31 16:11:51"
         },
         {
-            "domain_name": "goodysvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:10:07"
-        },
-        {
-            "domain_name": "goodstogovending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 16:10:07"
-        },
-        {
             "domain_name": "rkb-vending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 16:05:26"
@@ -495,11 +500,6 @@
             "domain_name": "premierwebcreations.com",
             "destination": "Kinsta",
             "date": "2025-05-31 15:46:54"
-        },
-        {
-            "domain_name": "getsmartvend.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 15:34:26"
         }
     ],
     "dailyMovedStat": {
@@ -759,10 +759,10 @@
         "2025-06-01": "71871"
     },
     "topDestinationHosts": {
-        "Pressable": 9534,
+        "Pressable": 9536,
         "Kinsta": 4824,
         "Digital Ocean": 4129,
-        "SiteGround": 3992,
+        "SiteGround": 3993,
         "Bluehost": 3985,
         "Hostinger": 2582,
         "GoDaddy": 1110,
