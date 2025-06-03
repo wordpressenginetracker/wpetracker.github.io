@@ -1,6 +1,21 @@
 {
-    "siteCount": 71988,
+    "siteCount": 72000,
     "recentlyMoved": [
+        {
+            "domain_name": "austinclinicformen.com",
+            "destination": "Namecheap",
+            "date": "2025-06-03 00:27:58"
+        },
+        {
+            "domain_name": "personiqueonthespot.com",
+            "destination": "Namecheap",
+            "date": "2025-06-03 00:19:57"
+        },
+        {
+            "domain_name": "www.apriori.com",
+            "destination": "Kinsta",
+            "date": "2025-06-02 23:41:57"
+        },
         {
             "domain_name": "nufx.com.au",
             "destination": "Digital Ocean",
@@ -442,24 +457,9 @@
             "date": "2025-05-31 17:32:24"
         },
         {
-            "domain_name": "snagasnackmichigan.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:31:53"
-        },
-        {
-            "domain_name": "snackwellnow.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:31:53"
-        },
-        {
             "domain_name": "leslykahn.com",
             "destination": "Pressable",
             "date": "2025-05-31 17:30:45"
-        },
-        {
-            "domain_name": "kjcubedvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:28:47"
         },
         {
             "domain_name": "sunshine-snacks.com",
@@ -761,7 +761,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9540,
-        "Kinsta": 4826,
+        "Kinsta": 4827,
         "Digital Ocean": 4133,
         "SiteGround": 4007,
         "Bluehost": 3985,
@@ -777,7 +777,7 @@
         "OVH": 279,
         "DreamHost": 254,
         "IONOS": 253,
-        "Namecheap": 251,
+        "Namecheap": 252,
         "Hetzner Online": 208,
         "Wordify": 183
     },
