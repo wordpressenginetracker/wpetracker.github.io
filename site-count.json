@@ -1,6 +1,11 @@
 {
-    "siteCount": 72028,
+    "siteCount": 72030,
     "recentlyMoved": [
+        {
+            "domain_name": "verlane.media",
+            "destination": "Kinsta",
+            "date": "2025-06-03 06:27:45"
+        },
         {
             "domain_name": "tonyanmak.com",
             "destination": "Digital Ocean",
@@ -477,11 +482,6 @@
             "date": "2025-05-31 17:54:03"
         },
         {
-            "domain_name": "lsmmd.org",
-            "destination": "SiteGround",
-            "date": "2025-05-31 17:37:38"
-        },
-        {
             "domain_name": "dogstarvending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 17:36:11"
@@ -761,13 +761,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 9541,
-        "Kinsta": 4828,
-        "Digital Ocean": 4134,
+        "Kinsta": 4830,
+        "Digital Ocean": 4136,
         "SiteGround": 4007,
         "Bluehost": 3985,
         "Hostinger": 2590,
         "GoDaddy": 1110,
-        "BigScoots": 545,
+        "BigScoots": 546,
         "Liquid Web": 477,
         "WordPress.com": 340,
         "InMotion Hosting": 316,
