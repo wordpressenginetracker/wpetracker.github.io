@@ -1,6 +1,16 @@
 {
-    "siteCount": 72030,
+    "siteCount": 72037,
     "recentlyMoved": [
+        {
+            "domain_name": "www.royalalbionwalton.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 08:29:24"
+        },
+        {
+            "domain_name": "www.alfristoncabins.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 07:40:41"
+        },
         {
             "domain_name": "verlane.media",
             "destination": "Kinsta",
@@ -457,11 +467,6 @@
             "date": "2025-05-31 18:15:22"
         },
         {
-            "domain_name": "degvending.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 18:06:45"
-        },
-        {
             "domain_name": "twgvending.com",
             "destination": "Kinsta",
             "date": "2025-05-31 18:02:42"
@@ -495,11 +500,6 @@
             "domain_name": "mccombskinclinic.com",
             "destination": "Digital Ocean",
             "date": "2025-05-31 17:22:02"
-        },
-        {
-            "domain_name": "tatkaara.com",
-            "destination": "Kinsta",
-            "date": "2025-05-31 17:09:23"
         }
     ],
     "dailyMovedStat": {
@@ -762,7 +762,7 @@
     "topDestinationHosts": {
         "Pressable": 9541,
         "Kinsta": 4830,
-        "Digital Ocean": 4136,
+        "Digital Ocean": 4138,
         "SiteGround": 4007,
         "Bluehost": 3985,
         "Hostinger": 2590,
