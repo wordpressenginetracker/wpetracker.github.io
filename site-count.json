@@ -1,6 +1,11 @@
 {
-    "siteCount": 72116,
+    "siteCount": 72118,
     "recentlyMoved": [
+        {
+            "domain_name": "venturamedstaff.com",
+            "destination": "Kinsta",
+            "date": "2025-06-03 14:22:19"
+        },
         {
             "domain_name": "www.westernsport.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "diamondhomesbydavis.com",
             "destination": "SiteGround",
             "date": "2025-06-01 13:49:45"
-        },
-        {
-            "domain_name": "thecopechurch.org",
-            "destination": "SiteGround",
-            "date": "2025-06-01 13:32:03"
         }
     ],
     "dailyMovedStat": {
@@ -761,7 +761,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9547,
-        "Kinsta": 4840,
+        "Kinsta": 4841,
         "Digital Ocean": 4149,
         "SiteGround": 4011,
         "Bluehost": 3985,
