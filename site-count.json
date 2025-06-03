@@ -1,6 +1,11 @@
 {
-    "siteCount": 72266,
+    "siteCount": 72268,
     "recentlyMoved": [
+        {
+            "domain_name": "novacayman.com",
+            "destination": "Pressable",
+            "date": "2025-06-03 22:54:33"
+        },
         {
             "domain_name": "drmonarres.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "economicsoflove.church",
             "destination": "SiteGround",
             "date": "2025-06-02 18:18:58"
-        },
-        {
-            "domain_name": "thinkagile.solutions",
-            "destination": "Hostinger",
-            "date": "2025-06-02 17:33:40"
         }
     ],
     "dailyMovedStat": {
@@ -757,10 +757,11 @@
         "2025-05-30": "71398",
         "2025-05-31": "71740",
         "2025-06-01": "71871",
-        "2025-06-02": "71988"
+        "2025-06-02": "71988",
+        "2025-06-03": "72268"
     },
     "topDestinationHosts": {
-        "Pressable": 9551,
+        "Pressable": 9552,
         "Kinsta": 4845,
         "Digital Ocean": 4156,
         "SiteGround": 4018,
@@ -1036,6 +1037,7 @@
         "2025-05-30": "619721",
         "2025-05-31": "617860",
         "2025-06-01": "620276",
-        "2025-06-02": "619172"
+        "2025-06-02": "619172",
+        "2025-06-03": "618458"
     }
 }
