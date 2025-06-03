@@ -1,10 +1,20 @@
 {
-    "siteCount": 72064,
+    "siteCount": 72066,
     "recentlyMoved": [
         {
             "domain_name": "essentialtherapygroup.com",
             "destination": "Kinsta",
             "date": "2025-06-03 10:37:08"
+        },
+        {
+            "domain_name": "votersnotpoliticians.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-06-03 10:12:48"
+        },
+        {
+            "domain_name": "videoformanufacturing.com",
+            "destination": "SiteGround",
+            "date": "2025-06-03 10:05:02"
         },
         {
             "domain_name": "www.sinbarrerascville.org",
@@ -490,16 +500,6 @@
             "domain_name": "leemillerrehab.com",
             "destination": "Liquid Web",
             "date": "2025-05-31 21:37:00"
-        },
-        {
-            "domain_name": "bp.infomanagementcenter.com",
-            "destination": "Digital Ocean",
-            "date": "2025-05-31 21:02:55"
-        },
-        {
-            "domain_name": "www.globalhomeinc.com",
-            "destination": "SiteGround",
-            "date": "2025-05-31 20:57:28"
         }
     ],
     "dailyMovedStat": {
@@ -761,9 +761,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 9542,
-        "Kinsta": 4836,
+        "Kinsta": 4837,
         "Digital Ocean": 4142,
-        "SiteGround": 4007,
+        "SiteGround": 4008,
         "Bluehost": 3985,
         "Hostinger": 2594,
         "GoDaddy": 1110,
@@ -773,7 +773,7 @@
         "InMotion Hosting": 316,
         "GridPane": 307,
         "A2 Hosting": 305,
-        "Elementor Hosting": 285,
+        "Elementor Hosting": 286,
         "OVH": 280,
         "IONOS": 254,
         "DreamHost": 254,
