@@ -1,10 +1,35 @@
 {
-    "siteCount": 72163,
+    "siteCount": 72181,
     "recentlyMoved": [
+        {
+            "domain_name": "montanaraptor.org",
+            "destination": "GoDaddy",
+            "date": "2025-06-03 17:58:43"
+        },
+        {
+            "domain_name": "ecentmedia.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 17:47:42"
+        },
         {
             "domain_name": "lawnguysmia.com",
             "destination": "SiteGround",
             "date": "2025-06-03 17:39:21"
+        },
+        {
+            "domain_name": "daysof56rodeo.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-03 17:35:08"
+        },
+        {
+            "domain_name": "www.tsquared.health",
+            "destination": "Kinsta",
+            "date": "2025-06-03 17:18:59"
+        },
+        {
+            "domain_name": "levelorthodontics.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 17:11:42"
         },
         {
             "domain_name": "www.psgacademyorlando.com",
@@ -475,31 +500,6 @@
             "domain_name": "mattlove.ca",
             "destination": "SiteGround",
             "date": "2025-06-02 14:15:19"
-        },
-        {
-            "domain_name": "soldbyrandeep.ca",
-            "destination": "SiteGround",
-            "date": "2025-06-02 13:01:44"
-        },
-        {
-            "domain_name": "kelownaopenhouses.com",
-            "destination": "SiteGround",
-            "date": "2025-06-02 12:43:27"
-        },
-        {
-            "domain_name": "rickbracken.com",
-            "destination": "SiteGround",
-            "date": "2025-06-02 12:16:01"
-        },
-        {
-            "domain_name": "arogyahospital.org",
-            "destination": "Digital Ocean",
-            "date": "2025-06-02 12:01:33"
-        },
-        {
-            "domain_name": "pbflaw.com",
-            "destination": "Hostinger",
-            "date": "2025-06-02 11:58:33"
         }
     ],
     "dailyMovedStat": {
@@ -761,12 +761,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 9547,
-        "Kinsta": 4843,
-        "Digital Ocean": 4152,
-        "SiteGround": 4014,
+        "Kinsta": 4844,
+        "Digital Ocean": 4154,
+        "SiteGround": 4017,
         "Bluehost": 3985,
         "Hostinger": 2602,
-        "GoDaddy": 1110,
+        "GoDaddy": 1112,
         "BigScoots": 548,
         "Liquid Web": 477,
         "WordPress.com": 340,
