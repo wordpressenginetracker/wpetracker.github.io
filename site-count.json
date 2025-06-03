@@ -1,6 +1,31 @@
 {
-    "siteCount": 72102,
+    "siteCount": 72116,
     "recentlyMoved": [
+        {
+            "domain_name": "www.westernsport.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 14:14:26"
+        },
+        {
+            "domain_name": "xsitebraehead.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-06-03 14:09:48"
+        },
+        {
+            "domain_name": "www.yarnfieldpark.com",
+            "destination": "Kinsta",
+            "date": "2025-06-03 13:57:17"
+        },
+        {
+            "domain_name": "thegfidifference.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 13:39:35"
+        },
+        {
+            "domain_name": "www.rapidrecon.com",
+            "destination": "Pressable",
+            "date": "2025-06-03 13:37:05"
+        },
         {
             "domain_name": "charlestonoculofacial.com",
             "destination": "Pressable",
@@ -12,9 +37,19 @@
             "date": "2025-06-03 13:22:14"
         },
         {
+            "domain_name": "cruiseco.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-03 13:21:57"
+        },
+        {
             "domain_name": "sirentel.com",
             "destination": "Pressable",
             "date": "2025-06-03 13:20:54"
+        },
+        {
+            "domain_name": "mainstream-windows.co.uk",
+            "destination": "Pressable",
+            "date": "2025-06-03 13:18:59"
         },
         {
             "domain_name": "www.movetladies.fi",
@@ -452,11 +487,6 @@
             "date": "2025-06-01 15:39:54"
         },
         {
-            "domain_name": "de.apriori.com",
-            "destination": "Kinsta",
-            "date": "2025-06-01 14:08:36"
-        },
-        {
             "domain_name": "members.thinkyourself.com",
             "destination": "Pressable",
             "date": "2025-06-01 14:06:53"
@@ -470,36 +500,6 @@
             "domain_name": "thecopechurch.org",
             "destination": "SiteGround",
             "date": "2025-06-01 13:32:03"
-        },
-        {
-            "domain_name": "branchrivervending.com",
-            "destination": "Kinsta",
-            "date": "2025-06-01 12:34:15"
-        },
-        {
-            "domain_name": "gubtcasting.com",
-            "destination": "Hostinger",
-            "date": "2025-06-01 12:28:00"
-        },
-        {
-            "domain_name": "allianceplumbingaz.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-06-01 12:14:10"
-        },
-        {
-            "domain_name": "www.saffronhousevilla.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-01 12:09:16"
-        },
-        {
-            "domain_name": "andalmanflynn.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-01 11:59:43"
-        },
-        {
-            "domain_name": "policyfind.ca",
-            "destination": "SiteGround",
-            "date": "2025-06-01 11:57:09"
         }
     ],
     "dailyMovedStat": {
@@ -760,9 +760,9 @@
         "2025-06-02": "71988"
     },
     "topDestinationHosts": {
-        "Pressable": 9545,
-        "Kinsta": 4839,
-        "Digital Ocean": 4146,
+        "Pressable": 9547,
+        "Kinsta": 4840,
+        "Digital Ocean": 4149,
         "SiteGround": 4011,
         "Bluehost": 3985,
         "Hostinger": 2596,
