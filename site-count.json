@@ -1,6 +1,21 @@
 {
-    "siteCount": 72303,
+    "siteCount": 72313,
     "recentlyMoved": [
+        {
+            "domain_name": "ashsafetyservices.com",
+            "destination": "Hostinger",
+            "date": "2025-06-04 04:09:16"
+        },
+        {
+            "domain_name": "www.noblediadem.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 03:49:45"
+        },
+        {
+            "domain_name": "oraclekai.com",
+            "destination": "SiteGround",
+            "date": "2025-06-04 03:27:06"
+        },
         {
             "domain_name": "vancouverlatino.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.styleatacertainage.com",
             "destination": "BigScoots",
             "date": "2025-06-03 05:36:15"
-        },
-        {
-            "domain_name": "cdsofca.org",
-            "destination": "Digital Ocean",
-            "date": "2025-06-03 04:39:08"
-        },
-        {
-            "domain_name": "www.gutenberg.agency",
-            "destination": "OVH",
-            "date": "2025-06-03 04:23:21"
-        },
-        {
-            "domain_name": "heltenkelteko.se",
-            "destination": "Kinsta",
-            "date": "2025-06-03 04:11:08"
         }
     ],
     "dailyMovedStat": {
@@ -763,10 +763,10 @@
     "topDestinationHosts": {
         "Pressable": 9560,
         "Kinsta": 4847,
-        "Digital Ocean": 4156,
-        "SiteGround": 4022,
+        "Digital Ocean": 4157,
+        "SiteGround": 4023,
         "Bluehost": 3985,
-        "Hostinger": 2604,
+        "Hostinger": 2605,
         "GoDaddy": 1113,
         "BigScoots": 548,
         "Liquid Web": 477,
