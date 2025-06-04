@@ -1,6 +1,11 @@
 {
-    "siteCount": 72365,
+    "siteCount": 72368,
     "recentlyMoved": [
+        {
+            "domain_name": "no1ads.in",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 10:46:00"
+        },
         {
             "domain_name": "uniqueautoaccents.ca",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.no12apartments.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-06-03 11:43:26"
-        },
-        {
-            "domain_name": "www.dorsetecoretreats.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-03 11:34:48"
         }
     ],
     "dailyMovedStat": {
@@ -763,7 +763,7 @@
     "topDestinationHosts": {
         "Pressable": 9563,
         "Kinsta": 4849,
-        "Digital Ocean": 4165,
+        "Digital Ocean": 4166,
         "SiteGround": 4028,
         "Bluehost": 3986,
         "Hostinger": 2607,
