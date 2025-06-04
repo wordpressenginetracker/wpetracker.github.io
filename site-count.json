@@ -1,6 +1,36 @@
 {
-    "siteCount": 72582,
+    "siteCount": 72593,
     "recentlyMoved": [
+        {
+            "domain_name": "mindbodywise.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 22:06:00"
+        },
+        {
+            "domain_name": "daxairaviation.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 22:02:44"
+        },
+        {
+            "domain_name": "synergy-living.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 22:00:27"
+        },
+        {
+            "domain_name": "thomas4construction.com",
+            "destination": "Liquid Web",
+            "date": "2025-06-04 21:58:02"
+        },
+        {
+            "domain_name": "msnisocompliance.com.au",
+            "destination": "Kinsta",
+            "date": "2025-06-04 21:46:11"
+        },
+        {
+            "domain_name": "topp.com.au",
+            "destination": "GridPane",
+            "date": "2025-06-04 21:40:04"
+        },
         {
             "domain_name": "championsofchangecoalition.org",
             "destination": "SiteGround",
@@ -20,6 +50,16 @@
             "domain_name": "ruskinc.com",
             "destination": "DreamHost",
             "date": "2025-06-04 21:07:52"
+        },
+        {
+            "domain_name": "stratacominc.com",
+            "destination": "Kinsta",
+            "date": "2025-06-04 21:07:25"
+        },
+        {
+            "domain_name": "courses.flbaptist.org",
+            "destination": "Digital Ocean",
+            "date": "2025-06-04 21:05:02"
         },
         {
             "domain_name": "cfmechanics.com",
@@ -460,46 +500,6 @@
             "domain_name": "international.fertile.com",
             "destination": "IONOS",
             "date": "2025-06-04 08:26:46"
-        },
-        {
-            "domain_name": "www.westlynnehotel.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 08:25:08"
-        },
-        {
-            "domain_name": "poorpaulspaving.com",
-            "destination": "SiteGround",
-            "date": "2025-06-04 08:21:14"
-        },
-        {
-            "domain_name": "www.cocodental.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 08:04:23"
-        },
-        {
-            "domain_name": "parozenith.com",
-            "destination": "OVH",
-            "date": "2025-06-04 07:57:11"
-        },
-        {
-            "domain_name": "forestfoundation.net",
-            "destination": "SiteGround",
-            "date": "2025-06-04 07:52:55"
-        },
-        {
-            "domain_name": "www.knightmitchell.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 07:50:06"
-        },
-        {
-            "domain_name": "www.cornishseaviewcottages.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 07:48:46"
-        },
-        {
-            "domain_name": "visitsouthpointfinland.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-06-04 06:50:40"
         }
     ],
     "dailyMovedStat": {
@@ -762,17 +762,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 9584,
-        "Kinsta": 4857,
-        "Digital Ocean": 4181,
+        "Kinsta": 4860,
+        "Digital Ocean": 4185,
         "SiteGround": 4040,
         "Bluehost": 3988,
         "Hostinger": 2615,
         "GoDaddy": 1118,
         "BigScoots": 549,
-        "Liquid Web": 478,
+        "Liquid Web": 479,
         "WordPress.com": 341,
         "InMotion Hosting": 316,
-        "GridPane": 309,
+        "GridPane": 310,
         "A2 Hosting": 306,
         "Elementor Hosting": 286,
         "OVH": 284,
