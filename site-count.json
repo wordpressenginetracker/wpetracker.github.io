@@ -1,6 +1,36 @@
 {
-    "siteCount": 72268,
+    "siteCount": 72283,
     "recentlyMoved": [
+        {
+            "domain_name": "ashscotland.org.uk",
+            "destination": "SiteGround",
+            "date": "2025-06-04 00:39:03"
+        },
+        {
+            "domain_name": "authenticvoice.scot",
+            "destination": "SiteGround",
+            "date": "2025-06-04 00:37:50"
+        },
+        {
+            "domain_name": "www.chavezdentalcare.com",
+            "destination": "Pressable",
+            "date": "2025-06-04 00:11:17"
+        },
+        {
+            "domain_name": "411vending.com",
+            "destination": "Kinsta",
+            "date": "2025-06-03 23:47:32"
+        },
+        {
+            "domain_name": "www.cadenceseo.com",
+            "destination": "Kinsta",
+            "date": "2025-06-03 23:45:40"
+        },
+        {
+            "domain_name": "williemagg.com",
+            "destination": "SiteGround",
+            "date": "2025-06-03 23:27:58"
+        },
         {
             "domain_name": "novacayman.com",
             "destination": "Pressable",
@@ -470,36 +500,6 @@
             "domain_name": "qrewcial.com",
             "destination": "SiteGround",
             "date": "2025-06-02 20:10:38"
-        },
-        {
-            "domain_name": "www.coastal-lumber.com",
-            "destination": "Pressable",
-            "date": "2025-06-02 20:07:43"
-        },
-        {
-            "domain_name": "www.ccanv.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-02 20:01:30"
-        },
-        {
-            "domain_name": "fractionalhr.io",
-            "destination": "Pressable",
-            "date": "2025-06-02 19:27:07"
-        },
-        {
-            "domain_name": "valuearcinsurance.com",
-            "destination": "Hostinger",
-            "date": "2025-06-02 18:28:55"
-        },
-        {
-            "domain_name": "valuearc.com",
-            "destination": "Hostinger",
-            "date": "2025-06-02 18:28:55"
-        },
-        {
-            "domain_name": "economicsoflove.church",
-            "destination": "SiteGround",
-            "date": "2025-06-02 18:18:58"
         }
     ],
     "dailyMovedStat": {
@@ -761,10 +761,10 @@
         "2025-06-03": "72268"
     },
     "topDestinationHosts": {
-        "Pressable": 9552,
-        "Kinsta": 4845,
+        "Pressable": 9553,
+        "Kinsta": 4847,
         "Digital Ocean": 4156,
-        "SiteGround": 4018,
+        "SiteGround": 4022,
         "Bluehost": 3985,
         "Hostinger": 2604,
         "GoDaddy": 1113,
