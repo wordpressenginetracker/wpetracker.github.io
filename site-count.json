@@ -1,6 +1,21 @@
 {
-    "siteCount": 72609,
+    "siteCount": 72617,
     "recentlyMoved": [
+        {
+            "domain_name": "www.veejays.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-06-05 01:49:07"
+        },
+        {
+            "domain_name": "darlingdownsplumbing.com.au",
+            "destination": "Pressable",
+            "date": "2025-06-05 01:32:35"
+        },
+        {
+            "domain_name": "manianmedicalcentre.in",
+            "destination": "Digital Ocean",
+            "date": "2025-06-05 01:21:38"
+        },
         {
             "domain_name": "www.milltowndemocrats.org",
             "destination": "WordPress.com",
@@ -472,11 +487,6 @@
             "date": "2025-06-04 10:19:17"
         },
         {
-            "domain_name": "www.sunnyking.com",
-            "destination": "Pressable",
-            "date": "2025-06-04 10:00:21"
-        },
-        {
             "domain_name": "xfamunity.com",
             "destination": "SiteGround",
             "date": "2025-06-04 09:58:51"
@@ -490,16 +500,6 @@
             "domain_name": "merlegirlocon.com",
             "destination": "Hostinger",
             "date": "2025-06-04 09:40:45"
-        },
-        {
-            "domain_name": "www.sidstrading.com",
-            "destination": "Pressable",
-            "date": "2025-06-04 09:39:13"
-        },
-        {
-            "domain_name": "lmso.no",
-            "destination": "Hetzner Online",
-            "date": "2025-06-04 09:20:42"
         }
     ],
     "dailyMovedStat": {
@@ -762,9 +762,9 @@
         "2025-06-04": "72593"
     },
     "topDestinationHosts": {
-        "Pressable": 9587,
+        "Pressable": 9588,
         "Kinsta": 4860,
-        "Digital Ocean": 4185,
+        "Digital Ocean": 4187,
         "SiteGround": 4040,
         "Bluehost": 3988,
         "Hostinger": 2615,
