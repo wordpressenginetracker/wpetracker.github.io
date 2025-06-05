@@ -1,6 +1,16 @@
 {
-    "siteCount": 72784,
+    "siteCount": 72831,
     "recentlyMoved": [
+        {
+            "domain_name": "goodearthaspen.com",
+            "destination": "Kinsta",
+            "date": "2025-06-05 20:19:08"
+        },
+        {
+            "domain_name": "www.acialloys.com",
+            "destination": "Pressable",
+            "date": "2025-06-05 19:27:47"
+        },
         {
             "domain_name": "tricorewellness.com",
             "destination": "InMotion Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "adeptomed.com",
             "destination": "Kinsta",
             "date": "2025-06-04 19:19:04"
-        },
-        {
-            "domain_name": "villagecrestrehab.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 18:35:59"
-        },
-        {
-            "domain_name": "npmheatingandcooling.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 18:33:52"
         }
     ],
     "dailyMovedStat": {
@@ -762,24 +762,24 @@
         "2025-06-04": "72593"
     },
     "topDestinationHosts": {
-        "Pressable": 9594,
-        "Kinsta": 4870,
-        "Digital Ocean": 4199,
+        "Pressable": 9595,
+        "Kinsta": 4871,
+        "Digital Ocean": 4200,
         "SiteGround": 4050,
-        "Bluehost": 3988,
+        "Bluehost": 3989,
         "Hostinger": 2632,
         "GoDaddy": 1118,
         "BigScoots": 549,
-        "Liquid Web": 480,
+        "Liquid Web": 481,
         "WordPress.com": 343,
         "InMotion Hosting": 317,
-        "GridPane": 314,
-        "A2 Hosting": 306,
+        "GridPane": 315,
+        "A2 Hosting": 307,
         "Elementor Hosting": 288,
         "OVH": 286,
         "DreamHost": 257,
         "IONOS": 256,
-        "Namecheap": 253,
+        "Namecheap": 254,
         "Hetzner Online": 210,
         "Wordify": 183
     },
