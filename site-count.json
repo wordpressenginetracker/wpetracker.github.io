@@ -1,6 +1,36 @@
 {
-    "siteCount": 73141,
+    "siteCount": 73156,
     "recentlyMoved": [
+        {
+            "domain_name": "skinnertechgroup.com",
+            "destination": "SiteGround",
+            "date": "2025-06-06 21:25:00"
+        },
+        {
+            "domain_name": "lab.biggerimpact.tech",
+            "destination": "Pressable",
+            "date": "2025-06-06 21:04:31"
+        },
+        {
+            "domain_name": "industries4life.com",
+            "destination": "Bluehost",
+            "date": "2025-06-06 21:03:35"
+        },
+        {
+            "domain_name": "www.lgelectrician.com",
+            "destination": "Pressable",
+            "date": "2025-06-06 20:58:44"
+        },
+        {
+            "domain_name": "cawls.org.au",
+            "destination": "SiteGround",
+            "date": "2025-06-06 20:40:59"
+        },
+        {
+            "domain_name": "biggerimpact.website",
+            "destination": "Pressable",
+            "date": "2025-06-06 20:40:50"
+        },
         {
             "domain_name": "www.craftsmiles.com",
             "destination": "GoDaddy",
@@ -10,6 +40,11 @@
             "domain_name": "assuretyinsurance.com",
             "destination": "Kinsta",
             "date": "2025-06-06 20:33:24"
+        },
+        {
+            "domain_name": "siaelectricals.com",
+            "destination": "Hostinger",
+            "date": "2025-06-06 20:33:01"
         },
         {
             "domain_name": "www.dc-inter.com",
@@ -462,44 +497,9 @@
             "date": "2025-06-05 17:30:34"
         },
         {
-            "domain_name": "contemporarycarpetwi.com",
-            "destination": "Hostinger",
-            "date": "2025-06-05 17:24:55"
-        },
-        {
             "domain_name": "cottonspecialties.com",
             "destination": "SiteGround",
             "date": "2025-06-05 17:15:26"
-        },
-        {
-            "domain_name": "languesettravail.ca",
-            "destination": "OVH",
-            "date": "2025-06-05 17:11:15"
-        },
-        {
-            "domain_name": "scheffdesignandremodeling.com",
-            "destination": "Hostinger",
-            "date": "2025-06-05 17:04:31"
-        },
-        {
-            "domain_name": "ckgcontractors.com",
-            "destination": "SiteGround",
-            "date": "2025-06-05 16:53:15"
-        },
-        {
-            "domain_name": "sgconcrete.com",
-            "destination": "HostGator",
-            "date": "2025-06-05 16:45:17"
-        },
-        {
-            "domain_name": "joesavagelaw.com",
-            "destination": "SiteGround",
-            "date": "2025-06-05 16:35:43"
-        },
-        {
-            "domain_name": "caitcocares.com",
-            "destination": "SiteGround",
-            "date": "2025-06-05 16:29:07"
         }
     ],
     "dailyMovedStat": {
@@ -763,13 +763,13 @@
         "2025-06-05": "72842"
     },
     "topDestinationHosts": {
-        "Pressable": 9610,
+        "Pressable": 9613,
         "Kinsta": 4879,
         "Digital Ocean": 4212,
-        "SiteGround": 4062,
-        "Bluehost": 3989,
-        "Hostinger": 2650,
-        "GoDaddy": 1122,
+        "SiteGround": 4064,
+        "Bluehost": 3990,
+        "Hostinger": 2651,
+        "GoDaddy": 1123,
         "BigScoots": 550,
         "Liquid Web": 482,
         "WordPress.com": 345,
