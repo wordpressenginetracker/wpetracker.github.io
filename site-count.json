@@ -1,6 +1,11 @@
 {
-    "siteCount": 72864,
+    "siteCount": 72866,
     "recentlyMoved": [
+        {
+            "domain_name": "villageextendedday.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-06-06 02:45:25"
+        },
         {
             "domain_name": "theelevatedgrp.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "cfmechanics.com",
             "destination": "Digital Ocean",
             "date": "2025-06-04 20:43:02"
-        },
-        {
-            "domain_name": "jbtsem.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 20:35:49"
         }
     ],
     "dailyMovedStat": {
@@ -765,7 +765,7 @@
     "topDestinationHosts": {
         "Pressable": 9596,
         "Kinsta": 4872,
-        "Digital Ocean": 4201,
+        "Digital Ocean": 4202,
         "SiteGround": 4054,
         "Bluehost": 3989,
         "Hostinger": 2632,
@@ -773,7 +773,7 @@
         "BigScoots": 549,
         "Liquid Web": 481,
         "WordPress.com": 343,
-        "InMotion Hosting": 317,
+        "InMotion Hosting": 318,
         "GridPane": 315,
         "A2 Hosting": 307,
         "Elementor Hosting": 288,
