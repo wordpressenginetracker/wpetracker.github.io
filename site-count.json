@@ -1,6 +1,16 @@
 {
-    "siteCount": 72851,
+    "siteCount": 72857,
     "recentlyMoved": [
+        {
+            "domain_name": "cheltenhambowlsclub.com.au",
+            "destination": "SiteGround",
+            "date": "2025-06-06 00:51:29"
+        },
+        {
+            "domain_name": "www.newportgas.com",
+            "destination": "Pressable",
+            "date": "2025-06-06 00:40:30"
+        },
         {
             "domain_name": "www.boroniabowls.org",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "beecooltexas.com",
             "destination": "GoDaddy",
             "date": "2025-06-04 20:15:37"
-        },
-        {
-            "domain_name": "pinesutica.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 19:56:12"
-        },
-        {
-            "domain_name": "pinesrutland.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-04 19:56:12"
         }
     ],
     "dailyMovedStat": {
@@ -763,10 +763,10 @@
         "2025-06-05": "72842"
     },
     "topDestinationHosts": {
-        "Pressable": 9595,
+        "Pressable": 9596,
         "Kinsta": 4872,
         "Digital Ocean": 4200,
-        "SiteGround": 4053,
+        "SiteGround": 4054,
         "Bluehost": 3989,
         "Hostinger": 2632,
         "GoDaddy": 1119,
