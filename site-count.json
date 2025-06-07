@@ -1,6 +1,31 @@
 {
-    "siteCount": 73387,
+    "siteCount": 73396,
     "recentlyMoved": [
+        {
+            "domain_name": "chahrour.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-07 21:27:47"
+        },
+        {
+            "domain_name": "kalle.esquireinteractive.com",
+            "destination": "Pressable",
+            "date": "2025-06-07 21:18:03"
+        },
+        {
+            "domain_name": "johnson.esquireinteractive.com",
+            "destination": "Pressable",
+            "date": "2025-06-07 21:10:16"
+        },
+        {
+            "domain_name": "schoolviolencelawyers.com",
+            "destination": "Pressable",
+            "date": "2025-06-07 20:59:39"
+        },
+        {
+            "domain_name": "bathmakeovermn.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-07 20:49:22"
+        },
         {
             "domain_name": "www.citychurchga.com",
             "destination": "Hostinger",
@@ -447,29 +472,9 @@
             "date": "2025-06-06 18:02:40"
         },
         {
-            "domain_name": "lgelectrician.com",
-            "destination": "Pressable",
-            "date": "2025-06-06 17:55:01"
-        },
-        {
             "domain_name": "e-i-i.com",
             "destination": "SiteGround",
             "date": "2025-06-06 17:47:23"
-        },
-        {
-            "domain_name": "www.qualityroofingspecialist.com",
-            "destination": "Pressable",
-            "date": "2025-06-06 17:42:26"
-        },
-        {
-            "domain_name": "chicagoroll.com",
-            "destination": "A2 Hosting",
-            "date": "2025-06-06 17:39:50"
-        },
-        {
-            "domain_name": "theartofapplying.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-06 17:39:20"
         },
         {
             "domain_name": "dickinsonchamber.org",
@@ -495,11 +500,6 @@
             "domain_name": "mariusb.ca",
             "destination": "Kinsta",
             "date": "2025-06-06 17:23:58"
-        },
-        {
-            "domain_name": "connectogroup.com",
-            "destination": "Hostinger",
-            "date": "2025-06-06 17:11:11"
         }
     ],
     "dailyMovedStat": {
@@ -764,10 +764,10 @@
         "2025-06-06": "73168"
     },
     "topDestinationHosts": {
-        "Pressable": 9626,
+        "Pressable": 9629,
         "Kinsta": 4891,
-        "Digital Ocean": 4220,
-        "SiteGround": 4071,
+        "Digital Ocean": 4221,
+        "SiteGround": 4072,
         "Bluehost": 3991,
         "Hostinger": 2673,
         "GoDaddy": 1128,
