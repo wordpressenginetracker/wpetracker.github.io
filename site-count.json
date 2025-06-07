@@ -1,6 +1,16 @@
 {
-    "siteCount": 73192,
+    "siteCount": 73201,
     "recentlyMoved": [
+        {
+            "domain_name": "sriimpex.co.in",
+            "destination": "Hostinger",
+            "date": "2025-06-07 05:07:40"
+        },
+        {
+            "domain_name": "sipma.in",
+            "destination": "Hostinger",
+            "date": "2025-06-07 04:58:07"
+        },
         {
             "domain_name": "harichakracomputers.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "assocagencies.com",
             "destination": "SiteGround",
             "date": "2025-06-06 00:15:54"
-        },
-        {
-            "domain_name": "ofwgo.com",
-            "destination": "Kinsta",
-            "date": "2025-06-05 23:29:19"
-        },
-        {
-            "domain_name": "uniformity.com.au",
-            "destination": "SiteGround",
-            "date": "2025-06-05 22:43:16"
         }
     ],
     "dailyMovedStat": {
@@ -769,7 +769,7 @@
         "Digital Ocean": 4214,
         "SiteGround": 4067,
         "Bluehost": 3990,
-        "Hostinger": 2656,
+        "Hostinger": 2658,
         "GoDaddy": 1124,
         "BigScoots": 550,
         "Liquid Web": 483,
