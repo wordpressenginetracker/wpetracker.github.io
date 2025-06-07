@@ -1,6 +1,31 @@
 {
-    "siteCount": 73214,
+    "siteCount": 73227,
     "recentlyMoved": [
+        {
+            "domain_name": "championnutrition.net.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-07 09:23:56"
+        },
+        {
+            "domain_name": "colombus-kids.co.il",
+            "destination": "Hostinger",
+            "date": "2025-06-07 09:09:55"
+        },
+        {
+            "domain_name": "kwalitycoil.com",
+            "destination": "Hostinger",
+            "date": "2025-06-07 08:55:42"
+        },
+        {
+            "domain_name": "www.holtinternational.org",
+            "destination": "Kinsta",
+            "date": "2025-06-07 08:28:52"
+        },
+        {
+            "domain_name": "www.freshbrothers.com",
+            "destination": "Hostinger",
+            "date": "2025-06-07 08:28:03"
+        },
         {
             "domain_name": "fundeco.biz",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "blendinsurancesolutions.com.au",
             "destination": "SiteGround",
             "date": "2025-06-06 04:39:36"
-        },
-        {
-            "domain_name": "www.empireaccess.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-06 04:28:13"
-        },
-        {
-            "domain_name": "alphastreetasphalt.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-06 03:44:17"
-        },
-        {
-            "domain_name": "philsbakehouse.com",
-            "destination": "Hostinger",
-            "date": "2025-06-06 03:33:28"
-        },
-        {
-            "domain_name": "villageextendedday.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-06-06 02:45:25"
-        },
-        {
-            "domain_name": "mygreenguardian.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-06 01:50:17"
         }
     ],
     "dailyMovedStat": {
@@ -765,11 +765,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9615,
-        "Kinsta": 4879,
+        "Kinsta": 4881,
         "Digital Ocean": 4215,
         "SiteGround": 4067,
         "Bluehost": 3990,
-        "Hostinger": 2662,
+        "Hostinger": 2664,
         "GoDaddy": 1124,
         "BigScoots": 550,
         "Liquid Web": 483,
