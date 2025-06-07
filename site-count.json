@@ -1,10 +1,25 @@
 {
-    "siteCount": 73261,
+    "siteCount": 73277,
     "recentlyMoved": [
+        {
+            "domain_name": "chesapeakecap.com",
+            "destination": "Hostinger",
+            "date": "2025-06-07 13:27:28"
+        },
+        {
+            "domain_name": "biggerimpact.tech",
+            "destination": "Pressable",
+            "date": "2025-06-07 12:41:52"
+        },
         {
             "domain_name": "appletree.csmdemo.com",
             "destination": "GoDaddy",
             "date": "2025-06-07 12:29:47"
+        },
+        {
+            "domain_name": "bonello.csmdemo.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-07 12:29:45"
         },
         {
             "domain_name": "www.ascotteak.com.au",
@@ -485,21 +500,6 @@
             "domain_name": "academieparlapensee.com",
             "destination": "Pressable",
             "date": "2025-06-06 11:25:41"
-        },
-        {
-            "domain_name": "oakgroverealty.com",
-            "destination": "Kinsta",
-            "date": "2025-06-06 11:06:19"
-        },
-        {
-            "domain_name": "neurobility.co.uk",
-            "destination": "WordPress.com",
-            "date": "2025-06-06 10:25:58"
-        },
-        {
-            "domain_name": "nhfreedomelectric.com",
-            "destination": "Kinsta",
-            "date": "2025-06-06 10:08:44"
         }
     ],
     "dailyMovedStat": {
@@ -764,13 +764,13 @@
         "2025-06-06": "73168"
     },
     "topDestinationHosts": {
-        "Pressable": 9616,
+        "Pressable": 9617,
         "Kinsta": 4883,
         "Digital Ocean": 4217,
         "SiteGround": 4067,
         "Bluehost": 3990,
-        "Hostinger": 2668,
-        "GoDaddy": 1127,
+        "Hostinger": 2669,
+        "GoDaddy": 1128,
         "BigScoots": 551,
         "Liquid Web": 483,
         "WordPress.com": 345,
