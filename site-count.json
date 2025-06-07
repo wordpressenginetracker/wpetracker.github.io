@@ -1,6 +1,11 @@
 {
-    "siteCount": 73208,
+    "siteCount": 73209,
     "recentlyMoved": [
+        {
+            "domain_name": "villaedenrocmallorca.com",
+            "destination": "IONOS",
+            "date": "2025-06-07 06:27:07"
+        },
         {
             "domain_name": "symphonyinn.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "learn.artisticswimming.org.au",
             "destination": "IONOS",
             "date": "2025-06-06 01:35:47"
-        },
-        {
-            "domain_name": "cheltenhambowlsclub.com.au",
-            "destination": "SiteGround",
-            "date": "2025-06-06 00:51:29"
         }
     ],
     "dailyMovedStat": {
@@ -779,7 +779,7 @@
         "A2 Hosting": 309,
         "OVH": 289,
         "Elementor Hosting": 288,
-        "IONOS": 260,
+        "IONOS": 261,
         "DreamHost": 257,
         "Namecheap": 254,
         "Hetzner Online": 210,
