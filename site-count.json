@@ -1,6 +1,16 @@
 {
-    "siteCount": 73415,
+    "siteCount": 73424,
     "recentlyMoved": [
+        {
+            "domain_name": "soniamontejano.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 01:39:42"
+        },
+        {
+            "domain_name": "www.excelltechnology.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 00:12:49"
+        },
         {
             "domain_name": "azcaa.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "e-i-i.com",
             "destination": "SiteGround",
             "date": "2025-06-06 17:47:23"
-        },
-        {
-            "domain_name": "dickinsonchamber.org",
-            "destination": "Hostinger",
-            "date": "2025-06-06 17:38:30"
-        },
-        {
-            "domain_name": "metcalflumber.com",
-            "destination": "Hostinger",
-            "date": "2025-06-06 17:36:29"
         }
     ],
     "dailyMovedStat": {
@@ -765,9 +765,9 @@
         "2025-06-07": "73406"
     },
     "topDestinationHosts": {
-        "Pressable": 9631,
+        "Pressable": 9633,
         "Kinsta": 4891,
-        "Digital Ocean": 4221,
+        "Digital Ocean": 4222,
         "SiteGround": 4072,
         "Bluehost": 3991,
         "Hostinger": 2673,
