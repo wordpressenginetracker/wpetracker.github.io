@@ -1,6 +1,26 @@
 {
-    "siteCount": 73453,
+    "siteCount": 73459,
     "recentlyMoved": [
+        {
+            "domain_name": "theindian3cschool.org",
+            "destination": "Hostinger",
+            "date": "2025-06-08 10:13:11"
+        },
+        {
+            "domain_name": "terrapharmalabs.com",
+            "destination": "Hostinger",
+            "date": "2025-06-08 10:08:43"
+        },
+        {
+            "domain_name": "libertymarketingsolutionsllc.com",
+            "destination": "Kinsta",
+            "date": "2025-06-08 09:33:30"
+        },
+        {
+            "domain_name": "liberatedmo.com",
+            "destination": "Kinsta",
+            "date": "2025-06-08 09:33:30"
+        },
         {
             "domain_name": "kolbergocularsupplies.com",
             "destination": "Kinsta",
@@ -472,34 +492,14 @@
             "date": "2025-06-06 21:30:25"
         },
         {
-            "domain_name": "skinnertechgroup.com",
-            "destination": "SiteGround",
-            "date": "2025-06-06 21:25:00"
-        },
-        {
             "domain_name": "lab.biggerimpact.tech",
             "destination": "Pressable",
             "date": "2025-06-06 21:04:31"
         },
         {
-            "domain_name": "industries4life.com",
-            "destination": "Bluehost",
-            "date": "2025-06-06 21:03:35"
-        },
-        {
-            "domain_name": "www.lgelectrician.com",
-            "destination": "Pressable",
-            "date": "2025-06-06 20:58:44"
-        },
-        {
             "domain_name": "cawls.org.au",
             "destination": "SiteGround",
             "date": "2025-06-06 20:40:59"
-        },
-        {
-            "domain_name": "siaelectricals.com",
-            "destination": "Hostinger",
-            "date": "2025-06-06 20:33:01"
         }
     ],
     "dailyMovedStat": {
@@ -766,11 +766,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9633,
-        "Kinsta": 4892,
+        "Kinsta": 4894,
         "Digital Ocean": 4223,
         "SiteGround": 4073,
         "Bluehost": 3991,
-        "Hostinger": 2678,
+        "Hostinger": 2680,
         "GoDaddy": 1129,
         "BigScoots": 551,
         "Liquid Web": 485,
