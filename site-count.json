@@ -1,6 +1,31 @@
 {
-    "siteCount": 73505,
+    "siteCount": 73513,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bcwinerync.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 16:24:29"
+        },
+        {
+            "domain_name": "www.taylorfenn.com",
+            "destination": "Liquid Web",
+            "date": "2025-06-08 16:16:50"
+        },
+        {
+            "domain_name": "www.arcofhaywood.org",
+            "destination": "Pressable",
+            "date": "2025-06-08 15:56:54"
+        },
+        {
+            "domain_name": "www.ashevilledentrepair.net",
+            "destination": "Pressable",
+            "date": "2025-06-08 15:41:50"
+        },
+        {
+            "domain_name": "gs-familylaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 15:38:38"
+        },
         {
             "domain_name": "nursinghomeatty.com",
             "destination": "Pressable",
@@ -462,16 +487,6 @@
             "date": "2025-06-07 11:53:50"
         },
         {
-            "domain_name": "officesupply.ky",
-            "destination": "Pressable",
-            "date": "2025-06-07 11:48:16"
-        },
-        {
-            "domain_name": "www.algarveluzbay.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-07 11:45:09"
-        },
-        {
             "domain_name": "optimizedcareersolutions.com",
             "destination": "IONOS",
             "date": "2025-06-07 11:40:49"
@@ -485,21 +500,6 @@
             "domain_name": "paradisevalleydetroit.org",
             "destination": "Namecheap",
             "date": "2025-06-07 11:36:37"
-        },
-        {
-            "domain_name": "monicabrowningphotography.com",
-            "destination": "BigScoots",
-            "date": "2025-06-07 10:13:39"
-        },
-        {
-            "domain_name": "naladentalhospital.com",
-            "destination": "Hostinger",
-            "date": "2025-06-07 10:08:08"
-        },
-        {
-            "domain_name": "medworksmedia.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-07 09:36:04"
         }
     ],
     "dailyMovedStat": {
@@ -765,7 +765,7 @@
         "2025-06-07": "73406"
     },
     "topDestinationHosts": {
-        "Pressable": 9656,
+        "Pressable": 9660,
         "Kinsta": 4895,
         "Digital Ocean": 4223,
         "SiteGround": 4074,
@@ -773,7 +773,7 @@
         "Hostinger": 2683,
         "GoDaddy": 1129,
         "BigScoots": 551,
-        "Liquid Web": 485,
+        "Liquid Web": 486,
         "WordPress.com": 345,
         "InMotion Hosting": 319,
         "GridPane": 317,
