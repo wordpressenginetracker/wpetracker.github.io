@@ -1,6 +1,16 @@
 {
-    "siteCount": 73554,
+    "siteCount": 73556,
     "recentlyMoved": [
+        {
+            "domain_name": "cbraglobal.com",
+            "destination": "Hostinger",
+            "date": "2025-06-08 21:09:43"
+        },
+        {
+            "domain_name": "blackhillsparks.org",
+            "destination": "Kinsta",
+            "date": "2025-06-08 20:48:22"
+        },
         {
             "domain_name": "guapasmexicangrill.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "arringtonlegal.com",
             "destination": "Pressable",
             "date": "2025-06-07 16:04:34"
-        },
-        {
-            "domain_name": "floorsinc.net",
-            "destination": "Hostinger",
-            "date": "2025-06-07 15:55:31"
-        },
-        {
-            "domain_name": "grandvilleeyecare.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-07 15:41:47"
         }
     ],
     "dailyMovedStat": {
@@ -766,11 +766,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9676,
-        "Kinsta": 4897,
+        "Kinsta": 4898,
         "Digital Ocean": 4223,
         "SiteGround": 4075,
         "Bluehost": 3991,
-        "Hostinger": 2683,
+        "Hostinger": 2684,
         "GoDaddy": 1129,
         "BigScoots": 551,
         "Liquid Web": 487,
