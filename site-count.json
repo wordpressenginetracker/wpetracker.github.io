@@ -1,6 +1,11 @@
 {
-    "siteCount": 73459,
+    "siteCount": 73462,
     "recentlyMoved": [
+        {
+            "domain_name": "nytf.org",
+            "destination": "Pressable",
+            "date": "2025-06-08 10:25:38"
+        },
         {
             "domain_name": "theindian3cschool.org",
             "destination": "Hostinger",
@@ -10,6 +15,11 @@
             "domain_name": "terrapharmalabs.com",
             "destination": "Hostinger",
             "date": "2025-06-08 10:08:43"
+        },
+        {
+            "domain_name": "familylawchoices.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 10:03:37"
         },
         {
             "domain_name": "libertymarketingsolutionsllc.com",
@@ -490,16 +500,6 @@
             "domain_name": "livebetterpsych.com",
             "destination": "Liquid Web",
             "date": "2025-06-06 21:30:25"
-        },
-        {
-            "domain_name": "lab.biggerimpact.tech",
-            "destination": "Pressable",
-            "date": "2025-06-06 21:04:31"
-        },
-        {
-            "domain_name": "cawls.org.au",
-            "destination": "SiteGround",
-            "date": "2025-06-06 20:40:59"
         }
     ],
     "dailyMovedStat": {
@@ -765,7 +765,7 @@
         "2025-06-07": "73406"
     },
     "topDestinationHosts": {
-        "Pressable": 9633,
+        "Pressable": 9635,
         "Kinsta": 4894,
         "Digital Ocean": 4223,
         "SiteGround": 4073,
