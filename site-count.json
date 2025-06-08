@@ -1,6 +1,11 @@
 {
-    "siteCount": 73528,
+    "siteCount": 73529,
     "recentlyMoved": [
+        {
+            "domain_name": "villagesofplottcreek.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 18:46:09"
+        },
         {
             "domain_name": "misurvivor.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-06-07 14:22:14"
         },
         {
-            "domain_name": "youreverydayvideos.com",
-            "destination": "Kinsta",
-            "date": "2025-06-07 13:41:32"
-        },
-        {
             "domain_name": "mixandmastermysong.com",
             "destination": "Kinsta",
             "date": "2025-06-07 13:36:25"
@@ -765,7 +765,7 @@
         "2025-06-07": "73406"
     },
     "topDestinationHosts": {
-        "Pressable": 9672,
+        "Pressable": 9673,
         "Kinsta": 4896,
         "Digital Ocean": 4223,
         "SiteGround": 4074,
