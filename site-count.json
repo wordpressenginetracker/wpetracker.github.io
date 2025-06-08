@@ -1,6 +1,36 @@
 {
-    "siteCount": 73462,
+    "siteCount": 73476,
     "recentlyMoved": [
+        {
+            "domain_name": "womensrightsny.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 12:05:42"
+        },
+        {
+            "domain_name": "frawleylaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 11:48:44"
+        },
+        {
+            "domain_name": "www.botterlaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 11:47:02"
+        },
+        {
+            "domain_name": "friedlanderlaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 11:45:49"
+        },
+        {
+            "domain_name": "otreus.com",
+            "destination": "Hostinger",
+            "date": "2025-06-08 11:35:24"
+        },
+        {
+            "domain_name": "firmevolution.com",
+            "destination": "Pressable",
+            "date": "2025-06-08 11:20:08"
+        },
         {
             "domain_name": "nytf.org",
             "destination": "Pressable",
@@ -470,36 +500,6 @@
             "domain_name": "dbraskob.com",
             "destination": "Hostinger",
             "date": "2025-06-07 01:59:01"
-        },
-        {
-            "domain_name": "homeprosga.com",
-            "destination": "Hostinger",
-            "date": "2025-06-07 00:14:25"
-        },
-        {
-            "domain_name": "oneeighty.digital",
-            "destination": "Digital Ocean",
-            "date": "2025-06-06 23:35:40"
-        },
-        {
-            "domain_name": "musicassetmgt.com",
-            "destination": "Pressable",
-            "date": "2025-06-06 22:43:00"
-        },
-        {
-            "domain_name": "elemex.com",
-            "destination": "Hostinger",
-            "date": "2025-06-06 22:41:36"
-        },
-        {
-            "domain_name": "earthsys.net",
-            "destination": "GoDaddy",
-            "date": "2025-06-06 21:47:43"
-        },
-        {
-            "domain_name": "livebetterpsych.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-06 21:30:25"
         }
     ],
     "dailyMovedStat": {
@@ -765,12 +765,12 @@
         "2025-06-07": "73406"
     },
     "topDestinationHosts": {
-        "Pressable": 9635,
+        "Pressable": 9640,
         "Kinsta": 4894,
         "Digital Ocean": 4223,
         "SiteGround": 4073,
         "Bluehost": 3991,
-        "Hostinger": 2680,
+        "Hostinger": 2681,
         "GoDaddy": 1129,
         "BigScoots": 551,
         "Liquid Web": 485,
