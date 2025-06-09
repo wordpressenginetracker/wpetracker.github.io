@@ -1,6 +1,11 @@
 {
-    "siteCount": 73692,
+    "siteCount": 73694,
     "recentlyMoved": [
+        {
+            "domain_name": "urbanspicemadurai.com",
+            "destination": "Hostinger",
+            "date": "2025-06-09 22:48:43"
+        },
         {
             "domain_name": "cybersecurecatalyst.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "fravelinc.com",
             "destination": "Liquid Web",
             "date": "2025-06-08 07:34:11"
-        },
-        {
-            "domain_name": "camerajabber.com",
-            "destination": "IONOS",
-            "date": "2025-06-08 04:04:34"
         }
     ],
     "dailyMovedStat": {
@@ -763,7 +763,8 @@
         "2025-06-05": "72842",
         "2025-06-06": "73168",
         "2025-06-07": "73406",
-        "2025-06-08": "73560"
+        "2025-06-08": "73560",
+        "2025-06-09": "73694"
     },
     "topDestinationHosts": {
         "Pressable": 9693,
@@ -771,7 +772,7 @@
         "Digital Ocean": 4225,
         "SiteGround": 4077,
         "Bluehost": 3992,
-        "Hostinger": 2691,
+        "Hostinger": 2692,
         "GoDaddy": 1131,
         "BigScoots": 551,
         "Liquid Web": 487,
@@ -1048,6 +1049,7 @@
         "2025-06-05": "617132",
         "2025-06-06": "616738",
         "2025-06-07": "616445",
-        "2025-06-08": "617615"
+        "2025-06-08": "617615",
+        "2025-06-09": "617093"
     }
 }
