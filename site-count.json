@@ -1,6 +1,11 @@
 {
-    "siteCount": 73592,
+    "siteCount": 73596,
     "recentlyMoved": [
+        {
+            "domain_name": "makegrow.net",
+            "destination": "Hostinger",
+            "date": "2025-06-09 05:30:43"
+        },
         {
             "domain_name": "ralphgracierichmond.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "youreverydaygames.com",
             "destination": "Kinsta",
             "date": "2025-06-07 17:42:03"
-        },
-        {
-            "domain_name": "dailycaring.com",
-            "destination": "Kinsta",
-            "date": "2025-06-07 17:18:22"
         }
     ],
     "dailyMovedStat": {
@@ -771,7 +771,7 @@
         "Digital Ocean": 4223,
         "SiteGround": 4076,
         "Bluehost": 3991,
-        "Hostinger": 2689,
+        "Hostinger": 2690,
         "GoDaddy": 1129,
         "BigScoots": 551,
         "Liquid Web": 487,
