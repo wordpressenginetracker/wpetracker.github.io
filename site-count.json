@@ -1,6 +1,16 @@
 {
-    "siteCount": 73596,
+    "siteCount": 73602,
     "recentlyMoved": [
+        {
+            "domain_name": "globalfootprintsinc.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-09 07:45:56"
+        },
+        {
+            "domain_name": "winterhawkpls.com",
+            "destination": "Bluehost",
+            "date": "2025-06-09 07:23:28"
+        },
         {
             "domain_name": "makegrow.net",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "youreverydaymysteries.com",
             "destination": "Kinsta",
             "date": "2025-06-07 17:42:03"
-        },
-        {
-            "domain_name": "youreverydayhub.com",
-            "destination": "Kinsta",
-            "date": "2025-06-07 17:42:03"
-        },
-        {
-            "domain_name": "youreverydaygames.com",
-            "destination": "Kinsta",
-            "date": "2025-06-07 17:42:03"
         }
     ],
     "dailyMovedStat": {
@@ -770,9 +770,9 @@
         "Kinsta": 4899,
         "Digital Ocean": 4223,
         "SiteGround": 4076,
-        "Bluehost": 3991,
+        "Bluehost": 3992,
         "Hostinger": 2690,
-        "GoDaddy": 1129,
+        "GoDaddy": 1130,
         "BigScoots": 551,
         "Liquid Web": 487,
         "WordPress.com": 345,
