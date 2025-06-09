@@ -1,6 +1,21 @@
 {
-    "siteCount": 73613,
+    "siteCount": 73619,
     "recentlyMoved": [
+        {
+            "domain_name": "ccstables.ca",
+            "destination": "OVH",
+            "date": "2025-06-09 13:13:20"
+        },
+        {
+            "domain_name": "jfactorystudios.com",
+            "destination": "Kinsta",
+            "date": "2025-06-09 13:06:57"
+        },
+        {
+            "domain_name": "www.junkworks.com",
+            "destination": "Pressable",
+            "date": "2025-06-09 12:50:39"
+        },
         {
             "domain_name": "radicansrugcleaners.com",
             "destination": "SiteGround",
@@ -477,11 +492,6 @@
             "date": "2025-06-07 20:31:16"
         },
         {
-            "domain_name": "palmer.esquireinteractive.com",
-            "destination": "Pressable",
-            "date": "2025-06-07 19:51:23"
-        },
-        {
             "domain_name": "www.bartellslaw.com",
             "destination": "Pressable",
             "date": "2025-06-07 19:51:17"
@@ -490,16 +500,6 @@
             "domain_name": "www.2pixel.co.uk",
             "destination": "Hostinger",
             "date": "2025-06-07 19:24:36"
-        },
-        {
-            "domain_name": "5starpropertysolutions.com",
-            "destination": "Bluehost",
-            "date": "2025-06-07 19:19:32"
-        },
-        {
-            "domain_name": "esquireinteractive.com",
-            "destination": "Pressable",
-            "date": "2025-06-07 18:46:42"
         }
     ],
     "dailyMovedStat": {
@@ -766,8 +766,8 @@
         "2025-06-08": "73560"
     },
     "topDestinationHosts": {
-        "Pressable": 9677,
-        "Kinsta": 4900,
+        "Pressable": 9678,
+        "Kinsta": 4901,
         "Digital Ocean": 4223,
         "SiteGround": 4077,
         "Bluehost": 3992,
@@ -779,7 +779,7 @@
         "InMotion Hosting": 319,
         "GridPane": 317,
         "A2 Hosting": 309,
-        "OVH": 290,
+        "OVH": 291,
         "Elementor Hosting": 290,
         "IONOS": 264,
         "DreamHost": 257,
