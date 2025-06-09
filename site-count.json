@@ -1,6 +1,16 @@
 {
-    "siteCount": 73619,
+    "siteCount": 73624,
     "recentlyMoved": [
+        {
+            "domain_name": "liveforentertainment.com",
+            "destination": "Kinsta",
+            "date": "2025-06-09 13:30:32"
+        },
+        {
+            "domain_name": "www.spivistos.com.br",
+            "destination": "HostGator",
+            "date": "2025-06-09 13:15:28"
+        },
         {
             "domain_name": "ccstables.ca",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "havelockjamboree.com",
             "destination": "SiteGround",
             "date": "2025-06-07 20:31:16"
-        },
-        {
-            "domain_name": "www.bartellslaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-07 19:51:17"
-        },
-        {
-            "domain_name": "www.2pixel.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-06-07 19:24:36"
         }
     ],
     "dailyMovedStat": {
@@ -767,7 +767,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9678,
-        "Kinsta": 4901,
+        "Kinsta": 4902,
         "Digital Ocean": 4223,
         "SiteGround": 4077,
         "Bluehost": 3992,
