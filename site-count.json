@@ -1,6 +1,16 @@
 {
-    "siteCount": 73694,
+    "siteCount": 73696,
     "recentlyMoved": [
+        {
+            "domain_name": "woodspa.in",
+            "destination": "Hostinger",
+            "date": "2025-06-10 00:15:44"
+        },
+        {
+            "domain_name": "wildlyentertaining.com",
+            "destination": "Kinsta",
+            "date": "2025-06-10 00:09:40"
+        },
         {
             "domain_name": "urbanspicemadurai.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "kolbergocularsupplies.com",
             "destination": "Kinsta",
             "date": "2025-06-08 09:02:26"
-        },
-        {
-            "domain_name": "www.selfcateringholidayswales.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-08 07:37:11"
-        },
-        {
-            "domain_name": "fravelinc.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-08 07:34:11"
         }
     ],
     "dailyMovedStat": {
@@ -768,11 +768,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9693,
-        "Kinsta": 4904,
+        "Kinsta": 4905,
         "Digital Ocean": 4225,
         "SiteGround": 4077,
         "Bluehost": 3992,
-        "Hostinger": 2692,
+        "Hostinger": 2693,
         "GoDaddy": 1131,
         "BigScoots": 551,
         "Liquid Web": 487,
