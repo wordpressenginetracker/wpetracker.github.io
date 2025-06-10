@@ -1,6 +1,11 @@
 {
-    "siteCount": 73946,
+    "siteCount": 73949,
     "recentlyMoved": [
+        {
+            "domain_name": "creativelygrow.com",
+            "destination": "BigScoots",
+            "date": "2025-06-10 21:47:15"
+        },
         {
             "domain_name": "soulstem.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "surrogate.physicianssurrogacy.com",
             "destination": "IONOS",
             "date": "2025-06-10 05:28:50"
-        },
-        {
-            "domain_name": "kvtbluemetals.com",
-            "destination": "Hostinger",
-            "date": "2025-06-10 04:56:16"
         }
     ],
     "dailyMovedStat": {
@@ -774,7 +774,7 @@
         "Bluehost": 3993,
         "Hostinger": 2714,
         "GoDaddy": 1133,
-        "BigScoots": 555,
+        "BigScoots": 556,
         "Liquid Web": 489,
         "WordPress.com": 347,
         "InMotion Hosting": 320,
