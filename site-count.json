@@ -1,10 +1,15 @@
 {
-    "siteCount": 73709,
+    "siteCount": 73710,
     "recentlyMoved": [
         {
             "domain_name": "envirotactics.com",
             "destination": "GoDaddy",
             "date": "2025-06-10 02:28:36"
+        },
+        {
+            "domain_name": "usmaximatlanta.com",
+            "destination": "SiteGround",
+            "date": "2025-06-10 02:06:02"
         },
         {
             "domain_name": "youreverydayvillains.com",
@@ -495,11 +500,6 @@
             "domain_name": "firmevolution.com",
             "destination": "Pressable",
             "date": "2025-06-08 11:20:08"
-        },
-        {
-            "domain_name": "nytf.org",
-            "destination": "Pressable",
-            "date": "2025-06-08 10:25:38"
         }
     ],
     "dailyMovedStat": {
@@ -770,10 +770,10 @@
         "Pressable": 9693,
         "Kinsta": 4907,
         "Digital Ocean": 4226,
-        "SiteGround": 4077,
+        "SiteGround": 4078,
         "Bluehost": 3992,
         "Hostinger": 2695,
-        "GoDaddy": 1131,
+        "GoDaddy": 1132,
         "BigScoots": 551,
         "Liquid Web": 487,
         "WordPress.com": 346,
