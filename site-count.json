@@ -1,6 +1,11 @@
 {
-    "siteCount": 73696,
+    "siteCount": 73701,
     "recentlyMoved": [
+        {
+            "domain_name": "jashospital.in",
+            "destination": "Hostinger",
+            "date": "2025-06-10 00:47:45"
+        },
         {
             "domain_name": "woodspa.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "liberatedmo.com",
             "destination": "Kinsta",
             "date": "2025-06-08 09:33:30"
-        },
-        {
-            "domain_name": "kolbergocularsupplies.com",
-            "destination": "Kinsta",
-            "date": "2025-06-08 09:02:26"
         }
     ],
     "dailyMovedStat": {
@@ -772,7 +772,7 @@
         "Digital Ocean": 4225,
         "SiteGround": 4077,
         "Bluehost": 3992,
-        "Hostinger": 2693,
+        "Hostinger": 2694,
         "GoDaddy": 1131,
         "BigScoots": 551,
         "Liquid Web": 487,
