@@ -1,6 +1,11 @@
 {
-    "siteCount": 73980,
+    "siteCount": 73985,
     "recentlyMoved": [
+        {
+            "domain_name": "pokertown.co.il",
+            "destination": "Digital Ocean",
+            "date": "2025-06-11 04:09:40"
+        },
         {
             "domain_name": "tpsconsultingltd.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "metroshoemart.com",
             "destination": "Digital Ocean",
             "date": "2025-06-10 09:30:14"
-        },
-        {
-            "domain_name": "magilcatering.com",
-            "destination": "Hostinger",
-            "date": "2025-06-10 09:29:56"
         }
     ],
     "dailyMovedStat": {
@@ -770,7 +770,7 @@
     "topDestinationHosts": {
         "Pressable": 9746,
         "Kinsta": 4911,
-        "Digital Ocean": 4243,
+        "Digital Ocean": 4244,
         "SiteGround": 4088,
         "Bluehost": 3993,
         "Hostinger": 2715,
