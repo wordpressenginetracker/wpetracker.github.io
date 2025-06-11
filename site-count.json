@@ -1,6 +1,11 @@
 {
-    "siteCount": 74101,
+    "siteCount": 74104,
     "recentlyMoved": [
+        {
+            "domain_name": "villa-miami.com",
+            "destination": "Hostinger",
+            "date": "2025-06-11 14:25:59"
+        },
         {
             "domain_name": "vibrantlifeseniorliving.com",
             "destination": "Digital Ocean",
@@ -10,6 +15,11 @@
             "domain_name": "dhlprocurement.com",
             "destination": "Pressable",
             "date": "2025-06-11 14:09:07"
+        },
+        {
+            "domain_name": "visorfinancial.com",
+            "destination": "Pressable",
+            "date": "2025-06-11 14:01:37"
         },
         {
             "domain_name": "www.victoryhomesofwisconsin.com",
@@ -452,11 +462,6 @@
             "date": "2025-06-10 14:18:42"
         },
         {
-            "domain_name": "dpbfoundations.com",
-            "destination": "Pressable",
-            "date": "2025-06-10 14:12:12"
-        },
-        {
             "domain_name": "lightwelltherapy.com",
             "destination": "Hostinger",
             "date": "2025-06-10 14:05:54"
@@ -495,11 +500,6 @@
             "domain_name": "blackheath.ca",
             "destination": "Hostinger",
             "date": "2025-06-10 13:37:38"
-        },
-        {
-            "domain_name": "wyocustombuildings.com",
-            "destination": "SiteGround",
-            "date": "2025-06-10 13:29:17"
         }
     ],
     "dailyMovedStat": {
@@ -768,12 +768,12 @@
         "2025-06-10": "73950"
     },
     "topDestinationHosts": {
-        "Pressable": 9765,
+        "Pressable": 9767,
         "Kinsta": 4912,
-        "Digital Ocean": 4255,
+        "Digital Ocean": 4256,
         "SiteGround": 4093,
         "Bluehost": 3994,
-        "Hostinger": 2724,
+        "Hostinger": 2725,
         "GoDaddy": 1133,
         "BigScoots": 556,
         "Liquid Web": 492,
