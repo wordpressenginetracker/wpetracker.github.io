@@ -1,6 +1,11 @@
 {
-    "siteCount": 74275,
+    "siteCount": 74283,
     "recentlyMoved": [
+        {
+            "domain_name": "nanneer.org",
+            "destination": "Digital Ocean",
+            "date": "2025-06-12 05:45:22"
+        },
         {
             "domain_name": "plan.lawyer",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.arrow-industrial.co.uk",
             "destination": "Namecheap",
             "date": "2025-06-11 07:47:42"
-        },
-        {
-            "domain_name": "www.cproeliming.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-11 07:25:43"
         }
     ],
     "dailyMovedStat": {
@@ -771,7 +771,7 @@
     "topDestinationHosts": {
         "Pressable": 9789,
         "Kinsta": 4916,
-        "Digital Ocean": 4261,
+        "Digital Ocean": 4262,
         "SiteGround": 4103,
         "Bluehost": 3994,
         "Hostinger": 2732,
