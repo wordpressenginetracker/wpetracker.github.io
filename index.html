@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>WP Engine Tracker</title>
-        <link rel="stylesheet" href="style.css?17">
+        <link rel="stylesheet" href="style.css?19">
         <link rel="icon" type="image/x-icon" href="/images/wpet-favicon.png">
         <meta name="description" content="Tracking how many websites have left WP Engine and found a new home since September 21, 2024.">
 
@@ -31,7 +31,7 @@
     </head>
 
     <body>
-        <script src="index.js?8" defer></script>
+        <script src="index.js?19" defer></script>
         <main>
         <section class="left">
             <div class="intro">
@@ -52,7 +52,10 @@
                         This is the number of websites that have left WP Engine and found a new home since Sep&nbsp;21,&nbsp;2024.
                     </span>
                 </span>
-                <p id="sites-count" class="number-of-sites__count source-serif-4-text"></p>
+                <div class="large-count__sites">
+                    <p id="sites-count" class="number-of-sites__count source-serif-4-text"></p>
+                    <p class="number-of-sites__additional source-serif-4-text">(<span id="additional-sites-count">55.0K</span> additional sites have also gone offline or become unavailable)</p>
+                </div>
             </div>
         </section>
 

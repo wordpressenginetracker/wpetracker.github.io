@@ -149,6 +149,18 @@ p a {
     background-color: var(--primary-blue);
 }
 
+.large-count__logo {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.large-count__sites {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 .number-of-sites__count {
     margin: 0;
     padding: var(--body-padding);
@@ -160,10 +172,10 @@ p a {
     margin-left: auto;
 }
 
-.large-count__logo {
-    display: flex;
-    align-items: center;
-    gap: 40px;
+.number-of-sites__additional {
+    font-size: var(--font-size-small);
+    padding-right: var(--body-padding);
+    text-align: right;
 }
 
 .right {
@@ -389,7 +401,7 @@ p a {
 }
 
 .bar {
-    width: 2px;
+    width: 4px;
     background-color: var(--primary-blue);
     position: relative;
     margin: 0 1px;
@@ -544,6 +556,10 @@ p a {
         font-size: calc( 50vw / 3 );
     }
 
+    .number-of-sites__additional {
+        padding-right: 0.25rem;
+    }
+
     .chart {
         height: auto;
     }
@@ -585,5 +601,11 @@ p a {
     .header {
         flex-direction: column;
         height: 100%;
+    }
+}
+
+@media (min-width: 1500px) {
+    .number-of-sites__additional {
+        padding-right: 0.75rem;
     }
 }
