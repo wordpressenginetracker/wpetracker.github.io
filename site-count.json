@@ -1,5 +1,5 @@
 {
-    "siteCount": 74404,
+    "siteCount": 74405,
     "recentlyMoved": [
         {
             "domain_name": "newdaywellnessacademy.ca",
@@ -10,6 +10,11 @@
             "domain_name": "newdaywellness.ca",
             "destination": "Pressable",
             "date": "2025-06-12 14:39:06"
+        },
+        {
+            "domain_name": "northpointesurgical.com",
+            "destination": "Hostinger",
+            "date": "2025-06-12 14:35:23"
         },
         {
             "domain_name": "famousbiriyani.com",
@@ -467,11 +472,6 @@
             "date": "2025-06-11 15:55:58"
         },
         {
-            "domain_name": "orchardmeadowsdental.com",
-            "destination": "Kinsta",
-            "date": "2025-06-11 15:52:14"
-        },
-        {
             "domain_name": "barkclad.com",
             "destination": "Pressable",
             "date": "2025-06-11 15:51:55"
@@ -769,12 +769,12 @@
         "2025-06-11": "74238"
     },
     "topDestinationHosts": {
-        "Pressable": 9806,
+        "Pressable": 9808,
         "Kinsta": 4917,
         "Digital Ocean": 4267,
         "SiteGround": 4108,
         "Bluehost": 3995,
-        "Hostinger": 2740,
+        "Hostinger": 2742,
         "GoDaddy": 1134,
         "BigScoots": 557,
         "Liquid Web": 493,
