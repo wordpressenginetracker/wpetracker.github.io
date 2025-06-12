@@ -177,9 +177,11 @@ function initChart() {
     .then((response) => response.json())
     .then((data) => {
       const stats = data.dailyTotalStat;
+      const siteCount = data.siteCount;
       const barsContainer = document.querySelector(".bars-container");
       const topChartValue = document.getElementById("top-chart-value");
       const bottomChartValue = document.getElementById("bottom-chart-value");
+      const additionalSitesElement = document.getElementById("additional-sites-count");
 
       const tooltip = document.createElement("div");
       tooltip.className = "tooltip";
@@ -195,20 +197,31 @@ function initChart() {
       const beginningChartNumber = beginningSiteCount;
       const endingChartNumber = beginningChartNumber - ( ( beginningSiteCount - endingSiteCount ) * 3 );
       const delta = beginningChartNumber - endingChartNumber;
+      
+      const maxNumberOfBars = 150;
+      let barsCount = 0;
+
+      const additionalSites = beginningSiteCount-endingSiteCount-siteCount;
+      
 
       topChartValue.textContent = formatNumber(beginningChartNumber, false);
       bottomChartValue.textContent = formatNumber(endingChartNumber, false);
+      additionalSitesElement.textContent = formatNumber(additionalSites, false);
 
       // Create bars
       entries.forEach(([date, value], index) => {
+        if (index % Math.ceil(entries.length/maxNumberOfBars) != 0) {
+          return;
+        }
         const adjustedValue = value - endingChartNumber;
         const height = (adjustedValue / delta) * 100;
         const bar = document.createElement("div");
         bar.className = "bar";
         bar.style.height = `${height}%`;
         bar.dataset.value = value;
-        bar.style.animationDelay = `${index * 30}ms`;
+        bar.style.animationDelay = `${index * 10}ms`;
         barsContainer.appendChild(bar);
+        barsCount++;
       });
 
       // Update tooltip on mousemove
@@ -218,13 +231,13 @@ function initChart() {
 
         const barsContainerRect = barsContainer.getBoundingClientRect();
         const relativeX = e.clientX - barsContainerRect.left;
-        const barWidth = barsContainerRect.width / entries.length;
+        const barWidth = barsContainerRect.width / barsCount;
         const barIndex = Math.min(
           Math.floor((relativeX + barWidth / 2) / barWidth),
-          entries.length - 1
+          barsCount - 1
         );
 
-        if (barIndex >= 0 && barIndex < entries.length) {
+        if (barIndex >= 0 && barIndex < barsCount) {
           const bar = barsContainer.children[barIndex + 1];
           if (bar && bar.classList.contains("bar")) {
             tooltip.style.left = `${e.clientX - barsContainerRect.left}px`;
