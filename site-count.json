@@ -1,6 +1,11 @@
 {
-    "siteCount": 74250,
+    "siteCount": 74253,
     "recentlyMoved": [
+        {
+            "domain_name": "kiranam.com",
+            "destination": "Kinsta",
+            "date": "2025-06-12 00:50:49"
+        },
         {
             "domain_name": "www.abby.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-06-11 04:52:56"
         },
         {
-            "domain_name": "hotelsadhabishegamthirukadaiyur.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-11 04:31:43"
-        },
-        {
             "domain_name": "www.ferrariassociatespc.com",
             "destination": "Kinsta",
             "date": "2025-06-11 04:22:59"
@@ -769,8 +769,8 @@
         "2025-06-11": "74238"
     },
     "topDestinationHosts": {
-        "Pressable": 9786,
-        "Kinsta": 4915,
+        "Pressable": 9787,
+        "Kinsta": 4916,
         "Digital Ocean": 4261,
         "SiteGround": 4101,
         "Bluehost": 3994,
