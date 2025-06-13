@@ -1,10 +1,20 @@
 {
-    "siteCount": 74537,
+    "siteCount": 74545,
     "recentlyMoved": [
+        {
+            "domain_name": "dentifissiin24orelibro.com",
+            "destination": "SiteGround",
+            "date": "2025-06-13 01:46:25"
+        },
         {
             "domain_name": "www.recreationwholesale.com",
             "destination": "SiteGround",
             "date": "2025-06-13 01:45:04"
+        },
+        {
+            "domain_name": "davedee.com",
+            "destination": "Pressable",
+            "date": "2025-06-13 01:11:25"
         },
         {
             "domain_name": "starstechgroup.com",
@@ -490,16 +500,6 @@
             "domain_name": "notablehomes.ca",
             "destination": "SiteGround",
             "date": "2025-06-11 22:20:46"
-        },
-        {
-            "domain_name": "dentifissiin24ore.com",
-            "destination": "SiteGround",
-            "date": "2025-06-11 22:07:47"
-        },
-        {
-            "domain_name": "www.aberlewest.com",
-            "destination": "Hostinger",
-            "date": "2025-06-11 21:27:51"
         }
     ],
     "dailyMovedStat": {
@@ -770,12 +770,12 @@
         "2025-06-12": "74520"
     },
     "topDestinationHosts": {
-        "Pressable": 9822,
+        "Pressable": 9823,
         "Kinsta": 4918,
         "Digital Ocean": 4273,
-        "SiteGround": 4111,
+        "SiteGround": 4113,
         "Bluehost": 3996,
-        "Hostinger": 2745,
+        "Hostinger": 2746,
         "GoDaddy": 1137,
         "BigScoots": 557,
         "Liquid Web": 495,
