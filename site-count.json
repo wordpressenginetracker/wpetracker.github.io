@@ -1,6 +1,11 @@
 {
-    "siteCount": 74545,
+    "siteCount": 74546,
     "recentlyMoved": [
+        {
+            "domain_name": "northsidedermatology.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-06-13 02:33:38"
+        },
         {
             "domain_name": "dentifissiin24orelibro.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-06-11 23:23:32"
         },
         {
-            "domain_name": "faizverseyrealestate.com",
-            "destination": "SiteGround",
-            "date": "2025-06-11 22:42:30"
-        },
-        {
             "domain_name": "notablehomes.ca",
             "destination": "SiteGround",
             "date": "2025-06-11 22:20:46"
@@ -772,7 +772,7 @@
     "topDestinationHosts": {
         "Pressable": 9823,
         "Kinsta": 4918,
-        "Digital Ocean": 4273,
+        "Digital Ocean": 4274,
         "SiteGround": 4113,
         "Bluehost": 3996,
         "Hostinger": 2746,
