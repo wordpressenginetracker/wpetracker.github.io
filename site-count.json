@@ -1,15 +1,30 @@
 {
-    "siteCount": 74555,
+    "siteCount": 74566,
     "recentlyMoved": [
+        {
+            "domain_name": "bestpatch.in",
+            "destination": "Hostinger",
+            "date": "2025-06-13 04:51:03"
+        },
         {
             "domain_name": "ananthalodge.com",
             "destination": "Digital Ocean",
             "date": "2025-06-13 04:18:31"
         },
         {
+            "domain_name": "bernardestateplan.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-13 04:16:50"
+        },
+        {
             "domain_name": "granvending.com",
             "destination": "SiteGround",
             "date": "2025-06-13 04:10:50"
+        },
+        {
+            "domain_name": "restaurants.starstechgroup.com",
+            "destination": "Hostinger",
+            "date": "2025-06-13 04:07:54"
         },
         {
             "domain_name": "anithakitchenware.com",
@@ -485,21 +500,6 @@
             "domain_name": "alchemy.barevitality.com",
             "destination": "SiteGround",
             "date": "2025-06-12 03:40:18"
-        },
-        {
-            "domain_name": "www.cnnorrislaw.com",
-            "destination": "A2 Hosting",
-            "date": "2025-06-12 03:40:10"
-        },
-        {
-            "domain_name": "fixmytours.com",
-            "destination": "Hostinger",
-            "date": "2025-06-12 03:21:36"
-        },
-        {
-            "domain_name": "finchhomesolutions.com",
-            "destination": "SiteGround",
-            "date": "2025-06-12 03:07:31"
         }
     ],
     "dailyMovedStat": {
@@ -775,8 +775,8 @@
         "Digital Ocean": 4275,
         "SiteGround": 4115,
         "Bluehost": 3996,
-        "Hostinger": 2748,
-        "GoDaddy": 1137,
+        "Hostinger": 2750,
+        "GoDaddy": 1138,
         "BigScoots": 557,
         "Liquid Web": 495,
         "WordPress.com": 348,
