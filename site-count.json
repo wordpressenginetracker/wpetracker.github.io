@@ -1,6 +1,26 @@
 {
-    "siteCount": 74980,
+    "siteCount": 74988,
     "recentlyMoved": [
+        {
+            "domain_name": "danbairdsurvival.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 22:03:56"
+        },
+        {
+            "domain_name": "www.wilderskills.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 21:58:01"
+        },
+        {
+            "domain_name": "cpnorthamerica.com",
+            "destination": "SiteGround",
+            "date": "2025-06-14 21:46:06"
+        },
+        {
+            "domain_name": "www.southerntidemedia.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 21:18:24"
+        },
         {
             "domain_name": "seretraining.us",
             "destination": "Pressable",
@@ -477,29 +497,9 @@
             "date": "2025-06-13 16:30:02"
         },
         {
-            "domain_name": "goodmangroupllc.com",
-            "destination": "Hostinger",
-            "date": "2025-06-13 16:18:55"
-        },
-        {
-            "domain_name": "www.amoskov.com",
-            "destination": "Namecheap",
-            "date": "2025-06-13 16:11:46"
-        },
-        {
             "domain_name": "azethicslaw.com",
             "destination": "Pressable",
             "date": "2025-06-13 16:04:59"
-        },
-        {
-            "domain_name": "pvrpower.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-13 16:04:23"
-        },
-        {
-            "domain_name": "frankenflyart.com",
-            "destination": "SiteGround",
-            "date": "2025-06-13 15:48:57"
         }
     ],
     "dailyMovedStat": {
@@ -771,10 +771,10 @@
         "2025-06-13": "74769"
     },
     "topDestinationHosts": {
-        "Pressable": 9882,
+        "Pressable": 9885,
         "Kinsta": 4925,
         "Digital Ocean": 4294,
-        "SiteGround": 4133,
+        "SiteGround": 4134,
         "Bluehost": 3999,
         "Hostinger": 2766,
         "GoDaddy": 1143,
