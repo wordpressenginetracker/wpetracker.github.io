@@ -1,10 +1,35 @@
 {
-    "siteCount": 74899,
+    "siteCount": 74906,
     "recentlyMoved": [
+        {
+            "domain_name": "skeehanco.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 17:11:36"
+        },
+        {
+            "domain_name": "www.matworkz.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 16:51:23"
+        },
+        {
+            "domain_name": "johnhorton.ca",
+            "destination": "Pressable",
+            "date": "2025-06-14 16:47:16"
+        },
+        {
+            "domain_name": "benchmarkkappas.org",
+            "destination": "SiteGround",
+            "date": "2025-06-14 16:39:37"
+        },
         {
             "domain_name": "recoverwithmeda.org",
             "destination": "SiteGround",
             "date": "2025-06-14 16:37:40"
+        },
+        {
+            "domain_name": "beckettcommercial.com",
+            "destination": "Pressable",
+            "date": "2025-06-14 16:14:40"
         },
         {
             "domain_name": "allhallowsguild.org",
@@ -457,11 +482,6 @@
             "date": "2025-06-13 13:41:53"
         },
         {
-            "domain_name": "labradapr.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-13 13:29:50"
-        },
-        {
             "domain_name": "www.sovereignauto.net",
             "destination": "Pressable",
             "date": "2025-06-13 13:27:54"
@@ -472,11 +492,6 @@
             "date": "2025-06-13 13:21:05"
         },
         {
-            "domain_name": "sgijlaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 13:14:21"
-        },
-        {
             "domain_name": "suspicious0bservers.org",
             "destination": "Bluehost",
             "date": "2025-06-13 13:09:45"
@@ -485,21 +500,6 @@
             "domain_name": "www.scorpionauto.com",
             "destination": "Hostinger",
             "date": "2025-06-13 13:03:05"
-        },
-        {
-            "domain_name": "spraguefloorcovering.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-13 12:53:28"
-        },
-        {
-            "domain_name": "roselinescafe.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 12:52:09"
-        },
-        {
-            "domain_name": "smallmarketmeetings.com",
-            "destination": "Kinsta",
-            "date": "2025-06-13 12:49:25"
         }
     ],
     "dailyMovedStat": {
@@ -771,10 +771,10 @@
         "2025-06-13": "74769"
     },
     "topDestinationHosts": {
-        "Pressable": 9868,
+        "Pressable": 9872,
         "Kinsta": 4924,
         "Digital Ocean": 4290,
-        "SiteGround": 4129,
+        "SiteGround": 4131,
         "Bluehost": 3999,
         "Hostinger": 2763,
         "GoDaddy": 1143,
