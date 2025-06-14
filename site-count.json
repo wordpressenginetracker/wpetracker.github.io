@@ -1,6 +1,21 @@
 {
-    "siteCount": 74801,
+    "siteCount": 74808,
     "recentlyMoved": [
+        {
+            "domain_name": "cgcmmallorca.com",
+            "destination": "IONOS",
+            "date": "2025-06-14 04:48:33"
+        },
+        {
+            "domain_name": "sarasotacarpentry.com",
+            "destination": "SiteGround",
+            "date": "2025-06-14 04:39:25"
+        },
+        {
+            "domain_name": "braveraholdings.com",
+            "destination": "Hostinger",
+            "date": "2025-06-14 04:31:24"
+        },
         {
             "domain_name": "farabloc.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "adafresh.ca",
             "destination": "OVH",
             "date": "2025-06-13 00:02:02"
-        },
-        {
-            "domain_name": "marcmathenylaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-12 21:28:46"
-        },
-        {
-            "domain_name": "sternpainting.com",
-            "destination": "Pressable",
-            "date": "2025-06-12 20:53:51"
-        },
-        {
-            "domain_name": "casasupportcouncilpima.org",
-            "destination": "Pressable",
-            "date": "2025-06-12 20:36:48"
         }
     ],
     "dailyMovedStat": {
@@ -774,9 +774,9 @@
         "Pressable": 9852,
         "Kinsta": 4919,
         "Digital Ocean": 4287,
-        "SiteGround": 4125,
+        "SiteGround": 4126,
         "Bluehost": 3998,
-        "Hostinger": 2761,
+        "Hostinger": 2762,
         "GoDaddy": 1143,
         "BigScoots": 558,
         "Liquid Web": 497,
@@ -786,7 +786,7 @@
         "A2 Hosting": 313,
         "OVH": 299,
         "Elementor Hosting": 292,
-        "IONOS": 268,
+        "IONOS": 269,
         "DreamHost": 261,
         "Namecheap": 259,
         "Hetzner Online": 211,
