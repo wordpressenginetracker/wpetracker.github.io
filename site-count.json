@@ -1,6 +1,11 @@
 {
-    "siteCount": 75000,
+    "siteCount": 75009,
     "recentlyMoved": [
+        {
+            "domain_name": "svsfoods.org",
+            "destination": "Hostinger",
+            "date": "2025-06-15 04:16:41"
+        },
         {
             "domain_name": "jerseyphc.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "lealinjurylaw.com",
             "destination": "Pressable",
             "date": "2025-06-13 17:31:37"
-        },
-        {
-            "domain_name": "coderaccountinginc.com",
-            "destination": "Hostinger",
-            "date": "2025-06-13 17:01:01"
         }
     ],
     "dailyMovedStat": {
@@ -777,7 +777,7 @@
         "Digital Ocean": 4294,
         "SiteGround": 4135,
         "Bluehost": 4000,
-        "Hostinger": 2766,
+        "Hostinger": 2767,
         "GoDaddy": 1143,
         "BigScoots": 558,
         "Liquid Web": 501,
