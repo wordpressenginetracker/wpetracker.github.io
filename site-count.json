@@ -1,6 +1,11 @@
 {
-    "siteCount": 75009,
+    "siteCount": 75013,
     "recentlyMoved": [
+        {
+            "domain_name": "3dausmed.com.au",
+            "destination": "Hostinger",
+            "date": "2025-06-15 07:22:55"
+        },
         {
             "domain_name": "svsfoods.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "theblackbook.boutique",
             "destination": "SiteGround",
             "date": "2025-06-13 17:32:09"
-        },
-        {
-            "domain_name": "lealinjurylaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 17:31:37"
         }
     ],
     "dailyMovedStat": {
@@ -777,7 +777,7 @@
         "Digital Ocean": 4294,
         "SiteGround": 4135,
         "Bluehost": 4000,
-        "Hostinger": 2767,
+        "Hostinger": 2768,
         "GoDaddy": 1143,
         "BigScoots": 558,
         "Liquid Web": 501,
