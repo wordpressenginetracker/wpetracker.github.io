@@ -1,6 +1,16 @@
 {
-    "siteCount": 74993,
+    "siteCount": 74997,
     "recentlyMoved": [
+        {
+            "domain_name": "jerseyphc.com",
+            "destination": "Bluehost",
+            "date": "2025-06-15 01:09:23"
+        },
+        {
+            "domain_name": "brazosbash.com",
+            "destination": "Kinsta",
+            "date": "2025-06-15 00:51:38"
+        },
         {
             "domain_name": "getstarted.rooftime.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "coderaccountinginc.com",
             "destination": "Hostinger",
             "date": "2025-06-13 17:01:01"
-        },
-        {
-            "domain_name": "klevanlawfirm.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 16:40:44"
-        },
-        {
-            "domain_name": "www.mobac.org",
-            "destination": "Pressable",
-            "date": "2025-06-13 16:34:29"
         }
     ],
     "dailyMovedStat": {
@@ -773,10 +773,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 9887,
-        "Kinsta": 4925,
+        "Kinsta": 4926,
         "Digital Ocean": 4294,
         "SiteGround": 4135,
-        "Bluehost": 3999,
+        "Bluehost": 4000,
         "Hostinger": 2766,
         "GoDaddy": 1143,
         "BigScoots": 558,
