@@ -1,6 +1,16 @@
 {
-    "siteCount": 75029,
+    "siteCount": 75035,
     "recentlyMoved": [
+        {
+            "domain_name": "atticmanhvac.com",
+            "destination": "Hostinger",
+            "date": "2025-06-15 12:26:21"
+        },
+        {
+            "domain_name": "optimalhi.net",
+            "destination": "Kinsta",
+            "date": "2025-06-15 11:10:18"
+        },
         {
             "domain_name": "nwafarmlink.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "penneydesigngroup.com",
             "destination": "Liquid Web",
             "date": "2025-06-13 19:25:09"
-        },
-        {
-            "domain_name": "onegirlcookies.com",
-            "destination": "SiteGround",
-            "date": "2025-06-13 19:08:07"
-        },
-        {
-            "domain_name": "novedades.alegra.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-13 18:27:32"
         }
     ],
     "dailyMovedStat": {
@@ -773,11 +773,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 9891,
-        "Kinsta": 4927,
+        "Kinsta": 4928,
         "Digital Ocean": 4294,
         "SiteGround": 4135,
         "Bluehost": 4000,
-        "Hostinger": 2768,
+        "Hostinger": 2769,
         "GoDaddy": 1143,
         "BigScoots": 558,
         "Liquid Web": 502,
