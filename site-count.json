@@ -1,6 +1,11 @@
 {
-    "siteCount": 75013,
+    "siteCount": 75021,
     "recentlyMoved": [
+        {
+            "domain_name": "romatable.com",
+            "destination": "Liquid Web",
+            "date": "2025-06-15 08:24:23"
+        },
         {
             "domain_name": "3dausmed.com.au",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-06-13 17:54:32"
         },
         {
-            "domain_name": "cvexports.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-13 17:49:59"
-        },
-        {
             "domain_name": "trucesoftware.com",
             "destination": "A2 Hosting",
             "date": "2025-06-13 17:37:40"
@@ -780,7 +780,7 @@
         "Hostinger": 2768,
         "GoDaddy": 1143,
         "BigScoots": 558,
-        "Liquid Web": 501,
+        "Liquid Web": 502,
         "WordPress.com": 351,
         "GridPane": 322,
         "InMotion Hosting": 321,
