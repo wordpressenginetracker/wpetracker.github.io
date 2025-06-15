@@ -1,6 +1,21 @@
 {
-    "siteCount": 74988,
+    "siteCount": 74993,
     "recentlyMoved": [
+        {
+            "domain_name": "getstarted.rooftime.com",
+            "destination": "SiteGround",
+            "date": "2025-06-15 00:13:52"
+        },
+        {
+            "domain_name": "www.casurvival.com",
+            "destination": "Pressable",
+            "date": "2025-06-15 00:08:22"
+        },
+        {
+            "domain_name": "firstchurchfairfield.org",
+            "destination": "Pressable",
+            "date": "2025-06-14 23:48:04"
+        },
         {
             "domain_name": "danbairdsurvival.com",
             "destination": "Pressable",
@@ -477,11 +492,6 @@
             "date": "2025-06-13 17:01:01"
         },
         {
-            "domain_name": "calumetbakery.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 16:59:22"
-        },
-        {
             "domain_name": "klevanlawfirm.com",
             "destination": "Pressable",
             "date": "2025-06-13 16:40:44"
@@ -490,16 +500,6 @@
             "domain_name": "www.mobac.org",
             "destination": "Pressable",
             "date": "2025-06-13 16:34:29"
-        },
-        {
-            "domain_name": "avenalaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 16:30:02"
-        },
-        {
-            "domain_name": "azethicslaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-13 16:04:59"
         }
     ],
     "dailyMovedStat": {
@@ -772,10 +772,10 @@
         "2025-06-14": "74988"
     },
     "topDestinationHosts": {
-        "Pressable": 9885,
+        "Pressable": 9887,
         "Kinsta": 4925,
         "Digital Ocean": 4294,
-        "SiteGround": 4134,
+        "SiteGround": 4135,
         "Bluehost": 3999,
         "Hostinger": 2766,
         "GoDaddy": 1143,
