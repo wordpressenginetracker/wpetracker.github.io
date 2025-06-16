@@ -1,6 +1,11 @@
 {
-    "siteCount": 75083,
+    "siteCount": 75086,
     "recentlyMoved": [
+        {
+            "domain_name": "accurateindust.com",
+            "destination": "Hostinger",
+            "date": "2025-06-16 00:02:12"
+        },
         {
             "domain_name": "dogwastedisposal.ca",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "farabloc.com",
             "destination": "Pressable",
             "date": "2025-06-14 02:12:37"
-        },
-        {
-            "domain_name": "juandefucalbc.ca",
-            "destination": "Pressable",
-            "date": "2025-06-14 00:48:05"
         }
     ],
     "dailyMovedStat": {
@@ -778,7 +778,7 @@
         "Digital Ocean": 4294,
         "SiteGround": 4136,
         "Bluehost": 4000,
-        "Hostinger": 2770,
+        "Hostinger": 2771,
         "GoDaddy": 1143,
         "BigScoots": 558,
         "Liquid Web": 502,
