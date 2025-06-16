@@ -1,6 +1,11 @@
 {
-    "siteCount": 75127,
+    "siteCount": 75131,
     "recentlyMoved": [
+        {
+            "domain_name": "bluestarco.com",
+            "destination": "Hostinger",
+            "date": "2025-06-16 12:15:27"
+        },
         {
             "domain_name": "www.firehero.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "nizambutterfly.com",
             "destination": "Digital Ocean",
             "date": "2025-06-14 10:27:10"
-        },
-        {
-            "domain_name": "tollelegepress.com",
-            "destination": "Hostinger",
-            "date": "2025-06-14 10:10:20"
         }
     ],
     "dailyMovedStat": {
@@ -778,7 +778,7 @@
         "Digital Ocean": 4297,
         "SiteGround": 4139,
         "Bluehost": 4000,
-        "Hostinger": 2774,
+        "Hostinger": 2775,
         "GoDaddy": 1144,
         "BigScoots": 558,
         "Liquid Web": 502,
