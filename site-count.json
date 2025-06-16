@@ -1,6 +1,11 @@
 {
-    "siteCount": 75110,
+    "siteCount": 75113,
     "recentlyMoved": [
+        {
+            "domain_name": "peritum.tax",
+            "destination": "Kinsta",
+            "date": "2025-06-16 07:49:54"
+        },
         {
             "domain_name": "lainjuryattorneys.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-06-14 09:30:12"
         },
         {
-            "domain_name": "cjmahan.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 08:56:13"
-        },
-        {
             "domain_name": "www.plantmarvel.com",
             "destination": "Pressable",
             "date": "2025-06-14 08:43:57"
@@ -774,7 +774,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 9904,
-        "Kinsta": 4930,
+        "Kinsta": 4931,
         "Digital Ocean": 4295,
         "SiteGround": 4138,
         "Bluehost": 4000,
