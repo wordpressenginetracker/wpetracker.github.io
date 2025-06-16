@@ -1,6 +1,16 @@
 {
-    "siteCount": 75122,
+    "siteCount": 75127,
     "recentlyMoved": [
+        {
+            "domain_name": "www.firehero.org",
+            "destination": "Pressable",
+            "date": "2025-06-16 11:58:44"
+        },
+        {
+            "domain_name": "palmettoveterinaryspecialist.com",
+            "destination": "SiteGround",
+            "date": "2025-06-16 11:26:20"
+        },
         {
             "domain_name": "miverbo.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "tollelegepress.com",
             "destination": "Hostinger",
             "date": "2025-06-14 10:10:20"
-        },
-        {
-            "domain_name": "www.weaversofwellsville.com",
-            "destination": "OVH",
-            "date": "2025-06-14 09:32:43"
-        },
-        {
-            "domain_name": "youth.apbpa.org",
-            "destination": "Pressable",
-            "date": "2025-06-14 09:30:12"
         }
     ],
     "dailyMovedStat": {
@@ -773,10 +773,10 @@
         "2025-06-15": "75083"
     },
     "topDestinationHosts": {
-        "Pressable": 9904,
+        "Pressable": 9905,
         "Kinsta": 4931,
         "Digital Ocean": 4297,
-        "SiteGround": 4138,
+        "SiteGround": 4139,
         "Bluehost": 4000,
         "Hostinger": 2774,
         "GoDaddy": 1144,
