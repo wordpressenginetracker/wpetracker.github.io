@@ -1,6 +1,21 @@
 {
-    "siteCount": 75086,
+    "siteCount": 75094,
     "recentlyMoved": [
+        {
+            "domain_name": "www.florenceartcompany.com",
+            "destination": "Pressable",
+            "date": "2025-06-16 00:47:54"
+        },
+        {
+            "domain_name": "rockfordfamilypeacecenter.org",
+            "destination": "GoDaddy",
+            "date": "2025-06-16 00:34:05"
+        },
+        {
+            "domain_name": "brandonvallorani.com",
+            "destination": "Hostinger",
+            "date": "2025-06-16 00:21:44"
+        },
         {
             "domain_name": "accurateindust.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "cgcmmallorca.com",
             "destination": "IONOS",
             "date": "2025-06-14 04:48:33"
-        },
-        {
-            "domain_name": "sarasotacarpentry.com",
-            "destination": "SiteGround",
-            "date": "2025-06-14 04:39:25"
-        },
-        {
-            "domain_name": "braveraholdings.com",
-            "destination": "Hostinger",
-            "date": "2025-06-14 04:31:24"
-        },
-        {
-            "domain_name": "farabloc.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 02:12:37"
         }
     ],
     "dailyMovedStat": {
@@ -773,13 +773,13 @@
         "2025-06-15": "75083"
     },
     "topDestinationHosts": {
-        "Pressable": 9901,
+        "Pressable": 9902,
         "Kinsta": 4930,
         "Digital Ocean": 4294,
         "SiteGround": 4136,
         "Bluehost": 4000,
-        "Hostinger": 2771,
-        "GoDaddy": 1143,
+        "Hostinger": 2772,
+        "GoDaddy": 1144,
         "BigScoots": 558,
         "Liquid Web": 502,
         "WordPress.com": 351,
