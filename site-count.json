@@ -1,6 +1,16 @@
 {
-    "siteCount": 75192,
+    "siteCount": 75197,
     "recentlyMoved": [
+        {
+            "domain_name": "www.patroldocta.com.au",
+            "destination": "Hostinger",
+            "date": "2025-06-17 01:18:44"
+        },
+        {
+            "domain_name": "spideroak.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-17 00:43:28"
+        },
         {
             "domain_name": "sproutedweb.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "www.rain1.com",
             "destination": "Kinsta",
             "date": "2025-06-14 12:57:54"
-        },
-        {
-            "domain_name": "caprockfamilyfarms.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-14 12:51:25"
-        },
-        {
-            "domain_name": "www.mbdconsulting.com",
-            "destination": "Bluehost",
-            "date": "2025-06-14 12:41:52"
         }
     ],
     "dailyMovedStat": {
@@ -776,10 +776,10 @@
     "topDestinationHosts": {
         "Pressable": 9907,
         "Kinsta": 4932,
-        "Digital Ocean": 4297,
+        "Digital Ocean": 4298,
         "SiteGround": 4141,
         "Bluehost": 4000,
-        "Hostinger": 2776,
+        "Hostinger": 2777,
         "GoDaddy": 1146,
         "BigScoots": 558,
         "Liquid Web": 502,
