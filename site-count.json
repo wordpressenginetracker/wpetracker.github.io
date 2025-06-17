@@ -1,6 +1,21 @@
 {
-    "siteCount": 75212,
+    "siteCount": 75218,
     "recentlyMoved": [
+        {
+            "domain_name": "cochranandsoares.com",
+            "destination": "Liquid Web",
+            "date": "2025-06-17 05:32:31"
+        },
+        {
+            "domain_name": "justengineers.nl",
+            "destination": "OVH",
+            "date": "2025-06-17 05:18:48"
+        },
+        {
+            "domain_name": "seahorsecounselling.ca",
+            "destination": "DreamHost",
+            "date": "2025-06-17 04:34:57"
+        },
         {
             "domain_name": "www.valodevils.com.au",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "tonerrealestate.com",
             "destination": "SiteGround",
             "date": "2025-06-14 14:07:50"
-        },
-        {
-            "domain_name": "www.wnccabinetry.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 14:06:46"
-        },
-        {
-            "domain_name": "collierrestaurantgroup.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-14 13:04:30"
-        },
-        {
-            "domain_name": "www.rain1.com",
-            "destination": "Kinsta",
-            "date": "2025-06-14 12:57:54"
         }
     ],
     "dailyMovedStat": {
@@ -782,15 +782,15 @@
         "Hostinger": 2777,
         "GoDaddy": 1146,
         "BigScoots": 558,
-        "Liquid Web": 502,
+        "Liquid Web": 503,
         "WordPress.com": 351,
         "GridPane": 324,
         "InMotion Hosting": 321,
         "A2 Hosting": 313,
-        "OVH": 302,
+        "OVH": 303,
         "Elementor Hosting": 292,
         "IONOS": 269,
-        "DreamHost": 261,
+        "DreamHost": 262,
         "Namecheap": 260,
         "Hetzner Online": 211,
         "Wordify": 183
