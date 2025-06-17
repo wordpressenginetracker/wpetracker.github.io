@@ -1,6 +1,21 @@
 {
-    "siteCount": 75247,
+    "siteCount": 75257,
     "recentlyMoved": [
+        {
+            "domain_name": "edgesolutions4export.edgegroup.ae",
+            "destination": "Pressable",
+            "date": "2025-06-17 10:19:30"
+        },
+        {
+            "domain_name": "thepackshack.org",
+            "destination": "Kinsta",
+            "date": "2025-06-17 10:03:21"
+        },
+        {
+            "domain_name": "theshoepro.com",
+            "destination": "Kinsta",
+            "date": "2025-06-17 09:54:09"
+        },
         {
             "domain_name": "sriuthiammanthirukovil.com",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2025-06-14 17:48:58"
         },
         {
-            "domain_name": "www.sparkslaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 17:32:25"
-        },
-        {
             "domain_name": "dentalcareop.com",
             "destination": "GridPane",
             "date": "2025-06-14 17:16:37"
@@ -490,16 +500,6 @@
             "domain_name": "davebrisbin.com",
             "destination": "SiteGround",
             "date": "2025-06-14 17:15:54"
-        },
-        {
-            "domain_name": "darintanseymiami.com",
-            "destination": "Hostinger",
-            "date": "2025-06-14 17:15:54"
-        },
-        {
-            "domain_name": "skeehanco.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 17:11:36"
         }
     ],
     "dailyMovedStat": {
@@ -774,8 +774,8 @@
         "2025-06-16": "75187"
     },
     "topDestinationHosts": {
-        "Pressable": 9908,
-        "Kinsta": 4935,
+        "Pressable": 9909,
+        "Kinsta": 4938,
         "Digital Ocean": 4300,
         "SiteGround": 4142,
         "Bluehost": 4000,
