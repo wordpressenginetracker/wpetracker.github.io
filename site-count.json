@@ -1,6 +1,21 @@
 {
-    "siteCount": 75197,
+    "siteCount": 75206,
     "recentlyMoved": [
+        {
+            "domain_name": "www.valodevils.com.au",
+            "destination": "Pressable",
+            "date": "2025-06-17 02:00:34"
+        },
+        {
+            "domain_name": "syc.com.au",
+            "destination": "SiteGround",
+            "date": "2025-06-17 01:45:15"
+        },
+        {
+            "domain_name": "lumenandforge.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-17 01:44:42"
+        },
         {
             "domain_name": "www.patroldocta.com.au",
             "destination": "Hostinger",
@@ -477,21 +492,6 @@
             "date": "2025-06-14 14:06:46"
         },
         {
-            "domain_name": "kitchmystic.com",
-            "destination": "Kinsta",
-            "date": "2025-06-14 13:31:18"
-        },
-        {
-            "domain_name": "kingieplaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-14 13:31:18"
-        },
-        {
-            "domain_name": "skanda.ca",
-            "destination": "Pressable",
-            "date": "2025-06-14 13:10:22"
-        },
-        {
             "domain_name": "collierrestaurantgroup.com",
             "destination": "Liquid Web",
             "date": "2025-06-14 13:04:30"
@@ -774,10 +774,10 @@
         "2025-06-16": "75187"
     },
     "topDestinationHosts": {
-        "Pressable": 9907,
+        "Pressable": 9908,
         "Kinsta": 4932,
-        "Digital Ocean": 4298,
-        "SiteGround": 4141,
+        "Digital Ocean": 4299,
+        "SiteGround": 4142,
         "Bluehost": 4000,
         "Hostinger": 2777,
         "GoDaddy": 1146,
