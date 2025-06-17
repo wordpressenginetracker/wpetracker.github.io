@@ -1,6 +1,21 @@
 {
-    "siteCount": 75366,
+    "siteCount": 75408,
     "recentlyMoved": [
+        {
+            "domain_name": "amicusit.net",
+            "destination": "Bluehost",
+            "date": "2025-06-17 20:02:58"
+        },
+        {
+            "domain_name": "onehospitalitymanagement.co.uk",
+            "destination": "IONOS",
+            "date": "2025-06-17 19:42:09"
+        },
+        {
+            "domain_name": "garyhwolffoundation.org",
+            "destination": "SiteGround",
+            "date": "2025-06-17 19:24:51"
+        },
         {
             "domain_name": "vags.ca",
             "destination": "OVH",
@@ -485,21 +500,6 @@
             "domain_name": "lindyfordwellness.com",
             "destination": "Pressable",
             "date": "2025-06-15 21:51:02"
-        },
-        {
-            "domain_name": "scmra.ca",
-            "destination": "Pressable",
-            "date": "2025-06-15 21:10:15"
-        },
-        {
-            "domain_name": "robinordanlcsw.com",
-            "destination": "Pressable",
-            "date": "2025-06-15 20:55:05"
-        },
-        {
-            "domain_name": "publicpolicygroup.com",
-            "destination": "Pressable",
-            "date": "2025-06-15 20:39:15"
         }
     ],
     "dailyMovedStat": {
@@ -777,8 +777,8 @@
         "Pressable": 9932,
         "Kinsta": 4943,
         "Digital Ocean": 4306,
-        "SiteGround": 4147,
-        "Bluehost": 4001,
+        "SiteGround": 4148,
+        "Bluehost": 4002,
         "Hostinger": 2783,
         "GoDaddy": 1146,
         "BigScoots": 558,
@@ -789,7 +789,7 @@
         "A2 Hosting": 313,
         "OVH": 304,
         "Elementor Hosting": 292,
-        "IONOS": 270,
+        "IONOS": 271,
         "DreamHost": 262,
         "Namecheap": 261,
         "Hetzner Online": 211,
