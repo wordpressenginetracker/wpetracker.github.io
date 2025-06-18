@@ -1,5 +1,5 @@
 {
-    "siteCount": 75511,
+    "siteCount": 75512,
     "recentlyMoved": [
         {
             "domain_name": "viddyoze.com",
@@ -10,6 +10,11 @@
             "domain_name": "momentum-makers.com",
             "destination": "Hostinger",
             "date": "2025-06-18 10:18:29"
+        },
+        {
+            "domain_name": "vshine95.com",
+            "destination": "Hostinger",
+            "date": "2025-06-18 10:07:19"
         },
         {
             "domain_name": "marshallcountycouncilonaging.org",
@@ -495,11 +500,6 @@
             "domain_name": "cochranandsoares.com",
             "destination": "Liquid Web",
             "date": "2025-06-17 05:32:31"
-        },
-        {
-            "domain_name": "justengineers.nl",
-            "destination": "OVH",
-            "date": "2025-06-17 05:18:48"
         }
     ],
     "dailyMovedStat": {
@@ -780,7 +780,7 @@
         "Digital Ocean": 4310,
         "SiteGround": 4150,
         "Bluehost": 4003,
-        "Hostinger": 2787,
+        "Hostinger": 2788,
         "GoDaddy": 1147,
         "BigScoots": 559,
         "Liquid Web": 503,
@@ -793,7 +793,7 @@
         "IONOS": 274,
         "DreamHost": 262,
         "Namecheap": 261,
-        "Hetzner Online": 211,
+        "Hetzner Online": 212,
         "Wordify": 183
     },
     "dailyTotalStat": {
