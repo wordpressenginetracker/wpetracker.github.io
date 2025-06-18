@@ -1,6 +1,31 @@
 {
-    "siteCount": 75676,
+    "siteCount": 75686,
     "recentlyMoved": [
+        {
+            "domain_name": "ncyamfestival.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 22:30:51"
+        },
+        {
+            "domain_name": "dnda.org",
+            "destination": "Digital Ocean",
+            "date": "2025-06-18 22:11:43"
+        },
+        {
+            "domain_name": "monteriolaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 22:08:41"
+        },
+        {
+            "domain_name": "myrtlebeachpropertymanagement.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 21:56:22"
+        },
+        {
+            "domain_name": "coreintegrativehealth.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-18 21:51:17"
+        },
         {
             "domain_name": "lawterandlawter.com",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "whitnessnutrition.com",
             "destination": "BigScoots",
             "date": "2025-06-18 00:10:21"
-        },
-        {
-            "domain_name": "dorepropertylaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-17 21:58:08"
-        },
-        {
-            "domain_name": "macerolaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-17 21:46:18"
-        },
-        {
-            "domain_name": "m3hotels.com",
-            "destination": "Hostinger",
-            "date": "2025-06-17 21:46:18"
-        },
-        {
-            "domain_name": "diff-rent.com",
-            "destination": "IONOS",
-            "date": "2025-06-17 21:24:11"
-        },
-        {
-            "domain_name": "diamondroofing.co.nz",
-            "destination": "Pressable",
-            "date": "2025-06-17 21:24:11"
         }
     ],
     "dailyMovedStat": {
@@ -772,16 +772,17 @@
         "2025-06-14": "74988",
         "2025-06-15": "75083",
         "2025-06-16": "75187",
-        "2025-06-17": "75430"
+        "2025-06-17": "75430",
+        "2025-06-18": "75686"
     },
     "topDestinationHosts": {
-        "Pressable": 9963,
+        "Pressable": 9967,
         "Kinsta": 4954,
-        "Digital Ocean": 4319,
+        "Digital Ocean": 4320,
         "SiteGround": 4160,
         "Bluehost": 4004,
         "Hostinger": 2799,
-        "GoDaddy": 1148,
+        "GoDaddy": 1149,
         "BigScoots": 560,
         "Liquid Web": 506,
         "WordPress.com": 356,
@@ -1066,6 +1067,7 @@
         "2025-06-14": "614844",
         "2025-06-15": "615165",
         "2025-06-16": "614751",
-        "2025-06-17": "613770"
+        "2025-06-17": "613770",
+        "2025-06-18": "613339"
     }
 }
