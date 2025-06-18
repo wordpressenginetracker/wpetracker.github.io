@@ -1,10 +1,30 @@
 {
-    "siteCount": 75665,
+    "siteCount": 75676,
     "recentlyMoved": [
+        {
+            "domain_name": "lawterandlawter.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 21:36:59"
+        },
+        {
+            "domain_name": "bmblegal.com",
+            "destination": "HostGator",
+            "date": "2025-06-18 21:00:47"
+        },
+        {
+            "domain_name": "standfirmsc.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 20:45:44"
+        },
         {
             "domain_name": "raiserite.com",
             "destination": "Liquid Web",
             "date": "2025-06-18 20:45:02"
+        },
+        {
+            "domain_name": "buildingaheritage.com",
+            "destination": "Pressable",
+            "date": "2025-06-18 20:33:53"
         },
         {
             "domain_name": "www.csicreative.com",
@@ -472,16 +492,6 @@
             "date": "2025-06-17 21:46:18"
         },
         {
-            "domain_name": "corbitthills.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-17 21:42:39"
-        },
-        {
-            "domain_name": "www.plantscapelive.com",
-            "destination": "Kinsta",
-            "date": "2025-06-17 21:25:33"
-        },
-        {
             "domain_name": "diff-rent.com",
             "destination": "IONOS",
             "date": "2025-06-17 21:24:11"
@@ -490,16 +500,6 @@
             "domain_name": "diamondroofing.co.nz",
             "destination": "Pressable",
             "date": "2025-06-17 21:24:11"
-        },
-        {
-            "domain_name": "www.fondazionedietamediterranea.it",
-            "destination": "SiteGround",
-            "date": "2025-06-17 21:00:02"
-        },
-        {
-            "domain_name": "blog.holabill.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-17 20:13:29"
         }
     ],
     "dailyMovedStat": {
@@ -775,7 +775,7 @@
         "2025-06-17": "75430"
     },
     "topDestinationHosts": {
-        "Pressable": 9960,
+        "Pressable": 9963,
         "Kinsta": 4954,
         "Digital Ocean": 4319,
         "SiteGround": 4160,
