@@ -1,10 +1,15 @@
 {
-    "siteCount": 75754,
+    "siteCount": 75756,
     "recentlyMoved": [
         {
             "domain_name": "fantasykitchens.com",
             "destination": "Pressable",
             "date": "2025-06-19 10:46:15"
+        },
+        {
+            "domain_name": "northtowerbarefootresort.com",
+            "destination": "Pressable",
+            "date": "2025-06-19 09:53:41"
         },
         {
             "domain_name": "dejungle-it.de",
@@ -492,11 +497,6 @@
             "date": "2025-06-18 09:32:32"
         },
         {
-            "domain_name": "learn.interfaceaesthetics.co.uk",
-            "destination": "IONOS",
-            "date": "2025-06-18 09:24:52"
-        },
-        {
             "domain_name": "coralogix.com",
             "destination": "Kinsta",
             "date": "2025-06-18 09:02:41"
@@ -776,7 +776,7 @@
         "2025-06-18": "75686"
     },
     "topDestinationHosts": {
-        "Pressable": 9971,
+        "Pressable": 9973,
         "Kinsta": 4955,
         "Digital Ocean": 4320,
         "SiteGround": 4164,
