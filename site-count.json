@@ -1,6 +1,46 @@
 {
-    "siteCount": 75772,
+    "siteCount": 75789,
     "recentlyMoved": [
+        {
+            "domain_name": "coastlinelaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-19 13:14:44"
+        },
+        {
+            "domain_name": "cabanas.pelicanhill.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-19 12:59:52"
+        },
+        {
+            "domain_name": "bluemoon-shop.com",
+            "destination": "IONOS",
+            "date": "2025-06-19 12:56:08"
+        },
+        {
+            "domain_name": "www.noticiasnewswire.com",
+            "destination": "Kinsta",
+            "date": "2025-06-19 12:48:02"
+        },
+        {
+            "domain_name": "www.hsinjurylaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-19 12:40:24"
+        },
+        {
+            "domain_name": "shipfirstcall.com",
+            "destination": "SiteGround",
+            "date": "2025-06-19 12:35:25"
+        },
+        {
+            "domain_name": "blog.alanube.co",
+            "destination": "Digital Ocean",
+            "date": "2025-06-19 12:33:47"
+        },
+        {
+            "domain_name": "www.innovativeremodelers.com",
+            "destination": "Liquid Web",
+            "date": "2025-06-19 12:20:25"
+        },
         {
             "domain_name": "assetprotectionconference.com",
             "destination": "WordPress.com",
@@ -457,49 +497,9 @@
             "date": "2025-06-18 12:58:13"
         },
         {
-            "domain_name": "www.botanicalscience.net",
-            "destination": "Digital Ocean",
-            "date": "2025-06-18 12:27:43"
-        },
-        {
             "domain_name": "www.hatchethousebemidji.com",
             "destination": "Digital Ocean",
             "date": "2025-06-18 12:21:39"
-        },
-        {
-            "domain_name": "www.chequeprint.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-06-18 12:09:19"
-        },
-        {
-            "domain_name": "rheumatologyconsultantswny.com",
-            "destination": "Pressable",
-            "date": "2025-06-18 11:57:14"
-        },
-        {
-            "domain_name": "aaronshishilla.com",
-            "destination": "Kinsta",
-            "date": "2025-06-18 11:50:07"
-        },
-        {
-            "domain_name": "agathiyarjeevanaadi.com",
-            "destination": "Hostinger",
-            "date": "2025-06-18 11:40:56"
-        },
-        {
-            "domain_name": "orlandosurgery.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-18 11:32:47"
-        },
-        {
-            "domain_name": "alexdaliweddings.com",
-            "destination": "Bluehost",
-            "date": "2025-06-18 11:31:21"
-        },
-        {
-            "domain_name": "oaksat8100.com",
-            "destination": "Pressable",
-            "date": "2025-06-18 11:11:10"
         }
     ],
     "dailyMovedStat": {
@@ -776,26 +776,7 @@
         "2025-06-18": "75686"
     },
     "topDestinationHosts": {
-        "Pressable": 9974,
-        "Kinsta": 4956,
-        "Digital Ocean": 4320,
-        "SiteGround": 4166,
-        "Bluehost": 4005,
-        "Hostinger": 2803,
-        "GoDaddy": 1151,
-        "BigScoots": 561,
-        "Liquid Web": 506,
-        "WordPress.com": 357,
-        "GridPane": 327,
-        "InMotion Hosting": 323,
-        "A2 Hosting": 314,
-        "OVH": 305,
-        "Elementor Hosting": 293,
-        "IONOS": 275,
-        "DreamHost": 263,
-        "Namecheap": 261,
-        "Hetzner Online": 214,
-        "Wordify": 183
+        "SiteGround": 4168
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
