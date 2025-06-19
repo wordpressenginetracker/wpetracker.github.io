@@ -1,10 +1,20 @@
 {
-    "siteCount": 75717,
+    "siteCount": 75723,
     "recentlyMoved": [
+        {
+            "domain_name": "expo-genie.com",
+            "destination": "Pressable",
+            "date": "2025-06-19 06:28:30"
+        },
         {
             "domain_name": "cm-vending.com",
             "destination": "SiteGround",
             "date": "2025-06-19 05:41:34"
+        },
+        {
+            "domain_name": "dancewithstones.com",
+            "destination": "Bluehost",
+            "date": "2025-06-19 05:13:47"
         },
         {
             "domain_name": "ilgambero.com.au",
@@ -490,16 +500,6 @@
             "domain_name": "www.valiahotelbangkok.com",
             "destination": "Kinsta",
             "date": "2025-06-18 06:05:48"
-        },
-        {
-            "domain_name": "smarterpayments.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-06-18 05:12:58"
-        },
-        {
-            "domain_name": "prklaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-18 03:41:43"
         }
     ],
     "dailyMovedStat": {
@@ -776,11 +776,11 @@
         "2025-06-18": "75686"
     },
     "topDestinationHosts": {
-        "Pressable": 9969,
+        "Pressable": 9970,
         "Kinsta": 4955,
         "Digital Ocean": 4320,
         "SiteGround": 4162,
-        "Bluehost": 4004,
+        "Bluehost": 4005,
         "Hostinger": 2801,
         "GoDaddy": 1150,
         "BigScoots": 560,
