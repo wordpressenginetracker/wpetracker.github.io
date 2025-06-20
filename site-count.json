@@ -1,6 +1,11 @@
 {
-    "siteCount": 75999,
+    "siteCount": 76002,
     "recentlyMoved": [
+        {
+            "domain_name": "nwgvsn.org.uk",
+            "destination": "SiteGround",
+            "date": "2025-06-20 10:58:19"
+        },
         {
             "domain_name": "epic-retreats.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "redsky.com.au",
             "destination": "Kinsta",
             "date": "2025-06-19 00:49:27"
-        },
-        {
-            "domain_name": "www.csoftwash.com",
-            "destination": "Hostinger",
-            "date": "2025-06-19 00:13:24"
         }
     ],
     "dailyMovedStat": {
@@ -777,10 +777,10 @@
         "2025-06-19": "75924"
     },
     "topDestinationHosts": {
-        "Pressable": 9988,
+        "Pressable": 9989,
         "Kinsta": 4967,
         "Digital Ocean": 4334,
-        "SiteGround": 4174,
+        "SiteGround": 4175,
         "Bluehost": 4006,
         "Hostinger": 2821,
         "GoDaddy": 1151,
