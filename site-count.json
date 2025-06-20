@@ -1,6 +1,16 @@
 {
-    "siteCount": 75960,
+    "siteCount": 75965,
     "recentlyMoved": [
+        {
+            "domain_name": "cedars.us",
+            "destination": "WordPress.com",
+            "date": "2025-06-20 05:12:34"
+        },
+        {
+            "domain_name": "www.leasegemak.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-06-20 04:44:04"
+        },
         {
             "domain_name": "www.cdimgmtsolutions.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "quantummetrocenter.com",
             "destination": "GoDaddy",
             "date": "2025-06-18 20:00:22"
-        },
-        {
-            "domain_name": "www.boundaryelectric.com",
-            "destination": "Kinsta",
-            "date": "2025-06-18 19:58:06"
-        },
-        {
-            "domain_name": "wolfschurch.org",
-            "destination": "Digital Ocean",
-            "date": "2025-06-18 19:47:51"
         }
     ],
     "dailyMovedStat": {
@@ -779,14 +779,14 @@
     "topDestinationHosts": {
         "Pressable": 9985,
         "Kinsta": 4964,
-        "Digital Ocean": 4333,
+        "Digital Ocean": 4334,
         "SiteGround": 4173,
         "Bluehost": 4006,
         "Hostinger": 2818,
         "GoDaddy": 1151,
         "BigScoots": 561,
         "Liquid Web": 507,
-        "WordPress.com": 361,
+        "WordPress.com": 362,
         "GridPane": 327,
         "InMotion Hosting": 324,
         "A2 Hosting": 314,
