@@ -1,6 +1,11 @@
 {
-    "siteCount": 75950,
+    "siteCount": 75952,
     "recentlyMoved": [
+        {
+            "domain_name": "nobious.com",
+            "destination": "Kinsta",
+            "date": "2025-06-20 02:52:29"
+        },
         {
             "domain_name": "milirmall.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "nseadvisors.com",
             "destination": "Hostinger",
             "date": "2025-06-18 18:47:00"
-        },
-        {
-            "domain_name": "vereenvacationrentalservices.com",
-            "destination": "Pressable",
-            "date": "2025-06-18 17:57:26"
         }
     ],
     "dailyMovedStat": {
@@ -778,8 +778,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 9984,
-        "Kinsta": 4963,
-        "Digital Ocean": 4332,
+        "Kinsta": 4964,
+        "Digital Ocean": 4333,
         "SiteGround": 4173,
         "Bluehost": 4006,
         "Hostinger": 2818,
