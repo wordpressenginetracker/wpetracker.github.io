@@ -1,6 +1,11 @@
 {
-    "siteCount": 75965,
+    "siteCount": 75973,
     "recentlyMoved": [
+        {
+            "domain_name": "dubailadiesclub.com",
+            "destination": "Pressable",
+            "date": "2025-06-20 06:24:55"
+        },
         {
             "domain_name": "cedars.us",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "basicswaccamaw.org",
             "destination": "Pressable",
             "date": "2025-06-18 20:10:10"
-        },
-        {
-            "domain_name": "quantummetrocenter.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-18 20:00:22"
         }
     ],
     "dailyMovedStat": {
@@ -777,7 +777,7 @@
         "2025-06-19": "75924"
     },
     "topDestinationHosts": {
-        "Pressable": 9985,
+        "Pressable": 9986,
         "Kinsta": 4964,
         "Digital Ocean": 4334,
         "SiteGround": 4173,
