@@ -1,6 +1,11 @@
 {
-    "siteCount": 76160,
+    "siteCount": 76166,
     "recentlyMoved": [
+        {
+            "domain_name": "creativeenvironments.com",
+            "destination": "Kinsta",
+            "date": "2025-06-20 21:31:41"
+        },
         {
             "domain_name": "www.printingwatch.com",
             "destination": "BigScoots",
@@ -492,11 +497,6 @@
             "date": "2025-06-19 20:21:13"
         },
         {
-            "domain_name": "wp.dolly.com",
-            "destination": "Kinsta",
-            "date": "2025-06-19 20:07:45"
-        },
-        {
             "domain_name": "ambalinenfabs.com",
             "destination": "Hostinger",
             "date": "2025-06-19 19:27:09"
@@ -778,7 +778,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10007,
-        "Kinsta": 4986,
+        "Kinsta": 4988,
         "Digital Ocean": 4338,
         "SiteGround": 4183,
         "Bluehost": 4006,
