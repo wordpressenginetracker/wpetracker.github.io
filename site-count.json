@@ -1,6 +1,16 @@
 {
-    "siteCount": 75974,
+    "siteCount": 75983,
     "recentlyMoved": [
+        {
+            "domain_name": "uevtech.com",
+            "destination": "IONOS",
+            "date": "2025-06-20 08:28:54"
+        },
+        {
+            "domain_name": "www.bftesolutions.com",
+            "destination": "Pressable",
+            "date": "2025-06-20 08:28:30"
+        },
         {
             "domain_name": "nwsia.com",
             "destination": "SiteGround",
@@ -487,19 +497,9 @@
             "date": "2025-06-18 20:45:44"
         },
         {
-            "domain_name": "raiserite.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-18 20:45:02"
-        },
-        {
             "domain_name": "buildingaheritage.com",
             "destination": "Pressable",
             "date": "2025-06-18 20:33:53"
-        },
-        {
-            "domain_name": "basicswaccamaw.org",
-            "destination": "Pressable",
-            "date": "2025-06-18 20:10:10"
         }
     ],
     "dailyMovedStat": {
@@ -777,7 +777,7 @@
         "2025-06-19": "75924"
     },
     "topDestinationHosts": {
-        "Pressable": 9986,
+        "Pressable": 9987,
         "Kinsta": 4964,
         "Digital Ocean": 4334,
         "SiteGround": 4174,
@@ -792,7 +792,7 @@
         "A2 Hosting": 314,
         "OVH": 305,
         "Elementor Hosting": 293,
-        "IONOS": 276,
+        "IONOS": 277,
         "DreamHost": 264,
         "Namecheap": 261,
         "Hetzner Online": 214,
