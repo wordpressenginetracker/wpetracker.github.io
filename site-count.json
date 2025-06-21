@@ -1,6 +1,36 @@
 {
-    "siteCount": 76167,
+    "siteCount": 76179,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gsdrescue.org.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-21 00:27:21"
+        },
+        {
+            "domain_name": "www.geniuscoworking.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-21 00:27:21"
+        },
+        {
+            "domain_name": "www.bowlsact.org.au",
+            "destination": "SiteGround",
+            "date": "2025-06-20 23:48:39"
+        },
+        {
+            "domain_name": "www.farmstaynewzealand.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-20 23:43:14"
+        },
+        {
+            "domain_name": "www.ergostyle.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-20 23:43:14"
+        },
+        {
+            "domain_name": "www.dunedin-accommodation.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-06-20 23:41:52"
+        },
         {
             "domain_name": "creativeenvironments.com",
             "destination": "Kinsta",
@@ -462,11 +492,6 @@
             "date": "2025-06-19 22:17:10"
         },
         {
-            "domain_name": "jamesdean.ca",
-            "destination": "SiteGround",
-            "date": "2025-06-19 21:08:05"
-        },
-        {
             "domain_name": "sivamanithangamaaligai.com",
             "destination": "Hostinger",
             "date": "2025-06-19 21:02:27"
@@ -475,31 +500,6 @@
             "domain_name": "smithcarpenterlaw.com",
             "destination": "Pressable",
             "date": "2025-06-19 20:46:22"
-        },
-        {
-            "domain_name": "www.c2cexteriors.com",
-            "destination": "Pressable",
-            "date": "2025-06-19 20:34:55"
-        },
-        {
-            "domain_name": "girl-jitsu.com",
-            "destination": "Bluehost",
-            "date": "2025-06-19 20:26:49"
-        },
-        {
-            "domain_name": "hawthorninteriors.com",
-            "destination": "SiteGround",
-            "date": "2025-06-19 20:23:23"
-        },
-        {
-            "domain_name": "www.flammialaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-19 20:21:13"
-        },
-        {
-            "domain_name": "ambalinenfabs.com",
-            "destination": "Hostinger",
-            "date": "2025-06-19 19:27:09"
         }
     ],
     "dailyMovedStat": {
@@ -779,9 +779,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10007,
-        "Kinsta": 4988,
+        "Kinsta": 4994,
         "Digital Ocean": 4338,
-        "SiteGround": 4183,
+        "SiteGround": 4184,
         "Bluehost": 4006,
         "Hostinger": 2834,
         "GoDaddy": 1154,
