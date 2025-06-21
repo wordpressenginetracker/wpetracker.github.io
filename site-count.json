@@ -1,6 +1,16 @@
 {
-    "siteCount": 76218,
+    "siteCount": 76226,
     "recentlyMoved": [
+        {
+            "domain_name": "klchristianchurch.org",
+            "destination": "Hostinger",
+            "date": "2025-06-21 09:29:36"
+        },
+        {
+            "domain_name": "scheibner-baudienstleistungen.de",
+            "destination": "Hetzner Online",
+            "date": "2025-06-21 08:22:25"
+        },
         {
             "domain_name": "www.allianceinteractive.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2025-06-20 01:44:04"
         },
         {
-            "domain_name": "lasvegastga.com",
-            "destination": "HostGator",
-            "date": "2025-06-20 01:33:28"
-        },
-        {
             "domain_name": "thegreengemlounge.com",
             "destination": "SiteGround",
             "date": "2025-06-20 01:32:24"
-        },
-        {
-            "domain_name": "indianlifeline.com",
-            "destination": "Hostinger",
-            "date": "2025-06-20 00:38:19"
         }
     ],
     "dailyMovedStat": {
@@ -783,7 +783,7 @@
         "Digital Ocean": 4338,
         "SiteGround": 4184,
         "Bluehost": 4006,
-        "Hostinger": 2835,
+        "Hostinger": 2836,
         "GoDaddy": 1155,
         "BigScoots": 564,
         "Liquid Web": 509,
@@ -796,7 +796,7 @@
         "IONOS": 279,
         "DreamHost": 264,
         "Namecheap": 263,
-        "Hetzner Online": 214,
+        "Hetzner Online": 215,
         "Wordify": 184
     },
     "dailyTotalStat": {
