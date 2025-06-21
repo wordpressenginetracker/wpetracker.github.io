@@ -1,6 +1,11 @@
 {
-    "siteCount": 76363,
+    "siteCount": 76367,
     "recentlyMoved": [
+        {
+            "domain_name": "desertfoxdesign.ca",
+            "destination": "GridPane",
+            "date": "2025-06-21 21:59:37"
+        },
         {
             "domain_name": "stormwerxdigital.com",
             "destination": "GridPane",
@@ -492,11 +497,6 @@
             "date": "2025-06-20 15:13:53"
         },
         {
-            "domain_name": "fabimersan.com",
-            "destination": "Hostinger",
-            "date": "2025-06-20 14:18:15"
-        },
-        {
             "domain_name": "fastlinkleads.com",
             "destination": "Pressable",
             "date": "2025-06-20 14:01:48"
@@ -778,17 +778,17 @@
         "2025-06-20": "76167"
     },
     "topDestinationHosts": {
-        "Pressable": 10017,
+        "Pressable": 10018,
         "Kinsta": 5004,
         "Digital Ocean": 4347,
-        "SiteGround": 4189,
+        "SiteGround": 4190,
         "Bluehost": 4006,
         "Hostinger": 2843,
         "GoDaddy": 1157,
         "BigScoots": 564,
         "Liquid Web": 512,
         "WordPress.com": 365,
-        "GridPane": 327,
+        "GridPane": 329,
         "InMotion Hosting": 324,
         "A2 Hosting": 316,
         "OVH": 308,
