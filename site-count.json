@@ -1,6 +1,11 @@
 {
-    "siteCount": 76210,
+    "siteCount": 76218,
     "recentlyMoved": [
+        {
+            "domain_name": "www.allianceinteractive.com",
+            "destination": "Kinsta",
+            "date": "2025-06-21 07:39:31"
+        },
         {
             "domain_name": "www.leadership-matters.biz",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "indianlifeline.com",
             "destination": "Hostinger",
             "date": "2025-06-20 00:38:19"
-        },
-        {
-            "domain_name": "punnagaiydentalclinic.com",
-            "destination": "Hostinger",
-            "date": "2025-06-19 23:50:27"
         }
     ],
     "dailyMovedStat": {
@@ -779,12 +779,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10007,
-        "Kinsta": 4996,
+        "Kinsta": 4997,
         "Digital Ocean": 4338,
         "SiteGround": 4184,
         "Bluehost": 4006,
         "Hostinger": 2835,
-        "GoDaddy": 1154,
+        "GoDaddy": 1155,
         "BigScoots": 564,
         "Liquid Web": 509,
         "WordPress.com": 364,
