@@ -1,6 +1,21 @@
 {
-    "siteCount": 76406,
+    "siteCount": 76409,
     "recentlyMoved": [
+        {
+            "domain_name": "www.plpinfo.org",
+            "destination": "Pressable",
+            "date": "2025-06-22 09:38:06"
+        },
+        {
+            "domain_name": "www.mygolfnus.com",
+            "destination": "Pressable",
+            "date": "2025-06-22 09:19:28"
+        },
+        {
+            "domain_name": "casrpaudit.com",
+            "destination": "Hostinger",
+            "date": "2025-06-22 09:02:21"
+        },
         {
             "domain_name": "accuratelitho.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.ultimateremoval.com",
             "destination": "Pressable",
             "date": "2025-06-20 17:32:52"
-        },
-        {
-            "domain_name": "kreativetravel.ca",
-            "destination": "Pressable",
-            "date": "2025-06-20 17:11:58"
-        },
-        {
-            "domain_name": "chellamcenturyhall.co.in",
-            "destination": "Hostinger",
-            "date": "2025-06-20 16:56:13"
-        },
-        {
-            "domain_name": "championsolar.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-20 16:49:41"
         }
     ],
     "dailyMovedStat": {
@@ -779,12 +779,12 @@
         "2025-06-21": "76367"
     },
     "topDestinationHosts": {
-        "Pressable": 10019,
+        "Pressable": 10020,
         "Kinsta": 5004,
         "Digital Ocean": 4347,
         "SiteGround": 4190,
         "Bluehost": 4006,
-        "Hostinger": 2852,
+        "Hostinger": 2853,
         "GoDaddy": 1158,
         "BigScoots": 564,
         "Liquid Web": 512,
