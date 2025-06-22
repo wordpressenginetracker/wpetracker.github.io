@@ -1,6 +1,11 @@
 {
-    "siteCount": 76411,
+    "siteCount": 76419,
     "recentlyMoved": [
+        {
+            "domain_name": "anyhousewanted.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-06-22 12:07:28"
+        },
         {
             "domain_name": "mrracefuel.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "everywomanstudios.com",
             "destination": "WordPress.com",
             "date": "2025-06-20 17:47:32"
-        },
-        {
-            "domain_name": "mcrally.ca",
-            "destination": "Pressable",
-            "date": "2025-06-20 17:42:14"
         }
     ],
     "dailyMovedStat": {
@@ -782,7 +782,7 @@
         "Pressable": 10022,
         "Kinsta": 5004,
         "Digital Ocean": 4347,
-        "SiteGround": 4190,
+        "SiteGround": 4191,
         "Bluehost": 4006,
         "Hostinger": 2853,
         "GoDaddy": 1158,
