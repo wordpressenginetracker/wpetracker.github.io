@@ -1,6 +1,11 @@
 {
-    "siteCount": 76379,
+    "siteCount": 76381,
     "recentlyMoved": [
+        {
+            "domain_name": "bluehps.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-22 01:03:30"
+        },
         {
             "domain_name": "wawona.com",
             "destination": "A2 Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-06-20 15:44:42"
         },
         {
-            "domain_name": "organic.evivamedia.com",
-            "destination": "Hostinger",
-            "date": "2025-06-20 15:22:38"
-        },
-        {
             "domain_name": "forestsinternational.org",
             "destination": "OVH",
             "date": "2025-06-20 15:13:53"
@@ -785,7 +785,7 @@
         "SiteGround": 4190,
         "Bluehost": 4006,
         "Hostinger": 2844,
-        "GoDaddy": 1157,
+        "GoDaddy": 1158,
         "BigScoots": 564,
         "Liquid Web": 512,
         "WordPress.com": 365,
