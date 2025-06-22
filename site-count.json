@@ -1,6 +1,11 @@
 {
-    "siteCount": 76409,
+    "siteCount": 76411,
     "recentlyMoved": [
+        {
+            "domain_name": "mrracefuel.com",
+            "destination": "Pressable",
+            "date": "2025-06-22 10:18:46"
+        },
         {
             "domain_name": "www.plpinfo.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "mcrally.ca",
             "destination": "Pressable",
             "date": "2025-06-20 17:42:14"
-        },
-        {
-            "domain_name": "www.ultimateremoval.com",
-            "destination": "Pressable",
-            "date": "2025-06-20 17:32:52"
         }
     ],
     "dailyMovedStat": {
@@ -779,7 +779,7 @@
         "2025-06-21": "76367"
     },
     "topDestinationHosts": {
-        "Pressable": 10020,
+        "Pressable": 10022,
         "Kinsta": 5004,
         "Digital Ocean": 4347,
         "SiteGround": 4190,
