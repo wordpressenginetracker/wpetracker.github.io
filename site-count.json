@@ -1,10 +1,25 @@
 {
-    "siteCount": 76487,
+    "siteCount": 76497,
     "recentlyMoved": [
+        {
+            "domain_name": "sandelinlaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-23 01:04:49"
+        },
+        {
+            "domain_name": "cleyharnser.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-06-23 00:51:33"
+        },
         {
             "domain_name": "www.costaffservices.com",
             "destination": "SiteGround",
             "date": "2025-06-23 00:33:25"
+        },
+        {
+            "domain_name": "scottlegalgrp.com",
+            "destination": "Pressable",
+            "date": "2025-06-23 00:29:42"
         },
         {
             "domain_name": "greenvillepentecostal.org",
@@ -482,24 +497,9 @@
             "date": "2025-06-20 20:52:36"
         },
         {
-            "domain_name": "bhavanis.in",
-            "destination": "Hostinger",
-            "date": "2025-06-20 20:37:21"
-        },
-        {
-            "domain_name": "sandowconveyancing.com.au",
-            "destination": "SiteGround",
-            "date": "2025-06-20 20:27:26"
-        },
-        {
             "domain_name": "ca.redspins.com",
             "destination": "Kinsta",
             "date": "2025-06-20 20:25:36"
-        },
-        {
-            "domain_name": "azomitefeed.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-20 20:15:43"
         }
     ],
     "dailyMovedStat": {
@@ -780,10 +780,10 @@
         "2025-06-22": "76475"
     },
     "topDestinationHosts": {
-        "Pressable": 10024,
+        "Pressable": 10026,
         "Kinsta": 5004,
         "Digital Ocean": 4348,
-        "SiteGround": 4195,
+        "SiteGround": 4196,
         "Bluehost": 4006,
         "Hostinger": 2854,
         "GoDaddy": 1158,
