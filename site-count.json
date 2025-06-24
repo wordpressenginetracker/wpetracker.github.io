@@ -1,6 +1,36 @@
 {
-    "siteCount": 76760,
+    "siteCount": 76805,
     "recentlyMoved": [
+        {
+            "domain_name": "batesits.com",
+            "destination": "Bluehost",
+            "date": "2025-06-24 20:32:03"
+        },
+        {
+            "domain_name": "asulmonte.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 20:10:45"
+        },
+        {
+            "domain_name": "orientsd.org",
+            "destination": "Pressable",
+            "date": "2025-06-24 20:04:22"
+        },
+        {
+            "domain_name": "petramayerconsulting.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 19:55:50"
+        },
+        {
+            "domain_name": "arq-espacio.com.mx",
+            "destination": "Hostinger",
+            "date": "2025-06-24 19:52:21"
+        },
+        {
+            "domain_name": "pcoutlet.com",
+            "destination": "BigScoots",
+            "date": "2025-06-24 19:30:47"
+        },
         {
             "domain_name": "unitedwayhorry.org",
             "destination": "Pressable",
@@ -467,39 +497,9 @@
             "date": "2025-06-22 23:53:44"
         },
         {
-            "domain_name": "1percentlistssuncoast.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-22 23:34:41"
-        },
-        {
             "domain_name": "wabts.net",
             "destination": "Pressable",
             "date": "2025-06-22 23:26:09"
-        },
-        {
-            "domain_name": "trentsbuys.com",
-            "destination": "Namecheap",
-            "date": "2025-06-22 21:54:24"
-        },
-        {
-            "domain_name": "dunmanelectric.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-22 21:45:07"
-        },
-        {
-            "domain_name": "sixdegreesto.com",
-            "destination": "SiteGround",
-            "date": "2025-06-22 17:17:32"
-        },
-        {
-            "domain_name": "www.peineridgechurch.org",
-            "destination": "SiteGround",
-            "date": "2025-06-22 16:48:22"
-        },
-        {
-            "domain_name": "www.grantvantage.com",
-            "destination": "SiteGround",
-            "date": "2025-06-22 16:30:19"
         }
     ],
     "dailyMovedStat": {
@@ -781,15 +781,15 @@
         "2025-06-23": "76607"
     },
     "topDestinationHosts": {
-        "Pressable": 10041,
+        "Pressable": 10044,
         "Kinsta": 5012,
-        "Digital Ocean": 4355,
-        "SiteGround": 4209,
+        "Digital Ocean": 4356,
+        "SiteGround": 4210,
         "Bluehost": 4009,
-        "Hostinger": 2865,
+        "Hostinger": 2866,
         "GoDaddy": 1160,
-        "BigScoots": 570,
-        "Liquid Web": 512,
+        "BigScoots": 571,
+        "Liquid Web": 513,
         "WordPress.com": 367,
         "GridPane": 337,
         "InMotion Hosting": 324,
