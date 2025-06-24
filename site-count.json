@@ -1,15 +1,45 @@
 {
-    "siteCount": 76734,
+    "siteCount": 76747,
     "recentlyMoved": [
+        {
+            "domain_name": "www.impmedical.com",
+            "destination": "Kinsta",
+            "date": "2025-06-24 17:00:01"
+        },
+        {
+            "domain_name": "just-thauna.com",
+            "destination": "BigScoots",
+            "date": "2025-06-24 16:47:26"
+        },
+        {
+            "domain_name": "www.drthomaskinney.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 16:42:01"
+        },
+        {
+            "domain_name": "bellanothemeshop.com",
+            "destination": "BigScoots",
+            "date": "2025-06-24 16:37:34"
+        },
         {
             "domain_name": "arborhomeloan.com",
             "destination": "GoDaddy",
             "date": "2025-06-24 16:31:59"
         },
         {
+            "domain_name": "sargentroofs.com",
+            "destination": "SiteGround",
+            "date": "2025-06-24 16:19:54"
+        },
+        {
             "domain_name": "happyasthesmiths.com",
             "destination": "BigScoots",
             "date": "2025-06-24 16:09:32"
+        },
+        {
+            "domain_name": "responderlife.org",
+            "destination": "BigScoots",
+            "date": "2025-06-24 16:04:54"
         },
         {
             "domain_name": "www.calamansicovevillas.com",
@@ -470,36 +500,6 @@
             "domain_name": "mrracefuel.com",
             "destination": "Pressable",
             "date": "2025-06-22 10:18:46"
-        },
-        {
-            "domain_name": "www.plpinfo.org",
-            "destination": "Pressable",
-            "date": "2025-06-22 09:38:06"
-        },
-        {
-            "domain_name": "www.mygolfnus.com",
-            "destination": "Pressable",
-            "date": "2025-06-22 09:19:28"
-        },
-        {
-            "domain_name": "casrpaudit.com",
-            "destination": "Hostinger",
-            "date": "2025-06-22 09:02:21"
-        },
-        {
-            "domain_name": "accuratelitho.com",
-            "destination": "Pressable",
-            "date": "2025-06-22 07:59:58"
-        },
-        {
-            "domain_name": "prestigewaymi.com",
-            "destination": "Hostinger",
-            "date": "2025-06-22 03:44:37"
-        },
-        {
-            "domain_name": "saisuseeaquafarm.com",
-            "destination": "Hostinger",
-            "date": "2025-06-22 03:37:58"
         }
     ],
     "dailyMovedStat": {
@@ -781,14 +781,14 @@
         "2025-06-23": "76607"
     },
     "topDestinationHosts": {
-        "Pressable": 10038,
-        "Kinsta": 5011,
+        "Pressable": 10039,
+        "Kinsta": 5012,
         "Digital Ocean": 4354,
-        "SiteGround": 4208,
+        "SiteGround": 4209,
         "Bluehost": 4009,
         "Hostinger": 2863,
         "GoDaddy": 1160,
-        "BigScoots": 566,
+        "BigScoots": 569,
         "Liquid Web": 512,
         "WordPress.com": 367,
         "GridPane": 337,
