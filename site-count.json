@@ -1,10 +1,25 @@
 {
-    "siteCount": 76805,
+    "siteCount": 76814,
     "recentlyMoved": [
+        {
+            "domain_name": "computercity.com",
+            "destination": "BigScoots",
+            "date": "2025-06-24 21:48:25"
+        },
+        {
+            "domain_name": "langleymustangs.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 21:17:24"
+        },
         {
             "domain_name": "batesits.com",
             "destination": "Bluehost",
             "date": "2025-06-24 20:32:03"
+        },
+        {
+            "domain_name": "rlers.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-24 20:27:00"
         },
         {
             "domain_name": "asulmonte.com",
@@ -482,24 +497,9 @@
             "date": "2025-06-23 00:51:33"
         },
         {
-            "domain_name": "www.costaffservices.com",
-            "destination": "SiteGround",
-            "date": "2025-06-23 00:33:25"
-        },
-        {
             "domain_name": "scottlegalgrp.com",
             "destination": "Pressable",
             "date": "2025-06-23 00:29:42"
-        },
-        {
-            "domain_name": "greenvillepentecostal.org",
-            "destination": "Hostinger",
-            "date": "2025-06-22 23:53:44"
-        },
-        {
-            "domain_name": "wabts.net",
-            "destination": "Pressable",
-            "date": "2025-06-22 23:26:09"
         }
     ],
     "dailyMovedStat": {
@@ -781,13 +781,13 @@
         "2025-06-23": "76607"
     },
     "topDestinationHosts": {
-        "Pressable": 10044,
+        "Pressable": 10045,
         "Kinsta": 5012,
         "Digital Ocean": 4356,
         "SiteGround": 4210,
-        "Bluehost": 4009,
+        "Bluehost": 4010,
         "Hostinger": 2866,
-        "GoDaddy": 1160,
+        "GoDaddy": 1161,
         "BigScoots": 571,
         "Liquid Web": 513,
         "WordPress.com": 367,
