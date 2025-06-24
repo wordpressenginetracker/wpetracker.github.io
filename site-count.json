@@ -1,6 +1,11 @@
 {
-    "siteCount": 76624,
+    "siteCount": 76632,
     "recentlyMoved": [
+        {
+            "domain_name": "www.coachramnayyar.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 04:13:23"
+        },
         {
             "domain_name": "christianlifepress.com",
             "destination": "SiteGround",
@@ -477,11 +482,6 @@
             "date": "2025-06-21 12:36:02"
         },
         {
-            "domain_name": "qxglobalgroup.com",
-            "destination": "Pressable",
-            "date": "2025-06-21 12:35:42"
-        },
-        {
             "domain_name": "www.jbscelebrationpark.org",
             "destination": "Pressable",
             "date": "2025-06-21 12:21:50"
@@ -781,7 +781,7 @@
         "2025-06-23": "76607"
     },
     "topDestinationHosts": {
-        "Pressable": 10027,
+        "Pressable": 10028,
         "Kinsta": 5007,
         "Digital Ocean": 4348,
         "SiteGround": 4203,
