@@ -1,6 +1,26 @@
 {
-    "siteCount": 76657,
+    "siteCount": 76662,
     "recentlyMoved": [
+        {
+            "domain_name": "kanhaul.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-24 08:51:54"
+        },
+        {
+            "domain_name": "www.naag.org",
+            "destination": "Kinsta",
+            "date": "2025-06-24 08:48:21"
+        },
+        {
+            "domain_name": "iyarkaioil.com",
+            "destination": "Hostinger",
+            "date": "2025-06-24 08:47:36"
+        },
+        {
+            "domain_name": "bgncity.com",
+            "destination": "Hostinger",
+            "date": "2025-06-24 08:22:16"
+        },
         {
             "domain_name": "parolaanalytics.com",
             "destination": "Digital Ocean",
@@ -462,11 +482,6 @@
             "date": "2025-06-21 16:16:50"
         },
         {
-            "domain_name": "www.amazonteam.org",
-            "destination": "Kinsta",
-            "date": "2025-06-21 16:08:22"
-        },
-        {
             "domain_name": "gunatherapy.com",
             "destination": "Hostinger",
             "date": "2025-06-21 16:00:38"
@@ -477,29 +492,14 @@
             "date": "2025-06-21 16:00:25"
         },
         {
-            "domain_name": "fwnmedical.com",
-            "destination": "SiteGround",
-            "date": "2025-06-21 15:58:03"
-        },
-        {
             "domain_name": "www.dftomasini.com",
             "destination": "Pressable",
             "date": "2025-06-21 15:55:22"
         },
         {
-            "domain_name": "write2sarah.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-21 15:52:46"
-        },
-        {
             "domain_name": "www.onlinetherapy.com",
             "destination": "Pressable",
             "date": "2025-06-21 15:43:40"
-        },
-        {
-            "domain_name": "longmontoralsurgery.com",
-            "destination": "Pressable",
-            "date": "2025-06-21 13:58:01"
         }
     ],
     "dailyMovedStat": {
@@ -782,11 +782,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10028,
-        "Kinsta": 5009,
-        "Digital Ocean": 4350,
+        "Kinsta": 5010,
+        "Digital Ocean": 4351,
         "SiteGround": 4204,
         "Bluehost": 4007,
-        "Hostinger": 2858,
+        "Hostinger": 2860,
         "GoDaddy": 1158,
         "BigScoots": 565,
         "Liquid Web": 512,
