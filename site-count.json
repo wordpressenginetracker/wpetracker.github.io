@@ -1,10 +1,45 @@
 {
-    "siteCount": 76814,
+    "siteCount": 76828,
     "recentlyMoved": [
+        {
+            "domain_name": "trialmgt.com",
+            "destination": "Pressable",
+            "date": "2025-06-24 22:17:33"
+        },
+        {
+            "domain_name": "millennialshow.com",
+            "destination": "Namecheap",
+            "date": "2025-06-24 22:15:54"
+        },
+        {
+            "domain_name": "digitaldeputyact.org",
+            "destination": "Pressable",
+            "date": "2025-06-24 22:03:24"
+        },
+        {
+            "domain_name": "thistx.net",
+            "destination": "Namecheap",
+            "date": "2025-06-24 21:57:01"
+        },
+        {
+            "domain_name": "thelandscapeconsultants.ca",
+            "destination": "Pressable",
+            "date": "2025-06-24 21:50:39"
+        },
         {
             "domain_name": "computercity.com",
             "destination": "BigScoots",
             "date": "2025-06-24 21:48:25"
+        },
+        {
+            "domain_name": "dakotadonsartisanwaffles.com",
+            "destination": "Hostinger",
+            "date": "2025-06-24 21:34:29"
+        },
+        {
+            "domain_name": "daviesandco.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-24 21:24:26"
         },
         {
             "domain_name": "langleymustangs.com",
@@ -465,41 +500,6 @@
             "domain_name": "azneurocenter.com",
             "destination": "GridPane",
             "date": "2025-06-23 04:03:34"
-        },
-        {
-            "domain_name": "freakydetail.ca",
-            "destination": "GridPane",
-            "date": "2025-06-23 03:38:37"
-        },
-        {
-            "domain_name": "anyplaceautorepair.com",
-            "destination": "GridPane",
-            "date": "2025-06-23 03:36:52"
-        },
-        {
-            "domain_name": "minerva.oh.us",
-            "destination": "Kinsta",
-            "date": "2025-06-23 01:54:00"
-        },
-        {
-            "domain_name": "thriveoutdoors.org.uk",
-            "destination": "SiteGround",
-            "date": "2025-06-23 01:46:11"
-        },
-        {
-            "domain_name": "sandelinlaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-23 01:04:49"
-        },
-        {
-            "domain_name": "cleyharnser.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-06-23 00:51:33"
-        },
-        {
-            "domain_name": "scottlegalgrp.com",
-            "destination": "Pressable",
-            "date": "2025-06-23 00:29:42"
         }
     ],
     "dailyMovedStat": {
@@ -781,14 +781,14 @@
         "2025-06-23": "76607"
     },
     "topDestinationHosts": {
-        "Pressable": 10045,
+        "Pressable": 10048,
         "Kinsta": 5012,
         "Digital Ocean": 4356,
-        "SiteGround": 4210,
+        "SiteGround": 4211,
         "Bluehost": 4010,
-        "Hostinger": 2866,
+        "Hostinger": 2867,
         "GoDaddy": 1161,
-        "BigScoots": 571,
+        "BigScoots": 572,
         "Liquid Web": 513,
         "WordPress.com": 367,
         "GridPane": 337,
@@ -798,7 +798,7 @@
         "Elementor Hosting": 295,
         "IONOS": 283,
         "DreamHost": 277,
-        "Namecheap": 265,
+        "Namecheap": 267,
         "Hetzner Online": 215,
         "Wordify": 184
     },
