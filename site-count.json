@@ -1,6 +1,21 @@
 {
-    "siteCount": 76871,
+    "siteCount": 76884,
     "recentlyMoved": [
+        {
+            "domain_name": "www.patienteducationconcepts.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 08:57:13"
+        },
+        {
+            "domain_name": "www.mahopaceye.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 08:33:21"
+        },
+        {
+            "domain_name": "www.djeconstruction.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-06-25 08:14:51"
+        },
         {
             "domain_name": "woodlandspower.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "myeinc.com",
             "destination": "DreamHost",
             "date": "2025-06-23 21:42:33"
-        },
-        {
-            "domain_name": "club609.com",
-            "destination": "SiteGround",
-            "date": "2025-06-23 21:26:37"
-        },
-        {
-            "domain_name": "nmdivorcelawyers.com",
-            "destination": "SiteGround",
-            "date": "2025-06-23 18:23:56"
-        },
-        {
-            "domain_name": "mspowermail.com",
-            "destination": "SiteGround",
-            "date": "2025-06-23 18:11:52"
         }
     ],
     "dailyMovedStat": {
@@ -783,8 +783,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10049,
-        "Kinsta": 5013,
-        "Digital Ocean": 4359,
+        "Kinsta": 5015,
+        "Digital Ocean": 4360,
         "SiteGround": 4214,
         "Bluehost": 4010,
         "Hostinger": 2871,
