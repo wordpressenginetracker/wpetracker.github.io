@@ -1,6 +1,11 @@
 {
-    "siteCount": 76858,
+    "siteCount": 76861,
     "recentlyMoved": [
+        {
+            "domain_name": "tmrresidency.com",
+            "destination": "Hostinger",
+            "date": "2025-06-25 06:20:27"
+        },
         {
             "domain_name": "jpweighingmachines.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "metrowestschool.com",
             "destination": "DreamHost",
             "date": "2025-06-23 17:27:29"
-        },
-        {
-            "domain_name": "srtoils.in",
-            "destination": "Hostinger",
-            "date": "2025-06-23 16:54:55"
         }
     ],
     "dailyMovedStat": {
@@ -787,7 +787,7 @@
         "Digital Ocean": 4359,
         "SiteGround": 4213,
         "Bluehost": 4010,
-        "Hostinger": 2870,
+        "Hostinger": 2871,
         "GoDaddy": 1161,
         "BigScoots": 572,
         "Liquid Web": 513,
