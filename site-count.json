@@ -1,6 +1,16 @@
 {
-    "siteCount": 76861,
+    "siteCount": 76871,
     "recentlyMoved": [
+        {
+            "domain_name": "woodlandspower.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 07:41:56"
+        },
+        {
+            "domain_name": "www.lansingattorney.com",
+            "destination": "SiteGround",
+            "date": "2025-06-25 07:39:00"
+        },
         {
             "domain_name": "tmrresidency.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "mspowermail.com",
             "destination": "SiteGround",
             "date": "2025-06-23 18:11:52"
-        },
-        {
-            "domain_name": "www.toastmasters.org.nz",
-            "destination": "Kinsta",
-            "date": "2025-06-23 17:50:03"
-        },
-        {
-            "domain_name": "metrowestschool.com",
-            "destination": "DreamHost",
-            "date": "2025-06-23 17:27:29"
         }
     ],
     "dailyMovedStat": {
@@ -783,9 +783,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10049,
-        "Kinsta": 5012,
+        "Kinsta": 5013,
         "Digital Ocean": 4359,
-        "SiteGround": 4213,
+        "SiteGround": 4214,
         "Bluehost": 4010,
         "Hostinger": 2871,
         "GoDaddy": 1161,
