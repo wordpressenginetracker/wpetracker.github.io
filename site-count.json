@@ -1,5 +1,5 @@
 {
-    "siteCount": 77076,
+    "siteCount": 77082,
     "recentlyMoved": [
         {
             "domain_name": "kokosingcampground.com",
@@ -10,6 +10,16 @@
             "domain_name": "cleanfastusa.com",
             "destination": "GridPane",
             "date": "2025-06-25 21:33:31"
+        },
+        {
+            "domain_name": "suttonsinc.com",
+            "destination": "Pressable",
+            "date": "2025-06-25 21:32:26"
+        },
+        {
+            "domain_name": "suegspeaks.com",
+            "destination": "Pressable",
+            "date": "2025-06-25 21:18:45"
         },
         {
             "domain_name": "christineglebov.com",
@@ -490,16 +500,6 @@
             "domain_name": "rlers.com",
             "destination": "GoDaddy",
             "date": "2025-06-24 20:27:00"
-        },
-        {
-            "domain_name": "asulmonte.com",
-            "destination": "Pressable",
-            "date": "2025-06-24 20:10:45"
-        },
-        {
-            "domain_name": "arq-espacio.com.mx",
-            "destination": "Hostinger",
-            "date": "2025-06-24 19:52:21"
         }
     ],
     "dailyMovedStat": {
@@ -782,8 +782,8 @@
         "2025-06-24": "76828"
     },
     "topDestinationHosts": {
-        "Pressable": 10070,
-        "Kinsta": 5031,
+        "Pressable": 10072,
+        "Kinsta": 5032,
         "Digital Ocean": 4367,
         "SiteGround": 4222,
         "Bluehost": 4013,
