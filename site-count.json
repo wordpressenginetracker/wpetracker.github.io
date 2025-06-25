@@ -1,6 +1,16 @@
 {
-    "siteCount": 76828,
+    "siteCount": 76838,
     "recentlyMoved": [
+        {
+            "domain_name": "whyfire.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-24 23:57:28"
+        },
+        {
+            "domain_name": "galleriaofsmiles.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-24 23:27:05"
+        },
         {
             "domain_name": "trialmgt.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.mainsailpest.com",
             "destination": "Hostinger",
             "date": "2025-06-23 05:04:53"
-        },
-        {
-            "domain_name": "bnbbarrels.ca",
-            "destination": "GridPane",
-            "date": "2025-06-23 04:15:03"
-        },
-        {
-            "domain_name": "azneurocenter.com",
-            "destination": "GridPane",
-            "date": "2025-06-23 04:03:34"
         }
     ],
     "dailyMovedStat": {
@@ -784,7 +784,7 @@
     "topDestinationHosts": {
         "Pressable": 10048,
         "Kinsta": 5012,
-        "Digital Ocean": 4356,
+        "Digital Ocean": 4358,
         "SiteGround": 4211,
         "Bluehost": 4010,
         "Hostinger": 2867,
