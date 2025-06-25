@@ -1,10 +1,30 @@
 {
-    "siteCount": 76973,
+    "siteCount": 76986,
     "recentlyMoved": [
+        {
+            "domain_name": "secure.turennepharmedco.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 16:57:52"
+        },
+        {
+            "domain_name": "www.microseismic.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 16:36:20"
+        },
+        {
+            "domain_name": "www.mogelrpo.com",
+            "destination": "Kinsta",
+            "date": "2025-06-25 16:34:06"
+        },
         {
             "domain_name": "www.communitypartnerships.org",
             "destination": "Pressable",
             "date": "2025-06-25 16:26:23"
+        },
+        {
+            "domain_name": "itsabreezetravel.com",
+            "destination": "HostGator",
+            "date": "2025-06-25 16:16:28"
         },
         {
             "domain_name": "www.laurarobbinslaw.com",
@@ -480,26 +500,6 @@
             "domain_name": "fortpizza.com",
             "destination": "Pressable",
             "date": "2025-06-24 15:23:21"
-        },
-        {
-            "domain_name": "upnorthbarmadison.com",
-            "destination": "Pressable",
-            "date": "2025-06-24 14:38:33"
-        },
-        {
-            "domain_name": "elitedentaldmv.com",
-            "destination": "Bluehost",
-            "date": "2025-06-24 14:14:27"
-        },
-        {
-            "domain_name": "alphabetstation.ca",
-            "destination": "Hostinger",
-            "date": "2025-06-24 14:11:09"
-        },
-        {
-            "domain_name": "thelightdigital.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-06-24 13:18:21"
         }
     ],
     "dailyMovedStat": {
@@ -783,7 +783,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10064,
-        "Kinsta": 5022,
+        "Kinsta": 5025,
         "Digital Ocean": 4365,
         "SiteGround": 4220,
         "Bluehost": 4011,
