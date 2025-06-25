@@ -1,6 +1,16 @@
 {
-    "siteCount": 76851,
+    "siteCount": 76855,
     "recentlyMoved": [
+        {
+            "domain_name": "fitcreamery.com",
+            "destination": "Pressable",
+            "date": "2025-06-25 03:28:10"
+        },
+        {
+            "domain_name": "activespinecentre.com.au",
+            "destination": "SiteGround",
+            "date": "2025-06-25 03:13:20"
+        },
         {
             "domain_name": "www.monefi.co.uk",
             "destination": "Namecheap",
@@ -490,16 +500,6 @@
             "domain_name": "theunderlyinganswers.com",
             "destination": "DreamHost",
             "date": "2025-06-23 13:32:49"
-        },
-        {
-            "domain_name": "resources.aihr.com",
-            "destination": "Kinsta",
-            "date": "2025-06-23 12:42:21"
-        },
-        {
-            "domain_name": "josephegelcsw.com",
-            "destination": "Bluehost",
-            "date": "2025-06-23 12:23:08"
         }
     ],
     "dailyMovedStat": {
@@ -782,10 +782,10 @@
         "2025-06-24": "76828"
     },
     "topDestinationHosts": {
-        "Pressable": 10048,
+        "Pressable": 10049,
         "Kinsta": 5012,
         "Digital Ocean": 4358,
-        "SiteGround": 4212,
+        "SiteGround": 4213,
         "Bluehost": 4010,
         "Hostinger": 2869,
         "GoDaddy": 1161,
