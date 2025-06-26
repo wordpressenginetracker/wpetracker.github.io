@@ -1,6 +1,16 @@
 {
-    "siteCount": 77124,
+    "siteCount": 77134,
     "recentlyMoved": [
+        {
+            "domain_name": "premierrisk.com",
+            "destination": "SiteGround",
+            "date": "2025-06-26 08:29:47"
+        },
+        {
+            "domain_name": "grandsabarees.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-26 07:36:55"
+        },
         {
             "domain_name": "npvisits.com",
             "destination": "Kinsta",
@@ -482,11 +492,6 @@
             "date": "2025-06-25 03:13:20"
         },
         {
-            "domain_name": "www.monefi.co.uk",
-            "destination": "Namecheap",
-            "date": "2025-06-25 01:24:58"
-        },
-        {
             "domain_name": "kumarsceramics.com",
             "destination": "Hostinger",
             "date": "2025-06-25 01:21:43"
@@ -495,11 +500,6 @@
             "domain_name": "springfieldlakestowtrucks.com.au",
             "destination": "SiteGround",
             "date": "2025-06-25 00:57:17"
-        },
-        {
-            "domain_name": "bluemodernhospital.com",
-            "destination": "Hostinger",
-            "date": "2025-06-25 00:52:53"
         }
     ],
     "dailyMovedStat": {
@@ -785,8 +785,8 @@
     "topDestinationHosts": {
         "Pressable": 10074,
         "Kinsta": 5034,
-        "Digital Ocean": 4368,
-        "SiteGround": 4224,
+        "Digital Ocean": 4369,
+        "SiteGround": 4225,
         "Bluehost": 4013,
         "Hostinger": 2877,
         "GoDaddy": 1168,
@@ -796,7 +796,7 @@
         "GridPane": 338,
         "InMotion Hosting": 324,
         "A2 Hosting": 319,
-        "OVH": 310,
+        "OVH": 311,
         "Elementor Hosting": 295,
         "IONOS": 284,
         "DreamHost": 277,
