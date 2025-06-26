@@ -1,6 +1,36 @@
 {
-    "siteCount": 77289,
+    "siteCount": 77341,
     "recentlyMoved": [
+        {
+            "domain_name": "ashleybates.com",
+            "destination": "Bluehost",
+            "date": "2025-06-26 20:27:56"
+        },
+        {
+            "domain_name": "grandwineandspirits.com",
+            "destination": "Kinsta",
+            "date": "2025-06-26 20:14:17"
+        },
+        {
+            "domain_name": "westernverify.com",
+            "destination": "Digital Ocean",
+            "date": "2025-06-26 20:05:56"
+        },
+        {
+            "domain_name": "onlinelabels.com.au",
+            "destination": "Kinsta",
+            "date": "2025-06-26 20:04:17"
+        },
+        {
+            "domain_name": "www.croweshanahan.com",
+            "destination": "SiteGround",
+            "date": "2025-06-26 19:52:15"
+        },
+        {
+            "domain_name": "parentslearntosee.org",
+            "destination": "SiteGround",
+            "date": "2025-06-26 19:51:41"
+        },
         {
             "domain_name": "trgunited.com",
             "destination": "Kinsta",
@@ -462,11 +492,6 @@
             "date": "2025-06-25 19:18:47"
         },
         {
-            "domain_name": "turennepharmedco.com",
-            "destination": "Kinsta",
-            "date": "2025-06-25 18:36:45"
-        },
-        {
             "domain_name": "familyfuncedarhottubs.com",
             "destination": "Pressable",
             "date": "2025-06-25 18:06:04"
@@ -475,31 +500,6 @@
             "domain_name": "utrf.tennessee.edu",
             "destination": "Kinsta",
             "date": "2025-06-25 18:06:01"
-        },
-        {
-            "domain_name": "dermcentercc.com",
-            "destination": "Kinsta",
-            "date": "2025-06-25 17:53:26"
-        },
-        {
-            "domain_name": "masteryjj.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-25 17:51:47"
-        },
-        {
-            "domain_name": "tnboxbeams.com",
-            "destination": "Kinsta",
-            "date": "2025-06-25 17:48:19"
-        },
-        {
-            "domain_name": "thrive4success.com",
-            "destination": "Pressable",
-            "date": "2025-06-25 17:37:37"
-        },
-        {
-            "domain_name": "www.telehealth.com",
-            "destination": "Pressable",
-            "date": "2025-06-25 17:34:19"
         }
     ],
     "dailyMovedStat": {
@@ -784,11 +784,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10098,
-        "Kinsta": 5047,
-        "Digital Ocean": 4374,
-        "SiteGround": 4232,
-        "Bluehost": 4014,
-        "Hostinger": 2879,
+        "Kinsta": 5049,
+        "Digital Ocean": 4375,
+        "SiteGround": 4234,
+        "Bluehost": 4015,
+        "Hostinger": 2880,
         "GoDaddy": 1170,
         "BigScoots": 575,
         "Liquid Web": 514,
@@ -798,7 +798,7 @@
         "A2 Hosting": 319,
         "OVH": 312,
         "Elementor Hosting": 295,
-        "IONOS": 285,
+        "IONOS": 286,
         "DreamHost": 277,
         "Namecheap": 269,
         "Hetzner Online": 217,
