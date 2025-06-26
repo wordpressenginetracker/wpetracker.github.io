@@ -1,6 +1,11 @@
 {
-    "siteCount": 77111,
+    "siteCount": 77119,
     "recentlyMoved": [
+        {
+            "domain_name": "bxstudio.ca",
+            "destination": "OVH",
+            "date": "2025-06-26 05:02:35"
+        },
         {
             "domain_name": "onestop-restoration.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "galleriaofsmiles.com",
             "destination": "Digital Ocean",
             "date": "2025-06-24 23:27:05"
-        },
-        {
-            "domain_name": "trialmgt.com",
-            "destination": "Pressable",
-            "date": "2025-06-24 22:17:33"
         }
     ],
     "dailyMovedStat": {
@@ -796,7 +796,7 @@
         "GridPane": 338,
         "InMotion Hosting": 324,
         "A2 Hosting": 319,
-        "OVH": 309,
+        "OVH": 310,
         "Elementor Hosting": 295,
         "IONOS": 284,
         "DreamHost": 277,
