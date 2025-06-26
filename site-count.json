@@ -1,6 +1,16 @@
 {
-    "siteCount": 77092,
+    "siteCount": 77098,
     "recentlyMoved": [
+        {
+            "domain_name": "www.livingcarehomeservices.com",
+            "destination": "Pressable",
+            "date": "2025-06-26 00:53:28"
+        },
+        {
+            "domain_name": "bluhound.com",
+            "destination": "SiteGround",
+            "date": "2025-06-26 00:39:56"
+        },
         {
             "domain_name": "www.bowlswa.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "thelandscapeconsultants.ca",
             "destination": "Pressable",
             "date": "2025-06-24 21:50:39"
-        },
-        {
-            "domain_name": "dakotadonsartisanwaffles.com",
-            "destination": "Hostinger",
-            "date": "2025-06-24 21:34:29"
-        },
-        {
-            "domain_name": "daviesandco.ca",
-            "destination": "SiteGround",
-            "date": "2025-06-24 21:24:26"
         }
     ],
     "dailyMovedStat": {
@@ -783,10 +783,10 @@
         "2025-06-25": "77083"
     },
     "topDestinationHosts": {
-        "Pressable": 10072,
+        "Pressable": 10073,
         "Kinsta": 5033,
         "Digital Ocean": 4367,
-        "SiteGround": 4223,
+        "SiteGround": 4224,
         "Bluehost": 4013,
         "Hostinger": 2877,
         "GoDaddy": 1167,
