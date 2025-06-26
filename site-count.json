@@ -1,6 +1,21 @@
 {
-    "siteCount": 77083,
+    "siteCount": 77092,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bowlswa.com.au",
+            "destination": "SiteGround",
+            "date": "2025-06-26 00:23:21"
+        },
+        {
+            "domain_name": "patriotkaraterocks.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-25 23:51:52"
+        },
+        {
+            "domain_name": "greaterclevelandlife.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-25 23:48:14"
+        },
         {
             "domain_name": "northpointemedical.com",
             "destination": "Hostinger",
@@ -477,11 +492,6 @@
             "date": "2025-06-24 21:50:39"
         },
         {
-            "domain_name": "computercity.com",
-            "destination": "BigScoots",
-            "date": "2025-06-24 21:48:25"
-        },
-        {
             "domain_name": "dakotadonsartisanwaffles.com",
             "destination": "Hostinger",
             "date": "2025-06-24 21:34:29"
@@ -490,16 +500,6 @@
             "domain_name": "daviesandco.ca",
             "destination": "SiteGround",
             "date": "2025-06-24 21:24:26"
-        },
-        {
-            "domain_name": "langleymustangs.com",
-            "destination": "Pressable",
-            "date": "2025-06-24 21:17:24"
-        },
-        {
-            "domain_name": "rlers.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-24 20:27:00"
         }
     ],
     "dailyMovedStat": {
@@ -784,15 +784,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 10072,
-        "Kinsta": 5032,
+        "Kinsta": 5033,
         "Digital Ocean": 4367,
-        "SiteGround": 4222,
+        "SiteGround": 4223,
         "Bluehost": 4013,
         "Hostinger": 2877,
-        "GoDaddy": 1166,
+        "GoDaddy": 1167,
         "BigScoots": 575,
         "Liquid Web": 513,
-        "WordPress.com": 367,
+        "WordPress.com": 368,
         "GridPane": 338,
         "InMotion Hosting": 324,
         "A2 Hosting": 319,
