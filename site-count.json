@@ -1,10 +1,25 @@
 {
-    "siteCount": 77341,
+    "siteCount": 77350,
     "recentlyMoved": [
+        {
+            "domain_name": "stokeslawoffice.com",
+            "destination": "Pressable",
+            "date": "2025-06-26 21:18:50"
+        },
+        {
+            "domain_name": "www.naughtypottyblog.com",
+            "destination": "Pressable",
+            "date": "2025-06-26 21:08:45"
+        },
         {
             "domain_name": "ashleybates.com",
             "destination": "Bluehost",
             "date": "2025-06-26 20:27:56"
+        },
+        {
+            "domain_name": "joseepasian.ca",
+            "destination": "SiteGround",
+            "date": "2025-06-26 20:23:11"
         },
         {
             "domain_name": "grandwineandspirits.com",
@@ -472,11 +487,6 @@
             "date": "2025-06-25 20:09:56"
         },
         {
-            "domain_name": "outreach-marketing.com",
-            "destination": "Kinsta",
-            "date": "2025-06-25 20:03:26"
-        },
-        {
             "domain_name": "getcheckbac.com",
             "destination": "Pressable",
             "date": "2025-06-25 19:48:13"
@@ -490,16 +500,6 @@
             "domain_name": "fredericktownparks.org",
             "destination": "Bluehost",
             "date": "2025-06-25 19:18:47"
-        },
-        {
-            "domain_name": "familyfuncedarhottubs.com",
-            "destination": "Pressable",
-            "date": "2025-06-25 18:06:04"
-        },
-        {
-            "domain_name": "utrf.tennessee.edu",
-            "destination": "Kinsta",
-            "date": "2025-06-25 18:06:01"
         }
     ],
     "dailyMovedStat": {
@@ -783,10 +783,10 @@
         "2025-06-25": "77083"
     },
     "topDestinationHosts": {
-        "Pressable": 10098,
+        "Pressable": 10099,
         "Kinsta": 5049,
         "Digital Ocean": 4375,
-        "SiteGround": 4234,
+        "SiteGround": 4235,
         "Bluehost": 4015,
         "Hostinger": 2880,
         "GoDaddy": 1170,
