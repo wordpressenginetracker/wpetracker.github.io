@@ -1,6 +1,11 @@
 {
-    "siteCount": 77366,
+    "siteCount": 77375,
     "recentlyMoved": [
+        {
+            "domain_name": "concealaustralia.com.au",
+            "destination": "Pressable",
+            "date": "2025-06-27 01:21:38"
+        },
         {
             "domain_name": "clinvest.com",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-06-25 21:18:37"
         },
         {
-            "domain_name": "capitolhillcares.com",
-            "destination": "Kinsta",
-            "date": "2025-06-25 21:18:34"
-        },
-        {
             "domain_name": "www.nancyfraser.com",
             "destination": "Pressable",
             "date": "2025-06-25 21:05:57"
@@ -784,7 +784,7 @@
         "2025-06-26": "77356"
     },
     "topDestinationHosts": {
-        "Pressable": 10103,
+        "Pressable": 10105,
         "Kinsta": 5051,
         "Digital Ocean": 4375,
         "SiteGround": 4236,
