@@ -1,6 +1,11 @@
 {
-    "siteCount": 77375,
+    "siteCount": 77385,
     "recentlyMoved": [
+        {
+            "domain_name": "acehighstampedekickoff.com",
+            "destination": "Pressable",
+            "date": "2025-06-27 03:35:36"
+        },
         {
             "domain_name": "concealaustralia.com.au",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-06-25 21:18:37"
         },
         {
-            "domain_name": "www.nancyfraser.com",
-            "destination": "Pressable",
-            "date": "2025-06-25 21:05:57"
-        },
-        {
             "domain_name": "cogence.org",
             "destination": "Kinsta",
             "date": "2025-06-25 21:05:35"
@@ -784,7 +784,7 @@
         "2025-06-26": "77356"
     },
     "topDestinationHosts": {
-        "Pressable": 10105,
+        "Pressable": 10106,
         "Kinsta": 5051,
         "Digital Ocean": 4375,
         "SiteGround": 4236,
