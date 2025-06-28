@@ -1,6 +1,11 @@
 {
-    "siteCount": 77666,
+    "siteCount": 77672,
     "recentlyMoved": [
+        {
+            "domain_name": "office.westmidlandshouse.com",
+            "destination": "Hostinger",
+            "date": "2025-06-28 07:32:16"
+        },
         {
             "domain_name": "nehemiahcapital.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "nygamblers.com",
             "destination": "GoDaddy",
             "date": "2025-06-27 06:52:19"
-        },
-        {
-            "domain_name": "mosportsbetting.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-27 06:26:48"
         }
     ],
     "dailyMovedStat": {
@@ -790,7 +790,7 @@
         "Digital Ocean": 4381,
         "SiteGround": 4242,
         "Bluehost": 4019,
-        "Hostinger": 2892,
+        "Hostinger": 2893,
         "GoDaddy": 1173,
         "BigScoots": 576,
         "Liquid Web": 521,
