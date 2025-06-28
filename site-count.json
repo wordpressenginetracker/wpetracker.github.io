@@ -1,6 +1,16 @@
 {
-    "siteCount": 77638,
+    "siteCount": 77641,
     "recentlyMoved": [
+        {
+            "domain_name": "ballandeanestate.com",
+            "destination": "Kinsta",
+            "date": "2025-06-28 00:28:45"
+        },
+        {
+            "domain_name": "1stclassairservice.com",
+            "destination": "DreamHost",
+            "date": "2025-06-27 23:13:24"
+        },
         {
             "domain_name": "tengocancer.com",
             "destination": "GoDaddy",
@@ -487,19 +497,9 @@
             "date": "2025-06-26 21:28:15"
         },
         {
-            "domain_name": "stokeslawoffice.com",
-            "destination": "Pressable",
-            "date": "2025-06-26 21:18:50"
-        },
-        {
             "domain_name": "theblueherons.com",
             "destination": "Kinsta",
             "date": "2025-06-26 21:16:39"
-        },
-        {
-            "domain_name": "www.naughtypottyblog.com",
-            "destination": "Pressable",
-            "date": "2025-06-26 21:08:45"
         }
     ],
     "dailyMovedStat": {
@@ -786,7 +786,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10140,
-        "Kinsta": 5062,
+        "Kinsta": 5063,
         "Digital Ocean": 4381,
         "SiteGround": 4242,
         "Bluehost": 4019,
@@ -801,7 +801,7 @@
         "OVH": 312,
         "Elementor Hosting": 296,
         "IONOS": 288,
-        "DreamHost": 279,
+        "DreamHost": 280,
         "Namecheap": 270,
         "Hetzner Online": 218,
         "Wordify": 184
