@@ -1,6 +1,16 @@
 {
-    "siteCount": 77835,
+    "siteCount": 77842,
     "recentlyMoved": [
+        {
+            "domain_name": "unearthlystudios.com",
+            "destination": "BigScoots",
+            "date": "2025-06-28 22:18:23"
+        },
+        {
+            "domain_name": "designlogisticsinc.com",
+            "destination": "Pressable",
+            "date": "2025-06-28 21:39:03"
+        },
         {
             "domain_name": "cloverkidsdentistry.com",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2025-06-27 17:46:47"
         },
         {
-            "domain_name": "mama.org",
-            "destination": "Liquid Web",
-            "date": "2025-06-27 17:43:01"
-        },
-        {
             "domain_name": "www.thornberrymarketing.com",
             "destination": "Pressable",
             "date": "2025-06-27 17:21:40"
@@ -490,11 +495,6 @@
             "domain_name": "master-distribution.com",
             "destination": "Hostinger",
             "date": "2025-06-27 17:20:46"
-        },
-        {
-            "domain_name": "crossfitsoco.com",
-            "destination": "A2 Hosting",
-            "date": "2025-06-27 17:20:28"
         },
         {
             "domain_name": "themesupport.com",
@@ -785,14 +785,14 @@
         "2025-06-27": "77638"
     },
     "topDestinationHosts": {
-        "Pressable": 10175,
+        "Pressable": 10176,
         "Kinsta": 5068,
         "Digital Ocean": 4381,
         "SiteGround": 4246,
         "Bluehost": 4019,
         "Hostinger": 2904,
         "GoDaddy": 1174,
-        "BigScoots": 577,
+        "BigScoots": 578,
         "Liquid Web": 522,
         "WordPress.com": 373,
         "GridPane": 340,
