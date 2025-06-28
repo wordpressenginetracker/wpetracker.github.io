@@ -1,6 +1,11 @@
 {
-    "siteCount": 77655,
+    "siteCount": 77662,
     "recentlyMoved": [
+        {
+            "domain_name": "cake-ness.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-28 04:24:24"
+        },
         {
             "domain_name": "beelitechiropractic.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "concealaustralia.com.au",
             "destination": "Pressable",
             "date": "2025-06-27 01:21:38"
-        },
-        {
-            "domain_name": "clinvest.com",
-            "destination": "Pressable",
-            "date": "2025-06-27 01:15:20"
         }
     ],
     "dailyMovedStat": {
@@ -794,8 +794,8 @@
         "GoDaddy": 1173,
         "BigScoots": 576,
         "Liquid Web": 521,
-        "WordPress.com": 368,
-        "GridPane": 339,
+        "WordPress.com": 369,
+        "GridPane": 340,
         "InMotion Hosting": 327,
         "A2 Hosting": 320,
         "OVH": 312,
