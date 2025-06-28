@@ -1,6 +1,51 @@
 {
-    "siteCount": 77692,
+    "siteCount": 77708,
     "recentlyMoved": [
+        {
+            "domain_name": "gregkilmartin.com",
+            "destination": "SiteGround",
+            "date": "2025-06-28 12:30:56"
+        },
+        {
+            "domain_name": "plsinfo.org",
+            "destination": "Pressable",
+            "date": "2025-06-28 12:25:17"
+        },
+        {
+            "domain_name": "playbookmarketing.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-28 12:25:17"
+        },
+        {
+            "domain_name": "haisleymachine.com",
+            "destination": "Pressable",
+            "date": "2025-06-28 12:19:58"
+        },
+        {
+            "domain_name": "www.brewcitysolutions.com",
+            "destination": "Pressable",
+            "date": "2025-06-28 12:16:33"
+        },
+        {
+            "domain_name": "www.dslegacylaw.com",
+            "destination": "Pressable",
+            "date": "2025-06-28 12:02:22"
+        },
+        {
+            "domain_name": "fosforosdeseguridad.com",
+            "destination": "Hostinger",
+            "date": "2025-06-28 11:52:47"
+        },
+        {
+            "domain_name": "gmacommunity.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-28 11:45:25"
+        },
+        {
+            "domain_name": "andimans.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-28 11:37:58"
+        },
         {
             "domain_name": "uvmarchitects.com",
             "destination": "Hostinger",
@@ -442,29 +487,9 @@
             "date": "2025-06-27 12:27:10"
         },
         {
-            "domain_name": "americanpromise.net",
-            "destination": "Kinsta",
-            "date": "2025-06-27 12:13:20"
-        },
-        {
-            "domain_name": "orsc.ca",
-            "destination": "Hostinger",
-            "date": "2025-06-27 12:09:06"
-        },
-        {
             "domain_name": "rpexecutivesuites.com",
             "destination": "DreamHost",
             "date": "2025-06-27 12:08:13"
-        },
-        {
-            "domain_name": "www.lawless-lawless.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-27 12:05:21"
-        },
-        {
-            "domain_name": "friendshipplaceinc.org",
-            "destination": "Pressable",
-            "date": "2025-06-27 11:57:47"
         },
         {
             "domain_name": "asgoodasnewrepair.com",
@@ -475,31 +500,6 @@
             "domain_name": "goingonfaith.com",
             "destination": "Kinsta",
             "date": "2025-06-27 11:41:57"
-        },
-        {
-            "domain_name": "www.gagemgmt.com",
-            "destination": "Hostinger",
-            "date": "2025-06-27 11:25:27"
-        },
-        {
-            "domain_name": "footandankleatlanta.com",
-            "destination": "Kinsta",
-            "date": "2025-06-27 11:19:11"
-        },
-        {
-            "domain_name": "1ohio.us",
-            "destination": "Kinsta",
-            "date": "2025-06-27 11:10:29"
-        },
-        {
-            "domain_name": "duersoncorporation.com",
-            "destination": "SiteGround",
-            "date": "2025-06-27 10:17:30"
-        },
-        {
-            "domain_name": "ccmselfstorage.co.uk",
-            "destination": "IONOS",
-            "date": "2025-06-27 09:20:49"
         }
     ],
     "dailyMovedStat": {
@@ -785,16 +785,16 @@
         "2025-06-27": "77638"
     },
     "topDestinationHosts": {
-        "Pressable": 10140,
+        "Pressable": 10143,
         "Kinsta": 5065,
         "Digital Ocean": 4381,
-        "SiteGround": 4242,
+        "SiteGround": 4243,
         "Bluehost": 4019,
-        "Hostinger": 2896,
-        "GoDaddy": 1173,
+        "Hostinger": 2897,
+        "GoDaddy": 1174,
         "BigScoots": 576,
         "Liquid Web": 521,
-        "WordPress.com": 369,
+        "WordPress.com": 371,
         "GridPane": 340,
         "InMotion Hosting": 327,
         "A2 Hosting": 322,
