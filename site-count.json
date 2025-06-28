@@ -1,6 +1,16 @@
 {
-    "siteCount": 77708,
+    "siteCount": 77717,
     "recentlyMoved": [
+        {
+            "domain_name": "www.m2dancecenter.com",
+            "destination": "Pressable",
+            "date": "2025-06-28 13:16:59"
+        },
+        {
+            "domain_name": "contactcolonial.com",
+            "destination": "WordPress.com",
+            "date": "2025-06-28 13:15:14"
+        },
         {
             "domain_name": "gregkilmartin.com",
             "destination": "SiteGround",
@@ -25,6 +35,11 @@
             "domain_name": "www.brewcitysolutions.com",
             "destination": "Pressable",
             "date": "2025-06-28 12:16:33"
+        },
+        {
+            "domain_name": "investinmyhealth.com",
+            "destination": "Kinsta",
+            "date": "2025-06-28 12:14:03"
         },
         {
             "domain_name": "www.dslegacylaw.com",
@@ -472,11 +487,6 @@
             "date": "2025-06-27 12:43:42"
         },
         {
-            "domain_name": "www.doxology.us",
-            "destination": "Pressable",
-            "date": "2025-06-27 12:43:38"
-        },
-        {
             "domain_name": "www.kchomeserve.com",
             "destination": "Pressable",
             "date": "2025-06-27 12:34:23"
@@ -490,16 +500,6 @@
             "domain_name": "rpexecutivesuites.com",
             "destination": "DreamHost",
             "date": "2025-06-27 12:08:13"
-        },
-        {
-            "domain_name": "asgoodasnewrepair.com",
-            "destination": "Pressable",
-            "date": "2025-06-27 11:46:45"
-        },
-        {
-            "domain_name": "goingonfaith.com",
-            "destination": "Kinsta",
-            "date": "2025-06-27 11:41:57"
         }
     ],
     "dailyMovedStat": {
@@ -785,8 +785,8 @@
         "2025-06-27": "77638"
     },
     "topDestinationHosts": {
-        "Pressable": 10143,
-        "Kinsta": 5065,
+        "Pressable": 10145,
+        "Kinsta": 5066,
         "Digital Ocean": 4381,
         "SiteGround": 4243,
         "Bluehost": 4019,
