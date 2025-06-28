@@ -1,6 +1,26 @@
 {
-    "siteCount": 77679,
+    "siteCount": 77692,
     "recentlyMoved": [
+        {
+            "domain_name": "uvmarchitects.com",
+            "destination": "Hostinger",
+            "date": "2025-06-28 10:23:00"
+        },
+        {
+            "domain_name": "eastpointdental.ca",
+            "destination": "Hostinger",
+            "date": "2025-06-28 10:16:38"
+        },
+        {
+            "domain_name": "uphillathlete.com",
+            "destination": "Kinsta",
+            "date": "2025-06-28 09:40:40"
+        },
+        {
+            "domain_name": "mccainfoundation.org",
+            "destination": "Hostinger",
+            "date": "2025-06-28 09:22:04"
+        },
         {
             "domain_name": "infiniteaesthetics.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "ccmselfstorage.co.uk",
             "destination": "IONOS",
             "date": "2025-06-27 09:20:49"
-        },
-        {
-            "domain_name": "www.eyesurgeonsdallas.com",
-            "destination": "Kinsta",
-            "date": "2025-06-27 08:52:18"
-        },
-        {
-            "domain_name": "www.hphamilton.com",
-            "destination": "Hostinger",
-            "date": "2025-06-27 08:42:33"
-        },
-        {
-            "domain_name": "shoplt360.com",
-            "destination": "Kinsta",
-            "date": "2025-06-27 08:30:49"
-        },
-        {
-            "domain_name": "bradbourneproperty.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-06-27 08:18:29"
         }
     ],
     "dailyMovedStat": {
@@ -786,11 +786,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10140,
-        "Kinsta": 5064,
+        "Kinsta": 5065,
         "Digital Ocean": 4381,
         "SiteGround": 4242,
         "Bluehost": 4019,
-        "Hostinger": 2893,
+        "Hostinger": 2896,
         "GoDaddy": 1173,
         "BigScoots": 576,
         "Liquid Web": 521,
