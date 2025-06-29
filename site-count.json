@@ -1,6 +1,11 @@
 {
-    "siteCount": 77883,
+    "siteCount": 77885,
     "recentlyMoved": [
+        {
+            "domain_name": "cbdsky.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-06-29 13:10:44"
+        },
         {
             "domain_name": "hillcitypopcorn.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-06-27 20:23:23"
         },
         {
-            "domain_name": "alpinecountymuseum.org",
-            "destination": "Bluehost",
-            "date": "2025-06-27 20:13:45"
-        },
-        {
             "domain_name": "aquarianalchemy.org",
             "destination": "Bluehost",
             "date": "2025-06-27 19:43:24"
@@ -787,7 +787,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10176,
-        "Kinsta": 5068,
+        "Kinsta": 5069,
         "Digital Ocean": 4384,
         "SiteGround": 4249,
         "Bluehost": 4021,
@@ -800,7 +800,7 @@
         "InMotion Hosting": 329,
         "A2 Hosting": 323,
         "OVH": 313,
-        "Elementor Hosting": 296,
+        "Elementor Hosting": 297,
         "IONOS": 288,
         "DreamHost": 281,
         "Namecheap": 270,
