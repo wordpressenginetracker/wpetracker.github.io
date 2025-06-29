@@ -1,10 +1,20 @@
 {
-    "siteCount": 77926,
+    "siteCount": 77930,
     "recentlyMoved": [
         {
             "domain_name": "backninegolfacademy.com",
             "destination": "Kinsta",
             "date": "2025-06-29 20:32:14"
+        },
+        {
+            "domain_name": "bubbasfireworks.com",
+            "destination": "A2 Hosting",
+            "date": "2025-06-29 20:27:59"
+        },
+        {
+            "domain_name": "huddle-agency.com",
+            "destination": "SiteGround",
+            "date": "2025-06-29 20:15:49"
         },
         {
             "domain_name": "funqi.be",
@@ -490,16 +500,6 @@
             "domain_name": "lakewood.advocatemag.com",
             "destination": "Liquid Web",
             "date": "2025-06-28 01:31:50"
-        },
-        {
-            "domain_name": "lakehighlands.advocatemag.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-28 01:31:50"
-        },
-        {
-            "domain_name": "bpreach.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 00:59:55"
         }
     ],
     "dailyMovedStat": {
@@ -789,7 +789,7 @@
         "Pressable": 10176,
         "Kinsta": 5075,
         "Digital Ocean": 4385,
-        "SiteGround": 4249,
+        "SiteGround": 4250,
         "Bluehost": 4023,
         "Hostinger": 2907,
         "GoDaddy": 1174,
@@ -798,7 +798,7 @@
         "WordPress.com": 373,
         "GridPane": 340,
         "InMotion Hosting": 329,
-        "A2 Hosting": 323,
+        "A2 Hosting": 324,
         "OVH": 313,
         "Elementor Hosting": 297,
         "IONOS": 288,
