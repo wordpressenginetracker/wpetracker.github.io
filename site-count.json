@@ -1,6 +1,16 @@
 {
-    "siteCount": 77910,
+    "siteCount": 77926,
     "recentlyMoved": [
+        {
+            "domain_name": "backninegolfacademy.com",
+            "destination": "Kinsta",
+            "date": "2025-06-29 20:32:14"
+        },
+        {
+            "domain_name": "funqi.be",
+            "destination": "Hostinger",
+            "date": "2025-06-29 20:11:36"
+        },
         {
             "domain_name": "misterduke.be",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "bpreach.com",
             "destination": "Hostinger",
             "date": "2025-06-28 00:59:55"
-        },
-        {
-            "domain_name": "ballandeanestate.com",
-            "destination": "Kinsta",
-            "date": "2025-06-28 00:28:45"
-        },
-        {
-            "domain_name": "1stclassairservice.com",
-            "destination": "DreamHost",
-            "date": "2025-06-27 23:13:24"
         }
     ],
     "dailyMovedStat": {
@@ -787,11 +787,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10176,
-        "Kinsta": 5074,
+        "Kinsta": 5075,
         "Digital Ocean": 4385,
         "SiteGround": 4249,
         "Bluehost": 4023,
-        "Hostinger": 2906,
+        "Hostinger": 2907,
         "GoDaddy": 1174,
         "BigScoots": 578,
         "Liquid Web": 522,
