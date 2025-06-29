@@ -1,6 +1,26 @@
 {
-    "siteCount": 77903,
+    "siteCount": 77910,
     "recentlyMoved": [
+        {
+            "domain_name": "misterduke.be",
+            "destination": "Hostinger",
+            "date": "2025-06-29 18:20:39"
+        },
+        {
+            "domain_name": "twinoaksrealtyinc.com",
+            "destination": "Kinsta",
+            "date": "2025-06-29 18:04:50"
+        },
+        {
+            "domain_name": "youreverydayheroes.com",
+            "destination": "Kinsta",
+            "date": "2025-06-29 17:26:36"
+        },
+        {
+            "domain_name": "design-freebies.com",
+            "destination": "Hostinger",
+            "date": "2025-06-29 17:17:33"
+        },
         {
             "domain_name": "stjohnsbeautysalon.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "1stclassairservice.com",
             "destination": "DreamHost",
             "date": "2025-06-27 23:13:24"
-        },
-        {
-            "domain_name": "tengocancer.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-27 21:46:54"
-        },
-        {
-            "domain_name": "www.renovateme.ca",
-            "destination": "Pressable",
-            "date": "2025-06-27 21:42:41"
-        },
-        {
-            "domain_name": "www.whonnockroofing.com",
-            "destination": "Pressable",
-            "date": "2025-06-27 21:42:15"
-        },
-        {
-            "domain_name": "sweethavensoap.com",
-            "destination": "BigScoots",
-            "date": "2025-06-27 20:54:48"
         }
     ],
     "dailyMovedStat": {
@@ -787,11 +787,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10176,
-        "Kinsta": 5072,
+        "Kinsta": 5074,
         "Digital Ocean": 4385,
         "SiteGround": 4249,
         "Bluehost": 4023,
-        "Hostinger": 2904,
+        "Hostinger": 2906,
         "GoDaddy": 1174,
         "BigScoots": 578,
         "Liquid Web": 522,
