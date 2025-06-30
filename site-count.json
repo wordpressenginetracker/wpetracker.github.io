@@ -1,6 +1,11 @@
 {
-    "siteCount": 77955,
+    "siteCount": 77960,
     "recentlyMoved": [
+        {
+            "domain_name": "kdtadvisors.com",
+            "destination": "Pressable",
+            "date": "2025-06-30 04:52:59"
+        },
         {
             "domain_name": "onlinebusiness.tv",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "uphillathlete.com",
             "destination": "Kinsta",
             "date": "2025-06-28 09:40:40"
-        },
-        {
-            "domain_name": "mccainfoundation.org",
-            "destination": "Hostinger",
-            "date": "2025-06-28 09:22:04"
         }
     ],
     "dailyMovedStat": {
@@ -787,7 +787,7 @@
         "2025-06-29": "77931"
     },
     "topDestinationHosts": {
-        "Pressable": 10176,
+        "Pressable": 10177,
         "Kinsta": 5077,
         "Digital Ocean": 4385,
         "SiteGround": 4253,
