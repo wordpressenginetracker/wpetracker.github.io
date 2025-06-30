@@ -1,6 +1,26 @@
 {
-    "siteCount": 77977,
+    "siteCount": 77984,
     "recentlyMoved": [
+        {
+            "domain_name": "usasphaltmaintenance.com",
+            "destination": "Hostinger",
+            "date": "2025-06-30 10:31:33"
+        },
+        {
+            "domain_name": "ministryboost.org",
+            "destination": "SiteGround",
+            "date": "2025-06-30 10:13:07"
+        },
+        {
+            "domain_name": "movingspirit.ca",
+            "destination": "Pressable",
+            "date": "2025-06-30 09:46:05"
+        },
+        {
+            "domain_name": "mandwmowing.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 09:42:05"
+        },
         {
             "domain_name": "ikedascents.com",
             "destination": "Hostinger",
@@ -462,21 +482,6 @@
             "date": "2025-06-28 13:15:14"
         },
         {
-            "domain_name": "gregkilmartin.com",
-            "destination": "SiteGround",
-            "date": "2025-06-28 12:30:56"
-        },
-        {
-            "domain_name": "plsinfo.org",
-            "destination": "Pressable",
-            "date": "2025-06-28 12:25:17"
-        },
-        {
-            "domain_name": "playbookmarketing.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-28 12:25:17"
-        },
-        {
             "domain_name": "haisleymachine.com",
             "destination": "Pressable",
             "date": "2025-06-28 12:19:58"
@@ -495,11 +500,6 @@
             "domain_name": "www.dslegacylaw.com",
             "destination": "Pressable",
             "date": "2025-06-28 12:02:22"
-        },
-        {
-            "domain_name": "andimans.com",
-            "destination": "GoDaddy",
-            "date": "2025-06-28 11:37:58"
         }
     ],
     "dailyMovedStat": {
@@ -787,12 +787,12 @@
         "2025-06-29": "77931"
     },
     "topDestinationHosts": {
-        "Pressable": 10177,
-        "Kinsta": 5078,
+        "Pressable": 10178,
+        "Kinsta": 5079,
         "Digital Ocean": 4385,
-        "SiteGround": 4254,
+        "SiteGround": 4255,
         "Bluehost": 4024,
-        "Hostinger": 2911,
+        "Hostinger": 2912,
         "GoDaddy": 1174,
         "BigScoots": 579,
         "Liquid Web": 522,
