@@ -1,6 +1,21 @@
 {
-    "siteCount": 77985,
+    "siteCount": 77990,
     "recentlyMoved": [
+        {
+            "domain_name": "readysetsunday.com",
+            "destination": "SiteGround",
+            "date": "2025-06-30 12:31:21"
+        },
+        {
+            "domain_name": "pca-nwa.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 11:45:48"
+        },
+        {
+            "domain_name": "go.livewellandfully.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 11:28:19"
+        },
         {
             "domain_name": "usasphaltmaintenance.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "contactcolonial.com",
             "destination": "WordPress.com",
             "date": "2025-06-28 13:15:14"
-        },
-        {
-            "domain_name": "haisleymachine.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 12:19:58"
-        },
-        {
-            "domain_name": "investinmyhealth.com",
-            "destination": "Kinsta",
-            "date": "2025-06-28 12:14:03"
-        },
-        {
-            "domain_name": "www.dslegacylaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 12:02:22"
         }
     ],
     "dailyMovedStat": {
@@ -788,7 +788,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10178,
-        "Kinsta": 5080,
+        "Kinsta": 5082,
         "Digital Ocean": 4385,
         "SiteGround": 4255,
         "Bluehost": 4024,
