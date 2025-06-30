@@ -1,6 +1,11 @@
 {
-    "siteCount": 77952,
+    "siteCount": 77955,
     "recentlyMoved": [
+        {
+            "domain_name": "onlinebusiness.tv",
+            "destination": "SiteGround",
+            "date": "2025-06-30 03:45:42"
+        },
         {
             "domain_name": "nycdentalpro.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mccainfoundation.org",
             "destination": "Hostinger",
             "date": "2025-06-28 09:22:04"
-        },
-        {
-            "domain_name": "infiniteaesthetics.com",
-            "destination": "Kinsta",
-            "date": "2025-06-28 08:40:18"
         }
     ],
     "dailyMovedStat": {
@@ -790,7 +790,7 @@
         "Pressable": 10176,
         "Kinsta": 5077,
         "Digital Ocean": 4385,
-        "SiteGround": 4252,
+        "SiteGround": 4253,
         "Bluehost": 4023,
         "Hostinger": 2909,
         "GoDaddy": 1174,
