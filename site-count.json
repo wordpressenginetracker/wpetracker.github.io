@@ -1,6 +1,11 @@
 {
-    "siteCount": 78009,
+    "siteCount": 78013,
     "recentlyMoved": [
+        {
+            "domain_name": "salondecoupe.com",
+            "destination": "Pressable",
+            "date": "2025-06-30 16:22:55"
+        },
         {
             "domain_name": "prosysfill.com",
             "destination": "Kinsta",
@@ -472,11 +477,6 @@
             "date": "2025-06-28 15:55:36"
         },
         {
-            "domain_name": "fenceanddecksupply.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 15:55:36"
-        },
-        {
             "domain_name": "griffethvision.com",
             "destination": "Hostinger",
             "date": "2025-06-28 15:48:00"
@@ -787,7 +787,7 @@
         "2025-06-29": "77931"
     },
     "topDestinationHosts": {
-        "Pressable": 10181,
+        "Pressable": 10182,
         "Kinsta": 5085,
         "Digital Ocean": 4385,
         "SiteGround": 4256,
