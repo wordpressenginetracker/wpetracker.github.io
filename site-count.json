@@ -1,10 +1,35 @@
 {
-    "siteCount": 77994,
+    "siteCount": 78003,
     "recentlyMoved": [
+        {
+            "domain_name": "mylittlepartycorner.com",
+            "destination": "Pressable",
+            "date": "2025-06-30 14:36:50"
+        },
+        {
+            "domain_name": "mgmwenterprises.com",
+            "destination": "Pressable",
+            "date": "2025-06-30 14:14:53"
+        },
         {
             "domain_name": "suchflow.de",
             "destination": "Hetzner Online",
             "date": "2025-06-30 13:45:30"
+        },
+        {
+            "domain_name": "livewellandfully.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 13:40:36"
+        },
+        {
+            "domain_name": "susiecarder.com",
+            "destination": "GoDaddy",
+            "date": "2025-06-30 13:15:39"
+        },
+        {
+            "domain_name": "marcmillions.com",
+            "destination": "Pressable",
+            "date": "2025-06-30 13:10:49"
         },
         {
             "domain_name": "leviguttersolutions.com",
@@ -475,31 +500,6 @@
             "domain_name": "newsletter.repforvets.com",
             "destination": "InMotion Hosting",
             "date": "2025-06-28 14:14:18"
-        },
-        {
-            "domain_name": "www.sunstove.org",
-            "destination": "Pressable",
-            "date": "2025-06-28 13:55:25"
-        },
-        {
-            "domain_name": "etowahcounty.org",
-            "destination": "Hostinger",
-            "date": "2025-06-28 13:44:47"
-        },
-        {
-            "domain_name": "disneyfunhouse.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 13:35:12"
-        },
-        {
-            "domain_name": "thereachgroup.ca",
-            "destination": "WordPress.com",
-            "date": "2025-06-28 13:22:50"
-        },
-        {
-            "domain_name": "www.uhmms.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 13:19:54"
         }
     ],
     "dailyMovedStat": {
@@ -787,25 +787,25 @@
         "2025-06-29": "77931"
     },
     "topDestinationHosts": {
-        "Pressable": 10178,
-        "Kinsta": 5082,
+        "Pressable": 10181,
+        "Kinsta": 5084,
         "Digital Ocean": 4385,
-        "SiteGround": 4255,
+        "SiteGround": 4256,
         "Bluehost": 4024,
         "Hostinger": 2912,
-        "GoDaddy": 1174,
+        "GoDaddy": 1175,
         "BigScoots": 579,
         "Liquid Web": 522,
         "WordPress.com": 373,
         "GridPane": 340,
         "InMotion Hosting": 329,
-        "A2 Hosting": 324,
+        "A2 Hosting": 325,
         "OVH": 313,
         "Elementor Hosting": 297,
         "IONOS": 289,
         "DreamHost": 281,
         "Namecheap": 270,
-        "Hetzner Online": 218,
+        "Hetzner Online": 219,
         "Wordify": 184
     },
     "dailyTotalStat": {
