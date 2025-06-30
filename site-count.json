@@ -1,10 +1,15 @@
 {
-    "siteCount": 77984,
+    "siteCount": 77985,
     "recentlyMoved": [
         {
             "domain_name": "usasphaltmaintenance.com",
             "destination": "Hostinger",
             "date": "2025-06-30 10:31:33"
+        },
+        {
+            "domain_name": "nwadna.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 10:13:35"
         },
         {
             "domain_name": "ministryboost.org",
@@ -487,11 +492,6 @@
             "date": "2025-06-28 12:19:58"
         },
         {
-            "domain_name": "www.brewcitysolutions.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 12:16:33"
-        },
-        {
             "domain_name": "investinmyhealth.com",
             "destination": "Kinsta",
             "date": "2025-06-28 12:14:03"
@@ -788,7 +788,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10178,
-        "Kinsta": 5079,
+        "Kinsta": 5080,
         "Digital Ocean": 4385,
         "SiteGround": 4255,
         "Bluehost": 4024,
