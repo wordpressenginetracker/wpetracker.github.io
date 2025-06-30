@@ -1,6 +1,11 @@
 {
-    "siteCount": 77967,
+    "siteCount": 77977,
     "recentlyMoved": [
+        {
+            "domain_name": "ikedascents.com",
+            "destination": "Hostinger",
+            "date": "2025-06-30 08:33:07"
+        },
         {
             "domain_name": "ascendfab.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-06-28 12:02:22"
         },
         {
-            "domain_name": "gmacommunity.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-28 11:45:25"
-        },
-        {
             "domain_name": "andimans.com",
             "destination": "GoDaddy",
             "date": "2025-06-28 11:37:58"
@@ -792,7 +792,7 @@
         "Digital Ocean": 4385,
         "SiteGround": 4254,
         "Bluehost": 4024,
-        "Hostinger": 2910,
+        "Hostinger": 2911,
         "GoDaddy": 1174,
         "BigScoots": 579,
         "Liquid Web": 522,
