@@ -1,6 +1,16 @@
 {
-    "siteCount": 77960,
+    "siteCount": 77964,
     "recentlyMoved": [
+        {
+            "domain_name": "timberframe1.com",
+            "destination": "Bluehost",
+            "date": "2025-06-30 05:35:08"
+        },
+        {
+            "domain_name": "dirtdoctors.biz",
+            "destination": "SiteGround",
+            "date": "2025-06-30 05:20:03"
+        },
         {
             "domain_name": "kdtadvisors.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "uvmarchitects.com",
             "destination": "Hostinger",
             "date": "2025-06-28 10:23:00"
-        },
-        {
-            "domain_name": "eastpointdental.ca",
-            "destination": "Hostinger",
-            "date": "2025-06-28 10:16:38"
-        },
-        {
-            "domain_name": "uphillathlete.com",
-            "destination": "Kinsta",
-            "date": "2025-06-28 09:40:40"
         }
     ],
     "dailyMovedStat": {
@@ -790,8 +790,8 @@
         "Pressable": 10177,
         "Kinsta": 5077,
         "Digital Ocean": 4385,
-        "SiteGround": 4253,
-        "Bluehost": 4023,
+        "SiteGround": 4254,
+        "Bluehost": 4024,
         "Hostinger": 2909,
         "GoDaddy": 1174,
         "BigScoots": 579,
