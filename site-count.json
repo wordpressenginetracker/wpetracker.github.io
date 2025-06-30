@@ -1,6 +1,16 @@
 {
-    "siteCount": 77964,
+    "siteCount": 77967,
     "recentlyMoved": [
+        {
+            "domain_name": "ascendfab.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 08:08:09"
+        },
+        {
+            "domain_name": "getmykrackers.com",
+            "destination": "Hostinger",
+            "date": "2025-06-30 07:51:44"
+        },
         {
             "domain_name": "timberframe1.com",
             "destination": "Bluehost",
@@ -482,11 +492,6 @@
             "date": "2025-06-28 12:02:22"
         },
         {
-            "domain_name": "fosforosdeseguridad.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 11:52:47"
-        },
-        {
             "domain_name": "gmacommunity.com",
             "destination": "WordPress.com",
             "date": "2025-06-28 11:45:25"
@@ -495,11 +500,6 @@
             "domain_name": "andimans.com",
             "destination": "GoDaddy",
             "date": "2025-06-28 11:37:58"
-        },
-        {
-            "domain_name": "uvmarchitects.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 10:23:00"
         }
     ],
     "dailyMovedStat": {
@@ -788,11 +788,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10177,
-        "Kinsta": 5077,
+        "Kinsta": 5078,
         "Digital Ocean": 4385,
         "SiteGround": 4254,
         "Bluehost": 4024,
-        "Hostinger": 2909,
+        "Hostinger": 2910,
         "GoDaddy": 1174,
         "BigScoots": 579,
         "Liquid Web": 522,
