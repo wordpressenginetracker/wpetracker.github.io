@@ -1,6 +1,21 @@
 {
-    "siteCount": 77937,
+    "siteCount": 77942,
     "recentlyMoved": [
+        {
+            "domain_name": "www.part-box.com",
+            "destination": "IONOS",
+            "date": "2025-06-30 01:15:40"
+        },
+        {
+            "domain_name": "catalystfitness.com",
+            "destination": "Hostinger",
+            "date": "2025-06-30 00:54:11"
+        },
+        {
+            "domain_name": "kennyconley.com",
+            "destination": "SiteGround",
+            "date": "2025-06-30 00:45:38"
+        },
         {
             "domain_name": "apextn.rehab",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "texasblackhistory.com",
             "destination": "A2 Hosting",
             "date": "2025-06-28 05:07:26"
-        },
-        {
-            "domain_name": "cake-ness.com",
-            "destination": "WordPress.com",
-            "date": "2025-06-28 04:24:24"
-        },
-        {
-            "domain_name": "beelitechiropractic.com",
-            "destination": "GridPane",
-            "date": "2025-06-28 04:21:25"
-        },
-        {
-            "domain_name": "funfills.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 04:10:16"
         }
     ],
     "dailyMovedStat": {
@@ -790,9 +790,9 @@
         "Pressable": 10176,
         "Kinsta": 5076,
         "Digital Ocean": 4385,
-        "SiteGround": 4251,
+        "SiteGround": 4252,
         "Bluehost": 4023,
-        "Hostinger": 2907,
+        "Hostinger": 2908,
         "GoDaddy": 1174,
         "BigScoots": 578,
         "Liquid Web": 522,
@@ -802,7 +802,7 @@
         "A2 Hosting": 324,
         "OVH": 313,
         "Elementor Hosting": 297,
-        "IONOS": 288,
+        "IONOS": 289,
         "DreamHost": 281,
         "Namecheap": 270,
         "Hetzner Online": 218,
