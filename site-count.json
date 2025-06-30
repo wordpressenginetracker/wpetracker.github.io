@@ -1,6 +1,11 @@
 {
-    "siteCount": 77951,
+    "siteCount": 77952,
     "recentlyMoved": [
+        {
+            "domain_name": "nycdentalpro.com",
+            "destination": "Hostinger",
+            "date": "2025-06-30 02:35:03"
+        },
         {
             "domain_name": "nandbox.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "infiniteaesthetics.com",
             "destination": "Kinsta",
             "date": "2025-06-28 08:40:18"
-        },
-        {
-            "domain_name": "office.westmidlandshouse.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 07:32:16"
         }
     ],
     "dailyMovedStat": {
@@ -792,7 +792,7 @@
         "Digital Ocean": 4385,
         "SiteGround": 4252,
         "Bluehost": 4023,
-        "Hostinger": 2908,
+        "Hostinger": 2909,
         "GoDaddy": 1174,
         "BigScoots": 579,
         "Liquid Web": 522,
