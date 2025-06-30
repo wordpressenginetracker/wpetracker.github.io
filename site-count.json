@@ -1,6 +1,16 @@
 {
-    "siteCount": 77931,
+    "siteCount": 77937,
     "recentlyMoved": [
+        {
+            "domain_name": "apextn.rehab",
+            "destination": "SiteGround",
+            "date": "2025-06-29 23:48:14"
+        },
+        {
+            "domain_name": "amresponse.com",
+            "destination": "Kinsta",
+            "date": "2025-06-29 23:47:43"
+        },
         {
             "domain_name": "backninegolfacademy.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "funfills.com",
             "destination": "Hostinger",
             "date": "2025-06-28 04:10:16"
-        },
-        {
-            "domain_name": "oakcliff.advocatemag.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-28 01:59:30"
-        },
-        {
-            "domain_name": "lakewood.advocatemag.com",
-            "destination": "Liquid Web",
-            "date": "2025-06-28 01:31:50"
         }
     ],
     "dailyMovedStat": {
@@ -788,9 +788,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10176,
-        "Kinsta": 5075,
+        "Kinsta": 5076,
         "Digital Ocean": 4385,
-        "SiteGround": 4250,
+        "SiteGround": 4251,
         "Bluehost": 4023,
         "Hostinger": 2907,
         "GoDaddy": 1174,
