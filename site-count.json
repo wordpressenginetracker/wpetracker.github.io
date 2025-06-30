@@ -1,6 +1,11 @@
 {
-    "siteCount": 78019,
+    "siteCount": 78046,
     "recentlyMoved": [
+        {
+            "domain_name": "9meters.com",
+            "destination": "BigScoots",
+            "date": "2025-06-30 20:03:52"
+        },
         {
             "domain_name": "esteswooddesigns.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-06-28 15:48:00"
         },
         {
-            "domain_name": "gigianolaw.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 15:34:27"
-        },
-        {
             "domain_name": "plumbingsouthjordanutah.com",
             "destination": "Pressable",
             "date": "2025-06-28 15:33:39"
@@ -788,13 +788,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 10182,
-        "Kinsta": 5086,
+        "Kinsta": 5087,
         "Digital Ocean": 4385,
         "SiteGround": 4256,
-        "Bluehost": 4024,
-        "Hostinger": 2913,
+        "Bluehost": 4025,
+        "Hostinger": 2914,
         "GoDaddy": 1175,
-        "BigScoots": 579,
+        "BigScoots": 581,
         "Liquid Web": 522,
         "WordPress.com": 373,
         "GridPane": 340,
