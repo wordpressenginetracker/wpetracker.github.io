@@ -1,6 +1,16 @@
 {
-    "siteCount": 77942,
+    "siteCount": 77951,
     "recentlyMoved": [
+        {
+            "domain_name": "nandbox.com",
+            "destination": "Kinsta",
+            "date": "2025-06-30 02:29:56"
+        },
+        {
+            "domain_name": "www.simplymac.com",
+            "destination": "BigScoots",
+            "date": "2025-06-30 01:50:27"
+        },
         {
             "domain_name": "www.part-box.com",
             "destination": "IONOS",
@@ -490,16 +500,6 @@
             "domain_name": "office.westmidlandshouse.com",
             "destination": "Hostinger",
             "date": "2025-06-28 07:32:16"
-        },
-        {
-            "domain_name": "nehemiahcapital.com",
-            "destination": "A2 Hosting",
-            "date": "2025-06-28 06:12:42"
-        },
-        {
-            "domain_name": "texasblackhistory.com",
-            "destination": "A2 Hosting",
-            "date": "2025-06-28 05:07:26"
         }
     ],
     "dailyMovedStat": {
@@ -788,13 +788,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 10176,
-        "Kinsta": 5076,
+        "Kinsta": 5077,
         "Digital Ocean": 4385,
         "SiteGround": 4252,
         "Bluehost": 4023,
         "Hostinger": 2908,
         "GoDaddy": 1174,
-        "BigScoots": 578,
+        "BigScoots": 579,
         "Liquid Web": 522,
         "WordPress.com": 373,
         "GridPane": 340,
