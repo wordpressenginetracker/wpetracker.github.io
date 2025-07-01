@@ -1,6 +1,21 @@
 {
-    "siteCount": 78121,
+    "siteCount": 78128,
     "recentlyMoved": [
+        {
+            "domain_name": "erataksi.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-07-01 10:30:38"
+        },
+        {
+            "domain_name": "elastapro.com",
+            "destination": "Kinsta",
+            "date": "2025-07-01 10:18:23"
+        },
+        {
+            "domain_name": "suxus.co.in",
+            "destination": "Hostinger",
+            "date": "2025-07-01 09:41:14"
+        },
         {
             "domain_name": "kvtex.in",
             "destination": "Hostinger",
@@ -467,11 +482,6 @@
             "date": "2025-06-28 17:28:40"
         },
         {
-            "domain_name": "smemechanical.com",
-            "destination": "Kinsta",
-            "date": "2025-06-28 17:26:23"
-        },
-        {
             "domain_name": "soundadvice.fm",
             "destination": "Pressable",
             "date": "2025-06-28 17:17:23"
@@ -485,16 +495,6 @@
             "domain_name": "dentalcenterstgeorge.com",
             "destination": "Pressable",
             "date": "2025-06-28 17:14:06"
-        },
-        {
-            "domain_name": "caballeromx.com",
-            "destination": "Hostinger",
-            "date": "2025-06-28 16:57:27"
-        },
-        {
-            "domain_name": "smokefreehickmanco.org",
-            "destination": "Pressable",
-            "date": "2025-06-28 16:48:39"
         },
         {
             "domain_name": "solitudebuilders.com",
@@ -789,11 +789,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10182,
-        "Kinsta": 5089,
+        "Kinsta": 5090,
         "Digital Ocean": 4388,
         "SiteGround": 4257,
         "Bluehost": 4025,
-        "Hostinger": 2920,
+        "Hostinger": 2921,
         "GoDaddy": 1175,
         "BigScoots": 581,
         "Liquid Web": 522,
@@ -806,7 +806,7 @@
         "IONOS": 289,
         "DreamHost": 281,
         "Namecheap": 270,
-        "Hetzner Online": 219,
+        "Hetzner Online": 220,
         "Wordify": 184
     },
     "dailyTotalStat": {
