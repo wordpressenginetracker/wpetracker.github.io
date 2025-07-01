@@ -1,6 +1,11 @@
 {
-    "siteCount": 78079,
+    "siteCount": 78085,
     "recentlyMoved": [
+        {
+            "domain_name": "worldwish.org",
+            "destination": "Kinsta",
+            "date": "2025-07-01 03:55:15"
+        },
         {
             "domain_name": "thepalmsowners.com",
             "destination": "Digital Ocean",
@@ -482,11 +487,6 @@
             "date": "2025-06-28 16:57:27"
         },
         {
-            "domain_name": "saltlakecityforklifts.com",
-            "destination": "Pressable",
-            "date": "2025-06-28 16:57:14"
-        },
-        {
             "domain_name": "smokefreehickmanco.org",
             "destination": "Pressable",
             "date": "2025-06-28 16:48:39"
@@ -789,7 +789,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10182,
-        "Kinsta": 5088,
+        "Kinsta": 5089,
         "Digital Ocean": 4388,
         "SiteGround": 4257,
         "Bluehost": 4025,
