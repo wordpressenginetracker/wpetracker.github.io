@@ -1,6 +1,46 @@
 {
-    "siteCount": 78188,
+    "siteCount": 78209,
     "recentlyMoved": [
+        {
+            "domain_name": "www.deltamicroscopies.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-01 16:42:43"
+        },
+        {
+            "domain_name": "www.artelco.com",
+            "destination": "Kinsta",
+            "date": "2025-07-01 16:20:23"
+        },
+        {
+            "domain_name": "www.archer365.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-01 16:20:23"
+        },
+        {
+            "domain_name": "www.hmlf.law",
+            "destination": "SiteGround",
+            "date": "2025-07-01 15:59:03"
+        },
+        {
+            "domain_name": "pinconningcheese.com",
+            "destination": "OVH",
+            "date": "2025-07-01 15:43:14"
+        },
+        {
+            "domain_name": "www.autohomeboat.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-01 15:39:48"
+        },
+        {
+            "domain_name": "wilsoncheese.com",
+            "destination": "OVH",
+            "date": "2025-07-01 15:39:38"
+        },
+        {
+            "domain_name": "www.randallsteelelaw.com",
+            "destination": "SiteGround",
+            "date": "2025-07-01 15:25:35"
+        },
         {
             "domain_name": "vestastoves.co.uk",
             "destination": "SiteGround",
@@ -460,46 +500,6 @@
             "domain_name": "design-freebies.com",
             "destination": "Hostinger",
             "date": "2025-06-29 17:17:33"
-        },
-        {
-            "domain_name": "stjohnsbeautysalon.com",
-            "destination": "Digital Ocean",
-            "date": "2025-06-29 17:06:52"
-        },
-        {
-            "domain_name": "horizonmarketingsolution.com",
-            "destination": "Kinsta",
-            "date": "2025-06-29 16:02:22"
-        },
-        {
-            "domain_name": "plazaindependentliving.com",
-            "destination": "Kinsta",
-            "date": "2025-06-29 15:50:25"
-        },
-        {
-            "domain_name": "flying-dragons.com",
-            "destination": "Bluehost",
-            "date": "2025-06-29 15:13:10"
-        },
-        {
-            "domain_name": "topoelement.com",
-            "destination": "Bluehost",
-            "date": "2025-06-29 13:28:11"
-        },
-        {
-            "domain_name": "timberbuiltrooms.com",
-            "destination": "Kinsta",
-            "date": "2025-06-29 13:23:56"
-        },
-        {
-            "domain_name": "cbdsky.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-06-29 13:10:44"
-        },
-        {
-            "domain_name": "hillcitypopcorn.com",
-            "destination": "Kinsta",
-            "date": "2025-06-29 12:47:34"
         }
     ],
     "dailyMovedStat": {
@@ -789,9 +789,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10188,
-        "Kinsta": 5092,
-        "Digital Ocean": 4391,
-        "SiteGround": 4261,
+        "Kinsta": 5093,
+        "Digital Ocean": 4393,
+        "SiteGround": 4263,
         "Bluehost": 4025,
         "Hostinger": 2921,
         "GoDaddy": 1177,
@@ -801,7 +801,7 @@
         "GridPane": 342,
         "InMotion Hosting": 329,
         "A2 Hosting": 327,
-        "OVH": 313,
+        "OVH": 315,
         "Elementor Hosting": 301,
         "IONOS": 289,
         "DreamHost": 282,
