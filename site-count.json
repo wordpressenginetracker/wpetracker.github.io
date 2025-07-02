@@ -1,6 +1,16 @@
 {
-    "siteCount": 78381,
+    "siteCount": 78384,
     "recentlyMoved": [
+        {
+            "domain_name": "www.inflectionwealthmanagement.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-02 04:45:34"
+        },
+        {
+            "domain_name": "www.hempcare.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-07-02 04:15:44"
+        },
         {
             "domain_name": "enervest.com.au",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "brentsautoworks.com",
             "destination": "GridPane",
             "date": "2025-06-30 20:33:11"
-        },
-        {
-            "domain_name": "9meters.com",
-            "destination": "BigScoots",
-            "date": "2025-06-30 20:03:52"
-        },
-        {
-            "domain_name": "esteswooddesigns.com",
-            "destination": "Kinsta",
-            "date": "2025-06-30 18:12:52"
         }
     ],
     "dailyMovedStat": {
@@ -791,11 +791,11 @@
     "topDestinationHosts": {
         "Pressable": 10200,
         "Kinsta": 5101,
-        "Digital Ocean": 4398,
+        "Digital Ocean": 4399,
         "SiteGround": 4273,
         "Bluehost": 4027,
         "Hostinger": 2924,
-        "GoDaddy": 1178,
+        "GoDaddy": 1179,
         "BigScoots": 585,
         "Liquid Web": 522,
         "WordPress.com": 374,
