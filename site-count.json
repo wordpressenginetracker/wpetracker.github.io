@@ -1,6 +1,16 @@
 {
-    "siteCount": 78411,
+    "siteCount": 78421,
     "recentlyMoved": [
+        {
+            "domain_name": "tallerdejose.org",
+            "destination": "SiteGround",
+            "date": "2025-07-02 09:53:51"
+        },
+        {
+            "domain_name": "cyteir.com",
+            "destination": "Hostinger",
+            "date": "2025-07-02 09:20:37"
+        },
         {
             "domain_name": "www.gsderm.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "kozykennelz.com",
             "destination": "SiteGround",
             "date": "2025-07-01 01:29:35"
-        },
-        {
-            "domain_name": "shoreclubowners.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-01 00:49:16"
-        },
-        {
-            "domain_name": "beaib.com.au",
-            "destination": "Kinsta",
-            "date": "2025-07-01 00:39:21"
         }
     ],
     "dailyMovedStat": {
@@ -790,11 +790,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10200,
-        "Kinsta": 5104,
+        "Kinsta": 5105,
         "Digital Ocean": 4400,
-        "SiteGround": 4274,
+        "SiteGround": 4275,
         "Bluehost": 4027,
-        "Hostinger": 2924,
+        "Hostinger": 2925,
         "GoDaddy": 1179,
         "BigScoots": 585,
         "Liquid Web": 522,
