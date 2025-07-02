@@ -1,6 +1,21 @@
 {
-    "siteCount": 78400,
+    "siteCount": 78411,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gsderm.com",
+            "destination": "Kinsta",
+            "date": "2025-07-02 09:00:14"
+        },
+        {
+            "domain_name": "www.rhinoliftfoundations.com",
+            "destination": "Kinsta",
+            "date": "2025-07-02 08:53:28"
+        },
+        {
+            "domain_name": "campunderbite.com",
+            "destination": "Kinsta",
+            "date": "2025-07-02 08:48:06"
+        },
         {
             "domain_name": "www.drnsandhu.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "beaib.com.au",
             "destination": "Kinsta",
             "date": "2025-07-01 00:39:21"
-        },
-        {
-            "domain_name": "hartlinggroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-01 00:35:26"
-        },
-        {
-            "domain_name": "pcdtraining.com",
-            "destination": "Hostinger",
-            "date": "2025-06-30 23:54:03"
-        },
-        {
-            "domain_name": "lifechild.org.za",
-            "destination": "Elementor Hosting",
-            "date": "2025-06-30 21:28:13"
         }
     ],
     "dailyMovedStat": {
@@ -790,7 +790,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10200,
-        "Kinsta": 5101,
+        "Kinsta": 5104,
         "Digital Ocean": 4400,
         "SiteGround": 4274,
         "Bluehost": 4027,
