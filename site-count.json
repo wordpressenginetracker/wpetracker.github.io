@@ -1,6 +1,16 @@
 {
-    "siteCount": 78670,
+    "siteCount": 78681,
     "recentlyMoved": [
+        {
+            "domain_name": "shekinahevangelistic.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-03 09:12:28"
+        },
+        {
+            "domain_name": "jay-ton.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 08:45:15"
+        },
         {
             "domain_name": "plumbingoutfitters.com",
             "destination": "Digital Ocean",
@@ -487,19 +497,9 @@
             "date": "2025-07-01 20:46:31"
         },
         {
-            "domain_name": "birchcounselingpllc.com",
-            "destination": "SiteGround",
-            "date": "2025-07-01 20:34:49"
-        },
-        {
             "domain_name": "intheblackbilling.com",
             "destination": "Pressable",
             "date": "2025-07-01 20:19:51"
-        },
-        {
-            "domain_name": "roundpegcomm.com",
-            "destination": "Pressable",
-            "date": "2025-07-01 20:14:33"
         }
     ],
     "dailyMovedStat": {
@@ -793,10 +793,10 @@
         "Pressable": 10207,
         "Kinsta": 5121,
         "Digital Ocean": 4415,
-        "SiteGround": 4288,
+        "SiteGround": 4289,
         "Bluehost": 4030,
         "Hostinger": 2933,
-        "GoDaddy": 1180,
+        "GoDaddy": 1181,
         "BigScoots": 586,
         "Liquid Web": 526,
         "WordPress.com": 374,
