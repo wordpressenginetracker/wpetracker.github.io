@@ -1,6 +1,16 @@
 {
-    "siteCount": 78659,
+    "siteCount": 78665,
     "recentlyMoved": [
+        {
+            "domain_name": "dyesubtowels.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 06:21:49"
+        },
+        {
+            "domain_name": "eblinda.com",
+            "destination": "Kinsta",
+            "date": "2025-07-03 06:06:36"
+        },
         {
             "domain_name": "juliasweeney.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "roundpegcomm.com",
             "destination": "Pressable",
             "date": "2025-07-01 20:14:33"
-        },
-        {
-            "domain_name": "alpenglowdentists.com",
-            "destination": "Pressable",
-            "date": "2025-07-01 20:11:38"
-        },
-        {
-            "domain_name": "heatonroof.com",
-            "destination": "Pressable",
-            "date": "2025-07-01 19:58:23"
         }
     ],
     "dailyMovedStat": {
@@ -791,9 +791,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10207,
-        "Kinsta": 5119,
+        "Kinsta": 5120,
         "Digital Ocean": 4414,
-        "SiteGround": 4287,
+        "SiteGround": 4288,
         "Bluehost": 4030,
         "Hostinger": 2933,
         "GoDaddy": 1180,
