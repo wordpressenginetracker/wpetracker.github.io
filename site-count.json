@@ -1,6 +1,21 @@
 {
-    "siteCount": 78775,
+    "siteCount": 78788,
     "recentlyMoved": [
+        {
+            "domain_name": "teamtipco.com",
+            "destination": "Kinsta",
+            "date": "2025-07-03 17:56:31"
+        },
+        {
+            "domain_name": "www.stridecap.com",
+            "destination": "Pressable",
+            "date": "2025-07-03 17:48:02"
+        },
+        {
+            "domain_name": "marlinchiropractic.com",
+            "destination": "WordPress.com",
+            "date": "2025-07-03 17:16:39"
+        },
         {
             "domain_name": "cloverdalerangers.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "paleomodeler.com",
             "destination": "DreamHost",
             "date": "2025-07-02 11:17:33"
-        },
-        {
-            "domain_name": "tallerdejose.org",
-            "destination": "SiteGround",
-            "date": "2025-07-02 09:53:51"
-        },
-        {
-            "domain_name": "cyteir.com",
-            "destination": "Hostinger",
-            "date": "2025-07-02 09:20:37"
-        },
-        {
-            "domain_name": "www.rhinoliftfoundations.com",
-            "destination": "Kinsta",
-            "date": "2025-07-02 08:53:28"
         }
     ],
     "dailyMovedStat": {
@@ -790,8 +790,8 @@
         "2025-07-02": "78613"
     },
     "topDestinationHosts": {
-        "Pressable": 10211,
-        "Kinsta": 5123,
+        "Pressable": 10212,
+        "Kinsta": 5124,
         "Digital Ocean": 4417,
         "SiteGround": 4297,
         "Bluehost": 4030,
@@ -799,7 +799,7 @@
         "GoDaddy": 1183,
         "BigScoots": 586,
         "Liquid Web": 527,
-        "WordPress.com": 374,
+        "WordPress.com": 375,
         "GridPane": 344,
         "InMotion Hosting": 332,
         "A2 Hosting": 327,
