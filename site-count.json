@@ -1,6 +1,16 @@
 {
-    "siteCount": 78744,
+    "siteCount": 78758,
     "recentlyMoved": [
+        {
+            "domain_name": "aircontrolsystems.net",
+            "destination": "Kinsta",
+            "date": "2025-07-03 16:05:04"
+        },
+        {
+            "domain_name": "harbormgmt.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 15:49:43"
+        },
         {
             "domain_name": "eyesighthawaii.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "www.hempcare.nl",
             "destination": "Digital Ocean",
             "date": "2025-07-02 04:15:44"
-        },
-        {
-            "domain_name": "enervest.com.au",
-            "destination": "Digital Ocean",
-            "date": "2025-07-02 02:13:13"
-        },
-        {
-            "domain_name": "ezerandco.com",
-            "destination": "SiteGround",
-            "date": "2025-07-02 01:52:32"
         }
     ],
     "dailyMovedStat": {
@@ -791,9 +791,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10209,
-        "Kinsta": 5121,
+        "Kinsta": 5122,
         "Digital Ocean": 4417,
-        "SiteGround": 4294,
+        "SiteGround": 4295,
         "Bluehost": 4030,
         "Hostinger": 2934,
         "GoDaddy": 1183,
