@@ -1,6 +1,11 @@
 {
-    "siteCount": 78852,
+    "siteCount": 78858,
     "recentlyMoved": [
+        {
+            "domain_name": "thrivingentrepreneur.com",
+            "destination": "Pressable",
+            "date": "2025-07-03 22:11:33"
+        },
         {
             "domain_name": "www.setusupthebomb.com",
             "destination": "BigScoots",
@@ -10,6 +15,16 @@
             "domain_name": "contact.libertybelllaw.com",
             "destination": "Namecheap",
             "date": "2025-07-03 21:33:45"
+        },
+        {
+            "domain_name": "theresaschmidtphysio.ca",
+            "destination": "Pressable",
+            "date": "2025-07-03 21:32:18"
+        },
+        {
+            "domain_name": "thekfordgroup.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 21:22:08"
         },
         {
             "domain_name": "jwcsitework.com",
@@ -482,24 +497,9 @@
             "date": "2025-07-02 13:17:18"
         },
         {
-            "domain_name": "www.ozarkmountainbagelco.com",
-            "destination": "Kinsta",
-            "date": "2025-07-02 13:16:06"
-        },
-        {
-            "domain_name": "www.proresumecenter.com",
-            "destination": "Pressable",
-            "date": "2025-07-02 13:14:01"
-        },
-        {
             "domain_name": "dabor.com",
             "destination": "Kinsta",
             "date": "2025-07-02 13:04:29"
-        },
-        {
-            "domain_name": "speermechanical.com",
-            "destination": "Kinsta",
-            "date": "2025-07-02 12:53:45"
         }
     ],
     "dailyMovedStat": {
@@ -790,14 +790,14 @@
         "2025-07-02": "78613"
     },
     "topDestinationHosts": {
-        "Pressable": 10215,
+        "Pressable": 10217,
         "Kinsta": 5126,
         "Digital Ocean": 4417,
-        "SiteGround": 4300,
+        "SiteGround": 4301,
         "Bluehost": 4030,
         "Hostinger": 2937,
         "GoDaddy": 1184,
-        "BigScoots": 586,
+        "BigScoots": 587,
         "Liquid Web": 527,
         "WordPress.com": 375,
         "GridPane": 344,
@@ -807,7 +807,7 @@
         "Elementor Hosting": 302,
         "IONOS": 291,
         "DreamHost": 283,
-        "Namecheap": 270,
+        "Namecheap": 271,
         "Hetzner Online": 224,
         "Wordify": 184
     },
