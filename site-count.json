@@ -1,6 +1,11 @@
 {
-    "siteCount": 78637,
+    "siteCount": 78647,
     "recentlyMoved": [
+        {
+            "domain_name": "osompress.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 04:05:02"
+        },
         {
             "domain_name": "noelins.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.a-life-well-lived.com",
             "destination": "Bluehost",
             "date": "2025-07-01 19:51:11"
-        },
-        {
-            "domain_name": "tricopropane.com",
-            "destination": "Kinsta",
-            "date": "2025-07-01 18:16:07"
         }
     ],
     "dailyMovedStat": {
@@ -793,7 +793,7 @@
         "Pressable": 10207,
         "Kinsta": 5118,
         "Digital Ocean": 4414,
-        "SiteGround": 4286,
+        "SiteGround": 4287,
         "Bluehost": 4030,
         "Hostinger": 2932,
         "GoDaddy": 1180,
