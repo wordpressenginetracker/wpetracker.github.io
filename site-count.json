@@ -1,6 +1,26 @@
 {
-    "siteCount": 78681,
+    "siteCount": 78689,
     "recentlyMoved": [
+        {
+            "domain_name": "nickblevins.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 10:43:32"
+        },
+        {
+            "domain_name": "usa.psgacademypro.com",
+            "destination": "SiteGround",
+            "date": "2025-07-03 10:39:10"
+        },
+        {
+            "domain_name": "daksmarket.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-03 09:54:29"
+        },
+        {
+            "domain_name": "yannoo-dj.com",
+            "destination": "OVH",
+            "date": "2025-07-03 09:45:48"
+        },
         {
             "domain_name": "shekinahevangelistic.com",
             "destination": "GoDaddy",
@@ -480,26 +500,6 @@
             "domain_name": "www.myriverfamilydentist.com",
             "destination": "Kinsta",
             "date": "2025-07-01 21:09:57"
-        },
-        {
-            "domain_name": "boombuster.com",
-            "destination": "Hostinger",
-            "date": "2025-07-01 20:54:49"
-        },
-        {
-            "domain_name": "samsfurniture.net",
-            "destination": "Kinsta",
-            "date": "2025-07-01 20:50:06"
-        },
-        {
-            "domain_name": "sbkortho.com",
-            "destination": "Kinsta",
-            "date": "2025-07-01 20:46:31"
-        },
-        {
-            "domain_name": "intheblackbilling.com",
-            "destination": "Pressable",
-            "date": "2025-07-01 20:19:51"
         }
     ],
     "dailyMovedStat": {
@@ -793,7 +793,7 @@
         "Pressable": 10207,
         "Kinsta": 5121,
         "Digital Ocean": 4415,
-        "SiteGround": 4289,
+        "SiteGround": 4291,
         "Bluehost": 4030,
         "Hostinger": 2933,
         "GoDaddy": 1181,
@@ -801,9 +801,9 @@
         "Liquid Web": 526,
         "WordPress.com": 374,
         "GridPane": 343,
-        "InMotion Hosting": 330,
+        "InMotion Hosting": 331,
         "A2 Hosting": 327,
-        "OVH": 315,
+        "OVH": 316,
         "Elementor Hosting": 301,
         "IONOS": 289,
         "DreamHost": 283,
