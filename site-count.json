@@ -1,6 +1,56 @@
 {
-    "siteCount": 78992,
+    "siteCount": 79015,
     "recentlyMoved": [
+        {
+            "domain_name": "studiohousingatlanta.com",
+            "destination": "WordPress.com",
+            "date": "2025-07-04 17:40:58"
+        },
+        {
+            "domain_name": "constructionbydesignpro.com",
+            "destination": "Kinsta",
+            "date": "2025-07-04 17:30:25"
+        },
+        {
+            "domain_name": "compassdesignco.ca",
+            "destination": "GridPane",
+            "date": "2025-07-04 17:22:31"
+        },
+        {
+            "domain_name": "scholarsvoice.org",
+            "destination": "Kinsta",
+            "date": "2025-07-04 17:03:37"
+        },
+        {
+            "domain_name": "bobakortho.com",
+            "destination": "Pressable",
+            "date": "2025-07-04 17:03:33"
+        },
+        {
+            "domain_name": "castschools.com",
+            "destination": "HostGator",
+            "date": "2025-07-04 16:57:26"
+        },
+        {
+            "domain_name": "carefreeair.com",
+            "destination": "Kinsta",
+            "date": "2025-07-04 16:53:17"
+        },
+        {
+            "domain_name": "serenaraephotography.com",
+            "destination": "HostGator",
+            "date": "2025-07-04 16:47:49"
+        },
+        {
+            "domain_name": "humannatureschool.org",
+            "destination": "HostGator",
+            "date": "2025-07-04 16:47:36"
+        },
+        {
+            "domain_name": "sanibelarmswest.com",
+            "destination": "SiteGround",
+            "date": "2025-07-04 16:32:09"
+        },
         {
             "domain_name": "www.blackfemaletherapists.com",
             "destination": "Pressable",
@@ -10,6 +60,16 @@
             "domain_name": "www.crownpropertybemidji.com",
             "destination": "Digital Ocean",
             "date": "2025-07-04 16:17:03"
+        },
+        {
+            "domain_name": "rockyridgerock.com",
+            "destination": "Pressable",
+            "date": "2025-07-04 16:04:40"
+        },
+        {
+            "domain_name": "rockymountainlivingcolorado.com",
+            "destination": "SiteGround",
+            "date": "2025-07-04 16:04:40"
         },
         {
             "domain_name": "alanocluboflahaina.org",
@@ -440,66 +500,6 @@
             "domain_name": "verdict7.com",
             "destination": "InMotion Hosting",
             "date": "2025-07-03 14:13:27"
-        },
-        {
-            "domain_name": "driveusatruck.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-03 14:09:33"
-        },
-        {
-            "domain_name": "uccdarien.org",
-            "destination": "Pressable",
-            "date": "2025-07-03 13:45:28"
-        },
-        {
-            "domain_name": "www.sagadesignmn.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-03 13:07:58"
-        },
-        {
-            "domain_name": "shanegericke.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-03 13:06:34"
-        },
-        {
-            "domain_name": "www.trafilo.com",
-            "destination": "Hetzner Online",
-            "date": "2025-07-03 13:06:26"
-        },
-        {
-            "domain_name": "compassindustriesinc.com",
-            "destination": "IONOS",
-            "date": "2025-07-03 13:00:26"
-        },
-        {
-            "domain_name": "celimenepartners.com",
-            "destination": "IONOS",
-            "date": "2025-07-03 12:45:27"
-        },
-        {
-            "domain_name": "sactacos.com",
-            "destination": "SiteGround",
-            "date": "2025-07-03 12:31:45"
-        },
-        {
-            "domain_name": "www.buffalosbestroofing.com",
-            "destination": "Pressable",
-            "date": "2025-07-03 12:29:09"
-        },
-        {
-            "domain_name": "helpinghandsgarage.tv",
-            "destination": "Digital Ocean",
-            "date": "2025-07-03 12:11:31"
-        },
-        {
-            "domain_name": "healthysurfaces.ie",
-            "destination": "SiteGround",
-            "date": "2025-07-03 12:11:27"
-        },
-        {
-            "domain_name": "gabbinaboutdisney.com",
-            "destination": "SiteGround",
-            "date": "2025-07-03 11:46:12"
         }
     ],
     "dailyMovedStat": {
@@ -791,10 +791,10 @@
         "2025-07-03": "78858"
     },
     "topDestinationHosts": {
-        "Pressable": 10226,
-        "Kinsta": 5133,
+        "Pressable": 10228,
+        "Kinsta": 5135,
         "Digital Ocean": 4422,
-        "SiteGround": 4310,
+        "SiteGround": 4312,
         "Bluehost": 4031,
         "Hostinger": 2944,
         "GoDaddy": 1185,
