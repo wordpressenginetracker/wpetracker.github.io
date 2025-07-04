@@ -1,6 +1,21 @@
 {
-    "siteCount": 79088,
+    "siteCount": 79095,
     "recentlyMoved": [
+        {
+            "domain_name": "thevillasanur.com",
+            "destination": "Pressable",
+            "date": "2025-07-04 21:49:29"
+        },
+        {
+            "domain_name": "door2doortaxi.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-07-04 21:22:17"
+        },
+        {
+            "domain_name": "luckdentalcare.com",
+            "destination": "SiteGround",
+            "date": "2025-07-04 21:10:18"
+        },
         {
             "domain_name": "scottbarrykaufman.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "jwcsitework.com",
             "destination": "A2 Hosting",
             "date": "2025-07-03 21:09:24"
-        },
-        {
-            "domain_name": "www.islandparkrentals.com",
-            "destination": "SiteGround",
-            "date": "2025-07-03 20:55:10"
-        },
-        {
-            "domain_name": "caloxinc.com",
-            "destination": "Kinsta",
-            "date": "2025-07-03 20:36:39"
-        },
-        {
-            "domain_name": "indrukdesign.com",
-            "destination": "Hostinger",
-            "date": "2025-07-03 20:15:58"
         }
     ],
     "dailyMovedStat": {
@@ -791,10 +791,10 @@
         "2025-07-03": "78858"
     },
     "topDestinationHosts": {
-        "Pressable": 10236,
+        "Pressable": 10237,
         "Kinsta": 5143,
         "Digital Ocean": 4426,
-        "SiteGround": 4315,
+        "SiteGround": 4317,
         "Bluehost": 4032,
         "Hostinger": 2944,
         "GoDaddy": 1185,
