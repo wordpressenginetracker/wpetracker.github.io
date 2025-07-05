@@ -1,6 +1,16 @@
 {
-    "siteCount": 79095,
+    "siteCount": 79101,
     "recentlyMoved": [
+        {
+            "domain_name": "www.activegood.org",
+            "destination": "Pressable",
+            "date": "2025-07-04 23:54:04"
+        },
+        {
+            "domain_name": "advancesheridan.com",
+            "destination": "Pressable",
+            "date": "2025-07-04 23:16:17"
+        },
         {
             "domain_name": "thevillasanur.com",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2025-07-03 22:11:33"
         },
         {
-            "domain_name": "www.setusupthebomb.com",
-            "destination": "BigScoots",
-            "date": "2025-07-03 21:42:17"
-        },
-        {
             "domain_name": "contact.libertybelllaw.com",
             "destination": "Namecheap",
             "date": "2025-07-03 21:33:45"
@@ -495,11 +500,6 @@
             "domain_name": "thekfordgroup.com",
             "destination": "SiteGround",
             "date": "2025-07-03 21:22:08"
-        },
-        {
-            "domain_name": "jwcsitework.com",
-            "destination": "A2 Hosting",
-            "date": "2025-07-03 21:09:24"
         }
     ],
     "dailyMovedStat": {
@@ -792,7 +792,7 @@
         "2025-07-04": "79095"
     },
     "topDestinationHosts": {
-        "Pressable": 10237,
+        "Pressable": 10239,
         "Kinsta": 5143,
         "Digital Ocean": 4426,
         "SiteGround": 4317,
