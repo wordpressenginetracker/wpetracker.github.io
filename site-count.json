@@ -1,6 +1,11 @@
 {
-    "siteCount": 79185,
+    "siteCount": 79194,
     "recentlyMoved": [
+        {
+            "domain_name": "b2b-live.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-05 16:41:34"
+        },
         {
             "domain_name": "mountain-kids.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "nosdesigns.ca",
             "destination": "GridPane",
             "date": "2025-07-04 10:14:43"
-        },
-        {
-            "domain_name": "uksavingsweek.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-07-04 10:02:27"
         }
     ],
     "dailyMovedStat": {
@@ -792,10 +792,26 @@
         "2025-07-04": "79095"
     },
     "topDestinationHosts": {
+        "Pressable": 10244,
+        "Kinsta": 5155,
+        "Digital Ocean": 4430,
         "SiteGround": 4319,
+        "Bluehost": 4033,
+        "Hostinger": 2947,
+        "GoDaddy": 1185,
+        "BigScoots": 589,
+        "Liquid Web": 527,
+        "WordPress.com": 376,
+        "GridPane": 358,
+        "InMotion Hosting": 332,
+        "A2 Hosting": 330,
+        "OVH": 318,
+        "Elementor Hosting": 302,
+        "IONOS": 295,
+        "DreamHost": 284,
         "Namecheap": 273,
-        "HostGator": 171,
-        "Krystal Hosting": 141
+        "Hetzner Online": 227,
+        "Wordify": 184
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
