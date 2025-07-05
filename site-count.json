@@ -1,6 +1,21 @@
 {
-    "siteCount": 79133,
+    "siteCount": 79140,
     "recentlyMoved": [
+        {
+            "domain_name": "clutchvolleyball.com",
+            "destination": "Namecheap",
+            "date": "2025-07-05 09:01:25"
+        },
+        {
+            "domain_name": "safera.ai",
+            "destination": "Hostinger",
+            "date": "2025-07-05 08:59:08"
+        },
+        {
+            "domain_name": "www.glowlaserandbeauty.com",
+            "destination": "Kinsta",
+            "date": "2025-07-05 08:51:57"
+        },
         {
             "domain_name": "aluminumairpipe.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "almontept.com",
             "destination": "SiteGround",
             "date": "2025-07-04 03:46:03"
-        },
-        {
-            "domain_name": "triplehfinancialservices.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 02:31:42"
-        },
-        {
-            "domain_name": "norris-legal.com",
-            "destination": "Hostinger",
-            "date": "2025-07-04 02:17:20"
-        },
-        {
-            "domain_name": "somosindivisible.org",
-            "destination": "SiteGround",
-            "date": "2025-07-04 01:16:47"
         }
     ],
     "dailyMovedStat": {
@@ -792,12 +792,12 @@
         "2025-07-04": "79095"
     },
     "topDestinationHosts": {
-        "Pressable": 10240,
-        "Kinsta": 5148,
+        "Pressable": 10241,
+        "Kinsta": 5149,
         "Digital Ocean": 4426,
         "SiteGround": 4317,
         "Bluehost": 4033,
-        "Hostinger": 2945,
+        "Hostinger": 2946,
         "GoDaddy": 1185,
         "BigScoots": 589,
         "Liquid Web": 527,
@@ -809,7 +809,7 @@
         "Elementor Hosting": 302,
         "IONOS": 293,
         "DreamHost": 284,
-        "Namecheap": 272,
+        "Namecheap": 273,
         "Hetzner Online": 227,
         "Wordify": 184
     },
