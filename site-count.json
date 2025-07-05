@@ -1,6 +1,26 @@
 {
-    "siteCount": 79198,
+    "siteCount": 79208,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stratafundtrack.com",
+            "destination": "Pressable",
+            "date": "2025-07-05 17:55:30"
+        },
+        {
+            "domain_name": "engagerglobal.com",
+            "destination": "SiteGround",
+            "date": "2025-07-05 17:51:22"
+        },
+        {
+            "domain_name": "yellowstonetrack.com",
+            "destination": "Pressable",
+            "date": "2025-07-05 17:38:49"
+        },
+        {
+            "domain_name": "www.shoshannahecht.com",
+            "destination": "Pressable",
+            "date": "2025-07-05 17:19:48"
+        },
         {
             "domain_name": "b2b-live.com",
             "destination": "GoDaddy",
@@ -477,29 +497,9 @@
             "date": "2025-07-04 11:41:38"
         },
         {
-            "domain_name": "wanderlinephoto.com",
-            "destination": "GridPane",
-            "date": "2025-07-04 11:34:56"
-        },
-        {
             "domain_name": "forpeople.digital",
             "destination": "SiteGround",
             "date": "2025-07-04 11:32:36"
-        },
-        {
-            "domain_name": "nobletx.com",
-            "destination": "DreamHost",
-            "date": "2025-07-04 10:28:37"
-        },
-        {
-            "domain_name": "nevodesignhouse.com",
-            "destination": "GridPane",
-            "date": "2025-07-04 10:16:46"
-        },
-        {
-            "domain_name": "nosdesigns.ca",
-            "destination": "GridPane",
-            "date": "2025-07-04 10:14:43"
         }
     ],
     "dailyMovedStat": {
@@ -792,10 +792,10 @@
         "2025-07-04": "79095"
     },
     "topDestinationHosts": {
-        "Pressable": 10244,
+        "Pressable": 10247,
         "Kinsta": 5155,
         "Digital Ocean": 4430,
-        "SiteGround": 4319,
+        "SiteGround": 4320,
         "Bluehost": 4033,
         "Hostinger": 2947,
         "GoDaddy": 1186,
