@@ -1,6 +1,11 @@
 {
-    "siteCount": 79111,
+    "siteCount": 79113,
     "recentlyMoved": [
+        {
+            "domain_name": "laspalmasreservations.com",
+            "destination": "Hostinger",
+            "date": "2025-07-05 05:38:52"
+        },
         {
             "domain_name": "opqic.org",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "thrivingentrepreneur.com",
             "destination": "Pressable",
             "date": "2025-07-03 22:11:33"
-        },
-        {
-            "domain_name": "theresaschmidtphysio.ca",
-            "destination": "Pressable",
-            "date": "2025-07-03 21:32:18"
         }
     ],
     "dailyMovedStat": {
@@ -797,7 +797,7 @@
         "Digital Ocean": 4426,
         "SiteGround": 4317,
         "Bluehost": 4033,
-        "Hostinger": 2944,
+        "Hostinger": 2945,
         "GoDaddy": 1185,
         "BigScoots": 589,
         "Liquid Web": 527,
