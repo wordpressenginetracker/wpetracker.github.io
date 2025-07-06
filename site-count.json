@@ -1,6 +1,11 @@
 {
-    "siteCount": 79255,
+    "siteCount": 79258,
     "recentlyMoved": [
+        {
+            "domain_name": "www.snettishamcottage.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-06 01:19:44"
+        },
         {
             "domain_name": "styleclarityco.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "lifesensors.com",
             "destination": "Hostinger",
             "date": "2025-07-04 13:05:27"
-        },
-        {
-            "domain_name": "languageglobalsolutions.com",
-            "destination": "Hostinger",
-            "date": "2025-07-04 12:48:33"
         }
     ],
     "dailyMovedStat": {
@@ -802,7 +802,7 @@
         "GoDaddy": 1188,
         "BigScoots": 589,
         "Liquid Web": 527,
-        "WordPress.com": 376,
+        "WordPress.com": 377,
         "GridPane": 360,
         "InMotion Hosting": 334,
         "A2 Hosting": 330,
@@ -811,7 +811,7 @@
         "IONOS": 295,
         "DreamHost": 285,
         "Namecheap": 273,
-        "Hetzner Online": 227,
+        "Hetzner Online": 228,
         "Wordify": 184
     },
     "dailyTotalStat": {
