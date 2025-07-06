@@ -1,6 +1,11 @@
 {
-    "siteCount": 79295,
+    "siteCount": 79310,
     "recentlyMoved": [
+        {
+            "domain_name": "palousewomenartists.org",
+            "destination": "GridPane",
+            "date": "2025-07-06 19:30:59"
+        },
         {
             "domain_name": "zenithpaintingandcoatings.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "freyjamedical.com",
             "destination": "Kinsta",
             "date": "2025-07-04 15:30:37"
-        },
-        {
-            "domain_name": "nysoralms.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-04 14:15:44"
         }
     ],
     "dailyMovedStat": {
@@ -803,7 +803,7 @@
         "BigScoots": 589,
         "Liquid Web": 528,
         "WordPress.com": 377,
-        "GridPane": 360,
+        "GridPane": 361,
         "InMotion Hosting": 334,
         "A2 Hosting": 330,
         "OVH": 318,
@@ -811,7 +811,7 @@
         "IONOS": 295,
         "DreamHost": 285,
         "Namecheap": 273,
-        "Hetzner Online": 228,
+        "Hetzner Online": 229,
         "Wordify": 184
     },
     "dailyTotalStat": {
