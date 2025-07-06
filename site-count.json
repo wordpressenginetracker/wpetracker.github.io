@@ -1,6 +1,21 @@
 {
-    "siteCount": 79281,
+    "siteCount": 79284,
     "recentlyMoved": [
+        {
+            "domain_name": "sewingcabinets.com",
+            "destination": "Kinsta",
+            "date": "2025-07-06 12:53:54"
+        },
+        {
+            "domain_name": "skpropertybuyers.com",
+            "destination": "Hostinger",
+            "date": "2025-07-06 12:45:53"
+        },
+        {
+            "domain_name": "bigrivergeo.com",
+            "destination": "Kinsta",
+            "date": "2025-07-06 12:30:22"
+        },
         {
             "domain_name": "posillicoinc.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-07-04 14:14:48"
         },
         {
-            "domain_name": "totaltrailerco.com",
-            "destination": "Bluehost",
-            "date": "2025-07-04 14:09:21"
-        },
-        {
-            "domain_name": "molinarconstruction.com",
-            "destination": "Namecheap",
-            "date": "2025-07-04 13:50:12"
-        },
-        {
             "domain_name": "valetu.com",
             "destination": "SiteGround",
             "date": "2025-07-04 13:45:33"
-        },
-        {
-            "domain_name": "eartohearcare.com",
-            "destination": "A2 Hosting",
-            "date": "2025-07-04 13:38:45"
         }
     ],
     "dailyMovedStat": {
@@ -794,11 +794,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10248,
-        "Kinsta": 5157,
+        "Kinsta": 5159,
         "Digital Ocean": 4430,
         "SiteGround": 4321,
         "Bluehost": 4033,
-        "Hostinger": 2950,
+        "Hostinger": 2951,
         "GoDaddy": 1188,
         "BigScoots": 589,
         "Liquid Web": 527,
