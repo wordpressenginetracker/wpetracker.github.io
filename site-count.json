@@ -1,6 +1,11 @@
 {
-    "siteCount": 79258,
+    "siteCount": 79272,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thestadiumbusiness.com",
+            "destination": "Kinsta",
+            "date": "2025-07-06 03:50:52"
+        },
         {
             "domain_name": "www.snettishamcottage.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "eartohearcare.com",
             "destination": "A2 Hosting",
             "date": "2025-07-04 13:38:45"
-        },
-        {
-            "domain_name": "lifesensors.com",
-            "destination": "Hostinger",
-            "date": "2025-07-04 13:05:27"
         }
     ],
     "dailyMovedStat": {
@@ -794,7 +794,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10248,
-        "Kinsta": 5155,
+        "Kinsta": 5156,
         "Digital Ocean": 4430,
         "SiteGround": 4321,
         "Bluehost": 4033,
