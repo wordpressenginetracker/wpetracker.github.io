@@ -1,6 +1,11 @@
 {
-    "siteCount": 79278,
+    "siteCount": 79281,
     "recentlyMoved": [
+        {
+            "domain_name": "posillicoinc.com",
+            "destination": "Kinsta",
+            "date": "2025-07-06 12:19:22"
+        },
         {
             "domain_name": "stephensvalley.com",
             "destination": "Hostinger",
@@ -482,11 +487,6 @@
             "date": "2025-07-04 14:09:21"
         },
         {
-            "domain_name": "thenovaglobal.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 14:08:59"
-        },
-        {
             "domain_name": "molinarconstruction.com",
             "destination": "Namecheap",
             "date": "2025-07-04 13:50:12"
@@ -794,7 +794,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10248,
-        "Kinsta": 5156,
+        "Kinsta": 5157,
         "Digital Ocean": 4430,
         "SiteGround": 4321,
         "Bluehost": 4033,
