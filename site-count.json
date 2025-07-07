@@ -1,6 +1,11 @@
 {
-    "siteCount": 79372,
+    "siteCount": 79378,
     "recentlyMoved": [
+        {
+            "domain_name": "www.marketmymarket.com",
+            "destination": "Kinsta",
+            "date": "2025-07-07 16:26:51"
+        },
         {
             "domain_name": "audioart.hu",
             "destination": "Hostinger",
@@ -482,11 +487,6 @@
             "date": "2025-07-04 20:10:57"
         },
         {
-            "domain_name": "4seasonswyo.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 20:04:08"
-        },
-        {
             "domain_name": "www.digitalmatter.com",
             "destination": "SiteGround",
             "date": "2025-07-04 19:56:59"
@@ -795,7 +795,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10248,
-        "Kinsta": 5172,
+        "Kinsta": 5173,
         "Digital Ocean": 4431,
         "SiteGround": 4323,
         "Bluehost": 4034,
