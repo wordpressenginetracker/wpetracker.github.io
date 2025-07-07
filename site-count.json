@@ -1,6 +1,11 @@
 {
-    "siteCount": 79414,
+    "siteCount": 79416,
     "recentlyMoved": [
+        {
+            "domain_name": "joeflood.com",
+            "destination": "WordPress.com",
+            "date": "2025-07-07 20:54:50"
+        },
         {
             "domain_name": "automatemecrm.com",
             "destination": "InMotion Hosting",
@@ -482,11 +487,6 @@
             "date": "2025-07-04 20:43:23"
         },
         {
-            "domain_name": "herbalintelligence.com",
-            "destination": "Kinsta",
-            "date": "2025-07-04 20:38:28"
-        },
-        {
             "domain_name": "bayoubrandhouse.com",
             "destination": "BigScoots",
             "date": "2025-07-04 20:30:21"
@@ -795,17 +795,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 10248,
-        "Kinsta": 5173,
-        "Digital Ocean": 4431,
-        "SiteGround": 4323,
+        "Kinsta": 5174,
+        "Digital Ocean": 4434,
+        "SiteGround": 4325,
         "Bluehost": 4034,
         "Hostinger": 2952,
-        "GoDaddy": 1189,
+        "GoDaddy": 1190,
         "BigScoots": 590,
         "Liquid Web": 528,
-        "WordPress.com": 378,
+        "WordPress.com": 379,
         "GridPane": 361,
-        "InMotion Hosting": 334,
+        "InMotion Hosting": 335,
         "A2 Hosting": 334,
         "OVH": 320,
         "Elementor Hosting": 302,
