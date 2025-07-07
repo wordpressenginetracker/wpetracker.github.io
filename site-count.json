@@ -1,6 +1,11 @@
 {
-    "siteCount": 79315,
+    "siteCount": 79320,
     "recentlyMoved": [
+        {
+            "domain_name": "peplanning.org.uk",
+            "destination": "OVH",
+            "date": "2025-07-06 23:55:25"
+        },
         {
             "domain_name": "secure.thecompliancestore.net",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "anthonybear.com",
             "destination": "Kinsta",
             "date": "2025-07-04 15:50:32"
-        },
-        {
-            "domain_name": "freyjamedical.com",
-            "destination": "Kinsta",
-            "date": "2025-07-04 15:30:37"
         }
     ],
     "dailyMovedStat": {
@@ -807,7 +807,7 @@
         "GridPane": 361,
         "InMotion Hosting": 334,
         "A2 Hosting": 330,
-        "OVH": 318,
+        "OVH": 319,
         "Elementor Hosting": 302,
         "IONOS": 295,
         "DreamHost": 285,
