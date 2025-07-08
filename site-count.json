@@ -1,6 +1,21 @@
 {
-    "siteCount": 79444,
+    "siteCount": 79456,
     "recentlyMoved": [
+        {
+            "domain_name": "raptorvision.ai",
+            "destination": "Pressable",
+            "date": "2025-07-08 08:17:42"
+        },
+        {
+            "domain_name": "bardwellbehavioral.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 08:17:25"
+        },
+        {
+            "domain_name": "arcadiadentalri.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 07:37:06"
+        },
         {
             "domain_name": "keithwenger.com",
             "destination": "Bluehost",
@@ -482,24 +497,9 @@
             "date": "2025-07-04 23:16:17"
         },
         {
-            "domain_name": "thevillasanur.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 21:49:29"
-        },
-        {
             "domain_name": "door2doortaxi.co.uk",
             "destination": "SiteGround",
             "date": "2025-07-04 21:22:17"
-        },
-        {
-            "domain_name": "luckdentalcare.com",
-            "destination": "SiteGround",
-            "date": "2025-07-04 21:10:18"
-        },
-        {
-            "domain_name": "www.peachfullychic.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 20:44:35"
         }
     ],
     "dailyMovedStat": {
@@ -796,7 +796,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10249,
-        "Kinsta": 5174,
+        "Kinsta": 5175,
         "Digital Ocean": 4436,
         "SiteGround": 4325,
         "Bluehost": 4035,
