@@ -1,6 +1,11 @@
 {
-    "siteCount": 79429,
+    "siteCount": 79439,
     "recentlyMoved": [
+        {
+            "domain_name": "keithwenger.com",
+            "destination": "Bluehost",
+            "date": "2025-07-08 04:41:02"
+        },
         {
             "domain_name": "godsolovestheworld.net",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.peachfullychic.com",
             "destination": "Pressable",
             "date": "2025-07-04 20:44:35"
-        },
-        {
-            "domain_name": "searchblackmaletherapists.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 20:43:23"
         }
     ],
     "dailyMovedStat": {
@@ -799,7 +799,7 @@
         "Kinsta": 5174,
         "Digital Ocean": 4436,
         "SiteGround": 4325,
-        "Bluehost": 4034,
+        "Bluehost": 4035,
         "Hostinger": 2952,
         "GoDaddy": 1191,
         "BigScoots": 590,
