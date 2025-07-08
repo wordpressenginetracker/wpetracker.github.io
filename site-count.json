@@ -1,10 +1,20 @@
 {
-    "siteCount": 79531,
+    "siteCount": 79547,
     "recentlyMoved": [
+        {
+            "domain_name": "justsoldkingston.com",
+            "destination": "SiteGround",
+            "date": "2025-07-08 17:05:40"
+        },
         {
             "domain_name": "www.cornellforge.com",
             "destination": "Liquid Web",
             "date": "2025-07-08 16:36:01"
+        },
+        {
+            "domain_name": "www.herrininsurancefinancialgroup.com",
+            "destination": "Pressable",
+            "date": "2025-07-08 16:35:53"
         },
         {
             "domain_name": "www.plazaoffices.com",
@@ -12,9 +22,19 @@
             "date": "2025-07-08 16:30:50"
         },
         {
+            "domain_name": "bpbuilderct.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 16:27:56"
+        },
+        {
             "domain_name": "pineypawn.com",
             "destination": "GoDaddy",
             "date": "2025-07-08 16:20:34"
+        },
+        {
+            "domain_name": "saralorien.com",
+            "destination": "Pressable",
+            "date": "2025-07-08 16:19:45"
         },
         {
             "domain_name": "haileylauralievisuals.com",
@@ -472,11 +492,6 @@
             "date": "2025-07-05 13:44:49"
         },
         {
-            "domain_name": "www.primasolutions.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-07-05 13:32:12"
-        },
-        {
             "domain_name": "thelisateam.com",
             "destination": "SiteGround",
             "date": "2025-07-05 13:23:48"
@@ -485,21 +500,6 @@
             "domain_name": "www.sodfarmfest.org",
             "destination": "Pressable",
             "date": "2025-07-05 13:22:53"
-        },
-        {
-            "domain_name": "www.obprivate.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-07-05 13:20:41"
-        },
-        {
-            "domain_name": "www.sheridanfosterparentexchange.org",
-            "destination": "Pressable",
-            "date": "2025-07-05 13:02:10"
-        },
-        {
-            "domain_name": "calwep.org",
-            "destination": "Kinsta",
-            "date": "2025-07-05 12:52:06"
         }
     ],
     "dailyMovedStat": {
@@ -795,10 +795,10 @@
         "2025-07-07": "79416"
     },
     "topDestinationHosts": {
-        "Pressable": 10251,
-        "Kinsta": 5185,
+        "Pressable": 10253,
+        "Kinsta": 5186,
         "Digital Ocean": 4438,
-        "SiteGround": 4328,
+        "SiteGround": 4329,
         "Bluehost": 4036,
         "Hostinger": 2954,
         "GoDaddy": 1194,
