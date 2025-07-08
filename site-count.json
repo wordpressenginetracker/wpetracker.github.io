@@ -1,10 +1,15 @@
 {
-    "siteCount": 79497,
+    "siteCount": 79504,
     "recentlyMoved": [
         {
             "domain_name": "www.perpetuallegacies.com",
             "destination": "Kinsta",
             "date": "2025-07-08 13:33:48"
+        },
+        {
+            "domain_name": "dealerinline.com",
+            "destination": "Hostinger",
+            "date": "2025-07-08 13:26:33"
         },
         {
             "domain_name": "colonialtowndental.com",
@@ -487,11 +492,6 @@
             "date": "2025-07-05 10:00:49"
         },
         {
-            "domain_name": "supervisionsimplified.com",
-            "destination": "SiteGround",
-            "date": "2025-07-05 09:51:53"
-        },
-        {
             "domain_name": "emeraldthc.com",
             "destination": "Kinsta",
             "date": "2025-07-05 09:50:20"
@@ -795,12 +795,12 @@
         "2025-07-07": "79416"
     },
     "topDestinationHosts": {
-        "Pressable": 10250,
+        "Pressable": 10251,
         "Kinsta": 5183,
         "Digital Ocean": 4436,
         "SiteGround": 4328,
         "Bluehost": 4035,
-        "Hostinger": 2953,
+        "Hostinger": 2954,
         "GoDaddy": 1193,
         "BigScoots": 590,
         "Liquid Web": 528,
