@@ -1,6 +1,11 @@
 {
-    "siteCount": 79416,
+    "siteCount": 79421,
     "recentlyMoved": [
+        {
+            "domain_name": "fullsailcre.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-07 23:29:55"
+        },
         {
             "domain_name": "joeflood.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "humanitymedia.net",
             "destination": "Kinsta",
             "date": "2025-07-04 20:29:26"
-        },
-        {
-            "domain_name": "www.digitalmatter.com",
-            "destination": "SiteGround",
-            "date": "2025-07-04 19:56:59"
         }
     ],
     "dailyMovedStat": {
@@ -801,7 +801,7 @@
         "SiteGround": 4325,
         "Bluehost": 4034,
         "Hostinger": 2952,
-        "GoDaddy": 1190,
+        "GoDaddy": 1191,
         "BigScoots": 590,
         "Liquid Web": 528,
         "WordPress.com": 379,
