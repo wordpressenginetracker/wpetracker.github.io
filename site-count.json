@@ -1,6 +1,36 @@
 {
-    "siteCount": 79456,
+    "siteCount": 79466,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ridgewaytraining.co.uk",
+            "destination": "IONOS",
+            "date": "2025-07-08 09:04:35"
+        },
+        {
+            "domain_name": "breakwaterstonington.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 08:46:31"
+        },
+        {
+            "domain_name": "caswellcooke.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 08:43:50"
+        },
+        {
+            "domain_name": "buildersect.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 08:37:53"
+        },
+        {
+            "domain_name": "cadcontractingfl.com",
+            "destination": "Kinsta",
+            "date": "2025-07-08 08:23:43"
+        },
+        {
+            "domain_name": "inno4llc.com",
+            "destination": "SiteGround",
+            "date": "2025-07-08 08:18:28"
+        },
         {
             "domain_name": "raptorvision.ai",
             "destination": "Pressable",
@@ -467,39 +497,9 @@
             "date": "2025-07-05 07:17:58"
         },
         {
-            "domain_name": "laspalmasreservations.com",
-            "destination": "Hostinger",
-            "date": "2025-07-05 05:38:52"
-        },
-        {
             "domain_name": "lmcresources.org",
             "destination": "Hetzner Online",
             "date": "2025-07-05 05:30:09"
-        },
-        {
-            "domain_name": "opqic.org",
-            "destination": "Bluehost",
-            "date": "2025-07-05 03:41:55"
-        },
-        {
-            "domain_name": "bighornbeverage.com",
-            "destination": "Pressable",
-            "date": "2025-07-05 00:41:51"
-        },
-        {
-            "domain_name": "www.activegood.org",
-            "destination": "Pressable",
-            "date": "2025-07-04 23:54:04"
-        },
-        {
-            "domain_name": "advancesheridan.com",
-            "destination": "Pressable",
-            "date": "2025-07-04 23:16:17"
-        },
-        {
-            "domain_name": "door2doortaxi.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-07-04 21:22:17"
         }
     ],
     "dailyMovedStat": {
@@ -795,10 +795,10 @@
         "2025-07-07": "79416"
     },
     "topDestinationHosts": {
-        "Pressable": 10249,
-        "Kinsta": 5175,
+        "Pressable": 10250,
+        "Kinsta": 5180,
         "Digital Ocean": 4436,
-        "SiteGround": 4325,
+        "SiteGround": 4326,
         "Bluehost": 4035,
         "Hostinger": 2952,
         "GoDaddy": 1191,
