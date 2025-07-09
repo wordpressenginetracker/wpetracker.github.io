@@ -1,6 +1,11 @@
 {
-    "siteCount": 79670,
+    "siteCount": 79671,
     "recentlyMoved": [
+        {
+            "domain_name": "viteey.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-09 06:27:51"
+        },
         {
             "domain_name": "japingkaaboriginalart.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "lakeralphhall.com",
             "destination": "Kinsta",
             "date": "2025-07-07 12:54:47"
-        },
-        {
-            "domain_name": "sfrepair.com",
-            "destination": "A2 Hosting",
-            "date": "2025-07-07 12:30:47"
         }
     ],
     "dailyMovedStat": {
@@ -798,7 +798,7 @@
     "topDestinationHosts": {
         "Pressable": 10258,
         "Kinsta": 5212,
-        "Digital Ocean": 4443,
+        "Digital Ocean": 4444,
         "SiteGround": 4337,
         "Bluehost": 4040,
         "Hostinger": 2956,
