@@ -1,10 +1,30 @@
 {
-    "siteCount": 79908,
+    "siteCount": 79919,
     "recentlyMoved": [
+        {
+            "domain_name": "coastalhomeservicesinc.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-09 20:57:39"
+        },
+        {
+            "domain_name": "cdba.org.au",
+            "destination": "SiteGround",
+            "date": "2025-07-09 20:49:55"
+        },
+        {
+            "domain_name": "katrinalai.com.au",
+            "destination": "Pressable",
+            "date": "2025-07-09 20:48:16"
+        },
         {
             "domain_name": "area224.com",
             "destination": "Pressable",
             "date": "2025-07-09 20:27:56"
+        },
+        {
+            "domain_name": "bluespadepropertymanagement.com",
+            "destination": "Hostinger",
+            "date": "2025-07-09 20:14:33"
         },
         {
             "domain_name": "marynute.com",
@@ -480,26 +500,6 @@
             "domain_name": "flarefireandelectrical.com.au",
             "destination": "Bluehost",
             "date": "2025-07-08 23:11:03"
-        },
-        {
-            "domain_name": "missourivalleyfop.org",
-            "destination": "Kinsta",
-            "date": "2025-07-08 22:21:50"
-        },
-        {
-            "domain_name": "tucsonfop1.org",
-            "destination": "Kinsta",
-            "date": "2025-07-08 22:12:22"
-        },
-        {
-            "domain_name": "dpcf.org",
-            "destination": "Kinsta",
-            "date": "2025-07-08 22:03:06"
-        },
-        {
-            "domain_name": "utahcofop31.org",
-            "destination": "Kinsta",
-            "date": "2025-07-08 21:47:56"
         }
     ],
     "dailyMovedStat": {
@@ -796,12 +796,12 @@
         "2025-07-08": "79637"
     },
     "topDestinationHosts": {
-        "Pressable": 10283,
+        "Pressable": 10284,
         "Kinsta": 5241,
         "Digital Ocean": 4454,
-        "SiteGround": 4348,
+        "SiteGround": 4349,
         "Bluehost": 4040,
-        "Hostinger": 2966,
+        "Hostinger": 2967,
         "GoDaddy": 1194,
         "BigScoots": 591,
         "Liquid Web": 529,
