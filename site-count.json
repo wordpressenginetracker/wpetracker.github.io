@@ -1,6 +1,16 @@
 {
-    "siteCount": 79661,
+    "siteCount": 79666,
     "recentlyMoved": [
+        {
+            "domain_name": "japingkaaboriginalart.com",
+            "destination": "Pressable",
+            "date": "2025-07-09 05:08:32"
+        },
+        {
+            "domain_name": "www.pavilionshotels.com",
+            "destination": "Kinsta",
+            "date": "2025-07-09 05:05:55"
+        },
         {
             "domain_name": "www.architecturalplants.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2025-07-07 12:54:47"
         },
         {
-            "domain_name": "www.lekantoetlevita.be",
-            "destination": "Kinsta",
-            "date": "2025-07-07 12:37:43"
-        },
-        {
             "domain_name": "sfrepair.com",
             "destination": "A2 Hosting",
             "date": "2025-07-07 12:30:47"
-        },
-        {
-            "domain_name": "holyloveinstitute.com",
-            "destination": "Kinsta",
-            "date": "2025-07-07 12:03:50"
         }
     ],
     "dailyMovedStat": {
@@ -796,8 +796,8 @@
         "2025-07-08": "79637"
     },
     "topDestinationHosts": {
-        "Pressable": 10257,
-        "Kinsta": 5211,
+        "Pressable": 10258,
+        "Kinsta": 5212,
         "Digital Ocean": 4443,
         "SiteGround": 4337,
         "Bluehost": 4040,
