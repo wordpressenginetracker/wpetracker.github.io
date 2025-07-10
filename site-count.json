@@ -1,6 +1,26 @@
 {
-    "siteCount": 79943,
+    "siteCount": 79952,
     "recentlyMoved": [
+        {
+            "domain_name": "sirpig.com.au",
+            "destination": "Pressable",
+            "date": "2025-07-10 01:19:51"
+        },
+        {
+            "domain_name": "sleepscienceacademy.com",
+            "destination": "Kinsta",
+            "date": "2025-07-10 01:16:55"
+        },
+        {
+            "domain_name": "shockwavemedia.com.au",
+            "destination": "Hostinger",
+            "date": "2025-07-10 01:08:53"
+        },
+        {
+            "domain_name": "indigochildren.com",
+            "destination": "Kinsta",
+            "date": "2025-07-10 00:54:29"
+        },
         {
             "domain_name": "avovin.ca",
             "destination": "OVH",
@@ -10,6 +30,21 @@
             "domain_name": "antiqueresourcesinc.com",
             "destination": "Pressable",
             "date": "2025-07-10 00:29:47"
+        },
+        {
+            "domain_name": "sentinel-solutions.com",
+            "destination": "Kinsta",
+            "date": "2025-07-10 00:29:05"
+        },
+        {
+            "domain_name": "www.leapfrogtoyblog.ca",
+            "destination": "WordPress.com",
+            "date": "2025-07-10 00:24:49"
+        },
+        {
+            "domain_name": "indeeza.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-07-10 00:15:43"
         },
         {
             "domain_name": "fishouflage.co.uk",
@@ -457,11 +492,6 @@
             "date": "2025-07-09 09:08:12"
         },
         {
-            "domain_name": "www.laserdermdoc.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 08:58:32"
-        },
-        {
             "domain_name": "www.mswritersandmusicians.com",
             "destination": "SiteGround",
             "date": "2025-07-09 08:46:14"
@@ -470,36 +500,6 @@
             "domain_name": "kitedistribution.co.uk",
             "destination": "SiteGround",
             "date": "2025-07-09 08:40:31"
-        },
-        {
-            "domain_name": "www.comparebusinessinternet.com.au",
-            "destination": "Hostinger",
-            "date": "2025-07-09 08:39:30"
-        },
-        {
-            "domain_name": "www.compareautoloans.com.au",
-            "destination": "Hostinger",
-            "date": "2025-07-09 08:39:30"
-        },
-        {
-            "domain_name": "hbra-ct.org",
-            "destination": "Kinsta",
-            "date": "2025-07-09 08:34:19"
-        },
-        {
-            "domain_name": "www.businesselectricityquotes.com.au",
-            "destination": "Hostinger",
-            "date": "2025-07-09 08:00:45"
-        },
-        {
-            "domain_name": "www.callanish.net",
-            "destination": "Digital Ocean",
-            "date": "2025-07-09 07:58:45"
-        },
-        {
-            "domain_name": "www.aestheticnursesoftware.com",
-            "destination": "IONOS",
-            "date": "2025-07-09 07:53:18"
         }
     ],
     "dailyMovedStat": {
@@ -797,21 +797,21 @@
         "2025-07-09": "79928"
     },
     "topDestinationHosts": {
-        "Pressable": 10286,
-        "Kinsta": 5246,
+        "Pressable": 10287,
+        "Kinsta": 5249,
         "Digital Ocean": 4454,
         "SiteGround": 4351,
         "Bluehost": 4040,
-        "Hostinger": 2967,
+        "Hostinger": 2968,
         "GoDaddy": 1196,
         "BigScoots": 591,
         "Liquid Web": 529,
-        "WordPress.com": 380,
+        "WordPress.com": 381,
         "GridPane": 361,
         "InMotion Hosting": 337,
         "A2 Hosting": 336,
         "OVH": 321,
-        "Elementor Hosting": 302,
+        "Elementor Hosting": 303,
         "IONOS": 300,
         "DreamHost": 285,
         "Namecheap": 274,
