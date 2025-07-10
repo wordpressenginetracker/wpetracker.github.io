@@ -1,6 +1,11 @@
 {
-    "siteCount": 79977,
+    "siteCount": 79981,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thehealersclinic.com",
+            "destination": "Bluehost",
+            "date": "2025-07-10 05:48:56"
+        },
         {
             "domain_name": "www.marksdentureslab.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "vhvct.org",
             "destination": "Kinsta",
             "date": "2025-07-09 10:38:23"
-        },
-        {
-            "domain_name": "eastonfire.com",
-            "destination": "WordPress.com",
-            "date": "2025-07-09 10:05:39"
         }
     ],
     "dailyMovedStat": {
@@ -801,7 +801,7 @@
         "Kinsta": 5253,
         "Digital Ocean": 4457,
         "SiteGround": 4353,
-        "Bluehost": 4040,
+        "Bluehost": 4041,
         "Hostinger": 2968,
         "GoDaddy": 1196,
         "BigScoots": 591,
