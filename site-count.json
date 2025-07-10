@@ -1,6 +1,21 @@
 {
-    "siteCount": 79981,
+    "siteCount": 79991,
     "recentlyMoved": [
+        {
+            "domain_name": "www.agelessskinandlasers.com",
+            "destination": "Kinsta",
+            "date": "2025-07-10 08:05:31"
+        },
+        {
+            "domain_name": "hivestyle.com",
+            "destination": "Hostinger",
+            "date": "2025-07-10 08:00:35"
+        },
+        {
+            "domain_name": "plazmaman.com",
+            "destination": "Wordify",
+            "date": "2025-07-10 07:42:19"
+        },
         {
             "domain_name": "www.thehealersclinic.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "www.beardsleewaites.com",
             "destination": "Pressable",
             "date": "2025-07-09 11:50:48"
-        },
-        {
-            "domain_name": "acechem.com",
-            "destination": "Pressable",
-            "date": "2025-07-09 11:19:32"
-        },
-        {
-            "domain_name": "westerlylandtrust.org",
-            "destination": "Kinsta",
-            "date": "2025-07-09 11:17:37"
-        },
-        {
-            "domain_name": "vhvct.org",
-            "destination": "Kinsta",
-            "date": "2025-07-09 10:38:23"
         }
     ],
     "dailyMovedStat": {
@@ -798,7 +798,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10288,
-        "Kinsta": 5253,
+        "Kinsta": 5254,
         "Digital Ocean": 4457,
         "SiteGround": 4353,
         "Bluehost": 4041,
@@ -816,7 +816,7 @@
         "DreamHost": 285,
         "Namecheap": 274,
         "Hetzner Online": 231,
-        "Wordify": 184
+        "Wordify": 185
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
