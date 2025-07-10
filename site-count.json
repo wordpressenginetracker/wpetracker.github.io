@@ -1,6 +1,26 @@
 {
-    "siteCount": 80058,
+    "siteCount": 80073,
     "recentlyMoved": [
+        {
+            "domain_name": "www.siminetti.com",
+            "destination": "SiteGround",
+            "date": "2025-07-10 13:49:20"
+        },
+        {
+            "domain_name": "stevesanduski.com",
+            "destination": "Pressable",
+            "date": "2025-07-10 13:09:27"
+        },
+        {
+            "domain_name": "www.medainc.org",
+            "destination": "SiteGround",
+            "date": "2025-07-10 13:05:38"
+        },
+        {
+            "domain_name": "berkshireacres.com",
+            "destination": "Pressable",
+            "date": "2025-07-10 12:50:30"
+        },
         {
             "domain_name": "www.caputoinsurance.com",
             "destination": "Pressable",
@@ -10,6 +30,11 @@
             "domain_name": "www.brookfieldcomputers.com",
             "destination": "Pressable",
             "date": "2025-07-10 12:22:05"
+        },
+        {
+            "domain_name": "bisaf.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2025-07-10 12:12:21"
         },
         {
             "domain_name": "redrocketeers.org",
@@ -437,11 +462,6 @@
             "date": "2025-07-09 14:02:22"
         },
         {
-            "domain_name": "ctcrushbaseball.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 13:52:25"
-        },
-        {
             "domain_name": "tech4040.com",
             "destination": "Kinsta",
             "date": "2025-07-09 13:51:55"
@@ -450,11 +470,6 @@
             "domain_name": "tech4035.com",
             "destination": "Kinsta",
             "date": "2025-07-09 13:51:55"
-        },
-        {
-            "domain_name": "sunraypediatricdentistry.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 13:49:32"
         },
         {
             "domain_name": "destinationdentalusa.com",
@@ -467,19 +482,9 @@
             "date": "2025-07-09 13:41:59"
         },
         {
-            "domain_name": "sudkings.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 13:34:48"
-        },
-        {
             "domain_name": "dischfranklin.com",
             "destination": "Kinsta",
             "date": "2025-07-09 13:32:19"
-        },
-        {
-            "domain_name": "www.shopwda.org",
-            "destination": "Pressable",
-            "date": "2025-07-09 13:31:38"
         },
         {
             "domain_name": "timetothrivecoaching.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.thesexmd.com",
             "destination": "Pressable",
             "date": "2025-07-09 13:08:08"
-        },
-        {
-            "domain_name": "lighthouseprograms.com",
-            "destination": "Hostinger",
-            "date": "2025-07-09 12:54:27"
         }
     ],
     "dailyMovedStat": {
@@ -797,10 +797,10 @@
         "2025-07-09": "79928"
     },
     "topDestinationHosts": {
-        "Pressable": 10293,
-        "Kinsta": 5260,
+        "Pressable": 10295,
+        "Kinsta": 5261,
         "Digital Ocean": 4457,
-        "SiteGround": 4358,
+        "SiteGround": 4361,
         "Bluehost": 4041,
         "Hostinger": 2970,
         "GoDaddy": 1197,
