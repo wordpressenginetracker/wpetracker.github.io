@@ -1,6 +1,21 @@
 {
-    "siteCount": 80151,
+    "siteCount": 80191,
     "recentlyMoved": [
+        {
+            "domain_name": "advancevermont.org",
+            "destination": "Kinsta",
+            "date": "2025-07-10 20:03:44"
+        },
+        {
+            "domain_name": "arrowbrightdesign.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-10 19:37:44"
+        },
+        {
+            "domain_name": "flamecanna.com",
+            "destination": "Kinsta",
+            "date": "2025-07-10 19:29:47"
+        },
         {
             "domain_name": "ngcgroupinc.com",
             "destination": "Namecheap",
@@ -482,24 +497,9 @@
             "date": "2025-07-09 20:14:33"
         },
         {
-            "domain_name": "marynute.com",
-            "destination": "SiteGround",
-            "date": "2025-07-09 17:42:26"
-        },
-        {
-            "domain_name": "www.widmerscheese.com",
-            "destination": "Pressable",
-            "date": "2025-07-09 17:38:23"
-        },
-        {
             "domain_name": "metasip.com",
             "destination": "Pressable",
             "date": "2025-07-09 17:34:50"
-        },
-        {
-            "domain_name": "tgnr.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 17:16:52"
         }
     ],
     "dailyMovedStat": {
@@ -798,22 +798,22 @@
     },
     "topDestinationHosts": {
         "Pressable": 10306,
-        "Kinsta": 5267,
+        "Kinsta": 5269,
         "Digital Ocean": 4459,
-        "SiteGround": 4365,
+        "SiteGround": 4366,
         "Bluehost": 4043,
         "Hostinger": 2972,
-        "GoDaddy": 1198,
+        "GoDaddy": 1199,
         "BigScoots": 591,
         "Liquid Web": 530,
         "WordPress.com": 382,
         "GridPane": 361,
-        "InMotion Hosting": 337,
+        "InMotion Hosting": 338,
         "A2 Hosting": 336,
         "OVH": 322,
         "Elementor Hosting": 303,
         "IONOS": 300,
-        "DreamHost": 285,
+        "DreamHost": 286,
         "Namecheap": 275,
         "Hetzner Online": 232,
         "Wordify": 185
