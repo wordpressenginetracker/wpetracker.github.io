@@ -1,6 +1,11 @@
 {
-    "siteCount": 80232,
+    "siteCount": 80240,
     "recentlyMoved": [
+        {
+            "domain_name": "marko-dimitrijevic.org",
+            "destination": "Namecheap",
+            "date": "2025-07-11 05:20:05"
+        },
         {
             "domain_name": "www.neuroneeds.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-07-10 00:15:43"
         },
         {
-            "domain_name": "fishouflage.co.uk",
-            "destination": "Pressable",
-            "date": "2025-07-09 23:55:06"
-        },
-        {
             "domain_name": "ftassociation.com",
             "destination": "SiteGround",
             "date": "2025-07-09 23:49:55"
@@ -815,7 +815,7 @@
         "Elementor Hosting": 303,
         "IONOS": 300,
         "DreamHost": 286,
-        "Namecheap": 275,
+        "Namecheap": 276,
         "Hetzner Online": 232,
         "Wordify": 185
     },
