@@ -1,10 +1,30 @@
 {
-    "siteCount": 80212,
+    "siteCount": 80222,
     "recentlyMoved": [
+        {
+            "domain_name": "teameverflow.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-11 01:54:40"
+        },
+        {
+            "domain_name": "michaelhalassa.net",
+            "destination": "GoDaddy",
+            "date": "2025-07-11 01:52:21"
+        },
+        {
+            "domain_name": "michaelhalassa.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-11 01:52:21"
+        },
         {
             "domain_name": "www.pagefamilypractice.com",
             "destination": "Pressable",
             "date": "2025-07-11 01:27:18"
+        },
+        {
+            "domain_name": "www.ventit.com.au",
+            "destination": "SiteGround",
+            "date": "2025-07-11 01:24:41"
         },
         {
             "domain_name": "cbmjinc.com",
@@ -477,29 +497,9 @@
             "date": "2025-07-09 23:09:09"
         },
         {
-            "domain_name": "maccommercialcapital.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-09 21:59:33"
-        },
-        {
             "domain_name": "universityskininstitute.com",
             "destination": "Kinsta",
             "date": "2025-07-09 21:44:25"
-        },
-        {
-            "domain_name": "martinscorp.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 21:30:47"
-        },
-        {
-            "domain_name": "theengineering100.com",
-            "destination": "SiteGround",
-            "date": "2025-07-09 21:18:21"
-        },
-        {
-            "domain_name": "supply4gi.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-09 20:57:34"
         }
     ],
     "dailyMovedStat": {
@@ -801,10 +801,10 @@
         "Pressable": 10307,
         "Kinsta": 5269,
         "Digital Ocean": 4460,
-        "SiteGround": 4367,
+        "SiteGround": 4368,
         "Bluehost": 4043,
         "Hostinger": 2972,
-        "GoDaddy": 1200,
+        "GoDaddy": 1203,
         "BigScoots": 591,
         "Liquid Web": 530,
         "WordPress.com": 382,
