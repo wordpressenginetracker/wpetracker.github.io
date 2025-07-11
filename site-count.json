@@ -1,6 +1,21 @@
 {
-    "siteCount": 80207,
+    "siteCount": 80212,
     "recentlyMoved": [
+        {
+            "domain_name": "www.pagefamilypractice.com",
+            "destination": "Pressable",
+            "date": "2025-07-11 01:27:18"
+        },
+        {
+            "domain_name": "cbmjinc.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-11 01:09:49"
+        },
+        {
+            "domain_name": "bradleedeanblog.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-11 00:33:36"
+        },
         {
             "domain_name": "wilsonmcwhorter.com",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-07-09 21:18:21"
         },
         {
-            "domain_name": "littlestnick.org",
-            "destination": "Kinsta",
-            "date": "2025-07-09 20:57:51"
-        },
-        {
-            "domain_name": "coastalhomeservicesinc.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-09 20:57:39"
-        },
-        {
             "domain_name": "supply4gi.com",
             "destination": "InMotion Hosting",
             "date": "2025-07-09 20:57:34"
-        },
-        {
-            "domain_name": "cdba.org.au",
-            "destination": "SiteGround",
-            "date": "2025-07-09 20:49:55"
         }
     ],
     "dailyMovedStat": {
@@ -798,7 +798,7 @@
         "2025-07-10": "80198"
     },
     "topDestinationHosts": {
-        "Pressable": 10306,
+        "Pressable": 10307,
         "Kinsta": 5269,
         "Digital Ocean": 4460,
         "SiteGround": 4367,
@@ -809,7 +809,7 @@
         "Liquid Web": 530,
         "WordPress.com": 382,
         "GridPane": 361,
-        "InMotion Hosting": 339,
+        "InMotion Hosting": 341,
         "A2 Hosting": 336,
         "OVH": 322,
         "Elementor Hosting": 303,
