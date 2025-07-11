@@ -1,6 +1,16 @@
 {
-    "siteCount": 80222,
+    "siteCount": 80228,
     "recentlyMoved": [
+        {
+            "domain_name": "ramsesexhibition.jp",
+            "destination": "Hostinger",
+            "date": "2025-07-11 04:15:34"
+        },
+        {
+            "domain_name": "floridianpress.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-11 03:57:25"
+        },
         {
             "domain_name": "teameverflow.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "wallacecunninghamfoundation.org",
             "destination": "Kinsta",
             "date": "2025-07-09 23:09:09"
-        },
-        {
-            "domain_name": "wallacecunningham.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 23:09:09"
-        },
-        {
-            "domain_name": "universityskininstitute.com",
-            "destination": "Kinsta",
-            "date": "2025-07-09 21:44:25"
         }
     ],
     "dailyMovedStat": {
@@ -803,13 +803,13 @@
         "Digital Ocean": 4460,
         "SiteGround": 4368,
         "Bluehost": 4043,
-        "Hostinger": 2972,
+        "Hostinger": 2973,
         "GoDaddy": 1203,
         "BigScoots": 591,
         "Liquid Web": 530,
         "WordPress.com": 382,
         "GridPane": 361,
-        "InMotion Hosting": 341,
+        "InMotion Hosting": 342,
         "A2 Hosting": 336,
         "OVH": 322,
         "Elementor Hosting": 303,
