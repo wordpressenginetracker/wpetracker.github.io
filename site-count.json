@@ -1,6 +1,11 @@
 {
-    "siteCount": 80516,
+    "siteCount": 80523,
     "recentlyMoved": [
+        {
+            "domain_name": "deneenborelli.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-12 06:03:55"
+        },
         {
             "domain_name": "comicallyincorrect.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "maxumirrigation.com",
             "destination": "Kinsta",
             "date": "2025-07-11 09:12:13"
-        },
-        {
-            "domain_name": "jordanbrook.com",
-            "destination": "Kinsta",
-            "date": "2025-07-11 08:46:00"
         }
     ],
     "dailyMovedStat": {
@@ -810,7 +810,7 @@
         "Liquid Web": 532,
         "WordPress.com": 384,
         "GridPane": 361,
-        "InMotion Hosting": 347,
+        "InMotion Hosting": 348,
         "A2 Hosting": 336,
         "OVH": 322,
         "Elementor Hosting": 303,
