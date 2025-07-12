@@ -1,6 +1,11 @@
 {
-    "siteCount": 80488,
+    "siteCount": 80494,
     "recentlyMoved": [
+        {
+            "domain_name": "markodimitrijevic.net",
+            "destination": "Namecheap",
+            "date": "2025-07-12 01:51:09"
+        },
         {
             "domain_name": "sonsoflibertymedia.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "www.comparecopiers.co.nz",
             "destination": "Hostinger",
             "date": "2025-07-11 07:47:54"
-        },
-        {
-            "domain_name": "marko-dimitrijevic.org",
-            "destination": "Namecheap",
-            "date": "2025-07-11 05:20:05"
         }
     ],
     "dailyMovedStat": {
@@ -816,7 +816,7 @@
         "Elementor Hosting": 303,
         "IONOS": 300,
         "DreamHost": 286,
-        "Namecheap": 276,
+        "Namecheap": 277,
         "Hetzner Online": 233,
         "Wordify": 185
     },
