@@ -1,6 +1,31 @@
 {
-    "siteCount": 80666,
+    "siteCount": 80719,
     "recentlyMoved": [
+        {
+            "domain_name": "guesthop.com",
+            "destination": "Pressable",
+            "date": "2025-07-12 20:27:58"
+        },
+        {
+            "domain_name": "podcast.anthonybear.com",
+            "destination": "Kinsta",
+            "date": "2025-07-12 20:24:28"
+        },
+        {
+            "domain_name": "wearefixel.com",
+            "destination": "Kinsta",
+            "date": "2025-07-12 20:03:37"
+        },
+        {
+            "domain_name": "presentwithintent.com",
+            "destination": "SiteGround",
+            "date": "2025-07-12 19:51:43"
+        },
+        {
+            "domain_name": "angelfirehomes.com",
+            "destination": "SiteGround",
+            "date": "2025-07-12 19:49:55"
+        },
         {
             "domain_name": "evansayet.com",
             "destination": "InMotion Hosting",
@@ -475,31 +500,6 @@
             "domain_name": "www.roseaircraft.com",
             "destination": "Digital Ocean",
             "date": "2025-07-11 21:11:29"
-        },
-        {
-            "domain_name": "scarletthotelgroup.com",
-            "destination": "SiteGround",
-            "date": "2025-07-11 20:58:31"
-        },
-        {
-            "domain_name": "www.elkantlerdogchews.com",
-            "destination": "SiteGround",
-            "date": "2025-07-11 20:45:14"
-        },
-        {
-            "domain_name": "www.bioionix.com",
-            "destination": "Pressable",
-            "date": "2025-07-11 20:30:18"
-        },
-        {
-            "domain_name": "www.everythingsprouts.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-11 20:17:37"
-        },
-        {
-            "domain_name": "becomingceremony.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-11 19:56:54"
         }
     ],
     "dailyMovedStat": {
@@ -799,10 +799,10 @@
         "2025-07-11": "80476"
     },
     "topDestinationHosts": {
-        "Pressable": 10367,
-        "Kinsta": 5320,
+        "Pressable": 10368,
+        "Kinsta": 5324,
         "Digital Ocean": 4468,
-        "SiteGround": 4387,
+        "SiteGround": 4391,
         "Bluehost": 4044,
         "Hostinger": 2996,
         "GoDaddy": 1206,
@@ -811,7 +811,7 @@
         "WordPress.com": 384,
         "GridPane": 361,
         "InMotion Hosting": 359,
-        "A2 Hosting": 336,
+        "A2 Hosting": 337,
         "OVH": 322,
         "Elementor Hosting": 303,
         "IONOS": 300,
