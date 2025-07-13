@@ -1,6 +1,11 @@
 {
-    "siteCount": 80759,
+    "siteCount": 80760,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fibretrade.com",
+            "destination": "Pressable",
+            "date": "2025-07-13 08:01:50"
+        },
         {
             "domain_name": "evocreative.com",
             "destination": "Krystal Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-07-12 08:20:04"
         },
         {
-            "domain_name": "finerugwarehouse.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 07:55:40"
-        },
-        {
             "domain_name": "gainesvilleperiodontics.com",
             "destination": "Hostinger",
             "date": "2025-07-12 07:40:36"
@@ -800,7 +800,7 @@
         "2025-07-12": "80737"
     },
     "topDestinationHosts": {
-        "Pressable": 10370,
+        "Pressable": 10371,
         "Kinsta": 5327,
         "Digital Ocean": 4469,
         "SiteGround": 4392,
