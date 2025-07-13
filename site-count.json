@@ -1,6 +1,11 @@
 {
-    "siteCount": 80762,
+    "siteCount": 80769,
     "recentlyMoved": [
+        {
+            "domain_name": "onebpo.com",
+            "destination": "Namecheap",
+            "date": "2025-07-13 11:41:00"
+        },
         {
             "domain_name": "the-lr.com",
             "destination": "IONOS",
@@ -487,11 +492,6 @@
             "date": "2025-07-12 08:54:52"
         },
         {
-            "domain_name": "hispolitica.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-12 08:45:57"
-        },
-        {
             "domain_name": "bayareacorporatecatering.com",
             "destination": "Pressable",
             "date": "2025-07-12 08:32:08"
@@ -817,7 +817,7 @@
         "Elementor Hosting": 303,
         "IONOS": 301,
         "DreamHost": 286,
-        "Namecheap": 277,
+        "Namecheap": 278,
         "Hetzner Online": 234,
         "Wordify": 185
     },
