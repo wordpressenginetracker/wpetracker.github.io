@@ -1,6 +1,11 @@
 {
-    "siteCount": 80817,
+    "siteCount": 80818,
     "recentlyMoved": [
+        {
+            "domain_name": "northerneaglebeverage.com",
+            "destination": "SiteGround",
+            "date": "2025-07-13 18:19:10"
+        },
         {
             "domain_name": "connectingheartshomecare.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "dominusoft.no",
             "destination": "Hostinger",
             "date": "2025-07-12 09:22:53"
-        },
-        {
-            "domain_name": "danielleverboski.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 09:18:52"
         }
     ],
     "dailyMovedStat": {
@@ -803,7 +803,7 @@
         "Pressable": 10371,
         "Kinsta": 5327,
         "Digital Ocean": 4470,
-        "SiteGround": 4395,
+        "SiteGround": 4396,
         "Bluehost": 4045,
         "Hostinger": 2997,
         "GoDaddy": 1207,
