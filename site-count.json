@@ -1,6 +1,21 @@
 {
-    "siteCount": 80737,
+    "siteCount": 80741,
     "recentlyMoved": [
+        {
+            "domain_name": "ranchland.tech",
+            "destination": "GoDaddy",
+            "date": "2025-07-13 00:35:47"
+        },
+        {
+            "domain_name": "www.firelawblog.com",
+            "destination": "Pressable",
+            "date": "2025-07-13 00:04:17"
+        },
+        {
+            "domain_name": "rccbc.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-07-12 23:53:53"
+        },
         {
             "domain_name": "excelgroupconstruction.com",
             "destination": "Pressable",
@@ -482,21 +497,6 @@
             "date": "2025-07-12 04:27:05"
         },
         {
-            "domain_name": "gehlflooring.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 04:03:23"
-        },
-        {
-            "domain_name": "4stage.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-12 03:57:39"
-        },
-        {
-            "domain_name": "floorsupplynetwork.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 03:54:26"
-        },
-        {
             "domain_name": "planmax.fi",
             "destination": "Hetzner Online",
             "date": "2025-07-12 03:35:51"
@@ -800,13 +800,13 @@
         "2025-07-12": "80737"
     },
     "topDestinationHosts": {
-        "Pressable": 10369,
+        "Pressable": 10370,
         "Kinsta": 5326,
         "Digital Ocean": 4468,
         "SiteGround": 4391,
         "Bluehost": 4045,
         "Hostinger": 2997,
-        "GoDaddy": 1206,
+        "GoDaddy": 1207,
         "BigScoots": 592,
         "Liquid Web": 532,
         "WordPress.com": 384,
