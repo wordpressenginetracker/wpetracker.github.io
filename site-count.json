@@ -1,10 +1,20 @@
 {
-    "siteCount": 80741,
+    "siteCount": 80744,
     "recentlyMoved": [
+        {
+            "domain_name": "suessmoments.com",
+            "destination": "BigScoots",
+            "date": "2025-07-13 01:31:39"
+        },
         {
             "domain_name": "ranchland.tech",
             "destination": "GoDaddy",
             "date": "2025-07-13 00:35:47"
+        },
+        {
+            "domain_name": "kenbaxter.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-13 00:33:52"
         },
         {
             "domain_name": "www.firelawblog.com",
@@ -490,16 +500,6 @@
             "domain_name": "ifscfind.com",
             "destination": "Hostinger",
             "date": "2025-07-12 04:55:45"
-        },
-        {
-            "domain_name": "avedanm.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-12 04:27:05"
-        },
-        {
-            "domain_name": "planmax.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-07-12 03:35:51"
         }
     ],
     "dailyMovedStat": {
@@ -802,7 +802,7 @@
     "topDestinationHosts": {
         "Pressable": 10370,
         "Kinsta": 5326,
-        "Digital Ocean": 4468,
+        "Digital Ocean": 4469,
         "SiteGround": 4391,
         "Bluehost": 4045,
         "Hostinger": 2997,
@@ -810,7 +810,7 @@
         "BigScoots": 592,
         "Liquid Web": 532,
         "WordPress.com": 384,
-        "InMotion Hosting": 362,
+        "InMotion Hosting": 363,
         "GridPane": 361,
         "A2 Hosting": 337,
         "OVH": 322,
