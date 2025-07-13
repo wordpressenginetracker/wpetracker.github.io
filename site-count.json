@@ -1,6 +1,11 @@
 {
-    "siteCount": 80760,
+    "siteCount": 80762,
     "recentlyMoved": [
+        {
+            "domain_name": "the-lr.com",
+            "destination": "IONOS",
+            "date": "2025-07-13 09:15:22"
+        },
         {
             "domain_name": "www.fibretrade.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "hotelcasa.nl",
             "destination": "Digital Ocean",
             "date": "2025-07-12 08:20:04"
-        },
-        {
-            "domain_name": "gainesvilleperiodontics.com",
-            "destination": "Hostinger",
-            "date": "2025-07-12 07:40:36"
         }
     ],
     "dailyMovedStat": {
@@ -815,7 +815,7 @@
         "A2 Hosting": 337,
         "OVH": 322,
         "Elementor Hosting": 303,
-        "IONOS": 300,
+        "IONOS": 301,
         "DreamHost": 286,
         "Namecheap": 277,
         "Hetzner Online": 234,
