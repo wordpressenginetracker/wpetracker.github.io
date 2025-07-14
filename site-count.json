@@ -1,6 +1,16 @@
 {
-    "siteCount": 80890,
+    "siteCount": 80894,
     "recentlyMoved": [
+        {
+            "domain_name": "awfullygood.design",
+            "destination": "Digital Ocean",
+            "date": "2025-07-14 16:43:44"
+        },
+        {
+            "domain_name": "armsinart.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-14 16:34:58"
+        },
         {
             "domain_name": "urcroofing.com",
             "destination": "Hostinger",
@@ -482,11 +492,6 @@
             "date": "2025-07-12 11:52:17"
         },
         {
-            "domain_name": "gretchendevault.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 11:52:17"
-        },
-        {
             "domain_name": "auroraishome.com",
             "destination": "Bluehost",
             "date": "2025-07-12 11:43:57"
@@ -495,11 +500,6 @@
             "domain_name": "atlantatms.clinic",
             "destination": "Kinsta",
             "date": "2025-07-12 11:42:33"
-        },
-        {
-            "domain_name": "www.autoloanexpert.com.au",
-            "destination": "Hostinger",
-            "date": "2025-07-12 11:29:41"
         }
     ],
     "dailyMovedStat": {
@@ -803,7 +803,7 @@
     "topDestinationHosts": {
         "Pressable": 10372,
         "Kinsta": 5329,
-        "Digital Ocean": 4471,
+        "Digital Ocean": 4472,
         "SiteGround": 4399,
         "Bluehost": 4046,
         "Hostinger": 2998,
@@ -811,7 +811,7 @@
         "BigScoots": 593,
         "Liquid Web": 532,
         "WordPress.com": 384,
-        "InMotion Hosting": 366,
+        "InMotion Hosting": 367,
         "GridPane": 362,
         "A2 Hosting": 337,
         "OVH": 322,
