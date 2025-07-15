@@ -1,6 +1,21 @@
 {
-    "siteCount": 81164,
+    "siteCount": 81172,
     "recentlyMoved": [
+        {
+            "domain_name": "mccartyortho.com",
+            "destination": "SiteGround",
+            "date": "2025-07-15 22:10:07"
+        },
+        {
+            "domain_name": "www.trophylakegolf.com",
+            "destination": "Kinsta",
+            "date": "2025-07-15 21:42:41"
+        },
+        {
+            "domain_name": "loveitorloseit.art",
+            "destination": "SiteGround",
+            "date": "2025-07-15 21:31:58"
+        },
         {
             "domain_name": "laststop.co.nz",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "lidblog.com",
             "destination": "InMotion Hosting",
             "date": "2025-07-14 17:07:18"
-        },
-        {
-            "domain_name": "awfullygood.design",
-            "destination": "Digital Ocean",
-            "date": "2025-07-14 16:43:44"
-        },
-        {
-            "domain_name": "armsinart.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-14 16:34:58"
-        },
-        {
-            "domain_name": "urcroofing.com",
-            "destination": "Hostinger",
-            "date": "2025-07-14 14:28:54"
         }
     ],
     "dailyMovedStat": {
@@ -803,9 +803,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10382,
-        "Kinsta": 5361,
-        "Digital Ocean": 4482,
-        "SiteGround": 4416,
+        "Kinsta": 5362,
+        "Digital Ocean": 4483,
+        "SiteGround": 4418,
         "Bluehost": 4049,
         "Hostinger": 3003,
         "GoDaddy": 1209,
