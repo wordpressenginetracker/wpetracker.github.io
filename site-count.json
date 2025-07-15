@@ -1,6 +1,21 @@
 {
-    "siteCount": 80948,
+    "siteCount": 80954,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bowlstasmania.com.au",
+            "destination": "SiteGround",
+            "date": "2025-07-15 00:24:18"
+        },
+        {
+            "domain_name": "greenseattle.org",
+            "destination": "SiteGround",
+            "date": "2025-07-15 00:16:38"
+        },
+        {
+            "domain_name": "bclcrete.com",
+            "destination": "SiteGround",
+            "date": "2025-07-14 23:57:26"
+        },
         {
             "domain_name": "yourlaundrycleaners.com",
             "destination": "Liquid Web",
@@ -485,21 +500,6 @@
             "domain_name": "www.pedigreegermanshepherds.com",
             "destination": "Pressable",
             "date": "2025-07-12 12:55:09"
-        },
-        {
-            "domain_name": "www.missiongraduates.org",
-            "destination": "Pressable",
-            "date": "2025-07-12 12:51:40"
-        },
-        {
-            "domain_name": "chathambarbershop.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 12:43:38"
-        },
-        {
-            "domain_name": "www.networkreg.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 12:39:05"
         }
     ],
     "dailyMovedStat": {
@@ -805,7 +805,7 @@
         "Pressable": 10372,
         "Kinsta": 5331,
         "Digital Ocean": 4475,
-        "SiteGround": 4401,
+        "SiteGround": 4403,
         "Bluehost": 4048,
         "Hostinger": 3000,
         "GoDaddy": 1207,
