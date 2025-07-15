@@ -1,6 +1,31 @@
 {
-    "siteCount": 81010,
+    "siteCount": 81025,
     "recentlyMoved": [
+        {
+            "domain_name": "redfinpools.com",
+            "destination": "Hostinger",
+            "date": "2025-07-15 12:43:27"
+        },
+        {
+            "domain_name": "www.digitekbv.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-15 12:39:00"
+        },
+        {
+            "domain_name": "pranayamact.com",
+            "destination": "Kinsta",
+            "date": "2025-07-15 12:30:38"
+        },
+        {
+            "domain_name": "www.areacontractorsllc.com",
+            "destination": "Pressable",
+            "date": "2025-07-15 12:17:52"
+        },
+        {
+            "domain_name": "hayesservicesct.com",
+            "destination": "Kinsta",
+            "date": "2025-07-15 11:46:35"
+        },
         {
             "domain_name": "www.wellstore.com",
             "destination": "Kinsta",
@@ -462,11 +487,6 @@
             "date": "2025-07-12 18:00:50"
         },
         {
-            "domain_name": "superiortvservice.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 17:47:55"
-        },
-        {
             "domain_name": "www.youremploymentmatters.com",
             "destination": "Pressable",
             "date": "2025-07-12 17:44:12"
@@ -480,26 +500,6 @@
             "domain_name": "www.sheeleyservice.com",
             "destination": "Pressable",
             "date": "2025-07-12 17:27:42"
-        },
-        {
-            "domain_name": "completecolorado.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 17:17:29"
-        },
-        {
-            "domain_name": "libertyunyielding.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-12 17:09:56"
-        },
-        {
-            "domain_name": "www.resultsmkt.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 17:01:25"
-        },
-        {
-            "domain_name": "www.onagreenquest.net",
-            "destination": "Pressable",
-            "date": "2025-07-12 16:40:23"
         }
     ],
     "dailyMovedStat": {
@@ -802,8 +802,8 @@
         "2025-07-14": "80948"
     },
     "topDestinationHosts": {
-        "Pressable": 10372,
-        "Kinsta": 5343,
+        "Pressable": 10373,
+        "Kinsta": 5345,
         "Digital Ocean": 4478,
         "SiteGround": 4409,
         "Bluehost": 4048,
