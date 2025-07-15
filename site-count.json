@@ -1,6 +1,16 @@
 {
-    "siteCount": 81094,
+    "siteCount": 81105,
     "recentlyMoved": [
+        {
+            "domain_name": "dockandmarinaservices.com",
+            "destination": "Kinsta",
+            "date": "2025-07-15 18:13:31"
+        },
+        {
+            "domain_name": "www.walkerbrosac.com",
+            "destination": "SiteGround",
+            "date": "2025-07-15 17:40:59"
+        },
         {
             "domain_name": "cleosorlando.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "dedonatoenterprises.com",
             "destination": "InMotion Hosting",
             "date": "2025-07-13 13:25:09"
-        },
-        {
-            "domain_name": "onebpo.com",
-            "destination": "Namecheap",
-            "date": "2025-07-13 11:41:00"
-        },
-        {
-            "domain_name": "the-lr.com",
-            "destination": "IONOS",
-            "date": "2025-07-13 09:15:22"
         }
     ],
     "dailyMovedStat": {
@@ -803,9 +803,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10381,
-        "Kinsta": 5352,
+        "Kinsta": 5353,
         "Digital Ocean": 4480,
-        "SiteGround": 4413,
+        "SiteGround": 4414,
         "Bluehost": 4048,
         "Hostinger": 3003,
         "GoDaddy": 1209,
