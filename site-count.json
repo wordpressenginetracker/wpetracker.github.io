@@ -1,10 +1,40 @@
 {
-    "siteCount": 80958,
+    "siteCount": 80966,
     "recentlyMoved": [
+        {
+            "domain_name": "mountaintopco.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-15 02:01:50"
+        },
+        {
+            "domain_name": "mje.design",
+            "destination": "Digital Ocean",
+            "date": "2025-07-15 01:57:04"
+        },
         {
             "domain_name": "labelladonnastudiotx.com",
             "destination": "SiteGround",
             "date": "2025-07-15 01:32:20"
+        },
+        {
+            "domain_name": "tadiranbat.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-15 01:29:17"
+        },
+        {
+            "domain_name": "youngdavid.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-15 01:26:46"
+        },
+        {
+            "domain_name": "lightamongpeers.com",
+            "destination": "SiteGround",
+            "date": "2025-07-15 01:21:28"
+        },
+        {
+            "domain_name": "lifescholarsacademy.org",
+            "destination": "SiteGround",
+            "date": "2025-07-15 01:21:28"
         },
         {
             "domain_name": "smilefitorthodontics.com",
@@ -447,16 +477,6 @@
             "date": "2025-07-12 14:17:49"
         },
         {
-            "domain_name": "www.tgamerica.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 14:01:02"
-        },
-        {
-            "domain_name": "tedxmorrisave.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 14:00:28"
-        },
-        {
             "domain_name": "zanedevault.com",
             "destination": "Kinsta",
             "date": "2025-07-12 13:58:03"
@@ -465,11 +485,6 @@
             "domain_name": "millburnbarbershop.com",
             "destination": "Pressable",
             "date": "2025-07-12 13:51:52"
-        },
-        {
-            "domain_name": "livingstonbarbershop.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 13:47:55"
         },
         {
             "domain_name": "drhotzereports.com",
@@ -482,24 +497,9 @@
             "date": "2025-07-12 13:39:27"
         },
         {
-            "domain_name": "comebackintavern.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 13:37:11"
-        },
-        {
-            "domain_name": "maplewoodbarbershop.com",
-            "destination": "Pressable",
-            "date": "2025-07-12 13:36:37"
-        },
-        {
             "domain_name": "www.verymerrydinner.org",
             "destination": "Kinsta",
             "date": "2025-07-12 13:28:28"
-        },
-        {
-            "domain_name": "leanthef-ckout.com",
-            "destination": "Kinsta",
-            "date": "2025-07-12 13:06:20"
         }
     ],
     "dailyMovedStat": {
@@ -804,8 +804,8 @@
     "topDestinationHosts": {
         "Pressable": 10372,
         "Kinsta": 5331,
-        "Digital Ocean": 4475,
-        "SiteGround": 4406,
+        "Digital Ocean": 4477,
+        "SiteGround": 4408,
         "Bluehost": 4048,
         "Hostinger": 3000,
         "GoDaddy": 1207,
@@ -820,7 +820,7 @@
         "IONOS": 301,
         "DreamHost": 286,
         "Namecheap": 278,
-        "Hetzner Online": 234,
+        "Hetzner Online": 236,
         "Wordify": 185
     },
     "dailyTotalStat": {
