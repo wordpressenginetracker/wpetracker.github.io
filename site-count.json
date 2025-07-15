@@ -1,6 +1,11 @@
 {
-    "siteCount": 80976,
+    "siteCount": 80978,
     "recentlyMoved": [
+        {
+            "domain_name": "www.tema-shop.com",
+            "destination": "Hetzner Online",
+            "date": "2025-07-15 05:26:21"
+        },
         {
             "domain_name": "centersforafghansupport.org",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "millburnbarbershop.com",
             "destination": "Pressable",
             "date": "2025-07-12 13:51:52"
-        },
-        {
-            "domain_name": "drhotzereports.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-12 13:40:42"
         }
     ],
     "dailyMovedStat": {
@@ -820,7 +820,7 @@
         "IONOS": 301,
         "DreamHost": 286,
         "Namecheap": 278,
-        "Hetzner Online": 236,
+        "Hetzner Online": 237,
         "Wordify": 185
     },
     "dailyTotalStat": {
