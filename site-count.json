@@ -1,6 +1,16 @@
 {
-    "siteCount": 81200,
+    "siteCount": 81210,
     "recentlyMoved": [
+        {
+            "domain_name": "statex.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-07-16 05:14:22"
+        },
+        {
+            "domain_name": "besocioesthetique.ca",
+            "destination": "OVH",
+            "date": "2025-07-16 04:19:22"
+        },
         {
             "domain_name": "ghostlightsecurity.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "bclcrete.com",
             "destination": "SiteGround",
             "date": "2025-07-14 23:57:26"
-        },
-        {
-            "domain_name": "yourlaundrycleaners.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-14 22:01:58"
-        },
-        {
-            "domain_name": "claritycannabis.us",
-            "destination": "Digital Ocean",
-            "date": "2025-07-14 21:25:31"
         }
     ],
     "dailyMovedStat": {
@@ -816,7 +816,7 @@
         "InMotion Hosting": 368,
         "GridPane": 363,
         "A2 Hosting": 338,
-        "OVH": 323,
+        "OVH": 324,
         "Elementor Hosting": 304,
         "IONOS": 302,
         "DreamHost": 286,
