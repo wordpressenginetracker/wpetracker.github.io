@@ -1,6 +1,11 @@
 {
-    "siteCount": 81312,
+    "siteCount": 81323,
     "recentlyMoved": [
+        {
+            "domain_name": "fivepointsvineyard.com",
+            "destination": "SiteGround",
+            "date": "2025-07-16 15:38:36"
+        },
         {
             "domain_name": "diamondcluborlando.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "battletownanimalclinic.com",
             "destination": "GridPane",
             "date": "2025-07-15 16:06:48"
-        },
-        {
-            "domain_name": "www.curabit.nl",
-            "destination": "Hetzner Online",
-            "date": "2025-07-15 15:51:23"
         }
     ],
     "dailyMovedStat": {
@@ -806,7 +806,7 @@
         "Pressable": 10387,
         "Kinsta": 5383,
         "Digital Ocean": 4495,
-        "SiteGround": 4430,
+        "SiteGround": 4431,
         "Bluehost": 4050,
         "Hostinger": 3008,
         "GoDaddy": 1210,
