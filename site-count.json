@@ -1,6 +1,16 @@
 {
-    "siteCount": 81192,
+    "siteCount": 81200,
     "recentlyMoved": [
+        {
+            "domain_name": "ghostlightsecurity.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-16 03:47:04"
+        },
+        {
+            "domain_name": "payments.friendlyfires.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-07-16 03:32:27"
+        },
         {
             "domain_name": "myallergyclinic.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "claritycannabis.us",
             "destination": "Digital Ocean",
             "date": "2025-07-14 21:25:31"
-        },
-        {
-            "domain_name": "southernoregonbras.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-14 21:22:19"
-        },
-        {
-            "domain_name": "cactuspolitics.com",
-            "destination": "Kinsta",
-            "date": "2025-07-14 20:48:50"
         }
     ],
     "dailyMovedStat": {
@@ -805,7 +805,7 @@
     "topDestinationHosts": {
         "Pressable": 10382,
         "Kinsta": 5364,
-        "Digital Ocean": 4486,
+        "Digital Ocean": 4488,
         "SiteGround": 4422,
         "Bluehost": 4049,
         "Hostinger": 3004,
