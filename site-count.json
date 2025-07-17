@@ -1,10 +1,25 @@
 {
-    "siteCount": 81622,
+    "siteCount": 81632,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rpbtucson.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-17 20:48:28"
+        },
+        {
+            "domain_name": "hyperlinkweb.ca",
+            "destination": "Hostinger",
+            "date": "2025-07-17 20:41:07"
+        },
         {
             "domain_name": "healthconspiracies.com",
             "destination": "Hostinger",
             "date": "2025-07-17 20:36:24"
+        },
+        {
+            "domain_name": "inflectionbrands.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-17 20:10:37"
         },
         {
             "domain_name": "advancedplatingtech.com",
@@ -482,24 +497,9 @@
             "date": "2025-07-16 12:22:26"
         },
         {
-            "domain_name": "www.oncternal.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-16 12:20:33"
-        },
-        {
-            "domain_name": "hebraicthought.org",
-            "destination": "HostGator",
-            "date": "2025-07-16 12:04:00"
-        },
-        {
             "domain_name": "hightimes.com",
             "destination": "SiteGround",
             "date": "2025-07-16 12:03:39"
-        },
-        {
-            "domain_name": "www.buckeyecu.org",
-            "destination": "Kinsta",
-            "date": "2025-07-16 11:44:33"
         }
     ],
     "dailyMovedStat": {
@@ -809,8 +809,8 @@
         "Digital Ocean": 4502,
         "SiteGround": 4447,
         "Bluehost": 4050,
-        "Hostinger": 3029,
-        "GoDaddy": 1213,
+        "Hostinger": 3030,
+        "GoDaddy": 1214,
         "BigScoots": 595,
         "Liquid Web": 540,
         "WordPress.com": 389,
