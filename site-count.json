@@ -1,10 +1,45 @@
 {
-    "siteCount": 81550,
+    "siteCount": 81563,
     "recentlyMoved": [
+        {
+            "domain_name": "staffdocs.com",
+            "destination": "Pressable",
+            "date": "2025-07-17 17:32:34"
+        },
+        {
+            "domain_name": "www.mountainlawfirm.com",
+            "destination": "Pressable",
+            "date": "2025-07-17 17:06:14"
+        },
+        {
+            "domain_name": "sparrowstreetfilms.com",
+            "destination": "Hostinger",
+            "date": "2025-07-17 17:02:58"
+        },
+        {
+            "domain_name": "learn.mhclinic.ca",
+            "destination": "Hostinger",
+            "date": "2025-07-17 16:55:52"
+        },
+        {
+            "domain_name": "california.banyantreatmentcenter.com",
+            "destination": "SiteGround",
+            "date": "2025-07-17 16:52:21"
+        },
+        {
+            "domain_name": "hooverchamber.org",
+            "destination": "Hostinger",
+            "date": "2025-07-17 16:39:00"
+        },
         {
             "domain_name": "www.dentalimplantac.com",
             "destination": "Kinsta",
             "date": "2025-07-17 16:30:48"
+        },
+        {
+            "domain_name": "www.ewpumps.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-17 16:02:50"
         },
         {
             "domain_name": "www.brogens.com",
@@ -465,41 +500,6 @@
             "domain_name": "mysticlittleleague.org",
             "destination": "Kinsta",
             "date": "2025-07-16 09:48:17"
-        },
-        {
-            "domain_name": "www.precisioneye.net",
-            "destination": "Digital Ocean",
-            "date": "2025-07-16 09:12:17"
-        },
-        {
-            "domain_name": "www.povertyalliance.org",
-            "destination": "SiteGround",
-            "date": "2025-07-16 09:12:17"
-        },
-        {
-            "domain_name": "spraytechct.com",
-            "destination": "Kinsta",
-            "date": "2025-07-16 09:00:27"
-        },
-        {
-            "domain_name": "saffwiffleball.com",
-            "destination": "Kinsta",
-            "date": "2025-07-16 08:45:00"
-        },
-        {
-            "domain_name": "seewesterly.com",
-            "destination": "Kinsta",
-            "date": "2025-07-16 08:33:58"
-        },
-        {
-            "domain_name": "seemysticct.com",
-            "destination": "Kinsta",
-            "date": "2025-07-16 08:33:58"
-        },
-        {
-            "domain_name": "roofingguysla.com",
-            "destination": "Bluehost",
-            "date": "2025-07-16 08:12:52"
         }
     ],
     "dailyMovedStat": {
@@ -804,12 +804,12 @@
         "2025-07-16": "81436"
     },
     "topDestinationHosts": {
-        "Pressable": 10393,
-        "Kinsta": 5395,
-        "Digital Ocean": 4500,
-        "SiteGround": 4445,
+        "Pressable": 10395,
+        "Kinsta": 5396,
+        "Digital Ocean": 4501,
+        "SiteGround": 4446,
         "Bluehost": 4050,
-        "Hostinger": 3023,
+        "Hostinger": 3025,
         "GoDaddy": 1213,
         "BigScoots": 595,
         "Liquid Web": 540,
