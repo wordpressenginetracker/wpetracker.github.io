@@ -1,6 +1,21 @@
 {
-    "siteCount": 81759,
+    "siteCount": 81763,
     "recentlyMoved": [
+        {
+            "domain_name": "northeasterntreecare.com",
+            "destination": "Pressable",
+            "date": "2025-07-18 14:50:55"
+        },
+        {
+            "domain_name": "victimshelpnow.com",
+            "destination": "SiteGround",
+            "date": "2025-07-18 14:09:57"
+        },
+        {
+            "domain_name": "northhoustoncathlab.com",
+            "destination": "SiteGround",
+            "date": "2025-07-18 14:07:13"
+        },
         {
             "domain_name": "nextek.com",
             "destination": "Pressable",
@@ -482,24 +497,9 @@
             "date": "2025-07-17 08:36:38"
         },
         {
-            "domain_name": "huttvalleyclaytargetclub.org.nz",
-            "destination": "Hostinger",
-            "date": "2025-07-17 08:34:56"
-        },
-        {
             "domain_name": "jayawhite.com",
             "destination": "Hostinger",
             "date": "2025-07-17 08:24:26"
-        },
-        {
-            "domain_name": "thoresbyvale.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-07-17 06:13:33"
-        },
-        {
-            "domain_name": "tenantsconnect.com.au",
-            "destination": "Kinsta",
-            "date": "2025-07-17 05:28:47"
         }
     ],
     "dailyMovedStat": {
@@ -805,10 +805,10 @@
         "2025-07-17": "81636"
     },
     "topDestinationHosts": {
-        "Pressable": 10423,
+        "Pressable": 10425,
         "Kinsta": 5400,
         "Digital Ocean": 4506,
-        "SiteGround": 4452,
+        "SiteGround": 4454,
         "Bluehost": 4051,
         "Hostinger": 3032,
         "GoDaddy": 1215,
