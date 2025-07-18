@@ -1,6 +1,26 @@
 {
-    "siteCount": 81742,
+    "siteCount": 81759,
     "recentlyMoved": [
+        {
+            "domain_name": "nextek.com",
+            "destination": "Pressable",
+            "date": "2025-07-18 13:56:16"
+        },
+        {
+            "domain_name": "design4.org",
+            "destination": "Pressable",
+            "date": "2025-07-18 13:47:54"
+        },
+        {
+            "domain_name": "mianv.org",
+            "destination": "InMotion Hosting",
+            "date": "2025-07-18 13:43:52"
+        },
+        {
+            "domain_name": "tcjayfund.org",
+            "destination": "Pressable",
+            "date": "2025-07-18 13:37:10"
+        },
         {
             "domain_name": "www.northhoustoncathlab.com",
             "destination": "SiteGround",
@@ -10,6 +30,11 @@
             "domain_name": "lauderdalecountylibrary.com",
             "destination": "SiteGround",
             "date": "2025-07-18 13:28:25"
+        },
+        {
+            "domain_name": "sunstonenv.com",
+            "destination": "Pressable",
+            "date": "2025-07-18 13:10:26"
         },
         {
             "domain_name": "www.portlandpaincare.com",
@@ -472,34 +497,9 @@
             "date": "2025-07-17 06:13:33"
         },
         {
-            "domain_name": "taxmarch.org",
-            "destination": "OVH",
-            "date": "2025-07-17 05:48:30"
-        },
-        {
             "domain_name": "tenantsconnect.com.au",
             "destination": "Kinsta",
             "date": "2025-07-17 05:28:47"
-        },
-        {
-            "domain_name": "www.rsmacdonald.com",
-            "destination": "SiteGround",
-            "date": "2025-07-17 05:05:14"
-        },
-        {
-            "domain_name": "conniebridges.com",
-            "destination": "IONOS",
-            "date": "2025-07-17 04:54:08"
-        },
-        {
-            "domain_name": "www.groupdentistrynow.com",
-            "destination": "Kinsta",
-            "date": "2025-07-17 04:12:58"
-        },
-        {
-            "domain_name": "prorawgym.com",
-            "destination": "Hostinger",
-            "date": "2025-07-17 03:56:19"
         }
     ],
     "dailyMovedStat": {
@@ -805,7 +805,7 @@
         "2025-07-17": "81636"
     },
     "topDestinationHosts": {
-        "Pressable": 10420,
+        "Pressable": 10423,
         "Kinsta": 5400,
         "Digital Ocean": 4506,
         "SiteGround": 4452,
@@ -815,7 +815,7 @@
         "BigScoots": 595,
         "Liquid Web": 544,
         "WordPress.com": 389,
-        "InMotion Hosting": 371,
+        "InMotion Hosting": 372,
         "GridPane": 364,
         "A2 Hosting": 338,
         "OVH": 326,
