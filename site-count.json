@@ -1,10 +1,45 @@
 {
-    "siteCount": 81779,
+    "siteCount": 81795,
     "recentlyMoved": [
+        {
+            "domain_name": "laicos.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-18 17:22:18"
+        },
+        {
+            "domain_name": "churchrequests.com",
+            "destination": "SiteGround",
+            "date": "2025-07-18 17:19:24"
+        },
+        {
+            "domain_name": "capecodtowelco.com",
+            "destination": "Pressable",
+            "date": "2025-07-18 16:55:55"
+        },
+        {
+            "domain_name": "www.nebjustice.com",
+            "destination": "Kinsta",
+            "date": "2025-07-18 16:49:45"
+        },
+        {
+            "domain_name": "southwickszoo.com",
+            "destination": "Kinsta",
+            "date": "2025-07-18 16:48:38"
+        },
+        {
+            "domain_name": "reviveresto.com",
+            "destination": "Liquid Web",
+            "date": "2025-07-18 16:46:47"
+        },
         {
             "domain_name": "harvestgroup.com",
             "destination": "Kinsta",
             "date": "2025-07-18 16:33:48"
+        },
+        {
+            "domain_name": "ryannegri.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-18 16:31:15"
         },
         {
             "domain_name": "bannerbutter.com",
@@ -457,11 +492,6 @@
             "date": "2025-07-17 13:49:46"
         },
         {
-            "domain_name": "koiwellbeing.com",
-            "destination": "SiteGround",
-            "date": "2025-07-17 13:32:03"
-        },
-        {
             "domain_name": "thefailedexperiments.com",
             "destination": "SiteGround",
             "date": "2025-07-17 13:18:42"
@@ -470,36 +500,6 @@
             "domain_name": "storkadvisor.com",
             "destination": "Hostinger",
             "date": "2025-07-17 13:14:41"
-        },
-        {
-            "domain_name": "www.safercommunitiesscotland.org",
-            "destination": "SiteGround",
-            "date": "2025-07-17 13:00:09"
-        },
-        {
-            "domain_name": "industrialcrane.com",
-            "destination": "SiteGround",
-            "date": "2025-07-17 13:00:04"
-        },
-        {
-            "domain_name": "www.ringdu.com",
-            "destination": "Pressable",
-            "date": "2025-07-17 12:49:11"
-        },
-        {
-            "domain_name": "sems.microscopy.org",
-            "destination": "Digital Ocean",
-            "date": "2025-07-17 12:35:20"
-        },
-        {
-            "domain_name": "sharonburtonartforcharity.org",
-            "destination": "Digital Ocean",
-            "date": "2025-07-17 12:34:19"
-        },
-        {
-            "domain_name": "jeffrainforth.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-17 12:17:24"
         }
     ],
     "dailyMovedStat": {
@@ -805,15 +805,15 @@
         "2025-07-17": "81636"
     },
     "topDestinationHosts": {
-        "Pressable": 10428,
-        "Kinsta": 5401,
-        "Digital Ocean": 4506,
-        "SiteGround": 4455,
+        "Pressable": 10430,
+        "Kinsta": 5403,
+        "Digital Ocean": 4508,
+        "SiteGround": 4456,
         "Bluehost": 4051,
         "Hostinger": 3032,
         "GoDaddy": 1216,
         "BigScoots": 595,
-        "Liquid Web": 544,
+        "Liquid Web": 545,
         "WordPress.com": 389,
         "InMotion Hosting": 373,
         "GridPane": 364,
