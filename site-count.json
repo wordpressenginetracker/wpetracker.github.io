@@ -1,6 +1,26 @@
 {
-    "siteCount": 81730,
+    "siteCount": 81742,
     "recentlyMoved": [
+        {
+            "domain_name": "www.northhoustoncathlab.com",
+            "destination": "SiteGround",
+            "date": "2025-07-18 13:28:54"
+        },
+        {
+            "domain_name": "lauderdalecountylibrary.com",
+            "destination": "SiteGround",
+            "date": "2025-07-18 13:28:25"
+        },
+        {
+            "domain_name": "www.portlandpaincare.com",
+            "destination": "Kinsta",
+            "date": "2025-07-18 13:09:24"
+        },
+        {
+            "domain_name": "inclusionbeginswithi.org",
+            "destination": "Kinsta",
+            "date": "2025-07-18 12:37:22"
+        },
         {
             "domain_name": "quantazimuth.com",
             "destination": "Krystal Hosting",
@@ -472,11 +492,6 @@
             "date": "2025-07-17 04:54:08"
         },
         {
-            "domain_name": "www.adarasurgical.com",
-            "destination": "Kinsta",
-            "date": "2025-07-17 04:16:01"
-        },
-        {
             "domain_name": "www.groupdentistrynow.com",
             "destination": "Kinsta",
             "date": "2025-07-17 04:12:58"
@@ -485,21 +500,6 @@
             "domain_name": "prorawgym.com",
             "destination": "Hostinger",
             "date": "2025-07-17 03:56:19"
-        },
-        {
-            "domain_name": "futures.aberlour.org.uk",
-            "destination": "SiteGround",
-            "date": "2025-07-17 03:46:09"
-        },
-        {
-            "domain_name": "welltraining.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-07-17 03:29:28"
-        },
-        {
-            "domain_name": "velvetvr.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-16 22:19:09"
         }
     ],
     "dailyMovedStat": {
@@ -806,9 +806,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10420,
-        "Kinsta": 5398,
+        "Kinsta": 5400,
         "Digital Ocean": 4506,
-        "SiteGround": 4450,
+        "SiteGround": 4452,
         "Bluehost": 4051,
         "Hostinger": 3032,
         "GoDaddy": 1215,
