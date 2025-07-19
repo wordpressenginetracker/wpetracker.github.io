@@ -1,6 +1,11 @@
 {
-    "siteCount": 81894,
+    "siteCount": 81898,
     "recentlyMoved": [
+        {
+            "domain_name": "www.badermedical.com",
+            "destination": "Hostinger",
+            "date": "2025-07-19 03:50:35"
+        },
         {
             "domain_name": "fbhsband.org",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "inflectionbrands.com",
             "destination": "GoDaddy",
             "date": "2025-07-17 20:10:37"
-        },
-        {
-            "domain_name": "artistictileremodeling.com",
-            "destination": "Hostinger",
-            "date": "2025-07-17 19:59:07"
         }
     ],
     "dailyMovedStat": {
@@ -811,7 +811,7 @@
         "Digital Ocean": 4508,
         "SiteGround": 4462,
         "Bluehost": 4051,
-        "Hostinger": 3033,
+        "Hostinger": 3034,
         "GoDaddy": 1224,
         "BigScoots": 595,
         "Liquid Web": 545,
