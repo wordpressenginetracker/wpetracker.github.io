@@ -1,6 +1,31 @@
 {
-    "siteCount": 82029,
+    "siteCount": 82074,
     "recentlyMoved": [
+        {
+            "domain_name": "azmarqueerentals.com",
+            "destination": "Namecheap",
+            "date": "2025-07-19 20:41:52"
+        },
+        {
+            "domain_name": "amandacristrealtor.com",
+            "destination": "Hostinger",
+            "date": "2025-07-19 20:12:32"
+        },
+        {
+            "domain_name": "fortuityco.com",
+            "destination": "Kinsta",
+            "date": "2025-07-19 20:06:24"
+        },
+        {
+            "domain_name": "www.rockingxland.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-19 20:05:04"
+        },
+        {
+            "domain_name": "gatlinburgsongwriters.com",
+            "destination": "Hostinger",
+            "date": "2025-07-19 19:39:41"
+        },
         {
             "domain_name": "neuprofessionals.com",
             "destination": "SiteGround",
@@ -475,31 +500,6 @@
             "domain_name": "churchrequests.com",
             "destination": "SiteGround",
             "date": "2025-07-18 17:19:24"
-        },
-        {
-            "domain_name": "capecodtowelco.com",
-            "destination": "Pressable",
-            "date": "2025-07-18 16:55:55"
-        },
-        {
-            "domain_name": "www.nebjustice.com",
-            "destination": "Kinsta",
-            "date": "2025-07-18 16:49:45"
-        },
-        {
-            "domain_name": "southwickszoo.com",
-            "destination": "Kinsta",
-            "date": "2025-07-18 16:48:38"
-        },
-        {
-            "domain_name": "reviveresto.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-18 16:46:47"
-        },
-        {
-            "domain_name": "ryannegri.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-18 16:31:15"
         }
     ],
     "dailyMovedStat": {
@@ -807,23 +807,23 @@
     },
     "topDestinationHosts": {
         "Pressable": 10469,
-        "Kinsta": 5413,
-        "Digital Ocean": 4513,
+        "Kinsta": 5416,
+        "Digital Ocean": 4514,
         "SiteGround": 4474,
-        "Bluehost": 4052,
-        "Hostinger": 3040,
+        "Bluehost": 4053,
+        "Hostinger": 3042,
         "GoDaddy": 1225,
         "BigScoots": 595,
         "Liquid Web": 545,
         "WordPress.com": 394,
         "InMotion Hosting": 376,
         "GridPane": 364,
-        "A2 Hosting": 338,
+        "A2 Hosting": 339,
         "OVH": 326,
         "Elementor Hosting": 307,
         "IONOS": 304,
-        "DreamHost": 288,
-        "Namecheap": 282,
+        "DreamHost": 289,
+        "Namecheap": 283,
         "Hetzner Online": 239,
         "Wordify": 185
     },
