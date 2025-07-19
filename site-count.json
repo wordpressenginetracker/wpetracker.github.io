@@ -1,6 +1,11 @@
 {
-    "siteCount": 81879,
+    "siteCount": 81883,
     "recentlyMoved": [
+        {
+            "domain_name": "www.birdwatchersgeneralstore.com",
+            "destination": "Pressable",
+            "date": "2025-07-19 00:15:57"
+        },
         {
             "domain_name": "extexengineered.com",
             "destination": "Kinsta",
@@ -482,11 +487,6 @@
             "date": "2025-07-17 19:15:23"
         },
         {
-            "domain_name": "literacyrochester.org",
-            "destination": "SiteGround",
-            "date": "2025-07-17 17:46:27"
-        },
-        {
             "domain_name": "cornwallclinic.co.uk",
             "destination": "Hostinger",
             "date": "2025-07-17 17:25:58"
@@ -806,7 +806,7 @@
         "2025-07-18": "81879"
     },
     "topDestinationHosts": {
-        "Pressable": 10435,
+        "Pressable": 10436,
         "Kinsta": 5407,
         "Digital Ocean": 4508,
         "SiteGround": 4461,
