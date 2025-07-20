@@ -1,6 +1,11 @@
 {
-    "siteCount": 82117,
+    "siteCount": 82120,
     "recentlyMoved": [
+        {
+            "domain_name": "awakenwithania.com",
+            "destination": "Bluehost",
+            "date": "2025-07-20 08:29:56"
+        },
         {
             "domain_name": "zieglerlawgroupllc.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "blazecapitalpartners.com",
             "destination": "Pressable",
             "date": "2025-07-18 20:30:13"
-        },
-        {
-            "domain_name": "henryfreeman.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-18 20:20:20"
         }
     ],
     "dailyMovedStat": {
@@ -811,7 +811,7 @@
         "Kinsta": 5416,
         "Digital Ocean": 4514,
         "SiteGround": 4477,
-        "Bluehost": 4053,
+        "Bluehost": 4054,
         "Hostinger": 3045,
         "GoDaddy": 1225,
         "BigScoots": 595,
