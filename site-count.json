@@ -1,6 +1,11 @@
 {
-    "siteCount": 82102,
+    "siteCount": 82117,
     "recentlyMoved": [
+        {
+            "domain_name": "zieglerlawgroupllc.com",
+            "destination": "Hostinger",
+            "date": "2025-07-20 04:21:14"
+        },
         {
             "domain_name": "backyardsandbilliards.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "henryfreeman.com",
             "destination": "GoDaddy",
             "date": "2025-07-18 20:20:20"
-        },
-        {
-            "domain_name": "smarttrades.smartresources.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-18 20:13:32"
         }
     ],
     "dailyMovedStat": {
@@ -812,7 +812,7 @@
         "Digital Ocean": 4514,
         "SiteGround": 4477,
         "Bluehost": 4053,
-        "Hostinger": 3044,
+        "Hostinger": 3045,
         "GoDaddy": 1225,
         "BigScoots": 595,
         "Liquid Web": 545,
