@@ -1,6 +1,11 @@
 {
-    "siteCount": 82120,
+    "siteCount": 82126,
     "recentlyMoved": [
+        {
+            "domain_name": "shieldprometals.com",
+            "destination": "SiteGround",
+            "date": "2025-07-20 08:34:47"
+        },
         {
             "domain_name": "awakenwithania.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "cfrny.org",
             "destination": "Kinsta",
             "date": "2025-07-18 20:42:13"
-        },
-        {
-            "domain_name": "blazecapitalpartners.com",
-            "destination": "Pressable",
-            "date": "2025-07-18 20:30:13"
         }
     ],
     "dailyMovedStat": {
@@ -810,7 +810,7 @@
         "Pressable": 10469,
         "Kinsta": 5416,
         "Digital Ocean": 4514,
-        "SiteGround": 4477,
+        "SiteGround": 4478,
         "Bluehost": 4054,
         "Hostinger": 3045,
         "GoDaddy": 1225,
