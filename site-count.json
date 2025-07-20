@@ -1,6 +1,11 @@
 {
-    "siteCount": 82151,
+    "siteCount": 82155,
     "recentlyMoved": [
+        {
+            "domain_name": "bigskyhospitality.com",
+            "destination": "Namecheap",
+            "date": "2025-07-20 16:20:49"
+        },
         {
             "domain_name": "910advisors.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.birdwatchersgeneralstore.com",
             "destination": "Pressable",
             "date": "2025-07-19 00:15:57"
-        },
-        {
-            "domain_name": "extexengineered.com",
-            "destination": "Kinsta",
-            "date": "2025-07-18 22:33:19"
         }
     ],
     "dailyMovedStat": {
@@ -824,7 +824,7 @@
         "Elementor Hosting": 308,
         "IONOS": 305,
         "DreamHost": 289,
-        "Namecheap": 283,
+        "Namecheap": 284,
         "Hetzner Online": 240,
         "Wordify": 185
     },
