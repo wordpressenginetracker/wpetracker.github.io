@@ -1,6 +1,11 @@
 {
-    "siteCount": 82143,
+    "siteCount": 82146,
     "recentlyMoved": [
+        {
+            "domain_name": "department727.com",
+            "destination": "SiteGround",
+            "date": "2025-07-20 14:09:10"
+        },
         {
             "domain_name": "boterletter.rzv.nl",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "empoweredelectricalsolutions.com",
             "destination": "SiteGround",
             "date": "2025-07-18 22:31:29"
-        },
-        {
-            "domain_name": "embeddedcounsel.com",
-            "destination": "SiteGround",
-            "date": "2025-07-18 21:40:03"
         }
     ],
     "dailyMovedStat": {
@@ -810,7 +810,7 @@
         "Pressable": 10469,
         "Kinsta": 5417,
         "Digital Ocean": 4514,
-        "SiteGround": 4478,
+        "SiteGround": 4479,
         "Bluehost": 4054,
         "Hostinger": 3048,
         "GoDaddy": 1225,
