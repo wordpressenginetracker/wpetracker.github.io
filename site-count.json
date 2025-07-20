@@ -1,6 +1,21 @@
 {
-    "siteCount": 82126,
+    "siteCount": 82133,
     "recentlyMoved": [
+        {
+            "domain_name": "neonsoul.com",
+            "destination": "Hostinger",
+            "date": "2025-07-20 10:14:43"
+        },
+        {
+            "domain_name": "n3realestate.com",
+            "destination": "Hostinger",
+            "date": "2025-07-20 10:06:31"
+        },
+        {
+            "domain_name": "thenanoils.com",
+            "destination": "Hostinger",
+            "date": "2025-07-20 09:40:06"
+        },
         {
             "domain_name": "shieldprometals.com",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-07-18 21:40:03"
         },
         {
-            "domain_name": "smartresources.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-18 21:18:28"
-        },
-        {
             "domain_name": "steamexpress805.com",
             "destination": "Hostinger",
             "date": "2025-07-18 21:00:00"
-        },
-        {
-            "domain_name": "khrents.com",
-            "destination": "SiteGround",
-            "date": "2025-07-18 20:46:04"
-        },
-        {
-            "domain_name": "cfrny.org",
-            "destination": "Kinsta",
-            "date": "2025-07-18 20:42:13"
         }
     ],
     "dailyMovedStat": {
@@ -812,7 +812,7 @@
         "Digital Ocean": 4514,
         "SiteGround": 4478,
         "Bluehost": 4054,
-        "Hostinger": 3045,
+        "Hostinger": 3047,
         "GoDaddy": 1225,
         "BigScoots": 595,
         "Liquid Web": 545,
