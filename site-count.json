@@ -1,6 +1,11 @@
 {
-    "siteCount": 82147,
+    "siteCount": 82151,
     "recentlyMoved": [
+        {
+            "domain_name": "910advisors.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-20 15:37:16"
+        },
         {
             "domain_name": "department727.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "extexengineered.com",
             "destination": "Kinsta",
             "date": "2025-07-18 22:33:19"
-        },
-        {
-            "domain_name": "empoweredelectricalsolutions.com",
-            "destination": "SiteGround",
-            "date": "2025-07-18 22:31:29"
         }
     ],
     "dailyMovedStat": {
@@ -808,12 +808,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10469,
-        "Kinsta": 5417,
+        "Kinsta": 5418,
         "Digital Ocean": 4514,
         "SiteGround": 4479,
         "Bluehost": 4054,
         "Hostinger": 3048,
-        "GoDaddy": 1225,
+        "GoDaddy": 1226,
         "BigScoots": 595,
         "Liquid Web": 545,
         "WordPress.com": 394,
