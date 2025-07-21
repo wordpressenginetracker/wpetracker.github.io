@@ -1,6 +1,11 @@
 {
-    "siteCount": 82199,
+    "siteCount": 82201,
     "recentlyMoved": [
+        {
+            "domain_name": "thefossilexchange.com",
+            "destination": "Hostinger",
+            "date": "2025-07-21 01:33:22"
+        },
         {
             "domain_name": "www.kvgbuilding.com",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "fbhsband.org",
             "destination": "SiteGround",
             "date": "2025-07-19 02:22:50"
-        },
-        {
-            "domain_name": "www.winconnect.com.au",
-            "destination": "Kinsta",
-            "date": "2025-07-19 01:23:25"
         }
     ],
     "dailyMovedStat": {
@@ -813,7 +813,7 @@
         "Digital Ocean": 4514,
         "SiteGround": 4482,
         "Bluehost": 4054,
-        "Hostinger": 3048,
+        "Hostinger": 3049,
         "GoDaddy": 1226,
         "BigScoots": 595,
         "Liquid Web": 546,
