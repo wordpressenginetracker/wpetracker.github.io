@@ -1,6 +1,11 @@
 {
-    "siteCount": 82201,
+    "siteCount": 82203,
     "recentlyMoved": [
+        {
+            "domain_name": "voicetrustmadurai.org",
+            "destination": "Hostinger",
+            "date": "2025-07-21 02:33:28"
+        },
         {
             "domain_name": "thefossilexchange.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.badermedical.com",
             "destination": "Hostinger",
             "date": "2025-07-19 03:50:35"
-        },
-        {
-            "domain_name": "fbhsband.org",
-            "destination": "SiteGround",
-            "date": "2025-07-19 02:22:50"
         }
     ],
     "dailyMovedStat": {
@@ -813,7 +813,7 @@
         "Digital Ocean": 4514,
         "SiteGround": 4482,
         "Bluehost": 4054,
-        "Hostinger": 3049,
+        "Hostinger": 3050,
         "GoDaddy": 1226,
         "BigScoots": 595,
         "Liquid Web": 546,
