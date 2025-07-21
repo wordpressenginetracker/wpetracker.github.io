@@ -1,6 +1,11 @@
 {
-    "siteCount": 82191,
+    "siteCount": 82199,
     "recentlyMoved": [
+        {
+            "domain_name": "www.kvgbuilding.com",
+            "destination": "Liquid Web",
+            "date": "2025-07-21 01:06:24"
+        },
         {
             "domain_name": "redemptionfitnesswi.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.winconnect.com.au",
             "destination": "Kinsta",
             "date": "2025-07-19 01:23:25"
-        },
-        {
-            "domain_name": "www.wildcarecapecod.org",
-            "destination": "Pressable",
-            "date": "2025-07-19 01:23:25"
         }
     ],
     "dailyMovedStat": {
@@ -811,12 +811,12 @@
         "Pressable": 10469,
         "Kinsta": 5418,
         "Digital Ocean": 4514,
-        "SiteGround": 4481,
+        "SiteGround": 4482,
         "Bluehost": 4054,
         "Hostinger": 3048,
         "GoDaddy": 1226,
         "BigScoots": 595,
-        "Liquid Web": 545,
+        "Liquid Web": 546,
         "WordPress.com": 394,
         "InMotion Hosting": 380,
         "GridPane": 364,
