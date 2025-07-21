@@ -1,6 +1,16 @@
 {
-    "siteCount": 82224,
+    "siteCount": 82228,
     "recentlyMoved": [
+        {
+            "domain_name": "sase.org",
+            "destination": "SiteGround",
+            "date": "2025-07-21 12:41:28"
+        },
+        {
+            "domain_name": "resiliencenaturopathic.com",
+            "destination": "SiteGround",
+            "date": "2025-07-21 11:56:35"
+        },
         {
             "domain_name": "twtproperty.com.au",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "zenaroma.co.nz",
             "destination": "Digital Ocean",
             "date": "2025-07-19 05:31:30"
-        },
-        {
-            "domain_name": "www.stmichaels.vic.edu.au",
-            "destination": "Digital Ocean",
-            "date": "2025-07-19 05:10:48"
-        },
-        {
-            "domain_name": "concretia.in",
-            "destination": "Hostinger",
-            "date": "2025-07-19 04:52:34"
         }
     ],
     "dailyMovedStat": {
@@ -811,7 +811,7 @@
         "Pressable": 10469,
         "Kinsta": 5419,
         "Digital Ocean": 4514,
-        "SiteGround": 4482,
+        "SiteGround": 4484,
         "Bluehost": 4054,
         "Hostinger": 3050,
         "GoDaddy": 1226,
