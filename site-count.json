@@ -1,6 +1,11 @@
 {
-    "siteCount": 82441,
+    "siteCount": 82444,
     "recentlyMoved": [
+        {
+            "domain_name": "surefireinc.com",
+            "destination": "Hostinger",
+            "date": "2025-07-22 21:06:39"
+        },
         {
             "domain_name": "kaizenself.com",
             "destination": "Digital Ocean",
@@ -487,11 +492,6 @@
             "date": "2025-07-19 17:46:12"
         },
         {
-            "domain_name": "shopragans.com",
-            "destination": "Hostinger",
-            "date": "2025-07-19 17:08:11"
-        },
-        {
             "domain_name": "kilcommonslaw.com",
             "destination": "SiteGround",
             "date": "2025-07-19 16:59:46"
@@ -814,7 +814,7 @@
         "Digital Ocean": 4521,
         "SiteGround": 4495,
         "Bluehost": 4056,
-        "Hostinger": 3060,
+        "Hostinger": 3061,
         "GoDaddy": 1227,
         "BigScoots": 595,
         "Liquid Web": 546,
