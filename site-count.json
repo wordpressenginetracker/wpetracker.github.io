@@ -1,6 +1,11 @@
 {
-    "siteCount": 82444,
+    "siteCount": 82445,
     "recentlyMoved": [
+        {
+            "domain_name": "vpftc.com",
+            "destination": "Kinsta",
+            "date": "2025-07-22 22:21:19"
+        },
         {
             "domain_name": "surefireinc.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-07-19 17:46:12"
         },
         {
-            "domain_name": "kilcommonslaw.com",
-            "destination": "SiteGround",
-            "date": "2025-07-19 16:59:46"
-        },
-        {
             "domain_name": "smilesbydoctord.com",
             "destination": "Kinsta",
             "date": "2025-07-19 16:56:38"
@@ -806,11 +806,12 @@
         "2025-07-18": "81879",
         "2025-07-19": "82089",
         "2025-07-20": "82184",
-        "2025-07-21": "82274"
+        "2025-07-21": "82274",
+        "2025-07-22": "82445"
     },
     "topDestinationHosts": {
         "Pressable": 10477,
-        "Kinsta": 5429,
+        "Kinsta": 5430,
         "Digital Ocean": 4521,
         "SiteGround": 4495,
         "Bluehost": 4056,
@@ -1134,6 +1135,7 @@
         "2025-07-18": "602554",
         "2025-07-19": "602406",
         "2025-07-20": "602886",
-        "2025-07-21": "602642"
+        "2025-07-21": "602642",
+        "2025-07-22": "602048"
     }
 }
