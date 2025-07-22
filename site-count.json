@@ -1,6 +1,11 @@
 {
-    "siteCount": 82296,
+    "siteCount": 82304,
     "recentlyMoved": [
+        {
+            "domain_name": "trendymarketz.com",
+            "destination": "Hostinger",
+            "date": "2025-07-22 06:35:04"
+        },
         {
             "domain_name": "solutions.impresa.pt",
             "destination": "OVH",
@@ -487,11 +492,6 @@
             "date": "2025-07-19 07:59:22"
         },
         {
-            "domain_name": "pawsdream.com",
-            "destination": "Pressable",
-            "date": "2025-07-19 07:39:43"
-        },
-        {
             "domain_name": "pirateadventures.com",
             "destination": "Pressable",
             "date": "2025-07-19 07:38:37"
@@ -814,7 +814,7 @@
         "Digital Ocean": 4515,
         "SiteGround": 4487,
         "Bluehost": 4055,
-        "Hostinger": 3051,
+        "Hostinger": 3052,
         "GoDaddy": 1226,
         "BigScoots": 595,
         "Liquid Web": 546,
