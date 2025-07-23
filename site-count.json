@@ -1,6 +1,16 @@
 {
-    "siteCount": 82447,
+    "siteCount": 82451,
     "recentlyMoved": [
+        {
+            "domain_name": "www.justiceforkids.com",
+            "destination": "Bluehost",
+            "date": "2025-07-23 01:13:31"
+        },
+        {
+            "domain_name": "beautifulheartsrescue.org",
+            "destination": "Pressable",
+            "date": "2025-07-23 00:24:07"
+        },
         {
             "domain_name": "vpftc.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2025-07-19 18:06:10"
         },
         {
-            "domain_name": "xtremeheatingandcooling.com",
-            "destination": "SiteGround",
-            "date": "2025-07-19 17:58:34"
-        },
-        {
             "domain_name": "missiodigital.com",
             "destination": "SiteGround",
             "date": "2025-07-19 17:46:12"
-        },
-        {
-            "domain_name": "smilesbydoctord.com",
-            "destination": "Kinsta",
-            "date": "2025-07-19 16:56:38"
         }
     ],
     "dailyMovedStat": {
@@ -810,11 +810,11 @@
         "2025-07-22": "82445"
     },
     "topDestinationHosts": {
-        "Pressable": 10477,
+        "Pressable": 10478,
         "Kinsta": 5430,
         "Digital Ocean": 4521,
         "SiteGround": 4495,
-        "Bluehost": 4056,
+        "Bluehost": 4057,
         "Hostinger": 3061,
         "GoDaddy": 1227,
         "BigScoots": 595,
