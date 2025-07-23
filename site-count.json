@@ -1,6 +1,16 @@
 {
-    "siteCount": 82469,
+    "siteCount": 82478,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gulfviewdentistry.com",
+            "destination": "Kinsta",
+            "date": "2025-07-23 04:45:59"
+        },
+        {
+            "domain_name": "huntnebraskainc.com",
+            "destination": "HostGator",
+            "date": "2025-07-23 04:19:29"
+        },
         {
             "domain_name": "greatescapecaravans.com.au",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "briansbeach.com",
             "destination": "SiteGround",
             "date": "2025-07-19 20:20:47"
-        },
-        {
-            "domain_name": "amandacristrealtor.com",
-            "destination": "Hostinger",
-            "date": "2025-07-19 20:12:32"
-        },
-        {
-            "domain_name": "www.rockingxland.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-19 20:05:04"
         }
     ],
     "dailyMovedStat": {
@@ -811,7 +811,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10478,
-        "Kinsta": 5430,
+        "Kinsta": 5431,
         "Digital Ocean": 4523,
         "SiteGround": 4495,
         "Bluehost": 4057,
