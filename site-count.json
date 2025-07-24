@@ -1,6 +1,11 @@
 {
-    "siteCount": 82862,
+    "siteCount": 82863,
     "recentlyMoved": [
+        {
+            "domain_name": "nysmiledestination.com",
+            "destination": "Kinsta",
+            "date": "2025-07-24 18:45:20"
+        },
         {
             "domain_name": "myppea.com",
             "destination": "InMotion Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-07-23 16:24:22"
         },
         {
-            "domain_name": "habibishow.tv",
-            "destination": "Hostinger",
-            "date": "2025-07-23 16:13:54"
-        },
-        {
             "domain_name": "bencurtisacademy.com",
             "destination": "Kinsta",
             "date": "2025-07-23 16:05:07"
@@ -812,11 +812,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10519,
-        "Kinsta": 5451,
+        "Kinsta": 5452,
         "Digital Ocean": 4542,
         "SiteGround": 4525,
         "Bluehost": 4060,
-        "Hostinger": 3082,
+        "Hostinger": 3083,
         "GoDaddy": 1231,
         "BigScoots": 596,
         "Liquid Web": 548,
