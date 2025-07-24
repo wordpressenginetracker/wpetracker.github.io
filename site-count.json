@@ -1,6 +1,11 @@
 {
-    "siteCount": 82739,
+    "siteCount": 82744,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cilips.org.uk",
+            "destination": "SiteGround",
+            "date": "2025-07-24 08:20:29"
+        },
         {
             "domain_name": "www.wyzowl.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "mdisrupt.com",
             "destination": "DreamHost",
             "date": "2025-07-23 02:11:58"
-        },
-        {
-            "domain_name": "tadesigns.co.in",
-            "destination": "Hostinger",
-            "date": "2025-07-23 01:19:09"
         }
     ],
     "dailyMovedStat": {
@@ -814,7 +814,7 @@
         "Pressable": 10497,
         "Kinsta": 5440,
         "Digital Ocean": 4537,
-        "SiteGround": 4517,
+        "SiteGround": 4518,
         "Bluehost": 4059,
         "Hostinger": 3078,
         "GoDaddy": 1230,
