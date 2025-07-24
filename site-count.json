@@ -1,6 +1,26 @@
 {
-    "siteCount": 82744,
+    "siteCount": 82753,
     "recentlyMoved": [
+        {
+            "domain_name": "stoneadvisorygroup.com",
+            "destination": "HostGator",
+            "date": "2025-07-24 09:26:01"
+        },
+        {
+            "domain_name": "www.itechcloudsolution.com",
+            "destination": "Hostinger",
+            "date": "2025-07-24 09:11:31"
+        },
+        {
+            "domain_name": "www.pump-meter.com",
+            "destination": "Digital Ocean",
+            "date": "2025-07-24 09:09:01"
+        },
+        {
+            "domain_name": "hoogenraadplant.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-07-24 08:21:33"
+        },
         {
             "domain_name": "www.cilips.org.uk",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "greatescapecaravans.com.au",
             "destination": "Digital Ocean",
             "date": "2025-07-23 04:14:12"
-        },
-        {
-            "domain_name": "www.northwestfirstrealtors.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-23 03:51:26"
-        },
-        {
-            "domain_name": "amorbellophotography.com",
-            "destination": "WordPress.com",
-            "date": "2025-07-23 03:33:11"
-        },
-        {
-            "domain_name": "edgewater-hotel.com",
-            "destination": "Hostinger",
-            "date": "2025-07-23 02:36:14"
-        },
-        {
-            "domain_name": "mdisrupt.com",
-            "destination": "DreamHost",
-            "date": "2025-07-23 02:11:58"
         }
     ],
     "dailyMovedStat": {
@@ -813,10 +813,10 @@
     "topDestinationHosts": {
         "Pressable": 10497,
         "Kinsta": 5440,
-        "Digital Ocean": 4537,
+        "Digital Ocean": 4539,
         "SiteGround": 4518,
         "Bluehost": 4059,
-        "Hostinger": 3078,
+        "Hostinger": 3079,
         "GoDaddy": 1230,
         "BigScoots": 596,
         "Liquid Web": 547,
