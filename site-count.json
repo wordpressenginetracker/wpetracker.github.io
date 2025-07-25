@@ -1,6 +1,11 @@
 {
-    "siteCount": 83134,
+    "siteCount": 83145,
     "recentlyMoved": [
+        {
+            "domain_name": "txveinexperts.com",
+            "destination": "Kinsta",
+            "date": "2025-07-25 22:10:54"
+        },
         {
             "domain_name": "www.imagineyoursmile.com",
             "destination": "Pressable",
@@ -477,11 +482,6 @@
             "date": "2025-07-24 13:40:02"
         },
         {
-            "domain_name": "www.newberlinredimix.com",
-            "destination": "Pressable",
-            "date": "2025-07-24 13:31:42"
-        },
-        {
             "domain_name": "www.skinsobarelasercenter.com",
             "destination": "Pressable",
             "date": "2025-07-24 13:29:04"
@@ -813,7 +813,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10530,
-        "Kinsta": 5475,
+        "Kinsta": 5476,
         "Digital Ocean": 4551,
         "SiteGround": 4534,
         "Bluehost": 4061,
