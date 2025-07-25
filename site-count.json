@@ -1,6 +1,21 @@
 {
-    "siteCount": 82975,
+    "siteCount": 82989,
     "recentlyMoved": [
+        {
+            "domain_name": "rosefabricating.com",
+            "destination": "SiteGround",
+            "date": "2025-07-25 08:33:57"
+        },
+        {
+            "domain_name": "rsg.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-07-25 08:31:24"
+        },
+        {
+            "domain_name": "homewardproject.org",
+            "destination": "Digital Ocean",
+            "date": "2025-07-25 08:29:21"
+        },
         {
             "domain_name": "harmoniaclinic.co.uk",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "www.bartwinklershow.com",
             "destination": "Pressable",
             "date": "2025-07-24 00:02:30"
-        },
-        {
-            "domain_name": "whbfire.com",
-            "destination": "Pressable",
-            "date": "2025-07-23 23:37:04"
-        },
-        {
-            "domain_name": "malibuhempflower.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-23 21:48:12"
-        },
-        {
-            "domain_name": "theaprilgarcia.com",
-            "destination": "Hostinger",
-            "date": "2025-07-23 21:20:47"
         }
     ],
     "dailyMovedStat": {
@@ -814,8 +814,8 @@
     "topDestinationHosts": {
         "Pressable": 10524,
         "Kinsta": 5457,
-        "Digital Ocean": 4546,
-        "SiteGround": 4528,
+        "Digital Ocean": 4548,
+        "SiteGround": 4529,
         "Bluehost": 4060,
         "Hostinger": 3083,
         "GoDaddy": 1231,
