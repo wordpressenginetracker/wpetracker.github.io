@@ -1,6 +1,16 @@
 {
-    "siteCount": 82967,
+    "siteCount": 82975,
     "recentlyMoved": [
+        {
+            "domain_name": "harmoniaclinic.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-07-25 08:27:46"
+        },
+        {
+            "domain_name": "ramh.org",
+            "destination": "SiteGround",
+            "date": "2025-07-25 08:13:44"
+        },
         {
             "domain_name": "www.sylvansport.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "theaprilgarcia.com",
             "destination": "Hostinger",
             "date": "2025-07-23 21:20:47"
-        },
-        {
-            "domain_name": "landmarkcozumel.com",
-            "destination": "Hostinger",
-            "date": "2025-07-23 21:18:32"
-        },
-        {
-            "domain_name": "cccforpa.org",
-            "destination": "Kinsta",
-            "date": "2025-07-23 20:42:33"
         }
     ],
     "dailyMovedStat": {
@@ -815,7 +815,7 @@
         "Pressable": 10524,
         "Kinsta": 5457,
         "Digital Ocean": 4546,
-        "SiteGround": 4526,
+        "SiteGround": 4528,
         "Bluehost": 4060,
         "Hostinger": 3083,
         "GoDaddy": 1231,
