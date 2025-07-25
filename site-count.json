@@ -1,6 +1,11 @@
 {
-    "siteCount": 82959,
+    "siteCount": 82965,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sylvansport.com",
+            "destination": "Kinsta",
+            "date": "2025-07-25 06:02:26"
+        },
         {
             "domain_name": "www.rayswheels.co.uk",
             "destination": "IONOS",
@@ -492,11 +497,6 @@
             "date": "2025-07-23 21:18:32"
         },
         {
-            "domain_name": "capitaleny.com",
-            "destination": "Hostinger",
-            "date": "2025-07-23 20:58:52"
-        },
-        {
             "domain_name": "cccforpa.org",
             "destination": "Kinsta",
             "date": "2025-07-23 20:42:33"
@@ -813,7 +813,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10524,
-        "Kinsta": 5456,
+        "Kinsta": 5457,
         "Digital Ocean": 4546,
         "SiteGround": 4526,
         "Bluehost": 4060,
@@ -827,7 +827,7 @@
         "A2 Hosting": 341,
         "OVH": 328,
         "Elementor Hosting": 309,
-        "IONOS": 307,
+        "IONOS": 308,
         "Namecheap": 292,
         "DreamHost": 290,
         "Hetzner Online": 242,
