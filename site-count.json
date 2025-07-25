@@ -1,6 +1,21 @@
 {
-    "siteCount": 82925,
+    "siteCount": 82936,
     "recentlyMoved": [
+        {
+            "domain_name": "lesamisdehsi.ca",
+            "destination": "Namecheap",
+            "date": "2025-07-25 00:55:21"
+        },
+        {
+            "domain_name": "ringbroswholesale.com",
+            "destination": "Pressable",
+            "date": "2025-07-25 00:46:59"
+        },
+        {
+            "domain_name": "sloaneranger.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-07-25 00:44:53"
+        },
         {
             "domain_name": "bbqovencleaning.com.au",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "www.mccordsvillefamilydental.com",
             "destination": "Kinsta",
             "date": "2025-07-23 20:08:48"
-        },
-        {
-            "domain_name": "www.meyerpuklich.com",
-            "destination": "SiteGround",
-            "date": "2025-07-23 20:01:14"
-        },
-        {
-            "domain_name": "pennyappeal.org.au",
-            "destination": "SiteGround",
-            "date": "2025-07-23 19:48:15"
-        },
-        {
-            "domain_name": "gavriortho.com",
-            "destination": "SiteGround",
-            "date": "2025-07-23 19:32:10"
         }
     ],
     "dailyMovedStat": {
@@ -812,9 +812,9 @@
         "2025-07-24": "82919"
     },
     "topDestinationHosts": {
-        "Pressable": 10523,
+        "Pressable": 10524,
         "Kinsta": 5456,
-        "Digital Ocean": 4543,
+        "Digital Ocean": 4545,
         "SiteGround": 4525,
         "Bluehost": 4060,
         "Hostinger": 3083,
