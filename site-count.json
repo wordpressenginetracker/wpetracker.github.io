@@ -1,6 +1,11 @@
 {
-    "siteCount": 83162,
+    "siteCount": 83165,
     "recentlyMoved": [
+        {
+            "domain_name": "advancedcanvasusa.com",
+            "destination": "BigScoots",
+            "date": "2025-07-26 03:18:22"
+        },
         {
             "domain_name": "theoneshop.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "ussnautilus.org",
             "destination": "Kinsta",
             "date": "2025-07-24 14:15:35"
-        },
-        {
-            "domain_name": "dixontheatre.com",
-            "destination": "SiteGround",
-            "date": "2025-07-24 13:40:02"
         }
     ],
     "dailyMovedStat": {
@@ -820,7 +820,7 @@
         "Bluehost": 4061,
         "Hostinger": 3087,
         "GoDaddy": 1231,
-        "BigScoots": 597,
+        "BigScoots": 598,
         "Liquid Web": 549,
         "WordPress.com": 401,
         "InMotion Hosting": 387,
