@@ -1,6 +1,26 @@
 {
-    "siteCount": 83343,
+    "siteCount": 83389,
     "recentlyMoved": [
+        {
+            "domain_name": "wslaw.nyc",
+            "destination": "Hostinger",
+            "date": "2025-07-26 20:13:06"
+        },
+        {
+            "domain_name": "gregbroadbent.com",
+            "destination": "Kinsta",
+            "date": "2025-07-26 20:01:38"
+        },
+        {
+            "domain_name": "pac-md.org",
+            "destination": "Pressable",
+            "date": "2025-07-26 19:30:05"
+        },
+        {
+            "domain_name": "finkeldeys.com",
+            "destination": "Kinsta",
+            "date": "2025-07-26 19:24:43"
+        },
         {
             "domain_name": "excellomachineco.com",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "mshgadmin.com",
             "destination": "Pressable",
             "date": "2025-07-24 22:13:25"
-        },
-        {
-            "domain_name": "www.lafayettefamilyorthodontics.com",
-            "destination": "Pressable",
-            "date": "2025-07-24 20:58:58"
-        },
-        {
-            "domain_name": "bridginghopecf.org.au",
-            "destination": "Kinsta",
-            "date": "2025-07-24 20:15:08"
-        },
-        {
-            "domain_name": "passafiumepaintingllc.com",
-            "destination": "Kinsta",
-            "date": "2025-07-24 19:44:42"
-        },
-        {
-            "domain_name": "genesishealthutah.com",
-            "destination": "WordPress.com",
-            "date": "2025-07-24 19:31:34"
         }
     ],
     "dailyMovedStat": {
@@ -813,12 +813,12 @@
         "2025-07-25": "83145"
     },
     "topDestinationHosts": {
-        "Pressable": 10538,
-        "Kinsta": 5488,
+        "Pressable": 10539,
+        "Kinsta": 5490,
         "Digital Ocean": 4555,
         "SiteGround": 4541,
         "Bluehost": 4062,
-        "Hostinger": 3087,
+        "Hostinger": 3088,
         "GoDaddy": 1231,
         "BigScoots": 598,
         "Liquid Web": 550,
@@ -827,12 +827,12 @@
         "GridPane": 364,
         "A2 Hosting": 341,
         "OVH": 329,
+        "IONOS": 310,
         "Elementor Hosting": 309,
-        "IONOS": 309,
         "Namecheap": 293,
-        "DreamHost": 291,
+        "DreamHost": 292,
         "Hetzner Online": 243,
-        "Wordify": 185
+        "HostGator": 185
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
