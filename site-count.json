@@ -1,6 +1,11 @@
 {
-    "siteCount": 83165,
+    "siteCount": 83172,
     "recentlyMoved": [
+        {
+            "domain_name": "intetics.com",
+            "destination": "Bluehost",
+            "date": "2025-07-26 04:43:37"
+        },
         {
             "domain_name": "advancedcanvasusa.com",
             "destination": "BigScoots",
@@ -492,11 +497,6 @@
             "date": "2025-07-24 14:26:30"
         },
         {
-            "domain_name": "timsmarshall.com",
-            "destination": "SiteGround",
-            "date": "2025-07-24 14:24:43"
-        },
-        {
             "domain_name": "ussnautilus.org",
             "destination": "Kinsta",
             "date": "2025-07-24 14:15:35"
@@ -817,7 +817,7 @@
         "Kinsta": 5476,
         "Digital Ocean": 4552,
         "SiteGround": 4536,
-        "Bluehost": 4061,
+        "Bluehost": 4062,
         "Hostinger": 3087,
         "GoDaddy": 1231,
         "BigScoots": 598,
