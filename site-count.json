@@ -1,6 +1,11 @@
 {
-    "siteCount": 83176,
+    "siteCount": 83185,
     "recentlyMoved": [
+        {
+            "domain_name": "phoa.art",
+            "destination": "Digital Ocean",
+            "date": "2025-07-26 08:20:53"
+        },
         {
             "domain_name": "intetics.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "vargainc.com",
             "destination": "Kinsta",
             "date": "2025-07-24 14:26:30"
-        },
-        {
-            "domain_name": "ussnautilus.org",
-            "destination": "Kinsta",
-            "date": "2025-07-24 14:15:35"
         }
     ],
     "dailyMovedStat": {
@@ -815,7 +815,7 @@
     "topDestinationHosts": {
         "Pressable": 10530,
         "Kinsta": 5476,
-        "Digital Ocean": 4552,
+        "Digital Ocean": 4553,
         "SiteGround": 4536,
         "Bluehost": 4062,
         "Hostinger": 3087,
