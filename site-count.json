@@ -1,6 +1,11 @@
 {
-    "siteCount": 83454,
+    "siteCount": 83458,
     "recentlyMoved": [
+        {
+            "domain_name": "gludown.mx",
+            "destination": "Namecheap",
+            "date": "2025-07-27 12:02:45"
+        },
         {
             "domain_name": "northernwebexperts.co.uk",
             "destination": "Krystal Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "vengroffwilliams.com",
             "destination": "Kinsta",
             "date": "2025-07-25 10:33:47"
-        },
-        {
-            "domain_name": "superdog.com",
-            "destination": "SiteGround",
-            "date": "2025-07-25 09:23:37"
         }
     ],
     "dailyMovedStat": {
@@ -830,7 +830,7 @@
         "OVH": 329,
         "IONOS": 311,
         "Elementor Hosting": 309,
-        "Namecheap": 293,
+        "Namecheap": 294,
         "DreamHost": 292,
         "Hetzner Online": 243,
         "HostGator": 185
