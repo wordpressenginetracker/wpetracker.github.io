@@ -1,6 +1,31 @@
 {
-    "siteCount": 83532,
+    "siteCount": 83540,
     "recentlyMoved": [
+        {
+            "domain_name": "en.grupozfb.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-28 02:26:08"
+        },
+        {
+            "domain_name": "e2p.com",
+            "destination": "SiteGround",
+            "date": "2025-07-28 02:23:42"
+        },
+        {
+            "domain_name": "www.tinybluesky.com",
+            "destination": "Kinsta",
+            "date": "2025-07-28 01:45:12"
+        },
+        {
+            "domain_name": "timbreylind.com",
+            "destination": "SiteGround",
+            "date": "2025-07-28 01:36:07"
+        },
+        {
+            "domain_name": "zonafrancabogota.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-28 01:28:03"
+        },
         {
             "domain_name": "gununiversity.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "www.carpoolcinemawynwood.com",
             "destination": "Namecheap",
             "date": "2025-07-25 16:16:16"
-        },
-        {
-            "domain_name": "pontevedrapropertiesrealty.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 15:51:44"
-        },
-        {
-            "domain_name": "pontevedrafl.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 15:51:44"
-        },
-        {
-            "domain_name": "www.abcautoglassva.com",
-            "destination": "SiteGround",
-            "date": "2025-07-25 15:34:47"
-        },
-        {
-            "domain_name": "www.bemidjiorthodontics.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-25 15:34:32"
-        },
-        {
-            "domain_name": "oldpontevedrabeachflhomes.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 15:16:56"
         }
     ],
     "dailyMovedStat": {
@@ -816,12 +816,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10543,
-        "Kinsta": 5504,
+        "Kinsta": 5505,
         "Digital Ocean": 4564,
-        "SiteGround": 4542,
+        "SiteGround": 4544,
         "Bluehost": 4063,
         "Hostinger": 3091,
-        "GoDaddy": 1234,
+        "GoDaddy": 1236,
         "BigScoots": 598,
         "Liquid Web": 551,
         "WordPress.com": 402,
