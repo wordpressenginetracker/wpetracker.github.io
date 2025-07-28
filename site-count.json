@@ -1,6 +1,11 @@
 {
-    "siteCount": 83540,
+    "siteCount": 83544,
     "recentlyMoved": [
+        {
+            "domain_name": "azmobilehomeinstallation.com",
+            "destination": "HostGator",
+            "date": "2025-07-28 04:36:00"
+        },
         {
             "domain_name": "en.grupozfb.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.christinewaltercoach.com",
             "destination": "DreamHost",
             "date": "2025-07-25 16:18:22"
-        },
-        {
-            "domain_name": "www.carpoolcinemawynwood.com",
-            "destination": "Namecheap",
-            "date": "2025-07-25 16:16:16"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
         "Namecheap": 294,
         "DreamHost": 292,
         "Hetzner Online": 243,
-        "HostGator": 185
+        "HostGator": 186
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
