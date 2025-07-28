@@ -1,6 +1,16 @@
 {
-    "siteCount": 83620,
+    "siteCount": 83623,
     "recentlyMoved": [
+        {
+            "domain_name": "tribestudiosnj.com",
+            "destination": "Pressable",
+            "date": "2025-07-28 22:00:04"
+        },
+        {
+            "domain_name": "deansmillfarm.com",
+            "destination": "Kinsta",
+            "date": "2025-07-28 21:29:18"
+        },
         {
             "domain_name": "saunaus.com.au",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.imagineyoursmile.com",
             "destination": "Pressable",
             "date": "2025-07-25 20:20:33"
-        },
-        {
-            "domain_name": "paws-n-clawspetsitting.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 19:24:35"
-        },
-        {
-            "domain_name": "doctordaughters.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 17:35:11"
         }
     ],
     "dailyMovedStat": {
@@ -815,8 +815,8 @@
         "2025-07-27": "83515"
     },
     "topDestinationHosts": {
-        "Pressable": 10546,
-        "Kinsta": 5507,
+        "Pressable": 10547,
+        "Kinsta": 5508,
         "Digital Ocean": 4564,
         "SiteGround": 4545,
         "Bluehost": 4064,
