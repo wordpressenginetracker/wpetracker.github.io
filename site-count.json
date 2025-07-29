@@ -1,5 +1,5 @@
 {
-    "siteCount": 83768,
+    "siteCount": 83770,
     "recentlyMoved": [
         {
             "domain_name": "vivaceultra.com",
@@ -20,6 +20,11 @@
             "domain_name": "vbeltsdirect.com",
             "destination": "Digital Ocean",
             "date": "2025-07-29 18:17:14"
+        },
+        {
+            "domain_name": "nmseniorolympics.org",
+            "destination": "SiteGround",
+            "date": "2025-07-29 18:09:23"
         },
         {
             "domain_name": "doubleumbrellapublications.com",
@@ -495,11 +500,6 @@
             "domain_name": "fritzseyfarth.com",
             "destination": "Kinsta",
             "date": "2025-07-26 23:34:12"
-        },
-        {
-            "domain_name": "veinmedicine.net",
-            "destination": "Kinsta",
-            "date": "2025-07-26 21:58:27"
         }
     ],
     "dailyMovedStat": {
@@ -819,7 +819,7 @@
         "Pressable": 10557,
         "Kinsta": 5515,
         "Digital Ocean": 4567,
-        "SiteGround": 4554,
+        "SiteGround": 4556,
         "Bluehost": 4065,
         "Hostinger": 3100,
         "GoDaddy": 1240,
