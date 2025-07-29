@@ -1,6 +1,11 @@
 {
-    "siteCount": 83635,
+    "siteCount": 83641,
     "recentlyMoved": [
+        {
+            "domain_name": "www.develeap.com",
+            "destination": "Kinsta",
+            "date": "2025-07-29 04:18:51"
+        },
         {
             "domain_name": "meetjasonrandall.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "ambrosebookkeepers.com",
             "destination": "Hostinger",
             "date": "2025-07-25 23:59:12"
-        },
-        {
-            "domain_name": "txveinexperts.com",
-            "destination": "Kinsta",
-            "date": "2025-07-25 22:10:54"
         }
     ],
     "dailyMovedStat": {
