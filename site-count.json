@@ -1,6 +1,21 @@
 {
-    "siteCount": 83770,
+    "siteCount": 83811,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cbtechgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-07-29 20:31:46"
+        },
+        {
+            "domain_name": "hauloutnj.com",
+            "destination": "Pressable",
+            "date": "2025-07-29 20:16:44"
+        },
+        {
+            "domain_name": "abilitywealthgroup.com",
+            "destination": "Pressable",
+            "date": "2025-07-29 19:45:22"
+        },
         {
             "domain_name": "vivaceultra.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "heavencanwaitnyc.com",
             "destination": "GoDaddy",
             "date": "2025-07-27 00:20:11"
-        },
-        {
-            "domain_name": "oconnellfirm.com",
-            "destination": "Pressable",
-            "date": "2025-07-26 23:43:21"
-        },
-        {
-            "domain_name": "opnhc.com",
-            "destination": "WordPress.com",
-            "date": "2025-07-26 23:36:35"
-        },
-        {
-            "domain_name": "fritzseyfarth.com",
-            "destination": "Kinsta",
-            "date": "2025-07-26 23:34:12"
         }
     ],
     "dailyMovedStat": {
@@ -816,8 +816,8 @@
         "2025-07-28": "83623"
     },
     "topDestinationHosts": {
-        "Pressable": 10557,
-        "Kinsta": 5515,
+        "Pressable": 10559,
+        "Kinsta": 5517,
         "Digital Ocean": 4567,
         "SiteGround": 4556,
         "Bluehost": 4065,
