@@ -1,6 +1,11 @@
 {
-    "siteCount": 83631,
+    "siteCount": 83635,
     "recentlyMoved": [
+        {
+            "domain_name": "meetjasonrandall.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-29 01:32:36"
+        },
         {
             "domain_name": "tribestudiosnj.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "txveinexperts.com",
             "destination": "Kinsta",
             "date": "2025-07-25 22:10:54"
-        },
-        {
-            "domain_name": "www.imagineyoursmile.com",
-            "destination": "Pressable",
-            "date": "2025-07-25 20:20:33"
         }
     ],
     "dailyMovedStat": {
@@ -822,7 +822,7 @@
         "SiteGround": 4545,
         "Bluehost": 4064,
         "Hostinger": 3092,
-        "GoDaddy": 1236,
+        "GoDaddy": 1237,
         "BigScoots": 598,
         "Liquid Web": 551,
         "WordPress.com": 402,
