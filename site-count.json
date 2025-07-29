@@ -1,6 +1,11 @@
 {
-    "siteCount": 83668,
+    "siteCount": 83675,
     "recentlyMoved": [
+        {
+            "domain_name": "selectgcr.com",
+            "destination": "GoDaddy",
+            "date": "2025-07-29 08:56:16"
+        },
         {
             "domain_name": "gwdlawfirm.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-07-26 03:18:22"
         },
         {
-            "domain_name": "theoneshop.in",
-            "destination": "Hostinger",
-            "date": "2025-07-26 02:11:10"
-        },
-        {
             "domain_name": "nspca.co.za",
             "destination": "Hostinger",
             "date": "2025-07-26 02:09:41"
@@ -822,7 +822,7 @@
         "SiteGround": 4545,
         "Bluehost": 4064,
         "Hostinger": 3096,
-        "GoDaddy": 1237,
+        "GoDaddy": 1238,
         "BigScoots": 598,
         "Liquid Web": 551,
         "WordPress.com": 402,
