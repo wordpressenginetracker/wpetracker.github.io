@@ -1,6 +1,11 @@
 {
-    "siteCount": 83646,
+    "siteCount": 83655,
     "recentlyMoved": [
+        {
+            "domain_name": "discoverynursery.ae",
+            "destination": "Hostinger",
+            "date": "2025-07-29 05:40:54"
+        },
         {
             "domain_name": "www.develeap.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.magicmaids.net.au",
             "destination": "Digital Ocean",
             "date": "2025-07-26 00:34:24"
-        },
-        {
-            "domain_name": "ambrosebookkeepers.com",
-            "destination": "Hostinger",
-            "date": "2025-07-25 23:59:12"
         }
     ],
     "dailyMovedStat": {
@@ -821,7 +821,7 @@
         "Digital Ocean": 4564,
         "SiteGround": 4545,
         "Bluehost": 4064,
-        "Hostinger": 3092,
+        "Hostinger": 3093,
         "GoDaddy": 1237,
         "BigScoots": 598,
         "Liquid Web": 551,
