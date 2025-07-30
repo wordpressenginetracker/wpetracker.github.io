@@ -1,6 +1,16 @@
 {
-    "siteCount": 83838,
+    "siteCount": 83846,
     "recentlyMoved": [
+        {
+            "domain_name": "kstherapy.org",
+            "destination": "SiteGround",
+            "date": "2025-07-30 01:03:26"
+        },
+        {
+            "domain_name": "riseoftechnosocialism.com",
+            "destination": "Bluehost",
+            "date": "2025-07-30 00:32:10"
+        },
         {
             "domain_name": "ramrathnaresidency.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "www.buylakelbj.com",
             "destination": "Digital Ocean",
             "date": "2025-07-27 15:58:28"
-        },
-        {
-            "domain_name": "partnerguides.cadmusgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-07-27 15:26:53"
-        },
-        {
-            "domain_name": "maromaesa.com",
-            "destination": "Kinsta",
-            "date": "2025-07-27 13:12:29"
         }
     ],
     "dailyMovedStat": {
@@ -820,8 +820,8 @@
         "Pressable": 10562,
         "Kinsta": 5517,
         "Digital Ocean": 4567,
-        "SiteGround": 4558,
-        "Bluehost": 4066,
+        "SiteGround": 4559,
+        "Bluehost": 4067,
         "Hostinger": 3101,
         "GoDaddy": 1240,
         "BigScoots": 599,
