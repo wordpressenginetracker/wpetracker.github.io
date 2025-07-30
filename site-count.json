@@ -1,6 +1,11 @@
 {
-    "siteCount": 83830,
+    "siteCount": 83838,
     "recentlyMoved": [
+        {
+            "domain_name": "ramrathnaresidency.com",
+            "destination": "Hostinger",
+            "date": "2025-07-30 00:00:13"
+        },
         {
             "domain_name": "tricitylaw.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-07-27 15:26:53"
         },
         {
-            "domain_name": "coultonshaw.com",
-            "destination": "Hostinger",
-            "date": "2025-07-27 13:51:04"
-        },
-        {
             "domain_name": "maromaesa.com",
             "destination": "Kinsta",
             "date": "2025-07-27 13:12:29"
@@ -822,7 +822,7 @@
         "Digital Ocean": 4567,
         "SiteGround": 4558,
         "Bluehost": 4066,
-        "Hostinger": 3100,
+        "Hostinger": 3101,
         "GoDaddy": 1240,
         "BigScoots": 599,
         "Liquid Web": 553,
