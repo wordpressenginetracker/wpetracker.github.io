@@ -1,6 +1,16 @@
 {
-    "siteCount": 84078,
+    "siteCount": 84084,
     "recentlyMoved": [
+        {
+            "domain_name": "durkinsigns.com",
+            "destination": "Pressable",
+            "date": "2025-07-31 02:12:52"
+        },
+        {
+            "domain_name": "dannymangin.com",
+            "destination": "Pressable",
+            "date": "2025-07-31 01:24:19"
+        },
         {
             "domain_name": "bayreachhomes.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.harris-stolper.com",
             "destination": "Digital Ocean",
             "date": "2025-07-29 16:21:36"
-        },
-        {
-            "domain_name": "privacyfirm.law",
-            "destination": "Pressable",
-            "date": "2025-07-29 15:52:44"
-        },
-        {
-            "domain_name": "apacharitablefoundation.org",
-            "destination": "Kinsta",
-            "date": "2025-07-29 15:43:15"
         }
     ],
     "dailyMovedStat": {
@@ -818,7 +818,7 @@
         "2025-07-30": "84066"
     },
     "topDestinationHosts": {
-        "Pressable": 10579,
+        "Pressable": 10581,
         "Kinsta": 5526,
         "Digital Ocean": 4574,
         "SiteGround": 4566,
