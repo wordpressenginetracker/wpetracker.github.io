@@ -1,6 +1,46 @@
 {
-    "siteCount": 84124,
+    "siteCount": 84143,
     "recentlyMoved": [
+        {
+            "domain_name": "bariziperstein.com",
+            "destination": "Pressable",
+            "date": "2025-07-31 12:48:44"
+        },
+        {
+            "domain_name": "reachstrategy.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 12:20:01"
+        },
+        {
+            "domain_name": "www.dwi.com",
+            "destination": "BigScoots",
+            "date": "2025-07-31 12:18:10"
+        },
+        {
+            "domain_name": "www.dui.com",
+            "destination": "BigScoots",
+            "date": "2025-07-31 12:18:10"
+        },
+        {
+            "domain_name": "parquet.dev",
+            "destination": "SiteGround",
+            "date": "2025-07-31 12:10:21"
+        },
+        {
+            "domain_name": "getupproductions.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 11:51:50"
+        },
+        {
+            "domain_name": "alexandergrading.com",
+            "destination": "Pressable",
+            "date": "2025-07-31 11:45:04"
+        },
+        {
+            "domain_name": "akkaretty.com",
+            "destination": "Hostinger",
+            "date": "2025-07-31 11:34:42"
+        },
         {
             "domain_name": "upstateprecast.com",
             "destination": "Pressable",
@@ -442,11 +482,6 @@
             "date": "2025-07-29 20:52:21"
         },
         {
-            "domain_name": "www.cbtechgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-07-29 20:31:46"
-        },
-        {
             "domain_name": "blog.candicecoppola.com",
             "destination": "BigScoots",
             "date": "2025-07-29 20:24:11"
@@ -465,41 +500,6 @@
             "domain_name": "rightreport.com",
             "destination": "InMotion Hosting",
             "date": "2025-07-29 20:01:54"
-        },
-        {
-            "domain_name": "abilitywealthgroup.com",
-            "destination": "Pressable",
-            "date": "2025-07-29 19:45:22"
-        },
-        {
-            "domain_name": "vivaceultra.com",
-            "destination": "SiteGround",
-            "date": "2025-07-29 18:25:41"
-        },
-        {
-            "domain_name": "misquamicut.org",
-            "destination": "Kinsta",
-            "date": "2025-07-29 18:20:31"
-        },
-        {
-            "domain_name": "vegandoja.com",
-            "destination": "Pressable",
-            "date": "2025-07-29 18:17:14"
-        },
-        {
-            "domain_name": "vbeltsdirect.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-29 18:17:14"
-        },
-        {
-            "domain_name": "nmseniorolympics.org",
-            "destination": "SiteGround",
-            "date": "2025-07-29 18:09:23"
-        },
-        {
-            "domain_name": "traverse.group",
-            "destination": "Liquid Web",
-            "date": "2025-07-29 17:48:42"
         }
     ],
     "dailyMovedStat": {
@@ -818,14 +818,14 @@
         "2025-07-30": "84066"
     },
     "topDestinationHosts": {
-        "Pressable": 10584,
+        "Pressable": 10586,
         "Kinsta": 5532,
         "Digital Ocean": 4574,
-        "SiteGround": 4568,
+        "SiteGround": 4570,
         "Bluehost": 4068,
-        "Hostinger": 3113,
+        "Hostinger": 3114,
         "GoDaddy": 1242,
-        "BigScoots": 599,
+        "BigScoots": 601,
         "Liquid Web": 559,
         "WordPress.com": 405,
         "InMotion Hosting": 389,
