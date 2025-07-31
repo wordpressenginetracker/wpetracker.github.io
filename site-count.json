@@ -1,6 +1,51 @@
 {
-    "siteCount": 84194,
+    "siteCount": 84210,
     "recentlyMoved": [
+        {
+            "domain_name": "www.levinriback.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 16:05:01"
+        },
+        {
+            "domain_name": "5pointsupply.com",
+            "destination": "Kinsta",
+            "date": "2025-07-31 15:59:04"
+        },
+        {
+            "domain_name": "www.koolkoaladental.com",
+            "destination": "Kinsta",
+            "date": "2025-07-31 15:58:16"
+        },
+        {
+            "domain_name": "www.alleviatechnology.com",
+            "destination": "Kinsta",
+            "date": "2025-07-31 15:57:30"
+        },
+        {
+            "domain_name": "greenwayheatingcooling.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 15:56:42"
+        },
+        {
+            "domain_name": "ampnutra.com",
+            "destination": "Pressable",
+            "date": "2025-07-31 15:54:56"
+        },
+        {
+            "domain_name": "www.davidgibanslaw.com",
+            "destination": "Bluehost",
+            "date": "2025-07-31 15:51:01"
+        },
+        {
+            "domain_name": "www.bernabeipllc.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 15:49:42"
+        },
+        {
+            "domain_name": "www.andrewfskala.com",
+            "destination": "SiteGround",
+            "date": "2025-07-31 15:07:49"
+        },
         {
             "domain_name": "vtcsupply.com",
             "destination": "Kinsta",
@@ -455,51 +500,6 @@
             "domain_name": "drcarr.net",
             "destination": "Pressable",
             "date": "2025-07-30 14:07:29"
-        },
-        {
-            "domain_name": "lulubclothing.com",
-            "destination": "Pressable",
-            "date": "2025-07-30 13:26:20"
-        },
-        {
-            "domain_name": "crossfitsupernova.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-30 13:23:58"
-        },
-        {
-            "domain_name": "crossfitsuccesstx.com",
-            "destination": "Liquid Web",
-            "date": "2025-07-30 13:23:58"
-        },
-        {
-            "domain_name": "designingvalue.com",
-            "destination": "SiteGround",
-            "date": "2025-07-30 13:20:13"
-        },
-        {
-            "domain_name": "the-vintages.com",
-            "destination": "SiteGround",
-            "date": "2025-07-30 13:11:38"
-        },
-        {
-            "domain_name": "the-hardway.org",
-            "destination": "Hostinger",
-            "date": "2025-07-30 13:11:38"
-        },
-        {
-            "domain_name": "slatewineacademy.com",
-            "destination": "Pressable",
-            "date": "2025-07-30 13:03:16"
-        },
-        {
-            "domain_name": "www.mojobotanica.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-30 12:59:24"
-        },
-        {
-            "domain_name": "solidcreative.com",
-            "destination": "Pressable",
-            "date": "2025-07-30 12:37:13"
         }
     ],
     "dailyMovedStat": {
@@ -818,11 +818,11 @@
         "2025-07-30": "84066"
     },
     "topDestinationHosts": {
-        "Pressable": 10592,
-        "Kinsta": 5540,
+        "Pressable": 10593,
+        "Kinsta": 5543,
+        "SiteGround": 4579,
         "Digital Ocean": 4576,
-        "SiteGround": 4574,
-        "Bluehost": 4070,
+        "Bluehost": 4071,
         "Hostinger": 3116,
         "GoDaddy": 1242,
         "BigScoots": 601,
