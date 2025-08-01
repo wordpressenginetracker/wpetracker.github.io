@@ -1,6 +1,11 @@
 {
-    "siteCount": 84330,
+    "siteCount": 84336,
     "recentlyMoved": [
+        {
+            "domain_name": "hawaiiphotography.com",
+            "destination": "WordPress.com",
+            "date": "2025-08-01 00:27:34"
+        },
         {
             "domain_name": "zoftigeatery.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.martinkovicmilford.com",
             "destination": "Digital Ocean",
             "date": "2025-07-30 21:08:19"
-        },
-        {
-            "domain_name": "www.jppostitus.fi",
-            "destination": "Hetzner Online",
-            "date": "2025-07-30 20:15:56"
         }
     ],
     "dailyMovedStat": {
@@ -828,7 +828,7 @@
         "GoDaddy": 1245,
         "BigScoots": 601,
         "Liquid Web": 563,
-        "WordPress.com": 406,
+        "WordPress.com": 407,
         "InMotion Hosting": 390,
         "GridPane": 365,
         "A2 Hosting": 343,
