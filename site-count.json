@@ -1,6 +1,16 @@
 {
-    "siteCount": 84341,
+    "siteCount": 84347,
     "recentlyMoved": [
+        {
+            "domain_name": "themehdifirm.com",
+            "destination": "Pressable",
+            "date": "2025-08-01 02:03:46"
+        },
+        {
+            "domain_name": "move-central.com",
+            "destination": "IONOS",
+            "date": "2025-08-01 01:52:50"
+        },
         {
             "domain_name": "sixthsociety.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "adcheetah.com",
             "destination": "WordPress.com",
             "date": "2025-07-30 23:36:59"
-        },
-        {
-            "domain_name": "epexventures.com",
-            "destination": "Kinsta",
-            "date": "2025-07-30 22:24:24"
-        },
-        {
-            "domain_name": "epextravel.com",
-            "destination": "Kinsta",
-            "date": "2025-07-30 22:24:24"
         }
     ],
     "dailyMovedStat": {
@@ -819,7 +819,7 @@
         "2025-07-31": "84330"
     },
     "topDestinationHosts": {
-        "Pressable": 10599,
+        "Pressable": 10600,
         "Kinsta": 5549,
         "SiteGround": 4586,
         "Digital Ocean": 4581,
@@ -833,7 +833,7 @@
         "GridPane": 365,
         "A2 Hosting": 343,
         "OVH": 331,
-        "IONOS": 312,
+        "IONOS": 313,
         "Elementor Hosting": 310,
         "Namecheap": 297,
         "DreamHost": 293,
