@@ -1,6 +1,26 @@
 {
-    "siteCount": 84560,
+    "siteCount": 84577,
     "recentlyMoved": [
+        {
+            "domain_name": "evolutionofherbeauty.com",
+            "destination": "Hostinger",
+            "date": "2025-08-01 22:02:53"
+        },
+        {
+            "domain_name": "drzeinehplasticsurgery.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-01 21:35:08"
+        },
+        {
+            "domain_name": "cutiepawsatl.com",
+            "destination": "BigScoots",
+            "date": "2025-08-01 21:30:07"
+        },
+        {
+            "domain_name": "marycatherinesoulsby.blog",
+            "destination": "WordPress.com",
+            "date": "2025-08-01 21:16:17"
+        },
         {
             "domain_name": "buffalo-thorn.com",
             "destination": "Pressable",
@@ -472,34 +492,14 @@
             "date": "2025-07-31 16:55:08"
         },
         {
-            "domain_name": "rifkinlaw.net",
-            "destination": "IONOS",
-            "date": "2025-07-31 16:49:55"
-        },
-        {
             "domain_name": "butlervause.com",
             "destination": "Kinsta",
             "date": "2025-07-31 16:48:05"
         },
         {
-            "domain_name": "iamcalledtocare.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-31 16:43:46"
-        },
-        {
             "domain_name": "smokeymountaintops.com",
             "destination": "SiteGround",
             "date": "2025-07-31 16:40:29"
-        },
-        {
-            "domain_name": "bibleinsights.com",
-            "destination": "SiteGround",
-            "date": "2025-07-31 16:32:48"
-        },
-        {
-            "domain_name": "biosero.com",
-            "destination": "Digital Ocean",
-            "date": "2025-07-31 16:17:39"
         }
     ],
     "dailyMovedStat": {
@@ -821,14 +821,14 @@
     "topDestinationHosts": {
         "Pressable": 10619,
         "Kinsta": 5560,
+        "Digital Ocean": 4596,
         "SiteGround": 4596,
-        "Digital Ocean": 4595,
         "Bluehost": 4078,
         "Hostinger": 3124,
         "GoDaddy": 1246,
-        "BigScoots": 602,
+        "BigScoots": 603,
         "Liquid Web": 566,
-        "WordPress.com": 408,
+        "WordPress.com": 409,
         "InMotion Hosting": 390,
         "GridPane": 365,
         "A2 Hosting": 343,
