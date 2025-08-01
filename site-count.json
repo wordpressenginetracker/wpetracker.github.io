@@ -1,6 +1,11 @@
 {
-    "siteCount": 84498,
+    "siteCount": 84501,
     "recentlyMoved": [
+        {
+            "domain_name": "villasatsangabriel.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-01 18:04:25"
+        },
         {
             "domain_name": "coylecareers.com",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-07-31 16:10:59"
         },
         {
-            "domain_name": "www.levinriback.com",
-            "destination": "SiteGround",
-            "date": "2025-07-31 16:05:01"
-        },
-        {
             "domain_name": "www.koolkoaladental.com",
             "destination": "Kinsta",
             "date": "2025-07-31 15:58:16"
@@ -822,7 +822,7 @@
         "Pressable": 10615,
         "Kinsta": 5559,
         "SiteGround": 4594,
-        "Digital Ocean": 4593,
+        "Digital Ocean": 4594,
         "Bluehost": 4078,
         "Hostinger": 3122,
         "GoDaddy": 1246,
