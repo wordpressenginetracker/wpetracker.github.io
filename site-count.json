@@ -1,15 +1,45 @@
 {
-    "siteCount": 84406,
+    "siteCount": 84415,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hearthstonehomes.com",
+            "destination": "Pressable",
+            "date": "2025-08-01 12:54:30"
+        },
+        {
+            "domain_name": "cawgc.org",
+            "destination": "Digital Ocean",
+            "date": "2025-08-01 12:53:31"
+        },
+        {
+            "domain_name": "cfsgroupny.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-01 12:53:30"
+        },
+        {
+            "domain_name": "www.drkussman.com",
+            "destination": "Kinsta",
+            "date": "2025-08-01 12:26:43"
+        },
         {
             "domain_name": "audient.com",
             "destination": "Digital Ocean",
             "date": "2025-08-01 12:23:43"
         },
         {
+            "domain_name": "integrityservicesoftx.com",
+            "destination": "Hostinger",
+            "date": "2025-08-01 12:20:51"
+        },
+        {
             "domain_name": "www.lsfamilylaw.com",
             "destination": "SiteGround",
             "date": "2025-08-01 12:15:16"
+        },
+        {
+            "domain_name": "beingelemental.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-01 12:05:08"
         },
         {
             "domain_name": "haywoodpost47.com",
@@ -457,11 +487,6 @@
             "date": "2025-07-31 12:16:09"
         },
         {
-            "domain_name": "parquet.dev",
-            "destination": "SiteGround",
-            "date": "2025-07-31 12:10:21"
-        },
-        {
             "domain_name": "icmas.com",
             "destination": "Kinsta",
             "date": "2025-07-31 12:04:10"
@@ -475,31 +500,6 @@
             "domain_name": "alexandergrading.com",
             "destination": "Pressable",
             "date": "2025-07-31 11:45:04"
-        },
-        {
-            "domain_name": "akkaretty.com",
-            "destination": "Hostinger",
-            "date": "2025-07-31 11:34:42"
-        },
-        {
-            "domain_name": "upstateprecast.com",
-            "destination": "Pressable",
-            "date": "2025-07-31 10:39:57"
-        },
-        {
-            "domain_name": "endurasamplestore.com",
-            "destination": "Pressable",
-            "date": "2025-07-31 10:26:41"
-        },
-        {
-            "domain_name": "nesg.us",
-            "destination": "SiteGround",
-            "date": "2025-07-31 10:11:50"
-        },
-        {
-            "domain_name": "twofoldthinking.com",
-            "destination": "Kinsta",
-            "date": "2025-07-31 10:10:31"
         }
     ],
     "dailyMovedStat": {
@@ -819,12 +819,12 @@
         "2025-07-31": "84330"
     },
     "topDestinationHosts": {
-        "Pressable": 10603,
-        "Kinsta": 5553,
+        "Pressable": 10604,
+        "Kinsta": 5554,
         "SiteGround": 4590,
-        "Digital Ocean": 4583,
+        "Digital Ocean": 4586,
         "Bluehost": 4076,
-        "Hostinger": 3121,
+        "Hostinger": 3122,
         "GoDaddy": 1245,
         "BigScoots": 601,
         "Liquid Web": 564,
