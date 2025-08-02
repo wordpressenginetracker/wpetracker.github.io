@@ -1,10 +1,15 @@
 {
-    "siteCount": 84702,
+    "siteCount": 84704,
     "recentlyMoved": [
         {
             "domain_name": "facekcmedspa.com",
             "destination": "WordPress.com",
             "date": "2025-08-02 14:39:08"
+        },
+        {
+            "domain_name": "oakbrookcommons.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-02 14:34:43"
         },
         {
             "domain_name": "newyorklsattutor.com",
@@ -495,11 +500,6 @@
             "domain_name": "sunsetviewconstruction.com",
             "destination": "Hostinger",
             "date": "2025-08-01 09:40:33"
-        },
-        {
-            "domain_name": "www.oralsurgerytexas.com",
-            "destination": "Kinsta",
-            "date": "2025-08-01 08:59:16"
         }
     ],
     "dailyMovedStat": {
@@ -822,14 +822,14 @@
     "topDestinationHosts": {
         "Pressable": 10627,
         "Kinsta": 5561,
-        "SiteGround": 4601,
-        "Digital Ocean": 4600,
+        "SiteGround": 4602,
+        "Digital Ocean": 4601,
         "Bluehost": 4079,
         "Hostinger": 3132,
         "GoDaddy": 1246,
         "BigScoots": 603,
         "Liquid Web": 569,
-        "WordPress.com": 409,
+        "WordPress.com": 410,
         "InMotion Hosting": 390,
         "GridPane": 365,
         "A2 Hosting": 343,
