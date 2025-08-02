@@ -1,6 +1,41 @@
 {
-    "siteCount": 84643,
+    "siteCount": 84662,
     "recentlyMoved": [
+        {
+            "domain_name": "arielusa.com",
+            "destination": "Kinsta",
+            "date": "2025-08-02 12:25:32"
+        },
+        {
+            "domain_name": "www.ccpl.lib.in.us",
+            "destination": "Pressable",
+            "date": "2025-08-02 12:15:56"
+        },
+        {
+            "domain_name": "balderiluminacion.com.mx",
+            "destination": "Hostinger",
+            "date": "2025-08-02 12:00:47"
+        },
+        {
+            "domain_name": "www.ranchlandrealestate.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-02 11:57:22"
+        },
+        {
+            "domain_name": "www.tdrrealestategroup.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-02 11:43:24"
+        },
+        {
+            "domain_name": "pdi.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-08-02 11:40:38"
+        },
+        {
+            "domain_name": "flooringenv.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-02 11:13:46"
+        },
         {
             "domain_name": "verityconsulting.net",
             "destination": "Pressable",
@@ -465,41 +500,6 @@
             "domain_name": "uncoveringwagner.org",
             "destination": "Digital Ocean",
             "date": "2025-07-31 22:00:45"
-        },
-        {
-            "domain_name": "summerinstitutes.com",
-            "destination": "Hostinger",
-            "date": "2025-07-31 21:27:40"
-        },
-        {
-            "domain_name": "blog.safetyculture.com",
-            "destination": "Kinsta",
-            "date": "2025-07-31 21:02:58"
-        },
-        {
-            "domain_name": "htdcleaningservices.com",
-            "destination": "SiteGround",
-            "date": "2025-07-31 21:00:48"
-        },
-        {
-            "domain_name": "joinpatap.com",
-            "destination": "GoDaddy",
-            "date": "2025-07-31 20:30:00"
-        },
-        {
-            "domain_name": "pinebrookironwood.com",
-            "destination": "WordPress VIP",
-            "date": "2025-07-31 20:11:23"
-        },
-        {
-            "domain_name": "hilbertmd.com",
-            "destination": "Kinsta",
-            "date": "2025-07-31 19:56:07"
-        },
-        {
-            "domain_name": "genoagolf.com",
-            "destination": "A2 Hosting",
-            "date": "2025-07-31 19:52:36"
         }
     ],
     "dailyMovedStat": {
@@ -820,12 +820,12 @@
         "2025-08-01": "84578"
     },
     "topDestinationHosts": {
-        "Pressable": 10622,
-        "Kinsta": 5560,
+        "Pressable": 10623,
+        "Kinsta": 5561,
+        "Digital Ocean": 4599,
         "SiteGround": 4598,
-        "Digital Ocean": 4596,
         "Bluehost": 4079,
-        "Hostinger": 3128,
+        "Hostinger": 3129,
         "GoDaddy": 1246,
         "BigScoots": 603,
         "Liquid Web": 567,
