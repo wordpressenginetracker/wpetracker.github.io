@@ -1,6 +1,11 @@
 {
-    "siteCount": 84587,
+    "siteCount": 84596,
     "recentlyMoved": [
+        {
+            "domain_name": "techna-fit.com",
+            "destination": "Hostinger",
+            "date": "2025-08-02 01:48:52"
+        },
         {
             "domain_name": "simplyselect.com",
             "destination": "Liquid Web",
@@ -482,11 +487,6 @@
             "date": "2025-07-31 17:25:04"
         },
         {
-            "domain_name": "journeysinfilm.org",
-            "destination": "InMotion Hosting",
-            "date": "2025-07-31 17:22:00"
-        },
-        {
             "domain_name": "cfsgym.com",
             "destination": "Liquid Web",
             "date": "2025-07-31 17:17:57"
@@ -825,7 +825,7 @@
         "Digital Ocean": 4596,
         "SiteGround": 4596,
         "Bluehost": 4078,
-        "Hostinger": 3125,
+        "Hostinger": 3126,
         "GoDaddy": 1246,
         "BigScoots": 603,
         "Liquid Web": 567,
