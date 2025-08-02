@@ -1,6 +1,11 @@
 {
-    "siteCount": 84599,
+    "siteCount": 84602,
     "recentlyMoved": [
+        {
+            "domain_name": "antiques.live",
+            "destination": "Namecheap",
+            "date": "2025-08-02 04:03:12"
+        },
         {
             "domain_name": "vvexteriorsnr.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "cfsgym.com",
             "destination": "Liquid Web",
             "date": "2025-07-31 17:17:57"
-        },
-        {
-            "domain_name": "smokeymountaintops.com",
-            "destination": "SiteGround",
-            "date": "2025-07-31 16:40:29"
         }
     ],
     "dailyMovedStat": {
@@ -836,7 +836,7 @@
         "OVH": 332,
         "IONOS": 313,
         "Elementor Hosting": 310,
-        "Namecheap": 298,
+        "Namecheap": 299,
         "DreamHost": 293,
         "Hetzner Online": 246,
         "HostGator": 187
