@@ -1,6 +1,11 @@
 {
-    "siteCount": 84581,
+    "siteCount": 84587,
     "recentlyMoved": [
+        {
+            "domain_name": "simplyselect.com",
+            "destination": "Liquid Web",
+            "date": "2025-08-02 01:27:04"
+        },
         {
             "domain_name": "www.blueridgepostandbeam.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-07-31 16:55:08"
         },
         {
-            "domain_name": "butlervause.com",
-            "destination": "Kinsta",
-            "date": "2025-07-31 16:48:05"
-        },
-        {
             "domain_name": "smokeymountaintops.com",
             "destination": "SiteGround",
             "date": "2025-07-31 16:40:29"
@@ -828,7 +828,7 @@
         "Hostinger": 3125,
         "GoDaddy": 1246,
         "BigScoots": 603,
-        "Liquid Web": 566,
+        "Liquid Web": 567,
         "WordPress.com": 409,
         "InMotion Hosting": 390,
         "GridPane": 365,
