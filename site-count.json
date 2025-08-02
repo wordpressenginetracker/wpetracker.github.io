@@ -1,6 +1,11 @@
 {
-    "siteCount": 84606,
+    "siteCount": 84616,
     "recentlyMoved": [
+        {
+            "domain_name": "mittalinja.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-08-02 06:08:31"
+        },
         {
             "domain_name": "cleanandclearpools.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-07-31 17:31:39"
         },
         {
-            "domain_name": "chilhoweehills.org",
-            "destination": "Kinsta",
-            "date": "2025-07-31 17:27:22"
-        },
-        {
             "domain_name": "cryosculpt.co",
             "destination": "Hostinger",
             "date": "2025-07-31 17:25:04"
@@ -822,8 +822,8 @@
     "topDestinationHosts": {
         "Pressable": 10620,
         "Kinsta": 5560,
+        "SiteGround": 4597,
         "Digital Ocean": 4596,
-        "SiteGround": 4596,
         "Bluehost": 4079,
         "Hostinger": 3126,
         "GoDaddy": 1246,
@@ -838,7 +838,7 @@
         "Elementor Hosting": 310,
         "Namecheap": 299,
         "DreamHost": 293,
-        "Hetzner Online": 246,
+        "Hetzner Online": 247,
         "HostGator": 187
     },
     "dailyTotalStat": {
