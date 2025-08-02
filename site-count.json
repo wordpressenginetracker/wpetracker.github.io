@@ -1,6 +1,11 @@
 {
-    "siteCount": 84578,
+    "siteCount": 84581,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blueridgepostandbeam.com",
+            "destination": "Pressable",
+            "date": "2025-08-01 23:52:48"
+        },
         {
             "domain_name": "evolutionofherbeauty.com",
             "destination": "Hostinger",
@@ -482,11 +487,6 @@
             "date": "2025-07-31 17:17:57"
         },
         {
-            "domain_name": "infusiontexas.com",
-            "destination": "Bluehost",
-            "date": "2025-07-31 16:57:38"
-        },
-        {
             "domain_name": "www.majesticsecurity.com",
             "destination": "Pressable",
             "date": "2025-07-31 16:55:08"
@@ -820,7 +820,7 @@
         "2025-08-01": "84578"
     },
     "topDestinationHosts": {
-        "Pressable": 10619,
+        "Pressable": 10620,
         "Kinsta": 5560,
         "Digital Ocean": 4596,
         "SiteGround": 4596,
