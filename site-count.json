@@ -1,6 +1,11 @@
 {
-    "siteCount": 84969,
+    "siteCount": 84975,
     "recentlyMoved": [
+        {
+            "domain_name": "napadivorce.com",
+            "destination": "Hostinger",
+            "date": "2025-08-04 18:21:07"
+        },
         {
             "domain_name": "chaucerfoods.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "canyouhearus.org",
             "destination": "Namecheap",
             "date": "2025-08-02 08:40:34"
-        },
-        {
-            "domain_name": "rocketapps.com.au",
-            "destination": "Hostinger",
-            "date": "2025-08-02 08:15:47"
         }
     ],
     "dailyMovedStat": {
@@ -827,7 +827,7 @@
         "Digital Ocean": 4611,
         "SiteGround": 4611,
         "Bluehost": 4087,
-        "Hostinger": 3142,
+        "Hostinger": 3143,
         "GoDaddy": 1247,
         "BigScoots": 603,
         "Liquid Web": 574,
