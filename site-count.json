@@ -1,10 +1,35 @@
 {
-    "siteCount": 84908,
+    "siteCount": 84919,
     "recentlyMoved": [
+        {
+            "domain_name": "comanchecmc.org",
+            "destination": "Bluehost",
+            "date": "2025-08-04 01:24:08"
+        },
+        {
+            "domain_name": "shultzk9.com",
+            "destination": "Pressable",
+            "date": "2025-08-04 00:49:05"
+        },
+        {
+            "domain_name": "buymellow.com",
+            "destination": "Kinsta",
+            "date": "2025-08-04 00:48:52"
+        },
+        {
+            "domain_name": "jawlat.com.sa",
+            "destination": "HostGator",
+            "date": "2025-08-04 00:25:07"
+        },
         {
             "domain_name": "www.braunwine.nl",
             "destination": "OVH",
             "date": "2025-08-04 00:16:56"
+        },
+        {
+            "domain_name": "beautychangeslives.org",
+            "destination": "Kinsta",
+            "date": "2025-08-04 00:14:26"
         },
         {
             "domain_name": "gautamsiddhartha.com.np",
@@ -475,31 +500,6 @@
             "domain_name": "evolutionofherbeauty.com",
             "destination": "Hostinger",
             "date": "2025-08-01 22:02:53"
-        },
-        {
-            "domain_name": "drzeinehplasticsurgery.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-01 21:35:08"
-        },
-        {
-            "domain_name": "cutiepawsatl.com",
-            "destination": "BigScoots",
-            "date": "2025-08-01 21:30:07"
-        },
-        {
-            "domain_name": "marycatherinesoulsby.blog",
-            "destination": "WordPress.com",
-            "date": "2025-08-01 21:16:17"
-        },
-        {
-            "domain_name": "c21harvey.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-01 20:31:30"
-        },
-        {
-            "domain_name": "bzippyandcompany.com",
-            "destination": "Pressable",
-            "date": "2025-08-01 20:31:30"
         }
     ],
     "dailyMovedStat": {
@@ -822,8 +822,8 @@
         "2025-08-03": "84902"
     },
     "topDestinationHosts": {
-        "Pressable": 10634,
-        "Kinsta": 5569,
+        "Pressable": 10635,
+        "Kinsta": 5571,
         "SiteGround": 4611,
         "Digital Ocean": 4610,
         "Bluehost": 4085,
@@ -841,7 +841,7 @@
         "Namecheap": 303,
         "DreamHost": 295,
         "Hetzner Online": 247,
-        "HostGator": 187
+        "HostGator": 188
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
