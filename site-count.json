@@ -1,6 +1,11 @@
 {
-    "siteCount": 84944,
+    "siteCount": 84949,
     "recentlyMoved": [
+        {
+            "domain_name": "matgarwp.com",
+            "destination": "Hostinger",
+            "date": "2025-08-04 09:50:37"
+        },
         {
             "domain_name": "swizzlestory.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "cleanandclearpools.com",
             "destination": "SiteGround",
             "date": "2025-08-02 05:04:07"
-        },
-        {
-            "domain_name": "antiques.live",
-            "destination": "Namecheap",
-            "date": "2025-08-02 04:03:12"
         }
     ],
     "dailyMovedStat": {
@@ -827,7 +827,7 @@
         "SiteGround": 4611,
         "Digital Ocean": 4610,
         "Bluehost": 4087,
-        "Hostinger": 3141,
+        "Hostinger": 3142,
         "GoDaddy": 1247,
         "BigScoots": 603,
         "Liquid Web": 574,
