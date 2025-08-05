@@ -1,6 +1,11 @@
 {
-    "siteCount": 85041,
+    "siteCount": 85048,
     "recentlyMoved": [
+        {
+            "domain_name": "seedppm.com.au",
+            "destination": "Hostinger",
+            "date": "2025-08-05 08:28:03"
+        },
         {
             "domain_name": "aandd.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "balderiluminacion.com.mx",
             "destination": "Hostinger",
             "date": "2025-08-02 12:00:47"
-        },
-        {
-            "domain_name": "www.tdrrealestategroup.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-02 11:43:24"
         }
     ],
     "dailyMovedStat": {
@@ -828,7 +828,7 @@
         "Digital Ocean": 4614,
         "SiteGround": 4613,
         "Bluehost": 4087,
-        "Hostinger": 3145,
+        "Hostinger": 3146,
         "GoDaddy": 1247,
         "BigScoots": 603,
         "Liquid Web": 574,
