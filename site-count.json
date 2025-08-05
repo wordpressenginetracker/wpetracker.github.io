@@ -1,6 +1,26 @@
 {
-    "siteCount": 85102,
+    "siteCount": 85116,
     "recentlyMoved": [
+        {
+            "domain_name": "hardcoverspas.com",
+            "destination": "SiteGround",
+            "date": "2025-08-05 16:28:41"
+        },
+        {
+            "domain_name": "homenewspa.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-08-05 16:25:54"
+        },
+        {
+            "domain_name": "www.crownenv.com",
+            "destination": "Pressable",
+            "date": "2025-08-05 16:11:46"
+        },
+        {
+            "domain_name": "www.mckinneybiblechurch.org",
+            "destination": "Digital Ocean",
+            "date": "2025-08-05 15:57:46"
+        },
         {
             "domain_name": "www.usfilmcrew.com",
             "destination": "Kinsta",
@@ -477,29 +497,9 @@
             "date": "2025-08-02 16:13:54"
         },
         {
-            "domain_name": "www.meditationmomma.com",
-            "destination": "Pressable",
-            "date": "2025-08-02 16:12:54"
-        },
-        {
             "domain_name": "www.ezlock.net",
             "destination": "Pressable",
             "date": "2025-08-02 16:10:39"
-        },
-        {
-            "domain_name": "gigmyrig.com",
-            "destination": "Hostinger",
-            "date": "2025-08-02 16:06:59"
-        },
-        {
-            "domain_name": "www.dickersonoxton.com",
-            "destination": "SiteGround",
-            "date": "2025-08-02 16:00:54"
-        },
-        {
-            "domain_name": "gerrish.com",
-            "destination": "Hostinger",
-            "date": "2025-08-02 15:48:05"
         }
     ],
     "dailyMovedStat": {
@@ -823,10 +823,10 @@
         "2025-08-04": "85005"
     },
     "topDestinationHosts": {
-        "Pressable": 10639,
+        "Pressable": 10640,
         "Kinsta": 5578,
-        "Digital Ocean": 4621,
-        "SiteGround": 4614,
+        "Digital Ocean": 4622,
+        "SiteGround": 4615,
         "Bluehost": 4087,
         "Hostinger": 3151,
         "GoDaddy": 1248,
