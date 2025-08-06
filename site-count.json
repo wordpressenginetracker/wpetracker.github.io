@@ -1,10 +1,15 @@
 {
-    "siteCount": 85387,
+    "siteCount": 85389,
     "recentlyMoved": [
         {
             "domain_name": "trexutah.com",
             "destination": "Pressable",
             "date": "2025-08-06 14:29:22"
+        },
+        {
+            "domain_name": "nglodge.org",
+            "destination": "Kinsta",
+            "date": "2025-08-06 14:22:08"
         },
         {
             "domain_name": "mcmullenrealtygroup.com",
@@ -482,11 +487,6 @@
             "date": "2025-08-05 13:15:27"
         },
         {
-            "domain_name": "scissorssalon.com",
-            "destination": "Hostinger",
-            "date": "2025-08-05 12:55:57"
-        },
-        {
             "domain_name": "www.nwfent.com",
             "destination": "Kinsta",
             "date": "2025-08-05 12:47:41"
@@ -825,7 +825,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10684,
-        "Kinsta": 5588,
+        "Kinsta": 5589,
         "Digital Ocean": 4625,
         "SiteGround": 4623,
         "Bluehost": 4091,
