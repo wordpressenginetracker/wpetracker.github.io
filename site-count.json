@@ -1,6 +1,21 @@
 {
-    "siteCount": 85234,
+    "siteCount": 85244,
     "recentlyMoved": [
+        {
+            "domain_name": "www.readvisoryteam.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-06 00:13:26"
+        },
+        {
+            "domain_name": "handupnetwork.com",
+            "destination": "Pressable",
+            "date": "2025-08-05 23:39:43"
+        },
+        {
+            "domain_name": "watsonplumbinginc.com",
+            "destination": "Pressable",
+            "date": "2025-08-05 23:16:46"
+        },
         {
             "domain_name": "nelwoodstudios.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "beautychangeslives.org",
             "destination": "Kinsta",
             "date": "2025-08-04 00:14:26"
-        },
-        {
-            "domain_name": "gautamsiddhartha.com.np",
-            "destination": "Hostinger",
-            "date": "2025-08-04 00:12:36"
-        },
-        {
-            "domain_name": "festivalofthesound.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-08-03 23:45:08"
-        },
-        {
-            "domain_name": "nevadafbla.org",
-            "destination": "SiteGround",
-            "date": "2025-08-03 22:08:59"
         }
     ],
     "dailyMovedStat": {
@@ -824,9 +824,9 @@
         "2025-08-05": "85234"
     },
     "topDestinationHosts": {
-        "Pressable": 10673,
+        "Pressable": 10675,
         "Kinsta": 5580,
-        "Digital Ocean": 4622,
+        "Digital Ocean": 4623,
         "SiteGround": 4616,
         "Bluehost": 4090,
         "Hostinger": 3155,
