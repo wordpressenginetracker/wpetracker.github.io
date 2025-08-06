@@ -1,6 +1,11 @@
 {
-    "siteCount": 85549,
+    "siteCount": 85550,
     "recentlyMoved": [
+        {
+            "domain_name": "nvscsi.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-06 22:36:14"
+        },
         {
             "domain_name": "www.stewartwealthmgt.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "bellhansolutions.com",
             "destination": "Hostinger",
             "date": "2025-08-05 20:03:17"
-        },
-        {
-            "domain_name": "rafaelscatering.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 19:56:34"
         }
     ],
     "dailyMovedStat": {
@@ -821,7 +821,8 @@
         "2025-08-02": "84816",
         "2025-08-03": "84902",
         "2025-08-04": "85005",
-        "2025-08-05": "85234"
+        "2025-08-05": "85234",
+        "2025-08-06": "85550"
     },
     "topDestinationHosts": {
         "Pressable": 10705,
@@ -830,7 +831,7 @@
         "SiteGround": 4626,
         "Bluehost": 4093,
         "Hostinger": 3162,
-        "GoDaddy": 1254,
+        "GoDaddy": 1255,
         "BigScoots": 603,
         "Liquid Web": 577,
         "WordPress.com": 416,
@@ -1164,6 +1165,7 @@
         "2025-08-02": "597784",
         "2025-08-03": "598214",
         "2025-08-04": "597726",
-        "2025-08-05": "597078"
+        "2025-08-05": "597078",
+        "2025-08-06": "596394"
     }
 }
