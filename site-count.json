@@ -1,6 +1,11 @@
 {
-    "siteCount": 85542,
+    "siteCount": 85549,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stewartwealthmgt.com",
+            "destination": "Pressable",
+            "date": "2025-08-06 21:23:37"
+        },
         {
             "domain_name": "citclinics.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rafaelscatering.com",
             "destination": "Pressable",
             "date": "2025-08-05 19:56:34"
-        },
-        {
-            "domain_name": "qualitypsychiatrichealth.com",
-            "destination": "Bluehost",
-            "date": "2025-08-05 19:52:10"
         }
     ],
     "dailyMovedStat": {
@@ -824,7 +824,7 @@
         "2025-08-05": "85234"
     },
     "topDestinationHosts": {
-        "Pressable": 10704,
+        "Pressable": 10705,
         "Kinsta": 5598,
         "Digital Ocean": 4627,
         "SiteGround": 4626,
