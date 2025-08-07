@@ -1,6 +1,16 @@
 {
-    "siteCount": 85602,
+    "siteCount": 85608,
     "recentlyMoved": [
+        {
+            "domain_name": "rossmcculloch.com",
+            "destination": "SiteGround",
+            "date": "2025-08-07 09:09:02"
+        },
+        {
+            "domain_name": "socialimpact.com",
+            "destination": "Pressable",
+            "date": "2025-08-07 08:54:13"
+        },
         {
             "domain_name": "www.alliedroofingsolutions.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "nelwoodstudios.com",
             "destination": "Bluehost",
             "date": "2025-08-05 22:09:26"
-        },
-        {
-            "domain_name": "marianasgazette.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 21:57:47"
-        },
-        {
-            "domain_name": "traumasupportforschools.org",
-            "destination": "Hostinger",
-            "date": "2025-08-05 21:40:06"
         }
     ],
     "dailyMovedStat": {
@@ -825,9 +825,9 @@
         "2025-08-06": "85550"
     },
     "topDestinationHosts": {
-        "Pressable": 10707,
+        "Pressable": 10708,
         "Kinsta": 5598,
-        "SiteGround": 4629,
+        "SiteGround": 4630,
         "Digital Ocean": 4628,
         "Bluehost": 4094,
         "Hostinger": 3162,
