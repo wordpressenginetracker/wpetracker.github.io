@@ -1,6 +1,36 @@
 {
-    "siteCount": 85554,
+    "siteCount": 85570,
     "recentlyMoved": [
+        {
+            "domain_name": "stevenchen.ai",
+            "destination": "SiteGround",
+            "date": "2025-08-07 01:25:28"
+        },
+        {
+            "domain_name": "kentuckianawoodproducts.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-07 00:57:15"
+        },
+        {
+            "domain_name": "knotty-pallet.com",
+            "destination": "WordPress.com",
+            "date": "2025-08-07 00:50:14"
+        },
+        {
+            "domain_name": "rylansrichesphotography.com",
+            "destination": "BigScoots",
+            "date": "2025-08-07 00:47:14"
+        },
+        {
+            "domain_name": "rodenbeck.com",
+            "destination": "DreamHost",
+            "date": "2025-08-07 00:20:41"
+        },
+        {
+            "domain_name": "www.farmpressmedia.com",
+            "destination": "WordPress VIP",
+            "date": "2025-08-07 00:19:51"
+        },
         {
             "domain_name": "nvscsi.com",
             "destination": "GoDaddy",
@@ -457,11 +487,6 @@
             "date": "2025-08-05 21:24:07"
         },
         {
-            "domain_name": "www.milestonedoors.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 21:23:32"
-        },
-        {
             "domain_name": "southwestsuites.com",
             "destination": "Pressable",
             "date": "2025-08-05 21:21:04"
@@ -472,34 +497,9 @@
             "date": "2025-08-05 21:17:10"
         },
         {
-            "domain_name": "inspirehealthassociation.com",
-            "destination": "Bluehost",
-            "date": "2025-08-05 20:59:44"
-        },
-        {
-            "domain_name": "www.lnfappraisals.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 20:56:44"
-        },
-        {
-            "domain_name": "sedonadeserthaven.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 20:49:28"
-        },
-        {
             "domain_name": "cavist.com",
             "destination": "Pressable",
             "date": "2025-08-05 20:42:37"
-        },
-        {
-            "domain_name": "idhexcavation.com",
-            "destination": "Pressable",
-            "date": "2025-08-05 20:14:15"
-        },
-        {
-            "domain_name": "bellhansolutions.com",
-            "destination": "Hostinger",
-            "date": "2025-08-05 20:03:17"
         }
     ],
     "dailyMovedStat": {
@@ -831,10 +831,10 @@
         "SiteGround": 4626,
         "Bluehost": 4093,
         "Hostinger": 3162,
-        "GoDaddy": 1255,
-        "BigScoots": 603,
+        "GoDaddy": 1256,
+        "BigScoots": 604,
         "Liquid Web": 577,
-        "WordPress.com": 416,
+        "WordPress.com": 417,
         "InMotion Hosting": 395,
         "GridPane": 365,
         "A2 Hosting": 344,
@@ -842,7 +842,7 @@
         "IONOS": 313,
         "Elementor Hosting": 310,
         "Namecheap": 303,
-        "DreamHost": 297,
+        "DreamHost": 298,
         "Hetzner Online": 249,
         "HostGator": 189
     },
