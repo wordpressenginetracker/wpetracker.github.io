@@ -1,6 +1,16 @@
 {
-    "siteCount": 86028,
+    "siteCount": 86043,
     "recentlyMoved": [
+        {
+            "domain_name": "thefosteringcollective.org",
+            "destination": "Pressable",
+            "date": "2025-08-08 21:54:40"
+        },
+        {
+            "domain_name": "www.steedlawfirm.com",
+            "destination": "Pressable",
+            "date": "2025-08-08 21:08:09"
+        },
         {
             "domain_name": "iandjfountainrestaurantaz.com",
             "destination": "DreamHost",
@@ -490,16 +500,6 @@
             "domain_name": "onairschools.org",
             "destination": "Hostinger",
             "date": "2025-08-07 15:14:31"
-        },
-        {
-            "domain_name": "emersioncrossfit.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-07 14:07:49"
-        },
-        {
-            "domain_name": "noalohainsuicide.org",
-            "destination": "Pressable",
-            "date": "2025-08-07 14:01:14"
         }
     ],
     "dailyMovedStat": {
@@ -826,7 +826,7 @@
         "2025-08-07": "85843"
     },
     "topDestinationHosts": {
-        "Pressable": 10737,
+        "Pressable": 10739,
         "Kinsta": 5636,
         "SiteGround": 4649,
         "Digital Ocean": 4636,
