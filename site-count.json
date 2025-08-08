@@ -1,6 +1,11 @@
 {
-    "siteCount": 85903,
+    "siteCount": 85904,
     "recentlyMoved": [
+        {
+            "domain_name": "nwarvresort.com",
+            "destination": "Kinsta",
+            "date": "2025-08-08 10:18:34"
+        },
         {
             "domain_name": "echo-school.ro",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "rylansrichesphotography.com",
             "destination": "BigScoots",
             "date": "2025-08-07 00:47:14"
-        },
-        {
-            "domain_name": "rodenbeck.com",
-            "destination": "DreamHost",
-            "date": "2025-08-07 00:20:41"
         }
     ],
     "dailyMovedStat": {
@@ -827,7 +827,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10732,
-        "Kinsta": 5624,
+        "Kinsta": 5625,
         "SiteGround": 4643,
         "Digital Ocean": 4633,
         "Bluehost": 4096,
