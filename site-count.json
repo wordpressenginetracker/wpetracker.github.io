@@ -1,6 +1,21 @@
 {
-    "siteCount": 85849,
+    "siteCount": 85856,
     "recentlyMoved": [
+        {
+            "domain_name": "www.reputationbydesign.com",
+            "destination": "Kinsta",
+            "date": "2025-08-08 01:32:42"
+        },
+        {
+            "domain_name": "www.postprepress.com.au",
+            "destination": "Kinsta",
+            "date": "2025-08-08 01:02:44"
+        },
+        {
+            "domain_name": "kraudeltpainting.com.au",
+            "destination": "Kinsta",
+            "date": "2025-08-08 01:00:44"
+        },
         {
             "domain_name": "herbertperformanceco.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "insightretailpartners.com",
             "destination": "Kinsta",
             "date": "2025-08-06 20:43:24"
-        },
-        {
-            "domain_name": "beyasalonstudios.com",
-            "destination": "Pressable",
-            "date": "2025-08-06 20:10:48"
-        },
-        {
-            "domain_name": "good4work.com",
-            "destination": "Pressable",
-            "date": "2025-08-06 19:53:37"
-        },
-        {
-            "domain_name": "www.abimportauto.com",
-            "destination": "Pressable",
-            "date": "2025-08-06 19:27:23"
         }
     ],
     "dailyMovedStat": {
@@ -827,7 +827,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10731,
-        "Kinsta": 5616,
+        "Kinsta": 5619,
         "SiteGround": 4643,
         "Digital Ocean": 4633,
         "Bluehost": 4096,
