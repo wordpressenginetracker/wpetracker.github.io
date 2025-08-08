@@ -1,6 +1,16 @@
 {
-    "siteCount": 85960,
+    "siteCount": 85968,
     "recentlyMoved": [
+        {
+            "domain_name": "bschooltravel.com",
+            "destination": "SiteGround",
+            "date": "2025-08-08 17:01:23"
+        },
+        {
+            "domain_name": "sesgllc.com",
+            "destination": "Hostinger",
+            "date": "2025-08-08 16:39:26"
+        },
         {
             "domain_name": "helpingassociates.com",
             "destination": "HostGator",
@@ -10,6 +20,11 @@
             "domain_name": "redemptionaddictiontreatmentcenter.com",
             "destination": "SiteGround",
             "date": "2025-08-08 16:29:26"
+        },
+        {
+            "domain_name": "horiganufp.com",
+            "destination": "Hostinger",
+            "date": "2025-08-08 16:27:43"
         },
         {
             "domain_name": "www.dignitymed.com",
@@ -482,21 +497,6 @@
             "date": "2025-08-07 13:39:15"
         },
         {
-            "domain_name": "www.sariahbastian.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-08-07 13:32:44"
-        },
-        {
-            "domain_name": "telperian.com",
-            "destination": "SiteGround",
-            "date": "2025-08-07 13:28:16"
-        },
-        {
-            "domain_name": "lodevsite.com",
-            "destination": "HostGator",
-            "date": "2025-08-07 13:12:46"
-        },
-        {
             "domain_name": "cvcheart.com",
             "destination": "SiteGround",
             "date": "2025-08-07 13:08:15"
@@ -828,10 +828,10 @@
     "topDestinationHosts": {
         "Pressable": 10736,
         "Kinsta": 5633,
-        "SiteGround": 4644,
+        "SiteGround": 4646,
         "Digital Ocean": 4636,
         "Bluehost": 4096,
-        "Hostinger": 3174,
+        "Hostinger": 3177,
         "GoDaddy": 1258,
         "BigScoots": 606,
         "Liquid Web": 582,
@@ -845,7 +845,7 @@
         "Namecheap": 303,
         "DreamHost": 299,
         "Hetzner Online": 250,
-        "HostGator": 190
+        "HostGator": 191
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
