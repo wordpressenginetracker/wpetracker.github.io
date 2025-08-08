@@ -1,6 +1,16 @@
 {
-    "siteCount": 85843,
+    "siteCount": 85849,
     "recentlyMoved": [
+        {
+            "domain_name": "herbertperformanceco.com",
+            "destination": "Pressable",
+            "date": "2025-08-08 00:21:50"
+        },
+        {
+            "domain_name": "greencollarroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-08-07 23:39:38"
+        },
         {
             "domain_name": "embracingjoy.com",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2025-08-06 20:43:24"
         },
         {
-            "domain_name": "alicecchettivoice.com",
-            "destination": "Pressable",
-            "date": "2025-08-06 20:18:36"
-        },
-        {
             "domain_name": "beyasalonstudios.com",
             "destination": "Pressable",
             "date": "2025-08-06 20:10:48"
@@ -490,11 +495,6 @@
             "domain_name": "good4work.com",
             "destination": "Pressable",
             "date": "2025-08-06 19:53:37"
-        },
-        {
-            "domain_name": "gbls.com.mx",
-            "destination": "Hostinger",
-            "date": "2025-08-06 19:38:25"
         },
         {
             "domain_name": "www.abimportauto.com",
@@ -826,9 +826,9 @@
         "2025-08-07": "85843"
     },
     "topDestinationHosts": {
-        "Pressable": 10730,
+        "Pressable": 10731,
         "Kinsta": 5616,
-        "SiteGround": 4642,
+        "SiteGround": 4643,
         "Digital Ocean": 4633,
         "Bluehost": 4096,
         "Hostinger": 3170,
