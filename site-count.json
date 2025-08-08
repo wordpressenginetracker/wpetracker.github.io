@@ -1,6 +1,11 @@
 {
-    "siteCount": 85891,
+    "siteCount": 85898,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lcbseniorliving.com",
+            "destination": "Pressable",
+            "date": "2025-08-08 08:53:22"
+        },
         {
             "domain_name": "happinessphilippines.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.farmpressmedia.com",
             "destination": "WordPress VIP",
             "date": "2025-08-07 00:19:51"
-        },
-        {
-            "domain_name": "nvscsi.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-06 22:36:14"
         }
     ],
     "dailyMovedStat": {
@@ -826,7 +826,7 @@
         "2025-08-07": "85843"
     },
     "topDestinationHosts": {
-        "Pressable": 10731,
+        "Pressable": 10732,
         "Kinsta": 5623,
         "SiteGround": 4643,
         "Digital Ocean": 4633,
