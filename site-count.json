@@ -1,6 +1,11 @@
 {
-    "siteCount": 85898,
+    "siteCount": 85903,
     "recentlyMoved": [
+        {
+            "domain_name": "echo-school.ro",
+            "destination": "Kinsta",
+            "date": "2025-08-08 09:49:38"
+        },
         {
             "domain_name": "www.lcbseniorliving.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rodenbeck.com",
             "destination": "DreamHost",
             "date": "2025-08-07 00:20:41"
-        },
-        {
-            "domain_name": "www.farmpressmedia.com",
-            "destination": "WordPress VIP",
-            "date": "2025-08-07 00:19:51"
         }
     ],
     "dailyMovedStat": {
@@ -827,7 +827,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10732,
-        "Kinsta": 5623,
+        "Kinsta": 5624,
         "SiteGround": 4643,
         "Digital Ocean": 4633,
         "Bluehost": 4096,
