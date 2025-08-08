@@ -1,6 +1,11 @@
 {
-    "siteCount": 86021,
+    "siteCount": 86028,
     "recentlyMoved": [
+        {
+            "domain_name": "iandjfountainrestaurantaz.com",
+            "destination": "DreamHost",
+            "date": "2025-08-08 20:46:21"
+        },
         {
             "domain_name": "haggertybuilds.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-08-07 14:07:49"
         },
         {
-            "domain_name": "muttypawsofnwa.com",
-            "destination": "Kinsta",
-            "date": "2025-08-07 14:04:52"
-        },
-        {
             "domain_name": "noalohainsuicide.org",
             "destination": "Pressable",
             "date": "2025-08-07 14:01:14"
@@ -843,7 +843,7 @@
         "IONOS": 313,
         "Elementor Hosting": 311,
         "Namecheap": 303,
-        "DreamHost": 299,
+        "DreamHost": 300,
         "Hetzner Online": 250,
         "HostGator": 191
     },
