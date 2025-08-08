@@ -1,6 +1,11 @@
 {
-    "siteCount": 85975,
+    "siteCount": 86021,
     "recentlyMoved": [
+        {
+            "domain_name": "haggertybuilds.com",
+            "destination": "SiteGround",
+            "date": "2025-08-08 19:50:22"
+        },
         {
             "domain_name": "elevatehealthaz.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "noalohainsuicide.org",
             "destination": "Pressable",
             "date": "2025-08-07 14:01:14"
-        },
-        {
-            "domain_name": "miris.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-07 13:39:15"
         }
     ],
     "dailyMovedStat": {
@@ -827,12 +827,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10737,
-        "Kinsta": 5633,
-        "SiteGround": 4647,
+        "Kinsta": 5636,
+        "SiteGround": 4649,
         "Digital Ocean": 4636,
         "Bluehost": 4096,
         "Hostinger": 3178,
-        "GoDaddy": 1258,
+        "GoDaddy": 1260,
         "BigScoots": 606,
         "Liquid Web": 582,
         "WordPress.com": 417,
