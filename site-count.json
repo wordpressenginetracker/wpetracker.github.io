@@ -1,10 +1,15 @@
 {
-    "siteCount": 86066,
+    "siteCount": 86074,
     "recentlyMoved": [
         {
             "domain_name": "www.lovetaylorbc.com",
             "destination": "OVH",
             "date": "2025-08-09 01:19:01"
+        },
+        {
+            "domain_name": "www.shotelsresorts.com",
+            "destination": "Kinsta",
+            "date": "2025-08-09 00:58:30"
         },
         {
             "domain_name": "www.doughertylaservision.com",
@@ -495,11 +500,6 @@
             "domain_name": "floridaphysicians.com",
             "destination": "Kinsta",
             "date": "2025-08-07 15:21:58"
-        },
-        {
-            "domain_name": "floridabreast.com",
-            "destination": "Kinsta",
-            "date": "2025-08-07 15:21:58"
         }
     ],
     "dailyMovedStat": {
@@ -828,7 +828,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10739,
-        "Kinsta": 5636,
+        "Kinsta": 5637,
         "SiteGround": 4649,
         "Digital Ocean": 4637,
         "Bluehost": 4096,
