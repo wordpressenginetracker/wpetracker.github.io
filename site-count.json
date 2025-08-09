@@ -1,6 +1,16 @@
 {
-    "siteCount": 86120,
+    "siteCount": 86124,
     "recentlyMoved": [
+        {
+            "domain_name": "nicolemidwest.com",
+            "destination": "Namecheap",
+            "date": "2025-08-09 10:40:43"
+        },
+        {
+            "domain_name": "covingtonleader.com",
+            "destination": "SiteGround",
+            "date": "2025-08-09 09:41:06"
+        },
         {
             "domain_name": "learn.crewwire.com",
             "destination": "Pressable",
@@ -457,11 +467,6 @@
             "date": "2025-08-07 16:45:33"
         },
         {
-            "domain_name": "profsnook.com",
-            "destination": "Pressable",
-            "date": "2025-08-07 16:33:10"
-        },
-        {
             "domain_name": "canalgeomatics.com",
             "destination": "Hetzner Online",
             "date": "2025-08-07 16:31:42"
@@ -495,11 +500,6 @@
             "domain_name": "atcoflex.com",
             "destination": "Kinsta",
             "date": "2025-08-07 16:12:52"
-        },
-        {
-            "domain_name": "gentsgroom101.com",
-            "destination": "Hostinger",
-            "date": "2025-08-07 15:54:05"
         }
     ],
     "dailyMovedStat": {
@@ -829,7 +829,7 @@
     "topDestinationHosts": {
         "Pressable": 10740,
         "Kinsta": 5638,
-        "SiteGround": 4650,
+        "SiteGround": 4651,
         "Digital Ocean": 4639,
         "Bluehost": 4096,
         "Hostinger": 3179,
@@ -843,7 +843,7 @@
         "OVH": 339,
         "IONOS": 313,
         "Elementor Hosting": 311,
-        "Namecheap": 304,
+        "Namecheap": 305,
         "DreamHost": 300,
         "Hetzner Online": 251,
         "HostGator": 193
