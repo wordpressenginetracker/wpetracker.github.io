@@ -1,6 +1,11 @@
 {
-    "siteCount": 86253,
+    "siteCount": 86261,
     "recentlyMoved": [
+        {
+            "domain_name": "virtusgroup.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2025-08-09 21:58:03"
+        },
         {
             "domain_name": "polaris-lp.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-08-08 08:53:22"
         },
         {
-            "domain_name": "happinessphilippines.com",
-            "destination": "Hostinger",
-            "date": "2025-08-08 04:30:41"
-        },
-        {
             "domain_name": "recruitart.com.au",
             "destination": "Kinsta",
             "date": "2025-08-08 04:01:21"
@@ -830,7 +830,7 @@
         "Pressable": 10754,
         "Kinsta": 5644,
         "SiteGround": 4661,
-        "Digital Ocean": 4641,
+        "Digital Ocean": 4642,
         "Bluehost": 4097,
         "Hostinger": 3185,
         "GoDaddy": 1262,
