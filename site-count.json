@@ -1,6 +1,11 @@
 {
-    "siteCount": 86311,
+    "siteCount": 86316,
     "recentlyMoved": [
+        {
+            "domain_name": "thekatynews.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-10 13:46:07"
+        },
         {
             "domain_name": "savannahvacationrentals.rentals",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "brownleeconstruction.com",
             "destination": "Kinsta",
             "date": "2025-08-08 13:02:09"
-        },
-        {
-            "domain_name": "www.flostack.io",
-            "destination": "Kinsta",
-            "date": "2025-08-08 12:10:16"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
         "Digital Ocean": 4642,
         "Bluehost": 4097,
         "Hostinger": 3186,
-        "GoDaddy": 1262,
+        "GoDaddy": 1263,
         "BigScoots": 606,
         "Liquid Web": 584,
         "WordPress.com": 418,
