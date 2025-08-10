@@ -1,6 +1,11 @@
 {
-    "siteCount": 86298,
+    "siteCount": 86301,
     "recentlyMoved": [
+        {
+            "domain_name": "www.alphabeautics.com",
+            "destination": "Hostinger",
+            "date": "2025-08-10 11:43:29"
+        },
         {
             "domain_name": "prairiehillhomecare.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "wellnessandpain.com",
             "destination": "Liquid Web",
             "date": "2025-08-08 11:11:43"
-        },
-        {
-            "domain_name": "flakelaw.com",
-            "destination": "DreamHost",
-            "date": "2025-08-08 11:11:43"
         }
     ],
     "dailyMovedStat": {
@@ -833,7 +833,7 @@
         "SiteGround": 4662,
         "Digital Ocean": 4642,
         "Bluehost": 4097,
-        "Hostinger": 3185,
+        "Hostinger": 3186,
         "GoDaddy": 1262,
         "BigScoots": 606,
         "Liquid Web": 584,
