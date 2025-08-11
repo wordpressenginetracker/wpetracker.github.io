@@ -1,6 +1,11 @@
 {
-    "siteCount": 86434,
+    "siteCount": 86437,
     "recentlyMoved": [
+        {
+            "domain_name": "kelliott.us",
+            "destination": "Hostinger",
+            "date": "2025-08-11 20:39:48"
+        },
         {
             "domain_name": "acurhythmsleep.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "thegreenqueencleaning.com",
             "destination": "SiteGround",
             "date": "2025-08-08 18:04:27"
-        },
-        {
-            "domain_name": "tarranttransportationsummit.com",
-            "destination": "Hostinger",
-            "date": "2025-08-08 17:07:17"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
         "SiteGround": 4664,
         "Digital Ocean": 4642,
         "Bluehost": 4100,
-        "Hostinger": 3195,
+        "Hostinger": 3196,
         "GoDaddy": 1264,
         "BigScoots": 606,
         "Liquid Web": 585,
