@@ -1,6 +1,21 @@
 {
-    "siteCount": 86363,
+    "siteCount": 86370,
     "recentlyMoved": [
+        {
+            "domain_name": "jeremybuyshouses.com",
+            "destination": "Kinsta",
+            "date": "2025-08-11 01:01:44"
+        },
+        {
+            "domain_name": "invictusfitnessseattle.com",
+            "destination": "HostGator",
+            "date": "2025-08-11 00:26:49"
+        },
+        {
+            "domain_name": "imepicfit.com",
+            "destination": "Liquid Web",
+            "date": "2025-08-11 00:01:06"
+        },
         {
             "domain_name": "goochtrucking.com",
             "destination": "A2 Hosting",
@@ -477,29 +492,14 @@
             "date": "2025-08-08 15:39:20"
         },
         {
-            "domain_name": "vahimss.org",
-            "destination": "Pressable",
-            "date": "2025-08-08 14:45:05"
-        },
-        {
             "domain_name": "volfs.com",
             "destination": "Kinsta",
             "date": "2025-08-08 14:42:08"
         },
         {
-            "domain_name": "verifiedclinicaltrials.com",
-            "destination": "Kinsta",
-            "date": "2025-08-08 14:38:26"
-        },
-        {
             "domain_name": "visita1dental.com",
             "destination": "Hostinger",
             "date": "2025-08-08 14:04:02"
-        },
-        {
-            "domain_name": "treeoflifepreschool.org",
-            "destination": "Pressable",
-            "date": "2025-08-08 13:59:33"
         }
     ],
     "dailyMovedStat": {
@@ -830,14 +830,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 10760,
-        "Kinsta": 5646,
+        "Kinsta": 5647,
         "SiteGround": 4664,
         "Digital Ocean": 4642,
         "Bluehost": 4097,
         "Hostinger": 3188,
         "GoDaddy": 1263,
         "BigScoots": 606,
-        "Liquid Web": 584,
+        "Liquid Web": 585,
         "WordPress.com": 419,
         "InMotion Hosting": 399,
         "GridPane": 366,
@@ -848,7 +848,7 @@
         "Namecheap": 307,
         "DreamHost": 300,
         "Hetzner Online": 251,
-        "HostGator": 193
+        "HostGator": 194
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
