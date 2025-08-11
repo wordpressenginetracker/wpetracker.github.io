@@ -1,6 +1,11 @@
 {
-    "siteCount": 86386,
+    "siteCount": 86388,
     "recentlyMoved": [
+        {
+            "domain_name": "pkrenovation.com",
+            "destination": "Bluehost",
+            "date": "2025-08-11 07:58:23"
+        },
         {
             "domain_name": "texasinfusioncenter.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "printgraphicsshop.com",
             "destination": "Digital Ocean",
             "date": "2025-08-08 15:39:20"
-        },
-        {
-            "domain_name": "volfs.com",
-            "destination": "Kinsta",
-            "date": "2025-08-08 14:42:08"
         }
     ],
     "dailyMovedStat": {
@@ -833,7 +833,7 @@
         "Kinsta": 5647,
         "SiteGround": 4664,
         "Digital Ocean": 4642,
-        "Bluehost": 4098,
+        "Bluehost": 4099,
         "Hostinger": 3188,
         "GoDaddy": 1263,
         "BigScoots": 606,
