@@ -1,6 +1,11 @@
 {
-    "siteCount": 86396,
+    "siteCount": 86398,
     "recentlyMoved": [
+        {
+            "domain_name": "thehoodmilkbar.com.au",
+            "destination": "Hostinger",
+            "date": "2025-08-11 13:38:41"
+        },
         {
             "domain_name": "esm.contentful.lepape.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "horiganufp.com",
             "destination": "Hostinger",
             "date": "2025-08-08 16:27:43"
-        },
-        {
-            "domain_name": "www.dignitymed.com",
-            "destination": "Hostinger",
-            "date": "2025-08-08 16:18:16"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
         "SiteGround": 4664,
         "Digital Ocean": 4642,
         "Bluehost": 4100,
-        "Hostinger": 3192,
+        "Hostinger": 3193,
         "GoDaddy": 1263,
         "BigScoots": 606,
         "Liquid Web": 585,
