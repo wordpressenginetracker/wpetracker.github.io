@@ -1,6 +1,11 @@
 {
-    "siteCount": 86405,
+    "siteCount": 86408,
     "recentlyMoved": [
+        {
+            "domain_name": "retirement-right.com",
+            "destination": "HostGator",
+            "date": "2025-08-11 16:46:48"
+        },
         {
             "domain_name": "guthyjacksonfoundation.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "sesgllc.com",
             "destination": "Hostinger",
             "date": "2025-08-08 16:39:26"
-        },
-        {
-            "domain_name": "horiganufp.com",
-            "destination": "Hostinger",
-            "date": "2025-08-08 16:27:43"
         }
     ],
     "dailyMovedStat": {
@@ -848,7 +848,7 @@
         "Namecheap": 307,
         "DreamHost": 300,
         "Hetzner Online": 251,
-        "HostGator": 194
+        "HostGator": 195
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
