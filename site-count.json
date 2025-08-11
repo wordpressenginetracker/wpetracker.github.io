@@ -1,6 +1,11 @@
 {
-    "siteCount": 86388,
+    "siteCount": 86389,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lepape-info.com",
+            "destination": "Hostinger",
+            "date": "2025-08-11 09:12:55"
+        },
         {
             "domain_name": "pkrenovation.com",
             "destination": "Bluehost",
@@ -492,11 +497,6 @@
             "date": "2025-08-08 15:55:22"
         },
         {
-            "domain_name": "gravitec-conference.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-08 15:46:05"
-        },
-        {
             "domain_name": "printgraphicsshop.com",
             "destination": "Digital Ocean",
             "date": "2025-08-08 15:39:20"
@@ -834,7 +834,7 @@
         "SiteGround": 4664,
         "Digital Ocean": 4642,
         "Bluehost": 4099,
-        "Hostinger": 3188,
+        "Hostinger": 3189,
         "GoDaddy": 1263,
         "BigScoots": 606,
         "Liquid Web": 585,
