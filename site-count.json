@@ -1,6 +1,11 @@
 {
-    "siteCount": 86458,
+    "siteCount": 86465,
     "recentlyMoved": [
+        {
+            "domain_name": "mgb-law.com",
+            "destination": "Namecheap",
+            "date": "2025-08-12 05:59:20"
+        },
         {
             "domain_name": "samiscircuit.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "iandjfountainrestaurantaz.com",
             "destination": "DreamHost",
             "date": "2025-08-08 20:46:21"
-        },
-        {
-            "domain_name": "haggertybuilds.com",
-            "destination": "SiteGround",
-            "date": "2025-08-08 19:50:22"
         }
     ],
     "dailyMovedStat": {
@@ -846,7 +846,7 @@
         "OVH": 340,
         "IONOS": 313,
         "Elementor Hosting": 312,
-        "Namecheap": 307,
+        "Namecheap": 308,
         "DreamHost": 300,
         "Hetzner Online": 251,
         "HostGator": 195
