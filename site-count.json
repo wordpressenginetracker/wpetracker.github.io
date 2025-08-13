@@ -1,6 +1,11 @@
 {
-    "siteCount": 86631,
+    "siteCount": 86634,
     "recentlyMoved": [
+        {
+            "domain_name": "cistxjv.org",
+            "destination": "Hostinger",
+            "date": "2025-08-13 01:16:36"
+        },
         {
             "domain_name": "america-ship.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "sbbi.org",
             "destination": "Hostinger",
             "date": "2025-08-09 20:12:15"
-        },
-        {
-            "domain_name": "www.flamingmorons.com",
-            "destination": "Pressable",
-            "date": "2025-08-09 20:08:29"
         }
     ],
     "dailyMovedStat": {
@@ -836,7 +836,7 @@
         "SiteGround": 4677,
         "Digital Ocean": 4647,
         "Bluehost": 4101,
-        "Hostinger": 3203,
+        "Hostinger": 3204,
         "GoDaddy": 1267,
         "BigScoots": 609,
         "Liquid Web": 590,
