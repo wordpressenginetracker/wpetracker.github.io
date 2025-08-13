@@ -1,6 +1,31 @@
 {
-    "siteCount": 86670,
+    "siteCount": 86681,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jbt-training.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-08-13 09:06:13"
+        },
+        {
+            "domain_name": "www.preferreddentalcenter.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-13 08:59:24"
+        },
+        {
+            "domain_name": "www.margamgreenenergy.co.uk",
+            "destination": "OVH",
+            "date": "2025-08-13 08:58:17"
+        },
+        {
+            "domain_name": "www.hartmann-electronic.com",
+            "destination": "Kinsta",
+            "date": "2025-08-13 08:48:13"
+        },
+        {
+            "domain_name": "www.eqartistica.com.ar",
+            "destination": "IONOS",
+            "date": "2025-08-13 08:43:21"
+        },
         {
             "domain_name": "rameswaramthilahomamroyaltouchonly.in",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "precinct2gether.org",
             "destination": "SiteGround",
             "date": "2025-08-10 23:37:40"
-        },
-        {
-            "domain_name": "1883collective.com",
-            "destination": "Hostinger",
-            "date": "2025-08-10 23:37:20"
-        },
-        {
-            "domain_name": "catapultlakeland.com",
-            "destination": "WordPress.com",
-            "date": "2025-08-10 20:43:58"
-        },
-        {
-            "domain_name": "progressridgeortho.com",
-            "destination": "SiteGround",
-            "date": "2025-08-10 19:50:50"
-        },
-        {
-            "domain_name": "www.generalairproducts.com",
-            "destination": "Kinsta",
-            "date": "2025-08-10 16:46:10"
-        },
-        {
-            "domain_name": "azdreamhomesscottsdale.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-08-10 16:37:25"
         }
     ],
     "dailyMovedStat": {
@@ -832,20 +832,20 @@
     },
     "topDestinationHosts": {
         "Pressable": 10774,
-        "Kinsta": 5666,
-        "SiteGround": 4679,
+        "Kinsta": 5667,
+        "SiteGround": 4680,
         "Digital Ocean": 4651,
         "Bluehost": 4101,
         "Hostinger": 3206,
-        "GoDaddy": 1267,
+        "GoDaddy": 1268,
         "BigScoots": 609,
         "Liquid Web": 590,
         "WordPress.com": 420,
         "InMotion Hosting": 399,
         "GridPane": 366,
         "A2 Hosting": 346,
-        "OVH": 341,
-        "IONOS": 313,
+        "OVH": 342,
+        "IONOS": 314,
         "Elementor Hosting": 312,
         "Namecheap": 308,
         "DreamHost": 301,
