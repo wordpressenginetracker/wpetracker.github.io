@@ -1,6 +1,31 @@
 {
-    "siteCount": 86681,
+    "siteCount": 86688,
     "recentlyMoved": [
+        {
+            "domain_name": "babbels.se",
+            "destination": "Hetzner Online",
+            "date": "2025-08-13 10:08:35"
+        },
+        {
+            "domain_name": "drink-works.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-08-13 10:04:29"
+        },
+        {
+            "domain_name": "dianacooper.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-08-13 09:50:16"
+        },
+        {
+            "domain_name": "surfsup.ie",
+            "destination": "SiteGround",
+            "date": "2025-08-13 09:49:59"
+        },
+        {
+            "domain_name": "tdld.com.au",
+            "destination": "WordPress.com",
+            "date": "2025-08-13 09:14:14"
+        },
         {
             "domain_name": "www.jbt-training.co.uk",
             "destination": "SiteGround",
@@ -475,31 +500,6 @@
             "domain_name": "jeremybuyshouses.com",
             "destination": "Kinsta",
             "date": "2025-08-11 01:01:44"
-        },
-        {
-            "domain_name": "invictusfitnessseattle.com",
-            "destination": "HostGator",
-            "date": "2025-08-11 00:26:49"
-        },
-        {
-            "domain_name": "imepicfit.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-11 00:01:06"
-        },
-        {
-            "domain_name": "goochtrucking.com",
-            "destination": "A2 Hosting",
-            "date": "2025-08-11 00:00:31"
-        },
-        {
-            "domain_name": "angelmoms.org",
-            "destination": "Hostinger",
-            "date": "2025-08-10 23:48:17"
-        },
-        {
-            "domain_name": "precinct2gether.org",
-            "destination": "SiteGround",
-            "date": "2025-08-10 23:37:40"
         }
     ],
     "dailyMovedStat": {
@@ -833,14 +833,14 @@
     "topDestinationHosts": {
         "Pressable": 10774,
         "Kinsta": 5667,
-        "SiteGround": 4680,
+        "SiteGround": 4682,
         "Digital Ocean": 4651,
         "Bluehost": 4101,
         "Hostinger": 3206,
         "GoDaddy": 1268,
         "BigScoots": 609,
         "Liquid Web": 590,
-        "WordPress.com": 420,
+        "WordPress.com": 421,
         "InMotion Hosting": 399,
         "GridPane": 366,
         "A2 Hosting": 346,
@@ -849,7 +849,7 @@
         "Elementor Hosting": 312,
         "Namecheap": 308,
         "DreamHost": 301,
-        "Hetzner Online": 251,
+        "Hetzner Online": 252,
         "HostGator": 197
     },
     "dailyTotalStat": {
