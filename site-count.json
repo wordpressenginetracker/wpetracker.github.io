@@ -1,10 +1,15 @@
 {
-    "siteCount": 86788,
+    "siteCount": 86792,
     "recentlyMoved": [
         {
             "domain_name": "ediswatching.org",
             "destination": "Kinsta",
             "date": "2025-08-13 18:31:18"
+        },
+        {
+            "domain_name": "nmostories.org",
+            "destination": "Pressable",
+            "date": "2025-08-13 18:30:10"
         },
         {
             "domain_name": "usaward.org",
@@ -495,11 +500,6 @@
             "domain_name": "arcticrestorationcleaning.com",
             "destination": "SiteGround",
             "date": "2025-08-12 15:42:20"
-        },
-        {
-            "domain_name": "polysealcoating.com",
-            "destination": "SiteGround",
-            "date": "2025-08-12 15:37:54"
         }
     ],
     "dailyMovedStat": {
@@ -831,8 +831,8 @@
         "2025-08-12": "86625"
     },
     "topDestinationHosts": {
-        "Pressable": 10779,
-        "Kinsta": 5677,
+        "Pressable": 10780,
+        "Kinsta": 5678,
         "SiteGround": 4685,
         "Digital Ocean": 4658,
         "Bluehost": 4103,
