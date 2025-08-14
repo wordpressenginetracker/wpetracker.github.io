@@ -1,6 +1,21 @@
 {
-    "siteCount": 86885,
+    "siteCount": 86893,
     "recentlyMoved": [
+        {
+            "domain_name": "campuspoints.ug",
+            "destination": "HostGator",
+            "date": "2025-08-14 01:23:21"
+        },
+        {
+            "domain_name": "jshaw.com.au",
+            "destination": "SiteGround",
+            "date": "2025-08-14 00:50:58"
+        },
+        {
+            "domain_name": "lambergoodnow.com",
+            "destination": "Kinsta",
+            "date": "2025-08-14 00:44:18"
+        },
         {
             "domain_name": "pickersretrohaven.com.au",
             "destination": "GridPane",
@@ -467,11 +482,6 @@
             "date": "2025-08-12 18:24:44"
         },
         {
-            "domain_name": "thetxmaids.com",
-            "destination": "Kinsta",
-            "date": "2025-08-12 18:01:46"
-        },
-        {
             "domain_name": "elevatefitnessmd.com",
             "destination": "Liquid Web",
             "date": "2025-08-12 17:58:18"
@@ -490,16 +500,6 @@
             "domain_name": "effie.gbtesting.us",
             "destination": "Digital Ocean",
             "date": "2025-08-12 17:43:12"
-        },
-        {
-            "domain_name": "megreneethompson.com",
-            "destination": "BigScoots",
-            "date": "2025-08-12 17:35:07"
-        },
-        {
-            "domain_name": "medicalmarijuanaretailstore.com",
-            "destination": "SiteGround",
-            "date": "2025-08-12 17:26:58"
         }
     ],
     "dailyMovedStat": {
@@ -833,8 +833,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10785,
-        "Kinsta": 5681,
-        "SiteGround": 4689,
+        "Kinsta": 5682,
+        "SiteGround": 4690,
         "Digital Ocean": 4658,
         "Bluehost": 4104,
         "Hostinger": 3210,
@@ -851,7 +851,7 @@
         "Namecheap": 308,
         "DreamHost": 302,
         "Hetzner Online": 252,
-        "HostGator": 197
+        "HostGator": 198
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
