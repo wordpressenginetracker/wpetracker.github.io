@@ -1,6 +1,11 @@
 {
-    "siteCount": 86901,
+    "siteCount": 86905,
     "recentlyMoved": [
+        {
+            "domain_name": "flashmotors.com",
+            "destination": "Hostinger",
+            "date": "2025-08-14 03:10:14"
+        },
         {
             "domain_name": "entrustpro.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "walnutfarmmontessori.com",
             "destination": "Kinsta",
             "date": "2025-08-12 19:05:46"
-        },
-        {
-            "domain_name": "nexocs.com",
-            "destination": "Hostinger",
-            "date": "2025-08-12 17:54:07"
         }
     ],
     "dailyMovedStat": {
@@ -837,7 +837,7 @@
         "SiteGround": 4690,
         "Digital Ocean": 4658,
         "Bluehost": 4105,
-        "Hostinger": 3210,
+        "Hostinger": 3211,
         "GoDaddy": 1273,
         "BigScoots": 609,
         "Liquid Web": 593,
