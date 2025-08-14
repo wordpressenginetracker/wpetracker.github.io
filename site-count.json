@@ -1,6 +1,11 @@
 {
-    "siteCount": 86915,
+    "siteCount": 86918,
     "recentlyMoved": [
+        {
+            "domain_name": "pureaquatek.com",
+            "destination": "SiteGround",
+            "date": "2025-08-14 08:34:27"
+        },
         {
             "domain_name": "medman.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "sehps.co.uk",
             "destination": "Krystal Hosting",
             "date": "2025-08-12 20:23:09"
-        },
-        {
-            "domain_name": "420pharmame.com",
-            "destination": "SiteGround",
-            "date": "2025-08-12 19:39:20"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
     "topDestinationHosts": {
         "Pressable": 10786,
         "Kinsta": 5683,
-        "SiteGround": 4691,
+        "SiteGround": 4692,
         "Digital Ocean": 4659,
         "Bluehost": 4105,
         "Hostinger": 3212,
