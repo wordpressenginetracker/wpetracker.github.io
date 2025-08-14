@@ -1,6 +1,11 @@
 {
-    "siteCount": 86911,
+    "siteCount": 86915,
     "recentlyMoved": [
+        {
+            "domain_name": "medman.com",
+            "destination": "SiteGround",
+            "date": "2025-08-14 05:30:20"
+        },
         {
             "domain_name": "callacarmcr.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "420pharmame.com",
             "destination": "SiteGround",
             "date": "2025-08-12 19:39:20"
-        },
-        {
-            "domain_name": "waterprosper.org",
-            "destination": "DreamHost",
-            "date": "2025-08-12 19:20:24"
         }
     ],
     "dailyMovedStat": {
@@ -834,7 +834,7 @@
     "topDestinationHosts": {
         "Pressable": 10786,
         "Kinsta": 5683,
-        "SiteGround": 4690,
+        "SiteGround": 4691,
         "Digital Ocean": 4659,
         "Bluehost": 4105,
         "Hostinger": 3212,
