@@ -1,6 +1,11 @@
 {
-    "siteCount": 86918,
+    "siteCount": 86927,
     "recentlyMoved": [
+        {
+            "domain_name": "brainwavecenters.com",
+            "destination": "SiteGround",
+            "date": "2025-08-14 08:49:21"
+        },
         {
             "domain_name": "pureaquatek.com",
             "destination": "SiteGround",
@@ -487,11 +492,6 @@
             "date": "2025-08-12 20:41:09"
         },
         {
-            "domain_name": "birkfamilydentistry.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-12 20:36:19"
-        },
-        {
             "domain_name": "www.holyfools.org.au",
             "destination": "SiteGround",
             "date": "2025-08-12 20:31:35"
@@ -834,7 +834,7 @@
     "topDestinationHosts": {
         "Pressable": 10786,
         "Kinsta": 5683,
-        "SiteGround": 4692,
+        "SiteGround": 4693,
         "Digital Ocean": 4659,
         "Bluehost": 4105,
         "Hostinger": 3212,
