@@ -1,6 +1,46 @@
 {
-    "siteCount": 87146,
+    "siteCount": 87163,
     "recentlyMoved": [
+        {
+            "domain_name": "www.crewwire.com",
+            "destination": "Pressable",
+            "date": "2025-08-15 12:38:03"
+        },
+        {
+            "domain_name": "pinnacleequine.com",
+            "destination": "Kinsta",
+            "date": "2025-08-15 12:12:02"
+        },
+        {
+            "domain_name": "winghartlaw.com",
+            "destination": "SiteGround",
+            "date": "2025-08-15 12:07:45"
+        },
+        {
+            "domain_name": "atlanticglassfl.com",
+            "destination": "SiteGround",
+            "date": "2025-08-15 11:55:43"
+        },
+        {
+            "domain_name": "poliakov.co",
+            "destination": "Digital Ocean",
+            "date": "2025-08-15 11:53:28"
+        },
+        {
+            "domain_name": "audaxmoving.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-15 11:46:43"
+        },
+        {
+            "domain_name": "heirloomst.com",
+            "destination": "Hostinger",
+            "date": "2025-08-15 11:45:33"
+        },
+        {
+            "domain_name": "alohasanitary.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-15 11:30:52"
+        },
         {
             "domain_name": "www.thecrestcenter.com",
             "destination": "Pressable",
@@ -447,11 +487,6 @@
             "date": "2025-08-13 19:57:15"
         },
         {
-            "domain_name": "ediswatching.org",
-            "destination": "Kinsta",
-            "date": "2025-08-13 18:31:18"
-        },
-        {
             "domain_name": "nmostories.org",
             "destination": "Pressable",
             "date": "2025-08-13 18:30:10"
@@ -465,41 +500,6 @@
             "domain_name": "engageandheal.org",
             "destination": "GoDaddy",
             "date": "2025-08-13 17:59:11"
-        },
-        {
-            "domain_name": "syp.computer.org",
-            "destination": "Digital Ocean",
-            "date": "2025-08-13 17:56:22"
-        },
-        {
-            "domain_name": "kmcnv.com",
-            "destination": "Pressable",
-            "date": "2025-08-13 17:36:51"
-        },
-        {
-            "domain_name": "csaok.com",
-            "destination": "Pressable",
-            "date": "2025-08-13 17:36:27"
-        },
-        {
-            "domain_name": "colorfultones.com",
-            "destination": "Bluehost",
-            "date": "2025-08-13 17:33:19"
-        },
-        {
-            "domain_name": "theneverendingcookiejar.com",
-            "destination": "OVH",
-            "date": "2025-08-13 17:32:25"
-        },
-        {
-            "domain_name": "justinriversrealestate.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-13 17:09:26"
-        },
-        {
-            "domain_name": "candletime.com",
-            "destination": "Pressable",
-            "date": "2025-08-13 16:34:42"
         }
     ],
     "dailyMovedStat": {
@@ -833,13 +833,13 @@
         "2025-08-14": "87087"
     },
     "topDestinationHosts": {
-        "Pressable": 10800,
-        "Kinsta": 5694,
-        "SiteGround": 4697,
-        "Digital Ocean": 4669,
+        "Pressable": 10801,
+        "Kinsta": 5695,
+        "SiteGround": 4699,
+        "Digital Ocean": 4671,
         "Bluehost": 4112,
-        "Hostinger": 3222,
-        "GoDaddy": 1274,
+        "Hostinger": 3223,
+        "GoDaddy": 1275,
         "BigScoots": 609,
         "Liquid Web": 593,
         "WordPress.com": 421,
