@@ -1,6 +1,11 @@
 {
-    "siteCount": 87098,
+    "siteCount": 87103,
     "recentlyMoved": [
+        {
+            "domain_name": "decprod.com.au",
+            "destination": "Hostinger",
+            "date": "2025-08-15 01:33:11"
+        },
         {
             "domain_name": "keepsakeproductsusa.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.chavezlawgroup.com",
             "destination": "Kinsta",
             "date": "2025-08-13 15:58:30"
-        },
-        {
-            "domain_name": "frontlineroofing.com",
-            "destination": "SiteGround",
-            "date": "2025-08-13 15:17:36"
         }
     ],
     "dailyMovedStat": {
@@ -838,7 +838,7 @@
         "SiteGround": 4695,
         "Digital Ocean": 4667,
         "Bluehost": 4111,
-        "Hostinger": 3221,
+        "Hostinger": 3222,
         "GoDaddy": 1274,
         "BigScoots": 609,
         "Liquid Web": 593,
