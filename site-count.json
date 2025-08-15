@@ -1,6 +1,11 @@
 {
-    "siteCount": 87223,
+    "siteCount": 87266,
     "recentlyMoved": [
+        {
+            "domain_name": "haldemann-immobilien.ch",
+            "destination": "IONOS",
+            "date": "2025-08-15 19:52:20"
+        },
         {
             "domain_name": "exactsolar.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "lambergoodnow.com",
             "destination": "Kinsta",
             "date": "2025-08-14 00:44:18"
-        },
-        {
-            "domain_name": "pickersretrohaven.com.au",
-            "destination": "GridPane",
-            "date": "2025-08-13 23:52:24"
         }
     ],
     "dailyMovedStat": {
@@ -835,19 +835,19 @@
     "topDestinationHosts": {
         "Pressable": 10804,
         "Kinsta": 5701,
-        "SiteGround": 4701,
+        "SiteGround": 4703,
         "Digital Ocean": 4673,
         "Bluehost": 4113,
-        "Hostinger": 3224,
+        "Hostinger": 3226,
         "GoDaddy": 1276,
         "BigScoots": 609,
-        "Liquid Web": 593,
+        "Liquid Web": 595,
         "WordPress.com": 421,
         "InMotion Hosting": 400,
         "GridPane": 371,
         "A2 Hosting": 348,
         "OVH": 343,
-        "IONOS": 315,
+        "IONOS": 316,
         "Elementor Hosting": 312,
         "Namecheap": 308,
         "DreamHost": 302,
