@@ -1,6 +1,11 @@
 {
-    "siteCount": 87103,
+    "siteCount": 87107,
     "recentlyMoved": [
+        {
+            "domain_name": "www.adlibhotels.co",
+            "destination": "Kinsta",
+            "date": "2025-08-15 04:16:50"
+        },
         {
             "domain_name": "decprod.com.au",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-08-13 16:24:27"
         },
         {
-            "domain_name": "www.bestpricedplumbing.com",
-            "destination": "Pressable",
-            "date": "2025-08-13 16:07:46"
-        },
-        {
             "domain_name": "www.chavezlawgroup.com",
             "destination": "Kinsta",
             "date": "2025-08-13 15:58:30"
@@ -834,7 +834,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10799,
-        "Kinsta": 5691,
+        "Kinsta": 5692,
         "SiteGround": 4695,
         "Digital Ocean": 4667,
         "Bluehost": 4111,
