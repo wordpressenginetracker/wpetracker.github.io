@@ -1,6 +1,16 @@
 {
-    "siteCount": 87117,
+    "siteCount": 87125,
     "recentlyMoved": [
+        {
+            "domain_name": "animaleyecare.com",
+            "destination": "SiteGround",
+            "date": "2025-08-15 08:28:57"
+        },
+        {
+            "domain_name": "www.airahotelbangkok.com",
+            "destination": "Kinsta",
+            "date": "2025-08-15 07:33:51"
+        },
         {
             "domain_name": "decastroverdelaw.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "candletime.com",
             "destination": "Pressable",
             "date": "2025-08-13 16:34:42"
-        },
-        {
-            "domain_name": "recoverycouncil.org",
-            "destination": "Kinsta",
-            "date": "2025-08-13 16:24:27"
-        },
-        {
-            "domain_name": "www.chavezlawgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-08-13 15:58:30"
         }
     ],
     "dailyMovedStat": {
@@ -834,8 +834,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10799,
-        "Kinsta": 5692,
-        "SiteGround": 4695,
+        "Kinsta": 5693,
+        "SiteGround": 4696,
         "Digital Ocean": 4668,
         "Bluehost": 4111,
         "Hostinger": 3222,
