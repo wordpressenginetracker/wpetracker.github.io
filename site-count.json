@@ -1,6 +1,11 @@
 {
-    "siteCount": 87301,
+    "siteCount": 87309,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fusionsuperplex.co",
+            "destination": "Digital Ocean",
+            "date": "2025-08-16 04:16:18"
+        },
         {
             "domain_name": "mariakillam.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "ozarkmountainair.com",
             "destination": "Kinsta",
             "date": "2025-08-14 11:49:37"
-        },
-        {
-            "domain_name": "www.deltamechanical.biz",
-            "destination": "Bluehost",
-            "date": "2025-08-14 11:36:08"
         }
     ],
     "dailyMovedStat": {
@@ -837,7 +837,7 @@
         "Pressable": 10808,
         "Kinsta": 5704,
         "SiteGround": 4705,
-        "Digital Ocean": 4673,
+        "Digital Ocean": 4674,
         "Bluehost": 4113,
         "Hostinger": 3229,
         "GoDaddy": 1276,
