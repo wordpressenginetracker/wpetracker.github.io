@@ -1,6 +1,16 @@
 {
-    "siteCount": 87287,
+    "siteCount": 87294,
     "recentlyMoved": [
+        {
+            "domain_name": "www.samalahotelbangkok.com",
+            "destination": "Kinsta",
+            "date": "2025-08-16 01:03:12"
+        },
+        {
+            "domain_name": "www.rembrandthotelbangkok.com",
+            "destination": "Kinsta",
+            "date": "2025-08-16 01:00:18"
+        },
         {
             "domain_name": "atxoasis.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "medman.com",
             "destination": "SiteGround",
             "date": "2025-08-14 05:30:20"
-        },
-        {
-            "domain_name": "callacarmcr.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-08-14 04:41:13"
-        },
-        {
-            "domain_name": "sfpretrial.org",
-            "destination": "Digital Ocean",
-            "date": "2025-08-14 04:34:07"
         }
     ],
     "dailyMovedStat": {
@@ -834,8 +834,8 @@
         "2025-08-15": "87280"
     },
     "topDestinationHosts": {
-        "Pressable": 10806,
-        "Kinsta": 5701,
+        "Pressable": 10807,
+        "Kinsta": 5702,
         "SiteGround": 4705,
         "Digital Ocean": 4673,
         "Bluehost": 4113,
