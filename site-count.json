@@ -1,6 +1,16 @@
 {
-    "siteCount": 87331,
+    "siteCount": 87337,
     "recentlyMoved": [
+        {
+            "domain_name": "vac4eu.org",
+            "destination": "Hetzner Online",
+            "date": "2025-08-16 09:49:46"
+        },
+        {
+            "domain_name": "fandminlancaster.org",
+            "destination": "Bluehost",
+            "date": "2025-08-16 09:46:03"
+        },
         {
             "domain_name": "handlaekologiskt.organicsweden.se",
             "destination": "Kinsta",
@@ -482,11 +492,6 @@
             "date": "2025-08-14 13:22:50"
         },
         {
-            "domain_name": "www.pioneercenter.org",
-            "destination": "Pressable",
-            "date": "2025-08-14 13:15:44"
-        },
-        {
             "domain_name": "dcputt.com",
             "destination": "Kinsta",
             "date": "2025-08-14 13:13:42"
@@ -495,11 +500,6 @@
             "domain_name": "www.savvymobiledetail.com",
             "destination": "Digital Ocean",
             "date": "2025-08-14 13:10:53"
-        },
-        {
-            "domain_name": "cdlticketsdefense.com",
-            "destination": "Pressable",
-            "date": "2025-08-14 13:07:03"
         }
     ],
     "dailyMovedStat": {
@@ -838,7 +838,7 @@
         "Kinsta": 5706,
         "SiteGround": 4705,
         "Digital Ocean": 4674,
-        "Bluehost": 4113,
+        "Bluehost": 4114,
         "Hostinger": 3229,
         "GoDaddy": 1276,
         "BigScoots": 610,
@@ -852,7 +852,7 @@
         "Elementor Hosting": 312,
         "Namecheap": 308,
         "DreamHost": 302,
-        "Hetzner Online": 252,
+        "Hetzner Online": 253,
         "HostGator": 199
     },
     "dailyTotalStat": {
