@@ -1,6 +1,11 @@
 {
-    "siteCount": 87464,
+    "siteCount": 87469,
     "recentlyMoved": [
+        {
+            "domain_name": "sapphirecompass.com",
+            "destination": "WordPress.com",
+            "date": "2025-08-16 20:35:21"
+        },
         {
             "domain_name": "alexeyadamitsky.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "decprod.com.au",
             "destination": "Hostinger",
             "date": "2025-08-15 01:33:11"
-        },
-        {
-            "domain_name": "keepsakeproductsusa.com",
-            "destination": "IONOS",
-            "date": "2025-08-15 01:21:08"
         }
     ],
     "dailyMovedStat": {
@@ -843,7 +843,7 @@
         "GoDaddy": 1277,
         "BigScoots": 610,
         "Liquid Web": 597,
-        "WordPress.com": 422,
+        "WordPress.com": 423,
         "InMotion Hosting": 400,
         "GridPane": 372,
         "A2 Hosting": 350,
