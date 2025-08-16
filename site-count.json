@@ -1,10 +1,15 @@
 {
-    "siteCount": 87314,
+    "siteCount": 87319,
     "recentlyMoved": [
         {
             "domain_name": "www.rembrandtresidences.com",
             "destination": "Kinsta",
             "date": "2025-08-16 05:43:45"
+        },
+        {
+            "domain_name": "thesherman.org",
+            "destination": "Pressable",
+            "date": "2025-08-16 05:35:30"
         },
         {
             "domain_name": "civanoadvisors.com",
@@ -492,11 +497,6 @@
             "date": "2025-08-14 13:07:03"
         },
         {
-            "domain_name": "block-lite.com",
-            "destination": "Hostinger",
-            "date": "2025-08-14 13:01:05"
-        },
-        {
             "domain_name": "secondopinionplumbingaz.com",
             "destination": "Pressable",
             "date": "2025-08-14 12:30:44"
@@ -834,7 +834,7 @@
         "2025-08-15": "87280"
     },
     "topDestinationHosts": {
-        "Pressable": 10810,
+        "Pressable": 10812,
         "Kinsta": 5705,
         "SiteGround": 4705,
         "Digital Ocean": 4674,
