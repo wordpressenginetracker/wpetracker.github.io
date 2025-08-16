@@ -1,6 +1,21 @@
 {
-    "siteCount": 87409,
+    "siteCount": 87464,
     "recentlyMoved": [
+        {
+            "domain_name": "alexeyadamitsky.com",
+            "destination": "Hostinger",
+            "date": "2025-08-16 20:13:43"
+        },
+        {
+            "domain_name": "ahcinvest.com",
+            "destination": "Hostinger",
+            "date": "2025-08-16 20:06:59"
+        },
+        {
+            "domain_name": "goodbeer.com",
+            "destination": "Bluehost",
+            "date": "2025-08-16 19:52:01"
+        },
         {
             "domain_name": "engagededucators.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "keepsakeproductsusa.com",
             "destination": "IONOS",
             "date": "2025-08-15 01:21:08"
-        },
-        {
-            "domain_name": "gracebaptistchurchdubuque.com",
-            "destination": "Hostinger",
-            "date": "2025-08-15 00:00:28"
-        },
-        {
-            "domain_name": "squareonehealth.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-14 21:31:49"
-        },
-        {
-            "domain_name": "katefursdon-immigration.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-08-14 21:27:17"
         }
     ],
     "dailyMovedStat": {
@@ -837,22 +837,22 @@
         "Pressable": 10817,
         "Kinsta": 5711,
         "SiteGround": 4710,
-        "Digital Ocean": 4678,
-        "Bluehost": 4116,
-        "Hostinger": 3238,
+        "Digital Ocean": 4679,
+        "Bluehost": 4118,
+        "Hostinger": 3240,
         "GoDaddy": 1277,
         "BigScoots": 610,
-        "Liquid Web": 596,
+        "Liquid Web": 597,
         "WordPress.com": 422,
         "InMotion Hosting": 400,
         "GridPane": 372,
         "A2 Hosting": 350,
-        "OVH": 343,
+        "OVH": 344,
         "IONOS": 316,
         "Elementor Hosting": 312,
-        "Namecheap": 308,
+        "Namecheap": 309,
         "DreamHost": 303,
-        "Hetzner Online": 253,
+        "Hetzner Online": 254,
         "HostGator": 200
     },
     "dailyTotalStat": {
