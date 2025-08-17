@@ -1,6 +1,16 @@
 {
-    "siteCount": 87482,
+    "siteCount": 87485,
     "recentlyMoved": [
+        {
+            "domain_name": "uncensored.co.nz",
+            "destination": "SiteGround",
+            "date": "2025-08-17 01:53:10"
+        },
+        {
+            "domain_name": "mississaugataekwondo.com",
+            "destination": "Hostinger",
+            "date": "2025-08-17 01:53:03"
+        },
         {
             "domain_name": "lensshark.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "beacon.vet",
             "destination": "SiteGround",
             "date": "2025-08-15 08:10:21"
-        },
-        {
-            "domain_name": "www.airahotelbangkok.com",
-            "destination": "Kinsta",
-            "date": "2025-08-15 07:33:51"
-        },
-        {
-            "domain_name": "decastroverdelaw.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-15 05:09:21"
         }
     ],
     "dailyMovedStat": {
@@ -837,10 +837,10 @@
     "topDestinationHosts": {
         "Pressable": 10817,
         "Kinsta": 5711,
-        "SiteGround": 4710,
+        "SiteGround": 4711,
         "Digital Ocean": 4679,
         "Bluehost": 4118,
-        "Hostinger": 3241,
+        "Hostinger": 3242,
         "GoDaddy": 1277,
         "BigScoots": 610,
         "Liquid Web": 597,
