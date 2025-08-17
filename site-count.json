@@ -1,6 +1,11 @@
 {
-    "siteCount": 87534,
+    "siteCount": 87537,
     "recentlyMoved": [
+        {
+            "domain_name": "sin360.us",
+            "destination": "Kinsta",
+            "date": "2025-08-17 20:45:51"
+        },
         {
             "domain_name": "www.badeloftusa.com",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-08-15 12:13:37"
         },
         {
-            "domain_name": "pinnacleequine.com",
-            "destination": "Kinsta",
-            "date": "2025-08-15 12:12:02"
-        },
-        {
             "domain_name": "atlanticglassfl.com",
             "destination": "SiteGround",
             "date": "2025-08-15 11:55:43"
@@ -836,7 +836,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10819,
-        "Kinsta": 5713,
+        "Kinsta": 5714,
         "SiteGround": 4711,
         "Digital Ocean": 4680,
         "Bluehost": 4118,
