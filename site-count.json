@@ -1,6 +1,16 @@
 {
-    "siteCount": 87508,
+    "siteCount": 87513,
     "recentlyMoved": [
+        {
+            "domain_name": "www.badeloftusa.com",
+            "destination": "Kinsta",
+            "date": "2025-08-17 16:15:56"
+        },
+        {
+            "domain_name": "apersonalorganizer.com",
+            "destination": "Hostinger",
+            "date": "2025-08-17 16:03:45"
+        },
         {
             "domain_name": "echoranchproducts.com",
             "destination": "Pressable",
@@ -472,11 +482,6 @@
             "date": "2025-08-15 12:12:02"
         },
         {
-            "domain_name": "winghartlaw.com",
-            "destination": "SiteGround",
-            "date": "2025-08-15 12:07:45"
-        },
-        {
             "domain_name": "atlanticglassfl.com",
             "destination": "SiteGround",
             "date": "2025-08-15 11:55:43"
@@ -495,11 +500,6 @@
             "domain_name": "heirloomst.com",
             "destination": "Hostinger",
             "date": "2025-08-15 11:45:33"
-        },
-        {
-            "domain_name": "alohasanitary.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-15 11:30:52"
         }
     ],
     "dailyMovedStat": {
@@ -836,11 +836,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10819,
-        "Kinsta": 5712,
+        "Kinsta": 5713,
         "SiteGround": 4711,
         "Digital Ocean": 4680,
         "Bluehost": 4118,
-        "Hostinger": 3243,
+        "Hostinger": 3244,
         "GoDaddy": 1278,
         "BigScoots": 610,
         "Liquid Web": 597,
