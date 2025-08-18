@@ -1,6 +1,11 @@
 {
-    "siteCount": 87579,
+    "siteCount": 87581,
     "recentlyMoved": [
+        {
+            "domain_name": "spitmarket.com",
+            "destination": "Bluehost",
+            "date": "2025-08-18 13:31:03"
+        },
         {
             "domain_name": "www.clodrosome.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-08-15 14:04:11"
         },
         {
-            "domain_name": "www.plexushealth.com",
-            "destination": "Pressable",
-            "date": "2025-08-15 13:31:03"
-        },
-        {
             "domain_name": "leaad.foundation",
             "destination": "Pressable",
             "date": "2025-08-15 12:48:28"
@@ -840,7 +840,7 @@
         "Kinsta": 5714,
         "SiteGround": 4711,
         "Digital Ocean": 4681,
-        "Bluehost": 4120,
+        "Bluehost": 4121,
         "Hostinger": 3246,
         "GoDaddy": 1278,
         "BigScoots": 610,
