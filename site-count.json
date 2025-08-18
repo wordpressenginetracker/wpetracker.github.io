@@ -1,6 +1,11 @@
 {
-    "siteCount": 87600,
+    "siteCount": 87626,
     "recentlyMoved": [
+        {
+            "domain_name": "plumbingperspective.com",
+            "destination": "Bluehost",
+            "date": "2025-08-18 19:33:43"
+        },
         {
             "domain_name": "ralphseverson.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "heritagehomecraft.com",
             "destination": "GoDaddy",
             "date": "2025-08-15 16:11:39"
-        },
-        {
-            "domain_name": "www.brytevalleyconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-08-15 15:51:22"
         }
     ],
     "dailyMovedStat": {
@@ -840,7 +840,7 @@
         "Kinsta": 5715,
         "SiteGround": 4711,
         "Digital Ocean": 4681,
-        "Bluehost": 4123,
+        "Bluehost": 4124,
         "Hostinger": 3246,
         "GoDaddy": 1278,
         "BigScoots": 610,
