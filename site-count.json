@@ -1,6 +1,16 @@
 {
-    "siteCount": 87687,
+    "siteCount": 87693,
     "recentlyMoved": [
+        {
+            "domain_name": "magedmostafa.com",
+            "destination": "IONOS",
+            "date": "2025-08-19 09:57:37"
+        },
+        {
+            "domain_name": "egyptianivfcenter.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-19 09:50:24"
+        },
         {
             "domain_name": "cloudwizardconsulting.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2025-08-16 00:15:03"
         },
         {
-            "domain_name": "gccschool.org",
-            "destination": "Pressable",
-            "date": "2025-08-16 00:12:30"
-        },
-        {
             "domain_name": "phyrago.com",
             "destination": "SiteGround",
             "date": "2025-08-16 00:00:49"
-        },
-        {
-            "domain_name": "waldameer.com",
-            "destination": "Pressable",
-            "date": "2025-08-15 22:04:27"
         }
     ],
     "dailyMovedStat": {
@@ -840,7 +840,7 @@
         "Pressable": 10822,
         "Kinsta": 5715,
         "SiteGround": 4711,
-        "Digital Ocean": 4685,
+        "Digital Ocean": 4686,
         "Bluehost": 4125,
         "Hostinger": 3247,
         "GoDaddy": 1279,
@@ -850,8 +850,8 @@
         "InMotion Hosting": 400,
         "GridPane": 372,
         "A2 Hosting": 351,
-        "OVH": 344,
-        "IONOS": 317,
+        "OVH": 345,
+        "IONOS": 318,
         "Elementor Hosting": 312,
         "Namecheap": 309,
         "DreamHost": 303,
