@@ -1,6 +1,16 @@
 {
-    "siteCount": 87659,
+    "siteCount": 87670,
     "recentlyMoved": [
+        {
+            "domain_name": "mavericks.fi",
+            "destination": "Digital Ocean",
+            "date": "2025-08-19 05:33:08"
+        },
+        {
+            "domain_name": "tatt2away.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-19 05:23:14"
+        },
         {
             "domain_name": "roystonpianolessons.com",
             "destination": "HostGator",
@@ -490,16 +500,6 @@
             "domain_name": "haldemann-immobilien.ch",
             "destination": "IONOS",
             "date": "2025-08-15 19:52:20"
-        },
-        {
-            "domain_name": "exactsolar.com",
-            "destination": "Kinsta",
-            "date": "2025-08-15 18:25:50"
-        },
-        {
-            "domain_name": "uncensorednz.com",
-            "destination": "SiteGround",
-            "date": "2025-08-15 17:55:02"
         }
     ],
     "dailyMovedStat": {
@@ -840,7 +840,7 @@
         "Pressable": 10822,
         "Kinsta": 5715,
         "SiteGround": 4711,
-        "Digital Ocean": 4682,
+        "Digital Ocean": 4684,
         "Bluehost": 4125,
         "Hostinger": 3246,
         "GoDaddy": 1279,
