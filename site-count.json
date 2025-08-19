@@ -1,6 +1,16 @@
 {
-    "siteCount": 87653,
+    "siteCount": 87659,
     "recentlyMoved": [
+        {
+            "domain_name": "roystonpianolessons.com",
+            "destination": "HostGator",
+            "date": "2025-08-19 04:46:51"
+        },
+        {
+            "domain_name": "business-docs.co.uk",
+            "destination": "Bluehost",
+            "date": "2025-08-19 04:39:12"
+        },
         {
             "domain_name": "sn-burn.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "uncensorednz.com",
             "destination": "SiteGround",
             "date": "2025-08-15 17:55:02"
-        },
-        {
-            "domain_name": "www.romoplasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-08-15 17:17:59"
-        },
-        {
-            "domain_name": "stockbrokerlaw.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-15 17:10:04"
         }
     ],
     "dailyMovedStat": {
@@ -841,7 +841,7 @@
         "Kinsta": 5715,
         "SiteGround": 4711,
         "Digital Ocean": 4682,
-        "Bluehost": 4124,
+        "Bluehost": 4125,
         "Hostinger": 3246,
         "GoDaddy": 1279,
         "BigScoots": 610,
@@ -856,7 +856,7 @@
         "Namecheap": 309,
         "DreamHost": 303,
         "Hetzner Online": 254,
-        "HostGator": 200
+        "HostGator": 201
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
