@@ -1,6 +1,16 @@
 {
-    "siteCount": 88001,
+    "siteCount": 88051,
     "recentlyMoved": [
+        {
+            "domain_name": "ballislife.com",
+            "destination": "Kinsta",
+            "date": "2025-08-20 20:40:10"
+        },
+        {
+            "domain_name": "finishgradex.ca",
+            "destination": "Hostinger",
+            "date": "2025-08-20 19:52:16"
+        },
         {
             "domain_name": "edita.com.eg",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "plateformeapprentissageitinerance.ca",
             "destination": "SiteGround",
             "date": "2025-08-19 11:42:38"
-        },
-        {
-            "domain_name": "www.recalibrategroup.com",
-            "destination": "DreamHost",
-            "date": "2025-08-19 11:42:01"
-        },
-        {
-            "domain_name": "www.dnavarrolaw.com",
-            "destination": "SiteGround",
-            "date": "2025-08-19 11:17:53"
         }
     ],
     "dailyMovedStat": {
@@ -843,7 +843,7 @@
         "SiteGround": 4745,
         "Digital Ocean": 4698,
         "Bluehost": 4127,
-        "Hostinger": 3255,
+        "Hostinger": 3256,
         "GoDaddy": 1283,
         "BigScoots": 611,
         "Liquid Web": 605,
