@@ -1,6 +1,16 @@
 {
-    "siteCount": 87841,
+    "siteCount": 87845,
     "recentlyMoved": [
+        {
+            "domain_name": "mhasei.org",
+            "destination": "Hostinger",
+            "date": "2025-08-20 01:53:11"
+        },
+        {
+            "domain_name": "www.spiritsoxusa.com",
+            "destination": "Kinsta",
+            "date": "2025-08-20 01:11:57"
+        },
         {
             "domain_name": "kid2youthocea.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "ljaprogrammanagement.com",
             "destination": "Hostinger",
             "date": "2025-08-16 17:19:49"
-        },
-        {
-            "domain_name": "kodiradio.com",
-            "destination": "Pressable",
-            "date": "2025-08-16 16:56:36"
-        },
-        {
-            "domain_name": "chefnelsongerman.com",
-            "destination": "Bluehost",
-            "date": "2025-08-16 16:55:49"
         }
     ],
     "dailyMovedStat": {
@@ -839,11 +839,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10830,
-        "Kinsta": 5720,
+        "Kinsta": 5721,
         "SiteGround": 4727,
         "Digital Ocean": 4690,
         "Bluehost": 4126,
-        "Hostinger": 3249,
+        "Hostinger": 3250,
         "GoDaddy": 1281,
         "BigScoots": 610,
         "Liquid Web": 603,
