@@ -1,6 +1,11 @@
 {
-    "siteCount": 87871,
+    "siteCount": 87878,
     "recentlyMoved": [
+        {
+            "domain_name": "gonstead-atx.com",
+            "destination": "SiteGround",
+            "date": "2025-08-20 08:27:54"
+        },
         {
             "domain_name": "www.prospect-hospice.net",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-08-16 18:26:13"
         },
         {
-            "domain_name": "empowered2retire.com",
-            "destination": "DreamHost",
-            "date": "2025-08-16 18:06:03"
-        },
-        {
             "domain_name": "utahhearingaids.com",
             "destination": "WordPress.com",
             "date": "2025-08-16 18:01:12"
@@ -840,7 +840,7 @@
     "topDestinationHosts": {
         "Pressable": 10830,
         "Kinsta": 5721,
-        "SiteGround": 4727,
+        "SiteGround": 4728,
         "Digital Ocean": 4692,
         "Bluehost": 4126,
         "Hostinger": 3251,
