@@ -1,10 +1,15 @@
 {
-    "siteCount": 87999,
+    "siteCount": 88001,
     "recentlyMoved": [
         {
             "domain_name": "edita.com.eg",
             "destination": "Digital Ocean",
             "date": "2025-08-20 18:25:27"
+        },
+        {
+            "domain_name": "northwestspinesurgery.com",
+            "destination": "Kinsta",
+            "date": "2025-08-20 18:17:12"
         },
         {
             "domain_name": "danwaypropertysolutions.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.dnavarrolaw.com",
             "destination": "SiteGround",
             "date": "2025-08-19 11:17:53"
-        },
-        {
-            "domain_name": "egyptianivfcenter.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-19 09:50:24"
         }
     ],
     "dailyMovedStat": {
@@ -839,7 +839,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10831,
-        "Kinsta": 5728,
+        "Kinsta": 5729,
         "SiteGround": 4745,
         "Digital Ocean": 4698,
         "Bluehost": 4127,
