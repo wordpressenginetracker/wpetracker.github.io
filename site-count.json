@@ -1,6 +1,21 @@
 {
-    "siteCount": 87827,
+    "siteCount": 87836,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cliffsamusementpark.com",
+            "destination": "Pressable",
+            "date": "2025-08-20 00:30:36"
+        },
+        {
+            "domain_name": "helloaxis.com.au",
+            "destination": "SiteGround",
+            "date": "2025-08-20 00:05:16"
+        },
+        {
+            "domain_name": "ahscharter.org",
+            "destination": "Pressable",
+            "date": "2025-08-19 23:45:41"
+        },
         {
             "domain_name": "coces.org",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "chefnelsongerman.com",
             "destination": "Bluehost",
             "date": "2025-08-16 16:55:49"
-        },
-        {
-            "domain_name": "saaforchange.org",
-            "destination": "Pressable",
-            "date": "2025-08-16 16:22:02"
-        },
-        {
-            "domain_name": "bergoliver.com",
-            "destination": "Hostinger",
-            "date": "2025-08-16 16:09:41"
-        },
-        {
-            "domain_name": "rideauresidence.ca",
-            "destination": "SiteGround",
-            "date": "2025-08-16 16:00:01"
         }
     ],
     "dailyMovedStat": {
@@ -838,9 +838,9 @@
         "2025-08-19": "87827"
     },
     "topDestinationHosts": {
-        "Pressable": 10828,
+        "Pressable": 10830,
         "Kinsta": 5720,
-        "SiteGround": 4725,
+        "SiteGround": 4726,
         "Digital Ocean": 4690,
         "Bluehost": 4126,
         "Hostinger": 3249,
