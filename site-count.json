@@ -1,6 +1,11 @@
 {
-    "siteCount": 88077,
+    "siteCount": 88081,
     "recentlyMoved": [
+        {
+            "domain_name": "yansourcing.com",
+            "destination": "Hostinger",
+            "date": "2025-08-21 02:11:23"
+        },
         {
             "domain_name": "www.advantagegold.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "cathedralconcerts.org",
             "destination": "Pressable",
             "date": "2025-08-19 12:47:20"
-        },
-        {
-            "domain_name": "homelessnesslearninghub.ca",
-            "destination": "SiteGround",
-            "date": "2025-08-19 12:20:57"
         }
     ],
     "dailyMovedStat": {
@@ -844,7 +844,7 @@
         "SiteGround": 4748,
         "Digital Ocean": 4700,
         "Bluehost": 4127,
-        "Hostinger": 3257,
+        "Hostinger": 3258,
         "GoDaddy": 1284,
         "BigScoots": 611,
         "Liquid Web": 605,
