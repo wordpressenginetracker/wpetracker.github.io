@@ -1,6 +1,11 @@
 {
-    "siteCount": 88206,
+    "siteCount": 88220,
     "recentlyMoved": [
+        {
+            "domain_name": "coalicionsumar.es",
+            "destination": "Pressable",
+            "date": "2025-08-21 17:11:17"
+        },
         {
             "domain_name": "healthyhomesclean.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "mhasei.org",
             "destination": "Hostinger",
             "date": "2025-08-20 01:53:11"
-        },
-        {
-            "domain_name": "www.spiritsoxusa.com",
-            "destination": "Kinsta",
-            "date": "2025-08-20 01:11:57"
         }
     ],
     "dailyMovedStat": {
@@ -842,7 +842,7 @@
         "Pressable": 10834,
         "Kinsta": 5739,
         "SiteGround": 4756,
-        "Digital Ocean": 4705,
+        "Digital Ocean": 4706,
         "Bluehost": 4128,
         "Hostinger": 3265,
         "GoDaddy": 1284,
