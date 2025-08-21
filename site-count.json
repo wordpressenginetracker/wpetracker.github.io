@@ -1,6 +1,11 @@
 {
-    "siteCount": 88298,
+    "siteCount": 88299,
     "recentlyMoved": [
+        {
+            "domain_name": "newkirkenv.com",
+            "destination": "SiteGround",
+            "date": "2025-08-21 22:03:39"
+        },
         {
             "domain_name": "taller.abogadasmx.org.mx",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "thememphis100.com",
             "destination": "SiteGround",
             "date": "2025-08-20 09:15:31"
-        },
-        {
-            "domain_name": "thekentucky100.com",
-            "destination": "SiteGround",
-            "date": "2025-08-20 09:12:41"
         }
     ],
     "dailyMovedStat": {
@@ -836,12 +836,13 @@
         "2025-08-17": "87543",
         "2025-08-18": "87634",
         "2025-08-19": "87827",
-        "2025-08-20": "88068"
+        "2025-08-20": "88068",
+        "2025-08-21": "88299"
     },
     "topDestinationHosts": {
         "Pressable": 10836,
         "Kinsta": 5740,
-        "SiteGround": 4757,
+        "SiteGround": 4758,
         "Digital Ocean": 4709,
         "Bluehost": 4128,
         "Hostinger": 3268,
@@ -1194,6 +1195,7 @@
         "2025-08-17": "591925",
         "2025-08-18": "591575",
         "2025-08-19": "590690",
-        "2025-08-20": "589833"
+        "2025-08-20": "589833",
+        "2025-08-21": "588611"
     }
 }
