@@ -1,6 +1,31 @@
 {
-    "siteCount": 88364,
+    "siteCount": 88383,
     "recentlyMoved": [
+        {
+            "domain_name": "ezcape.ca",
+            "destination": "GoDaddy",
+            "date": "2025-08-22 10:38:14"
+        },
+        {
+            "domain_name": "mtys.org",
+            "destination": "WordPress.com",
+            "date": "2025-08-22 10:01:42"
+        },
+        {
+            "domain_name": "movimientosumar.es",
+            "destination": "Pressable",
+            "date": "2025-08-22 09:51:36"
+        },
+        {
+            "domain_name": "sumarmugimendua.eus",
+            "destination": "Pressable",
+            "date": "2025-08-22 09:48:22"
+        },
+        {
+            "domain_name": "sykkellykke.com",
+            "destination": "Kinsta",
+            "date": "2025-08-22 09:19:08"
+        },
         {
             "domain_name": "store.taguenutrition.com",
             "destination": "GridPane",
@@ -475,31 +500,6 @@
             "domain_name": "teamsheeper.com",
             "destination": "DreamHost",
             "date": "2025-08-20 13:46:30"
-        },
-        {
-            "domain_name": "chinaforum.org",
-            "destination": "SiteGround",
-            "date": "2025-08-20 13:34:02"
-        },
-        {
-            "domain_name": "connectedmobilesolutions.com",
-            "destination": "Kinsta",
-            "date": "2025-08-20 13:09:17"
-        },
-        {
-            "domain_name": "builderskitchens.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-20 12:56:14"
-        },
-        {
-            "domain_name": "celestialroofing.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-08-20 12:31:45"
-        },
-        {
-            "domain_name": "canadasgiftbaskets.ca",
-            "destination": "SiteGround",
-            "date": "2025-08-20 12:25:43"
         }
     ],
     "dailyMovedStat": {
@@ -840,18 +840,18 @@
         "2025-08-21": "88299"
     },
     "topDestinationHosts": {
-        "Pressable": 10836,
-        "Kinsta": 5741,
+        "Pressable": 10838,
+        "Kinsta": 5742,
         "SiteGround": 4760,
         "Digital Ocean": 4710,
         "Bluehost": 4128,
         "Hostinger": 3270,
-        "GoDaddy": 1285,
+        "GoDaddy": 1286,
         "Liquid Web": 614,
         "BigScoots": 612,
-        "WordPress.com": 428,
+        "WordPress.com": 429,
         "InMotion Hosting": 401,
-        "GridPane": 374,
+        "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 346,
         "IONOS": 322,
