@@ -1,6 +1,26 @@
 {
-    "siteCount": 88441,
+    "siteCount": 88458,
     "recentlyMoved": [
+        {
+            "domain_name": "leadandsteel.co",
+            "destination": "Kinsta",
+            "date": "2025-08-22 17:40:30"
+        },
+        {
+            "domain_name": "sophieslade.com",
+            "destination": "Namecheap",
+            "date": "2025-08-22 17:24:26"
+        },
+        {
+            "domain_name": "kelsnicole.com",
+            "destination": "WordPress.com",
+            "date": "2025-08-22 16:56:13"
+        },
+        {
+            "domain_name": "www.imaxcredit.com",
+            "destination": "Kinsta",
+            "date": "2025-08-22 16:21:12"
+        },
         {
             "domain_name": "purple-penguin.com",
             "destination": "WordPress.com",
@@ -10,6 +30,11 @@
             "domain_name": "www.salvadordali.com",
             "destination": "GoDaddy",
             "date": "2025-08-22 16:12:28"
+        },
+        {
+            "domain_name": "roxpawanimal.com",
+            "destination": "Hostinger",
+            "date": "2025-08-22 16:09:27"
         },
         {
             "domain_name": "austintrophywhitetails.com",
@@ -467,11 +492,6 @@
             "date": "2025-08-20 18:17:12"
         },
         {
-            "domain_name": "danwaypropertysolutions.com",
-            "destination": "GridPane",
-            "date": "2025-08-20 18:06:04"
-        },
-        {
             "domain_name": "drbarrettvet.com",
             "destination": "SiteGround",
             "date": "2025-08-20 18:05:35"
@@ -480,26 +500,6 @@
             "domain_name": "truesightsoftware.com",
             "destination": "Kinsta",
             "date": "2025-08-20 18:04:33"
-        },
-        {
-            "domain_name": "crystalballfinds.com",
-            "destination": "Hostinger",
-            "date": "2025-08-20 17:34:08"
-        },
-        {
-            "domain_name": "www.kambakuriverlodge.co.za",
-            "destination": "Hetzner Online",
-            "date": "2025-08-20 17:16:05"
-        },
-        {
-            "domain_name": "safiremerch.com",
-            "destination": "Kinsta",
-            "date": "2025-08-20 17:07:35"
-        },
-        {
-            "domain_name": "www.mmegroupinc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-20 16:31:17"
         }
     ],
     "dailyMovedStat": {
@@ -841,22 +841,22 @@
     },
     "topDestinationHosts": {
         "Pressable": 10839,
-        "Kinsta": 5746,
+        "Kinsta": 5747,
         "SiteGround": 4763,
         "Digital Ocean": 4712,
         "Bluehost": 4128,
-        "Hostinger": 3270,
+        "Hostinger": 3271,
         "GoDaddy": 1287,
         "Liquid Web": 615,
         "BigScoots": 612,
-        "WordPress.com": 431,
+        "WordPress.com": 432,
         "InMotion Hosting": 401,
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 346,
         "IONOS": 322,
         "Elementor Hosting": 313,
-        "Namecheap": 310,
+        "Namecheap": 311,
         "DreamHost": 307,
         "Hetzner Online": 255,
         "HostGator": 202
