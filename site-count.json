@@ -1,6 +1,11 @@
 {
-    "siteCount": 88319,
+    "siteCount": 88323,
     "recentlyMoved": [
+        {
+            "domain_name": "compassionrecoverycenters.com",
+            "destination": "SiteGround",
+            "date": "2025-08-22 01:34:29"
+        },
         {
             "domain_name": "www.eringibson.co",
             "destination": "Namecheap",
@@ -492,11 +497,6 @@
             "date": "2025-08-20 11:56:43"
         },
         {
-            "domain_name": "www.saltzplasticsurgery.com",
-            "destination": "Kinsta",
-            "date": "2025-08-20 09:52:28"
-        },
-        {
             "domain_name": "moderndentistryofauburn.com",
             "destination": "SiteGround",
             "date": "2025-08-20 09:46:03"
@@ -842,7 +842,7 @@
     "topDestinationHosts": {
         "Pressable": 10836,
         "Kinsta": 5740,
-        "SiteGround": 4758,
+        "SiteGround": 4759,
         "Digital Ocean": 4710,
         "Bluehost": 4128,
         "Hostinger": 3268,
