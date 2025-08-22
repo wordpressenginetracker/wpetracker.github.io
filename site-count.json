@@ -1,6 +1,11 @@
 {
-    "siteCount": 88533,
+    "siteCount": 88544,
     "recentlyMoved": [
+        {
+            "domain_name": "thecampjansen.com",
+            "destination": "SiteGround",
+            "date": "2025-08-22 21:17:01"
+        },
         {
             "domain_name": "virtuassist.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.advantagegold.com",
             "destination": "SiteGround",
             "date": "2025-08-21 00:17:04"
-        },
-        {
-            "domain_name": "jetsetvenue.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-20 20:50:44"
         }
     ],
     "dailyMovedStat": {
@@ -842,7 +842,7 @@
     "topDestinationHosts": {
         "Pressable": 10839,
         "Kinsta": 5749,
-        "SiteGround": 4765,
+        "SiteGround": 4766,
         "Digital Ocean": 4715,
         "Bluehost": 4128,
         "Hostinger": 3271,
