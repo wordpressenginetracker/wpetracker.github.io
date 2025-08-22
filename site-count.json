@@ -1,6 +1,11 @@
 {
-    "siteCount": 88469,
+    "siteCount": 88470,
     "recentlyMoved": [
+        {
+            "domain_name": "virtuassist.com",
+            "destination": "IONOS",
+            "date": "2025-08-22 18:29:36"
+        },
         {
             "domain_name": "boisdarc.info",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "jetsetvenue.com",
             "destination": "GoDaddy",
             "date": "2025-08-20 20:50:44"
-        },
-        {
-            "domain_name": "ballislife.com",
-            "destination": "Kinsta",
-            "date": "2025-08-20 20:40:10"
         }
     ],
     "dailyMovedStat": {
@@ -842,7 +842,7 @@
     "topDestinationHosts": {
         "Pressable": 10839,
         "Kinsta": 5749,
-        "SiteGround": 4764,
+        "SiteGround": 4765,
         "Digital Ocean": 4714,
         "Bluehost": 4128,
         "Hostinger": 3271,
@@ -854,7 +854,7 @@
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 346,
-        "IONOS": 322,
+        "IONOS": 323,
         "Elementor Hosting": 313,
         "Namecheap": 311,
         "DreamHost": 307,
