@@ -1,6 +1,16 @@
 {
-    "siteCount": 88544,
+    "siteCount": 88550,
     "recentlyMoved": [
+        {
+            "domain_name": "relentlesschurch.cc",
+            "destination": "Hostinger",
+            "date": "2025-08-23 00:46:52"
+        },
+        {
+            "domain_name": "geoffogilvyfoundation.org",
+            "destination": "SiteGround",
+            "date": "2025-08-22 23:50:15"
+        },
         {
             "domain_name": "thecampjansen.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "cheironenergy.com",
             "destination": "Digital Ocean",
             "date": "2025-08-21 04:37:43"
-        },
-        {
-            "domain_name": "yansourcing.com",
-            "destination": "Hostinger",
-            "date": "2025-08-21 02:11:23"
-        },
-        {
-            "domain_name": "www.advantagegold.com",
-            "destination": "SiteGround",
-            "date": "2025-08-21 00:17:04"
         }
     ],
     "dailyMovedStat": {
@@ -841,9 +841,9 @@
         "2025-08-22": "88544"
     },
     "topDestinationHosts": {
-        "Pressable": 10839,
+        "Pressable": 10840,
         "Kinsta": 5749,
-        "SiteGround": 4766,
+        "SiteGround": 4767,
         "Digital Ocean": 4715,
         "Bluehost": 4128,
         "Hostinger": 3271,
