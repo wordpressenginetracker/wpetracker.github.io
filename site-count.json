@@ -1,6 +1,21 @@
 {
-    "siteCount": 88602,
+    "siteCount": 88607,
     "recentlyMoved": [
+        {
+            "domain_name": "nomikidsfoundation.org",
+            "destination": "Namecheap",
+            "date": "2025-08-23 10:34:12"
+        },
+        {
+            "domain_name": "mskeng.com",
+            "destination": "Pressable",
+            "date": "2025-08-23 10:24:49"
+        },
+        {
+            "domain_name": "tokiofans.com.au",
+            "destination": "Hostinger",
+            "date": "2025-08-23 09:50:22"
+        },
         {
             "domain_name": "synapseconsortium.com",
             "destination": "Digital Ocean",
@@ -467,11 +482,6 @@
             "date": "2025-08-21 12:08:20"
         },
         {
-            "domain_name": "fernwoodmovementacademy.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-21 12:00:52"
-        },
-        {
             "domain_name": "fithouse818.com",
             "destination": "Liquid Web",
             "date": "2025-08-21 11:55:44"
@@ -490,16 +500,6 @@
             "domain_name": "waynereleaf.com",
             "destination": "Kinsta",
             "date": "2025-08-21 11:11:59"
-        },
-        {
-            "domain_name": "visagecollaborative.com",
-            "destination": "Hostinger",
-            "date": "2025-08-21 10:44:57"
-        },
-        {
-            "domain_name": "vtfc.shop",
-            "destination": "Kinsta",
-            "date": "2025-08-21 10:19:03"
         }
     ],
     "dailyMovedStat": {
@@ -841,12 +841,12 @@
         "2025-08-22": "88544"
     },
     "topDestinationHosts": {
-        "Pressable": 10842,
+        "Pressable": 10843,
         "Kinsta": 5750,
         "SiteGround": 4770,
-        "Digital Ocean": 4715,
+        "Digital Ocean": 4716,
         "Bluehost": 4128,
-        "Hostinger": 3274,
+        "Hostinger": 3275,
         "GoDaddy": 1287,
         "Liquid Web": 617,
         "BigScoots": 612,
@@ -857,7 +857,7 @@
         "OVH": 347,
         "IONOS": 325,
         "Elementor Hosting": 313,
-        "Namecheap": 311,
+        "Namecheap": 312,
         "DreamHost": 308,
         "Hetzner Online": 255,
         "HostGator": 202
