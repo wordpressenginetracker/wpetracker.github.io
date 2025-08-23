@@ -1,6 +1,16 @@
 {
-    "siteCount": 88596,
+    "siteCount": 88602,
     "recentlyMoved": [
+        {
+            "domain_name": "synapseconsortium.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-23 09:43:30"
+        },
+        {
+            "domain_name": "irvingphotographydenver.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 08:53:34"
+        },
         {
             "domain_name": "ambishomehealth.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "vtfc.shop",
             "destination": "Kinsta",
             "date": "2025-08-21 10:19:03"
-        },
-        {
-            "domain_name": "elitehearingofcoloradosprings.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-21 10:13:38"
-        },
-        {
-            "domain_name": "modern-pixel.com",
-            "destination": "Kinsta",
-            "date": "2025-08-21 10:13:02"
         }
     ],
     "dailyMovedStat": {
@@ -843,7 +843,7 @@
     "topDestinationHosts": {
         "Pressable": 10842,
         "Kinsta": 5750,
-        "SiteGround": 4769,
+        "SiteGround": 4770,
         "Digital Ocean": 4715,
         "Bluehost": 4128,
         "Hostinger": 3274,
