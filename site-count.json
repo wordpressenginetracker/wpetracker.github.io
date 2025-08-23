@@ -1,6 +1,41 @@
 {
-    "siteCount": 88619,
+    "siteCount": 88633,
     "recentlyMoved": [
+        {
+            "domain_name": "somosalbizu.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 13:30:51"
+        },
+        {
+            "domain_name": "ksutherlandpr.com",
+            "destination": "Pressable",
+            "date": "2025-08-23 12:39:52"
+        },
+        {
+            "domain_name": "jrgandsonsconstruction.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 12:37:25"
+        },
+        {
+            "domain_name": "www.lifetimeassistance.org",
+            "destination": "Pressable",
+            "date": "2025-08-23 12:34:12"
+        },
+        {
+            "domain_name": "saxum.com",
+            "destination": "Kinsta",
+            "date": "2025-08-23 12:27:57"
+        },
+        {
+            "domain_name": "karenolasunshine.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 12:27:06"
+        },
+        {
+            "domain_name": "www.ladarling.com",
+            "destination": "Kinsta",
+            "date": "2025-08-23 12:23:51"
+        },
         {
             "domain_name": "genesissf.com",
             "destination": "Liquid Web",
@@ -465,41 +500,6 @@
             "domain_name": "manyaswick.com",
             "destination": "SiteGround",
             "date": "2025-08-21 13:20:03"
-        },
-        {
-            "domain_name": "lightguys.net",
-            "destination": "Hostinger",
-            "date": "2025-08-21 13:17:48"
-        },
-        {
-            "domain_name": "journeystory.org",
-            "destination": "Hostinger",
-            "date": "2025-08-21 13:09:09"
-        },
-        {
-            "domain_name": "byttorp.shop",
-            "destination": "Kinsta",
-            "date": "2025-08-21 12:44:18"
-        },
-        {
-            "domain_name": "johannrealestate.com",
-            "destination": "DreamHost",
-            "date": "2025-08-21 12:31:31"
-        },
-        {
-            "domain_name": "rampart-safety.com",
-            "destination": "Pressable",
-            "date": "2025-08-21 12:31:24"
-        },
-        {
-            "domain_name": "www.fwc.net",
-            "destination": "Pressable",
-            "date": "2025-08-21 12:23:11"
-        },
-        {
-            "domain_name": "help.leadsquared.com",
-            "destination": "Kinsta",
-            "date": "2025-08-21 12:12:47"
         }
     ],
     "dailyMovedStat": {
@@ -841,9 +841,9 @@
         "2025-08-22": "88544"
     },
     "topDestinationHosts": {
-        "Pressable": 10844,
-        "Kinsta": 5750,
-        "SiteGround": 4770,
+        "Pressable": 10846,
+        "Kinsta": 5752,
+        "SiteGround": 4773,
         "Digital Ocean": 4718,
         "Bluehost": 4128,
         "Hostinger": 3275,
@@ -855,7 +855,7 @@
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 347,
-        "IONOS": 325,
+        "IONOS": 326,
         "Elementor Hosting": 313,
         "Namecheap": 312,
         "DreamHost": 308,
