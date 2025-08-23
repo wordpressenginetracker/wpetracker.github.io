@@ -1,6 +1,36 @@
 {
-    "siteCount": 88655,
+    "siteCount": 88666,
     "recentlyMoved": [
+        {
+            "domain_name": "stratissecurity.com",
+            "destination": "IONOS",
+            "date": "2025-08-23 17:02:04"
+        },
+        {
+            "domain_name": "www.libertyendoscopy.com",
+            "destination": "Kinsta",
+            "date": "2025-08-23 16:49:37"
+        },
+        {
+            "domain_name": "jacobroig.com",
+            "destination": "Namecheap",
+            "date": "2025-08-23 16:45:41"
+        },
+        {
+            "domain_name": "rliservices.com",
+            "destination": "Kinsta",
+            "date": "2025-08-23 16:39:58"
+        },
+        {
+            "domain_name": "kristiscafe.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 16:39:52"
+        },
+        {
+            "domain_name": "jrcroof.com",
+            "destination": "HostGator",
+            "date": "2025-08-23 16:25:07"
+        },
         {
             "domain_name": "prodigymontessori.com",
             "destination": "SiteGround",
@@ -470,36 +500,6 @@
             "domain_name": "greenrenewableinc.com",
             "destination": "Digital Ocean",
             "date": "2025-08-21 16:28:00"
-        },
-        {
-            "domain_name": "anthemmanagement.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-08-21 16:08:08"
-        },
-        {
-            "domain_name": "flexfitclub.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-21 16:04:38"
-        },
-        {
-            "domain_name": "orthosportoc.com",
-            "destination": "SiteGround",
-            "date": "2025-08-21 16:02:57"
-        },
-        {
-            "domain_name": "friendsofdentonprc.org",
-            "destination": "Liquid Web",
-            "date": "2025-08-21 15:55:03"
-        },
-        {
-            "domain_name": "foreverdiamondservice.com",
-            "destination": "Hostinger",
-            "date": "2025-08-21 15:43:51"
-        },
-        {
-            "domain_name": "fortifyfit.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-21 15:33:24"
         }
     ],
     "dailyMovedStat": {
@@ -842,8 +842,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10846,
-        "Kinsta": 5754,
-        "SiteGround": 4775,
+        "Kinsta": 5756,
+        "SiteGround": 4776,
         "Digital Ocean": 4720,
         "Bluehost": 4128,
         "Hostinger": 3275,
@@ -855,12 +855,12 @@
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 347,
-        "IONOS": 326,
+        "IONOS": 327,
+        "Namecheap": 313,
         "Elementor Hosting": 313,
-        "Namecheap": 312,
         "DreamHost": 308,
         "Hetzner Online": 255,
-        "HostGator": 202
+        "HostGator": 203
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
