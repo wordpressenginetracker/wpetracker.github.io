@@ -1,6 +1,11 @@
 {
-    "siteCount": 88719,
+    "siteCount": 88720,
     "recentlyMoved": [
+        {
+            "domain_name": "easymovement.com",
+            "destination": "SiteGround",
+            "date": "2025-08-23 21:31:26"
+        },
         {
             "domain_name": "cleanone.net",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "vitalmedicine.com",
             "destination": "Hostinger",
             "date": "2025-08-21 18:03:43"
-        },
-        {
-            "domain_name": "trade-made.co.uk",
-            "destination": "A2 Hosting",
-            "date": "2025-08-21 17:53:50"
         }
     ],
     "dailyMovedStat": {
@@ -843,7 +843,7 @@
     "topDestinationHosts": {
         "Pressable": 10847,
         "Kinsta": 5759,
-        "SiteGround": 4778,
+        "SiteGround": 4779,
         "Digital Ocean": 4723,
         "Bluehost": 4128,
         "Hostinger": 3275,
