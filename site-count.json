@@ -1,6 +1,16 @@
 {
-    "siteCount": 88557,
+    "siteCount": 88564,
     "recentlyMoved": [
+        {
+            "domain_name": "newbusinessfiling.org",
+            "destination": "IONOS",
+            "date": "2025-08-23 02:12:49"
+        },
+        {
+            "domain_name": "crossingfellowship.org",
+            "destination": "SiteGround",
+            "date": "2025-08-23 01:09:29"
+        },
         {
             "domain_name": "relentlesschurch.cc",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "evergreenplumbingri.com",
             "destination": "Bluehost",
             "date": "2025-08-21 06:34:10"
-        },
-        {
-            "domain_name": "materiataller.com",
-            "destination": "Hostinger",
-            "date": "2025-08-21 05:52:19"
-        },
-        {
-            "domain_name": "unibrands.se",
-            "destination": "Kinsta",
-            "date": "2025-08-21 05:33:52"
         }
     ],
     "dailyMovedStat": {
@@ -843,7 +843,7 @@
     "topDestinationHosts": {
         "Pressable": 10840,
         "Kinsta": 5749,
-        "SiteGround": 4768,
+        "SiteGround": 4769,
         "Digital Ocean": 4715,
         "Bluehost": 4128,
         "Hostinger": 3272,
@@ -855,7 +855,7 @@
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 347,
-        "IONOS": 323,
+        "IONOS": 324,
         "Elementor Hosting": 313,
         "Namecheap": 311,
         "DreamHost": 308,
