@@ -1,6 +1,16 @@
 {
-    "siteCount": 88753,
+    "siteCount": 88760,
     "recentlyMoved": [
+        {
+            "domain_name": "www.debrineassociates.com",
+            "destination": "Pressable",
+            "date": "2025-08-24 12:23:59"
+        },
+        {
+            "domain_name": "www.ambassador-security.com",
+            "destination": "Pressable",
+            "date": "2025-08-24 12:23:05"
+        },
         {
             "domain_name": "shantilandon.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "newkirkenv.com",
             "destination": "SiteGround",
             "date": "2025-08-21 22:03:39"
-        },
-        {
-            "domain_name": "taller.abogadasmx.org.mx",
-            "destination": "Hostinger",
-            "date": "2025-08-21 21:08:53"
-        },
-        {
-            "domain_name": "www.fortvein.com",
-            "destination": "Kinsta",
-            "date": "2025-08-21 20:49:59"
         }
     ],
     "dailyMovedStat": {
@@ -842,7 +842,7 @@
         "2025-08-23": "88720"
     },
     "topDestinationHosts": {
-        "Pressable": 10848,
+        "Pressable": 10850,
         "Kinsta": 5759,
         "SiteGround": 4779,
         "Digital Ocean": 4724,
