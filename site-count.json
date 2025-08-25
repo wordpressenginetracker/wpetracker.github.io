@@ -1,6 +1,11 @@
 {
-    "siteCount": 88865,
+    "siteCount": 88871,
     "recentlyMoved": [
+        {
+            "domain_name": "www.outdoorfirepits.com.au",
+            "destination": "Kinsta",
+            "date": "2025-08-25 12:48:03"
+        },
         {
             "domain_name": "firstdesignstud.io",
             "destination": "WordPress.com",
@@ -492,11 +497,6 @@
             "date": "2025-08-22 09:51:36"
         },
         {
-            "domain_name": "sumarmugimendua.eus",
-            "destination": "Pressable",
-            "date": "2025-08-22 09:48:22"
-        },
-        {
             "domain_name": "sykkellykke.com",
             "destination": "Kinsta",
             "date": "2025-08-22 09:19:08"
@@ -844,7 +844,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10850,
-        "Kinsta": 5760,
+        "Kinsta": 5761,
         "SiteGround": 4783,
         "Digital Ocean": 4724,
         "Bluehost": 4130,
