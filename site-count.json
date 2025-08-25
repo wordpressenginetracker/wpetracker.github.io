@@ -1,6 +1,11 @@
 {
-    "siteCount": 88874,
+    "siteCount": 88875,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bushptaspiritwear.com",
+            "destination": "IONOS",
+            "date": "2025-08-25 16:12:00"
+        },
         {
             "domain_name": "elitemultimedia.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "ezcape.ca",
             "destination": "GoDaddy",
             "date": "2025-08-22 10:38:14"
-        },
-        {
-            "domain_name": "mtys.org",
-            "destination": "WordPress.com",
-            "date": "2025-08-22 10:01:42"
         }
     ],
     "dailyMovedStat": {
@@ -857,7 +857,7 @@
         "GridPane": 375,
         "A2 Hosting": 353,
         "OVH": 349,
-        "IONOS": 329,
+        "IONOS": 330,
         "Namecheap": 314,
         "Elementor Hosting": 313,
         "DreamHost": 308,
