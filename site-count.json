@@ -1,6 +1,11 @@
 {
-    "siteCount": 88840,
+    "siteCount": 88842,
     "recentlyMoved": [
+        {
+            "domain_name": "soundssummermusical.org",
+            "destination": "SiteGround",
+            "date": "2025-08-25 05:23:25"
+        },
         {
             "domain_name": "dementiaclubuk.org.uk",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "ebtcardbalancenow.com",
             "destination": "Hostinger",
             "date": "2025-08-22 05:30:55"
-        },
-        {
-            "domain_name": "sweetsherrypie.com",
-            "destination": "BigScoots",
-            "date": "2025-08-22 05:13:02"
         }
     ],
     "dailyMovedStat": {
@@ -845,7 +845,7 @@
     "topDestinationHosts": {
         "Pressable": 10850,
         "Kinsta": 5760,
-        "SiteGround": 4781,
+        "SiteGround": 4782,
         "Digital Ocean": 4724,
         "Bluehost": 4130,
         "Hostinger": 3277,
