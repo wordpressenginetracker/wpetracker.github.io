@@ -1,6 +1,11 @@
 {
-    "siteCount": 88818,
+    "siteCount": 88823,
     "recentlyMoved": [
+        {
+            "domain_name": "resumeinventor.com",
+            "destination": "OVH",
+            "date": "2025-08-25 00:20:01"
+        },
         {
             "domain_name": "www.siegelandcoonerty.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "sweetsherrypie.com",
             "destination": "BigScoots",
             "date": "2025-08-22 05:13:02"
-        },
-        {
-            "domain_name": "www.activeindustriesservices.com.au",
-            "destination": "A2 Hosting",
-            "date": "2025-08-22 03:32:14"
         }
     ],
     "dailyMovedStat": {
@@ -856,7 +856,7 @@
         "InMotion Hosting": 402,
         "GridPane": 375,
         "A2 Hosting": 353,
-        "OVH": 348,
+        "OVH": 349,
         "IONOS": 328,
         "Elementor Hosting": 313,
         "Namecheap": 313,
