@@ -1,6 +1,11 @@
 {
-    "siteCount": 88857,
+    "siteCount": 88860,
     "recentlyMoved": [
+        {
+            "domain_name": "mantecasoccer.org",
+            "destination": "SiteGround",
+            "date": "2025-08-25 09:11:38"
+        },
         {
             "domain_name": "ibccases.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "khk.law",
             "destination": "SiteGround",
             "date": "2025-08-22 08:51:16"
-        },
-        {
-            "domain_name": "mystaff.ph",
-            "destination": "Hostinger",
-            "date": "2025-08-22 05:57:19"
         }
     ],
     "dailyMovedStat": {
@@ -845,7 +845,7 @@
     "topDestinationHosts": {
         "Pressable": 10850,
         "Kinsta": 5760,
-        "SiteGround": 4782,
+        "SiteGround": 4783,
         "Digital Ocean": 4724,
         "Bluehost": 4130,
         "Hostinger": 3277,
