@@ -1,6 +1,21 @@
 {
-    "siteCount": 88913,
+    "siteCount": 88921,
     "recentlyMoved": [
+        {
+            "domain_name": "downsouthjunkremoval.com",
+            "destination": "DreamHost",
+            "date": "2025-08-25 22:14:29"
+        },
+        {
+            "domain_name": "thebog.co.nz",
+            "destination": "Kinsta",
+            "date": "2025-08-25 21:52:46"
+        },
+        {
+            "domain_name": "lemonbaymentalwellness.com",
+            "destination": "Hostinger",
+            "date": "2025-08-25 21:19:54"
+        },
         {
             "domain_name": "seewhymedia.co",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "transbaltika.se",
             "destination": "Kinsta",
             "date": "2025-08-22 13:39:31"
-        },
-        {
-            "domain_name": "ladsongarbageco.com",
-            "destination": "Pressable",
-            "date": "2025-08-22 13:00:33"
-        },
-        {
-            "domain_name": "rstuartandco.com",
-            "destination": "SiteGround",
-            "date": "2025-08-22 12:51:55"
-        },
-        {
-            "domain_name": "jenntello.com",
-            "destination": "SiteGround",
-            "date": "2025-08-22 12:15:47"
         }
     ],
     "dailyMovedStat": {
@@ -844,11 +844,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10850,
-        "Kinsta": 5761,
+        "Kinsta": 5762,
         "SiteGround": 4785,
         "Digital Ocean": 4727,
         "Bluehost": 4130,
-        "Hostinger": 3280,
+        "Hostinger": 3281,
         "GoDaddy": 1287,
         "Liquid Web": 620,
         "BigScoots": 612,
@@ -860,7 +860,7 @@
         "IONOS": 330,
         "Namecheap": 314,
         "Elementor Hosting": 313,
-        "DreamHost": 310,
+        "DreamHost": 311,
         "Hetzner Online": 255,
         "HostGator": 203
     },
