@@ -1,6 +1,11 @@
 {
-    "siteCount": 88853,
+    "siteCount": 88857,
     "recentlyMoved": [
+        {
+            "domain_name": "ibccases.com",
+            "destination": "Namecheap",
+            "date": "2025-08-25 08:53:38"
+        },
         {
             "domain_name": "soundssummermusical.org",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "mystaff.ph",
             "destination": "Hostinger",
             "date": "2025-08-22 05:57:19"
-        },
-        {
-            "domain_name": "ebtcardbalancenow.com",
-            "destination": "Hostinger",
-            "date": "2025-08-22 05:30:55"
         }
     ],
     "dailyMovedStat": {
@@ -858,8 +858,8 @@
         "A2 Hosting": 353,
         "OVH": 349,
         "IONOS": 329,
+        "Namecheap": 314,
         "Elementor Hosting": 313,
-        "Namecheap": 313,
         "DreamHost": 308,
         "Hetzner Online": 255,
         "HostGator": 203
