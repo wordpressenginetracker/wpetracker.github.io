@@ -1,6 +1,11 @@
 {
-    "siteCount": 88909,
+    "siteCount": 88913,
     "recentlyMoved": [
+        {
+            "domain_name": "seewhymedia.co",
+            "destination": "Hostinger",
+            "date": "2025-08-25 20:42:28"
+        },
         {
             "domain_name": "infotechsourcing.com",
             "destination": "WordPress.com",
@@ -492,11 +497,6 @@
             "date": "2025-08-22 12:51:55"
         },
         {
-            "domain_name": "rix-mm.com",
-            "destination": "Kinsta",
-            "date": "2025-08-22 12:50:56"
-        },
-        {
             "domain_name": "jenntello.com",
             "destination": "SiteGround",
             "date": "2025-08-22 12:15:47"
@@ -845,22 +845,22 @@
     "topDestinationHosts": {
         "Pressable": 10850,
         "Kinsta": 5761,
-        "SiteGround": 4783,
-        "Digital Ocean": 4725,
+        "SiteGround": 4785,
+        "Digital Ocean": 4727,
         "Bluehost": 4130,
-        "Hostinger": 3278,
+        "Hostinger": 3280,
         "GoDaddy": 1287,
         "Liquid Web": 620,
         "BigScoots": 612,
-        "WordPress.com": 435,
+        "WordPress.com": 436,
         "InMotion Hosting": 402,
         "GridPane": 375,
-        "A2 Hosting": 353,
+        "A2 Hosting": 354,
         "OVH": 349,
         "IONOS": 330,
         "Namecheap": 314,
         "Elementor Hosting": 313,
-        "DreamHost": 308,
+        "DreamHost": 310,
         "Hetzner Online": 255,
         "HostGator": 203
     },
