@@ -1,6 +1,11 @@
 {
-    "siteCount": 88927,
+    "siteCount": 88929,
     "recentlyMoved": [
+        {
+            "domain_name": "historicdental.com",
+            "destination": "Namecheap",
+            "date": "2025-08-26 00:31:05"
+        },
         {
             "domain_name": "goolsbycustoms.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "ghframing.com",
             "destination": "SiteGround",
             "date": "2025-08-22 15:40:33"
-        },
-        {
-            "domain_name": "genesisstrength.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-22 15:32:32"
         }
     ],
     "dailyMovedStat": {
@@ -859,7 +859,7 @@
         "A2 Hosting": 354,
         "OVH": 349,
         "IONOS": 330,
-        "Namecheap": 314,
+        "Namecheap": 315,
         "Elementor Hosting": 313,
         "DreamHost": 311,
         "Hetzner Online": 255,
