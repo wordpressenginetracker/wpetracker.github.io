@@ -1,6 +1,11 @@
 {
-    "siteCount": 88940,
+    "siteCount": 88946,
     "recentlyMoved": [
+        {
+            "domain_name": "klw.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-08-26 04:37:07"
+        },
         {
             "domain_name": "postercabaret.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "www.imaxcredit.com",
             "destination": "Kinsta",
             "date": "2025-08-22 16:21:12"
-        },
-        {
-            "domain_name": "roxpawanimal.com",
-            "destination": "Hostinger",
-            "date": "2025-08-22 16:09:27"
         }
     ],
     "dailyMovedStat": {
@@ -847,7 +847,7 @@
         "Pressable": 10850,
         "Kinsta": 5762,
         "SiteGround": 4785,
-        "Digital Ocean": 4728,
+        "Digital Ocean": 4729,
         "Bluehost": 4130,
         "Hostinger": 3284,
         "GoDaddy": 1287,
