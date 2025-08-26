@@ -1,6 +1,11 @@
 {
-    "siteCount": 89011,
+    "siteCount": 89012,
     "recentlyMoved": [
+        {
+            "domain_name": "walkingwithjoy.com",
+            "destination": "Kinsta",
+            "date": "2025-08-26 14:25:03"
+        },
         {
             "domain_name": "yourhcpoa.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "mskeng.com",
             "destination": "Pressable",
             "date": "2025-08-23 10:24:49"
-        },
-        {
-            "domain_name": "tokiofans.com.au",
-            "destination": "Hostinger",
-            "date": "2025-08-23 09:50:22"
         }
     ],
     "dailyMovedStat": {
@@ -845,7 +845,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10852,
-        "Kinsta": 5770,
+        "Kinsta": 5771,
         "SiteGround": 4786,
         "Digital Ocean": 4730,
         "Bluehost": 4131,
