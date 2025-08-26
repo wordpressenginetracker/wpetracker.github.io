@@ -1,6 +1,11 @@
 {
-    "siteCount": 89086,
+    "siteCount": 89093,
     "recentlyMoved": [
+        {
+            "domain_name": "championspest.com",
+            "destination": "Hostinger",
+            "date": "2025-08-26 21:23:14"
+        },
         {
             "domain_name": "hermosabrewingco.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-08-23 15:44:01"
         },
         {
-            "domain_name": "truah.org",
-            "destination": "Kinsta",
-            "date": "2025-08-23 13:55:55"
-        },
-        {
             "domain_name": "myhpm.com",
             "destination": "Digital Ocean",
             "date": "2025-08-23 13:44:04"
@@ -845,11 +845,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10852,
-        "Kinsta": 5773,
-        "SiteGround": 4793,
+        "Kinsta": 5774,
+        "SiteGround": 4795,
         "Digital Ocean": 4730,
         "Bluehost": 4133,
-        "Hostinger": 3287,
+        "Hostinger": 3288,
         "GoDaddy": 1291,
         "Liquid Web": 622,
         "BigScoots": 612,
