@@ -1,6 +1,31 @@
 {
-    "siteCount": 88987,
+    "siteCount": 88998,
     "recentlyMoved": [
+        {
+            "domain_name": "spacereshape.com",
+            "destination": "Kinsta",
+            "date": "2025-08-26 13:38:13"
+        },
+        {
+            "domain_name": "chesaningfamilydental.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-26 13:34:10"
+        },
+        {
+            "domain_name": "julialewisinteriors.com",
+            "destination": "Kinsta",
+            "date": "2025-08-26 13:20:44"
+        },
+        {
+            "domain_name": "www.explorarhotels.com",
+            "destination": "Kinsta",
+            "date": "2025-08-26 12:32:26"
+        },
+        {
+            "domain_name": "iowa-media.com",
+            "destination": "IONOS",
+            "date": "2025-08-26 12:22:04"
+        },
         {
             "domain_name": "hatchetathletics.com",
             "destination": "Liquid Web",
@@ -472,34 +497,9 @@
             "date": "2025-08-23 08:53:34"
         },
         {
-            "domain_name": "ambishomehealth.com",
-            "destination": "Pressable",
-            "date": "2025-08-23 08:07:10"
-        },
-        {
             "domain_name": "sheridanconcrete.co.uk",
             "destination": "IONOS",
             "date": "2025-08-23 07:57:14"
-        },
-        {
-            "domain_name": "murraydribbuslawyers.com.au",
-            "destination": "Hostinger",
-            "date": "2025-08-23 06:04:08"
-        },
-        {
-            "domain_name": "www.universalpolymer.com",
-            "destination": "Kinsta",
-            "date": "2025-08-23 05:42:40"
-        },
-        {
-            "domain_name": "judgenetting.com",
-            "destination": "Pressable",
-            "date": "2025-08-23 05:08:33"
-        },
-        {
-            "domain_name": "www.orcaroofing.com",
-            "destination": "Hostinger",
-            "date": "2025-08-23 04:56:32"
         }
     ],
     "dailyMovedStat": {
@@ -845,12 +845,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10851,
-        "Kinsta": 5765,
+        "Kinsta": 5769,
         "SiteGround": 4786,
         "Digital Ocean": 4730,
         "Bluehost": 4131,
         "Hostinger": 3287,
-        "GoDaddy": 1288,
+        "GoDaddy": 1289,
         "Liquid Web": 622,
         "BigScoots": 612,
         "WordPress.com": 436,
@@ -858,7 +858,7 @@
         "GridPane": 376,
         "A2 Hosting": 355,
         "OVH": 349,
-        "IONOS": 331,
+        "IONOS": 332,
         "Namecheap": 316,
         "Elementor Hosting": 313,
         "DreamHost": 312,
