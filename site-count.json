@@ -1,6 +1,11 @@
 {
-    "siteCount": 89012,
+    "siteCount": 89020,
     "recentlyMoved": [
+        {
+            "domain_name": "www.huckabyhicks.com",
+            "destination": "SiteGround",
+            "date": "2025-08-26 15:20:42"
+        },
         {
             "domain_name": "walkingwithjoy.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "nomikidsfoundation.org",
             "destination": "Namecheap",
             "date": "2025-08-23 10:34:12"
-        },
-        {
-            "domain_name": "mskeng.com",
-            "destination": "Pressable",
-            "date": "2025-08-23 10:24:49"
         }
     ],
     "dailyMovedStat": {
