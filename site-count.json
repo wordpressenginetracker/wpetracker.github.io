@@ -1,6 +1,11 @@
 {
-    "siteCount": 89128,
+    "siteCount": 89133,
     "recentlyMoved": [
+        {
+            "domain_name": "eiwocanadian.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-27 05:30:44"
+        },
         {
             "domain_name": "compatibleuse.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "myworshiptimes.com",
             "destination": "Pressable",
             "date": "2025-08-23 17:36:54"
-        },
-        {
-            "domain_name": "www.utahorthopaedics.com",
-            "destination": "Kinsta",
-            "date": "2025-08-23 17:12:08"
         }
     ],
     "dailyMovedStat": {
@@ -848,7 +848,7 @@
         "Pressable": 10853,
         "Kinsta": 5776,
         "SiteGround": 4795,
-        "Digital Ocean": 4732,
+        "Digital Ocean": 4733,
         "Bluehost": 4133,
         "Hostinger": 3290,
         "GoDaddy": 1291,
