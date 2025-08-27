@@ -1,6 +1,16 @@
 {
-    "siteCount": 89234,
+    "siteCount": 89237,
     "recentlyMoved": [
+        {
+            "domain_name": "nicolecareyco.com",
+            "destination": "Bluehost",
+            "date": "2025-08-27 18:41:49"
+        },
+        {
+            "domain_name": "vonsheezy.com",
+            "destination": "SiteGround",
+            "date": "2025-08-27 18:21:21"
+        },
         {
             "domain_name": "erikamelsonphotography.com",
             "destination": "BigScoots",
@@ -490,16 +500,6 @@
             "domain_name": "executiveleadersactilec.com",
             "destination": "Namecheap",
             "date": "2025-08-26 02:25:22"
-        },
-        {
-            "domain_name": "u-pack.com",
-            "destination": "A2 Hosting",
-            "date": "2025-08-26 02:13:54"
-        },
-        {
-            "domain_name": "historicdental.com",
-            "destination": "Namecheap",
-            "date": "2025-08-26 00:31:05"
         }
     ],
     "dailyMovedStat": {
@@ -847,9 +847,9 @@
     "topDestinationHosts": {
         "Pressable": 10859,
         "Kinsta": 5787,
-        "SiteGround": 4805,
+        "SiteGround": 4806,
         "Digital Ocean": 4738,
-        "Bluehost": 4134,
+        "Bluehost": 4135,
         "Hostinger": 3291,
         "GoDaddy": 1294,
         "Liquid Web": 622,
