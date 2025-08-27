@@ -1,6 +1,16 @@
 {
-    "siteCount": 89117,
+    "siteCount": 89128,
     "recentlyMoved": [
+        {
+            "domain_name": "compatibleuse.com",
+            "destination": "Hostinger",
+            "date": "2025-08-27 05:13:37"
+        },
+        {
+            "domain_name": "beyondclarity.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-08-27 04:07:12"
+        },
         {
             "domain_name": "floorstore.us",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "www.utahorthopaedics.com",
             "destination": "Kinsta",
             "date": "2025-08-23 17:12:08"
-        },
-        {
-            "domain_name": "stratissecurity.com",
-            "destination": "IONOS",
-            "date": "2025-08-23 17:02:04"
-        },
-        {
-            "domain_name": "kristiscafe.com",
-            "destination": "SiteGround",
-            "date": "2025-08-23 16:39:52"
         }
     ],
     "dailyMovedStat": {
@@ -848,9 +848,9 @@
         "Pressable": 10853,
         "Kinsta": 5776,
         "SiteGround": 4795,
-        "Digital Ocean": 4731,
+        "Digital Ocean": 4732,
         "Bluehost": 4133,
-        "Hostinger": 3289,
+        "Hostinger": 3290,
         "GoDaddy": 1291,
         "Liquid Web": 622,
         "BigScoots": 612,
