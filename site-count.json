@@ -1,10 +1,15 @@
 {
-    "siteCount": 89108,
+    "siteCount": 89110,
     "recentlyMoved": [
         {
             "domain_name": "www.retinawv.com",
             "destination": "Kinsta",
             "date": "2025-08-27 01:30:27"
+        },
+        {
+            "domain_name": "doehrman.com",
+            "destination": "Pressable",
+            "date": "2025-08-27 01:27:58"
         },
         {
             "domain_name": "www.cachicha.com",
@@ -487,11 +492,6 @@
             "date": "2025-08-23 16:49:37"
         },
         {
-            "domain_name": "jacobroig.com",
-            "destination": "Namecheap",
-            "date": "2025-08-23 16:45:41"
-        },
-        {
             "domain_name": "kristiscafe.com",
             "destination": "SiteGround",
             "date": "2025-08-23 16:39:52"
@@ -845,7 +845,7 @@
         "2025-08-26": "89099"
     },
     "topDestinationHosts": {
-        "Pressable": 10852,
+        "Pressable": 10853,
         "Kinsta": 5776,
         "SiteGround": 4795,
         "Digital Ocean": 4731,
