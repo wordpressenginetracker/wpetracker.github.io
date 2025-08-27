@@ -1,6 +1,21 @@
 {
-    "siteCount": 89099,
+    "siteCount": 89103,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cachicha.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-27 00:10:34"
+        },
+        {
+            "domain_name": "aftondentalnc.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-08-26 23:38:23"
+        },
+        {
+            "domain_name": "oceanposse.com",
+            "destination": "Kinsta",
+            "date": "2025-08-26 23:08:26"
+        },
         {
             "domain_name": "championspest.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "jrcroof.com",
             "destination": "HostGator",
             "date": "2025-08-23 16:25:07"
-        },
-        {
-            "domain_name": "prodigymontessori.com",
-            "destination": "SiteGround",
-            "date": "2025-08-23 15:46:15"
-        },
-        {
-            "domain_name": "absavtn.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-23 15:44:01"
-        },
-        {
-            "domain_name": "myhpm.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-23 13:44:04"
         }
     ],
     "dailyMovedStat": {
@@ -846,16 +846,16 @@
     },
     "topDestinationHosts": {
         "Pressable": 10852,
-        "Kinsta": 5774,
+        "Kinsta": 5775,
         "SiteGround": 4795,
-        "Digital Ocean": 4730,
+        "Digital Ocean": 4731,
         "Bluehost": 4133,
         "Hostinger": 3288,
         "GoDaddy": 1291,
         "Liquid Web": 622,
         "BigScoots": 612,
         "WordPress.com": 437,
-        "InMotion Hosting": 403,
+        "InMotion Hosting": 404,
         "GridPane": 376,
         "A2 Hosting": 355,
         "OVH": 351,
