@@ -1,6 +1,16 @@
 {
-    "siteCount": 89335,
+    "siteCount": 89343,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mossackfonseca.com",
+            "destination": "Kinsta",
+            "date": "2025-08-28 04:49:25"
+        },
+        {
+            "domain_name": "simscountertops.com",
+            "destination": "SiteGround",
+            "date": "2025-08-28 04:41:17"
+        },
         {
             "domain_name": "www.arcsurveyors.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "julialewisinteriors.com",
             "destination": "Kinsta",
             "date": "2025-08-26 13:20:44"
-        },
-        {
-            "domain_name": "www.explorarhotels.com",
-            "destination": "Kinsta",
-            "date": "2025-08-26 12:32:26"
-        },
-        {
-            "domain_name": "iowa-media.com",
-            "destination": "IONOS",
-            "date": "2025-08-26 12:22:04"
         }
     ],
     "dailyMovedStat": {
@@ -847,8 +847,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10865,
-        "Kinsta": 5788,
-        "SiteGround": 4814,
+        "Kinsta": 5789,
+        "SiteGround": 4815,
         "Digital Ocean": 4739,
         "Bluehost": 4135,
         "Hostinger": 3292,
