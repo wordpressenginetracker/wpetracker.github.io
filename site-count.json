@@ -1,6 +1,21 @@
 {
-    "siteCount": 89352,
+    "siteCount": 89370,
     "recentlyMoved": [
+        {
+            "domain_name": "www.currencyindex.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-08-28 08:14:54"
+        },
+        {
+            "domain_name": "genesisimaging.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-08-28 08:07:28"
+        },
+        {
+            "domain_name": "whitetoothdental.ca",
+            "destination": "Hostinger",
+            "date": "2025-08-28 07:13:42"
+        },
         {
             "domain_name": "ubaptistchurch.ca",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "crnatogether.com",
             "destination": "Pressable",
             "date": "2025-08-26 13:54:11"
-        },
-        {
-            "domain_name": "spacereshape.com",
-            "destination": "Kinsta",
-            "date": "2025-08-26 13:38:13"
-        },
-        {
-            "domain_name": "www.sfpublicpress.org",
-            "destination": "WordPress.com",
-            "date": "2025-08-26 13:35:03"
-        },
-        {
-            "domain_name": "chesaningfamilydental.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-26 13:34:10"
         }
     ],
     "dailyMovedStat": {
@@ -847,11 +847,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10865,
-        "Kinsta": 5789,
-        "SiteGround": 4816,
+        "Kinsta": 5790,
+        "SiteGround": 4817,
         "Digital Ocean": 4739,
         "Bluehost": 4135,
-        "Hostinger": 3292,
+        "Hostinger": 3293,
         "GoDaddy": 1296,
         "Liquid Web": 622,
         "BigScoots": 614,
