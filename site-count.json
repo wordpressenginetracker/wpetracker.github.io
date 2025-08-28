@@ -1,6 +1,11 @@
 {
-    "siteCount": 89295,
+    "siteCount": 89300,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ajcstraining.com",
+            "destination": "DreamHost",
+            "date": "2025-08-27 23:46:38"
+        },
         {
             "domain_name": "therumpus.net",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "ambulatorysurgerywestchester.com",
             "destination": "Kinsta",
             "date": "2025-08-26 11:34:57"
-        },
-        {
-            "domain_name": "www.emdenlaw.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-26 11:14:18"
         }
     ],
     "dailyMovedStat": {
@@ -862,7 +862,7 @@
         "OVH": 352,
         "IONOS": 332,
         "Namecheap": 316,
-        "DreamHost": 313,
+        "DreamHost": 314,
         "Elementor Hosting": 313,
         "Hetzner Online": 255,
         "HostGator": 205
