@@ -1,6 +1,11 @@
 {
-    "siteCount": 89343,
+    "siteCount": 89352,
     "recentlyMoved": [
+        {
+            "domain_name": "ubaptistchurch.ca",
+            "destination": "SiteGround",
+            "date": "2025-08-28 06:04:15"
+        },
         {
             "domain_name": "www.mossackfonseca.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "chesaningfamilydental.com",
             "destination": "GoDaddy",
             "date": "2025-08-26 13:34:10"
-        },
-        {
-            "domain_name": "julialewisinteriors.com",
-            "destination": "Kinsta",
-            "date": "2025-08-26 13:20:44"
         }
     ],
     "dailyMovedStat": {
@@ -848,7 +848,7 @@
     "topDestinationHosts": {
         "Pressable": 10865,
         "Kinsta": 5789,
-        "SiteGround": 4815,
+        "SiteGround": 4816,
         "Digital Ocean": 4739,
         "Bluehost": 4135,
         "Hostinger": 3292,
