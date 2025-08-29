@@ -1,6 +1,21 @@
 {
-    "siteCount": 89691,
+    "siteCount": 89701,
     "recentlyMoved": [
+        {
+            "domain_name": "oaksatalcovy.com",
+            "destination": "Hostinger",
+            "date": "2025-08-29 14:17:04"
+        },
+        {
+            "domain_name": "diginius.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-08-29 13:52:03"
+        },
+        {
+            "domain_name": "customdatamailing.com",
+            "destination": "Hostinger",
+            "date": "2025-08-29 13:28:48"
+        },
         {
             "domain_name": "livelyrealtyco.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "www.mossackfonseca.com",
             "destination": "Kinsta",
             "date": "2025-08-28 04:49:25"
-        },
-        {
-            "domain_name": "simscountertops.com",
-            "destination": "SiteGround",
-            "date": "2025-08-28 04:41:17"
-        },
-        {
-            "domain_name": "www.arcsurveyors.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-28 03:36:03"
-        },
-        {
-            "domain_name": "getflg.com",
-            "destination": "IONOS",
-            "date": "2025-08-28 03:24:39"
         }
     ],
     "dailyMovedStat": {
@@ -848,11 +848,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10868,
-        "Kinsta": 5812,
+        "Kinsta": 5813,
         "SiteGround": 4836,
         "Digital Ocean": 4753,
         "Bluehost": 4138,
-        "Hostinger": 3303,
+        "Hostinger": 3305,
         "GoDaddy": 1300,
         "Liquid Web": 632,
         "BigScoots": 614,
