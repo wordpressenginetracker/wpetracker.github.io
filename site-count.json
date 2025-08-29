@@ -1,6 +1,21 @@
 {
-    "siteCount": 89777,
+    "siteCount": 89822,
     "recentlyMoved": [
+        {
+            "domain_name": "ableclean.com.au",
+            "destination": "SiteGround",
+            "date": "2025-08-29 19:47:41"
+        },
+        {
+            "domain_name": "foundation51.org",
+            "destination": "SiteGround",
+            "date": "2025-08-29 19:35:06"
+        },
+        {
+            "domain_name": "www.accaplanner.com",
+            "destination": "Kinsta",
+            "date": "2025-08-29 19:33:25"
+        },
         {
             "domain_name": "tbgco.com",
             "destination": "Digital Ocean",
@@ -467,16 +482,6 @@
             "date": "2025-08-28 12:56:18"
         },
         {
-            "domain_name": "saltytourist.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-28 12:50:09"
-        },
-        {
-            "domain_name": "intermodal.ptievents.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-28 12:38:55"
-        },
-        {
             "domain_name": "buckhillbrewery.com",
             "destination": "Kinsta",
             "date": "2025-08-28 12:36:46"
@@ -495,11 +500,6 @@
             "domain_name": "iplanconsulting.com",
             "destination": "SiteGround",
             "date": "2025-08-28 12:21:32"
-        },
-        {
-            "domain_name": "rosehilldesignstudio.com",
-            "destination": "Kinsta",
-            "date": "2025-08-28 12:19:27"
         }
     ],
     "dailyMovedStat": {
@@ -848,12 +848,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10870,
-        "Kinsta": 5815,
-        "SiteGround": 4843,
-        "Digital Ocean": 4754,
+        "Kinsta": 5816,
+        "SiteGround": 4845,
+        "Digital Ocean": 4755,
         "Bluehost": 4138,
         "Hostinger": 3308,
-        "GoDaddy": 1302,
+        "GoDaddy": 1303,
         "Liquid Web": 636,
         "BigScoots": 614,
         "WordPress.com": 437,
@@ -862,7 +862,7 @@
         "A2 Hosting": 355,
         "OVH": 354,
         "IONOS": 334,
-        "DreamHost": 319,
+        "DreamHost": 320,
         "Namecheap": 317,
         "Elementor Hosting": 315,
         "Hetzner Online": 255,
