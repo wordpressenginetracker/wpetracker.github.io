@@ -1,6 +1,11 @@
 {
-    "siteCount": 89647,
+    "siteCount": 89670,
     "recentlyMoved": [
+        {
+            "domain_name": "goldbergbrothers.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-29 12:21:37"
+        },
         {
             "domain_name": "echolinksolutions.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mcubes.co.in",
             "destination": "GoDaddy",
             "date": "2025-08-28 01:17:10"
-        },
-        {
-            "domain_name": "cedarstonemusic.com",
-            "destination": "SiteGround",
-            "date": "2025-08-28 00:37:28"
         }
     ],
     "dailyMovedStat": {
@@ -853,7 +853,7 @@
         "Digital Ocean": 4752,
         "Bluehost": 4138,
         "Hostinger": 3303,
-        "GoDaddy": 1299,
+        "GoDaddy": 1300,
         "Liquid Web": 631,
         "BigScoots": 614,
         "WordPress.com": 437,
