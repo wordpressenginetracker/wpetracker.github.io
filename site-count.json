@@ -1,6 +1,16 @@
 {
-    "siteCount": 89822,
+    "siteCount": 89832,
     "recentlyMoved": [
+        {
+            "domain_name": "coolmaxairllc.com",
+            "destination": "SiteGround",
+            "date": "2025-08-29 21:35:53"
+        },
+        {
+            "domain_name": "skinvitalitync.com",
+            "destination": "Kinsta",
+            "date": "2025-08-29 20:35:00"
+        },
         {
             "domain_name": "ableclean.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "burienendo.com",
             "destination": "Kinsta",
             "date": "2025-08-28 12:30:30"
-        },
-        {
-            "domain_name": "schottensteinrealestate.com",
-            "destination": "DreamHost",
-            "date": "2025-08-28 12:27:28"
-        },
-        {
-            "domain_name": "iplanconsulting.com",
-            "destination": "SiteGround",
-            "date": "2025-08-28 12:21:32"
         }
     ],
     "dailyMovedStat": {
@@ -848,7 +848,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10870,
-        "Kinsta": 5816,
+        "Kinsta": 5817,
         "SiteGround": 4845,
         "Digital Ocean": 4755,
         "Bluehost": 4138,
