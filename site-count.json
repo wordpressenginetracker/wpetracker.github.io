@@ -1,6 +1,11 @@
 {
-    "siteCount": 89757,
+    "siteCount": 89777,
     "recentlyMoved": [
+        {
+            "domain_name": "tbgco.com",
+            "destination": "Digital Ocean",
+            "date": "2025-08-29 17:40:02"
+        },
         {
             "domain_name": "lbkfit.com",
             "destination": "Liquid Web",
@@ -12,14 +17,34 @@
             "date": "2025-08-29 17:38:00"
         },
         {
+            "domain_name": "titansteelerectorsinc.com",
+            "destination": "SiteGround",
+            "date": "2025-08-29 17:37:38"
+        },
+        {
+            "domain_name": "dowdleandsonsmech.com",
+            "destination": "Pressable",
+            "date": "2025-08-29 17:23:51"
+        },
+        {
             "domain_name": "capitalestateadvisors.com",
             "destination": "SiteGround",
             "date": "2025-08-29 17:14:36"
         },
         {
+            "domain_name": "www.theisuzustore.com",
+            "destination": "Pressable",
+            "date": "2025-08-29 17:13:22"
+        },
+        {
             "domain_name": "www.mercantilegatherings.com",
             "destination": "Liquid Web",
             "date": "2025-08-29 17:10:48"
+        },
+        {
+            "domain_name": "lutheranlifecommunities.org",
+            "destination": "Liquid Web",
+            "date": "2025-08-29 17:01:12"
         },
         {
             "domain_name": "revive-dental.com",
@@ -452,11 +477,6 @@
             "date": "2025-08-28 12:38:55"
         },
         {
-            "domain_name": "hc-arch.com",
-            "destination": "Kinsta",
-            "date": "2025-08-28 12:37:00"
-        },
-        {
             "domain_name": "buckhillbrewery.com",
             "destination": "Kinsta",
             "date": "2025-08-28 12:36:46"
@@ -480,26 +500,6 @@
             "domain_name": "rosehilldesignstudio.com",
             "destination": "Kinsta",
             "date": "2025-08-28 12:19:27"
-        },
-        {
-            "domain_name": "www.citydriveinsurance.com",
-            "destination": "SiteGround",
-            "date": "2025-08-28 12:18:11"
-        },
-        {
-            "domain_name": "gwifl.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-28 12:05:12"
-        },
-        {
-            "domain_name": "www.diybook.us",
-            "destination": "Digital Ocean",
-            "date": "2025-08-28 12:04:56"
-        },
-        {
-            "domain_name": "raesecurity.com",
-            "destination": "Hostinger",
-            "date": "2025-08-28 12:00:20"
         }
     ],
     "dailyMovedStat": {
@@ -847,14 +847,14 @@
         "2025-08-28": "89573"
     },
     "topDestinationHosts": {
-        "Pressable": 10868,
+        "Pressable": 10870,
         "Kinsta": 5815,
-        "SiteGround": 4842,
-        "Digital Ocean": 4753,
+        "SiteGround": 4843,
+        "Digital Ocean": 4754,
         "Bluehost": 4138,
-        "Hostinger": 3307,
+        "Hostinger": 3308,
         "GoDaddy": 1302,
-        "Liquid Web": 635,
+        "Liquid Web": 636,
         "BigScoots": 614,
         "WordPress.com": 437,
         "InMotion Hosting": 405,
