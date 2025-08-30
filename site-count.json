@@ -1,6 +1,21 @@
 {
-    "siteCount": 89903,
+    "siteCount": 89921,
     "recentlyMoved": [
+        {
+            "domain_name": "apofinancial.com",
+            "destination": "SiteGround",
+            "date": "2025-08-30 12:23:43"
+        },
+        {
+            "domain_name": "www.cedargroveaesthetics.com",
+            "destination": "Kinsta",
+            "date": "2025-08-30 12:11:51"
+        },
+        {
+            "domain_name": "pivotalplastics.com",
+            "destination": "Hostinger",
+            "date": "2025-08-30 11:45:27"
+        },
         {
             "domain_name": "nomwholefoods.co.uk",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-08-28 16:34:44"
         },
         {
-            "domain_name": "helotescrossfit.com",
-            "destination": "Liquid Web",
-            "date": "2025-08-28 16:34:15"
-        },
-        {
             "domain_name": "highfivefitnesswilliamston.com",
             "destination": "Liquid Web",
             "date": "2025-08-28 16:10:41"
-        },
-        {
-            "domain_name": "www.consumerlawchicago.com",
-            "destination": "Kinsta",
-            "date": "2025-08-28 15:59:23"
-        },
-        {
-            "domain_name": "arrabon.com",
-            "destination": "Hostinger",
-            "date": "2025-08-28 15:55:23"
         }
     ],
     "dailyMovedStat": {
@@ -849,11 +849,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10873,
-        "Kinsta": 5818,
-        "SiteGround": 4855,
+        "Kinsta": 5819,
+        "SiteGround": 4856,
         "Digital Ocean": 4756,
         "Bluehost": 4139,
-        "Hostinger": 3310,
+        "Hostinger": 3311,
         "GoDaddy": 1303,
         "Liquid Web": 636,
         "BigScoots": 614,
