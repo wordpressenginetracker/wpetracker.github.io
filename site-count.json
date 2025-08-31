@@ -1,10 +1,20 @@
 {
-    "siteCount": 90111,
+    "siteCount": 90116,
     "recentlyMoved": [
+        {
+            "domain_name": "www.prairieunderground.com",
+            "destination": "Pressable",
+            "date": "2025-08-31 17:12:41"
+        },
         {
             "domain_name": "quote.futuresolutionsfence.com",
             "destination": "SiteGround",
             "date": "2025-08-31 16:42:37"
+        },
+        {
+            "domain_name": "www.meminvestmentresearch.com",
+            "destination": "GoDaddy",
+            "date": "2025-08-31 16:39:02"
         },
         {
             "domain_name": "www.palmerlegaldefense.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.chewninglegal.com",
             "destination": "Kinsta",
             "date": "2025-08-29 15:38:18"
-        },
-        {
-            "domain_name": "wpwebworks.com",
-            "destination": "Hostinger",
-            "date": "2025-08-29 15:25:10"
-        },
-        {
-            "domain_name": "paquettelaw.com",
-            "destination": "SiteGround",
-            "date": "2025-08-29 15:21:26"
         }
     ],
     "dailyMovedStat": {
@@ -849,13 +849,13 @@
         "2025-08-30": "90041"
     },
     "topDestinationHosts": {
-        "Pressable": 10879,
+        "Pressable": 10880,
         "Kinsta": 5824,
         "SiteGround": 4881,
         "Digital Ocean": 4759,
         "Bluehost": 4141,
         "Hostinger": 3319,
-        "GoDaddy": 1306,
+        "GoDaddy": 1307,
         "Liquid Web": 637,
         "BigScoots": 615,
         "WordPress.com": 437,
