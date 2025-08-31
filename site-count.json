@@ -1,6 +1,16 @@
 {
-    "siteCount": 90103,
+    "siteCount": 90111,
     "recentlyMoved": [
+        {
+            "domain_name": "quote.futuresolutionsfence.com",
+            "destination": "SiteGround",
+            "date": "2025-08-31 16:42:37"
+        },
+        {
+            "domain_name": "www.palmerlegaldefense.com",
+            "destination": "SiteGround",
+            "date": "2025-08-31 16:03:37"
+        },
         {
             "domain_name": "newnodepositcasino.co.uk",
             "destination": "SiteGround",
@@ -487,19 +497,9 @@
             "date": "2025-08-29 15:25:10"
         },
         {
-            "domain_name": "washedawayexteriors.com",
-            "destination": "Hostinger",
-            "date": "2025-08-29 15:25:00"
-        },
-        {
             "domain_name": "paquettelaw.com",
             "destination": "SiteGround",
             "date": "2025-08-29 15:21:26"
-        },
-        {
-            "domain_name": "1099successacademy.com",
-            "destination": "GoDaddy",
-            "date": "2025-08-29 15:18:59"
         }
     ],
     "dailyMovedStat": {
@@ -851,7 +851,7 @@
     "topDestinationHosts": {
         "Pressable": 10879,
         "Kinsta": 5824,
-        "SiteGround": 4879,
+        "SiteGround": 4881,
         "Digital Ocean": 4759,
         "Bluehost": 4141,
         "Hostinger": 3319,
