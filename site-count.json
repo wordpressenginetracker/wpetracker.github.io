@@ -1,6 +1,11 @@
 {
-    "siteCount": 90140,
+    "siteCount": 90145,
     "recentlyMoved": [
+        {
+            "domain_name": "joplinareabeekeepers.com",
+            "destination": "IONOS",
+            "date": "2025-08-31 20:47:09"
+        },
         {
             "domain_name": "msnellink.nl",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "randysautopartsmaine.com",
             "destination": "SiteGround",
             "date": "2025-08-29 15:44:25"
-        },
-        {
-            "domain_name": "www.chewninglegal.com",
-            "destination": "Kinsta",
-            "date": "2025-08-29 15:38:18"
         }
     ],
     "dailyMovedStat": {
@@ -863,7 +863,7 @@
         "GridPane": 378,
         "A2 Hosting": 356,
         "OVH": 354,
-        "IONOS": 334,
+        "IONOS": 335,
         "DreamHost": 320,
         "Namecheap": 317,
         "Elementor Hosting": 315,
