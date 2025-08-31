@@ -1,6 +1,11 @@
 {
-    "siteCount": 90090,
+    "siteCount": 90093,
     "recentlyMoved": [
+        {
+            "domain_name": "futuresolutionsfence.com",
+            "destination": "Pressable",
+            "date": "2025-08-31 11:48:06"
+        },
         {
             "domain_name": "upscalesolutions.au",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "oaksatalcovy.com",
             "destination": "Hostinger",
             "date": "2025-08-29 14:17:04"
-        },
-        {
-            "domain_name": "diginius.com",
-            "destination": "Krystal Hosting",
-            "date": "2025-08-29 13:52:03"
         }
     ],
     "dailyMovedStat": {
@@ -849,7 +849,7 @@
         "2025-08-30": "90041"
     },
     "topDestinationHosts": {
-        "Pressable": 10878,
+        "Pressable": 10879,
         "Kinsta": 5824,
         "SiteGround": 4878,
         "Digital Ocean": 4759,
