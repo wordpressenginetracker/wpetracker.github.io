@@ -1,6 +1,21 @@
 {
-    "siteCount": 90289,
+    "siteCount": 90293,
     "recentlyMoved": [
+        {
+            "domain_name": "splendident.com",
+            "destination": "Hostinger",
+            "date": "2025-09-01 21:19:46"
+        },
+        {
+            "domain_name": "blokworx.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-01 20:56:46"
+        },
+        {
+            "domain_name": "karsongunn.com",
+            "destination": "HostGator",
+            "date": "2025-09-01 20:48:51"
+        },
         {
             "domain_name": "tnhydration.com",
             "destination": "SiteGround",
@@ -477,11 +492,6 @@
             "date": "2025-08-30 00:45:43"
         },
         {
-            "domain_name": "activetruckalignments.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-29 23:47:13"
-        },
-        {
             "domain_name": "www.stopreflux.com",
             "destination": "SiteGround",
             "date": "2025-08-29 23:28:49"
@@ -490,16 +500,6 @@
             "domain_name": "www.tristatebariatrics.com",
             "destination": "SiteGround",
             "date": "2025-08-29 23:26:34"
-        },
-        {
-            "domain_name": "www.bellyballoon.com",
-            "destination": "SiteGround",
-            "date": "2025-08-29 23:13:15"
-        },
-        {
-            "domain_name": "manhattan.stopobesityforlife.com",
-            "destination": "SiteGround",
-            "date": "2025-08-29 21:48:00"
         }
     ],
     "dailyMovedStat": {
@@ -853,9 +853,9 @@
         "Pressable": 10880,
         "Kinsta": 5828,
         "SiteGround": 4888,
-        "Digital Ocean": 4763,
+        "Digital Ocean": 4764,
         "Bluehost": 4141,
-        "Hostinger": 3324,
+        "Hostinger": 3325,
         "GoDaddy": 1312,
         "Liquid Web": 637,
         "BigScoots": 616,
@@ -869,7 +869,7 @@
         "Namecheap": 319,
         "Elementor Hosting": 315,
         "Hetzner Online": 256,
-        "HostGator": 205
+        "HostGator": 206
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
