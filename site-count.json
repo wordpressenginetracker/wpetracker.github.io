@@ -1,6 +1,16 @@
 {
-    "siteCount": 90226,
+    "siteCount": 90239,
     "recentlyMoved": [
+        {
+            "domain_name": "redmrduck.com",
+            "destination": "Hostinger",
+            "date": "2025-09-01 16:30:56"
+        },
+        {
+            "domain_name": "allamericandiscountcarpet.com",
+            "destination": "SiteGround",
+            "date": "2025-09-01 15:43:03"
+        },
         {
             "domain_name": "shop.maxtec.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "skinvitalitync.com",
             "destination": "Kinsta",
             "date": "2025-08-29 20:35:00"
-        },
-        {
-            "domain_name": "foundation51.org",
-            "destination": "SiteGround",
-            "date": "2025-08-29 19:35:06"
-        },
-        {
-            "domain_name": "www.accaplanner.com",
-            "destination": "Kinsta",
-            "date": "2025-08-29 19:33:25"
         }
     ],
     "dailyMovedStat": {
@@ -852,7 +852,7 @@
     "topDestinationHosts": {
         "Pressable": 10880,
         "Kinsta": 5828,
-        "SiteGround": 4884,
+        "SiteGround": 4885,
         "Digital Ocean": 4763,
         "Bluehost": 4141,
         "Hostinger": 3321,
