@@ -1,6 +1,11 @@
 {
-    "siteCount": 90198,
+    "siteCount": 90201,
     "recentlyMoved": [
+        {
+            "domain_name": "adelaideparkwagyu.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-01 11:59:05"
+        },
         {
             "domain_name": "sdp.ptievents.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.accaplanner.com",
             "destination": "Kinsta",
             "date": "2025-08-29 19:33:25"
-        },
-        {
-            "domain_name": "titansteelerectorsinc.com",
-            "destination": "SiteGround",
-            "date": "2025-08-29 17:37:38"
         }
     ],
     "dailyMovedStat": {
@@ -852,7 +852,7 @@
     "topDestinationHosts": {
         "Pressable": 10880,
         "Kinsta": 5828,
-        "SiteGround": 4883,
+        "SiteGround": 4884,
         "Digital Ocean": 4762,
         "Bluehost": 4141,
         "Hostinger": 3321,
