@@ -1,10 +1,15 @@
 {
-    "siteCount": 90239,
+    "siteCount": 90252,
     "recentlyMoved": [
         {
             "domain_name": "redmrduck.com",
             "destination": "Hostinger",
             "date": "2025-09-01 16:30:56"
+        },
+        {
+            "domain_name": "results.ignitecs.co",
+            "destination": "SiteGround",
+            "date": "2025-09-01 16:22:36"
         },
         {
             "domain_name": "allamericandiscountcarpet.com",
@@ -495,11 +500,6 @@
             "domain_name": "coolmaxairllc.com",
             "destination": "SiteGround",
             "date": "2025-08-29 21:35:53"
-        },
-        {
-            "domain_name": "skinvitalitync.com",
-            "destination": "Kinsta",
-            "date": "2025-08-29 20:35:00"
         }
     ],
     "dailyMovedStat": {
@@ -852,10 +852,10 @@
     "topDestinationHosts": {
         "Pressable": 10880,
         "Kinsta": 5828,
-        "SiteGround": 4885,
+        "SiteGround": 4886,
         "Digital Ocean": 4763,
         "Bluehost": 4141,
-        "Hostinger": 3321,
+        "Hostinger": 3322,
         "GoDaddy": 1310,
         "Liquid Web": 637,
         "BigScoots": 616,
