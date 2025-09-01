@@ -1,6 +1,11 @@
 {
-    "siteCount": 90201,
+    "siteCount": 90217,
     "recentlyMoved": [
+        {
+            "domain_name": "shop.maxtec.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-01 12:21:43"
+        },
         {
             "domain_name": "adelaideparkwagyu.com.au",
             "destination": "SiteGround",
@@ -487,11 +492,6 @@
             "date": "2025-08-29 20:35:00"
         },
         {
-            "domain_name": "ableclean.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-29 19:47:41"
-        },
-        {
             "domain_name": "foundation51.org",
             "destination": "SiteGround",
             "date": "2025-08-29 19:35:06"
@@ -853,7 +853,7 @@
         "Pressable": 10880,
         "Kinsta": 5828,
         "SiteGround": 4884,
-        "Digital Ocean": 4762,
+        "Digital Ocean": 4763,
         "Bluehost": 4141,
         "Hostinger": 3321,
         "GoDaddy": 1310,
