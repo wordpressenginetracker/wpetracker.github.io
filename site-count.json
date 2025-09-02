@@ -1,6 +1,21 @@
 {
-    "siteCount": 90386,
+    "siteCount": 90397,
     "recentlyMoved": [
+        {
+            "domain_name": "northshorehealthcarefoundation.org",
+            "destination": "Pressable",
+            "date": "2025-09-02 14:08:34"
+        },
+        {
+            "domain_name": "tvweekonline.ca",
+            "destination": "Kinsta",
+            "date": "2025-09-02 14:04:51"
+        },
+        {
+            "domain_name": "tekno.com",
+            "destination": "SiteGround",
+            "date": "2025-09-02 13:44:46"
+        },
         {
             "domain_name": "skaraborgsbatforbund.se",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-08-30 14:44:42"
         },
         {
-            "domain_name": "nexapack.com",
-            "destination": "Hostinger",
-            "date": "2025-08-30 14:35:21"
-        },
-        {
-            "domain_name": "everlastingdentistry.com",
-            "destination": "Digital Ocean",
-            "date": "2025-08-30 14:34:13"
-        },
-        {
             "domain_name": "northstarnaturesuites.com",
             "destination": "SiteGround",
             "date": "2025-08-30 14:25:46"
-        },
-        {
-            "domain_name": "troyvanbeek.com",
-            "destination": "Bluehost",
-            "date": "2025-08-30 14:04:31"
         }
     ],
     "dailyMovedStat": {
@@ -852,8 +852,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10880,
-        "Kinsta": 5830,
-        "SiteGround": 4896,
+        "Kinsta": 5831,
+        "SiteGround": 4897,
         "Digital Ocean": 4767,
         "Bluehost": 4141,
         "Hostinger": 3329,
