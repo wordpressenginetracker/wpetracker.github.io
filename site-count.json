@@ -1,6 +1,11 @@
 {
-    "siteCount": 90430,
+    "siteCount": 90464,
     "recentlyMoved": [
+        {
+            "domain_name": "rankitdigitalmarketing.com",
+            "destination": "Bluehost",
+            "date": "2025-09-02 20:07:40"
+        },
         {
             "domain_name": "zantiayurveda.com.au",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "marcoshuttersandclosets.com",
             "destination": "SiteGround",
             "date": "2025-08-30 17:29:34"
-        },
-        {
-            "domain_name": "www.tri-cfundraising.com",
-            "destination": "Kinsta",
-            "date": "2025-08-30 17:21:10"
         }
     ],
     "dailyMovedStat": {
@@ -853,11 +853,11 @@
     "topDestinationHosts": {
         "Pressable": 10881,
         "Kinsta": 5835,
-        "SiteGround": 4902,
+        "SiteGround": 4903,
         "Digital Ocean": 4769,
         "Bluehost": 4141,
         "Hostinger": 3330,
-        "GoDaddy": 1312,
+        "GoDaddy": 1313,
         "Liquid Web": 638,
         "BigScoots": 619,
         "WordPress.com": 437,
@@ -865,7 +865,7 @@
         "GridPane": 378,
         "A2 Hosting": 357,
         "OVH": 355,
-        "IONOS": 335,
+        "IONOS": 336,
         "DreamHost": 320,
         "Namecheap": 319,
         "Elementor Hosting": 315,
