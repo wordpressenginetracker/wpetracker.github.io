@@ -1,6 +1,16 @@
 {
-    "siteCount": 90412,
+    "siteCount": 90419,
     "recentlyMoved": [
+        {
+            "domain_name": "www.riskquoter.com",
+            "destination": "SiteGround",
+            "date": "2025-09-02 16:57:27"
+        },
+        {
+            "domain_name": "idrcloud.com",
+            "destination": "SiteGround",
+            "date": "2025-09-02 16:33:39"
+        },
         {
             "domain_name": "www.bcbusiness.ca",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.tri-cfundraising.com",
             "destination": "Kinsta",
             "date": "2025-08-30 17:21:10"
-        },
-        {
-            "domain_name": "itopsceramics.com",
-            "destination": "Hostinger",
-            "date": "2025-08-30 16:43:37"
-        },
-        {
-            "domain_name": "injurycareclinic.com",
-            "destination": "SiteGround",
-            "date": "2025-08-30 16:37:43"
         }
     ],
     "dailyMovedStat": {
@@ -852,8 +852,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10881,
-        "Kinsta": 5834,
-        "SiteGround": 4899,
+        "Kinsta": 5835,
+        "SiteGround": 4901,
         "Digital Ocean": 4768,
         "Bluehost": 4141,
         "Hostinger": 3329,
