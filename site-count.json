@@ -1,6 +1,11 @@
 {
-    "siteCount": 90464,
+    "siteCount": 90472,
     "recentlyMoved": [
+        {
+            "domain_name": "soulandlens.com",
+            "destination": "IONOS",
+            "date": "2025-09-02 21:14:11"
+        },
         {
             "domain_name": "rankitdigitalmarketing.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "nordenleacox.com",
             "destination": "BigScoots",
             "date": "2025-08-30 17:50:40"
-        },
-        {
-            "domain_name": "marcoshuttersandclosets.com",
-            "destination": "SiteGround",
-            "date": "2025-08-30 17:29:34"
         }
     ],
     "dailyMovedStat": {
@@ -855,7 +855,7 @@
         "Kinsta": 5835,
         "SiteGround": 4903,
         "Digital Ocean": 4769,
-        "Bluehost": 4141,
+        "Bluehost": 4142,
         "Hostinger": 3330,
         "GoDaddy": 1313,
         "Liquid Web": 638,
@@ -865,7 +865,7 @@
         "GridPane": 378,
         "A2 Hosting": 357,
         "OVH": 355,
-        "IONOS": 336,
+        "IONOS": 337,
         "DreamHost": 320,
         "Namecheap": 319,
         "Elementor Hosting": 315,
