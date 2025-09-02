@@ -1,6 +1,11 @@
 {
-    "siteCount": 90375,
+    "siteCount": 90386,
     "recentlyMoved": [
+        {
+            "domain_name": "skaraborgsbatforbund.se",
+            "destination": "Kinsta",
+            "date": "2025-09-02 12:43:05"
+        },
         {
             "domain_name": "grapeleaftampa.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "troyvanbeek.com",
             "destination": "Bluehost",
             "date": "2025-08-30 14:04:31"
-        },
-        {
-            "domain_name": "tci.org",
-            "destination": "Hostinger",
-            "date": "2025-08-30 13:44:12"
         }
     ],
     "dailyMovedStat": {
@@ -852,7 +852,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10880,
-        "Kinsta": 5829,
+        "Kinsta": 5830,
         "SiteGround": 4896,
         "Digital Ocean": 4767,
         "Bluehost": 4141,
