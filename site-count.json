@@ -1,10 +1,25 @@
 {
-    "siteCount": 90472,
+    "siteCount": 90478,
     "recentlyMoved": [
+        {
+            "domain_name": "www.vandaliastorageunits.com",
+            "destination": "Namecheap",
+            "date": "2025-09-02 21:30:30"
+        },
         {
             "domain_name": "soulandlens.com",
             "destination": "IONOS",
             "date": "2025-09-02 21:14:11"
+        },
+        {
+            "domain_name": "lusinebleue.com",
+            "destination": "Kinsta",
+            "date": "2025-09-02 21:11:17"
+        },
+        {
+            "domain_name": "cqbuildingandpest.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-02 21:07:19"
         },
         {
             "domain_name": "rankitdigitalmarketing.com",
@@ -482,24 +497,9 @@
             "date": "2025-08-30 20:35:21"
         },
         {
-            "domain_name": "acaspokane.org",
-            "destination": "SiteGround",
-            "date": "2025-08-30 19:46:29"
-        },
-        {
             "domain_name": "parentnannyedu.com",
             "destination": "SiteGround",
             "date": "2025-08-30 19:43:05"
-        },
-        {
-            "domain_name": "vitallydoc.com",
-            "destination": "SiteGround",
-            "date": "2025-08-30 18:31:28"
-        },
-        {
-            "domain_name": "nordenleacox.com",
-            "destination": "BigScoots",
-            "date": "2025-08-30 17:50:40"
         }
     ],
     "dailyMovedStat": {
@@ -852,8 +852,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 10881,
-        "Kinsta": 5835,
-        "SiteGround": 4903,
+        "Kinsta": 5836,
+        "SiteGround": 4904,
         "Digital Ocean": 4769,
         "Bluehost": 4142,
         "Hostinger": 3330,
@@ -867,7 +867,7 @@
         "OVH": 355,
         "IONOS": 337,
         "DreamHost": 320,
-        "Namecheap": 319,
+        "Namecheap": 320,
         "Elementor Hosting": 315,
         "Hetzner Online": 256,
         "HostGator": 206
