@@ -1,6 +1,11 @@
 {
-    "siteCount": 90338,
+    "siteCount": 90342,
     "recentlyMoved": [
+        {
+            "domain_name": "trilithrealestate.com",
+            "destination": "Liquid Web",
+            "date": "2025-09-02 05:55:11"
+        },
         {
             "domain_name": "sohokaffe.no",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-08-30 05:06:42"
         },
         {
-            "domain_name": "karensargent.com",
-            "destination": "Hostinger",
-            "date": "2025-08-30 04:57:05"
-        },
-        {
             "domain_name": "cmbuck.com",
             "destination": "Hostinger",
             "date": "2025-08-30 04:40:46"
@@ -858,7 +858,7 @@
         "Bluehost": 4141,
         "Hostinger": 3326,
         "GoDaddy": 1312,
-        "Liquid Web": 637,
+        "Liquid Web": 638,
         "BigScoots": 616,
         "WordPress.com": 437,
         "InMotion Hosting": 406,
