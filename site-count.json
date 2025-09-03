@@ -1,6 +1,11 @@
 {
-    "siteCount": 90508,
+    "siteCount": 90513,
     "recentlyMoved": [
+        {
+            "domain_name": "butfieldltd.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-09-03 05:11:17"
+        },
         {
             "domain_name": "rayair-automation.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.normansplumbing.com",
             "destination": "InMotion Hosting",
             "date": "2025-08-30 21:19:32"
-        },
-        {
-            "domain_name": "catersafe.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-30 21:06:07"
         }
     ],
     "dailyMovedStat": {
@@ -855,7 +855,7 @@
         "Pressable": 10881,
         "Kinsta": 5837,
         "SiteGround": 4905,
-        "Digital Ocean": 4769,
+        "Digital Ocean": 4770,
         "Bluehost": 4142,
         "Hostinger": 3332,
         "GoDaddy": 1314,
