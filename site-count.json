@@ -1,10 +1,40 @@
 {
-    "siteCount": 90619,
+    "siteCount": 90634,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ryanfrankmd.com",
+            "destination": "Kinsta",
+            "date": "2025-09-03 17:46:21"
+        },
+        {
+            "domain_name": "www.pinestreetlodge.com",
+            "destination": "Pressable",
+            "date": "2025-09-03 17:07:18"
+        },
+        {
+            "domain_name": "www.otherminds.org",
+            "destination": "Pressable",
+            "date": "2025-09-03 17:06:50"
+        },
+        {
+            "domain_name": "southeasterndocksupply.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-03 16:50:07"
+        },
+        {
+            "domain_name": "www.papillon-ag.com",
+            "destination": "Pressable",
+            "date": "2025-09-03 16:42:26"
+        },
         {
             "domain_name": "www.dcinternships.org",
             "destination": "Pressable",
             "date": "2025-09-03 16:29:23"
+        },
+        {
+            "domain_name": "inclineexteriors.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-03 16:21:07"
         },
         {
             "domain_name": "gipllc.us",
@@ -470,36 +500,6 @@
             "domain_name": "dunnjazz.com",
             "destination": "A2 Hosting",
             "date": "2025-09-01 17:31:57"
-        },
-        {
-            "domain_name": "redmrduck.com",
-            "destination": "Hostinger",
-            "date": "2025-09-01 16:30:56"
-        },
-        {
-            "domain_name": "results.ignitecs.co",
-            "destination": "SiteGround",
-            "date": "2025-09-01 16:22:36"
-        },
-        {
-            "domain_name": "allamericandiscountcarpet.com",
-            "destination": "SiteGround",
-            "date": "2025-09-01 15:43:03"
-        },
-        {
-            "domain_name": "shop.maxtec.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-01 12:21:43"
-        },
-        {
-            "domain_name": "adelaideparkwagyu.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-01 11:59:05"
-        },
-        {
-            "domain_name": "sdp.ptievents.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-01 04:50:53"
         }
     ],
     "dailyMovedStat": {
@@ -852,10 +852,10 @@
         "2025-09-02": "90478"
     },
     "topDestinationHosts": {
-        "Pressable": 10884,
+        "Pressable": 10887,
         "Kinsta": 5850,
         "SiteGround": 4910,
-        "Digital Ocean": 4779,
+        "Digital Ocean": 4781,
         "Bluehost": 4143,
         "Hostinger": 3337,
         "GoDaddy": 1317,
