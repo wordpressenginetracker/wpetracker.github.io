@@ -1,6 +1,11 @@
 {
-    "siteCount": 90695,
+    "siteCount": 90698,
     "recentlyMoved": [
+        {
+            "domain_name": "thelittlelightsacademy.com",
+            "destination": "SiteGround",
+            "date": "2025-09-03 21:41:55"
+        },
         {
             "domain_name": "kmldesignphotography.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "in4training.com.au",
             "destination": "SiteGround",
             "date": "2025-09-02 04:05:31"
-        },
-        {
-            "domain_name": "houseoftreasures.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-02 00:36:21"
         }
     ],
     "dailyMovedStat": {
@@ -854,7 +854,7 @@
     "topDestinationHosts": {
         "Pressable": 10890,
         "Kinsta": 5851,
-        "SiteGround": 4911,
+        "SiteGround": 4912,
         "Digital Ocean": 4782,
         "Bluehost": 4143,
         "Hostinger": 3339,
