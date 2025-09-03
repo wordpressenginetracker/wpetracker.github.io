@@ -1,6 +1,21 @@
 {
-    "siteCount": 90495,
+    "siteCount": 90508,
     "recentlyMoved": [
+        {
+            "domain_name": "rayair-automation.com",
+            "destination": "SiteGround",
+            "date": "2025-09-03 04:42:00"
+        },
+        {
+            "domain_name": "randywilburn.com",
+            "destination": "HostGator",
+            "date": "2025-09-03 04:34:57"
+        },
+        {
+            "domain_name": "allpromortgageteam.com",
+            "destination": "Hostinger",
+            "date": "2025-09-03 03:32:34"
+        },
         {
             "domain_name": "unitedpf.com.au",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "catersafe.com.au",
             "destination": "SiteGround",
             "date": "2025-08-30 21:06:07"
-        },
-        {
-            "domain_name": "boynetannumhookup.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-30 20:58:04"
-        },
-        {
-            "domain_name": "brianspressurewashingandmore.com",
-            "destination": "Hostinger",
-            "date": "2025-08-30 20:49:47"
-        },
-        {
-            "domain_name": "byfieldcabins.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-30 20:48:24"
         }
     ],
     "dailyMovedStat": {
@@ -854,10 +854,10 @@
     "topDestinationHosts": {
         "Pressable": 10881,
         "Kinsta": 5837,
-        "SiteGround": 4904,
+        "SiteGround": 4905,
         "Digital Ocean": 4769,
         "Bluehost": 4142,
-        "Hostinger": 3331,
+        "Hostinger": 3332,
         "GoDaddy": 1314,
         "Liquid Web": 638,
         "BigScoots": 619,
@@ -871,7 +871,7 @@
         "Namecheap": 320,
         "Elementor Hosting": 315,
         "Hetzner Online": 256,
-        "HostGator": 206
+        "HostGator": 207
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
