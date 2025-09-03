@@ -1,6 +1,26 @@
 {
-    "siteCount": 90522,
+    "siteCount": 90536,
     "recentlyMoved": [
+        {
+            "domain_name": "lindseyputzier.com",
+            "destination": "Kinsta",
+            "date": "2025-09-03 09:38:13"
+        },
+        {
+            "domain_name": "lawrencesmotors.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-03 09:18:32"
+        },
+        {
+            "domain_name": "schembript.com.au",
+            "destination": "Hostinger",
+            "date": "2025-09-03 08:50:20"
+        },
+        {
+            "domain_name": "reviewwinner.com",
+            "destination": "Hostinger",
+            "date": "2025-09-03 08:10:13"
+        },
         {
             "domain_name": "thevinedc.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "justfamilylaw.com",
             "destination": "SiteGround",
             "date": "2025-08-31 00:52:35"
-        },
-        {
-            "domain_name": "bcrw.org",
-            "destination": "SiteGround",
-            "date": "2025-08-31 00:44:27"
-        },
-        {
-            "domain_name": "www.dentistsanddentures.com.au",
-            "destination": "GoDaddy",
-            "date": "2025-08-31 00:28:18"
-        },
-        {
-            "domain_name": "www.brahman.com.au",
-            "destination": "Pressable",
-            "date": "2025-08-30 23:51:01"
-        },
-        {
-            "domain_name": "www.cpsu.com.au",
-            "destination": "SiteGround",
-            "date": "2025-08-30 23:48:07"
         }
     ],
     "dailyMovedStat": {
@@ -854,10 +854,10 @@
     "topDestinationHosts": {
         "Pressable": 10882,
         "Kinsta": 5838,
-        "SiteGround": 4905,
+        "SiteGround": 4906,
         "Digital Ocean": 4770,
         "Bluehost": 4142,
-        "Hostinger": 3333,
+        "Hostinger": 3335,
         "GoDaddy": 1314,
         "Liquid Web": 638,
         "BigScoots": 619,
