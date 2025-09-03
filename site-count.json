@@ -1,6 +1,11 @@
 {
-    "siteCount": 90478,
+    "siteCount": 90481,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sovea.fi",
+            "destination": "Kinsta",
+            "date": "2025-09-02 23:52:27"
+        },
         {
             "domain_name": "www.vandaliastorageunits.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "bluelakepools.com.au",
             "destination": "SiteGround",
             "date": "2025-08-30 20:35:21"
-        },
-        {
-            "domain_name": "parentnannyedu.com",
-            "destination": "SiteGround",
-            "date": "2025-08-30 19:43:05"
         }
     ],
     "dailyMovedStat": {
@@ -853,7 +853,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10881,
-        "Kinsta": 5836,
+        "Kinsta": 5837,
         "SiteGround": 4904,
         "Digital Ocean": 4769,
         "Bluehost": 4142,
