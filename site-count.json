@@ -1,6 +1,16 @@
 {
-    "siteCount": 90737,
+    "siteCount": 90747,
     "recentlyMoved": [
+        {
+            "domain_name": "minemend.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-04 05:51:13"
+        },
+        {
+            "domain_name": "masterresults.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-04 05:28:50"
+        },
         {
             "domain_name": "servinggodschildren.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "ourpnwhome.com",
             "destination": "BigScoots",
             "date": "2025-09-02 11:14:21"
-        },
-        {
-            "domain_name": "www.symbiosis.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-09-02 09:42:23"
-        },
-        {
-            "domain_name": "lehmanningredients.co.uk",
-            "destination": "BigScoots",
-            "date": "2025-09-02 08:50:01"
         }
     ],
     "dailyMovedStat": {
@@ -855,7 +855,7 @@
     "topDestinationHosts": {
         "Pressable": 10890,
         "Kinsta": 5851,
-        "SiteGround": 4914,
+        "SiteGround": 4916,
         "Digital Ocean": 4784,
         "Bluehost": 4143,
         "Hostinger": 3340,
