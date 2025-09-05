@@ -1,6 +1,11 @@
 {
-    "siteCount": 90987,
+    "siteCount": 90990,
     "recentlyMoved": [
+        {
+            "domain_name": "drkokori.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-09-05 01:52:27"
+        },
         {
             "domain_name": "housetransformersinc.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "glebroninteriors.com",
             "destination": "Kinsta",
             "date": "2025-09-03 11:47:07"
-        },
-        {
-            "domain_name": "www.amfadventures.com",
-            "destination": "SiteGround",
-            "date": "2025-09-03 11:24:49"
         }
     ],
     "dailyMovedStat": {
@@ -857,7 +857,7 @@
         "Pressable": 10893,
         "Kinsta": 5852,
         "SiteGround": 4929,
-        "Digital Ocean": 4793,
+        "Digital Ocean": 4794,
         "Bluehost": 4143,
         "Hostinger": 3343,
         "GoDaddy": 1320,
