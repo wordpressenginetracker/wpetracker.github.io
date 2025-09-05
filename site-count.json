@@ -1,6 +1,11 @@
 {
-    "siteCount": 91013,
+    "siteCount": 91017,
     "recentlyMoved": [
+        {
+            "domain_name": "travelswiththepost.com",
+            "destination": "WordPress.com",
+            "date": "2025-09-05 05:33:55"
+        },
         {
             "domain_name": "drkokori.co.uk",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "bassocap.com",
             "destination": "SiteGround",
             "date": "2025-09-03 11:51:57"
-        },
-        {
-            "domain_name": "glebroninteriors.com",
-            "destination": "Kinsta",
-            "date": "2025-09-03 11:47:07"
         }
     ],
     "dailyMovedStat": {
