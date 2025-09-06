@@ -1,6 +1,11 @@
 {
-    "siteCount": 91284,
+    "siteCount": 91294,
     "recentlyMoved": [
+        {
+            "domain_name": "www.malaikaelc.org",
+            "destination": "Kinsta",
+            "date": "2025-09-06 13:11:50"
+        },
         {
             "domain_name": "www.birdinformer.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "completecleaningconceptstn.com",
             "destination": "Digital Ocean",
             "date": "2025-09-04 12:59:08"
-        },
-        {
-            "domain_name": "chenangovalleyhome.org",
-            "destination": "SiteGround",
-            "date": "2025-09-04 12:40:28"
         }
     ],
     "dailyMovedStat": {
@@ -856,7 +856,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10899,
-        "Kinsta": 5858,
+        "Kinsta": 5859,
         "SiteGround": 4941,
         "Digital Ocean": 4806,
         "Bluehost": 4144,
