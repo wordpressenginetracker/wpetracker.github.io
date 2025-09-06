@@ -1,6 +1,11 @@
 {
-    "siteCount": 91415,
+    "siteCount": 91418,
     "recentlyMoved": [
+        {
+            "domain_name": "dmvfoundationsolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-09-06 21:56:49"
+        },
         {
             "domain_name": "www.loghomestore.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "stillwatertownshipnj.com",
             "destination": "Kinsta",
             "date": "2025-09-05 08:53:33"
-        },
-        {
-            "domain_name": "www.luxeat.com",
-            "destination": "Hostinger",
-            "date": "2025-09-05 08:23:37"
         }
     ],
     "dailyMovedStat": {
@@ -856,7 +856,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10905,
-        "Kinsta": 5861,
+        "Kinsta": 5862,
         "SiteGround": 4947,
         "Digital Ocean": 4813,
         "Bluehost": 4144,
