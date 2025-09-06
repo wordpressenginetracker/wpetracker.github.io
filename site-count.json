@@ -1,6 +1,11 @@
 {
-    "siteCount": 91410,
+    "siteCount": 91415,
     "recentlyMoved": [
+        {
+            "domain_name": "www.loghomestore.com",
+            "destination": "Pressable",
+            "date": "2025-09-06 20:25:39"
+        },
         {
             "domain_name": "pinkmermaidshredding.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-09-05 08:53:33"
         },
         {
-            "domain_name": "www.fruhquip.com",
-            "destination": "GoDaddy",
-            "date": "2025-09-05 08:29:13"
-        },
-        {
             "domain_name": "www.luxeat.com",
             "destination": "Hostinger",
             "date": "2025-09-05 08:23:37"
@@ -855,7 +855,7 @@
         "2025-09-05": "91212"
     },
     "topDestinationHosts": {
-        "Pressable": 10904,
+        "Pressable": 10905,
         "Kinsta": 5861,
         "SiteGround": 4947,
         "Digital Ocean": 4813,
