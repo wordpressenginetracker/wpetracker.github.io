@@ -1,6 +1,11 @@
 {
-    "siteCount": 91232,
+    "siteCount": 91238,
     "recentlyMoved": [
+        {
+            "domain_name": "berjo.se",
+            "destination": "Digital Ocean",
+            "date": "2025-09-06 04:19:58"
+        },
         {
             "domain_name": "collapsewiki.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "campfirecannabis.com",
             "destination": "Digital Ocean",
             "date": "2025-09-04 09:17:54"
-        },
-        {
-            "domain_name": "www.looprecruiting.com",
-            "destination": "BigScoots",
-            "date": "2025-09-04 08:33:05"
         }
     ],
     "dailyMovedStat": {
@@ -858,7 +858,7 @@
         "Pressable": 10899,
         "Kinsta": 5857,
         "SiteGround": 4937,
-        "Digital Ocean": 4803,
+        "Digital Ocean": 4804,
         "Bluehost": 4144,
         "Hostinger": 3352,
         "GoDaddy": 1323,
