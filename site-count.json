@@ -1,6 +1,31 @@
 {
-    "siteCount": 91261,
+    "siteCount": 91272,
     "recentlyMoved": [
+        {
+            "domain_name": "vnvstudio.com",
+            "destination": "GoDaddy",
+            "date": "2025-09-06 10:20:36"
+        },
+        {
+            "domain_name": "vesasaber.cat",
+            "destination": "SiteGround",
+            "date": "2025-09-06 10:01:23"
+        },
+        {
+            "domain_name": "thecarltoddclinic.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-06 09:22:08"
+        },
+        {
+            "domain_name": "thesocialbeing.com",
+            "destination": "Hostinger",
+            "date": "2025-09-06 09:19:49"
+        },
+        {
+            "domain_name": "m2comms.com",
+            "destination": "Kinsta",
+            "date": "2025-09-06 09:00:36"
+        },
         {
             "domain_name": "instituteofaestheticsurgery.com",
             "destination": "GridPane",
@@ -475,31 +500,6 @@
             "domain_name": "hamptonhouse.ca",
             "destination": "Digital Ocean",
             "date": "2025-09-04 12:09:31"
-        },
-        {
-            "domain_name": "foundersgrovecapital.com",
-            "destination": "SiteGround",
-            "date": "2025-09-04 11:53:39"
-        },
-        {
-            "domain_name": "gsprei.com",
-            "destination": "Hostinger",
-            "date": "2025-09-04 11:38:54"
-        },
-        {
-            "domain_name": "w-signs.com",
-            "destination": "Kinsta",
-            "date": "2025-09-04 10:41:10"
-        },
-        {
-            "domain_name": "visitdaltonga.com",
-            "destination": "SiteGround",
-            "date": "2025-09-04 09:57:56"
-        },
-        {
-            "domain_name": "theojt100.com",
-            "destination": "SiteGround",
-            "date": "2025-09-04 09:36:42"
         }
     ],
     "dailyMovedStat": {
@@ -856,11 +856,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10899,
-        "Kinsta": 5857,
-        "SiteGround": 4937,
-        "Digital Ocean": 4805,
+        "Kinsta": 5858,
+        "SiteGround": 4938,
+        "Digital Ocean": 4806,
         "Bluehost": 4144,
-        "Hostinger": 3352,
+        "Hostinger": 3353,
         "GoDaddy": 1323,
         "Liquid Web": 642,
         "BigScoots": 625,
