@@ -1,6 +1,11 @@
 {
-    "siteCount": 91451,
+    "siteCount": 91456,
     "recentlyMoved": [
+        {
+            "domain_name": "handinhandadventures.com",
+            "destination": "Hostinger",
+            "date": "2025-09-07 08:02:57"
+        },
         {
             "domain_name": "northbristolartists.org.uk",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "vervedesignllc.com",
             "destination": "Kinsta",
             "date": "2025-09-05 10:01:39"
-        },
-        {
-            "domain_name": "naismiths.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-05 09:50:19"
         }
     ],
     "dailyMovedStat": {
@@ -861,7 +861,7 @@
         "SiteGround": 4948,
         "Digital Ocean": 4813,
         "Bluehost": 4145,
-        "Hostinger": 3357,
+        "Hostinger": 3358,
         "GoDaddy": 1325,
         "Liquid Web": 644,
         "BigScoots": 625,
