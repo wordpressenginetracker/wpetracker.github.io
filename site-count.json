@@ -1,6 +1,11 @@
 {
-    "siteCount": 91425,
+    "siteCount": 91431,
     "recentlyMoved": [
+        {
+            "domain_name": "rivercityboxing.com",
+            "destination": "Bluehost",
+            "date": "2025-09-07 00:00:27"
+        },
         {
             "domain_name": "dmvfoundationsolutions.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "theartisansbox.com",
             "destination": "Hostinger",
             "date": "2025-09-05 09:11:36"
-        },
-        {
-            "domain_name": "stillwatertownshipnj.com",
-            "destination": "Kinsta",
-            "date": "2025-09-05 08:53:33"
         }
     ],
     "dailyMovedStat": {
@@ -860,7 +860,7 @@
         "Kinsta": 5862,
         "SiteGround": 4947,
         "Digital Ocean": 4813,
-        "Bluehost": 4144,
+        "Bluehost": 4145,
         "Hostinger": 3357,
         "GoDaddy": 1325,
         "Liquid Web": 643,
