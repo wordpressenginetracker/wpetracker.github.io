@@ -1,6 +1,11 @@
 {
-    "siteCount": 91456,
+    "siteCount": 91457,
     "recentlyMoved": [
+        {
+            "domain_name": "carenotes.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-07 09:05:11"
+        },
         {
             "domain_name": "handinhandadventures.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "windowworks-nj.com",
             "destination": "Kinsta",
             "date": "2025-09-05 11:52:22"
-        },
-        {
-            "domain_name": "vervedesignllc.com",
-            "destination": "Kinsta",
-            "date": "2025-09-05 10:01:39"
         }
     ],
     "dailyMovedStat": {
@@ -859,7 +859,7 @@
         "Pressable": 10905,
         "Kinsta": 5862,
         "SiteGround": 4948,
-        "Digital Ocean": 4813,
+        "Digital Ocean": 4814,
         "Bluehost": 4145,
         "Hostinger": 3358,
         "GoDaddy": 1325,
