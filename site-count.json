@@ -1,6 +1,11 @@
 {
-    "siteCount": 91653,
+    "siteCount": 91656,
     "recentlyMoved": [
+        {
+            "domain_name": "training.fasdhub.org.au",
+            "destination": "Digital Ocean",
+            "date": "2025-09-08 21:51:36"
+        },
         {
             "domain_name": "isdhealthsolutions.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "gthogame.com",
             "destination": "Hostinger",
             "date": "2025-09-06 00:09:37"
-        },
-        {
-            "domain_name": "thelakejames100.com",
-            "destination": "SiteGround",
-            "date": "2025-09-05 21:58:26"
         }
     ],
     "dailyMovedStat": {
@@ -860,7 +860,7 @@
         "Pressable": 10908,
         "Kinsta": 5864,
         "SiteGround": 4960,
-        "Digital Ocean": 4818,
+        "Digital Ocean": 4819,
         "Bluehost": 4149,
         "Hostinger": 3362,
         "GoDaddy": 1328,
