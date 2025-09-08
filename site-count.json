@@ -1,6 +1,11 @@
 {
-    "siteCount": 91543,
+    "siteCount": 91551,
     "recentlyMoved": [
+        {
+            "domain_name": "captaincook.com",
+            "destination": "SiteGround",
+            "date": "2025-09-08 01:20:12"
+        },
         {
             "domain_name": "regionsolarandelectric.com",
             "destination": "GoDaddy",
@@ -487,11 +492,6 @@
             "date": "2025-09-05 16:03:46"
         },
         {
-            "domain_name": "edgewaterfitnessclub.com",
-            "destination": "A2 Hosting",
-            "date": "2025-09-05 14:21:06"
-        },
-        {
             "domain_name": "virtualassistantsolutions.com",
             "destination": "Hostinger",
             "date": "2025-09-05 13:54:35"
@@ -859,11 +859,11 @@
     "topDestinationHosts": {
         "Pressable": 10908,
         "Kinsta": 5863,
-        "SiteGround": 4951,
+        "SiteGround": 4952,
         "Digital Ocean": 4816,
         "Bluehost": 4146,
         "Hostinger": 3358,
-        "GoDaddy": 1326,
+        "GoDaddy": 1327,
         "Liquid Web": 644,
         "BigScoots": 626,
         "WordPress.com": 447,
