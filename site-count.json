@@ -1,6 +1,11 @@
 {
-    "siteCount": 91603,
+    "siteCount": 91611,
     "recentlyMoved": [
+        {
+            "domain_name": "oliviasebesky.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-09-08 15:29:08"
+        },
         {
             "domain_name": "excelsiorlimo.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "allisonbrannonlcsw.com",
             "destination": "Digital Ocean",
             "date": "2025-09-05 19:43:40"
-        },
-        {
-            "domain_name": "novarestaurantgroup.com",
-            "destination": "Hostinger",
-            "date": "2025-09-05 17:53:35"
         }
     ],
     "dailyMovedStat": {
@@ -867,7 +867,7 @@
         "Liquid Web": 645,
         "BigScoots": 627,
         "WordPress.com": 447,
-        "InMotion Hosting": 408,
+        "InMotion Hosting": 409,
         "GridPane": 385,
         "A2 Hosting": 374,
         "OVH": 360,
