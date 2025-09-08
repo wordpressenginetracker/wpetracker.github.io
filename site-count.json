@@ -1,10 +1,20 @@
 {
-    "siteCount": 91551,
+    "siteCount": 91566,
     "recentlyMoved": [
+        {
+            "domain_name": "ericaandjon.com",
+            "destination": "BigScoots",
+            "date": "2025-09-08 02:33:11"
+        },
         {
             "domain_name": "captaincook.com",
             "destination": "SiteGround",
             "date": "2025-09-08 01:20:12"
+        },
+        {
+            "domain_name": "www.tel-education.org",
+            "destination": "Digital Ocean",
+            "date": "2025-09-08 01:09:39"
         },
         {
             "domain_name": "regionsolarandelectric.com",
@@ -490,16 +500,6 @@
             "domain_name": "pizzanovara.com",
             "destination": "Hostinger",
             "date": "2025-09-05 16:03:46"
-        },
-        {
-            "domain_name": "virtualassistantsolutions.com",
-            "destination": "Hostinger",
-            "date": "2025-09-05 13:54:35"
-        },
-        {
-            "domain_name": "municipalite.ferme-neuve.qc.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-09-05 13:52:21"
         }
     ],
     "dailyMovedStat": {
@@ -860,12 +860,12 @@
         "Pressable": 10908,
         "Kinsta": 5863,
         "SiteGround": 4952,
-        "Digital Ocean": 4816,
+        "Digital Ocean": 4817,
         "Bluehost": 4146,
         "Hostinger": 3358,
         "GoDaddy": 1327,
         "Liquid Web": 644,
-        "BigScoots": 626,
+        "BigScoots": 627,
         "WordPress.com": 447,
         "InMotion Hosting": 408,
         "GridPane": 385,
