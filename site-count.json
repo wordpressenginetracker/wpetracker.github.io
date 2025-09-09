@@ -1,6 +1,31 @@
 {
-    "siteCount": 91862,
+    "siteCount": 91875,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sanfranciscorealestategroup.com",
+            "destination": "Pressable",
+            "date": "2025-09-09 21:29:57"
+        },
+        {
+            "domain_name": "kineticvets.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-09-09 21:16:09"
+        },
+        {
+            "domain_name": "icecastles.com",
+            "destination": "GoDaddy",
+            "date": "2025-09-09 20:42:26"
+        },
+        {
+            "domain_name": "roycechandler.com",
+            "destination": "SiteGround",
+            "date": "2025-09-09 20:37:04"
+        },
+        {
+            "domain_name": "bemeno.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-09 20:27:21"
+        },
         {
             "domain_name": "gritandgracemastery.com",
             "destination": "WordPress.com",
@@ -10,6 +35,11 @@
             "domain_name": "oloskc.org",
             "destination": "Digital Ocean",
             "date": "2025-09-09 20:00:16"
+        },
+        {
+            "domain_name": "beyondbluegroup.com",
+            "destination": "SiteGround",
+            "date": "2025-09-09 19:56:17"
         },
         {
             "domain_name": "midcoastsmartsystems.com",
@@ -470,36 +500,6 @@
             "domain_name": "trokie.com",
             "destination": "Pressable",
             "date": "2025-09-06 18:05:18"
-        },
-        {
-            "domain_name": "terza3.com",
-            "destination": "Hostinger",
-            "date": "2025-09-06 17:46:37"
-        },
-        {
-            "domain_name": "www.thefriendlyfixer.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-06 17:30:42"
-        },
-        {
-            "domain_name": "thefriendlyfixer.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-06 17:24:39"
-        },
-        {
-            "domain_name": "mikobits.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-06 17:23:02"
-        },
-        {
-            "domain_name": "ctomarketing.com",
-            "destination": "HostGator",
-            "date": "2025-09-06 17:20:25"
-        },
-        {
-            "domain_name": "dilcoofgreenville.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-06 17:18:41"
         }
     ],
     "dailyMovedStat": {
@@ -858,13 +858,13 @@
         "2025-09-08": "91656"
     },
     "topDestinationHosts": {
-        "Pressable": 10910,
+        "Pressable": 10911,
         "Kinsta": 5878,
-        "SiteGround": 4967,
-        "Digital Ocean": 4828,
+        "SiteGround": 4969,
+        "Digital Ocean": 4829,
         "Bluehost": 4152,
         "Hostinger": 3366,
-        "GoDaddy": 1328,
+        "GoDaddy": 1329,
         "Liquid Web": 645,
         "BigScoots": 627,
         "WordPress.com": 449,
@@ -875,7 +875,7 @@
         "IONOS": 339,
         "Namecheap": 329,
         "DreamHost": 322,
-        "Elementor Hosting": 316,
+        "Elementor Hosting": 317,
         "Hetzner Online": 258,
         "HostGator": 212
     },
