@@ -1,6 +1,11 @@
 {
-    "siteCount": 91683,
+    "siteCount": 91686,
     "recentlyMoved": [
+        {
+            "domain_name": "mantrawellnessbali.com",
+            "destination": "OVH",
+            "date": "2025-09-09 05:33:19"
+        },
         {
             "domain_name": "handheld-hq.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "raullyjonesconstructioninc.com",
             "destination": "Pressable",
             "date": "2025-09-06 00:12:44"
-        },
-        {
-            "domain_name": "gthogame.com",
-            "destination": "Hostinger",
-            "date": "2025-09-06 00:09:37"
         }
     ],
     "dailyMovedStat": {
@@ -871,7 +871,7 @@
         "InMotion Hosting": 409,
         "GridPane": 385,
         "A2 Hosting": 374,
-        "OVH": 360,
+        "OVH": 361,
         "IONOS": 338,
         "Namecheap": 328,
         "DreamHost": 322,
