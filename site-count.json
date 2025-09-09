@@ -1,6 +1,11 @@
 {
-    "siteCount": 91696,
+    "siteCount": 91709,
     "recentlyMoved": [
+        {
+            "domain_name": "illumedentistry.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-09-09 08:41:41"
+        },
         {
             "domain_name": "waterloo.zestacademytrust.co.uk",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.drcarltodd.com",
             "destination": "Digital Ocean",
             "date": "2025-09-06 08:04:28"
-        },
-        {
-            "domain_name": "www.dashler.tech",
-            "destination": "OVH",
-            "date": "2025-09-06 07:48:34"
         }
     ],
     "dailyMovedStat": {
@@ -861,7 +861,7 @@
         "Pressable": 10908,
         "Kinsta": 5865,
         "SiteGround": 4961,
-        "Digital Ocean": 4821,
+        "Digital Ocean": 4822,
         "Bluehost": 4149,
         "Hostinger": 3362,
         "GoDaddy": 1328,
