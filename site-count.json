@@ -1,6 +1,11 @@
 {
-    "siteCount": 92103,
+    "siteCount": 92109,
     "recentlyMoved": [
+        {
+            "domain_name": "blog.allgeo.com",
+            "destination": "Kinsta",
+            "date": "2025-09-10 20:04:59"
+        },
         {
             "domain_name": "criticalfacilitiessolutions.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "tonybillseyewear.com",
             "destination": "Hostinger",
             "date": "2025-09-08 18:12:17"
-        },
-        {
-            "domain_name": "mightyefficient.co.nz",
-            "destination": "SiteGround",
-            "date": "2025-09-08 17:51:31"
         }
     ],
     "dailyMovedStat": {
@@ -860,7 +860,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10916,
-        "Kinsta": 5890,
+        "Kinsta": 5891,
         "SiteGround": 4977,
         "Digital Ocean": 4833,
         "Bluehost": 4155,
