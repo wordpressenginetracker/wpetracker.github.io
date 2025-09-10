@@ -1,6 +1,11 @@
 {
-    "siteCount": 92116,
+    "siteCount": 92118,
     "recentlyMoved": [
+        {
+            "domain_name": "northterracechurch.com",
+            "destination": "SiteGround",
+            "date": "2025-09-10 21:55:18"
+        },
         {
             "domain_name": "blog.allgeo.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "isdhealthsolutions.com",
             "destination": "Bluehost",
             "date": "2025-09-08 20:46:05"
-        },
-        {
-            "domain_name": "tonybillseyewear.com",
-            "destination": "Hostinger",
-            "date": "2025-09-08 18:12:17"
         }
     ],
     "dailyMovedStat": {
@@ -856,12 +856,13 @@
         "2025-09-06": "91418",
         "2025-09-07": "91527",
         "2025-09-08": "91656",
-        "2025-09-09": "91886"
+        "2025-09-09": "91886",
+        "2025-09-10": "92118"
     },
     "topDestinationHosts": {
         "Pressable": 10916,
         "Kinsta": 5891,
-        "SiteGround": 4977,
+        "SiteGround": 4978,
         "Digital Ocean": 4833,
         "Bluehost": 4155,
         "Hostinger": 3372,
@@ -1234,6 +1235,7 @@
         "2025-09-06": "583203",
         "2025-09-07": "584980",
         "2025-09-08": "584206",
-        "2025-09-09": "583497"
+        "2025-09-09": "583497",
+        "2025-09-10": "582410"
     }
 }
