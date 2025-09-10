@@ -1,6 +1,11 @@
 {
-    "siteCount": 92046,
+    "siteCount": 92059,
     "recentlyMoved": [
+        {
+            "domain_name": "criticalfacilitiessolutions.com",
+            "destination": "DreamHost",
+            "date": "2025-09-10 17:53:24"
+        },
         {
             "domain_name": "joylifespa.com",
             "destination": "BigScoots",
@@ -10,6 +15,11 @@
             "domain_name": "letsglowputt.com",
             "destination": "SiteGround",
             "date": "2025-09-10 17:00:55"
+        },
+        {
+            "domain_name": "lpandcodesign.com",
+            "destination": "Kinsta",
+            "date": "2025-09-10 16:57:23"
         },
         {
             "domain_name": "www.gkbm.com",
@@ -490,16 +500,6 @@
             "domain_name": "mightyefficient.co.nz",
             "destination": "SiteGround",
             "date": "2025-09-08 17:51:31"
-        },
-        {
-            "domain_name": "columbuswestchurch.com",
-            "destination": "Hostinger",
-            "date": "2025-09-08 17:13:45"
-        },
-        {
-            "domain_name": "chizhova.ru",
-            "destination": "SiteGround",
-            "date": "2025-09-08 16:49:55"
         }
     ],
     "dailyMovedStat": {
@@ -860,7 +860,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10915,
-        "Kinsta": 5889,
+        "Kinsta": 5890,
         "SiteGround": 4977,
         "Digital Ocean": 4833,
         "Bluehost": 4154,
@@ -875,7 +875,7 @@
         "OVH": 362,
         "IONOS": 339,
         "Namecheap": 331,
-        "DreamHost": 322,
+        "DreamHost": 323,
         "Elementor Hosting": 317,
         "Hetzner Online": 258,
         "HostGator": 213
