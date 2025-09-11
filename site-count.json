@@ -1,6 +1,11 @@
 {
-    "siteCount": 92166,
+    "siteCount": 92176,
     "recentlyMoved": [
+        {
+            "domain_name": "futureleap.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-09-11 07:19:47"
+        },
         {
             "domain_name": "net-tours.ch",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "theadaptivemarketer.com",
             "destination": "Hostinger",
             "date": "2025-09-09 09:04:47"
-        },
-        {
-            "domain_name": "illumedentistry.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-09-09 08:41:41"
         }
     ],
     "dailyMovedStat": {
@@ -862,7 +862,7 @@
     "topDestinationHosts": {
         "Pressable": 10916,
         "Kinsta": 5892,
-        "SiteGround": 4979,
+        "SiteGround": 4980,
         "Digital Ocean": 4834,
         "Bluehost": 4155,
         "Hostinger": 3372,
