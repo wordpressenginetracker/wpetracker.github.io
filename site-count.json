@@ -1,6 +1,11 @@
 {
-    "siteCount": 92357,
+    "siteCount": 92361,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mickhudson.com.au",
+            "destination": "Pressable",
+            "date": "2025-09-12 00:52:19"
+        },
         {
             "domain_name": "privatejetcenter.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "timessquarewheel.nyc",
             "destination": "Hostinger",
             "date": "2025-09-10 01:36:05"
-        },
-        {
-            "domain_name": "lmvcounseling.com",
-            "destination": "SiteGround",
-            "date": "2025-09-10 01:35:00"
         }
     ],
     "dailyMovedStat": {
@@ -861,7 +861,7 @@
         "2025-09-11": "92350"
     },
     "topDestinationHosts": {
-        "Pressable": 10919,
+        "Pressable": 10920,
         "Kinsta": 5902,
         "SiteGround": 4988,
         "Digital Ocean": 4844,
