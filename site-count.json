@@ -1,6 +1,21 @@
 {
-    "siteCount": 92402,
+    "siteCount": 92410,
     "recentlyMoved": [
+        {
+            "domain_name": "clearskycap.com",
+            "destination": "Kinsta",
+            "date": "2025-09-12 09:26:39"
+        },
+        {
+            "domain_name": "www.portagedevbd.org",
+            "destination": "Kinsta",
+            "date": "2025-09-12 09:04:49"
+        },
+        {
+            "domain_name": "cchealthfoundation.org",
+            "destination": "Digital Ocean",
+            "date": "2025-09-12 08:58:44"
+        },
         {
             "domain_name": "thebistronj.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "finch.us.com",
             "destination": "Kinsta",
             "date": "2025-09-10 11:39:05"
-        },
-        {
-            "domain_name": "manage.curioelectro.com",
-            "destination": "Kinsta",
-            "date": "2025-09-10 09:52:33"
-        },
-        {
-            "domain_name": "completecounseling.net",
-            "destination": "Kinsta",
-            "date": "2025-09-10 09:29:22"
-        },
-        {
-            "domain_name": "trhdesign.com",
-            "destination": "Kinsta",
-            "date": "2025-09-10 09:24:09"
         }
     ],
     "dailyMovedStat": {
@@ -862,9 +862,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 10921,
-        "Kinsta": 5903,
+        "Kinsta": 5905,
         "SiteGround": 4990,
-        "Digital Ocean": 4847,
+        "Digital Ocean": 4848,
         "Bluehost": 4157,
         "Hostinger": 3375,
         "GoDaddy": 1333,
