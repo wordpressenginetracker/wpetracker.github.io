@@ -1,6 +1,21 @@
 {
-    "siteCount": 92506,
+    "siteCount": 92521,
     "recentlyMoved": [
+        {
+            "domain_name": "ehg.net",
+            "destination": "Pressable",
+            "date": "2025-09-12 18:00:01"
+        },
+        {
+            "domain_name": "tcwaterinc.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-09-12 17:50:10"
+        },
+        {
+            "domain_name": "tulsi.diamonds",
+            "destination": "Hostinger",
+            "date": "2025-09-12 17:39:14"
+        },
         {
             "domain_name": "blog.betocean.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "blog.allgeo.com",
             "destination": "Kinsta",
             "date": "2025-09-10 20:04:59"
-        },
-        {
-            "domain_name": "criticalfacilitiessolutions.com",
-            "destination": "DreamHost",
-            "date": "2025-09-10 17:53:24"
-        },
-        {
-            "domain_name": "letsglowputt.com",
-            "destination": "SiteGround",
-            "date": "2025-09-10 17:00:55"
-        },
-        {
-            "domain_name": "lpandcodesign.com",
-            "destination": "Kinsta",
-            "date": "2025-09-10 16:57:23"
         }
     ],
     "dailyMovedStat": {
@@ -861,12 +861,12 @@
         "2025-09-11": "92350"
     },
     "topDestinationHosts": {
-        "Pressable": 10925,
+        "Pressable": 10926,
         "Kinsta": 5910,
         "SiteGround": 4994,
         "Digital Ocean": 4856,
         "Bluehost": 4157,
-        "Hostinger": 3378,
+        "Hostinger": 3379,
         "GoDaddy": 1333,
         "Liquid Web": 650,
         "BigScoots": 632,
@@ -878,7 +878,7 @@
         "IONOS": 342,
         "Namecheap": 334,
         "DreamHost": 326,
-        "Elementor Hosting": 318,
+        "Elementor Hosting": 319,
         "Hetzner Online": 261,
         "HostGator": 215
     },
