@@ -1,6 +1,21 @@
 {
-    "siteCount": 92710,
+    "siteCount": 92758,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jcdelaw.com",
+            "destination": "GoDaddy",
+            "date": "2025-09-13 20:03:59"
+        },
+        {
+            "domain_name": "gulfcoasthumanesociety.org",
+            "destination": "Elementor Hosting",
+            "date": "2025-09-13 19:49:56"
+        },
+        {
+            "domain_name": "floridagulfcoastpva.org",
+            "destination": "Bluehost",
+            "date": "2025-09-13 19:17:52"
+        },
         {
             "domain_name": "vanityhairstudio.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "www.willeandstiener.com",
             "destination": "Pressable",
             "date": "2025-09-11 21:31:52"
-        },
-        {
-            "domain_name": "coalitionrestoration.com",
-            "destination": "Hostinger",
-            "date": "2025-09-11 21:28:12"
-        },
-        {
-            "domain_name": "cityrealtor.co.uk",
-            "destination": "IONOS",
-            "date": "2025-09-11 20:51:55"
-        },
-        {
-            "domain_name": "sellingunlocked.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-11 20:47:17"
         }
     ],
     "dailyMovedStat": {
@@ -864,22 +864,22 @@
     "topDestinationHosts": {
         "Pressable": 10929,
         "Kinsta": 5915,
-        "SiteGround": 5007,
-        "Digital Ocean": 4868,
-        "Bluehost": 4157,
-        "Hostinger": 3384,
-        "GoDaddy": 1336,
-        "Liquid Web": 650,
+        "SiteGround": 5008,
+        "Digital Ocean": 4869,
+        "Bluehost": 4160,
+        "Hostinger": 3385,
+        "GoDaddy": 1337,
+        "Liquid Web": 652,
         "BigScoots": 632,
         "WordPress.com": 452,
         "InMotion Hosting": 410,
         "GridPane": 391,
         "A2 Hosting": 375,
         "OVH": 366,
-        "IONOS": 342,
+        "IONOS": 343,
         "Namecheap": 336,
-        "DreamHost": 327,
-        "Elementor Hosting": 319,
+        "DreamHost": 328,
+        "Elementor Hosting": 320,
         "Hetzner Online": 261,
         "HostGator": 216
     },
