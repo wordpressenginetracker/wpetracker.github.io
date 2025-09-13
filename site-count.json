@@ -1,5 +1,5 @@
 {
-    "siteCount": 92767,
+    "siteCount": 92769,
     "recentlyMoved": [
         {
             "domain_name": "keystonepostacute.com",
@@ -10,6 +10,11 @@
             "domain_name": "brighter-days.org",
             "destination": "SiteGround",
             "date": "2025-09-13 21:05:50"
+        },
+        {
+            "domain_name": "majesticmtn.com",
+            "destination": "SiteGround",
+            "date": "2025-09-13 21:01:19"
         },
         {
             "domain_name": "shapiromedical.com",
@@ -492,11 +497,6 @@
             "date": "2025-09-12 00:10:55"
         },
         {
-            "domain_name": "pharmacybrandscanada.com",
-            "destination": "Kinsta",
-            "date": "2025-09-12 00:03:40"
-        },
-        {
             "domain_name": "www.earlybird-bk.com",
             "destination": "Kinsta",
             "date": "2025-09-11 23:34:33"
@@ -864,7 +864,7 @@
     "topDestinationHosts": {
         "Pressable": 10929,
         "Kinsta": 5915,
-        "SiteGround": 5010,
+        "SiteGround": 5011,
         "Digital Ocean": 4870,
         "Bluehost": 4160,
         "Hostinger": 3385,
