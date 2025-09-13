@@ -1,6 +1,11 @@
 {
-    "siteCount": 92617,
+    "siteCount": 92621,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hannahblythyn.cymru",
+            "destination": "Hostinger",
+            "date": "2025-09-13 07:56:23"
+        },
         {
             "domain_name": "mulberry-house.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "anashine.com",
             "destination": "WordPress.com",
             "date": "2025-09-11 11:47:33"
-        },
-        {
-            "domain_name": "parisgirlescort.com",
-            "destination": "Hetzner Online",
-            "date": "2025-09-11 11:31:53"
         }
     ],
     "dailyMovedStat": {
@@ -867,7 +867,7 @@
         "SiteGround": 4996,
         "Digital Ocean": 4862,
         "Bluehost": 4157,
-        "Hostinger": 3380,
+        "Hostinger": 3381,
         "GoDaddy": 1334,
         "Liquid Web": 650,
         "BigScoots": 632,
