@@ -1,6 +1,11 @@
 {
-    "siteCount": 92621,
+    "siteCount": 92623,
     "recentlyMoved": [
+        {
+            "domain_name": "www.getcompasselectric.com",
+            "destination": "SiteGround",
+            "date": "2025-09-13 08:13:19"
+        },
         {
             "domain_name": "www.hannahblythyn.cymru",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "ashleylibathdesign.com",
             "destination": "Kinsta",
             "date": "2025-09-11 11:49:35"
-        },
-        {
-            "domain_name": "anashine.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-11 11:47:33"
         }
     ],
     "dailyMovedStat": {
@@ -864,7 +864,7 @@
     "topDestinationHosts": {
         "Pressable": 10928,
         "Kinsta": 5911,
-        "SiteGround": 4996,
+        "SiteGround": 4997,
         "Digital Ocean": 4862,
         "Bluehost": 4157,
         "Hostinger": 3381,
