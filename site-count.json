@@ -1,6 +1,11 @@
 {
-    "siteCount": 92805,
+    "siteCount": 92810,
     "recentlyMoved": [
+        {
+            "domain_name": "www.khlawfirm.com",
+            "destination": "Kinsta",
+            "date": "2025-09-14 16:54:11"
+        },
         {
             "domain_name": "recon-restoration.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "erena.org",
             "destination": "Hetzner Online",
             "date": "2025-09-12 05:43:29"
-        },
-        {
-            "domain_name": "crewchiefs.com",
-            "destination": "Hostinger",
-            "date": "2025-09-12 05:25:35"
         }
     ],
     "dailyMovedStat": {
@@ -864,7 +864,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10929,
-        "Kinsta": 5915,
+        "Kinsta": 5916,
         "SiteGround": 5012,
         "Digital Ocean": 4874,
         "Bluehost": 4160,
