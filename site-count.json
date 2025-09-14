@@ -1,6 +1,11 @@
 {
-    "siteCount": 92800,
+    "siteCount": 92805,
     "recentlyMoved": [
+        {
+            "domain_name": "recon-restoration.com",
+            "destination": "GoDaddy",
+            "date": "2025-09-14 16:20:53"
+        },
         {
             "domain_name": "www.myagentalisha.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "crewchiefs.com",
             "destination": "Hostinger",
             "date": "2025-09-12 05:25:35"
-        },
-        {
-            "domain_name": "smilekoomba.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-12 04:41:16"
         }
     ],
     "dailyMovedStat": {
@@ -869,7 +869,7 @@
         "Digital Ocean": 4874,
         "Bluehost": 4160,
         "Hostinger": 3386,
-        "GoDaddy": 1337,
+        "GoDaddy": 1338,
         "Liquid Web": 652,
         "BigScoots": 632,
         "WordPress.com": 452,
