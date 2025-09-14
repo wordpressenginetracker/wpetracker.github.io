@@ -1,6 +1,11 @@
 {
-    "siteCount": 92769,
+    "siteCount": 92771,
     "recentlyMoved": [
+        {
+            "domain_name": "guidingstargala.com",
+            "destination": "SiteGround",
+            "date": "2025-09-14 00:27:30"
+        },
         {
             "domain_name": "keystonepostacute.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "privatejetcenter.com",
             "destination": "GoDaddy",
             "date": "2025-09-12 00:10:55"
-        },
-        {
-            "domain_name": "www.earlybird-bk.com",
-            "destination": "Kinsta",
-            "date": "2025-09-11 23:34:33"
         }
     ],
     "dailyMovedStat": {
@@ -865,7 +865,7 @@
     "topDestinationHosts": {
         "Pressable": 10929,
         "Kinsta": 5915,
-        "SiteGround": 5011,
+        "SiteGround": 5012,
         "Digital Ocean": 4870,
         "Bluehost": 4160,
         "Hostinger": 3385,
