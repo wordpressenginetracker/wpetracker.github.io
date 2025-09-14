@@ -1,6 +1,11 @@
 {
-    "siteCount": 92810,
+    "siteCount": 92814,
     "recentlyMoved": [
+        {
+            "domain_name": "fafco.com",
+            "destination": "HostGator",
+            "date": "2025-09-14 17:48:47"
+        },
         {
             "domain_name": "www.khlawfirm.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "fpwa.com",
             "destination": "Pressable",
             "date": "2025-09-12 08:00:28"
-        },
-        {
-            "domain_name": "erena.org",
-            "destination": "Hetzner Online",
-            "date": "2025-09-12 05:43:29"
         }
     ],
     "dailyMovedStat": {
@@ -882,7 +882,7 @@
         "DreamHost": 328,
         "Elementor Hosting": 320,
         "Hetzner Online": 261,
-        "HostGator": 217
+        "HostGator": 218
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
