@@ -1,6 +1,11 @@
 {
-    "siteCount": 92774,
+    "siteCount": 92782,
     "recentlyMoved": [
+        {
+            "domain_name": "salisburyandavon.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-09-14 03:49:24"
+        },
         {
             "domain_name": "guidingstargala.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.mickhudson.com.au",
             "destination": "Pressable",
             "date": "2025-09-12 00:52:19"
-        },
-        {
-            "domain_name": "privatejetcenter.com",
-            "destination": "GoDaddy",
-            "date": "2025-09-12 00:10:55"
         }
     ],
     "dailyMovedStat": {
@@ -868,7 +868,7 @@
         "SiteGround": 5012,
         "Digital Ocean": 4870,
         "Bluehost": 4160,
-        "Hostinger": 3385,
+        "Hostinger": 3386,
         "GoDaddy": 1337,
         "Liquid Web": 652,
         "BigScoots": 632,
