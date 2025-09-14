@@ -1,6 +1,11 @@
 {
-    "siteCount": 92814,
+    "siteCount": 92833,
     "recentlyMoved": [
+        {
+            "domain_name": "afterthestormrecovery.com",
+            "destination": "Bluehost",
+            "date": "2025-09-14 19:24:11"
+        },
         {
             "domain_name": "fafco.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "thebistronj.com",
             "destination": "SiteGround",
             "date": "2025-09-12 08:11:17"
-        },
-        {
-            "domain_name": "fpwa.com",
-            "destination": "Pressable",
-            "date": "2025-09-12 08:00:28"
         }
     ],
     "dailyMovedStat": {
@@ -867,7 +867,7 @@
         "Kinsta": 5916,
         "SiteGround": 5012,
         "Digital Ocean": 4874,
-        "Bluehost": 4160,
+        "Bluehost": 4161,
         "Hostinger": 3386,
         "GoDaddy": 1338,
         "Liquid Web": 652,
