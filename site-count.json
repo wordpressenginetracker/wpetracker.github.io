@@ -1,6 +1,11 @@
 {
-    "siteCount": 92882,
+    "siteCount": 92885,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gentronics.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-09-15 11:57:21"
+        },
         {
             "domain_name": "www.comparecopiers.com.au",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-09-12 13:27:12"
         },
         {
-            "domain_name": "larutan.pt",
-            "destination": "Hostinger",
-            "date": "2025-09-12 13:25:14"
-        },
-        {
             "domain_name": "cornerstonecarecenter.com",
             "destination": "SiteGround",
             "date": "2025-09-12 13:10:31"
@@ -867,7 +867,7 @@
         "Pressable": 10930,
         "Kinsta": 5917,
         "SiteGround": 5013,
-        "Digital Ocean": 4883,
+        "Digital Ocean": 4884,
         "Bluehost": 4161,
         "Hostinger": 3387,
         "GoDaddy": 1338,
