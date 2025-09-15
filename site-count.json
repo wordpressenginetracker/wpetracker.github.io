@@ -1,6 +1,11 @@
 {
-    "siteCount": 92870,
+    "siteCount": 92871,
     "recentlyMoved": [
+        {
+            "domain_name": "compass-cap.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-15 09:25:01"
+        },
         {
             "domain_name": "www.hirerite.com.au",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-09-12 13:18:35"
         },
         {
-            "domain_name": "www.magicaltheatre.org",
-            "destination": "Kinsta",
-            "date": "2025-09-12 13:10:32"
-        },
-        {
             "domain_name": "cornerstonecarecenter.com",
             "destination": "SiteGround",
             "date": "2025-09-12 13:10:31"
@@ -867,7 +867,7 @@
         "Pressable": 10930,
         "Kinsta": 5917,
         "SiteGround": 5013,
-        "Digital Ocean": 4882,
+        "Digital Ocean": 4883,
         "Bluehost": 4161,
         "Hostinger": 3386,
         "GoDaddy": 1338,
