@@ -1,6 +1,11 @@
 {
-    "siteCount": 92937,
+    "siteCount": 92941,
     "recentlyMoved": [
+        {
+            "domain_name": "anzac.emmaus.qld.edu.au",
+            "destination": "SiteGround",
+            "date": "2025-09-16 00:27:17"
+        },
         {
             "domain_name": "client.lemonadestand.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "brendanbarca.com",
             "destination": "Pressable",
             "date": "2025-09-12 16:14:02"
-        },
-        {
-            "domain_name": "ramsey5travel.com",
-            "destination": "BigScoots",
-            "date": "2025-09-12 15:57:18"
         }
     ],
     "dailyMovedStat": {
@@ -867,7 +867,7 @@
     "topDestinationHosts": {
         "Pressable": 10931,
         "Kinsta": 5918,
-        "SiteGround": 5013,
+        "SiteGround": 5014,
         "Digital Ocean": 4887,
         "Bluehost": 4161,
         "Hostinger": 3387,
