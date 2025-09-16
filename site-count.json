@@ -1,6 +1,16 @@
 {
-    "siteCount": 92957,
+    "siteCount": 92966,
     "recentlyMoved": [
+        {
+            "domain_name": "courses.burrelleducation.com",
+            "destination": "SiteGround",
+            "date": "2025-09-16 05:03:28"
+        },
+        {
+            "domain_name": "rockhamptonminiloads.com",
+            "destination": "SiteGround",
+            "date": "2025-09-16 04:36:44"
+        },
         {
             "domain_name": "plumbplus.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "surveying.com.au",
             "destination": "SiteGround",
             "date": "2025-09-12 21:03:22"
-        },
-        {
-            "domain_name": "quattrossm.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-12 20:16:34"
-        },
-        {
-            "domain_name": "highprofilemodels.com",
-            "destination": "Hostinger",
-            "date": "2025-09-12 19:52:21"
         }
     ],
     "dailyMovedStat": {
@@ -867,7 +867,7 @@
     "topDestinationHosts": {
         "Pressable": 10931,
         "Kinsta": 5919,
-        "SiteGround": 5017,
+        "SiteGround": 5018,
         "Digital Ocean": 4889,
         "Bluehost": 4161,
         "Hostinger": 3387,
