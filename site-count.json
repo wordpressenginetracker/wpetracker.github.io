@@ -1,6 +1,26 @@
 {
-    "siteCount": 93141,
+    "siteCount": 93153,
     "recentlyMoved": [
+        {
+            "domain_name": "sncsacademy.com",
+            "destination": "WordPress.com",
+            "date": "2025-09-17 01:11:22"
+        },
+        {
+            "domain_name": "stage.net.au",
+            "destination": "SiteGround",
+            "date": "2025-09-17 01:06:09"
+        },
+        {
+            "domain_name": "selectcare.org.au",
+            "destination": "SiteGround",
+            "date": "2025-09-17 00:30:11"
+        },
+        {
+            "domain_name": "scbrands.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-17 00:29:55"
+        },
         {
             "domain_name": "nancylevin.com",
             "destination": "Digital Ocean",
@@ -472,11 +492,6 @@
             "date": "2025-09-13 21:23:44"
         },
         {
-            "domain_name": "brighter-days.org",
-            "destination": "SiteGround",
-            "date": "2025-09-13 21:05:50"
-        },
-        {
             "domain_name": "majesticmtn.com",
             "destination": "SiteGround",
             "date": "2025-09-13 21:01:19"
@@ -485,21 +500,6 @@
             "domain_name": "shapiromedical.com",
             "destination": "InMotion Hosting",
             "date": "2025-09-13 20:56:44"
-        },
-        {
-            "domain_name": "www.kidscaredental.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-13 20:28:12"
-        },
-        {
-            "domain_name": "www.jcdelaw.com",
-            "destination": "GoDaddy",
-            "date": "2025-09-13 20:03:59"
-        },
-        {
-            "domain_name": "gulfcoasthumanesociety.org",
-            "destination": "Elementor Hosting",
-            "date": "2025-09-13 19:49:56"
         }
     ],
     "dailyMovedStat": {
@@ -868,14 +868,14 @@
     "topDestinationHosts": {
         "Pressable": 10936,
         "Kinsta": 5936,
-        "SiteGround": 5031,
+        "SiteGround": 5034,
         "Digital Ocean": 4892,
         "Bluehost": 4162,
         "Hostinger": 3390,
         "GoDaddy": 1340,
         "Liquid Web": 655,
         "BigScoots": 632,
-        "WordPress.com": 453,
+        "WordPress.com": 454,
         "InMotion Hosting": 413,
         "GridPane": 392,
         "A2 Hosting": 375,
