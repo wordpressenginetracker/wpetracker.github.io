@@ -1,10 +1,25 @@
 {
-    "siteCount": 93354,
+    "siteCount": 93364,
     "recentlyMoved": [
+        {
+            "domain_name": "marcsotkin.com",
+            "destination": "SiteGround",
+            "date": "2025-09-17 21:51:50"
+        },
         {
             "domain_name": "sunlandcattleco.com.au",
             "destination": "SiteGround",
             "date": "2025-09-17 21:33:55"
+        },
+        {
+            "domain_name": "tcsa.tech",
+            "destination": "SiteGround",
+            "date": "2025-09-17 21:33:18"
+        },
+        {
+            "domain_name": "tcgm.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-17 21:33:18"
         },
         {
             "domain_name": "jaynileslibrary.com",
@@ -485,21 +500,6 @@
             "domain_name": "plumbplus.com.au",
             "destination": "SiteGround",
             "date": "2025-09-16 03:57:00"
-        },
-        {
-            "domain_name": "genesisortho.com",
-            "destination": "Kinsta",
-            "date": "2025-09-16 03:50:07"
-        },
-        {
-            "domain_name": "njr.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-16 01:57:25"
-        },
-        {
-            "domain_name": "marketingstaff.net",
-            "destination": "Digital Ocean",
-            "date": "2025-09-16 01:51:09"
         }
     ],
     "dailyMovedStat": {
@@ -868,7 +868,7 @@
     "topDestinationHosts": {
         "Pressable": 10938,
         "Kinsta": 5951,
-        "SiteGround": 5042,
+        "SiteGround": 5046,
         "Digital Ocean": 4894,
         "Bluehost": 4165,
         "Hostinger": 3394,
