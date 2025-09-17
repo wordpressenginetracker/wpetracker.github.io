@@ -1,6 +1,11 @@
 {
-    "siteCount": 93169,
+    "siteCount": 93174,
     "recentlyMoved": [
+        {
+            "domain_name": "stratfordcountry.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-17 05:12:01"
+        },
         {
             "domain_name": "www.dukevascular.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "guidingstargala.com",
             "destination": "SiteGround",
             "date": "2025-09-14 00:27:30"
-        },
-        {
-            "domain_name": "majesticmtn.com",
-            "destination": "SiteGround",
-            "date": "2025-09-13 21:01:19"
         }
     ],
     "dailyMovedStat": {
@@ -868,7 +868,7 @@
     "topDestinationHosts": {
         "Pressable": 10936,
         "Kinsta": 5936,
-        "SiteGround": 5034,
+        "SiteGround": 5035,
         "Digital Ocean": 4892,
         "Bluehost": 4162,
         "Hostinger": 3390,
@@ -880,7 +880,7 @@
         "GridPane": 392,
         "A2 Hosting": 376,
         "OVH": 368,
-        "IONOS": 343,
+        "IONOS": 344,
         "Namecheap": 337,
         "DreamHost": 329,
         "Elementor Hosting": 321,
