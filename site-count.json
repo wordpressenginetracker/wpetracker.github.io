@@ -1,6 +1,16 @@
 {
-    "siteCount": 93174,
+    "siteCount": 93179,
     "recentlyMoved": [
+        {
+            "domain_name": "expatcorporate.com",
+            "destination": "Namecheap",
+            "date": "2025-09-17 06:13:56"
+        },
+        {
+            "domain_name": "thehideout.org.uk",
+            "destination": "HostGator",
+            "date": "2025-09-17 05:36:23"
+        },
         {
             "domain_name": "stratfordcountry.com.au",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "unitedshippinglines.com",
             "destination": "Digital Ocean",
             "date": "2025-09-14 10:27:30"
-        },
-        {
-            "domain_name": "salisburyandavon.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-09-14 03:49:24"
-        },
-        {
-            "domain_name": "guidingstargala.com",
-            "destination": "SiteGround",
-            "date": "2025-09-14 00:27:30"
         }
     ],
     "dailyMovedStat": {
@@ -881,11 +881,11 @@
         "A2 Hosting": 376,
         "OVH": 368,
         "IONOS": 344,
-        "Namecheap": 337,
+        "Namecheap": 338,
         "DreamHost": 329,
         "Elementor Hosting": 321,
         "Hetzner Online": 262,
-        "HostGator": 219
+        "HostGator": 220
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
