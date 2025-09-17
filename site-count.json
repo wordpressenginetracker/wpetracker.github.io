@@ -1,6 +1,26 @@
 {
-    "siteCount": 93279,
+    "siteCount": 93291,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rclfms.com",
+            "destination": "GoDaddy",
+            "date": "2025-09-17 17:32:32"
+        },
+        {
+            "domain_name": "www.hooverbuildings.net",
+            "destination": "Kinsta",
+            "date": "2025-09-17 16:52:13"
+        },
+        {
+            "domain_name": "scchartford.org",
+            "destination": "SiteGround",
+            "date": "2025-09-17 16:37:17"
+        },
+        {
+            "domain_name": "www.ovesc.org",
+            "destination": "Kinsta",
+            "date": "2025-09-17 16:36:48"
+        },
         {
             "domain_name": "www.colemanadultday.org",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "www.gentronics.com.au",
             "destination": "Digital Ocean",
             "date": "2025-09-15 11:57:21"
-        },
-        {
-            "domain_name": "www.comparecopiers.com.au",
-            "destination": "Hostinger",
-            "date": "2025-09-15 11:45:02"
-        },
-        {
-            "domain_name": "compass-cap.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-15 09:25:01"
-        },
-        {
-            "domain_name": "www.hirerite.com.au",
-            "destination": "Digital Ocean",
-            "date": "2025-09-15 04:59:39"
-        },
-        {
-            "domain_name": "jawstransport.com.au",
-            "destination": "Digital Ocean",
-            "date": "2025-09-15 04:59:21"
         }
     ],
     "dailyMovedStat": {
@@ -867,12 +867,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 10937,
-        "Kinsta": 5947,
-        "SiteGround": 5038,
+        "Kinsta": 5949,
+        "SiteGround": 5039,
         "Digital Ocean": 4893,
         "Bluehost": 4164,
         "Hostinger": 3393,
-        "GoDaddy": 1340,
+        "GoDaddy": 1341,
         "Liquid Web": 655,
         "BigScoots": 632,
         "WordPress.com": 455,
