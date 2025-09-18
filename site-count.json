@@ -1,5 +1,5 @@
 {
-    "siteCount": 93485,
+    "siteCount": 93486,
     "recentlyMoved": [
         {
             "domain_name": "mypaylessenergy.com",
@@ -10,6 +10,11 @@
             "domain_name": "monarchrestmattress.com",
             "destination": "Kinsta",
             "date": "2025-09-18 14:09:53"
+        },
+        {
+            "domain_name": "fayandbellerugs.com",
+            "destination": "Kinsta",
+            "date": "2025-09-18 14:00:38"
         },
         {
             "domain_name": "dyerenergy.com",
@@ -495,11 +500,6 @@
             "domain_name": "habitlab.truthtotable.com",
             "destination": "SiteGround",
             "date": "2025-09-16 15:52:02"
-        },
-        {
-            "domain_name": "parkwayoralsurgery.com",
-            "destination": "SiteGround",
-            "date": "2025-09-16 15:37:15"
         }
     ],
     "dailyMovedStat": {
@@ -868,7 +868,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 10942,
-        "Kinsta": 5955,
+        "Kinsta": 5956,
         "SiteGround": 5048,
         "Digital Ocean": 4897,
         "Bluehost": 4167,
