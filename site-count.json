@@ -1,6 +1,16 @@
 {
-    "siteCount": 93442,
+    "siteCount": 93452,
     "recentlyMoved": [
+        {
+            "domain_name": "amoinc.info",
+            "destination": "Hostinger",
+            "date": "2025-09-18 11:59:51"
+        },
+        {
+            "domain_name": "odwyerbuilds.com",
+            "destination": "Kinsta",
+            "date": "2025-09-18 11:49:52"
+        },
         {
             "domain_name": "familytraveller.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "christinespillar.com",
             "destination": "Kinsta",
             "date": "2025-09-16 12:57:31"
-        },
-        {
-            "domain_name": "soconpaving.com",
-            "destination": "Kinsta",
-            "date": "2025-09-16 12:49:59"
-        },
-        {
-            "domain_name": "sovereignenergyservices.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-16 12:45:20"
         }
     ],
     "dailyMovedStat": {
@@ -868,11 +868,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10940,
-        "Kinsta": 5952,
+        "Kinsta": 5953,
         "SiteGround": 5047,
         "Digital Ocean": 4897,
         "Bluehost": 4167,
-        "Hostinger": 3396,
+        "Hostinger": 3397,
         "GoDaddy": 1342,
         "Liquid Web": 655,
         "BigScoots": 633,
