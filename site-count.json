@@ -1,6 +1,11 @@
 {
-    "siteCount": 93535,
+    "siteCount": 93572,
     "recentlyMoved": [
+        {
+            "domain_name": "attgolf.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-18 20:05:06"
+        },
         {
             "domain_name": "northerninsurancebrokers.ca",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "pennlandscaping.com",
             "destination": "A2 Hosting",
             "date": "2025-09-17 04:00:47"
-        },
-        {
-            "domain_name": "stage.net.au",
-            "destination": "SiteGround",
-            "date": "2025-09-17 01:06:09"
         }
     ],
     "dailyMovedStat": {
@@ -869,10 +869,10 @@
     "topDestinationHosts": {
         "Pressable": 10950,
         "Kinsta": 5959,
-        "SiteGround": 5049,
+        "SiteGround": 5050,
         "Digital Ocean": 4899,
         "Bluehost": 4167,
-        "Hostinger": 3404,
+        "Hostinger": 3405,
         "GoDaddy": 1344,
         "Liquid Web": 656,
         "BigScoots": 634,
@@ -885,7 +885,7 @@
         "Namecheap": 340,
         "DreamHost": 329,
         "Elementor Hosting": 321,
-        "Hetzner Online": 263,
+        "Hetzner Online": 264,
         "HostGator": 220
     },
     "dailyTotalStat": {
