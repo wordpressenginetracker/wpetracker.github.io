@@ -1,6 +1,26 @@
 {
-    "siteCount": 93452,
+    "siteCount": 93470,
     "recentlyMoved": [
+        {
+            "domain_name": "l4lacademy.com",
+            "destination": "Hostinger",
+            "date": "2025-09-18 13:25:45"
+        },
+        {
+            "domain_name": "broncocoatings.com",
+            "destination": "Hostinger",
+            "date": "2025-09-18 12:41:19"
+        },
+        {
+            "domain_name": "www.geriadermatology.com",
+            "destination": "Kinsta",
+            "date": "2025-09-18 12:22:13"
+        },
+        {
+            "domain_name": "scotttaylorplastering.com",
+            "destination": "Hostinger",
+            "date": "2025-09-18 12:18:16"
+        },
         {
             "domain_name": "amoinc.info",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-09-16 14:02:05"
         },
         {
-            "domain_name": "chyronlive.com",
-            "destination": "Kinsta",
-            "date": "2025-09-16 13:32:05"
-        },
-        {
             "domain_name": "meadowbankdesigns.com",
             "destination": "Kinsta",
             "date": "2025-09-16 13:28:14"
-        },
-        {
-            "domain_name": "colleenmcnally.com",
-            "destination": "Kinsta",
-            "date": "2025-09-16 13:10:26"
-        },
-        {
-            "domain_name": "crabtreefarms.org",
-            "destination": "SiteGround",
-            "date": "2025-09-16 13:10:02"
-        },
-        {
-            "domain_name": "christinespillar.com",
-            "destination": "Kinsta",
-            "date": "2025-09-16 12:57:31"
         }
     ],
     "dailyMovedStat": {
@@ -868,11 +868,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10940,
-        "Kinsta": 5953,
+        "Kinsta": 5954,
         "SiteGround": 5047,
         "Digital Ocean": 4897,
         "Bluehost": 4167,
-        "Hostinger": 3397,
+        "Hostinger": 3400,
         "GoDaddy": 1342,
         "Liquid Web": 655,
         "BigScoots": 633,
