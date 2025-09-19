@@ -1,6 +1,31 @@
 {
-    "siteCount": 93681,
+    "siteCount": 93696,
     "recentlyMoved": [
+        {
+            "domain_name": "portal.cota.org",
+            "destination": "Liquid Web",
+            "date": "2025-09-19 16:14:21"
+        },
+        {
+            "domain_name": "phillyskylinepm.com",
+            "destination": "SiteGround",
+            "date": "2025-09-19 15:55:41"
+        },
+        {
+            "domain_name": "www.bbfinancial.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-09-19 15:48:13"
+        },
+        {
+            "domain_name": "alphapoly.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-19 15:40:14"
+        },
+        {
+            "domain_name": "festwaveinstitute.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-19 15:15:10"
+        },
         {
             "domain_name": "events.connectsavannah.com",
             "destination": "WordPress.com",
@@ -475,31 +500,6 @@
             "domain_name": "johnbuyshousesohio.com",
             "destination": "Bluehost",
             "date": "2025-09-18 00:33:01"
-        },
-        {
-            "domain_name": "packreal.com",
-            "destination": "A2 Hosting",
-            "date": "2025-09-17 23:44:16"
-        },
-        {
-            "domain_name": "geegeescafe.co.uk",
-            "destination": "Namecheap",
-            "date": "2025-09-17 23:39:47"
-        },
-        {
-            "domain_name": "pendantbio.com",
-            "destination": "Hostinger",
-            "date": "2025-09-17 23:24:17"
-        },
-        {
-            "domain_name": "marcsotkin.com",
-            "destination": "SiteGround",
-            "date": "2025-09-17 21:51:50"
-        },
-        {
-            "domain_name": "tcsa.tech",
-            "destination": "SiteGround",
-            "date": "2025-09-17 21:33:18"
         }
     ],
     "dailyMovedStat": {
@@ -870,12 +870,12 @@
     "topDestinationHosts": {
         "Pressable": 10950,
         "Kinsta": 5967,
-        "SiteGround": 5060,
-        "Digital Ocean": 4900,
+        "SiteGround": 5061,
+        "Digital Ocean": 4903,
         "Bluehost": 4172,
         "Hostinger": 3412,
         "GoDaddy": 1344,
-        "Liquid Web": 658,
+        "Liquid Web": 659,
         "BigScoots": 635,
         "WordPress.com": 459,
         "InMotion Hosting": 415,
