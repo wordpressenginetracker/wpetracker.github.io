@@ -1,6 +1,16 @@
 {
-    "siteCount": 93612,
+    "siteCount": 93620,
     "recentlyMoved": [
+        {
+            "domain_name": "suffolkroadorthodontics.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-19 05:22:20"
+        },
+        {
+            "domain_name": "kapstream.com",
+            "destination": "SiteGround",
+            "date": "2025-09-19 04:48:12"
+        },
         {
             "domain_name": "www.aspenrosslegacyfoundation.org",
             "destination": "Kinsta",
@@ -482,11 +492,6 @@
             "date": "2025-09-17 13:10:29"
         },
         {
-            "domain_name": "campbellministerdesign.com",
-            "destination": "Kinsta",
-            "date": "2025-09-17 13:10:29"
-        },
-        {
             "domain_name": "sheridaninteriors.ca",
             "destination": "Kinsta",
             "date": "2025-09-17 13:03:17"
@@ -495,11 +500,6 @@
             "domain_name": "www.pmbiller.com",
             "destination": "Kinsta",
             "date": "2025-09-17 12:44:29"
-        },
-        {
-            "domain_name": "www.intuitsolutions.net",
-            "destination": "Digital Ocean",
-            "date": "2025-09-17 12:19:10"
         }
     ],
     "dailyMovedStat": {
@@ -870,7 +870,7 @@
     "topDestinationHosts": {
         "Pressable": 10950,
         "Kinsta": 5960,
-        "SiteGround": 5054,
+        "SiteGround": 5055,
         "Digital Ocean": 4899,
         "Bluehost": 4169,
         "Hostinger": 3408,
