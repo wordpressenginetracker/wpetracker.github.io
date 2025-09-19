@@ -1,6 +1,11 @@
 {
-    "siteCount": 93625,
+    "siteCount": 93630,
     "recentlyMoved": [
+        {
+            "domain_name": "widebaybuildingandpest.com.au",
+            "destination": "SiteGround",
+            "date": "2025-09-19 07:19:08"
+        },
         {
             "domain_name": "feltzlumber.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "marvindolgay.com",
             "destination": "Hostinger",
             "date": "2025-09-17 13:17:06"
-        },
-        {
-            "domain_name": "www.pmbiller.com",
-            "destination": "Kinsta",
-            "date": "2025-09-17 12:44:29"
         }
     ],
     "dailyMovedStat": {
@@ -870,7 +870,7 @@
     "topDestinationHosts": {
         "Pressable": 10950,
         "Kinsta": 5961,
-        "SiteGround": 5055,
+        "SiteGround": 5056,
         "Digital Ocean": 4900,
         "Bluehost": 4169,
         "Hostinger": 3409,
