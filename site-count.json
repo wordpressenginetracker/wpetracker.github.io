@@ -1,6 +1,11 @@
 {
-    "siteCount": 93791,
+    "siteCount": 93796,
     "recentlyMoved": [
+        {
+            "domain_name": "blackoutgarage.com",
+            "destination": "Hostinger",
+            "date": "2025-09-19 20:53:44"
+        },
         {
             "domain_name": "www.dribanklabs.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "flatpackattack.co.uk",
             "destination": "Hostinger",
             "date": "2025-09-18 07:32:51"
-        },
-        {
-            "domain_name": "cravenroofing.com",
-            "destination": "GoDaddy",
-            "date": "2025-09-18 05:06:54"
         }
     ],
     "dailyMovedStat": {
@@ -873,7 +873,7 @@
         "SiteGround": 5065,
         "Digital Ocean": 4905,
         "Bluehost": 4172,
-        "Hostinger": 3415,
+        "Hostinger": 3416,
         "GoDaddy": 1344,
         "Liquid Web": 660,
         "BigScoots": 635,
