@@ -1,6 +1,26 @@
 {
-    "siteCount": 93994,
+    "siteCount": 94006,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mineralshaman.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-09-20 21:02:51"
+        },
+        {
+            "domain_name": "coachwow.com",
+            "destination": "SiteGround",
+            "date": "2025-09-20 21:00:36"
+        },
+        {
+            "domain_name": "business-bridge.org",
+            "destination": "Pressable",
+            "date": "2025-09-20 20:59:21"
+        },
+        {
+            "domain_name": "shadylaneconstruction.com",
+            "destination": "SiteGround",
+            "date": "2025-09-20 20:40:52"
+        },
         {
             "domain_name": "goodrootscoaching.com",
             "destination": "Pressable",
@@ -15,6 +35,11 @@
             "domain_name": "flourishingoregon.org",
             "destination": "Pressable",
             "date": "2025-09-20 20:02:10"
+        },
+        {
+            "domain_name": "huttonbroadcasting.com",
+            "destination": "SiteGround",
+            "date": "2025-09-20 19:58:01"
         },
         {
             "domain_name": "fuseinteractive.ca",
@@ -475,31 +500,6 @@
             "domain_name": "landmarkswest.com",
             "destination": "WordPress.com",
             "date": "2025-09-19 00:48:47"
-        },
-        {
-            "domain_name": "brightlightmedia.co",
-            "destination": "Hostinger",
-            "date": "2025-09-19 00:31:36"
-        },
-        {
-            "domain_name": "bodyalteringaesthetics.com",
-            "destination": "DreamHost",
-            "date": "2025-09-19 00:10:32"
-        },
-        {
-            "domain_name": "analyzeseeds.com",
-            "destination": "DreamHost",
-            "date": "2025-09-19 00:02:36"
-        },
-        {
-            "domain_name": "ablriverbank.com",
-            "destination": "Bluehost",
-            "date": "2025-09-18 23:48:18"
-        },
-        {
-            "domain_name": "ache-setc.org",
-            "destination": "SiteGround",
-            "date": "2025-09-18 23:25:34"
         }
     ],
     "dailyMovedStat": {
@@ -869,9 +869,9 @@
         "2025-09-19": "93808"
     },
     "topDestinationHosts": {
-        "Pressable": 10961,
+        "Pressable": 10962,
         "Kinsta": 5970,
-        "SiteGround": 5076,
+        "SiteGround": 5079,
         "Digital Ocean": 4912,
         "Bluehost": 4176,
         "Hostinger": 3425,
@@ -886,7 +886,7 @@
         "IONOS": 345,
         "Namecheap": 342,
         "DreamHost": 336,
-        "Elementor Hosting": 322,
+        "Elementor Hosting": 323,
         "Hetzner Online": 266,
         "HostGator": 221
     },
