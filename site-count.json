@@ -1,6 +1,21 @@
 {
-    "siteCount": 94006,
+    "siteCount": 94010,
     "recentlyMoved": [
+        {
+            "domain_name": "eastcountyhousing.org",
+            "destination": "Pressable",
+            "date": "2025-09-20 22:08:06"
+        },
+        {
+            "domain_name": "mamalovesmedia.com",
+            "destination": "Bluehost",
+            "date": "2025-09-20 21:30:56"
+        },
+        {
+            "domain_name": "ecchealth.org",
+            "destination": "Pressable",
+            "date": "2025-09-20 21:21:36"
+        },
         {
             "domain_name": "www.mineralshaman.com",
             "destination": "Elementor Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "www.aspenrosslegacyfoundation.org",
             "destination": "Kinsta",
             "date": "2025-09-19 03:57:57"
-        },
-        {
-            "domain_name": "tkopestcontrol.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-19 01:31:59"
-        },
-        {
-            "domain_name": "www.surgesoccer.org",
-            "destination": "Hostinger",
-            "date": "2025-09-19 01:00:31"
-        },
-        {
-            "domain_name": "landmarkswest.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-19 00:48:47"
         }
     ],
     "dailyMovedStat": {
@@ -869,11 +869,11 @@
         "2025-09-19": "93808"
     },
     "topDestinationHosts": {
-        "Pressable": 10962,
+        "Pressable": 10964,
         "Kinsta": 5970,
         "SiteGround": 5079,
         "Digital Ocean": 4912,
-        "Bluehost": 4176,
+        "Bluehost": 4177,
         "Hostinger": 3425,
         "GoDaddy": 1344,
         "Liquid Web": 663,
