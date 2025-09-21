@@ -1,6 +1,16 @@
 {
-    "siteCount": 94036,
+    "siteCount": 94039,
     "recentlyMoved": [
+        {
+            "domain_name": "programnotapill.com",
+            "destination": "Namecheap",
+            "date": "2025-09-21 12:08:20"
+        },
+        {
+            "domain_name": "ptao.org",
+            "destination": "SiteGround",
+            "date": "2025-09-21 11:44:05"
+        },
         {
             "domain_name": "flightnannyqtpettransport.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "feltzlumber.com",
             "destination": "Hostinger",
             "date": "2025-09-19 06:21:06"
-        },
-        {
-            "domain_name": "designcue.com",
-            "destination": "Kinsta",
-            "date": "2025-09-19 05:56:00"
-        },
-        {
-            "domain_name": "suffolkroadorthodontics.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-19 05:22:20"
         }
     ],
     "dailyMovedStat": {
@@ -872,7 +872,7 @@
     "topDestinationHosts": {
         "Pressable": 10964,
         "Kinsta": 5970,
-        "SiteGround": 5079,
+        "SiteGround": 5080,
         "Digital Ocean": 4912,
         "Bluehost": 4177,
         "Hostinger": 3427,
@@ -885,7 +885,7 @@
         "A2 Hosting": 379,
         "OVH": 371,
         "IONOS": 345,
-        "Namecheap": 342,
+        "Namecheap": 343,
         "DreamHost": 336,
         "Elementor Hosting": 323,
         "Hetzner Online": 266,
