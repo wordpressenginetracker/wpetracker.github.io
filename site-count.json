@@ -1,6 +1,11 @@
 {
-    "siteCount": 94039,
+    "siteCount": 94047,
     "recentlyMoved": [
+        {
+            "domain_name": "collegeawarenessprogram.org",
+            "destination": "Bluehost",
+            "date": "2025-09-21 13:04:49"
+        },
         {
             "domain_name": "programnotapill.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "widebaybuildingandpest.com.au",
             "destination": "SiteGround",
             "date": "2025-09-19 07:19:08"
-        },
-        {
-            "domain_name": "feltzlumber.com",
-            "destination": "Hostinger",
-            "date": "2025-09-19 06:21:06"
         }
     ],
     "dailyMovedStat": {
@@ -874,7 +874,7 @@
         "Kinsta": 5970,
         "SiteGround": 5080,
         "Digital Ocean": 4912,
-        "Bluehost": 4177,
+        "Bluehost": 4178,
         "Hostinger": 3427,
         "GoDaddy": 1344,
         "Liquid Web": 663,
