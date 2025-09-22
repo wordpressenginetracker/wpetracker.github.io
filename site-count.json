@@ -1,6 +1,11 @@
 {
-    "siteCount": 94139,
+    "siteCount": 94141,
     "recentlyMoved": [
+        {
+            "domain_name": "zachscheidt.com",
+            "destination": "SiteGround",
+            "date": "2025-09-22 09:46:54"
+        },
         {
             "domain_name": "lisboamotel.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "txaf.org",
             "destination": "Hostinger",
             "date": "2025-09-19 18:32:37"
-        },
-        {
-            "domain_name": "cota.org",
-            "destination": "Liquid Web",
-            "date": "2025-09-19 17:01:32"
         }
     ],
     "dailyMovedStat": {
@@ -873,7 +873,7 @@
     "topDestinationHosts": {
         "Pressable": 10964,
         "Kinsta": 5982,
-        "SiteGround": 5087,
+        "SiteGround": 5088,
         "Digital Ocean": 4914,
         "Bluehost": 4178,
         "Hostinger": 3432,
