@@ -1,6 +1,11 @@
 {
-    "siteCount": 94158,
+    "siteCount": 94163,
     "recentlyMoved": [
+        {
+            "domain_name": "megastarincusa.com",
+            "destination": "Hostinger",
+            "date": "2025-09-22 17:31:35"
+        },
         {
             "domain_name": "anthonygaunaphoto.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "www.dribanklabs.com",
             "destination": "Digital Ocean",
             "date": "2025-09-19 20:11:56"
-        },
-        {
-            "domain_name": "atlasbuilthomes.com",
-            "destination": "SiteGround",
-            "date": "2025-09-19 19:51:38"
         }
     ],
     "dailyMovedStat": {
@@ -876,7 +876,7 @@
         "SiteGround": 5089,
         "Digital Ocean": 4914,
         "Bluehost": 4179,
-        "Hostinger": 3432,
+        "Hostinger": 3433,
         "GoDaddy": 1346,
         "Liquid Web": 663,
         "BigScoots": 635,
