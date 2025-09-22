@@ -1,6 +1,11 @@
 {
-    "siteCount": 94141,
+    "siteCount": 94146,
     "recentlyMoved": [
+        {
+            "domain_name": "babyviewhd.com",
+            "destination": "Bluehost",
+            "date": "2025-09-22 12:05:48"
+        },
         {
             "domain_name": "zachscheidt.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "atlantaveindoc.com",
             "destination": "Kinsta",
             "date": "2025-09-19 19:51:38"
-        },
-        {
-            "domain_name": "txaf.org",
-            "destination": "Hostinger",
-            "date": "2025-09-19 18:32:37"
         }
     ],
     "dailyMovedStat": {
@@ -875,7 +875,7 @@
         "Kinsta": 5982,
         "SiteGround": 5088,
         "Digital Ocean": 4914,
-        "Bluehost": 4178,
+        "Bluehost": 4179,
         "Hostinger": 3432,
         "GoDaddy": 1346,
         "Liquid Web": 663,
