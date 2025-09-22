@@ -1,6 +1,11 @@
 {
-    "siteCount": 94137,
+    "siteCount": 94138,
     "recentlyMoved": [
+        {
+            "domain_name": "greenblue.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-22 08:25:03"
+        },
         {
             "domain_name": "vestaconsultants.ca",
             "destination": "Kinsta",
@@ -487,11 +492,6 @@
             "date": "2025-09-19 18:32:37"
         },
         {
-            "domain_name": "caredentallab.com",
-            "destination": "Namecheap",
-            "date": "2025-09-19 17:07:08"
-        },
-        {
             "domain_name": "cota.org",
             "destination": "Liquid Web",
             "date": "2025-09-19 17:01:32"
@@ -874,7 +874,7 @@
         "Pressable": 10964,
         "Kinsta": 5982,
         "SiteGround": 5087,
-        "Digital Ocean": 4913,
+        "Digital Ocean": 4914,
         "Bluehost": 4178,
         "Hostinger": 3432,
         "GoDaddy": 1346,
