@@ -1,6 +1,11 @@
 {
-    "siteCount": 94163,
+    "siteCount": 94185,
     "recentlyMoved": [
+        {
+            "domain_name": "goochandfifty.com",
+            "destination": "A2 Hosting",
+            "date": "2025-09-22 19:56:12"
+        },
         {
             "domain_name": "megastarincusa.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "blackoutgarage.com",
             "destination": "Hostinger",
             "date": "2025-09-19 20:53:44"
-        },
-        {
-            "domain_name": "www.dribanklabs.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-19 20:11:56"
         }
     ],
     "dailyMovedStat": {
@@ -874,8 +874,8 @@
         "Pressable": 10964,
         "Kinsta": 5982,
         "SiteGround": 5089,
-        "Digital Ocean": 4914,
-        "Bluehost": 4179,
+        "Digital Ocean": 4916,
+        "Bluehost": 4180,
         "Hostinger": 3433,
         "GoDaddy": 1346,
         "Liquid Web": 663,
@@ -883,13 +883,13 @@
         "WordPress.com": 461,
         "InMotion Hosting": 415,
         "GridPane": 394,
-        "A2 Hosting": 379,
+        "A2 Hosting": 380,
         "OVH": 372,
         "IONOS": 345,
         "Namecheap": 344,
         "DreamHost": 337,
         "Elementor Hosting": 324,
-        "Hetzner Online": 266,
+        "Hetzner Online": 267,
         "HostGator": 222
     },
     "dailyTotalStat": {
