@@ -1,6 +1,16 @@
 {
-    "siteCount": 94185,
+    "siteCount": 94190,
     "recentlyMoved": [
+        {
+            "domain_name": "www.totalmassagegun.com",
+            "destination": "SiteGround",
+            "date": "2025-09-22 21:39:08"
+        },
+        {
+            "domain_name": "koruwealth.com",
+            "destination": "SiteGround",
+            "date": "2025-09-22 20:41:03"
+        },
         {
             "domain_name": "goochandfifty.com",
             "destination": "A2 Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "thepaincenterus.com",
             "destination": "Liquid Web",
             "date": "2025-09-19 22:05:44"
-        },
-        {
-            "domain_name": "yeppoonsurfsidemotel.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-19 21:09:23"
-        },
-        {
-            "domain_name": "blackoutgarage.com",
-            "destination": "Hostinger",
-            "date": "2025-09-19 20:53:44"
         }
     ],
     "dailyMovedStat": {
@@ -873,7 +873,7 @@
     "topDestinationHosts": {
         "Pressable": 10964,
         "Kinsta": 5982,
-        "SiteGround": 5089,
+        "SiteGround": 5090,
         "Digital Ocean": 4916,
         "Bluehost": 4180,
         "Hostinger": 3433,
