@@ -1,6 +1,11 @@
 {
-    "siteCount": 94190,
+    "siteCount": 94194,
     "recentlyMoved": [
+        {
+            "domain_name": "noonprop119.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-22 22:10:28"
+        },
         {
             "domain_name": "www.totalmassagegun.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "philiplight.com",
             "destination": "Kinsta",
             "date": "2025-09-19 23:53:39"
-        },
-        {
-            "domain_name": "thepaincenterus.com",
-            "destination": "Liquid Web",
-            "date": "2025-09-19 22:05:44"
         }
     ],
     "dailyMovedStat": {
@@ -873,8 +873,8 @@
     "topDestinationHosts": {
         "Pressable": 10964,
         "Kinsta": 5982,
-        "SiteGround": 5090,
-        "Digital Ocean": 4916,
+        "SiteGround": 5091,
+        "Digital Ocean": 4917,
         "Bluehost": 4180,
         "Hostinger": 3433,
         "GoDaddy": 1346,
