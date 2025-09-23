@@ -1,6 +1,11 @@
 {
-    "siteCount": 94198,
+    "siteCount": 94202,
     "recentlyMoved": [
+        {
+            "domain_name": "brickandmortarvenues.com",
+            "destination": "Hostinger",
+            "date": "2025-09-23 00:25:33"
+        },
         {
             "domain_name": "windowoffaith.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "madelinerosephotography.com",
             "destination": "SiteGround",
             "date": "2025-09-20 01:18:22"
-        },
-        {
-            "domain_name": "gunmann.com",
-            "destination": "Hostinger",
-            "date": "2025-09-19 23:58:19"
         }
     ],
     "dailyMovedStat": {
@@ -877,7 +877,7 @@
         "SiteGround": 5091,
         "Digital Ocean": 4917,
         "Bluehost": 4181,
-        "Hostinger": 3433,
+        "Hostinger": 3434,
         "GoDaddy": 1346,
         "Liquid Web": 663,
         "BigScoots": 635,
