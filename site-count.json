@@ -1,6 +1,16 @@
 {
-    "siteCount": 94392,
+    "siteCount": 94400,
     "recentlyMoved": [
+        {
+            "domain_name": "seeyouonsunday.org",
+            "destination": "Pressable",
+            "date": "2025-09-23 20:24:06"
+        },
+        {
+            "domain_name": "risemvmtstudio.com",
+            "destination": "SiteGround",
+            "date": "2025-09-23 20:20:17"
+        },
         {
             "domain_name": "pjbartierbijouterie.com",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "simplhosting.ca",
             "destination": "Kinsta",
             "date": "2025-09-21 20:49:40"
-        },
-        {
-            "domain_name": "imagine-4d.com",
-            "destination": "OVH",
-            "date": "2025-09-21 20:15:50"
-        },
-        {
-            "domain_name": "ipds.com",
-            "destination": "SiteGround",
-            "date": "2025-09-21 20:08:12"
         }
     ],
     "dailyMovedStat": {
@@ -872,10 +872,10 @@
         "2025-09-22": "94194"
     },
     "topDestinationHosts": {
-        "Pressable": 10972,
+        "Pressable": 10973,
         "Kinsta": 6005,
-        "SiteGround": 5105,
-        "Digital Ocean": 4922,
+        "SiteGround": 5106,
+        "Digital Ocean": 4923,
         "Bluehost": 4181,
         "Hostinger": 3440,
         "GoDaddy": 1347,
