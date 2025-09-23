@@ -1,6 +1,11 @@
 {
-    "siteCount": 94194,
+    "siteCount": 94198,
     "recentlyMoved": [
+        {
+            "domain_name": "windowoffaith.com",
+            "destination": "Bluehost",
+            "date": "2025-09-22 23:16:58"
+        },
         {
             "domain_name": "noonprop119.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "gunmann.com",
             "destination": "Hostinger",
             "date": "2025-09-19 23:58:19"
-        },
-        {
-            "domain_name": "philiplight.com",
-            "destination": "Kinsta",
-            "date": "2025-09-19 23:53:39"
         }
     ],
     "dailyMovedStat": {
@@ -873,10 +873,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 10964,
-        "Kinsta": 5982,
+        "Kinsta": 5983,
         "SiteGround": 5091,
         "Digital Ocean": 4917,
-        "Bluehost": 4180,
+        "Bluehost": 4181,
         "Hostinger": 3433,
         "GoDaddy": 1346,
         "Liquid Web": 663,
