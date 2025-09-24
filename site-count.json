@@ -1,6 +1,26 @@
 {
-    "siteCount": 94418,
+    "siteCount": 94431,
     "recentlyMoved": [
+        {
+            "domain_name": "lgbtqhistory.org",
+            "destination": "Bluehost",
+            "date": "2025-09-24 01:35:52"
+        },
+        {
+            "domain_name": "www.marketingstaircase.com",
+            "destination": "DreamHost",
+            "date": "2025-09-24 01:00:48"
+        },
+        {
+            "domain_name": "rifeconstruction.com",
+            "destination": "Hostinger",
+            "date": "2025-09-24 00:26:08"
+        },
+        {
+            "domain_name": "shawchirojax.com",
+            "destination": "Bluehost",
+            "date": "2025-09-24 00:20:25"
+        },
         {
             "domain_name": "www.alpenglowfamilymedicine.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "vdkandsonmasonry.com",
             "destination": "Kinsta",
             "date": "2025-09-22 06:05:36"
-        },
-        {
-            "domain_name": "designhacker.ca",
-            "destination": "Kinsta",
-            "date": "2025-09-22 05:22:57"
-        },
-        {
-            "domain_name": "lisadominato.ca",
-            "destination": "Kinsta",
-            "date": "2025-09-22 05:19:15"
-        },
-        {
-            "domain_name": "www.good4younutrition.com.au",
-            "destination": "SiteGround",
-            "date": "2025-09-22 04:18:15"
-        },
-        {
-            "domain_name": "agu-roofing.com",
-            "destination": "GoDaddy",
-            "date": "2025-09-22 03:42:16"
         }
     ],
     "dailyMovedStat": {
@@ -877,8 +877,8 @@
         "Kinsta": 6008,
         "SiteGround": 5107,
         "Digital Ocean": 4924,
-        "Bluehost": 4181,
-        "Hostinger": 3441,
+        "Bluehost": 4183,
+        "Hostinger": 3442,
         "GoDaddy": 1348,
         "Liquid Web": 665,
         "BigScoots": 635,
@@ -889,7 +889,7 @@
         "OVH": 373,
         "Namecheap": 346,
         "IONOS": 346,
-        "DreamHost": 338,
+        "DreamHost": 339,
         "Elementor Hosting": 328,
         "Hetzner Online": 267,
         "HostGator": 222
