@@ -1,6 +1,21 @@
 {
-    "siteCount": 94796,
+    "siteCount": 94812,
     "recentlyMoved": [
+        {
+            "domain_name": "barrfamilydentistryftw.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-25 16:12:31"
+        },
+        {
+            "domain_name": "happygreenacres.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-25 15:39:49"
+        },
+        {
+            "domain_name": "acbaa.org",
+            "destination": "DreamHost",
+            "date": "2025-09-25 15:27:57"
+        },
         {
             "domain_name": "ubuntuworks.org",
             "destination": "SiteGround",
@@ -462,11 +477,6 @@
             "date": "2025-09-24 09:59:42"
         },
         {
-            "domain_name": "www.tuff.earth",
-            "destination": "Hostinger",
-            "date": "2025-09-24 09:49:51"
-        },
-        {
             "domain_name": "manhattansignshop.nyc",
             "destination": "Digital Ocean",
             "date": "2025-09-24 09:43:25"
@@ -490,16 +500,6 @@
             "domain_name": "www.uppereastoms.com",
             "destination": "HostGator",
             "date": "2025-09-24 08:55:49"
-        },
-        {
-            "domain_name": "www.neuroendomke.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-24 08:53:33"
-        },
-        {
-            "domain_name": "interiordesignstandard.com",
-            "destination": "Kinsta",
-            "date": "2025-09-24 08:42:47"
         }
     ],
     "dailyMovedStat": {
@@ -874,10 +874,10 @@
         "2025-09-24": "94684"
     },
     "topDestinationHosts": {
-        "Pressable": 10990,
+        "Pressable": 10991,
         "Kinsta": 6046,
         "SiteGround": 5120,
-        "Digital Ocean": 4944,
+        "Digital Ocean": 4946,
         "Bluehost": 4184,
         "Hostinger": 3457,
         "GoDaddy": 1349,
@@ -890,7 +890,7 @@
         "OVH": 373,
         "Namecheap": 348,
         "IONOS": 347,
-        "DreamHost": 340,
+        "DreamHost": 341,
         "Elementor Hosting": 328,
         "Hetzner Online": 270,
         "HostGator": 223
