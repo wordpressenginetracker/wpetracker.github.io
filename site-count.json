@@ -1,6 +1,11 @@
 {
-    "siteCount": 94705,
+    "siteCount": 94709,
     "recentlyMoved": [
+        {
+            "domain_name": "refugeecarecollective.org",
+            "destination": "SiteGround",
+            "date": "2025-09-25 04:17:29"
+        },
         {
             "domain_name": "nexabstract.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "novohair.de",
             "destination": "WordPress.com",
             "date": "2025-09-23 18:23:04"
-        },
-        {
-            "domain_name": "equalbrowse.com",
-            "destination": "SiteGround",
-            "date": "2025-09-23 18:04:05"
         }
     ],
     "dailyMovedStat": {
