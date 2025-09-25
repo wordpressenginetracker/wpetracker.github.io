@@ -1,6 +1,31 @@
 {
-    "siteCount": 94774,
+    "siteCount": 94790,
     "recentlyMoved": [
+        {
+            "domain_name": "cortree.sciontario.org",
+            "destination": "DreamHost",
+            "date": "2025-09-25 13:21:48"
+        },
+        {
+            "domain_name": "carolinalegalassoc.com",
+            "destination": "Pressable",
+            "date": "2025-09-25 13:10:14"
+        },
+        {
+            "domain_name": "studiomommy.com",
+            "destination": "SiteGround",
+            "date": "2025-09-25 13:03:00"
+        },
+        {
+            "domain_name": "columbinecreekdentistry.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-25 12:50:09"
+        },
+        {
+            "domain_name": "kdvlabel.com",
+            "destination": "Pressable",
+            "date": "2025-09-25 12:38:09"
+        },
         {
             "domain_name": "purpleriver.co.uk",
             "destination": "Krystal Hosting",
@@ -10,6 +35,11 @@
             "domain_name": "www.yourfountainexpert.com",
             "destination": "WordPress.com",
             "date": "2025-09-25 12:26:29"
+        },
+        {
+            "domain_name": "juliettecalaf.com",
+            "destination": "Kinsta",
+            "date": "2025-09-25 12:19:56"
         },
         {
             "domain_name": "pnacalumni.org",
@@ -457,11 +487,6 @@
             "date": "2025-09-24 08:40:47"
         },
         {
-            "domain_name": "www.cedfabsltd.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-09-24 08:29:32"
-        },
-        {
             "domain_name": "b-offices.nl",
             "destination": "SiteGround",
             "date": "2025-09-24 08:22:16"
@@ -472,34 +497,9 @@
             "date": "2025-09-24 08:19:42"
         },
         {
-            "domain_name": "www.topcliffesurgery.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-09-24 08:10:26"
-        },
-        {
             "domain_name": "hureninvivere.nl",
             "destination": "SiteGround",
             "date": "2025-09-24 08:07:42"
-        },
-        {
-            "domain_name": "adamadr.com",
-            "destination": "Kinsta",
-            "date": "2025-09-24 08:02:33"
-        },
-        {
-            "domain_name": "altituderealestatetx.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-24 07:54:29"
-        },
-        {
-            "domain_name": "www.ambiente.mo",
-            "destination": "Pressable",
-            "date": "2025-09-24 07:43:26"
-        },
-        {
-            "domain_name": "502hemp.com",
-            "destination": "Pressable",
-            "date": "2025-09-24 07:10:12"
         }
     ],
     "dailyMovedStat": {
@@ -874,10 +874,10 @@
         "2025-09-24": "94684"
     },
     "topDestinationHosts": {
-        "Pressable": 10988,
-        "Kinsta": 6045,
-        "SiteGround": 5118,
-        "Digital Ocean": 4942,
+        "Pressable": 10990,
+        "Kinsta": 6046,
+        "SiteGround": 5119,
+        "Digital Ocean": 4943,
         "Bluehost": 4184,
         "Hostinger": 3456,
         "GoDaddy": 1349,
