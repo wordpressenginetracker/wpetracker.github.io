@@ -1,6 +1,21 @@
 {
-    "siteCount": 94748,
+    "siteCount": 94755,
     "recentlyMoved": [
+        {
+            "domain_name": "vensightmedia.com",
+            "destination": "Hostinger",
+            "date": "2025-09-25 10:37:56"
+        },
+        {
+            "domain_name": "valleyforgeinn.net",
+            "destination": "Hostinger",
+            "date": "2025-09-25 09:57:51"
+        },
+        {
+            "domain_name": "mcwhirtermediation.com",
+            "destination": "Kinsta",
+            "date": "2025-09-25 09:35:38"
+        },
         {
             "domain_name": "ktjdesignco.com",
             "destination": "Kinsta",
@@ -20,6 +35,11 @@
             "domain_name": "teamtwobees.com",
             "destination": "Hostinger",
             "date": "2025-09-25 09:12:02"
+        },
+        {
+            "domain_name": "www.william-russell.com",
+            "destination": "Digital Ocean",
+            "date": "2025-09-25 09:10:41"
         },
         {
             "domain_name": "russpetersonmediation.com",
@@ -472,11 +492,6 @@
             "date": "2025-09-24 01:46:01"
         },
         {
-            "domain_name": "lgbtqhistory.org",
-            "destination": "Bluehost",
-            "date": "2025-09-24 01:35:52"
-        },
-        {
             "domain_name": "titanresearch.ca",
             "destination": "SiteGround",
             "date": "2025-09-24 01:27:55"
@@ -485,21 +500,6 @@
             "domain_name": "mdtobaccolaws.org",
             "destination": "Hostinger",
             "date": "2025-09-24 01:18:50"
-        },
-        {
-            "domain_name": "www.marketingstaircase.com",
-            "destination": "DreamHost",
-            "date": "2025-09-24 01:00:48"
-        },
-        {
-            "domain_name": "rifeconstruction.com",
-            "destination": "Hostinger",
-            "date": "2025-09-24 00:26:08"
-        },
-        {
-            "domain_name": "shawchirojax.com",
-            "destination": "Bluehost",
-            "date": "2025-09-24 00:20:25"
         }
     ],
     "dailyMovedStat": {
@@ -875,11 +875,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 10988,
-        "Kinsta": 6042,
+        "Kinsta": 6043,
         "SiteGround": 5116,
-        "Digital Ocean": 4939,
+        "Digital Ocean": 4940,
         "Bluehost": 4184,
-        "Hostinger": 3452,
+        "Hostinger": 3453,
         "GoDaddy": 1349,
         "Liquid Web": 668,
         "BigScoots": 636,
