@@ -1,10 +1,20 @@
 {
-    "siteCount": 95146,
+    "siteCount": 95150,
     "recentlyMoved": [
+        {
+            "domain_name": "edgarplanning.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-09-26 21:31:44"
+        },
         {
             "domain_name": "core3tech.com",
             "destination": "Pressable",
             "date": "2025-09-26 21:23:33"
+        },
+        {
+            "domain_name": "www.usmetrobank.com",
+            "destination": "Pressable",
+            "date": "2025-09-26 21:16:16"
         },
         {
             "domain_name": "www.thirdeyebeautylounge.com",
@@ -482,11 +492,6 @@
             "date": "2025-09-25 12:30:11"
         },
         {
-            "domain_name": "www.yourfountainexpert.com",
-            "destination": "WordPress.com",
-            "date": "2025-09-25 12:26:29"
-        },
-        {
             "domain_name": "juliettecalaf.com",
             "destination": "Kinsta",
             "date": "2025-09-25 12:19:56"
@@ -495,11 +500,6 @@
             "domain_name": "prwithheart.com",
             "destination": "Hostinger",
             "date": "2025-09-25 12:04:35"
-        },
-        {
-            "domain_name": "arpinofoundation.org",
-            "destination": "SiteGround",
-            "date": "2025-09-25 11:40:59"
         }
     ],
     "dailyMovedStat": {
@@ -875,12 +875,12 @@
         "2025-09-25": "94907"
     },
     "topDestinationHosts": {
-        "Pressable": 11011,
-        "Kinsta": 6057,
+        "Pressable": 11012,
+        "Kinsta": 6058,
         "SiteGround": 5130,
         "Digital Ocean": 4962,
         "Bluehost": 4186,
-        "Hostinger": 3464,
+        "Hostinger": 3465,
         "GoDaddy": 1350,
         "Liquid Web": 673,
         "BigScoots": 636,
