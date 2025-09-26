@@ -1,10 +1,15 @@
 {
-    "siteCount": 94954,
+    "siteCount": 94962,
     "recentlyMoved": [
         {
             "domain_name": "www.ectafun.com",
             "destination": "Pressable",
             "date": "2025-09-26 08:38:24"
+        },
+        {
+            "domain_name": "www.jaxgroup.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-09-26 08:29:08"
         },
         {
             "domain_name": "www.evangelismconnections.com",
@@ -482,11 +487,6 @@
             "date": "2025-09-24 16:55:56"
         },
         {
-            "domain_name": "judgejonesadr.com",
-            "destination": "Kinsta",
-            "date": "2025-09-24 16:55:56"
-        },
-        {
             "domain_name": "www.seasidehomehealthcare.com",
             "destination": "WordPress.com",
             "date": "2025-09-24 16:53:58"
@@ -875,9 +875,9 @@
         "2025-09-25": "94907"
     },
     "topDestinationHosts": {
-        "Pressable": 10998,
+        "Pressable": 11000,
         "Kinsta": 6052,
-        "SiteGround": 5122,
+        "SiteGround": 5123,
         "Digital Ocean": 4950,
         "Bluehost": 4185,
         "Hostinger": 3460,
