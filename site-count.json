@@ -1,6 +1,16 @@
 {
-    "siteCount": 95220,
+    "siteCount": 95223,
     "recentlyMoved": [
+        {
+            "domain_name": "empoweringworkplacespodcast.com",
+            "destination": "Hostinger",
+            "date": "2025-09-27 10:14:31"
+        },
+        {
+            "domain_name": "www.windsorautorepair.com",
+            "destination": "Pressable",
+            "date": "2025-09-27 09:41:49"
+        },
         {
             "domain_name": "www.southfloridamenshealth.com",
             "destination": "OVH",
@@ -482,11 +492,6 @@
             "date": "2025-09-25 20:16:46"
         },
         {
-            "domain_name": "wildernesscollective.com",
-            "destination": "Kinsta",
-            "date": "2025-09-25 20:04:34"
-        },
-        {
             "domain_name": "preventforcedmarriage.org",
             "destination": "Kinsta",
             "date": "2025-09-25 20:00:02"
@@ -495,11 +500,6 @@
             "domain_name": "gulfcoastlegal.org",
             "destination": "Kinsta",
             "date": "2025-09-25 19:55:40"
-        },
-        {
-            "domain_name": "gildingstrategies.com",
-            "destination": "Kinsta",
-            "date": "2025-09-25 19:31:49"
         }
     ],
     "dailyMovedStat": {
@@ -876,12 +876,12 @@
         "2025-09-26": "95150"
     },
     "topDestinationHosts": {
-        "Pressable": 11016,
+        "Pressable": 11017,
         "Kinsta": 6065,
         "SiteGround": 5132,
         "Digital Ocean": 4965,
         "Bluehost": 4186,
-        "Hostinger": 3469,
+        "Hostinger": 3470,
         "GoDaddy": 1350,
         "Liquid Web": 673,
         "BigScoots": 636,
