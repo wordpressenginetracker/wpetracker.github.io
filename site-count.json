@@ -1,6 +1,11 @@
 {
-    "siteCount": 95409,
+    "siteCount": 95414,
     "recentlyMoved": [
+        {
+            "domain_name": "teenlifecoaches.com",
+            "destination": "SiteGround",
+            "date": "2025-09-28 13:14:01"
+        },
         {
             "domain_name": "lifescholarsacademy.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "covenanthandyman.com",
             "destination": "InMotion Hosting",
             "date": "2025-09-26 12:53:40"
-        },
-        {
-            "domain_name": "www.techninjamarketing.com",
-            "destination": "Pressable",
-            "date": "2025-09-26 12:53:05"
         }
     ],
     "dailyMovedStat": {
@@ -879,7 +879,7 @@
     "topDestinationHosts": {
         "Pressable": 11023,
         "Kinsta": 6067,
-        "SiteGround": 5144,
+        "SiteGround": 5145,
         "Digital Ocean": 4972,
         "Bluehost": 4187,
         "Hostinger": 3477,
