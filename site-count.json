@@ -1,6 +1,11 @@
 {
-    "siteCount": 95414,
+    "siteCount": 95419,
     "recentlyMoved": [
+        {
+            "domain_name": "ateensperspectivepodcast.com",
+            "destination": "SiteGround",
+            "date": "2025-09-28 16:34:23"
+        },
         {
             "domain_name": "teenlifecoaches.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.tri-test.co.uk",
             "destination": "SiteGround",
             "date": "2025-09-26 13:00:24"
-        },
-        {
-            "domain_name": "covenanthandyman.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-09-26 12:53:40"
         }
     ],
     "dailyMovedStat": {
@@ -879,7 +879,7 @@
     "topDestinationHosts": {
         "Pressable": 11023,
         "Kinsta": 6067,
-        "SiteGround": 5145,
+        "SiteGround": 5146,
         "Digital Ocean": 4972,
         "Bluehost": 4187,
         "Hostinger": 3477,
