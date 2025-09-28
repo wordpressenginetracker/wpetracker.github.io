@@ -1,6 +1,11 @@
 {
-    "siteCount": 95423,
+    "siteCount": 95439,
     "recentlyMoved": [
+        {
+            "domain_name": "gaygrantbooks.com",
+            "destination": "SiteGround",
+            "date": "2025-09-28 20:07:42"
+        },
         {
             "domain_name": "ateensperspectivepodcast.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "danceandentertainment.com",
             "destination": "DreamHost",
             "date": "2025-09-26 13:53:47"
-        },
-        {
-            "domain_name": "www.tri-test.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-09-26 13:00:24"
         }
     ],
     "dailyMovedStat": {
@@ -879,11 +879,11 @@
     "topDestinationHosts": {
         "Pressable": 11023,
         "Kinsta": 6067,
-        "SiteGround": 5146,
+        "SiteGround": 5148,
         "Digital Ocean": 4972,
         "Bluehost": 4187,
         "Hostinger": 3477,
-        "GoDaddy": 1353,
+        "GoDaddy": 1354,
         "Liquid Web": 674,
         "BigScoots": 636,
         "WordPress.com": 472,
