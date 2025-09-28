@@ -1,6 +1,11 @@
 {
-    "siteCount": 95439,
+    "siteCount": 95442,
     "recentlyMoved": [
+        {
+            "domain_name": "chattahoocheechristian.org",
+            "destination": "Pressable",
+            "date": "2025-09-28 20:46:15"
+        },
         {
             "domain_name": "gaygrantbooks.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "usenest.net",
             "destination": "OVH",
             "date": "2025-09-26 14:01:29"
-        },
-        {
-            "domain_name": "danceandentertainment.com",
-            "destination": "DreamHost",
-            "date": "2025-09-26 13:53:47"
         }
     ],
     "dailyMovedStat": {
@@ -877,7 +877,7 @@
         "2025-09-27": "95366"
     },
     "topDestinationHosts": {
-        "Pressable": 11023,
+        "Pressable": 11024,
         "Kinsta": 6067,
         "SiteGround": 5148,
         "Digital Ocean": 4972,
