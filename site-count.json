@@ -1,6 +1,11 @@
 {
-    "siteCount": 95442,
+    "siteCount": 95445,
     "recentlyMoved": [
+        {
+            "domain_name": "tradecraftvideo.com",
+            "destination": "Bluehost",
+            "date": "2025-09-28 22:16:15"
+        },
         {
             "domain_name": "chattahoocheechristian.org",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-09-26 14:37:32"
         },
         {
-            "domain_name": "eddiemacthemechanic.com",
-            "destination": "Namecheap",
-            "date": "2025-09-26 14:08:13"
-        },
-        {
             "domain_name": "usenest.net",
             "destination": "OVH",
             "date": "2025-09-26 14:01:29"
@@ -881,7 +881,7 @@
         "Kinsta": 6067,
         "SiteGround": 5148,
         "Digital Ocean": 4972,
-        "Bluehost": 4187,
+        "Bluehost": 4188,
         "Hostinger": 3477,
         "GoDaddy": 1354,
         "Liquid Web": 674,
