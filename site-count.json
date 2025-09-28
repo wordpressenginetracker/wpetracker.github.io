@@ -1,6 +1,16 @@
 {
-    "siteCount": 95400,
+    "siteCount": 95409,
     "recentlyMoved": [
+        {
+            "domain_name": "lifescholarsacademy.com",
+            "destination": "SiteGround",
+            "date": "2025-09-28 13:06:07"
+        },
+        {
+            "domain_name": "rjorthodontics.com",
+            "destination": "SiteGround",
+            "date": "2025-09-28 12:33:48"
+        },
         {
             "domain_name": "presbyenergy.com",
             "destination": "SiteGround",
@@ -477,11 +487,6 @@
             "date": "2025-09-26 13:53:47"
         },
         {
-            "domain_name": "www.skieswest.com",
-            "destination": "Pressable",
-            "date": "2025-09-26 13:19:25"
-        },
-        {
             "domain_name": "www.tri-test.co.uk",
             "destination": "SiteGround",
             "date": "2025-09-26 13:00:24"
@@ -495,11 +500,6 @@
             "domain_name": "www.techninjamarketing.com",
             "destination": "Pressable",
             "date": "2025-09-26 12:53:05"
-        },
-        {
-            "domain_name": "www.ricsleather.com",
-            "destination": "Pressable",
-            "date": "2025-09-26 12:42:25"
         }
     ],
     "dailyMovedStat": {
@@ -879,7 +879,7 @@
     "topDestinationHosts": {
         "Pressable": 11023,
         "Kinsta": 6067,
-        "SiteGround": 5142,
+        "SiteGround": 5144,
         "Digital Ocean": 4972,
         "Bluehost": 4187,
         "Hostinger": 3477,
