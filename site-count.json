@@ -1,6 +1,16 @@
 {
-    "siteCount": 95559,
+    "siteCount": 95564,
     "recentlyMoved": [
+        {
+            "domain_name": "twincitytimes.com",
+            "destination": "SiteGround",
+            "date": "2025-09-29 22:09:30"
+        },
+        {
+            "domain_name": "nightclubawards.com",
+            "destination": "Hostinger",
+            "date": "2025-09-29 22:07:04"
+        },
         {
             "domain_name": "chtolive.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "www.duelingpianosroadshow.com",
             "destination": "Kinsta",
             "date": "2025-09-26 23:29:46"
-        },
-        {
-            "domain_name": "edgarplanning.co.nz",
-            "destination": "Hostinger",
-            "date": "2025-09-26 21:31:44"
-        },
-        {
-            "domain_name": "www.usmetrobank.com",
-            "destination": "Pressable",
-            "date": "2025-09-26 21:16:16"
         }
     ],
     "dailyMovedStat": {
@@ -880,10 +880,10 @@
     "topDestinationHosts": {
         "Pressable": 11027,
         "Kinsta": 6068,
-        "SiteGround": 5152,
+        "SiteGround": 5153,
         "Digital Ocean": 4976,
         "Bluehost": 4191,
-        "Hostinger": 3485,
+        "Hostinger": 3486,
         "GoDaddy": 1354,
         "Liquid Web": 674,
         "BigScoots": 636,
