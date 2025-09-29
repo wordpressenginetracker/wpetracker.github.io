@@ -1,6 +1,11 @@
 {
-    "siteCount": 95488,
+    "siteCount": 95490,
     "recentlyMoved": [
+        {
+            "domain_name": "demo.spendenservice.com",
+            "destination": "Hetzner Online",
+            "date": "2025-09-29 09:07:34"
+        },
         {
             "domain_name": "concordia-sozialprojekte.spendenservice.com",
             "destination": "Hetzner Online",
@@ -492,11 +497,6 @@
             "date": "2025-09-26 19:28:22"
         },
         {
-            "domain_name": "thegearshop1945.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-26 17:57:47"
-        },
-        {
             "domain_name": "valvolinetireandauto.com",
             "destination": "Pressable",
             "date": "2025-09-26 17:54:59"
@@ -896,7 +896,7 @@
         "IONOS": 349,
         "DreamHost": 346,
         "Elementor Hosting": 328,
-        "Hetzner Online": 278,
+        "Hetzner Online": 279,
         "HostGator": 224
     },
     "dailyTotalStat": {
