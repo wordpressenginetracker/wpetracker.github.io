@@ -1,6 +1,11 @@
 {
-    "siteCount": 95519,
+    "siteCount": 95557,
     "recentlyMoved": [
+        {
+            "domain_name": "www.caullt.edu.au",
+            "destination": "A2 Hosting",
+            "date": "2025-09-29 20:20:52"
+        },
         {
             "domain_name": "drdantejoa.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-09-26 21:31:44"
         },
         {
-            "domain_name": "core3tech.com",
-            "destination": "Pressable",
-            "date": "2025-09-26 21:23:33"
-        },
-        {
             "domain_name": "www.usmetrobank.com",
             "destination": "Pressable",
             "date": "2025-09-26 21:16:16"
@@ -879,10 +879,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11026,
-        "Kinsta": 6067,
-        "SiteGround": 5150,
-        "Digital Ocean": 4974,
-        "Bluehost": 4189,
+        "Kinsta": 6068,
+        "SiteGround": 5152,
+        "Digital Ocean": 4976,
+        "Bluehost": 4191,
         "Hostinger": 3485,
         "GoDaddy": 1354,
         "Liquid Web": 674,
@@ -891,10 +891,10 @@
         "InMotion Hosting": 419,
         "GridPane": 397,
         "OVH": 387,
-        "A2 Hosting": 382,
+        "A2 Hosting": 383,
         "Namecheap": 353,
-        "IONOS": 349,
-        "DreamHost": 346,
+        "IONOS": 350,
+        "DreamHost": 347,
         "Elementor Hosting": 328,
         "Hetzner Online": 279,
         "HostGator": 224
