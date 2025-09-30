@@ -1,6 +1,21 @@
 {
-    "siteCount": 95619,
+    "siteCount": 95634,
     "recentlyMoved": [
+        {
+            "domain_name": "gutenberg.agency",
+            "destination": "OVH",
+            "date": "2025-09-30 12:16:29"
+        },
+        {
+            "domain_name": "foothillssafety.com",
+            "destination": "Namecheap",
+            "date": "2025-09-30 11:54:01"
+        },
+        {
+            "domain_name": "apinjury.law",
+            "destination": "GoDaddy",
+            "date": "2025-09-30 11:41:33"
+        },
         {
             "domain_name": "mastery.servcraft.co.za",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-09-27 08:39:36"
         },
         {
-            "domain_name": "www.creativecounselingservices.org",
-            "destination": "Pressable",
-            "date": "2025-09-27 08:17:20"
-        },
-        {
             "domain_name": "indython.com",
             "destination": "Kinsta",
             "date": "2025-09-27 08:05:54"
-        },
-        {
-            "domain_name": "indyhalfmarathon.com",
-            "destination": "Kinsta",
-            "date": "2025-09-27 08:05:54"
-        },
-        {
-            "domain_name": "banarctic.no",
-            "destination": "Hostinger",
-            "date": "2025-09-27 07:46:03"
         }
     ],
     "dailyMovedStat": {
@@ -885,15 +885,15 @@
         "Digital Ocean": 4976,
         "Bluehost": 4191,
         "Hostinger": 3490,
-        "GoDaddy": 1355,
+        "GoDaddy": 1356,
         "Liquid Web": 675,
         "BigScoots": 636,
         "WordPress.com": 472,
         "InMotion Hosting": 419,
         "GridPane": 397,
-        "OVH": 387,
+        "OVH": 388,
         "A2 Hosting": 384,
-        "Namecheap": 353,
+        "Namecheap": 354,
         "IONOS": 351,
         "DreamHost": 347,
         "Elementor Hosting": 328,
