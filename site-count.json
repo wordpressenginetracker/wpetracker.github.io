@@ -1,6 +1,11 @@
 {
-    "siteCount": 95576,
+    "siteCount": 95578,
     "recentlyMoved": [
+        {
+            "domain_name": "mybritewhitedental.com",
+            "destination": "A2 Hosting",
+            "date": "2025-09-30 02:09:07"
+        },
         {
             "domain_name": "bluecheckpools.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "flexforum.nz",
             "destination": "Pressable",
             "date": "2025-09-27 03:51:04"
-        },
-        {
-            "domain_name": "beyondmonumental.org",
-            "destination": "Kinsta",
-            "date": "2025-09-27 00:32:45"
         }
     ],
     "dailyMovedStat": {
@@ -892,7 +892,7 @@
         "InMotion Hosting": 419,
         "GridPane": 397,
         "OVH": 387,
-        "A2 Hosting": 383,
+        "A2 Hosting": 384,
         "Namecheap": 353,
         "IONOS": 351,
         "DreamHost": 347,
