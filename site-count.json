@@ -1,6 +1,16 @@
 {
-    "siteCount": 95760,
+    "siteCount": 95771,
     "recentlyMoved": [
+        {
+            "domain_name": "ecoenvironmental.com.au",
+            "destination": "GridPane",
+            "date": "2025-09-30 21:54:18"
+        },
+        {
+            "domain_name": "luxuryisamindset.com",
+            "destination": "SiteGround",
+            "date": "2025-09-30 21:38:13"
+        },
         {
             "domain_name": "serviceready.com",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2025-09-27 17:04:48"
         },
         {
-            "domain_name": "ruthhillmusic.com",
-            "destination": "SiteGround",
-            "date": "2025-09-27 16:58:58"
-        },
-        {
             "domain_name": "www.mobotrex.com",
             "destination": "Pressable",
             "date": "2025-09-27 16:43:36"
-        },
-        {
-            "domain_name": "www.listwithelizabeth.com",
-            "destination": "Hostinger",
-            "date": "2025-09-27 16:28:20"
         }
     ],
     "dailyMovedStat": {
@@ -881,7 +881,7 @@
     "topDestinationHosts": {
         "Pressable": 11032,
         "Kinsta": 6075,
-        "SiteGround": 5157,
+        "SiteGround": 5158,
         "Digital Ocean": 4981,
         "Bluehost": 4191,
         "Hostinger": 3493,
@@ -890,7 +890,7 @@
         "BigScoots": 637,
         "WordPress.com": 474,
         "InMotion Hosting": 419,
-        "GridPane": 397,
+        "GridPane": 398,
         "OVH": 389,
         "A2 Hosting": 384,
         "Namecheap": 354,
