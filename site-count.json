@@ -1,6 +1,16 @@
 {
-    "siteCount": 95634,
+    "siteCount": 95646,
     "recentlyMoved": [
+        {
+            "domain_name": "www.studentsstandingstrong.org",
+            "destination": "Digital Ocean",
+            "date": "2025-09-30 13:20:03"
+        },
+        {
+            "domain_name": "boscobelandpartners.com",
+            "destination": "IONOS",
+            "date": "2025-09-30 12:43:56"
+        },
         {
             "domain_name": "gutenberg.agency",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "clubswan.com",
             "destination": "Digital Ocean",
             "date": "2025-09-27 09:02:53"
-        },
-        {
-            "domain_name": "www.languageconnections.com",
-            "destination": "SiteGround",
-            "date": "2025-09-27 08:39:36"
-        },
-        {
-            "domain_name": "indython.com",
-            "destination": "Kinsta",
-            "date": "2025-09-27 08:05:54"
         }
     ],
     "dailyMovedStat": {
@@ -882,7 +882,7 @@
         "Pressable": 11029,
         "Kinsta": 6071,
         "SiteGround": 5154,
-        "Digital Ocean": 4976,
+        "Digital Ocean": 4977,
         "Bluehost": 4191,
         "Hostinger": 3490,
         "GoDaddy": 1356,
@@ -894,7 +894,7 @@
         "OVH": 388,
         "A2 Hosting": 384,
         "Namecheap": 354,
-        "IONOS": 351,
+        "IONOS": 352,
         "DreamHost": 347,
         "Elementor Hosting": 328,
         "Hetzner Online": 280,
