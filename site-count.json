@@ -1,6 +1,11 @@
 {
-    "siteCount": 95745,
+    "siteCount": 95760,
     "recentlyMoved": [
+        {
+            "domain_name": "serviceready.com",
+            "destination": "Pressable",
+            "date": "2025-09-30 21:01:35"
+        },
         {
             "domain_name": "hopeassociation.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.listwithelizabeth.com",
             "destination": "Hostinger",
             "date": "2025-09-27 16:28:20"
-        },
-        {
-            "domain_name": "barentsnaturgass.no",
-            "destination": "Hostinger",
-            "date": "2025-09-27 16:26:34"
         }
     ],
     "dailyMovedStat": {
@@ -879,12 +879,12 @@
         "2025-09-29": "95564"
     },
     "topDestinationHosts": {
-        "Pressable": 11031,
+        "Pressable": 11032,
         "Kinsta": 6075,
         "SiteGround": 5157,
         "Digital Ocean": 4981,
         "Bluehost": 4191,
-        "Hostinger": 3492,
+        "Hostinger": 3493,
         "GoDaddy": 1357,
         "Liquid Web": 677,
         "BigScoots": 637,
