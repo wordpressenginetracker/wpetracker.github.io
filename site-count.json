@@ -1,6 +1,11 @@
 {
-    "siteCount": 95571,
+    "siteCount": 95576,
     "recentlyMoved": [
+        {
+            "domain_name": "bluecheckpools.com",
+            "destination": "Hostinger",
+            "date": "2025-09-30 00:36:59"
+        },
         {
             "domain_name": "gabrielheinemann.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "beyondmonumental.org",
             "destination": "Kinsta",
             "date": "2025-09-27 00:32:45"
-        },
-        {
-            "domain_name": "www.platinumtintaccessories.com",
-            "destination": "Digital Ocean",
-            "date": "2025-09-27 00:04:07"
         }
     ],
     "dailyMovedStat": {
@@ -884,7 +884,7 @@
         "SiteGround": 5153,
         "Digital Ocean": 4976,
         "Bluehost": 4191,
-        "Hostinger": 3487,
+        "Hostinger": 3488,
         "GoDaddy": 1354,
         "Liquid Web": 674,
         "BigScoots": 636,
