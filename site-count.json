@@ -1,6 +1,11 @@
 {
-    "siteCount": 95819,
+    "siteCount": 95823,
     "recentlyMoved": [
+        {
+            "domain_name": "billycraigservice.com",
+            "destination": "Namecheap",
+            "date": "2025-10-01 04:04:06"
+        },
         {
             "domain_name": "www.impressivedetailing.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "tradecraftvideo.com",
             "destination": "Bluehost",
             "date": "2025-09-28 22:16:15"
-        },
-        {
-            "domain_name": "chattahoocheechristian.org",
-            "destination": "Pressable",
-            "date": "2025-09-28 20:46:15"
         }
     ],
     "dailyMovedStat": {
@@ -894,7 +894,7 @@
         "GridPane": 398,
         "OVH": 390,
         "A2 Hosting": 384,
-        "Namecheap": 354,
+        "Namecheap": 355,
         "IONOS": 353,
         "DreamHost": 349,
         "Elementor Hosting": 328,
