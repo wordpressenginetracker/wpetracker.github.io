@@ -1,6 +1,21 @@
 {
-    "siteCount": 95858,
+    "siteCount": 95875,
     "recentlyMoved": [
+        {
+            "domain_name": "ghagen.no",
+            "destination": "Hostinger",
+            "date": "2025-10-01 12:17:45"
+        },
+        {
+            "domain_name": "polarlift.no",
+            "destination": "Hostinger",
+            "date": "2025-10-01 11:51:19"
+        },
+        {
+            "domain_name": "fireflymedical.net",
+            "destination": "OVH",
+            "date": "2025-10-01 11:12:43"
+        },
         {
             "domain_name": "mcmillanvantage.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "sgb-fss.spendenservice.com",
             "destination": "Hetzner Online",
             "date": "2025-09-29 08:19:37"
-        },
-        {
-            "domain_name": "sgb-fss.servizio-di-donazione.com",
-            "destination": "Hetzner Online",
-            "date": "2025-09-29 08:19:37"
-        },
-        {
-            "domain_name": "sgb-fss.service-de-dons.com",
-            "destination": "Hetzner Online",
-            "date": "2025-09-29 08:19:37"
-        },
-        {
-            "domain_name": "greencrossswitzerland.spendenservice.com",
-            "destination": "Hetzner Online",
-            "date": "2025-09-29 08:18:15"
         }
     ],
     "dailyMovedStat": {
@@ -883,16 +883,16 @@
         "Pressable": 11051,
         "Kinsta": 6080,
         "SiteGround": 5161,
-        "Digital Ocean": 4983,
+        "Digital Ocean": 4984,
         "Bluehost": 4191,
-        "Hostinger": 3495,
+        "Hostinger": 3497,
         "GoDaddy": 1357,
         "Liquid Web": 677,
         "BigScoots": 637,
         "WordPress.com": 474,
         "InMotion Hosting": 419,
         "GridPane": 398,
-        "OVH": 390,
+        "OVH": 391,
         "A2 Hosting": 385,
         "Namecheap": 356,
         "IONOS": 353,
