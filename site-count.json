@@ -1,6 +1,11 @@
 {
-    "siteCount": 96079,
+    "siteCount": 96086,
     "recentlyMoved": [
+        {
+            "domain_name": "woodfiredwondersob.com",
+            "destination": "SiteGround",
+            "date": "2025-10-02 04:01:32"
+        },
         {
             "domain_name": "creativedentalceramics.co.nz",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-09-30 23:55:44"
         },
         {
-            "domain_name": "getgogiveaways.com",
-            "destination": "OVH",
-            "date": "2025-09-30 23:54:06"
-        },
-        {
             "domain_name": "grownzbusiness.co.nz",
             "destination": "Pressable",
             "date": "2025-09-30 23:47:15"
@@ -883,7 +883,7 @@
     "topDestinationHosts": {
         "Pressable": 11078,
         "Kinsta": 6091,
-        "SiteGround": 5169,
+        "SiteGround": 5170,
         "Digital Ocean": 4987,
         "Bluehost": 4193,
         "Hostinger": 3502,
