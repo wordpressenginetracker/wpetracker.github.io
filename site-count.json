@@ -1,10 +1,20 @@
 {
-    "siteCount": 96150,
+    "siteCount": 96163,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hydra1303.com",
+            "destination": "HostGator",
+            "date": "2025-10-02 12:51:28"
+        },
         {
             "domain_name": "badwacapital.com",
             "destination": "Pressable",
             "date": "2025-10-02 12:38:05"
+        },
+        {
+            "domain_name": "inspiredincome.com",
+            "destination": "Hostinger",
+            "date": "2025-10-02 12:23:51"
         },
         {
             "domain_name": "www.grottoesfamilydentistry.com",
@@ -490,16 +500,6 @@
             "domain_name": "mycalcas.com",
             "destination": "Kinsta",
             "date": "2025-10-01 05:32:16"
-        },
-        {
-            "domain_name": "billycraigservice.com",
-            "destination": "Namecheap",
-            "date": "2025-10-01 04:04:06"
-        },
-        {
-            "domain_name": "www.impressivedetailing.com",
-            "destination": "SiteGround",
-            "date": "2025-10-01 03:32:24"
         }
     ],
     "dailyMovedStat": {
@@ -886,7 +886,7 @@
         "SiteGround": 5171,
         "Digital Ocean": 4989,
         "Bluehost": 4193,
-        "Hostinger": 3503,
+        "Hostinger": 3504,
         "GoDaddy": 1358,
         "Liquid Web": 679,
         "BigScoots": 637,
@@ -900,7 +900,7 @@
         "DreamHost": 351,
         "Elementor Hosting": 329,
         "Hetzner Online": 281,
-        "HostGator": 224
+        "HostGator": 225
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
