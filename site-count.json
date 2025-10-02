@@ -1,6 +1,26 @@
 {
-    "siteCount": 96195,
+    "siteCount": 96213,
     "recentlyMoved": [
+        {
+            "domain_name": "chvdental.ca",
+            "destination": "OVH",
+            "date": "2025-10-02 17:09:52"
+        },
+        {
+            "domain_name": "cakeafare.com",
+            "destination": "Kinsta",
+            "date": "2025-10-02 17:07:10"
+        },
+        {
+            "domain_name": "brooksidetimberframe.com",
+            "destination": "Kinsta",
+            "date": "2025-10-02 16:25:45"
+        },
+        {
+            "domain_name": "blog.milvus.com.br",
+            "destination": "SiteGround",
+            "date": "2025-10-02 16:18:01"
+        },
         {
             "domain_name": "foucharddesigns.com",
             "destination": "Bluehost",
@@ -480,26 +500,6 @@
             "domain_name": "coordsport.com",
             "destination": "IONOS",
             "date": "2025-10-01 12:49:54"
-        },
-        {
-            "domain_name": "ghagen.no",
-            "destination": "Hostinger",
-            "date": "2025-10-01 12:17:45"
-        },
-        {
-            "domain_name": "polarlift.no",
-            "destination": "Hostinger",
-            "date": "2025-10-01 11:51:19"
-        },
-        {
-            "domain_name": "fireflymedical.net",
-            "destination": "OVH",
-            "date": "2025-10-01 11:12:43"
-        },
-        {
-            "domain_name": "mvp.displaycentre.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-10-01 09:49:14"
         }
     ],
     "dailyMovedStat": {
@@ -881,9 +881,9 @@
         "2025-10-01": "96053"
     },
     "topDestinationHosts": {
-        "Pressable": 11083,
-        "Kinsta": 6097,
-        "SiteGround": 5174,
+        "Pressable": 11084,
+        "Kinsta": 6099,
+        "SiteGround": 5175,
         "Digital Ocean": 4990,
         "Bluehost": 4194,
         "Hostinger": 3505,
@@ -893,7 +893,7 @@
         "WordPress.com": 476,
         "InMotion Hosting": 421,
         "GridPane": 398,
-        "OVH": 391,
+        "OVH": 392,
         "A2 Hosting": 386,
         "Namecheap": 359,
         "IONOS": 356,
