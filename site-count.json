@@ -1,6 +1,11 @@
 {
-    "siteCount": 96113,
+    "siteCount": 96122,
     "recentlyMoved": [
+        {
+            "domain_name": "liftodm.com",
+            "destination": "Namecheap",
+            "date": "2025-10-02 09:06:14"
+        },
         {
             "domain_name": "homemessenger.net",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "legalsolutions.nz",
             "destination": "Pressable",
             "date": "2025-10-01 01:16:54"
-        },
-        {
-            "domain_name": "koolfoam.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-01 01:06:09"
         }
     ],
     "dailyMovedStat": {
@@ -882,7 +882,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11080,
-        "Kinsta": 6093,
+        "Kinsta": 6094,
         "SiteGround": 5171,
         "Digital Ocean": 4988,
         "Bluehost": 4193,
@@ -895,7 +895,7 @@
         "GridPane": 398,
         "OVH": 391,
         "A2 Hosting": 386,
-        "Namecheap": 356,
+        "Namecheap": 357,
         "IONOS": 356,
         "DreamHost": 351,
         "Elementor Hosting": 329,
