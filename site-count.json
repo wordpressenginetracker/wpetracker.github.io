@@ -1,15 +1,30 @@
 {
-    "siteCount": 96065,
+    "siteCount": 96071,
     "recentlyMoved": [
+        {
+            "domain_name": "www.saramarberry.com",
+            "destination": "Kinsta",
+            "date": "2025-10-02 01:15:14"
+        },
         {
             "domain_name": "resolutionroofing.co.nz",
             "destination": "Pressable",
             "date": "2025-10-02 00:30:39"
         },
         {
+            "domain_name": "bijoucharleston.com",
+            "destination": "Pressable",
+            "date": "2025-10-02 00:16:09"
+        },
+        {
             "domain_name": "www.breezeguard.com",
             "destination": "Kinsta",
             "date": "2025-10-02 00:15:51"
+        },
+        {
+            "domain_name": "bickertonmasters.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-02 00:00:31"
         },
         {
             "domain_name": "optitax.com.au",
@@ -485,21 +500,6 @@
             "domain_name": "freedomroad.com",
             "destination": "Hostinger",
             "date": "2025-09-30 23:19:58"
-        },
-        {
-            "domain_name": "ecoenvironmental.com.au",
-            "destination": "GridPane",
-            "date": "2025-09-30 21:54:18"
-        },
-        {
-            "domain_name": "luxuryisamindset.com",
-            "destination": "SiteGround",
-            "date": "2025-09-30 21:38:13"
-        },
-        {
-            "domain_name": "serviceready.com",
-            "destination": "Pressable",
-            "date": "2025-09-30 21:01:35"
         }
     ],
     "dailyMovedStat": {
@@ -881,9 +881,9 @@
         "2025-10-01": "96053"
     },
     "topDestinationHosts": {
-        "Pressable": 11073,
-        "Kinsta": 6090,
-        "SiteGround": 5168,
+        "Pressable": 11075,
+        "Kinsta": 6091,
+        "SiteGround": 5169,
         "Digital Ocean": 4987,
         "Bluehost": 4193,
         "Hostinger": 3502,
