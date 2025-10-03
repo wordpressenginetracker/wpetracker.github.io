@@ -1,6 +1,21 @@
 {
-    "siteCount": 96499,
+    "siteCount": 96510,
     "recentlyMoved": [
+        {
+            "domain_name": "thesavannahbananas.com",
+            "destination": "WordPress VIP",
+            "date": "2025-10-03 18:01:09"
+        },
+        {
+            "domain_name": "napavault.com",
+            "destination": "Pressable",
+            "date": "2025-10-03 17:42:52"
+        },
+        {
+            "domain_name": "mjseniorhousing.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-03 17:23:39"
+        },
         {
             "domain_name": "www.nasconetwork.com",
             "destination": "Digital Ocean",
@@ -482,24 +497,9 @@
             "date": "2025-10-02 12:23:51"
         },
         {
-            "domain_name": "www.grottoesfamilydentistry.com",
-            "destination": "Namecheap",
-            "date": "2025-10-02 12:22:42"
-        },
-        {
             "domain_name": "automatedes.com",
             "destination": "Namecheap",
             "date": "2025-10-02 12:22:15"
-        },
-        {
-            "domain_name": "www.adirondackstoragebarns.com",
-            "destination": "Kinsta",
-            "date": "2025-10-02 12:10:17"
-        },
-        {
-            "domain_name": "www.akfencing.net",
-            "destination": "Kinsta",
-            "date": "2025-10-02 11:26:57"
         }
     ],
     "dailyMovedStat": {
@@ -882,14 +882,14 @@
         "2025-10-02": "96331"
     },
     "topDestinationHosts": {
-        "Pressable": 11107,
+        "Pressable": 11108,
         "Kinsta": 6113,
         "SiteGround": 5190,
         "Digital Ocean": 5003,
         "Bluehost": 4197,
         "Hostinger": 3509,
         "GoDaddy": 1360,
-        "Liquid Web": 681,
+        "Liquid Web": 682,
         "BigScoots": 637,
         "WordPress.com": 477,
         "InMotion Hosting": 422,
