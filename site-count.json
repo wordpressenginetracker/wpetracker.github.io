@@ -1,6 +1,36 @@
 {
-    "siteCount": 96331,
+    "siteCount": 96345,
     "recentlyMoved": [
+        {
+            "domain_name": "www.charlesstraka.com",
+            "destination": "Kinsta",
+            "date": "2025-10-03 00:35:09"
+        },
+        {
+            "domain_name": "pureenvymedspa.com",
+            "destination": "SiteGround",
+            "date": "2025-10-03 00:19:08"
+        },
+        {
+            "domain_name": "wlc.co.nz",
+            "destination": "Pressable",
+            "date": "2025-10-03 00:10:42"
+        },
+        {
+            "domain_name": "flybca.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-03 00:01:21"
+        },
+        {
+            "domain_name": "wayforward.org.au",
+            "destination": "SiteGround",
+            "date": "2025-10-02 23:48:33"
+        },
+        {
+            "domain_name": "hamiltonbeauty.co.nz",
+            "destination": "Pressable",
+            "date": "2025-10-02 23:41:32"
+        },
         {
             "domain_name": "executivesiq.com",
             "destination": "Kinsta",
@@ -457,16 +487,6 @@
             "date": "2025-10-01 16:22:54"
         },
         {
-            "domain_name": "www.keywestsunshirts.com",
-            "destination": "Kinsta",
-            "date": "2025-10-01 16:15:22"
-        },
-        {
-            "domain_name": "app.meetliminal.com",
-            "destination": "Pressable",
-            "date": "2025-10-01 16:08:29"
-        },
-        {
             "domain_name": "www.contractleasing.net",
             "destination": "SiteGround",
             "date": "2025-10-01 16:01:09"
@@ -480,26 +500,6 @@
             "domain_name": "www.drthomasmccarty.com",
             "destination": "WordPress.com",
             "date": "2025-10-01 15:55:55"
-        },
-        {
-            "domain_name": "www.caldwelldentistryco.com",
-            "destination": "Kinsta",
-            "date": "2025-10-01 15:48:46"
-        },
-        {
-            "domain_name": "ascensionnumerique.com",
-            "destination": "SiteGround",
-            "date": "2025-10-01 15:44:22"
-        },
-        {
-            "domain_name": "aleckandjenkins.com",
-            "destination": "Hostinger",
-            "date": "2025-10-01 15:40:16"
-        },
-        {
-            "domain_name": "plasticsurgerysolutions.com",
-            "destination": "SiteGround",
-            "date": "2025-10-01 15:31:58"
         }
     ],
     "dailyMovedStat": {
@@ -882,13 +882,13 @@
         "2025-10-02": "96331"
     },
     "topDestinationHosts": {
-        "Pressable": 11090,
-        "Kinsta": 6103,
-        "SiteGround": 5179,
+        "Pressable": 11092,
+        "Kinsta": 6104,
+        "SiteGround": 5181,
         "Digital Ocean": 4996,
         "Bluehost": 4194,
         "Hostinger": 3506,
-        "GoDaddy": 1358,
+        "GoDaddy": 1359,
         "Liquid Web": 680,
         "BigScoots": 637,
         "WordPress.com": 476,
