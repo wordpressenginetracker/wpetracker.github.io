@@ -1,6 +1,16 @@
 {
-    "siteCount": 96586,
+    "siteCount": 96596,
     "recentlyMoved": [
+        {
+            "domain_name": "dadabilities.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-03 21:44:49"
+        },
+        {
+            "domain_name": "theheimatgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-10-03 21:41:37"
+        },
         {
             "domain_name": "silvastar.com",
             "destination": "Kinsta",
@@ -15,6 +25,11 @@
             "domain_name": "www.southhavenbeachhomes.com",
             "destination": "Kinsta",
             "date": "2025-10-03 21:09:26"
+        },
+        {
+            "domain_name": "www.yourtridental.com",
+            "destination": "SiteGround",
+            "date": "2025-10-03 21:07:59"
         },
         {
             "domain_name": "loomo.ca",
@@ -467,11 +482,6 @@
             "date": "2025-10-02 16:18:01"
         },
         {
-            "domain_name": "foucharddesigns.com",
-            "destination": "Bluehost",
-            "date": "2025-10-02 15:56:02"
-        },
-        {
             "domain_name": "bentleyjacobs.com",
             "destination": "Pressable",
             "date": "2025-10-02 15:53:39"
@@ -490,16 +500,6 @@
             "domain_name": "penguinhosting.ca",
             "destination": "SiteGround",
             "date": "2025-10-02 15:44:35"
-        },
-        {
-            "domain_name": "voicesschool.org",
-            "destination": "Pressable",
-            "date": "2025-10-02 14:13:43"
-        },
-        {
-            "domain_name": "oakforestavl.com",
-            "destination": "SiteGround",
-            "date": "2025-10-02 14:08:23"
         }
     ],
     "dailyMovedStat": {
@@ -883,13 +883,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6116,
-        "SiteGround": 5190,
+        "Kinsta": 6118,
+        "SiteGround": 5191,
         "Digital Ocean": 5005,
         "Bluehost": 4200,
         "Hostinger": 3510,
         "GoDaddy": 1361,
-        "Liquid Web": 683,
+        "Liquid Web": 684,
         "BigScoots": 637,
         "WordPress.com": 477,
         "InMotion Hosting": 422,
