@@ -1,6 +1,21 @@
 {
-    "siteCount": 96455,
+    "siteCount": 96467,
     "recentlyMoved": [
+        {
+            "domain_name": "now.org",
+            "destination": "Kinsta",
+            "date": "2025-10-03 14:02:01"
+        },
+        {
+            "domain_name": "makingfor.servepics.com",
+            "destination": "Hostinger",
+            "date": "2025-10-03 13:31:39"
+        },
+        {
+            "domain_name": "mortgage-xperts.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2025-10-03 13:28:48"
+        },
         {
             "domain_name": "www.pinnacleresourcesoil.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "woodfiredwondersob.com",
             "destination": "SiteGround",
             "date": "2025-10-02 04:01:32"
-        },
-        {
-            "domain_name": "creativedentalceramics.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-02 01:48:22"
-        },
-        {
-            "domain_name": "cornerstonemasonry.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-02 01:42:47"
-        },
-        {
-            "domain_name": "denturecreations.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-02 01:19:20"
         }
     ],
     "dailyMovedStat": {
@@ -883,11 +883,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11106,
-        "Kinsta": 6110,
+        "Kinsta": 6111,
         "SiteGround": 5188,
         "Digital Ocean": 5001,
         "Bluehost": 4195,
-        "Hostinger": 3508,
+        "Hostinger": 3509,
         "GoDaddy": 1360,
         "Liquid Web": 681,
         "BigScoots": 637,
