@@ -1,6 +1,11 @@
 {
-    "siteCount": 96357,
+    "siteCount": 96365,
     "recentlyMoved": [
+        {
+            "domain_name": "walkerspestcontrol.co.nz",
+            "destination": "Pressable",
+            "date": "2025-10-03 02:31:08"
+        },
         {
             "domain_name": "www.ssa.org",
             "destination": "Kinsta",
@@ -477,11 +482,6 @@
             "date": "2025-10-01 16:55:16"
         },
         {
-            "domain_name": "www.harcourt.co",
-            "destination": "InMotion Hosting",
-            "date": "2025-10-01 16:53:47"
-        },
-        {
             "domain_name": "cohesionnetwork.org",
             "destination": "Pressable",
             "date": "2025-10-01 16:50:26"
@@ -882,7 +882,7 @@
         "2025-10-02": "96331"
     },
     "topDestinationHosts": {
-        "Pressable": 11092,
+        "Pressable": 11093,
         "Kinsta": 6105,
         "SiteGround": 5182,
         "Digital Ocean": 4997,
