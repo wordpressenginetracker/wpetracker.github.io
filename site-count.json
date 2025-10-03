@@ -1,6 +1,21 @@
 {
-    "siteCount": 96396,
+    "siteCount": 96407,
     "recentlyMoved": [
+        {
+            "domain_name": "www.akltaxes.com",
+            "destination": "Kinsta",
+            "date": "2025-10-03 08:16:28"
+        },
+        {
+            "domain_name": "www.allriteplastics.com",
+            "destination": "Kinsta",
+            "date": "2025-10-03 08:14:53"
+        },
+        {
+            "domain_name": "gosellglobal.com",
+            "destination": "Pressable",
+            "date": "2025-10-03 07:58:13"
+        },
         {
             "domain_name": "theweddingbluebook.com",
             "destination": "SiteGround",
@@ -477,29 +492,14 @@
             "date": "2025-10-01 17:56:48"
         },
         {
-            "domain_name": "targepeutics.com",
-            "destination": "Pressable",
-            "date": "2025-10-01 17:50:58"
-        },
-        {
             "domain_name": "mitchell-tables.com",
             "destination": "Pressable",
             "date": "2025-10-01 17:44:04"
         },
         {
-            "domain_name": "liminalsites.com",
-            "destination": "Pressable",
-            "date": "2025-10-01 17:35:06"
-        },
-        {
             "domain_name": "dentistincumming.co",
             "destination": "A2 Hosting",
             "date": "2025-10-01 17:26:46"
-        },
-        {
-            "domain_name": "communityvisionca.org",
-            "destination": "Digital Ocean",
-            "date": "2025-10-01 17:00:23"
         }
     ],
     "dailyMovedStat": {
@@ -882,8 +882,8 @@
         "2025-10-02": "96331"
     },
     "topDestinationHosts": {
-        "Pressable": 11093,
-        "Kinsta": 6106,
+        "Pressable": 11094,
+        "Kinsta": 6108,
         "SiteGround": 5184,
         "Digital Ocean": 4998,
         "Bluehost": 4195,
