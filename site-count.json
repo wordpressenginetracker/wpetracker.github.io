@@ -1,6 +1,21 @@
 {
-    "siteCount": 96731,
+    "siteCount": 96737,
     "recentlyMoved": [
+        {
+            "domain_name": "earthandskydesign.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 18:04:48"
+        },
+        {
+            "domain_name": "martinfed.com",
+            "destination": "WordPress.com",
+            "date": "2025-10-04 17:32:19"
+        },
+        {
+            "domain_name": "miracledata.com",
+            "destination": "SiteGround",
+            "date": "2025-10-04 17:29:47"
+        },
         {
             "domain_name": "chantizak.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "gosellglobal.com",
             "destination": "Pressable",
             "date": "2025-10-03 07:58:13"
-        },
-        {
-            "domain_name": "theweddingbluebook.com",
-            "destination": "SiteGround",
-            "date": "2025-10-03 05:37:19"
-        },
-        {
-            "domain_name": "moonrisecrystals.com",
-            "destination": "Kinsta",
-            "date": "2025-10-03 05:28:52"
-        },
-        {
-            "domain_name": "kiasoma.co.za",
-            "destination": "Bluehost",
-            "date": "2025-10-03 04:48:59"
         }
     ],
     "dailyMovedStat": {
@@ -884,15 +884,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6138,
-        "SiteGround": 5195,
+        "Kinsta": 6139,
+        "SiteGround": 5196,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
         "Hostinger": 3513,
         "GoDaddy": 1361,
         "Liquid Web": 686,
         "BigScoots": 637,
-        "WordPress.com": 477,
+        "WordPress.com": 478,
         "InMotion Hosting": 422,
         "OVH": 398,
         "GridPane": 398,
