@@ -1,6 +1,16 @@
 {
-    "siteCount": 96640,
+    "siteCount": 96649,
     "recentlyMoved": [
+        {
+            "domain_name": "www.danddindustrial.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 08:22:14"
+        },
+        {
+            "domain_name": "getbozak.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 07:35:04"
+        },
         {
             "domain_name": "www.skyboundsupply.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.tillislaw.com",
             "destination": "SiteGround",
             "date": "2025-10-02 19:26:46"
-        },
-        {
-            "domain_name": "milvus.com.br",
-            "destination": "SiteGround",
-            "date": "2025-10-02 17:45:35"
-        },
-        {
-            "domain_name": "meetliminal.com",
-            "destination": "Pressable",
-            "date": "2025-10-02 17:04:43"
         }
     ],
     "dailyMovedStat": {
@@ -884,7 +884,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6122,
+        "Kinsta": 6125,
         "SiteGround": 5192,
         "Digital Ocean": 5007,
         "Bluehost": 4200,
