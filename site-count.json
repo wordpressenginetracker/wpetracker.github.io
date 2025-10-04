@@ -1,10 +1,25 @@
 {
-    "siteCount": 96767,
+    "siteCount": 96774,
     "recentlyMoved": [
+        {
+            "domain_name": "www.pfa-inc.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 20:54:51"
+        },
         {
             "domain_name": "richlandrental.com",
             "destination": "Kinsta",
             "date": "2025-10-04 20:46:52"
+        },
+        {
+            "domain_name": "clthompson.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 20:45:50"
+        },
+        {
+            "domain_name": "www.magiktheatre.org",
+            "destination": "Kinsta",
+            "date": "2025-10-04 20:15:07"
         },
         {
             "domain_name": "wj-attorneys.com",
@@ -482,24 +497,9 @@
             "date": "2025-10-03 09:03:07"
         },
         {
-            "domain_name": "sajjanhair.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-03 08:48:45"
-        },
-        {
             "domain_name": "sofatech.co.nz",
             "destination": "Pressable",
             "date": "2025-10-03 08:26:53"
-        },
-        {
-            "domain_name": "shoesheriff.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-03 08:20:52"
-        },
-        {
-            "domain_name": "roofrepairsauckland.com",
-            "destination": "Pressable",
-            "date": "2025-10-03 08:00:34"
         }
     ],
     "dailyMovedStat": {
@@ -884,7 +884,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6142,
+        "Kinsta": 6146,
         "SiteGround": 5197,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
