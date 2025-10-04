@@ -1,6 +1,16 @@
 {
-    "siteCount": 96627,
+    "siteCount": 96633,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ebikesworld.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-04 04:21:37"
+        },
+        {
+            "domain_name": "www.beachsidelighting.com",
+            "destination": "Kinsta",
+            "date": "2025-10-04 04:00:18"
+        },
         {
             "domain_name": "tiki.beachsidelighting.com",
             "destination": "Kinsta",
@@ -487,16 +497,6 @@
             "date": "2025-10-02 17:45:35"
         },
         {
-            "domain_name": "chvdental.ca",
-            "destination": "OVH",
-            "date": "2025-10-02 17:09:52"
-        },
-        {
-            "domain_name": "cakeafare.com",
-            "destination": "Kinsta",
-            "date": "2025-10-02 17:07:10"
-        },
-        {
             "domain_name": "meetliminal.com",
             "destination": "Pressable",
             "date": "2025-10-02 17:04:43"
@@ -884,7 +884,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6119,
+        "Kinsta": 6121,
         "SiteGround": 5192,
         "Digital Ocean": 5007,
         "Bluehost": 4200,
