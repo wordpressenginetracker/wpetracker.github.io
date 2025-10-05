@@ -1,6 +1,11 @@
 {
-    "siteCount": 96785,
+    "siteCount": 96790,
     "recentlyMoved": [
+        {
+            "domain_name": "freshseas.com",
+            "destination": "Kinsta",
+            "date": "2025-10-05 03:18:03"
+        },
         {
             "domain_name": "clarkpedsortho.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-10-03 09:38:03"
         },
         {
-            "domain_name": "stunnpainters.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-03 09:15:47"
-        },
-        {
             "domain_name": "teedstreetlarder.co.nz",
             "destination": "Pressable",
             "date": "2025-10-03 09:03:07"
@@ -885,7 +885,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6146,
+        "Kinsta": 6147,
         "SiteGround": 5199,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
