@@ -1,6 +1,11 @@
 {
-    "siteCount": 96808,
+    "siteCount": 96812,
     "recentlyMoved": [
+        {
+            "domain_name": "trinitetech.com",
+            "destination": "Hostinger",
+            "date": "2025-10-05 13:48:32"
+        },
         {
             "domain_name": "chapsoft.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "smythlaw.net",
             "destination": "Digital Ocean",
             "date": "2025-10-03 12:44:53"
-        },
-        {
-            "domain_name": "ruidoso.com",
-            "destination": "SiteGround",
-            "date": "2025-10-03 12:25:31"
         }
     ],
     "dailyMovedStat": {
@@ -889,7 +889,7 @@
         "SiteGround": 5203,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
-        "Hostinger": 3513,
+        "Hostinger": 3514,
         "GoDaddy": 1363,
         "Liquid Web": 687,
         "BigScoots": 637,
