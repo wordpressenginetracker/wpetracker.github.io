@@ -1,6 +1,16 @@
 {
-    "siteCount": 96817,
+    "siteCount": 96819,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wplegal.com",
+            "destination": "Kinsta",
+            "date": "2025-10-05 17:17:35"
+        },
+        {
+            "domain_name": "www.wpcrank.com",
+            "destination": "Kinsta",
+            "date": "2025-10-05 17:16:49"
+        },
         {
             "domain_name": "bladelight.org",
             "destination": "SiteGround",
@@ -482,11 +492,6 @@
             "date": "2025-10-03 13:28:48"
         },
         {
-            "domain_name": "www.pinnacleresourcesoil.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-03 13:20:50"
-        },
-        {
             "domain_name": "christensenhomes.net",
             "destination": "Elementor Hosting",
             "date": "2025-10-03 13:13:17"
@@ -495,11 +500,6 @@
             "domain_name": "columbuscounselinggroup.com",
             "destination": "SiteGround",
             "date": "2025-10-03 12:50:07"
-        },
-        {
-            "domain_name": "smythlaw.net",
-            "destination": "Digital Ocean",
-            "date": "2025-10-03 12:44:53"
         }
     ],
     "dailyMovedStat": {
@@ -885,7 +885,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11108,
-        "Kinsta": 6148,
+        "Kinsta": 6150,
         "SiteGround": 5204,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
