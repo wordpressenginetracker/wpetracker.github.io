@@ -1,6 +1,11 @@
 {
-    "siteCount": 96814,
+    "siteCount": 96817,
     "recentlyMoved": [
+        {
+            "domain_name": "bladelight.org",
+            "destination": "SiteGround",
+            "date": "2025-10-05 16:35:41"
+        },
         {
             "domain_name": "trinitetech.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-10-03 13:13:17"
         },
         {
-            "domain_name": "sanjuancountysports.com",
-            "destination": "SiteGround",
-            "date": "2025-10-03 13:00:56"
-        },
-        {
             "domain_name": "columbuscounselinggroup.com",
             "destination": "SiteGround",
             "date": "2025-10-03 12:50:07"
@@ -886,7 +886,7 @@
     "topDestinationHosts": {
         "Pressable": 11108,
         "Kinsta": 6148,
-        "SiteGround": 5203,
+        "SiteGround": 5204,
         "Digital Ocean": 5007,
         "Bluehost": 4202,
         "Hostinger": 3514,
