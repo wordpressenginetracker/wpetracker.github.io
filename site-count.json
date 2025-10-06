@@ -1,6 +1,16 @@
 {
-    "siteCount": 96957,
+    "siteCount": 96961,
     "recentlyMoved": [
+        {
+            "domain_name": "mrlhypotheque.ca",
+            "destination": "OVH",
+            "date": "2025-10-06 21:44:21"
+        },
+        {
+            "domain_name": "www.wowhomes.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-10-06 21:32:09"
+        },
         {
             "domain_name": "colefrailey.com",
             "destination": "Hostinger",
@@ -482,11 +492,6 @@
             "date": "2025-10-04 01:35:18"
         },
         {
-            "domain_name": "greenstonebio.com",
-            "destination": "Hostinger",
-            "date": "2025-10-04 00:17:56"
-        },
-        {
             "domain_name": "homeownerlegalsolutions.com",
             "destination": "Digital Ocean",
             "date": "2025-10-04 00:15:31"
@@ -495,11 +500,6 @@
             "domain_name": "homeconceptions.com",
             "destination": "SiteGround",
             "date": "2025-10-04 00:15:31"
-        },
-        {
-            "domain_name": "ahhc.org",
-            "destination": "Digital Ocean",
-            "date": "2025-10-04 00:10:57"
         }
     ],
     "dailyMovedStat": {
@@ -888,7 +888,7 @@
         "Pressable": 11110,
         "Kinsta": 6166,
         "SiteGround": 5215,
-        "Digital Ocean": 5008,
+        "Digital Ocean": 5009,
         "Bluehost": 4203,
         "Hostinger": 3517,
         "GoDaddy": 1363,
@@ -897,7 +897,7 @@
         "WordPress.com": 478,
         "InMotion Hosting": 422,
         "GridPane": 399,
-        "OVH": 398,
+        "OVH": 399,
         "A2 Hosting": 387,
         "Namecheap": 365,
         "IONOS": 359,
