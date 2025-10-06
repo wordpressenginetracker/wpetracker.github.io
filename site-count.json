@@ -1,6 +1,16 @@
 {
-    "siteCount": 96898,
+    "siteCount": 96907,
     "recentlyMoved": [
+        {
+            "domain_name": "holyapostlesky.org",
+            "destination": "SiteGround",
+            "date": "2025-10-06 16:17:42"
+        },
+        {
+            "domain_name": "granitebaydesign.com",
+            "destination": "SiteGround",
+            "date": "2025-10-06 15:53:36"
+        },
         {
             "domain_name": "lifeasapoem.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "loomo.ca",
             "destination": "Kinsta",
             "date": "2025-10-03 20:49:10"
-        },
-        {
-            "domain_name": "www.divorcegranted.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-03 20:25:54"
-        },
-        {
-            "domain_name": "ascension-tek.com",
-            "destination": "Hostinger",
-            "date": "2025-10-03 19:46:18"
         }
     ],
     "dailyMovedStat": {
@@ -887,7 +887,7 @@
     "topDestinationHosts": {
         "Pressable": 11110,
         "Kinsta": 6166,
-        "SiteGround": 5206,
+        "SiteGround": 5207,
         "Digital Ocean": 5007,
         "Bluehost": 4203,
         "Hostinger": 3515,
