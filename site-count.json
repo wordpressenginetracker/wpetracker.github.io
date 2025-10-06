@@ -1,6 +1,11 @@
 {
-    "siteCount": 96887,
+    "siteCount": 96891,
     "recentlyMoved": [
+        {
+            "domain_name": "webnerd.ie",
+            "destination": "Bluehost",
+            "date": "2025-10-06 11:30:01"
+        },
         {
             "domain_name": "drdelacydavis.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "ascension-tek.com",
             "destination": "Hostinger",
             "date": "2025-10-03 19:46:18"
-        },
-        {
-            "domain_name": "portal.insuranceprofl.com",
-            "destination": "GoDaddy",
-            "date": "2025-10-03 19:46:17"
         }
     ],
     "dailyMovedStat": {
@@ -889,7 +889,7 @@
         "Kinsta": 6165,
         "SiteGround": 5206,
         "Digital Ocean": 5007,
-        "Bluehost": 4202,
+        "Bluehost": 4203,
         "Hostinger": 3515,
         "GoDaddy": 1363,
         "Liquid Web": 687,
