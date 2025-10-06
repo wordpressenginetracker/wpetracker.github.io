@@ -1,6 +1,11 @@
 {
-    "siteCount": 96913,
+    "siteCount": 96917,
     "recentlyMoved": [
+        {
+            "domain_name": "davidagostonlawfirm.com",
+            "destination": "SiteGround",
+            "date": "2025-10-06 17:28:08"
+        },
         {
             "domain_name": "cleanmybackground.com",
             "destination": "SiteGround",
@@ -487,11 +492,6 @@
             "date": "2025-10-03 21:41:37"
         },
         {
-            "domain_name": "www.southhavenbeachhomes.com",
-            "destination": "Kinsta",
-            "date": "2025-10-03 21:09:26"
-        },
-        {
             "domain_name": "www.yourtridental.com",
             "destination": "SiteGround",
             "date": "2025-10-03 21:07:59"
@@ -887,7 +887,7 @@
     "topDestinationHosts": {
         "Pressable": 11110,
         "Kinsta": 6166,
-        "SiteGround": 5210,
+        "SiteGround": 5211,
         "Digital Ocean": 5007,
         "Bluehost": 4203,
         "Hostinger": 3515,
