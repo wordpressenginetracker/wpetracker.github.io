@@ -1,10 +1,20 @@
 {
-    "siteCount": 96907,
+    "siteCount": 96913,
     "recentlyMoved": [
+        {
+            "domain_name": "cleanmybackground.com",
+            "destination": "SiteGround",
+            "date": "2025-10-06 17:18:34"
+        },
         {
             "domain_name": "holyapostlesky.org",
             "destination": "SiteGround",
             "date": "2025-10-06 16:17:42"
+        },
+        {
+            "domain_name": "igotthismartha.com",
+            "destination": "SiteGround",
+            "date": "2025-10-06 15:56:23"
         },
         {
             "domain_name": "granitebaydesign.com",
@@ -477,16 +487,6 @@
             "date": "2025-10-03 21:41:37"
         },
         {
-            "domain_name": "silvastar.com",
-            "destination": "Kinsta",
-            "date": "2025-10-03 21:12:30"
-        },
-        {
-            "domain_name": "krigerlaw.com",
-            "destination": "Kinsta",
-            "date": "2025-10-03 21:09:52"
-        },
-        {
             "domain_name": "www.southhavenbeachhomes.com",
             "destination": "Kinsta",
             "date": "2025-10-03 21:09:26"
@@ -887,7 +887,7 @@
     "topDestinationHosts": {
         "Pressable": 11110,
         "Kinsta": 6166,
-        "SiteGround": 5207,
+        "SiteGround": 5210,
         "Digital Ocean": 5007,
         "Bluehost": 4203,
         "Hostinger": 3515,
