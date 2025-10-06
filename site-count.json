@@ -1,6 +1,21 @@
 {
-    "siteCount": 96917,
+    "siteCount": 96952,
     "recentlyMoved": [
+        {
+            "domain_name": "almostprivate.com",
+            "destination": "SiteGround",
+            "date": "2025-10-06 20:05:41"
+        },
+        {
+            "domain_name": "glasgowlaw.net",
+            "destination": "SiteGround",
+            "date": "2025-10-06 20:01:03"
+        },
+        {
+            "domain_name": "arearealestate.net",
+            "destination": "SiteGround",
+            "date": "2025-10-06 19:59:56"
+        },
         {
             "domain_name": "davidagostonlawfirm.com",
             "destination": "SiteGround",
@@ -482,24 +497,9 @@
             "date": "2025-10-04 00:10:57"
         },
         {
-            "domain_name": "dadabilities.com",
-            "destination": "Liquid Web",
-            "date": "2025-10-03 21:44:49"
-        },
-        {
-            "domain_name": "theheimatgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-10-03 21:41:37"
-        },
-        {
             "domain_name": "www.yourtridental.com",
             "destination": "SiteGround",
             "date": "2025-10-03 21:07:59"
-        },
-        {
-            "domain_name": "loomo.ca",
-            "destination": "Kinsta",
-            "date": "2025-10-03 20:49:10"
         }
     ],
     "dailyMovedStat": {
@@ -887,10 +887,10 @@
     "topDestinationHosts": {
         "Pressable": 11110,
         "Kinsta": 6166,
-        "SiteGround": 5211,
-        "Digital Ocean": 5007,
+        "SiteGround": 5215,
+        "Digital Ocean": 5008,
         "Bluehost": 4203,
-        "Hostinger": 3515,
+        "Hostinger": 3516,
         "GoDaddy": 1363,
         "Liquid Web": 687,
         "BigScoots": 637,
@@ -899,8 +899,8 @@
         "GridPane": 399,
         "OVH": 398,
         "A2 Hosting": 387,
-        "Namecheap": 364,
-        "IONOS": 358,
+        "Namecheap": 365,
+        "IONOS": 359,
         "DreamHost": 354,
         "Elementor Hosting": 330,
         "Hetzner Online": 283,
