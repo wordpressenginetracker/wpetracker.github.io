@@ -1,6 +1,11 @@
 {
-    "siteCount": 96891,
+    "siteCount": 96896,
     "recentlyMoved": [
+        {
+            "domain_name": "lifeasapoem.com",
+            "destination": "Kinsta",
+            "date": "2025-10-06 13:25:29"
+        },
         {
             "domain_name": "webnerd.ie",
             "destination": "Bluehost",
@@ -492,11 +497,6 @@
             "date": "2025-10-03 20:25:54"
         },
         {
-            "domain_name": "guajardoinjurylaw.com",
-            "destination": "Namecheap",
-            "date": "2025-10-03 20:03:43"
-        },
-        {
             "domain_name": "ascension-tek.com",
             "destination": "Hostinger",
             "date": "2025-10-03 19:46:18"
@@ -886,7 +886,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11110,
-        "Kinsta": 6165,
+        "Kinsta": 6166,
         "SiteGround": 5206,
         "Digital Ocean": 5007,
         "Bluehost": 4203,
