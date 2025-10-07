@@ -1,6 +1,11 @@
 {
-    "siteCount": 96961,
+    "siteCount": 96966,
     "recentlyMoved": [
+        {
+            "domain_name": "greenacressporting.com",
+            "destination": "Kinsta",
+            "date": "2025-10-07 00:26:33"
+        },
         {
             "domain_name": "mrlhypotheque.ca",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "homeownerlegalsolutions.com",
             "destination": "Digital Ocean",
             "date": "2025-10-04 00:15:31"
-        },
-        {
-            "domain_name": "homeconceptions.com",
-            "destination": "SiteGround",
-            "date": "2025-10-04 00:15:31"
         }
     ],
     "dailyMovedStat": {
@@ -887,7 +887,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11110,
-        "Kinsta": 6166,
+        "Kinsta": 6167,
         "SiteGround": 5215,
         "Digital Ocean": 5009,
         "Bluehost": 4203,
