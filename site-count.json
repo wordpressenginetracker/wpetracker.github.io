@@ -1,6 +1,21 @@
 {
-    "siteCount": 97150,
+    "siteCount": 97158,
     "recentlyMoved": [
+        {
+            "domain_name": "totallytubes.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-10-07 21:49:35"
+        },
+        {
+            "domain_name": "topshelfcrane.com",
+            "destination": "Kinsta",
+            "date": "2025-10-07 21:49:35"
+        },
+        {
+            "domain_name": "mclachlanhomes.com",
+            "destination": "SiteGround",
+            "date": "2025-10-07 21:46:16"
+        },
         {
             "domain_name": "coldwellbankervi.com",
             "destination": "Digital Ocean",
@@ -10,6 +25,11 @@
             "domain_name": "stockairheliworks.com.au",
             "destination": "SiteGround",
             "date": "2025-10-07 21:20:19"
+        },
+        {
+            "domain_name": "daydreamcolors.com",
+            "destination": "SiteGround",
+            "date": "2025-10-07 21:13:35"
         },
         {
             "domain_name": "bltowing.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.wplegal.com",
             "destination": "Kinsta",
             "date": "2025-10-05 17:17:35"
-        },
-        {
-            "domain_name": "www.wpcrank.com",
-            "destination": "Kinsta",
-            "date": "2025-10-05 17:16:49"
-        },
-        {
-            "domain_name": "bladelight.org",
-            "destination": "SiteGround",
-            "date": "2025-10-05 16:35:41"
-        },
-        {
-            "domain_name": "trinitetech.com",
-            "destination": "Hostinger",
-            "date": "2025-10-05 13:48:32"
-        },
-        {
-            "domain_name": "chapsoft.com",
-            "destination": "SiteGround",
-            "date": "2025-10-05 12:58:12"
         }
     ],
     "dailyMovedStat": {
@@ -887,11 +887,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11120,
-        "Kinsta": 6184,
-        "SiteGround": 5223,
+        "Kinsta": 6185,
+        "SiteGround": 5225,
         "Digital Ocean": 5017,
         "Bluehost": 4203,
-        "Hostinger": 3525,
+        "Hostinger": 3526,
         "GoDaddy": 1365,
         "Liquid Web": 689,
         "BigScoots": 637,
