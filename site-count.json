@@ -1,6 +1,31 @@
 {
-    "siteCount": 96977,
+    "siteCount": 96984,
     "recentlyMoved": [
+        {
+            "domain_name": "rentafork.com.au",
+            "destination": "Hostinger",
+            "date": "2025-10-07 04:42:47"
+        },
+        {
+            "domain_name": "amgplasticsurgery.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-07 04:12:07"
+        },
+        {
+            "domain_name": "radiatewp.com",
+            "destination": "Hostinger",
+            "date": "2025-10-07 04:06:55"
+        },
+        {
+            "domain_name": "radiateforgood.com",
+            "destination": "Hostinger",
+            "date": "2025-10-07 04:06:55"
+        },
+        {
+            "domain_name": "5atecafe.com",
+            "destination": "SiteGround",
+            "date": "2025-10-07 03:45:14"
+        },
         {
             "domain_name": "ebooks.tprsbooks.com",
             "destination": "InMotion Hosting",
@@ -475,31 +500,6 @@
             "domain_name": "nilimella.fi",
             "destination": "Kinsta",
             "date": "2025-10-04 10:24:09"
-        },
-        {
-            "domain_name": "thetampabay100.com",
-            "destination": "SiteGround",
-            "date": "2025-10-04 09:14:14"
-        },
-        {
-            "domain_name": "xn--u9ju02jv3inhb564c.jp",
-            "destination": "Kinsta",
-            "date": "2025-10-04 09:10:48"
-        },
-        {
-            "domain_name": "www.danddindustrial.com",
-            "destination": "Kinsta",
-            "date": "2025-10-04 08:22:14"
-        },
-        {
-            "domain_name": "getbozak.com",
-            "destination": "Kinsta",
-            "date": "2025-10-04 07:35:04"
-        },
-        {
-            "domain_name": "www.skyboundsupply.com",
-            "destination": "Kinsta",
-            "date": "2025-10-04 05:35:28"
         }
     ],
     "dailyMovedStat": {
@@ -888,12 +888,12 @@
     "topDestinationHosts": {
         "Pressable": 11111,
         "Kinsta": 6167,
-        "SiteGround": 5216,
+        "SiteGround": 5217,
         "Digital Ocean": 5009,
         "Bluehost": 4203,
-        "Hostinger": 3519,
+        "Hostinger": 3521,
         "GoDaddy": 1363,
-        "Liquid Web": 687,
+        "Liquid Web": 688,
         "BigScoots": 637,
         "WordPress.com": 478,
         "InMotion Hosting": 423,
