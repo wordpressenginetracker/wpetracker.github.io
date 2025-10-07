@@ -1,6 +1,11 @@
 {
-    "siteCount": 96971,
+    "siteCount": 96977,
     "recentlyMoved": [
+        {
+            "domain_name": "ebooks.tprsbooks.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-10-07 01:26:59"
+        },
         {
             "domain_name": "www.sdf.ae",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.skyboundsupply.com",
             "destination": "Kinsta",
             "date": "2025-10-04 05:35:28"
-        },
-        {
-            "domain_name": "www.ebikesworld.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-04 04:21:37"
         }
     ],
     "dailyMovedStat": {
@@ -896,7 +896,7 @@
         "Liquid Web": 687,
         "BigScoots": 637,
         "WordPress.com": 478,
-        "InMotion Hosting": 422,
+        "InMotion Hosting": 423,
         "GridPane": 399,
         "OVH": 399,
         "A2 Hosting": 387,
