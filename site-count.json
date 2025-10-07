@@ -1,6 +1,11 @@
 {
-    "siteCount": 96999,
+    "siteCount": 97004,
     "recentlyMoved": [
+        {
+            "domain_name": "centralcu.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-10-07 09:21:44"
+        },
         {
             "domain_name": "www.jackettsotterton.co.uk",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "aturneroundlife.com",
             "destination": "Hostinger",
             "date": "2025-10-04 11:58:25"
-        },
-        {
-            "domain_name": "arsenalsalestraining.com",
-            "destination": "Liquid Web",
-            "date": "2025-10-04 11:46:42"
         }
     ],
     "dailyMovedStat": {
@@ -889,7 +889,7 @@
         "Pressable": 11111,
         "Kinsta": 6170,
         "SiteGround": 5217,
-        "Digital Ocean": 5010,
+        "Digital Ocean": 5011,
         "Bluehost": 4203,
         "Hostinger": 3522,
         "GoDaddy": 1363,
