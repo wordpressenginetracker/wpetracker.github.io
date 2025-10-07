@@ -1,6 +1,21 @@
 {
-    "siteCount": 97015,
+    "siteCount": 97026,
     "recentlyMoved": [
+        {
+            "domain_name": "www.artisaneng.com",
+            "destination": "Pressable",
+            "date": "2025-10-07 12:20:28"
+        },
+        {
+            "domain_name": "glickit.com",
+            "destination": "Kinsta",
+            "date": "2025-10-07 12:04:23"
+        },
+        {
+            "domain_name": "foxrunretreat.com",
+            "destination": "Kinsta",
+            "date": "2025-10-07 11:27:17"
+        },
         {
             "domain_name": "tobysseafoods.co.nz",
             "destination": "Pressable",
@@ -477,16 +492,6 @@
             "date": "2025-10-04 13:29:57"
         },
         {
-            "domain_name": "kalipyansan.com",
-            "destination": "Hetzner Online",
-            "date": "2025-10-04 13:08:07"
-        },
-        {
-            "domain_name": "rxuconsulting.com",
-            "destination": "DreamHost",
-            "date": "2025-10-04 12:59:11"
-        },
-        {
             "domain_name": "sstsauvetage.com",
             "destination": "OVH",
             "date": "2025-10-04 12:53:50"
@@ -495,11 +500,6 @@
             "domain_name": "chelseatbaldeagle.com",
             "destination": "Namecheap",
             "date": "2025-10-04 12:40:32"
-        },
-        {
-            "domain_name": "japonsecret.fr",
-            "destination": "Kinsta",
-            "date": "2025-10-04 12:36:19"
         }
     ],
     "dailyMovedStat": {
@@ -886,8 +886,8 @@
         "2025-10-06": "96961"
     },
     "topDestinationHosts": {
-        "Pressable": 11112,
-        "Kinsta": 6171,
+        "Pressable": 11113,
+        "Kinsta": 6173,
         "SiteGround": 5217,
         "Digital Ocean": 5011,
         "Bluehost": 4203,
