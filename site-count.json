@@ -1,6 +1,26 @@
 {
-    "siteCount": 96966,
+    "siteCount": 96971,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sdf.ae",
+            "destination": "Pressable",
+            "date": "2025-10-07 01:19:00"
+        },
+        {
+            "domain_name": "carolstambaugh.com",
+            "destination": "Hostinger",
+            "date": "2025-10-07 00:42:30"
+        },
+        {
+            "domain_name": "kaeden.me",
+            "destination": "Hostinger",
+            "date": "2025-10-07 00:41:24"
+        },
+        {
+            "domain_name": "jobsqld.org.au",
+            "destination": "SiteGround",
+            "date": "2025-10-07 00:38:54"
+        },
         {
             "domain_name": "greenacressporting.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "www.ebikesworld.com.au",
             "destination": "Kinsta",
             "date": "2025-10-04 04:21:37"
-        },
-        {
-            "domain_name": "www.beachsidelighting.com",
-            "destination": "Kinsta",
-            "date": "2025-10-04 04:00:18"
-        },
-        {
-            "domain_name": "tiki.beachsidelighting.com",
-            "destination": "Kinsta",
-            "date": "2025-10-04 01:54:20"
-        },
-        {
-            "domain_name": "mandolina.co",
-            "destination": "Hostinger",
-            "date": "2025-10-04 01:35:18"
-        },
-        {
-            "domain_name": "homeownerlegalsolutions.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-04 00:15:31"
         }
     ],
     "dailyMovedStat": {
@@ -886,12 +886,12 @@
         "2025-10-06": "96961"
     },
     "topDestinationHosts": {
-        "Pressable": 11110,
+        "Pressable": 11111,
         "Kinsta": 6167,
-        "SiteGround": 5215,
+        "SiteGround": 5216,
         "Digital Ocean": 5009,
         "Bluehost": 4203,
-        "Hostinger": 3517,
+        "Hostinger": 3519,
         "GoDaddy": 1363,
         "Liquid Web": 687,
         "BigScoots": 637,
