@@ -1,6 +1,26 @@
 {
-    "siteCount": 97225,
+    "siteCount": 97241,
     "recentlyMoved": [
+        {
+            "domain_name": "www.thejadfahouse.org",
+            "destination": "Kinsta",
+            "date": "2025-10-08 13:39:29"
+        },
+        {
+            "domain_name": "chur.polizeilogistik.ch",
+            "destination": "Kinsta",
+            "date": "2025-10-08 13:12:37"
+        },
+        {
+            "domain_name": "www.nationwidedrones.co.uk",
+            "destination": "Pressable",
+            "date": "2025-10-08 12:46:20"
+        },
+        {
+            "domain_name": "cjsrecruitment.com",
+            "destination": "SiteGround",
+            "date": "2025-10-08 12:34:24"
+        },
         {
             "domain_name": "awesomelyluvvie.com",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "www.wowhomes.com.au",
             "destination": "Digital Ocean",
             "date": "2025-10-06 21:32:09"
-        },
-        {
-            "domain_name": "colefrailey.com",
-            "destination": "Hostinger",
-            "date": "2025-10-06 21:08:38"
-        },
-        {
-            "domain_name": "almostprivate.com",
-            "destination": "SiteGround",
-            "date": "2025-10-06 20:05:41"
-        },
-        {
-            "domain_name": "glasgowlaw.net",
-            "destination": "SiteGround",
-            "date": "2025-10-06 20:01:03"
-        },
-        {
-            "domain_name": "arearealestate.net",
-            "destination": "SiteGround",
-            "date": "2025-10-06 19:59:56"
         }
     ],
     "dailyMovedStat": {
@@ -887,9 +887,9 @@
         "2025-10-07": "97158"
     },
     "topDestinationHosts": {
-        "Pressable": 11122,
-        "Kinsta": 6199,
-        "SiteGround": 5230,
+        "Pressable": 11123,
+        "Kinsta": 6200,
+        "SiteGround": 5231,
         "Digital Ocean": 5018,
         "Bluehost": 4204,
         "Hostinger": 3531,
