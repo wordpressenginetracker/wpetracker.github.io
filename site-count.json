@@ -1,6 +1,11 @@
 {
-    "siteCount": 97197,
+    "siteCount": 97203,
     "recentlyMoved": [
+        {
+            "domain_name": "care4us.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-10-08 08:38:38"
+        },
         {
             "domain_name": "hammerfesthavn.no",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-10-06 09:14:17"
         },
         {
-            "domain_name": "danekanation.com",
-            "destination": "Kinsta",
-            "date": "2025-10-06 05:53:55"
-        },
-        {
             "domain_name": "diglisconsulting.com",
             "destination": "Krystal Hosting",
             "date": "2025-10-06 05:34:03"
@@ -889,7 +889,7 @@
     "topDestinationHosts": {
         "Pressable": 11120,
         "Kinsta": 6198,
-        "SiteGround": 5227,
+        "SiteGround": 5228,
         "Digital Ocean": 5018,
         "Bluehost": 4204,
         "Hostinger": 3528,
