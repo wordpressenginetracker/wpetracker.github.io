@@ -1,6 +1,21 @@
 {
-    "siteCount": 97190,
+    "siteCount": 97197,
     "recentlyMoved": [
+        {
+            "domain_name": "hammerfesthavn.no",
+            "destination": "Hostinger",
+            "date": "2025-10-08 08:31:58"
+        },
+        {
+            "domain_name": "pentlandgroup.com",
+            "destination": "Hostinger",
+            "date": "2025-10-08 08:06:56"
+        },
+        {
+            "domain_name": "omahainsurancesolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-10-08 07:41:03"
+        },
         {
             "domain_name": "survivorsforum.womensaid.org.uk",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "diglisconsulting.com",
             "destination": "Krystal Hosting",
             "date": "2025-10-06 05:34:03"
-        },
-        {
-            "domain_name": "www.youthaviationadventure.org",
-            "destination": "Kinsta",
-            "date": "2025-10-06 01:48:47"
-        },
-        {
-            "domain_name": "www.thehouseest.com",
-            "destination": "Kinsta",
-            "date": "2025-10-06 01:23:23"
-        },
-        {
-            "domain_name": "lonoswellness.com",
-            "destination": "Kinsta",
-            "date": "2025-10-06 00:57:00"
         }
     ],
     "dailyMovedStat": {
@@ -888,11 +888,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11120,
-        "Kinsta": 6197,
+        "Kinsta": 6198,
         "SiteGround": 5227,
         "Digital Ocean": 5018,
         "Bluehost": 4204,
-        "Hostinger": 3526,
+        "Hostinger": 3528,
         "GoDaddy": 1365,
         "Liquid Web": 689,
         "BigScoots": 637,
