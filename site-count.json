@@ -1,6 +1,11 @@
 {
-    "siteCount": 97175,
+    "siteCount": 97178,
     "recentlyMoved": [
+        {
+            "domain_name": "luvvie.org",
+            "destination": "SiteGround",
+            "date": "2025-10-08 01:09:41"
+        },
         {
             "domain_name": "swingloosegolf.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.gladsmuir.com",
             "destination": "Kinsta",
             "date": "2025-10-06 00:19:15"
-        },
-        {
-            "domain_name": "www.georgesaviation.com",
-            "destination": "Kinsta",
-            "date": "2025-10-06 00:13:32"
         }
     ],
     "dailyMovedStat": {
@@ -888,8 +888,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11120,
-        "Kinsta": 6194,
-        "SiteGround": 5225,
+        "Kinsta": 6195,
+        "SiteGround": 5226,
         "Digital Ocean": 5017,
         "Bluehost": 4204,
         "Hostinger": 3526,
