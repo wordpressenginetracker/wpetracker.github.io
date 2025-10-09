@@ -1,6 +1,11 @@
 {
-    "siteCount": 97446,
+    "siteCount": 97459,
     "recentlyMoved": [
+        {
+            "domain_name": "www.arkadeinteriors.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-09 11:52:40"
+        },
         {
             "domain_name": "moworksinitiative.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.schwartzmuseum.org",
             "destination": "Kinsta",
             "date": "2025-10-08 00:55:17"
-        },
-        {
-            "domain_name": "captechlaw.com",
-            "destination": "Bluehost",
-            "date": "2025-10-08 00:41:06"
         }
     ],
     "dailyMovedStat": {
@@ -889,8 +889,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11133,
-        "Kinsta": 6216,
-        "SiteGround": 5245,
+        "Kinsta": 6217,
+        "SiteGround": 5246,
         "Digital Ocean": 5034,
         "Bluehost": 4204,
         "Hostinger": 3541,
