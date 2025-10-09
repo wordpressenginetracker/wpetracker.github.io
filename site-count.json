@@ -1,10 +1,30 @@
 {
-    "siteCount": 97472,
+    "siteCount": 97483,
     "recentlyMoved": [
+        {
+            "domain_name": "nordikinstitute.com",
+            "destination": "Hostinger",
+            "date": "2025-10-09 14:01:29"
+        },
+        {
+            "domain_name": "www.wscal.edu",
+            "destination": "Kinsta",
+            "date": "2025-10-09 13:55:35"
+        },
+        {
+            "domain_name": "nathaliepaquettherapeute.ca",
+            "destination": "OVH",
+            "date": "2025-10-09 13:40:26"
+        },
         {
             "domain_name": "lighthouseacademyrockwall.com",
             "destination": "Digital Ocean",
             "date": "2025-10-09 13:34:32"
+        },
+        {
+            "domain_name": "dpmdllc.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-09 13:30:55"
         },
         {
             "domain_name": "bizmind.academy",
@@ -480,26 +500,6 @@
             "domain_name": "granburyluxury.com",
             "destination": "Digital Ocean",
             "date": "2025-10-08 04:17:48"
-        },
-        {
-            "domain_name": "www.acarlosrefrigeration.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-08 03:49:25"
-        },
-        {
-            "domain_name": "luvvie.org",
-            "destination": "SiteGround",
-            "date": "2025-10-08 01:09:41"
-        },
-        {
-            "domain_name": "swingloosegolf.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 01:09:03"
-        },
-        {
-            "domain_name": "www.scotthoffmandds.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 00:55:17"
         }
     ],
     "dailyMovedStat": {
@@ -889,17 +889,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 11133,
-        "Kinsta": 6218,
+        "Kinsta": 6219,
         "SiteGround": 5246,
         "Digital Ocean": 5035,
         "Bluehost": 4205,
-        "Hostinger": 3541,
+        "Hostinger": 3542,
         "GoDaddy": 1366,
-        "Liquid Web": 689,
+        "Liquid Web": 690,
         "BigScoots": 637,
         "WordPress.com": 482,
         "InMotion Hosting": 426,
-        "OVH": 401,
+        "OVH": 402,
         "GridPane": 399,
         "A2 Hosting": 391,
         "Namecheap": 365,
