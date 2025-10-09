@@ -1,6 +1,21 @@
 {
-    "siteCount": 97459,
+    "siteCount": 97472,
     "recentlyMoved": [
+        {
+            "domain_name": "lighthouseacademyrockwall.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-09 13:34:32"
+        },
+        {
+            "domain_name": "bizmind.academy",
+            "destination": "Bluehost",
+            "date": "2025-10-09 12:29:21"
+        },
+        {
+            "domain_name": "www.greatlakeshealthandwellness.com",
+            "destination": "Kinsta",
+            "date": "2025-10-09 12:00:22"
+        },
         {
             "domain_name": "www.arkadeinteriors.com.au",
             "destination": "Kinsta",
@@ -482,22 +497,7 @@
             "date": "2025-10-08 01:09:03"
         },
         {
-            "domain_name": "www.pokeandbox.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 00:57:40"
-        },
-        {
-            "domain_name": "smoothpowerllc.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 00:57:37"
-        },
-        {
             "domain_name": "www.scotthoffmandds.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 00:55:17"
-        },
-        {
-            "domain_name": "www.schwartzmuseum.org",
             "destination": "Kinsta",
             "date": "2025-10-08 00:55:17"
         }
@@ -889,10 +889,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11133,
-        "Kinsta": 6217,
+        "Kinsta": 6218,
         "SiteGround": 5246,
-        "Digital Ocean": 5034,
-        "Bluehost": 4204,
+        "Digital Ocean": 5035,
+        "Bluehost": 4205,
         "Hostinger": 3541,
         "GoDaddy": 1366,
         "Liquid Web": 689,
