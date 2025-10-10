@@ -1,6 +1,16 @@
 {
-    "siteCount": 97736,
+    "siteCount": 97795,
     "recentlyMoved": [
+        {
+            "domain_name": "www.docsbackoffice.com",
+            "destination": "Kinsta",
+            "date": "2025-10-10 19:45:20"
+        },
+        {
+            "domain_name": "aidenteach.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-10 19:30:08"
+        },
         {
             "domain_name": "midwesteclipsegutterhelmet.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "marlamoorepllc.com",
             "destination": "SiteGround",
             "date": "2025-10-09 09:35:07"
-        },
-        {
-            "domain_name": "liuna42stl.com",
-            "destination": "Pressable",
-            "date": "2025-10-09 09:24:02"
-        },
-        {
-            "domain_name": "curaorthocentre.co.in",
-            "destination": "Hostinger",
-            "date": "2025-10-09 08:55:37"
         }
     ],
     "dailyMovedStat": {
@@ -890,12 +890,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11142,
-        "Kinsta": 6248,
+        "Kinsta": 6249,
         "SiteGround": 5271,
-        "Digital Ocean": 5045,
+        "Digital Ocean": 5046,
         "Bluehost": 4206,
-        "Hostinger": 3548,
-        "GoDaddy": 1370,
+        "Hostinger": 3549,
+        "GoDaddy": 1371,
         "Liquid Web": 690,
         "BigScoots": 637,
         "WordPress.com": 482,
