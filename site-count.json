@@ -1,6 +1,21 @@
 {
-    "siteCount": 97618,
+    "siteCount": 97628,
     "recentlyMoved": [
+        {
+            "domain_name": "adou.edu.do",
+            "destination": "GoDaddy",
+            "date": "2025-10-10 08:10:39"
+        },
+        {
+            "domain_name": "ateamsupplies.com",
+            "destination": "Hetzner Online",
+            "date": "2025-10-10 08:07:24"
+        },
+        {
+            "domain_name": "www.activefencingandgates.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-10 07:41:33"
+        },
         {
             "domain_name": "rodgerfirmin.com",
             "destination": "SiteGround",
@@ -482,21 +497,6 @@
             "date": "2025-10-08 16:39:27"
         },
         {
-            "domain_name": "awesomelytechie.com",
-            "destination": "SiteGround",
-            "date": "2025-10-08 16:35:33"
-        },
-        {
-            "domain_name": "austab.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-08 16:31:28"
-        },
-        {
-            "domain_name": "heartgallerysctx.org",
-            "destination": "Pressable",
-            "date": "2025-10-08 16:14:27"
-        },
-        {
             "domain_name": "boonestrace.org",
             "destination": "WordPress.com",
             "date": "2025-10-08 16:06:14"
@@ -890,12 +890,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11137,
-        "Kinsta": 6227,
+        "Kinsta": 6228,
         "SiteGround": 5259,
         "Digital Ocean": 5037,
         "Bluehost": 4206,
         "Hostinger": 3545,
-        "GoDaddy": 1368,
+        "GoDaddy": 1369,
         "Liquid Web": 690,
         "BigScoots": 637,
         "WordPress.com": 482,
@@ -907,7 +907,7 @@
         "IONOS": 363,
         "DreamHost": 355,
         "Elementor Hosting": 332,
-        "Hetzner Online": 283,
+        "Hetzner Online": 284,
         "HostGator": 225
     },
     "dailyTotalStat": {
