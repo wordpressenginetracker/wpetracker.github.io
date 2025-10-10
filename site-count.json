@@ -1,6 +1,26 @@
 {
-    "siteCount": 97628,
+    "siteCount": 97641,
     "recentlyMoved": [
+        {
+            "domain_name": "keltafit.com",
+            "destination": "SiteGround",
+            "date": "2025-10-10 09:04:50"
+        },
+        {
+            "domain_name": "burnsnights.com",
+            "destination": "SiteGround",
+            "date": "2025-10-10 08:42:47"
+        },
+        {
+            "domain_name": "buckeyemetalroofing.com",
+            "destination": "Kinsta",
+            "date": "2025-10-10 08:35:46"
+        },
+        {
+            "domain_name": "rorydobner.com",
+            "destination": "SiteGround",
+            "date": "2025-10-10 08:31:52"
+        },
         {
             "domain_name": "adou.edu.do",
             "destination": "GoDaddy",
@@ -472,11 +492,6 @@
             "date": "2025-10-08 17:06:47"
         },
         {
-            "domain_name": "jeremywhaley.com",
-            "destination": "Hostinger",
-            "date": "2025-10-08 16:56:56"
-        },
-        {
             "domain_name": "callcomfortheroes.com",
             "destination": "Digital Ocean",
             "date": "2025-10-08 16:54:11"
@@ -485,21 +500,6 @@
             "domain_name": "www.lippmanent.com",
             "destination": "SiteGround",
             "date": "2025-10-08 16:48:43"
-        },
-        {
-            "domain_name": "www.lionguardcapital.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-08 16:48:43"
-        },
-        {
-            "domain_name": "hi-performanceconstruction.com",
-            "destination": "Kinsta",
-            "date": "2025-10-08 16:39:27"
-        },
-        {
-            "domain_name": "boonestrace.org",
-            "destination": "WordPress.com",
-            "date": "2025-10-08 16:06:14"
         }
     ],
     "dailyMovedStat": {
@@ -890,8 +890,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11137,
-        "Kinsta": 6228,
-        "SiteGround": 5259,
+        "Kinsta": 6229,
+        "SiteGround": 5262,
         "Digital Ocean": 5037,
         "Bluehost": 4206,
         "Hostinger": 3545,
