@@ -1,6 +1,11 @@
 {
-    "siteCount": 97594,
+    "siteCount": 97598,
     "recentlyMoved": [
+        {
+            "domain_name": "designtechnik.com",
+            "destination": "SiteGround",
+            "date": "2025-10-10 01:39:00"
+        },
         {
             "domain_name": "kht.org.au",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-10-08 13:34:17"
         },
         {
-            "domain_name": "demanddemolisher.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-08 13:25:10"
-        },
-        {
             "domain_name": "thespinalscience.com",
             "destination": "Digital Ocean",
             "date": "2025-10-08 13:09:01"
@@ -891,7 +891,7 @@
     "topDestinationHosts": {
         "Pressable": 11137,
         "Kinsta": 6223,
-        "SiteGround": 5255,
+        "SiteGround": 5256,
         "Digital Ocean": 5037,
         "Bluehost": 4206,
         "Hostinger": 3545,
