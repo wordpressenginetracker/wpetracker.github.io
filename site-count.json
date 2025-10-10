@@ -1,6 +1,11 @@
 {
-    "siteCount": 97609,
+    "siteCount": 97615,
     "recentlyMoved": [
+        {
+            "domain_name": "rodgerfirmin.com",
+            "destination": "SiteGround",
+            "date": "2025-10-10 04:44:47"
+        },
         {
             "domain_name": "www.anytimeoffices.pl",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "boonestrace.org",
             "destination": "WordPress.com",
             "date": "2025-10-08 16:06:14"
-        },
-        {
-            "domain_name": "perryelectric.net",
-            "destination": "Pressable",
-            "date": "2025-10-08 15:36:52"
         }
     ],
     "dailyMovedStat": {
@@ -891,7 +891,7 @@
     "topDestinationHosts": {
         "Pressable": 11137,
         "Kinsta": 6227,
-        "SiteGround": 5258,
+        "SiteGround": 5259,
         "Digital Ocean": 5037,
         "Bluehost": 4206,
         "Hostinger": 3545,
