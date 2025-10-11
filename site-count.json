@@ -1,6 +1,61 @@
 {
-    "siteCount": 97960,
+    "siteCount": 97981,
     "recentlyMoved": [
+        {
+            "domain_name": "msmillion.ca",
+            "destination": "SiteGround",
+            "date": "2025-10-11 18:09:20"
+        },
+        {
+            "domain_name": "www.whiskeynwalleye.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-11 17:58:41"
+        },
+        {
+            "domain_name": "uniquegraniteworx.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:48:45"
+        },
+        {
+            "domain_name": "thinkinkllc.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:41:18"
+        },
+        {
+            "domain_name": "mitsfrontrange.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:35:08"
+        },
+        {
+            "domain_name": "mitsdesmoines.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:35:08"
+        },
+        {
+            "domain_name": "mitscentraloregon.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:35:08"
+        },
+        {
+            "domain_name": "mitsbellevue.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:35:08"
+        },
+        {
+            "domain_name": "mitsbaywalton.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:35:08"
+        },
+        {
+            "domain_name": "madeintheshadeeasttexas.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:31:03"
+        },
+        {
+            "domain_name": "madeintheshadeeastorlando.com",
+            "destination": "Kinsta",
+            "date": "2025-10-11 17:31:03"
+        },
         {
             "domain_name": "centricacare.org",
             "destination": "OVH",
@@ -427,11 +482,6 @@
             "date": "2025-10-10 15:52:49"
         },
         {
-            "domain_name": "www.bcida.org",
-            "destination": "HostGator",
-            "date": "2025-10-10 15:51:38"
-        },
-        {
             "domain_name": "psegenerators.com",
             "destination": "Kinsta",
             "date": "2025-10-10 15:45:47"
@@ -450,56 +500,6 @@
             "domain_name": "www.abroproperty.com",
             "destination": "SiteGround",
             "date": "2025-10-10 15:20:04"
-        },
-        {
-            "domain_name": "nexustriage.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-10 14:05:29"
-        },
-        {
-            "domain_name": "thewhiskyoffer.com",
-            "destination": "SiteGround",
-            "date": "2025-10-10 13:54:34"
-        },
-        {
-            "domain_name": "maplegrovebuilders.net",
-            "destination": "Kinsta",
-            "date": "2025-10-10 13:53:35"
-        },
-        {
-            "domain_name": "torrch.com",
-            "destination": "Hostinger",
-            "date": "2025-10-10 13:37:00"
-        },
-        {
-            "domain_name": "lepiershorelineandoutdoors.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-10 13:23:31"
-        },
-        {
-            "domain_name": "completecollege.org",
-            "destination": "Kinsta",
-            "date": "2025-10-10 13:22:52"
-        },
-        {
-            "domain_name": "theginoffer.com",
-            "destination": "SiteGround",
-            "date": "2025-10-10 13:13:31"
-        },
-        {
-            "domain_name": "lovingarms.life",
-            "destination": "Kinsta",
-            "date": "2025-10-10 13:13:19"
-        },
-        {
-            "domain_name": "cwsbestgift.org",
-            "destination": "Kinsta",
-            "date": "2025-10-10 13:01:37"
-        },
-        {
-            "domain_name": "cypresslawn.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-10 12:53:50"
         }
     ],
     "dailyMovedStat": {
@@ -891,9 +891,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11150,
-        "Kinsta": 6271,
-        "SiteGround": 5277,
-        "Digital Ocean": 5053,
+        "Kinsta": 6280,
+        "SiteGround": 5279,
+        "Digital Ocean": 5054,
         "Bluehost": 4206,
         "Hostinger": 3558,
         "GoDaddy": 1373,
