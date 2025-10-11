@@ -1,6 +1,11 @@
 {
-    "siteCount": 97815,
+    "siteCount": 97824,
     "recentlyMoved": [
+        {
+            "domain_name": "anderson.edu",
+            "destination": "SiteGround",
+            "date": "2025-10-11 00:11:05"
+        },
         {
             "domain_name": "yournucleus.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.aserureplasticsurgery.com",
             "destination": "Kinsta",
             "date": "2025-10-09 15:41:51"
-        },
-        {
-            "domain_name": "alaskaupclose.com",
-            "destination": "Pressable",
-            "date": "2025-10-09 15:36:14"
         }
     ],
     "dailyMovedStat": {
@@ -892,7 +892,7 @@
     "topDestinationHosts": {
         "Pressable": 11144,
         "Kinsta": 6250,
-        "SiteGround": 5273,
+        "SiteGround": 5274,
         "Digital Ocean": 5049,
         "Bluehost": 4206,
         "Hostinger": 3551,
