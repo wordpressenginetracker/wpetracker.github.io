@@ -1,6 +1,11 @@
 {
-    "siteCount": 98068,
+    "siteCount": 98074,
     "recentlyMoved": [
+        {
+            "domain_name": "soulfultraveling.com",
+            "destination": "SiteGround",
+            "date": "2025-10-12 16:27:26"
+        },
         {
             "domain_name": "ratehunter.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "aidenteach.com",
             "destination": "GoDaddy",
             "date": "2025-10-10 19:30:08"
-        },
-        {
-            "domain_name": "fenceedmonton.ca",
-            "destination": "OVH",
-            "date": "2025-10-10 17:50:00"
         }
     ],
     "dailyMovedStat": {
@@ -893,7 +893,7 @@
     "topDestinationHosts": {
         "Pressable": 11151,
         "Kinsta": 6292,
-        "SiteGround": 5281,
+        "SiteGround": 5282,
         "Digital Ocean": 5055,
         "Bluehost": 4206,
         "Hostinger": 3564,
