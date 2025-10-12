@@ -1,6 +1,11 @@
 {
-    "siteCount": 98035,
+    "siteCount": 98042,
     "recentlyMoved": [
+        {
+            "domain_name": "media-meter.com",
+            "destination": "Kinsta",
+            "date": "2025-10-12 03:05:17"
+        },
         {
             "domain_name": "colombiaeroticvacations.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "southwestcare.org",
             "destination": "SiteGround",
             "date": "2025-10-10 16:49:41"
-        },
-        {
-            "domain_name": "www.owlcreekconstructionpa.com",
-            "destination": "Kinsta",
-            "date": "2025-10-10 16:42:25"
         }
     ],
     "dailyMovedStat": {
@@ -892,7 +892,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11151,
-        "Kinsta": 6288,
+        "Kinsta": 6289,
         "SiteGround": 5281,
         "Digital Ocean": 5054,
         "Bluehost": 4206,
