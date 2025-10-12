@@ -1,5 +1,5 @@
 {
-    "siteCount": 98046,
+    "siteCount": 98050,
     "recentlyMoved": [
         {
             "domain_name": "aikensgroup.com",
@@ -15,6 +15,11 @@
             "domain_name": "barry-walsh.co.uk",
             "destination": "Krystal Hosting",
             "date": "2025-10-12 08:00:35"
+        },
+        {
+            "domain_name": "riverviewoutdoor.com",
+            "destination": "Kinsta",
+            "date": "2025-10-12 07:54:37"
         },
         {
             "domain_name": "media-meter.com",
@@ -492,11 +497,6 @@
             "date": "2025-10-10 17:50:00"
         },
         {
-            "domain_name": "www.warrenroofingca.com",
-            "destination": "A2 Hosting",
-            "date": "2025-10-10 17:28:30"
-        },
-        {
             "domain_name": "drjenblanchette.com",
             "destination": "SiteGround",
             "date": "2025-10-10 17:18:12"
@@ -892,7 +892,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11151,
-        "Kinsta": 6289,
+        "Kinsta": 6290,
         "SiteGround": 5281,
         "Digital Ocean": 5054,
         "Bluehost": 4206,
