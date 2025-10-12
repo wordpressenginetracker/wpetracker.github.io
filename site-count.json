@@ -1,6 +1,11 @@
 {
-    "siteCount": 98074,
+    "siteCount": 98077,
     "recentlyMoved": [
+        {
+            "domain_name": "thecovenantbusinessgroup.com",
+            "destination": "Kinsta",
+            "date": "2025-10-12 17:05:30"
+        },
         {
             "domain_name": "soulfultraveling.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.docsbackoffice.com",
             "destination": "Kinsta",
             "date": "2025-10-10 19:45:20"
-        },
-        {
-            "domain_name": "aidenteach.com",
-            "destination": "GoDaddy",
-            "date": "2025-10-10 19:30:08"
         }
     ],
     "dailyMovedStat": {
@@ -892,7 +892,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11151,
-        "Kinsta": 6292,
+        "Kinsta": 6293,
         "SiteGround": 5282,
         "Digital Ocean": 5055,
         "Bluehost": 4206,
