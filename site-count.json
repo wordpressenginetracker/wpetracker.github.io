@@ -1,6 +1,11 @@
 {
-    "siteCount": 98050,
+    "siteCount": 98056,
     "recentlyMoved": [
+        {
+            "domain_name": "reckagri.com",
+            "destination": "Hostinger",
+            "date": "2025-10-12 12:03:39"
+        },
         {
             "domain_name": "aikensgroup.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "fenceedmonton.ca",
             "destination": "OVH",
             "date": "2025-10-10 17:50:00"
-        },
-        {
-            "domain_name": "drjenblanchette.com",
-            "destination": "SiteGround",
-            "date": "2025-10-10 17:18:12"
         }
     ],
     "dailyMovedStat": {
@@ -896,7 +896,7 @@
         "SiteGround": 5281,
         "Digital Ocean": 5054,
         "Bluehost": 4206,
-        "Hostinger": 3563,
+        "Hostinger": 3564,
         "GoDaddy": 1375,
         "Liquid Web": 690,
         "BigScoots": 637,
