@@ -1,6 +1,16 @@
 {
-    "siteCount": 98124,
+    "siteCount": 98128,
     "recentlyMoved": [
+        {
+            "domain_name": "www.brambledown.com",
+            "destination": "Pressable",
+            "date": "2025-10-13 08:03:11"
+        },
+        {
+            "domain_name": "workingitsolutions.co.uk",
+            "destination": "Pressable",
+            "date": "2025-10-13 07:28:46"
+        },
         {
             "domain_name": "www.aspiring.co.nz",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "intrepy.com",
             "destination": "Hostinger",
             "date": "2025-10-11 00:37:49"
-        },
-        {
-            "domain_name": "anderson.edu",
-            "destination": "SiteGround",
-            "date": "2025-10-11 00:11:05"
-        },
-        {
-            "domain_name": "myfreemason.com",
-            "destination": "SiteGround",
-            "date": "2025-10-10 21:54:32"
         }
     ],
     "dailyMovedStat": {
@@ -892,7 +892,7 @@
         "2025-10-12": "98097"
     },
     "topDestinationHosts": {
-        "Pressable": 11152,
+        "Pressable": 11154,
         "Kinsta": 6293,
         "SiteGround": 5282,
         "Digital Ocean": 5059,
