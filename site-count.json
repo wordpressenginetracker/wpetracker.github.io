@@ -1,6 +1,11 @@
 {
-    "siteCount": 98133,
+    "siteCount": 98135,
     "recentlyMoved": [
+        {
+            "domain_name": "platform.wplegal.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-13 11:40:14"
+        },
         {
             "domain_name": "unboxpoplar.co.uk",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "brewingscience.com",
             "destination": "Digital Ocean",
             "date": "2025-10-11 00:45:36"
-        },
-        {
-            "domain_name": "intrepy.com",
-            "destination": "Hostinger",
-            "date": "2025-10-11 00:37:49"
         }
     ],
     "dailyMovedStat": {
@@ -895,7 +895,7 @@
         "Pressable": 11155,
         "Kinsta": 6293,
         "SiteGround": 5282,
-        "Digital Ocean": 5059,
+        "Digital Ocean": 5060,
         "Bluehost": 4206,
         "Hostinger": 3568,
         "GoDaddy": 1376,
