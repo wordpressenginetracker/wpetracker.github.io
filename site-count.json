@@ -1,10 +1,25 @@
 {
-    "siteCount": 98143,
+    "siteCount": 98147,
     "recentlyMoved": [
+        {
+            "domain_name": "morfokus.com",
+            "destination": "Kinsta",
+            "date": "2025-10-13 17:28:00"
+        },
         {
             "domain_name": "www.taxcreditsforworkersandfamilies.org",
             "destination": "Bluehost",
             "date": "2025-10-13 17:22:54"
+        },
+        {
+            "domain_name": "dentoncountylawyersfoundation.com",
+            "destination": "Pressable",
+            "date": "2025-10-13 17:12:10"
+        },
+        {
+            "domain_name": "medicalmojo.co.uk",
+            "destination": "Pressable",
+            "date": "2025-10-13 17:07:14"
         },
         {
             "domain_name": "platform.wplegal.com",
@@ -472,11 +487,6 @@
             "date": "2025-10-11 03:48:58"
         },
         {
-            "domain_name": "waterforlifecharity.org",
-            "destination": "Pressable",
-            "date": "2025-10-11 03:42:55"
-        },
-        {
             "domain_name": "gardenia-garten.ch",
             "destination": "Kinsta",
             "date": "2025-10-11 03:37:45"
@@ -490,16 +500,6 @@
             "domain_name": "www.allhoursfitness.com.au",
             "destination": "Kinsta",
             "date": "2025-10-11 03:28:09"
-        },
-        {
-            "domain_name": "www.zealdigital.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-11 01:11:33"
-        },
-        {
-            "domain_name": "kelleyknott.com",
-            "destination": "Hostinger",
-            "date": "2025-10-11 00:49:42"
         }
     ],
     "dailyMovedStat": {
@@ -892,11 +892,11 @@
         "2025-10-12": "98097"
     },
     "topDestinationHosts": {
-        "Pressable": 11155,
-        "Kinsta": 6293,
+        "Pressable": 11157,
+        "Kinsta": 6294,
         "SiteGround": 5282,
         "Digital Ocean": 5060,
-        "Bluehost": 4206,
+        "Bluehost": 4207,
         "Hostinger": 3568,
         "GoDaddy": 1376,
         "Liquid Web": 690,
