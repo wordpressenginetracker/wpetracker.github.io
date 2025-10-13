@@ -1,6 +1,11 @@
 {
-    "siteCount": 98112,
+    "siteCount": 98116,
     "recentlyMoved": [
+        {
+            "domain_name": "www.aspiring.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-10-13 03:54:08"
+        },
         {
             "domain_name": "drmaskin.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-10-11 00:11:05"
         },
         {
-            "domain_name": "yournucleus.ca",
-            "destination": "Kinsta",
-            "date": "2025-10-10 22:01:00"
-        },
-        {
             "domain_name": "myfreemason.com",
             "destination": "SiteGround",
             "date": "2025-10-10 21:54:32"
@@ -897,7 +897,7 @@
         "SiteGround": 5282,
         "Digital Ocean": 5059,
         "Bluehost": 4206,
-        "Hostinger": 3567,
+        "Hostinger": 3568,
         "GoDaddy": 1376,
         "Liquid Web": 690,
         "BigScoots": 637,
