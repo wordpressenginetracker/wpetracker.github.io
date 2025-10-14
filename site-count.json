@@ -1,6 +1,36 @@
 {
-    "siteCount": 98255,
+    "siteCount": 98271,
     "recentlyMoved": [
+        {
+            "domain_name": "hillarykent.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-14 12:39:39"
+        },
+        {
+            "domain_name": "resoubo.dk",
+            "destination": "SiteGround",
+            "date": "2025-10-14 12:14:41"
+        },
+        {
+            "domain_name": "questionfirstgroup.com",
+            "destination": "SiteGround",
+            "date": "2025-10-14 12:01:07"
+        },
+        {
+            "domain_name": "arcamhealth.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-10-14 11:48:44"
+        },
+        {
+            "domain_name": "weilerwalls.com",
+            "destination": "Kinsta",
+            "date": "2025-10-14 11:21:36"
+        },
+        {
+            "domain_name": "weilersconcretepumping.com",
+            "destination": "Kinsta",
+            "date": "2025-10-14 11:21:36"
+        },
         {
             "domain_name": "vibrantroof.com",
             "destination": "Kinsta",
@@ -457,19 +487,9 @@
             "date": "2025-10-11 18:09:20"
         },
         {
-            "domain_name": "www.whiskeynwalleye.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-11 17:58:41"
-        },
-        {
             "domain_name": "uniquegraniteworx.com",
             "destination": "Kinsta",
             "date": "2025-10-11 17:48:45"
-        },
-        {
-            "domain_name": "thinkinkllc.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 17:41:18"
         },
         {
             "domain_name": "mitsfrontrange.com",
@@ -480,26 +500,6 @@
             "domain_name": "mitsdesmoines.com",
             "destination": "Kinsta",
             "date": "2025-10-11 17:35:08"
-        },
-        {
-            "domain_name": "mitscentraloregon.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 17:35:08"
-        },
-        {
-            "domain_name": "mitsbellevue.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 17:35:08"
-        },
-        {
-            "domain_name": "mitsbaywalton.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 17:35:08"
-        },
-        {
-            "domain_name": "madeintheshadeeasttexas.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 17:31:03"
         }
     ],
     "dailyMovedStat": {
@@ -894,16 +894,16 @@
     },
     "topDestinationHosts": {
         "Pressable": 11158,
-        "Kinsta": 6306,
-        "SiteGround": 5287,
-        "Digital Ocean": 5075,
+        "Kinsta": 6308,
+        "SiteGround": 5288,
+        "Digital Ocean": 5076,
         "Bluehost": 4207,
         "Hostinger": 3572,
         "GoDaddy": 1376,
         "Liquid Web": 690,
         "BigScoots": 637,
         "WordPress.com": 484,
-        "InMotion Hosting": 428,
+        "InMotion Hosting": 429,
         "OVH": 408,
         "GridPane": 400,
         "A2 Hosting": 392,
