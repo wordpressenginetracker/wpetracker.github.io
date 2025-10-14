@@ -1,6 +1,11 @@
 {
-    "siteCount": 98287,
+    "siteCount": 98298,
     "recentlyMoved": [
+        {
+            "domain_name": "fattoriaemare.com",
+            "destination": "Hostinger",
+            "date": "2025-10-14 14:18:01"
+        },
         {
             "domain_name": "telemarkcorp.com",
             "destination": "Digital Ocean",
@@ -10,6 +15,11 @@
             "domain_name": "clintonyoungfoundation.com",
             "destination": "Hostinger",
             "date": "2025-10-14 13:33:53"
+        },
+        {
+            "domain_name": "dramsconsulting.com",
+            "destination": "WordPress.com",
+            "date": "2025-10-14 13:30:09"
         },
         {
             "domain_name": "ssesglobal.com",
@@ -487,19 +497,9 @@
             "date": "2025-10-11 20:15:36"
         },
         {
-            "domain_name": "hanascaffold.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 20:05:57"
-        },
-        {
             "domain_name": "harbormaple.com",
             "destination": "SiteGround",
             "date": "2025-10-11 19:55:30"
-        },
-        {
-            "domain_name": "www.theiddoc.com",
-            "destination": "Hostinger",
-            "date": "2025-10-11 19:34:57"
         }
     ],
     "dailyMovedStat": {
@@ -896,13 +896,13 @@
         "Pressable": 11160,
         "Kinsta": 6309,
         "SiteGround": 5289,
-        "Digital Ocean": 5076,
+        "Digital Ocean": 5077,
         "Bluehost": 4207,
-        "Hostinger": 3573,
+        "Hostinger": 3575,
         "GoDaddy": 1376,
         "Liquid Web": 690,
         "BigScoots": 637,
-        "WordPress.com": 484,
+        "WordPress.com": 485,
         "InMotion Hosting": 429,
         "OVH": 408,
         "GridPane": 400,
