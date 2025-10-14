@@ -1,6 +1,16 @@
 {
-    "siteCount": 98204,
+    "siteCount": 98211,
     "recentlyMoved": [
+        {
+            "domain_name": "click4chiros.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-14 05:00:42"
+        },
+        {
+            "domain_name": "chenchula.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-14 04:45:25"
+        },
         {
             "domain_name": "www.blindsnsw.com.au",
             "destination": "Kinsta",
@@ -10,6 +20,11 @@
             "domain_name": "www.bighandsbuildingsupplies.com.au",
             "destination": "Kinsta",
             "date": "2025-10-14 04:21:35"
+        },
+        {
+            "domain_name": "schlatt-park-schmerikon.ch",
+            "destination": "Kinsta",
+            "date": "2025-10-14 04:13:52"
         },
         {
             "domain_name": "banneroftruth.org",
@@ -485,21 +500,6 @@
             "domain_name": "widgets.gvsi.com",
             "destination": "Kinsta",
             "date": "2025-10-11 11:27:38"
-        },
-        {
-            "domain_name": "vibyggervestland.no",
-            "destination": "Hetzner Online",
-            "date": "2025-10-11 09:35:39"
-        },
-        {
-            "domain_name": "moser-interim-management.ch",
-            "destination": "Kinsta",
-            "date": "2025-10-11 09:32:42"
-        },
-        {
-            "domain_name": "thecigarmansion.com",
-            "destination": "Namecheap",
-            "date": "2025-10-11 09:17:05"
         }
     ],
     "dailyMovedStat": {
@@ -894,9 +894,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11157,
-        "Kinsta": 6300,
+        "Kinsta": 6301,
         "SiteGround": 5286,
-        "Digital Ocean": 5066,
+        "Digital Ocean": 5068,
         "Bluehost": 4207,
         "Hostinger": 3571,
         "GoDaddy": 1376,
