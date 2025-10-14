@@ -1,6 +1,36 @@
 {
-    "siteCount": 98374,
+    "siteCount": 98383,
     "recentlyMoved": [
+        {
+            "domain_name": "loopdeville.org",
+            "destination": "SiteGround",
+            "date": "2025-10-14 21:27:56"
+        },
+        {
+            "domain_name": "cassoconsultinginc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-14 21:10:00"
+        },
+        {
+            "domain_name": "stchristophersjbc.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-14 21:05:59"
+        },
+        {
+            "domain_name": "kiamalions.org.au",
+            "destination": "OVH",
+            "date": "2025-10-14 21:05:11"
+        },
+        {
+            "domain_name": "tahoehomeless.org",
+            "destination": "Digital Ocean",
+            "date": "2025-10-14 20:58:37"
+        },
+        {
+            "domain_name": "jchenglaw.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-14 20:51:43"
+        },
         {
             "domain_name": "retreatatmontevallo.com",
             "destination": "SiteGround",
@@ -470,36 +500,6 @@
             "domain_name": "arts50cu.com",
             "destination": "Pressable",
             "date": "2025-10-13 00:16:31"
-        },
-        {
-            "domain_name": "pawshplace.com",
-            "destination": "GoDaddy",
-            "date": "2025-10-12 23:24:55"
-        },
-        {
-            "domain_name": "dannyboybeerworks.com",
-            "destination": "IONOS",
-            "date": "2025-10-12 21:46:46"
-        },
-        {
-            "domain_name": "bajatranquilo.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-12 20:12:43"
-        },
-        {
-            "domain_name": "aarondarke.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-12 19:30:11"
-        },
-        {
-            "domain_name": "agentdisc.com",
-            "destination": "IONOS",
-            "date": "2025-10-12 19:21:32"
-        },
-        {
-            "domain_name": "thecovenantbusinessgroup.com",
-            "destination": "Kinsta",
-            "date": "2025-10-12 17:05:30"
         }
     ],
     "dailyMovedStat": {
@@ -895,16 +895,16 @@
     "topDestinationHosts": {
         "Pressable": 11162,
         "Kinsta": 6312,
-        "SiteGround": 5294,
-        "Digital Ocean": 5085,
+        "SiteGround": 5296,
+        "Digital Ocean": 5087,
         "Bluehost": 4207,
         "Hostinger": 3577,
-        "GoDaddy": 1377,
+        "GoDaddy": 1378,
         "Liquid Web": 692,
         "BigScoots": 637,
         "WordPress.com": 485,
         "InMotion Hosting": 429,
-        "OVH": 408,
+        "OVH": 409,
         "GridPane": 401,
         "A2 Hosting": 392,
         "Namecheap": 366,
