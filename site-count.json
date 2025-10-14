@@ -1,6 +1,11 @@
 {
-    "siteCount": 98188,
+    "siteCount": 98193,
     "recentlyMoved": [
+        {
+            "domain_name": "teemwaygifts.com",
+            "destination": "SiteGround",
+            "date": "2025-10-14 01:30:26"
+        },
         {
             "domain_name": "stevenlanger.com",
             "destination": "Elementor Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-10-11 08:22:55"
         },
         {
-            "domain_name": "www.kingoscarglobal.com",
-            "destination": "Kinsta",
-            "date": "2025-10-11 07:44:59"
-        },
-        {
             "domain_name": "pumpedwithst.com",
             "destination": "Hostinger",
             "date": "2025-10-11 07:39:53"
@@ -895,7 +895,7 @@
     "topDestinationHosts": {
         "Pressable": 11157,
         "Kinsta": 6295,
-        "SiteGround": 5285,
+        "SiteGround": 5286,
         "Digital Ocean": 5066,
         "Bluehost": 4207,
         "Hostinger": 3571,
