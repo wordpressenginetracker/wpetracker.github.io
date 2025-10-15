@@ -1,5 +1,5 @@
 {
-    "siteCount": 98548,
+    "siteCount": 98559,
     "recentlyMoved": [
         {
             "domain_name": "knockstar.university",
@@ -7,9 +7,24 @@
             "date": "2025-10-15 17:22:20"
         },
         {
+            "domain_name": "electricalspecs.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-10-15 17:21:33"
+        },
+        {
+            "domain_name": "theaquadoctor.com",
+            "destination": "Hostinger",
+            "date": "2025-10-15 17:15:53"
+        },
+        {
             "domain_name": "lanemediations.com",
             "destination": "Kinsta",
             "date": "2025-10-15 17:14:19"
+        },
+        {
+            "domain_name": "marblewealth.com",
+            "destination": "SiteGround",
+            "date": "2025-10-15 17:01:51"
         },
         {
             "domain_name": "buildmybrandid.com",
@@ -485,21 +500,6 @@
             "domain_name": "robertsontitleteam.com",
             "destination": "Digital Ocean",
             "date": "2025-10-14 16:22:40"
-        },
-        {
-            "domain_name": "grantsplus.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-14 16:18:20"
-        },
-        {
-            "domain_name": "bdcburkinafaso.com",
-            "destination": "Hostinger",
-            "date": "2025-10-14 15:57:54"
-        },
-        {
-            "domain_name": "www.authentichomescapes.com",
-            "destination": "Kinsta",
-            "date": "2025-10-14 15:43:42"
         }
     ],
     "dailyMovedStat": {
@@ -896,10 +896,10 @@
     "topDestinationHosts": {
         "Pressable": 11175,
         "Kinsta": 6328,
-        "SiteGround": 5313,
+        "SiteGround": 5314,
         "Digital Ocean": 5096,
         "Bluehost": 4208,
-        "Hostinger": 3582,
+        "Hostinger": 3584,
         "GoDaddy": 1380,
         "Liquid Web": 695,
         "BigScoots": 638,
