@@ -1,6 +1,11 @@
 {
-    "siteCount": 98464,
+    "siteCount": 98468,
     "recentlyMoved": [
+        {
+            "domain_name": "encreservice.com",
+            "destination": "OVH",
+            "date": "2025-10-15 09:36:38"
+        },
         {
             "domain_name": "stage.projects.geant.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.ardmoreteachertraining.com",
             "destination": "WordPress VIP",
             "date": "2025-10-14 07:42:15"
-        },
-        {
-            "domain_name": "worldworkforce.international",
-            "destination": "Digital Ocean",
-            "date": "2025-10-14 07:15:26"
         }
     ],
     "dailyMovedStat": {
@@ -905,7 +905,7 @@
         "BigScoots": 638,
         "WordPress.com": 485,
         "InMotion Hosting": 429,
-        "OVH": 409,
+        "OVH": 410,
         "GridPane": 401,
         "A2 Hosting": 392,
         "Namecheap": 366,
