@@ -1,6 +1,16 @@
 {
-    "siteCount": 98400,
+    "siteCount": 98405,
     "recentlyMoved": [
+        {
+            "domain_name": "thehpca.com",
+            "destination": "SiteGround",
+            "date": "2025-10-15 01:51:19"
+        },
+        {
+            "domain_name": "d2delectrical.com",
+            "destination": "SiteGround",
+            "date": "2025-10-15 01:31:25"
+        },
         {
             "domain_name": "sqsphotography.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "morfokus.com",
             "destination": "Kinsta",
             "date": "2025-10-13 17:28:00"
-        },
-        {
-            "domain_name": "dentoncountylawyersfoundation.com",
-            "destination": "Pressable",
-            "date": "2025-10-13 17:12:10"
-        },
-        {
-            "domain_name": "medicalmojo.co.uk",
-            "destination": "Pressable",
-            "date": "2025-10-13 17:07:14"
         }
     ],
     "dailyMovedStat": {
@@ -896,7 +896,7 @@
     "topDestinationHosts": {
         "Pressable": 11166,
         "Kinsta": 6313,
-        "SiteGround": 5300,
+        "SiteGround": 5302,
         "Digital Ocean": 5089,
         "Bluehost": 4207,
         "Hostinger": 3577,
