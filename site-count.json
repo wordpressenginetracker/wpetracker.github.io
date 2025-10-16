@@ -1,6 +1,21 @@
 {
-    "siteCount": 98776,
+    "siteCount": 98826,
     "recentlyMoved": [
+        {
+            "domain_name": "hillbillyarms.com",
+            "destination": "SiteGround",
+            "date": "2025-10-16 20:34:16"
+        },
+        {
+            "domain_name": "wig-daddy.com",
+            "destination": "SiteGround",
+            "date": "2025-10-16 19:57:44"
+        },
+        {
+            "domain_name": "www.bmfinsagency.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-16 19:31:45"
+        },
         {
             "domain_name": "nmconcretescreed.com",
             "destination": "SiteGround",
@@ -467,11 +482,6 @@
             "date": "2025-10-15 12:12:52"
         },
         {
-            "domain_name": "688online.org",
-            "destination": "Pressable",
-            "date": "2025-10-15 12:00:20"
-        },
-        {
             "domain_name": "pakriteincorporated.com",
             "destination": "SiteGround",
             "date": "2025-10-15 11:50:09"
@@ -490,16 +500,6 @@
             "domain_name": "foodprolasvegas.com",
             "destination": "SiteGround",
             "date": "2025-10-15 11:37:13"
-        },
-        {
-            "domain_name": "filingshelf.com",
-            "destination": "OVH",
-            "date": "2025-10-15 11:19:12"
-        },
-        {
-            "domain_name": "encreservice.com",
-            "destination": "OVH",
-            "date": "2025-10-15 09:36:38"
         }
     ],
     "dailyMovedStat": {
@@ -897,21 +897,21 @@
     "topDestinationHosts": {
         "Pressable": 11189,
         "Kinsta": 6339,
-        "SiteGround": 5334,
+        "SiteGround": 5336,
         "Digital Ocean": 5103,
         "Bluehost": 4209,
         "Hostinger": 3589,
-        "GoDaddy": 1383,
+        "GoDaddy": 1384,
         "Liquid Web": 696,
         "BigScoots": 638,
-        "WordPress.com": 486,
+        "WordPress.com": 487,
         "InMotion Hosting": 433,
-        "OVH": 415,
+        "OVH": 416,
         "GridPane": 402,
         "A2 Hosting": 392,
         "Namecheap": 367,
         "IONOS": 365,
-        "DreamHost": 355,
+        "DreamHost": 356,
         "Elementor Hosting": 333,
         "Hetzner Online": 287,
         "HostGator": 227
