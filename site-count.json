@@ -1,10 +1,20 @@
 {
-    "siteCount": 98826,
+    "siteCount": 98833,
     "recentlyMoved": [
+        {
+            "domain_name": "www.smaspararguiden.se",
+            "destination": "Hetzner Online",
+            "date": "2025-10-16 20:43:03"
+        },
         {
             "domain_name": "hillbillyarms.com",
             "destination": "SiteGround",
             "date": "2025-10-16 20:34:16"
+        },
+        {
+            "domain_name": "jamisonfurnace.ca",
+            "destination": "SiteGround",
+            "date": "2025-10-16 20:17:50"
         },
         {
             "domain_name": "wig-daddy.com",
@@ -482,11 +492,6 @@
             "date": "2025-10-15 12:12:52"
         },
         {
-            "domain_name": "pakriteincorporated.com",
-            "destination": "SiteGround",
-            "date": "2025-10-15 11:50:09"
-        },
-        {
             "domain_name": "planetsolarpr.net",
             "destination": "GoDaddy",
             "date": "2025-10-15 11:43:27"
@@ -495,11 +500,6 @@
             "domain_name": "helixintel.com",
             "destination": "Liquid Web",
             "date": "2025-10-15 11:42:12"
-        },
-        {
-            "domain_name": "foodprolasvegas.com",
-            "destination": "SiteGround",
-            "date": "2025-10-15 11:37:13"
         }
     ],
     "dailyMovedStat": {
@@ -897,7 +897,7 @@
     "topDestinationHosts": {
         "Pressable": 11189,
         "Kinsta": 6339,
-        "SiteGround": 5336,
+        "SiteGround": 5337,
         "Digital Ocean": 5103,
         "Bluehost": 4209,
         "Hostinger": 3589,
@@ -913,7 +913,7 @@
         "IONOS": 365,
         "DreamHost": 356,
         "Elementor Hosting": 333,
-        "Hetzner Online": 287,
+        "Hetzner Online": 288,
         "HostGator": 227
     },
     "dailyTotalStat": {
