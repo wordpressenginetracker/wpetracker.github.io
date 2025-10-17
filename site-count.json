@@ -1,6 +1,11 @@
 {
-    "siteCount": 98935,
+    "siteCount": 98939,
     "recentlyMoved": [
+        {
+            "domain_name": "www.furryfriendsgear.com",
+            "destination": "SiteGround",
+            "date": "2025-10-17 08:25:35"
+        },
         {
             "domain_name": "www.cadca.org",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-10-16 02:07:22"
         },
         {
-            "domain_name": "dsifer.com",
-            "destination": "Hostinger",
-            "date": "2025-10-16 02:05:48"
-        },
-        {
             "domain_name": "natalestransport.com",
             "destination": "SiteGround",
             "date": "2025-10-16 01:45:27"
@@ -898,7 +898,7 @@
     "topDestinationHosts": {
         "Pressable": 11198,
         "Kinsta": 6349,
-        "SiteGround": 5358,
+        "SiteGround": 5359,
         "Digital Ocean": 5105,
         "Bluehost": 4209,
         "Hostinger": 3595,
