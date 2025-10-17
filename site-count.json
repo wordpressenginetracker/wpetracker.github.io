@@ -1,6 +1,21 @@
 {
-    "siteCount": 98980,
+    "siteCount": 98992,
     "recentlyMoved": [
+        {
+            "domain_name": "www.feelinggoodtherapy.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-17 16:13:08"
+        },
+        {
+            "domain_name": "wky.pt",
+            "destination": "Hostinger",
+            "date": "2025-10-17 15:57:29"
+        },
+        {
+            "domain_name": "www.annapoliscolon.com",
+            "destination": "Kinsta",
+            "date": "2025-10-17 15:29:09"
+        },
         {
             "domain_name": "expathealthpulsemexico.com",
             "destination": "Namecheap",
@@ -485,21 +500,6 @@
             "domain_name": "risenshineatlanta.com",
             "destination": "SiteGround",
             "date": "2025-10-16 12:27:39"
-        },
-        {
-            "domain_name": "bdclagosmainland.com",
-            "destination": "Hostinger",
-            "date": "2025-10-16 12:16:17"
-        },
-        {
-            "domain_name": "bdcdhaka.com",
-            "destination": "Hostinger",
-            "date": "2025-10-16 12:16:17"
-        },
-        {
-            "domain_name": "alphasupply.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-16 12:16:11"
         }
     ],
     "dailyMovedStat": {
@@ -897,11 +897,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11198,
-        "Kinsta": 6350,
+        "Kinsta": 6351,
         "SiteGround": 5361,
         "Digital Ocean": 5107,
         "Bluehost": 4210,
-        "Hostinger": 3596,
+        "Hostinger": 3597,
         "GoDaddy": 1388,
         "Liquid Web": 698,
         "BigScoots": 639,
