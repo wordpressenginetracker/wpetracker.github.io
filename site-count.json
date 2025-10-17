@@ -1,6 +1,16 @@
 {
-    "siteCount": 98913,
+    "siteCount": 98922,
     "recentlyMoved": [
+        {
+            "domain_name": "villabaiana.it",
+            "destination": "Hostinger",
+            "date": "2025-10-17 06:08:44"
+        },
+        {
+            "domain_name": "declutteringsolutions.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-17 05:29:07"
+        },
         {
             "domain_name": "coogeebuilders.com.au",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "sevenhillsrsl.com.au",
             "destination": "SiteGround",
             "date": "2025-10-16 00:57:03"
-        },
-        {
-            "domain_name": "www.lesser-panda-ramen.de",
-            "destination": "Hetzner Online",
-            "date": "2025-10-16 00:38:13"
-        },
-        {
-            "domain_name": "belview.net.au",
-            "destination": "Pressable",
-            "date": "2025-10-16 00:00:20"
         }
     ],
     "dailyMovedStat": {
@@ -897,11 +897,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11198,
-        "Kinsta": 6346,
+        "Kinsta": 6348,
         "SiteGround": 5358,
         "Digital Ocean": 5103,
         "Bluehost": 4209,
-        "Hostinger": 3594,
+        "Hostinger": 3595,
         "GoDaddy": 1385,
         "Liquid Web": 696,
         "BigScoots": 638,
