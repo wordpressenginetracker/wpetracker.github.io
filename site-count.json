@@ -1,6 +1,21 @@
 {
-    "siteCount": 99214,
+    "siteCount": 99257,
     "recentlyMoved": [
+        {
+            "domain_name": "healor.com",
+            "destination": "SiteGround",
+            "date": "2025-10-18 20:38:57"
+        },
+        {
+            "domain_name": "www.drherbsmith.com",
+            "destination": "Kinsta",
+            "date": "2025-10-18 20:31:23"
+        },
+        {
+            "domain_name": "goodsaltlife.com",
+            "destination": "Hostinger",
+            "date": "2025-10-18 19:52:37"
+        },
         {
             "domain_name": "neeptraining.org",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "www.dumpershandybin.com.au",
             "destination": "Kinsta",
             "date": "2025-10-17 04:20:00"
-        },
-        {
-            "domain_name": "www.diagridconstructions.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-17 04:16:52"
-        },
-        {
-            "domain_name": "www.dcrpro.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-17 03:50:05"
-        },
-        {
-            "domain_name": "www.djdair.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-17 03:48:20"
         }
     ],
     "dailyMovedStat": {
@@ -898,15 +898,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 11205,
-        "Kinsta": 6363,
-        "SiteGround": 5377,
+        "Kinsta": 6364,
+        "SiteGround": 5379,
         "Digital Ocean": 5110,
-        "Bluehost": 4212,
-        "Hostinger": 3607,
+        "Bluehost": 4213,
+        "Hostinger": 3608,
         "GoDaddy": 1391,
         "Liquid Web": 701,
         "BigScoots": 642,
-        "WordPress.com": 489,
+        "WordPress.com": 490,
         "InMotion Hosting": 435,
         "OVH": 420,
         "GridPane": 402,
