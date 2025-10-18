@@ -1,6 +1,26 @@
 {
-    "siteCount": 99077,
+    "siteCount": 99089,
     "recentlyMoved": [
+        {
+            "domain_name": "cravingkratom.com",
+            "destination": "Hostinger",
+            "date": "2025-10-18 01:26:56"
+        },
+        {
+            "domain_name": "sonnysfrozen.com",
+            "destination": "OVH",
+            "date": "2025-10-18 01:24:12"
+        },
+        {
+            "domain_name": "somersgeneral.com",
+            "destination": "SiteGround",
+            "date": "2025-10-18 01:24:12"
+        },
+        {
+            "domain_name": "cfximages.com",
+            "destination": "Pressable",
+            "date": "2025-10-18 01:14:26"
+        },
         {
             "domain_name": "afesupport.org",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "www.bmfinsagency.com",
             "destination": "GoDaddy",
             "date": "2025-10-16 19:31:45"
-        },
-        {
-            "domain_name": "nmconcretescreed.com",
-            "destination": "SiteGround",
-            "date": "2025-10-16 18:13:48"
-        },
-        {
-            "domain_name": "mitsjacksonhole.com",
-            "destination": "Kinsta",
-            "date": "2025-10-16 17:44:37"
-        },
-        {
-            "domain_name": "mitscharleston.com",
-            "destination": "Kinsta",
-            "date": "2025-10-16 17:44:37"
-        },
-        {
-            "domain_name": "teontherapeutics.com",
-            "destination": "SiteGround",
-            "date": "2025-10-16 17:27:58"
         }
     ],
     "dailyMovedStat": {
@@ -897,9 +897,9 @@
         "2025-10-17": "99069"
     },
     "topDestinationHosts": {
-        "Pressable": 11199,
+        "Pressable": 11200,
         "Kinsta": 6352,
-        "SiteGround": 5369,
+        "SiteGround": 5370,
         "Digital Ocean": 5110,
         "Bluehost": 4210,
         "Hostinger": 3600,
@@ -908,7 +908,7 @@
         "BigScoots": 640,
         "WordPress.com": 488,
         "InMotion Hosting": 434,
-        "OVH": 417,
+        "OVH": 418,
         "GridPane": 402,
         "A2 Hosting": 392,
         "Namecheap": 368,
