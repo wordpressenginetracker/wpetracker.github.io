@@ -1,6 +1,11 @@
 {
-    "siteCount": 99195,
+    "siteCount": 99209,
     "recentlyMoved": [
+        {
+            "domain_name": "chemistrywellness.com",
+            "destination": "Bluehost",
+            "date": "2025-10-18 16:58:25"
+        },
         {
             "domain_name": "www.falconspace.org",
             "destination": "Kinsta",
@@ -17,6 +22,11 @@
             "date": "2025-10-18 16:22:46"
         },
         {
+            "domain_name": "shenisautotrend.com",
+            "destination": "Hostinger",
+            "date": "2025-10-18 16:14:04"
+        },
+        {
             "domain_name": "bakersbodycenter.com",
             "destination": "SiteGround",
             "date": "2025-10-18 16:13:06"
@@ -25,6 +35,11 @@
             "domain_name": "graymatters.com",
             "destination": "Pressable",
             "date": "2025-10-18 16:12:35"
+        },
+        {
+            "domain_name": "santafepaintingworkshops.com",
+            "destination": "Bluehost",
+            "date": "2025-10-18 16:11:57"
         },
         {
             "domain_name": "www.servistarplumbingandhvac.com",
@@ -485,21 +500,6 @@
             "domain_name": "patersonpropertygroup.com.au",
             "destination": "SiteGround",
             "date": "2025-10-17 03:20:51"
-        },
-        {
-            "domain_name": "fashionbrainacademy.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 02:35:57"
-        },
-        {
-            "domain_name": "notatanycost.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-17 02:22:43"
-        },
-        {
-            "domain_name": "evalucore.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 01:54:59"
         }
     ],
     "dailyMovedStat": {
@@ -898,11 +898,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11205,
-        "Kinsta": 6360,
+        "Kinsta": 6362,
         "SiteGround": 5376,
         "Digital Ocean": 5110,
-        "Bluehost": 4210,
-        "Hostinger": 3605,
+        "Bluehost": 4212,
+        "Hostinger": 3606,
         "GoDaddy": 1391,
         "Liquid Web": 700,
         "BigScoots": 642,
