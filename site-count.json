@@ -1,6 +1,26 @@
 {
-    "siteCount": 99069,
+    "siteCount": 99077,
     "recentlyMoved": [
+        {
+            "domain_name": "afesupport.org",
+            "destination": "SiteGround",
+            "date": "2025-10-18 00:11:18"
+        },
+        {
+            "domain_name": "gklivestock.com",
+            "destination": "SiteGround",
+            "date": "2025-10-18 00:10:31"
+        },
+        {
+            "domain_name": "www.birdwhistellsells.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-18 00:03:01"
+        },
+        {
+            "domain_name": "gsystems.com",
+            "destination": "Pressable",
+            "date": "2025-10-17 23:49:59"
+        },
         {
             "domain_name": "extra-cheese.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "teontherapeutics.com",
             "destination": "SiteGround",
             "date": "2025-10-16 17:27:58"
-        },
-        {
-            "domain_name": "www.mkfstrategicmarketing.com",
-            "destination": "Pressable",
-            "date": "2025-10-16 17:11:05"
-        },
-        {
-            "domain_name": "kevinspann.com",
-            "destination": "Pressable",
-            "date": "2025-10-16 17:01:57"
-        },
-        {
-            "domain_name": "www.v3perform.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-16 16:57:15"
-        },
-        {
-            "domain_name": "greenvillehistory.org",
-            "destination": "SiteGround",
-            "date": "2025-10-16 16:15:54"
         }
     ],
     "dailyMovedStat": {
@@ -897,10 +897,10 @@
         "2025-10-17": "99069"
     },
     "topDestinationHosts": {
-        "Pressable": 11198,
+        "Pressable": 11199,
         "Kinsta": 6352,
-        "SiteGround": 5367,
-        "Digital Ocean": 5109,
+        "SiteGround": 5369,
+        "Digital Ocean": 5110,
         "Bluehost": 4210,
         "Hostinger": 3600,
         "GoDaddy": 1389,
