@@ -1,6 +1,21 @@
 {
-    "siteCount": 99144,
+    "siteCount": 99149,
     "recentlyMoved": [
+        {
+            "domain_name": "oca-ltd.com",
+            "destination": "WordPress.com",
+            "date": "2025-10-18 09:48:38"
+        },
+        {
+            "domain_name": "mcauleytreesurgery.co.uk",
+            "destination": "Elementor Hosting",
+            "date": "2025-10-18 09:41:27"
+        },
+        {
+            "domain_name": "dentistryrevolution.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-18 09:37:21"
+        },
         {
             "domain_name": "sione.co.uk",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "globalmediastudios.com",
             "destination": "SiteGround",
             "date": "2025-10-17 00:04:37"
-        },
-        {
-            "domain_name": "gamlaw.net",
-            "destination": "Hostinger",
-            "date": "2025-10-16 23:58:23"
-        },
-        {
-            "domain_name": "gracefocusedoptimism.com",
-            "destination": "Pressable",
-            "date": "2025-10-16 23:42:48"
-        },
-        {
-            "domain_name": "friendsoffirstlook.org",
-            "destination": "Pressable",
-            "date": "2025-10-16 23:18:26"
         }
     ],
     "dailyMovedStat": {
@@ -903,10 +903,10 @@
         "Digital Ocean": 5110,
         "Bluehost": 4210,
         "Hostinger": 3604,
-        "GoDaddy": 1390,
-        "Liquid Web": 699,
+        "GoDaddy": 1391,
+        "Liquid Web": 700,
         "BigScoots": 640,
-        "WordPress.com": 488,
+        "WordPress.com": 489,
         "InMotion Hosting": 434,
         "OVH": 420,
         "GridPane": 402,
@@ -914,7 +914,7 @@
         "Namecheap": 369,
         "IONOS": 366,
         "DreamHost": 356,
-        "Elementor Hosting": 333,
+        "Elementor Hosting": 334,
         "Hetzner Online": 288,
         "HostGator": 228
     },
