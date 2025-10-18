@@ -1,6 +1,26 @@
 {
-    "siteCount": 99209,
+    "siteCount": 99214,
     "recentlyMoved": [
+        {
+            "domain_name": "neeptraining.org",
+            "destination": "Kinsta",
+            "date": "2025-10-18 18:00:24"
+        },
+        {
+            "domain_name": "oceanblueortho.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-18 18:00:04"
+        },
+        {
+            "domain_name": "nimict.com",
+            "destination": "Hostinger",
+            "date": "2025-10-18 17:47:54"
+        },
+        {
+            "domain_name": "yncnaturally.com",
+            "destination": "SiteGround",
+            "date": "2025-10-18 17:33:22"
+        },
         {
             "domain_name": "chemistrywellness.com",
             "destination": "Bluehost",
@@ -472,16 +492,6 @@
             "date": "2025-10-17 04:16:52"
         },
         {
-            "domain_name": "quoteprosolutions.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 04:16:50"
-        },
-        {
-            "domain_name": "getautoquoter.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 03:53:09"
-        },
-        {
             "domain_name": "www.dcrpro.com.au",
             "destination": "Kinsta",
             "date": "2025-10-17 03:50:05"
@@ -490,16 +500,6 @@
             "domain_name": "www.djdair.com.au",
             "destination": "Kinsta",
             "date": "2025-10-17 03:48:20"
-        },
-        {
-            "domain_name": "wilhelmforjudge.com",
-            "destination": "Pressable",
-            "date": "2025-10-17 03:35:03"
-        },
-        {
-            "domain_name": "patersonpropertygroup.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-17 03:20:51"
         }
     ],
     "dailyMovedStat": {
@@ -898,13 +898,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 11205,
-        "Kinsta": 6362,
-        "SiteGround": 5376,
+        "Kinsta": 6363,
+        "SiteGround": 5377,
         "Digital Ocean": 5110,
         "Bluehost": 4212,
-        "Hostinger": 3606,
+        "Hostinger": 3607,
         "GoDaddy": 1391,
-        "Liquid Web": 700,
+        "Liquid Web": 701,
         "BigScoots": 642,
         "WordPress.com": 489,
         "InMotion Hosting": 435,
