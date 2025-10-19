@@ -1,6 +1,11 @@
 {
-    "siteCount": 99289,
+    "siteCount": 99299,
     "recentlyMoved": [
+        {
+            "domain_name": "iclegal.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-10-19 03:59:23"
+        },
         {
             "domain_name": "tubbycup.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.mavenautobody.com",
             "destination": "Bluehost",
             "date": "2025-10-17 12:14:29"
-        },
-        {
-            "domain_name": "www.dbtandpartners.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-10-17 12:05:23"
         }
     ],
     "dailyMovedStat": {
@@ -903,7 +903,7 @@
         "SiteGround": 5379,
         "Digital Ocean": 5110,
         "Bluehost": 4213,
-        "Hostinger": 3613,
+        "Hostinger": 3614,
         "GoDaddy": 1391,
         "Liquid Web": 701,
         "BigScoots": 642,
