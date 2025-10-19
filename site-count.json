@@ -1,6 +1,26 @@
 {
-    "siteCount": 99277,
+    "siteCount": 99282,
     "recentlyMoved": [
+        {
+            "domain_name": "southernaire.us",
+            "destination": "Pressable",
+            "date": "2025-10-19 01:13:50"
+        },
+        {
+            "domain_name": "centennialroofing.com",
+            "destination": "Pressable",
+            "date": "2025-10-19 00:56:42"
+        },
+        {
+            "domain_name": "rohrichservice.com",
+            "destination": "OVH",
+            "date": "2025-10-19 00:35:24"
+        },
+        {
+            "domain_name": "businesscentraladdins.com",
+            "destination": "Kinsta",
+            "date": "2025-10-19 00:33:32"
+        },
         {
             "domain_name": "autodeskclubs.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-10-17 11:43:38"
         },
         {
-            "domain_name": "thehouston100.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 09:59:51"
-        },
-        {
             "domain_name": "familysupportbarry.com",
             "destination": "Wordify",
             "date": "2025-10-17 09:46:24"
-        },
-        {
-            "domain_name": "www.wilcoxinvestmentbankers.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-17 09:36:39"
-        },
-        {
-            "domain_name": "www.furryfriendsgear.com",
-            "destination": "SiteGround",
-            "date": "2025-10-17 08:25:35"
-        },
-        {
-            "domain_name": "www.dpp-law.com",
-            "destination": "Krystal Hosting",
-            "date": "2025-10-17 08:17:36"
         }
     ],
     "dailyMovedStat": {
@@ -898,8 +898,8 @@
         "2025-10-18": "99267"
     },
     "topDestinationHosts": {
-        "Pressable": 11206,
-        "Kinsta": 6366,
+        "Pressable": 11208,
+        "Kinsta": 6367,
         "SiteGround": 5379,
         "Digital Ocean": 5110,
         "Bluehost": 4213,
@@ -909,7 +909,7 @@
         "BigScoots": 642,
         "WordPress.com": 490,
         "InMotion Hosting": 435,
-        "OVH": 421,
+        "OVH": 422,
         "GridPane": 402,
         "A2 Hosting": 393,
         "Namecheap": 370,
