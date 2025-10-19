@@ -1,6 +1,21 @@
 {
-    "siteCount": 99282,
+    "siteCount": 99289,
     "recentlyMoved": [
+        {
+            "domain_name": "tubbycup.com",
+            "destination": "Pressable",
+            "date": "2025-10-19 02:13:15"
+        },
+        {
+            "domain_name": "thetxtheater.com",
+            "destination": "Pressable",
+            "date": "2025-10-19 01:57:23"
+        },
+        {
+            "domain_name": "myserveoc.com",
+            "destination": "Hostinger",
+            "date": "2025-10-19 01:38:04"
+        },
         {
             "domain_name": "southernaire.us",
             "destination": "Pressable",
@@ -472,11 +487,6 @@
             "date": "2025-10-17 12:47:56"
         },
         {
-            "domain_name": "govimana.com",
-            "destination": "Kinsta",
-            "date": "2025-10-17 12:21:22"
-        },
-        {
             "domain_name": "blacksheepbjjep.com",
             "destination": "Liquid Web",
             "date": "2025-10-17 12:17:22"
@@ -490,16 +500,6 @@
             "domain_name": "www.dbtandpartners.co.uk",
             "destination": "Krystal Hosting",
             "date": "2025-10-17 12:05:23"
-        },
-        {
-            "domain_name": "woodcreekhuntley.com",
-            "destination": "Liquid Web",
-            "date": "2025-10-17 11:43:38"
-        },
-        {
-            "domain_name": "familysupportbarry.com",
-            "destination": "Wordify",
-            "date": "2025-10-17 09:46:24"
         }
     ],
     "dailyMovedStat": {
@@ -898,12 +898,12 @@
         "2025-10-18": "99267"
     },
     "topDestinationHosts": {
-        "Pressable": 11208,
+        "Pressable": 11210,
         "Kinsta": 6367,
         "SiteGround": 5379,
         "Digital Ocean": 5110,
         "Bluehost": 4213,
-        "Hostinger": 3612,
+        "Hostinger": 3613,
         "GoDaddy": 1391,
         "Liquid Web": 701,
         "BigScoots": 642,
