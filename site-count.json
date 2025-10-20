@@ -1,6 +1,11 @@
 {
-    "siteCount": 99461,
+    "siteCount": 99465,
     "recentlyMoved": [
+        {
+            "domain_name": "krystamaravilla.com",
+            "destination": "WordPress.com",
+            "date": "2025-10-20 13:06:21"
+        },
         {
             "domain_name": "alconachiropractic.ca",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "www.thebrownstone.com",
             "destination": "OVH",
             "date": "2025-10-18 04:53:14"
-        },
-        {
-            "domain_name": "sobend.com",
-            "destination": "Hostinger",
-            "date": "2025-10-18 04:42:25"
         }
     ],
     "dailyMovedStat": {
@@ -908,7 +908,7 @@
         "GoDaddy": 1391,
         "Liquid Web": 702,
         "BigScoots": 642,
-        "WordPress.com": 492,
+        "WordPress.com": 493,
         "InMotion Hosting": 435,
         "OVH": 424,
         "GridPane": 402,
