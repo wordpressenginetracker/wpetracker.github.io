@@ -1,6 +1,11 @@
 {
-    "siteCount": 99453,
+    "siteCount": 99461,
     "recentlyMoved": [
+        {
+            "domain_name": "alconachiropractic.ca",
+            "destination": "OVH",
+            "date": "2025-10-20 11:47:25"
+        },
         {
             "domain_name": "portsofcallvillas.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "sobend.com",
             "destination": "Hostinger",
             "date": "2025-10-18 04:42:25"
-        },
-        {
-            "domain_name": "rocarr.studio",
-            "destination": "Kinsta",
-            "date": "2025-10-18 04:36:02"
         }
     ],
     "dailyMovedStat": {
@@ -910,7 +910,7 @@
         "BigScoots": 642,
         "WordPress.com": 492,
         "InMotion Hosting": 435,
-        "OVH": 423,
+        "OVH": 424,
         "GridPane": 402,
         "A2 Hosting": 393,
         "Namecheap": 371,
