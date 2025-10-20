@@ -1,6 +1,11 @@
 {
-    "siteCount": 99465,
+    "siteCount": 99471,
     "recentlyMoved": [
+        {
+            "domain_name": "wallmountac.com",
+            "destination": "Kinsta",
+            "date": "2025-10-20 14:39:27"
+        },
         {
             "domain_name": "krystamaravilla.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "makecampingfun.com",
             "destination": "Hostinger",
             "date": "2025-10-18 05:14:34"
-        },
-        {
-            "domain_name": "www.thebrownstone.com",
-            "destination": "OVH",
-            "date": "2025-10-18 04:53:14"
         }
     ],
     "dailyMovedStat": {
@@ -900,7 +900,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11231,
-        "Kinsta": 6370,
+        "Kinsta": 6371,
         "SiteGround": 5385,
         "Digital Ocean": 5111,
         "Bluehost": 4215,
