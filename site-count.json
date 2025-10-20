@@ -1,6 +1,21 @@
 {
-    "siteCount": 99432,
+    "siteCount": 99435,
     "recentlyMoved": [
+        {
+            "domain_name": "coastalkerbandgutter.com.au",
+            "destination": "Hostinger",
+            "date": "2025-10-20 05:29:13"
+        },
+        {
+            "domain_name": "ktisisweb.com",
+            "destination": "Bluehost",
+            "date": "2025-10-20 05:07:42"
+        },
+        {
+            "domain_name": "kmcre.net",
+            "destination": "SiteGround",
+            "date": "2025-10-20 04:44:34"
+        },
         {
             "domain_name": "getpurelyjuiced.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "nicholasmarkets.com",
             "destination": "OVH",
             "date": "2025-10-18 01:46:38"
-        },
-        {
-            "domain_name": "cravingkratom.com",
-            "destination": "Hostinger",
-            "date": "2025-10-18 01:26:56"
-        },
-        {
-            "domain_name": "sonnysfrozen.com",
-            "destination": "OVH",
-            "date": "2025-10-18 01:24:12"
-        },
-        {
-            "domain_name": "mannahouseoutreach.org",
-            "destination": "Pressable",
-            "date": "2025-10-18 01:02:39"
         }
     ],
     "dailyMovedStat": {
@@ -901,10 +901,10 @@
     "topDestinationHosts": {
         "Pressable": 11230,
         "Kinsta": 6370,
-        "SiteGround": 5382,
+        "SiteGround": 5383,
         "Digital Ocean": 5111,
-        "Bluehost": 4213,
-        "Hostinger": 3616,
+        "Bluehost": 4214,
+        "Hostinger": 3617,
         "GoDaddy": 1391,
         "Liquid Web": 702,
         "BigScoots": 642,
