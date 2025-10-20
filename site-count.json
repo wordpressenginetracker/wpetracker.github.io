@@ -1,6 +1,16 @@
 {
-    "siteCount": 99439,
+    "siteCount": 99444,
     "recentlyMoved": [
+        {
+            "domain_name": "portsofcallvillas.com",
+            "destination": "SiteGround",
+            "date": "2025-10-20 07:51:44"
+        },
+        {
+            "domain_name": "ogunquithotels.net",
+            "destination": "SiteGround",
+            "date": "2025-10-20 07:14:33"
+        },
         {
             "domain_name": "dropping.deals",
             "destination": "Bluehost",
@@ -490,16 +500,6 @@
             "domain_name": "rocarr.studio",
             "destination": "Kinsta",
             "date": "2025-10-18 04:36:02"
-        },
-        {
-            "domain_name": "nwafood.com",
-            "destination": "Hostinger",
-            "date": "2025-10-18 02:41:27"
-        },
-        {
-            "domain_name": "nicholasmarkets.com",
-            "destination": "OVH",
-            "date": "2025-10-18 01:46:38"
         }
     ],
     "dailyMovedStat": {
@@ -901,7 +901,7 @@
     "topDestinationHosts": {
         "Pressable": 11231,
         "Kinsta": 6370,
-        "SiteGround": 5383,
+        "SiteGround": 5385,
         "Digital Ocean": 5111,
         "Bluehost": 4215,
         "Hostinger": 3617,
