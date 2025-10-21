@@ -1,10 +1,35 @@
 {
-    "siteCount": 99632,
+    "siteCount": 99642,
     "recentlyMoved": [
+        {
+            "domain_name": "millerrealtyservicesllc.com",
+            "destination": "Kinsta",
+            "date": "2025-10-21 18:12:22"
+        },
+        {
+            "domain_name": "minnixproperties.com",
+            "destination": "Pressable",
+            "date": "2025-10-21 18:10:07"
+        },
+        {
+            "domain_name": "mitsabilene.com",
+            "destination": "Kinsta",
+            "date": "2025-10-21 17:56:05"
+        },
+        {
+            "domain_name": "trademaestro.com",
+            "destination": "Hostinger",
+            "date": "2025-10-21 17:44:29"
+        },
         {
             "domain_name": "www.sunkelplumbing.com",
             "destination": "InMotion Hosting",
             "date": "2025-10-21 17:16:57"
+        },
+        {
+            "domain_name": "cufoundation.org",
+            "destination": "Kinsta",
+            "date": "2025-10-21 17:12:49"
         },
         {
             "domain_name": "silverkinglodge.com",
@@ -475,31 +500,6 @@
             "domain_name": "welcometowestmorelandcounty.com",
             "destination": "OVH",
             "date": "2025-10-19 12:01:06"
-        },
-        {
-            "domain_name": "madinaconstruction.com",
-            "destination": "HostGator",
-            "date": "2025-10-19 09:25:50"
-        },
-        {
-            "domain_name": "handsonsuccessindia.com",
-            "destination": "Hostinger",
-            "date": "2025-10-19 07:40:09"
-        },
-        {
-            "domain_name": "iclegal.co.nz",
-            "destination": "Hostinger",
-            "date": "2025-10-19 03:59:23"
-        },
-        {
-            "domain_name": "tubbycup.com",
-            "destination": "Pressable",
-            "date": "2025-10-19 02:13:15"
-        },
-        {
-            "domain_name": "myserveoc.com",
-            "destination": "Hostinger",
-            "date": "2025-10-19 01:38:04"
         }
     ],
     "dailyMovedStat": {
@@ -900,12 +900,12 @@
         "2025-10-20": "99517"
     },
     "topDestinationHosts": {
-        "Pressable": 11242,
-        "Kinsta": 6387,
+        "Pressable": 11243,
+        "Kinsta": 6390,
         "SiteGround": 5396,
         "Digital Ocean": 5117,
         "Bluehost": 4216,
-        "Hostinger": 3618,
+        "Hostinger": 3619,
         "GoDaddy": 1391,
         "Liquid Web": 704,
         "BigScoots": 642,
