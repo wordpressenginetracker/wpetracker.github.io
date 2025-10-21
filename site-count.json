@@ -1,6 +1,21 @@
 {
-    "siteCount": 99642,
+    "siteCount": 99687,
     "recentlyMoved": [
+        {
+            "domain_name": "www.coastalfermentory.com",
+            "destination": "HostGator",
+            "date": "2025-10-21 20:26:14"
+        },
+        {
+            "domain_name": "pharmacycare.org",
+            "destination": "Hostinger",
+            "date": "2025-10-21 20:15:31"
+        },
+        {
+            "domain_name": "www.mcfadgenlaw.com",
+            "destination": "IONOS",
+            "date": "2025-10-21 19:46:44"
+        },
         {
             "domain_name": "millerrealtyservicesllc.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-10-19 12:25:50"
         },
         {
-            "domain_name": "poshmediaco.com",
-            "destination": "Kinsta",
-            "date": "2025-10-19 12:14:29"
-        },
-        {
-            "domain_name": "promisezonesmi.com",
-            "destination": "Liquid Web",
-            "date": "2025-10-19 12:13:02"
-        },
-        {
             "domain_name": "www.chiroone.com",
             "destination": "Kinsta",
             "date": "2025-10-19 12:01:37"
-        },
-        {
-            "domain_name": "welcometowestmorelandcounty.com",
-            "destination": "OVH",
-            "date": "2025-10-19 12:01:06"
         }
     ],
     "dailyMovedStat": {
@@ -902,10 +902,10 @@
     "topDestinationHosts": {
         "Pressable": 11243,
         "Kinsta": 6390,
-        "SiteGround": 5396,
+        "SiteGround": 5398,
         "Digital Ocean": 5117,
         "Bluehost": 4216,
-        "Hostinger": 3619,
+        "Hostinger": 3620,
         "GoDaddy": 1391,
         "Liquid Web": 704,
         "BigScoots": 642,
@@ -915,11 +915,11 @@
         "GridPane": 405,
         "A2 Hosting": 393,
         "Namecheap": 371,
-        "IONOS": 367,
+        "IONOS": 368,
         "DreamHost": 359,
         "Elementor Hosting": 336,
         "Hetzner Online": 288,
-        "HostGator": 229
+        "HostGator": 230
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
