@@ -1,6 +1,21 @@
 {
-    "siteCount": 99573,
+    "siteCount": 99585,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dwjonesmanagement.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-21 12:36:50"
+        },
+        {
+            "domain_name": "amplifyservicesllc.com",
+            "destination": "SiteGround",
+            "date": "2025-10-21 11:48:13"
+        },
+        {
+            "domain_name": "gladdenlongevity.com",
+            "destination": "Pressable",
+            "date": "2025-10-21 11:28:31"
+        },
         {
             "domain_name": "erickmarigimd.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-10-18 16:58:25"
         },
         {
-            "domain_name": "www.falconspace.org",
-            "destination": "Kinsta",
-            "date": "2025-10-18 16:28:51"
-        },
-        {
-            "domain_name": "www.fluxspace.com",
-            "destination": "Kinsta",
-            "date": "2025-10-18 16:26:08"
-        },
-        {
             "domain_name": "shenisautotrend.com",
             "destination": "Hostinger",
             "date": "2025-10-18 16:14:04"
-        },
-        {
-            "domain_name": "santafepaintingworkshops.com",
-            "destination": "Bluehost",
-            "date": "2025-10-18 16:11:57"
         }
     ],
     "dailyMovedStat": {
@@ -900,10 +900,10 @@
         "2025-10-20": "99517"
     },
     "topDestinationHosts": {
-        "Pressable": 11241,
+        "Pressable": 11242,
         "Kinsta": 6379,
-        "SiteGround": 5388,
-        "Digital Ocean": 5115,
+        "SiteGround": 5389,
+        "Digital Ocean": 5116,
         "Bluehost": 4216,
         "Hostinger": 3618,
         "GoDaddy": 1391,
@@ -912,7 +912,7 @@
         "WordPress.com": 493,
         "InMotion Hosting": 435,
         "OVH": 425,
-        "GridPane": 404,
+        "GridPane": 405,
         "A2 Hosting": 393,
         "Namecheap": 371,
         "IONOS": 367,
