@@ -1,6 +1,11 @@
 {
-    "siteCount": 99980,
+    "siteCount": 99986,
     "recentlyMoved": [
+        {
+            "domain_name": "thrroof.com",
+            "destination": "SiteGround",
+            "date": "2025-10-22 21:31:39"
+        },
         {
             "domain_name": "chemsafety.co.nz",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.quirkbooks.com",
             "destination": "Kinsta",
             "date": "2025-10-22 04:46:01"
-        },
-        {
-            "domain_name": "quenchwater.ca",
-            "destination": "WordPress VIP",
-            "date": "2025-10-22 04:13:35"
         }
     ],
     "dailyMovedStat": {
@@ -903,7 +903,7 @@
     "topDestinationHosts": {
         "Pressable": 11263,
         "Kinsta": 6431,
-        "SiteGround": 5404,
+        "SiteGround": 5405,
         "Digital Ocean": 5121,
         "Bluehost": 4219,
         "Hostinger": 3627,
