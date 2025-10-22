@@ -1,6 +1,11 @@
 {
-    "siteCount": 99720,
+    "siteCount": 99729,
     "recentlyMoved": [
+        {
+            "domain_name": "www.quirkbooks.com",
+            "destination": "Kinsta",
+            "date": "2025-10-22 04:46:01"
+        },
         {
             "domain_name": "quenchwater.ca",
             "destination": "WordPress VIP",
@@ -495,11 +500,6 @@
             "domain_name": "emcexcavation.com",
             "destination": "Pressable",
             "date": "2025-10-19 17:37:35"
-        },
-        {
-            "domain_name": "clementcreativegroup.com",
-            "destination": "Pressable",
-            "date": "2025-10-19 17:25:41"
         }
     ],
     "dailyMovedStat": {
@@ -902,7 +902,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11245,
-        "Kinsta": 6393,
+        "Kinsta": 6394,
         "SiteGround": 5399,
         "Digital Ocean": 5117,
         "Bluehost": 4216,
