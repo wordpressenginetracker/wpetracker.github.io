@@ -1,6 +1,11 @@
 {
-    "siteCount": 99695,
+    "siteCount": 99699,
     "recentlyMoved": [
+        {
+            "domain_name": "omegaair.com",
+            "destination": "Pressable",
+            "date": "2025-10-21 23:13:44"
+        },
         {
             "domain_name": "endmassincarceration.org",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-10-19 16:19:48"
         },
         {
-            "domain_name": "anchorhometx.org",
-            "destination": "Pressable",
-            "date": "2025-10-19 16:12:46"
-        },
-        {
             "domain_name": "grantedks.org",
             "destination": "Hostinger",
             "date": "2025-10-19 15:55:35"
@@ -901,7 +901,7 @@
         "2025-10-21": "99695"
     },
     "topDestinationHosts": {
-        "Pressable": 11243,
+        "Pressable": 11244,
         "Kinsta": 6391,
         "SiteGround": 5399,
         "Digital Ocean": 5117,
