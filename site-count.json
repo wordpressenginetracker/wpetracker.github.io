@@ -1,6 +1,31 @@
 {
-    "siteCount": 99837,
+    "siteCount": 99862,
     "recentlyMoved": [
+        {
+            "domain_name": "holdregesoftwater.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-10-22 16:41:47"
+        },
+        {
+            "domain_name": "gillcreativeind.com",
+            "destination": "Pressable",
+            "date": "2025-10-22 16:13:35"
+        },
+        {
+            "domain_name": "reisa.ca",
+            "destination": "OVH",
+            "date": "2025-10-22 15:53:46"
+        },
+        {
+            "domain_name": "healthysmilelearning.org",
+            "destination": "Kinsta",
+            "date": "2025-10-22 15:42:29"
+        },
+        {
+            "domain_name": "afcindustriespa.com",
+            "destination": "Bluehost",
+            "date": "2025-10-22 15:33:45"
+        },
         {
             "domain_name": "mitswacotemple.com",
             "destination": "Kinsta",
@@ -472,34 +497,9 @@
             "date": "2025-10-21 13:38:08"
         },
         {
-            "domain_name": "bwdb.com",
-            "destination": "Kinsta",
-            "date": "2025-10-21 13:02:51"
-        },
-        {
             "domain_name": "compadresgolf.com",
             "destination": "SiteGround",
             "date": "2025-10-21 12:58:21"
-        },
-        {
-            "domain_name": "centralconservation.org",
-            "destination": "Kinsta",
-            "date": "2025-10-21 12:50:21"
-        },
-        {
-            "domain_name": "shop.auticiel.com",
-            "destination": "OVH",
-            "date": "2025-10-21 12:46:08"
-        },
-        {
-            "domain_name": "jewelvacations.com",
-            "destination": "SiteGround",
-            "date": "2025-10-21 12:39:58"
-        },
-        {
-            "domain_name": "infinitystonesf.com",
-            "destination": "SiteGround",
-            "date": "2025-10-21 12:03:27"
         }
     ],
     "dailyMovedStat": {
@@ -901,11 +901,11 @@
         "2025-10-21": "99695"
     },
     "topDestinationHosts": {
-        "Pressable": 11255,
-        "Kinsta": 6426,
+        "Pressable": 11256,
+        "Kinsta": 6428,
         "SiteGround": 5401,
         "Digital Ocean": 5119,
-        "Bluehost": 4216,
+        "Bluehost": 4217,
         "Hostinger": 3624,
         "GoDaddy": 1391,
         "Liquid Web": 704,
