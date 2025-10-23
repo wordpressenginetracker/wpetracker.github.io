@@ -1,6 +1,11 @@
 {
-    "siteCount": 100118,
+    "siteCount": 100120,
     "recentlyMoved": [
+        {
+            "domain_name": "normanguitars.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 14:47:51"
+        },
         {
             "domain_name": "vojohotels.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-10-22 14:13:23"
         },
         {
-            "domain_name": "mitsaggieland.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
             "domain_name": "motusaway.com",
             "destination": "SiteGround",
             "date": "2025-10-22 14:05:41"
@@ -903,11 +903,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11274,
-        "Kinsta": 6444,
+        "Kinsta": 6445,
         "SiteGround": 5408,
         "Digital Ocean": 5123,
         "Bluehost": 4220,
-        "Hostinger": 3638,
+        "Hostinger": 3639,
         "GoDaddy": 1391,
         "Liquid Web": 705,
         "BigScoots": 642,
