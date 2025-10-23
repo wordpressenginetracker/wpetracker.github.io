@@ -1,6 +1,11 @@
 {
-    "siteCount": 100213,
+    "siteCount": 100216,
     "recentlyMoved": [
+        {
+            "domain_name": "kramer-design.com",
+            "destination": "Hostinger",
+            "date": "2025-10-23 21:29:16"
+        },
         {
             "domain_name": "rarepublicrelations.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "controlandcommand.com",
             "destination": "Bluehost",
             "date": "2025-10-22 17:05:34"
-        },
-        {
-            "domain_name": "contentcatcher.com",
-            "destination": "Hostinger",
-            "date": "2025-10-22 17:05:34"
         }
     ],
     "dailyMovedStat": {
@@ -907,7 +907,7 @@
         "SiteGround": 5409,
         "Digital Ocean": 5126,
         "Bluehost": 4220,
-        "Hostinger": 3640,
+        "Hostinger": 3641,
         "GoDaddy": 1391,
         "Liquid Web": 707,
         "BigScoots": 642,
