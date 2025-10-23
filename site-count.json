@@ -1,6 +1,46 @@
 {
-    "siteCount": 100164,
+    "siteCount": 100180,
     "recentlyMoved": [
+        {
+            "domain_name": "nordicbridges.ca",
+            "destination": "OVH",
+            "date": "2025-10-23 18:19:04"
+        },
+        {
+            "domain_name": "moving.selfstorage.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 18:11:58"
+        },
+        {
+            "domain_name": "mitsclearwater.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 17:57:35"
+        },
+        {
+            "domain_name": "mitsclayton.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 17:57:35"
+        },
+        {
+            "domain_name": "mits406.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 17:57:35"
+        },
+        {
+            "domain_name": "vividvision.com",
+            "destination": "Liquid Web",
+            "date": "2025-10-23 17:54:33"
+        },
+        {
+            "domain_name": "madeintheshadeblackhills.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 17:26:03"
+        },
+        {
+            "domain_name": "madeintheshadebcint.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 17:26:03"
+        },
         {
             "domain_name": "www.mishawaii.com",
             "destination": "Kinsta",
@@ -427,11 +467,6 @@
             "date": "2025-10-22 17:29:37"
         },
         {
-            "domain_name": "childrenatplaynetwork.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-22 17:28:20"
-        },
-        {
             "domain_name": "ltiwater.com",
             "destination": "Elementor Hosting",
             "date": "2025-10-22 17:24:29"
@@ -445,11 +480,6 @@
             "domain_name": "lanahanlaw.com",
             "destination": "Elementor Hosting",
             "date": "2025-10-22 17:07:38"
-        },
-        {
-            "domain_name": "johncalvin.com",
-            "destination": "Hostinger",
-            "date": "2025-10-22 17:07:28"
         },
         {
             "domain_name": "margaritaquihuis.com",
@@ -470,36 +500,6 @@
             "domain_name": "clappercompany.com",
             "destination": "Kinsta",
             "date": "2025-10-22 17:05:33"
-        },
-        {
-            "domain_name": "sclerotrainer.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 17:02:27"
-        },
-        {
-            "domain_name": "sjcfop113.org",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 17:01:30"
-        },
-        {
-            "domain_name": "holdregesoftwater.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 16:41:47"
-        },
-        {
-            "domain_name": "ceptinc.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 16:26:57"
-        },
-        {
-            "domain_name": "iclinstitute.org",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 16:11:04"
-        },
-        {
-            "domain_name": "reisa.ca",
-            "destination": "OVH",
-            "date": "2025-10-22 15:53:46"
         }
     ],
     "dailyMovedStat": {
@@ -903,7 +903,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11278,
-        "Kinsta": 6451,
+        "Kinsta": 6457,
         "SiteGround": 5409,
         "Digital Ocean": 5126,
         "Bluehost": 4220,
@@ -913,7 +913,7 @@
         "BigScoots": 642,
         "WordPress.com": 495,
         "InMotion Hosting": 440,
-        "OVH": 428,
+        "OVH": 429,
         "GridPane": 408,
         "A2 Hosting": 394,
         "Namecheap": 374,
