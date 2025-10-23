@@ -1,6 +1,16 @@
 {
-    "siteCount": 100009,
+    "siteCount": 100018,
     "recentlyMoved": [
+        {
+            "domain_name": "adipic-acid.net",
+            "destination": "Hostinger",
+            "date": "2025-10-23 04:07:05"
+        },
+        {
+            "domain_name": "okbarents.no",
+            "destination": "Hostinger",
+            "date": "2025-10-23 03:40:59"
+        },
         {
             "domain_name": "neighborhoodchiro.com",
             "destination": "Hostinger",
@@ -462,11 +472,6 @@
             "date": "2025-10-22 08:05:21"
         },
         {
-            "domain_name": "about.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-10-22 07:46:51"
-        },
-        {
             "domain_name": "www.friendsjournal.org",
             "destination": "Kinsta",
             "date": "2025-10-22 07:42:50"
@@ -495,11 +500,6 @@
             "domain_name": "www.royalporcelain.se",
             "destination": "Digital Ocean",
             "date": "2025-10-22 07:35:20"
-        },
-        {
-            "domain_name": "orientplus.eu",
-            "destination": "Kinsta",
-            "date": "2025-10-22 07:24:02"
         }
     ],
     "dailyMovedStat": {
@@ -907,7 +907,7 @@
         "SiteGround": 5405,
         "Digital Ocean": 5122,
         "Bluehost": 4219,
-        "Hostinger": 3630,
+        "Hostinger": 3632,
         "GoDaddy": 1391,
         "Liquid Web": 705,
         "BigScoots": 642,
