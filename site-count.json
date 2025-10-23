@@ -1,6 +1,31 @@
 {
-    "siteCount": 100120,
+    "siteCount": 100144,
     "recentlyMoved": [
+        {
+            "domain_name": "quartermoore.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-10-23 16:10:56"
+        },
+        {
+            "domain_name": "authentic-moments.com",
+            "destination": "SiteGround",
+            "date": "2025-10-23 16:05:28"
+        },
+        {
+            "domain_name": "artandlutherieguitars.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 15:48:36"
+        },
+        {
+            "domain_name": "alliancemarriagefamily.com",
+            "destination": "Pressable",
+            "date": "2025-10-23 15:36:35"
+        },
+        {
+            "domain_name": "godinguitars.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 15:33:28"
+        },
         {
             "domain_name": "normanguitars.com",
             "destination": "Kinsta",
@@ -467,31 +492,6 @@
             "date": "2025-10-22 14:13:23"
         },
         {
-            "domain_name": "mitslafayette.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
-            "domain_name": "mitsel.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
-            "domain_name": "mitsedmontoneast.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
-            "domain_name": "mitseastdenver.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
-            "domain_name": "mitscasper.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 14:13:23"
-        },
-        {
             "domain_name": "motusaway.com",
             "destination": "SiteGround",
             "date": "2025-10-22 14:05:41"
@@ -902,17 +902,17 @@
         "2025-10-22": "99986"
     },
     "topDestinationHosts": {
-        "Pressable": 11274,
-        "Kinsta": 6445,
-        "SiteGround": 5408,
-        "Digital Ocean": 5123,
+        "Pressable": 11275,
+        "Kinsta": 6447,
+        "SiteGround": 5409,
+        "Digital Ocean": 5124,
         "Bluehost": 4220,
         "Hostinger": 3639,
         "GoDaddy": 1391,
         "Liquid Web": 705,
         "BigScoots": 642,
         "WordPress.com": 495,
-        "InMotion Hosting": 439,
+        "InMotion Hosting": 440,
         "OVH": 428,
         "GridPane": 408,
         "A2 Hosting": 394,
