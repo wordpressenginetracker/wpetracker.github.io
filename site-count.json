@@ -1,6 +1,16 @@
 {
-    "siteCount": 100064,
+    "siteCount": 100069,
     "recentlyMoved": [
+        {
+            "domain_name": "errigalhotel.com",
+            "destination": "Hostinger",
+            "date": "2025-10-23 09:56:36"
+        },
+        {
+            "domain_name": "marlborotowing.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 09:46:25"
+        },
         {
             "domain_name": "lunchpailservicepartners.com",
             "destination": "Elementor Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "cocoproperty.co.uk",
             "destination": "IONOS",
             "date": "2025-10-22 08:54:41"
-        },
-        {
-            "domain_name": "casefornrens.org",
-            "destination": "Kinsta",
-            "date": "2025-10-22 08:49:19"
-        },
-        {
-            "domain_name": "www.newtongaragechester.co.uk",
-            "destination": "Pressable",
-            "date": "2025-10-22 08:23:12"
         }
     ],
     "dailyMovedStat": {
@@ -903,11 +903,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11264,
-        "Kinsta": 6440,
+        "Kinsta": 6441,
         "SiteGround": 5407,
         "Digital Ocean": 5122,
         "Bluehost": 4219,
-        "Hostinger": 3634,
+        "Hostinger": 3635,
         "GoDaddy": 1391,
         "Liquid Web": 705,
         "BigScoots": 642,
@@ -919,7 +919,7 @@
         "Namecheap": 373,
         "IONOS": 369,
         "DreamHost": 361,
-        "Elementor Hosting": 355,
+        "Elementor Hosting": 356,
         "Hetzner Online": 288,
         "HostGator": 231
     },
