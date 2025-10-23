@@ -1,6 +1,46 @@
 {
-    "siteCount": 100069,
+    "siteCount": 100086,
     "recentlyMoved": [
+        {
+            "domain_name": "www.drpwderm.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 12:25:38"
+        },
+        {
+            "domain_name": "primeandproperdetroit.com",
+            "destination": "SiteGround",
+            "date": "2025-10-23 12:21:40"
+        },
+        {
+            "domain_name": "amandaganginis.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 11:58:20"
+        },
+        {
+            "domain_name": "ammoniumbicarbonate.com",
+            "destination": "Hostinger",
+            "date": "2025-10-23 11:41:01"
+        },
+        {
+            "domain_name": "aluminiumchloride.com",
+            "destination": "Hostinger",
+            "date": "2025-10-23 11:39:08"
+        },
+        {
+            "domain_name": "fidelitycontracting.com",
+            "destination": "Kinsta",
+            "date": "2025-10-23 11:34:53"
+        },
+        {
+            "domain_name": "fgatlanta.com",
+            "destination": "Namecheap",
+            "date": "2025-10-23 11:34:53"
+        },
+        {
+            "domain_name": "wescarverelectric.com",
+            "destination": "Bluehost",
+            "date": "2025-10-23 11:13:04"
+        },
         {
             "domain_name": "errigalhotel.com",
             "destination": "Hostinger",
@@ -452,16 +492,6 @@
             "date": "2025-10-22 12:00:14"
         },
         {
-            "domain_name": "westlakehardware.dev.trozzolo.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 11:48:43"
-        },
-        {
-            "domain_name": "www.andreannesylvain.ca",
-            "destination": "GridPane",
-            "date": "2025-10-22 11:46:01"
-        },
-        {
             "domain_name": "www.bestsaxophonewebsiteever.com",
             "destination": "WordPress.com",
             "date": "2025-10-22 11:43:21"
@@ -470,36 +500,6 @@
             "domain_name": "proudprick.ca",
             "destination": "InMotion Hosting",
             "date": "2025-10-22 11:37:15"
-        },
-        {
-            "domain_name": "aluminium-sulphate.com",
-            "destination": "Hostinger",
-            "date": "2025-10-22 11:23:46"
-        },
-        {
-            "domain_name": "eapconnect.eu",
-            "destination": "Kinsta",
-            "date": "2025-10-22 10:13:19"
-        },
-        {
-            "domain_name": "migreatlakesfish.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 09:44:08"
-        },
-        {
-            "domain_name": "symposium.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-10-22 09:35:14"
-        },
-        {
-            "domain_name": "trustidentity.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-10-22 09:34:12"
-        },
-        {
-            "domain_name": "cocoproperty.co.uk",
-            "destination": "IONOS",
-            "date": "2025-10-22 08:54:41"
         }
     ],
     "dailyMovedStat": {
@@ -903,11 +903,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11264,
-        "Kinsta": 6441,
-        "SiteGround": 5407,
+        "Kinsta": 6443,
+        "SiteGround": 5408,
         "Digital Ocean": 5122,
-        "Bluehost": 4219,
-        "Hostinger": 3635,
+        "Bluehost": 4220,
+        "Hostinger": 3637,
         "GoDaddy": 1391,
         "Liquid Web": 705,
         "BigScoots": 642,
@@ -916,7 +916,7 @@
         "OVH": 428,
         "GridPane": 407,
         "A2 Hosting": 394,
-        "Namecheap": 373,
+        "Namecheap": 374,
         "IONOS": 369,
         "DreamHost": 361,
         "Elementor Hosting": 356,
