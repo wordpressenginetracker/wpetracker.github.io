@@ -1,6 +1,16 @@
 {
-    "siteCount": 100180,
+    "siteCount": 100213,
     "recentlyMoved": [
+        {
+            "domain_name": "rarepublicrelations.com",
+            "destination": "Hostinger",
+            "date": "2025-10-23 19:54:23"
+        },
+        {
+            "domain_name": "a1mechanics.com",
+            "destination": "HostGator",
+            "date": "2025-10-23 19:44:24"
+        },
         {
             "domain_name": "nordicbridges.ca",
             "destination": "OVH",
@@ -477,11 +487,6 @@
             "date": "2025-10-22 17:18:38"
         },
         {
-            "domain_name": "lanahanlaw.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 17:07:38"
-        },
-        {
             "domain_name": "margaritaquihuis.com",
             "destination": "SiteGround",
             "date": "2025-10-22 17:06:40"
@@ -495,11 +500,6 @@
             "domain_name": "contentcatcher.com",
             "destination": "Hostinger",
             "date": "2025-10-22 17:05:34"
-        },
-        {
-            "domain_name": "clappercompany.com",
-            "destination": "Kinsta",
-            "date": "2025-10-22 17:05:33"
         }
     ],
     "dailyMovedStat": {
@@ -907,9 +907,9 @@
         "SiteGround": 5409,
         "Digital Ocean": 5126,
         "Bluehost": 4220,
-        "Hostinger": 3639,
+        "Hostinger": 3640,
         "GoDaddy": 1391,
-        "Liquid Web": 706,
+        "Liquid Web": 707,
         "BigScoots": 642,
         "WordPress.com": 495,
         "InMotion Hosting": 440,
@@ -921,7 +921,7 @@
         "DreamHost": 361,
         "Elementor Hosting": 356,
         "Hetzner Online": 288,
-        "HostGator": 231
+        "HostGator": 232
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
