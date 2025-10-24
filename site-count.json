@@ -1,6 +1,11 @@
 {
-    "siteCount": 100429,
+    "siteCount": 100431,
     "recentlyMoved": [
+        {
+            "domain_name": "vertexdownhole.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-24 18:27:16"
+        },
         {
             "domain_name": "transtex-llc.com",
             "destination": "Digital Ocean",
@@ -487,11 +492,6 @@
             "date": "2025-10-23 16:53:43"
         },
         {
-            "domain_name": "www.marcfey.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 16:46:38"
-        },
-        {
             "domain_name": "singlewines.com",
             "destination": "Pressable",
             "date": "2025-10-23 16:45:53"
@@ -909,7 +909,7 @@
         "Digital Ocean": 5132,
         "Bluehost": 4221,
         "Hostinger": 3651,
-        "GoDaddy": 1393,
+        "GoDaddy": 1394,
         "Liquid Web": 708,
         "BigScoots": 642,
         "WordPress.com": 498,
