@@ -1,6 +1,16 @@
 {
-    "siteCount": 100240,
+    "siteCount": 100252,
     "recentlyMoved": [
+        {
+            "domain_name": "antimonytrioxide.com",
+            "destination": "Hostinger",
+            "date": "2025-10-24 04:06:37"
+        },
+        {
+            "domain_name": "gladiusit.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 03:39:52"
+        },
         {
             "domain_name": "summitachievers.com",
             "destination": "GoDaddy",
@@ -467,11 +477,6 @@
             "date": "2025-10-22 17:44:00"
         },
         {
-            "domain_name": "customerlinkgroup.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-22 17:39:13"
-        },
-        {
             "domain_name": "mcarterdesign.com",
             "destination": "SiteGround",
             "date": "2025-10-22 17:35:18"
@@ -485,11 +490,6 @@
             "domain_name": "dreammakersvaca.com",
             "destination": "Kinsta",
             "date": "2025-10-22 17:29:37"
-        },
-        {
-            "domain_name": "ltiwater.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-22 17:24:29"
         },
         {
             "domain_name": "thewaterstoremh.com",
@@ -904,11 +904,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11278,
-        "Kinsta": 6457,
+        "Kinsta": 6458,
         "SiteGround": 5409,
         "Digital Ocean": 5126,
         "Bluehost": 4220,
-        "Hostinger": 3641,
+        "Hostinger": 3642,
         "GoDaddy": 1393,
         "Liquid Web": 707,
         "BigScoots": 642,
