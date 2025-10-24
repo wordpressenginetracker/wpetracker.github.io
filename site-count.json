@@ -1,6 +1,36 @@
 {
-    "siteCount": 100480,
+    "siteCount": 100488,
     "recentlyMoved": [
+        {
+            "domain_name": "twistedtechit.com",
+            "destination": "Pressable",
+            "date": "2025-10-24 22:07:00"
+        },
+        {
+            "domain_name": "therealmccoy.nl",
+            "destination": "Hetzner Online",
+            "date": "2025-10-24 22:00:12"
+        },
+        {
+            "domain_name": "uneomedia.com",
+            "destination": "Bluehost",
+            "date": "2025-10-24 21:51:50"
+        },
+        {
+            "domain_name": "lvzinc.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 21:50:59"
+        },
+        {
+            "domain_name": "lopilatoconstruction.com",
+            "destination": "Pressable",
+            "date": "2025-10-24 21:44:03"
+        },
+        {
+            "domain_name": "sunguardtint.com",
+            "destination": "Pressable",
+            "date": "2025-10-24 21:21:21"
+        },
         {
             "domain_name": "www.langaraarms.com",
             "destination": "Digital Ocean",
@@ -467,39 +497,9 @@
             "date": "2025-10-23 19:44:24"
         },
         {
-            "domain_name": "nordicbridges.ca",
-            "destination": "OVH",
-            "date": "2025-10-23 18:19:04"
-        },
-        {
-            "domain_name": "moving.selfstorage.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 18:11:58"
-        },
-        {
-            "domain_name": "mitsclearwater.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 17:57:35"
-        },
-        {
-            "domain_name": "mitsclayton.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 17:57:35"
-        },
-        {
-            "domain_name": "mits406.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 17:57:35"
-        },
-        {
             "domain_name": "vividvision.com",
             "destination": "Liquid Web",
             "date": "2025-10-23 17:54:33"
-        },
-        {
-            "domain_name": "madeintheshadeblackhills.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 17:26:03"
         }
     ],
     "dailyMovedStat": {
@@ -903,11 +903,11 @@
         "2025-10-23": "100219"
     },
     "topDestinationHosts": {
-        "Pressable": 11284,
-        "Kinsta": 6499,
+        "Pressable": 11287,
+        "Kinsta": 6500,
         "SiteGround": 5414,
-        "Digital Ocean": 5134,
-        "Bluehost": 4223,
+        "Digital Ocean": 5135,
+        "Bluehost": 4224,
         "Hostinger": 3652,
         "GoDaddy": 1394,
         "Liquid Web": 708,
@@ -921,7 +921,7 @@
         "IONOS": 370,
         "DreamHost": 361,
         "Elementor Hosting": 359,
-        "Hetzner Online": 289,
+        "Hetzner Online": 290,
         "HostGator": 233
     },
     "dailyTotalStat": {
