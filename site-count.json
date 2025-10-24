@@ -1,6 +1,71 @@
 {
-    "siteCount": 100401,
+    "siteCount": 100429,
     "recentlyMoved": [
+        {
+            "domain_name": "transtex-llc.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-24 18:19:13"
+        },
+        {
+            "domain_name": "meyersayers.com",
+            "destination": "SiteGround",
+            "date": "2025-10-24 17:55:04"
+        },
+        {
+            "domain_name": "mitswilmington.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitswest.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsroguevalley.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsprosper.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsnashville.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsnaples.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsheartland.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "mitsblindsnorthdfw.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:53:53"
+        },
+        {
+            "domain_name": "madeintheshadewi.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:47:00"
+        },
+        {
+            "domain_name": "madeintheshadesa.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:47:00"
+        },
+        {
+            "domain_name": "madeintheshadekansas.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 17:47:00"
+        },
         {
             "domain_name": "kellyexpressmart.com",
             "destination": "WordPress.com",
@@ -10,6 +75,11 @@
             "domain_name": "kariwhitmaninteriors.com",
             "destination": "Bluehost",
             "date": "2025-10-24 17:28:59"
+        },
+        {
+            "domain_name": "collaborationcube.auxano.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-24 17:25:53"
         },
         {
             "domain_name": "khapoconstruction.com",
@@ -407,11 +477,6 @@
             "date": "2025-10-23 17:16:59"
         },
         {
-            "domain_name": "boislaurentides.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-23 17:03:32"
-        },
-        {
             "domain_name": "snap-vodka.com",
             "destination": "Pressable",
             "date": "2025-10-23 16:57:55"
@@ -435,71 +500,6 @@
             "domain_name": "simonandpatrick.com",
             "destination": "Kinsta",
             "date": "2025-10-23 16:45:25"
-        },
-        {
-            "domain_name": "rpmmachinery.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 16:23:25"
-        },
-        {
-            "domain_name": "quartermoore.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-10-23 16:10:56"
-        },
-        {
-            "domain_name": "blog.storage.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 16:09:57"
-        },
-        {
-            "domain_name": "authentic-moments.com",
-            "destination": "SiteGround",
-            "date": "2025-10-23 16:05:28"
-        },
-        {
-            "domain_name": "artandlutherieguitars.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 15:48:36"
-        },
-        {
-            "domain_name": "alliancemarriagefamily.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 15:36:35"
-        },
-        {
-            "domain_name": "godinguitars.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 15:33:28"
-        },
-        {
-            "domain_name": "normanguitars.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 14:47:51"
-        },
-        {
-            "domain_name": "vojohotels.com",
-            "destination": "Hostinger",
-            "date": "2025-10-23 14:03:52"
-        },
-        {
-            "domain_name": "www.waughcellars.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 14:03:45"
-        },
-        {
-            "domain_name": "cudriveamerica.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 14:02:23"
-        },
-        {
-            "domain_name": "marcumtech.com",
-            "destination": "GridPane",
-            "date": "2025-10-23 13:22:52"
-        },
-        {
-            "domain_name": "marcpotocskyart.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 13:22:52"
         }
     ],
     "dailyMovedStat": {
@@ -904,9 +904,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11284,
-        "Kinsta": 6487,
-        "SiteGround": 5413,
-        "Digital Ocean": 5130,
+        "Kinsta": 6498,
+        "SiteGround": 5414,
+        "Digital Ocean": 5132,
         "Bluehost": 4221,
         "Hostinger": 3651,
         "GoDaddy": 1393,
