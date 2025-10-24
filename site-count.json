@@ -1,6 +1,41 @@
 {
-    "siteCount": 100361,
+    "siteCount": 100382,
     "recentlyMoved": [
+        {
+            "domain_name": "philix.fr",
+            "destination": "OVH",
+            "date": "2025-10-24 16:13:26"
+        },
+        {
+            "domain_name": "future-foundation.com",
+            "destination": "Pressable",
+            "date": "2025-10-24 16:10:13"
+        },
+        {
+            "domain_name": "pyleauto.com",
+            "destination": "Pressable",
+            "date": "2025-10-24 16:09:47"
+        },
+        {
+            "domain_name": "affinitypts.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-10-24 15:59:02"
+        },
+        {
+            "domain_name": "gdm-inc.com",
+            "destination": "Kinsta",
+            "date": "2025-10-24 15:44:04"
+        },
+        {
+            "domain_name": "orangecountyroofrepair.com",
+            "destination": "SiteGround",
+            "date": "2025-10-24 15:29:05"
+        },
+        {
+            "domain_name": "weaverexcavating.net",
+            "destination": "Kinsta",
+            "date": "2025-10-24 15:24:36"
+        },
         {
             "domain_name": "nmp.com",
             "destination": "Digital Ocean",
@@ -465,41 +500,6 @@
             "domain_name": "www.drpwderm.com",
             "destination": "Kinsta",
             "date": "2025-10-23 12:25:38"
-        },
-        {
-            "domain_name": "primeandproperdetroit.com",
-            "destination": "SiteGround",
-            "date": "2025-10-23 12:21:40"
-        },
-        {
-            "domain_name": "amandaganginis.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 11:58:20"
-        },
-        {
-            "domain_name": "ammoniumbicarbonate.com",
-            "destination": "Hostinger",
-            "date": "2025-10-23 11:41:01"
-        },
-        {
-            "domain_name": "aluminiumchloride.com",
-            "destination": "Hostinger",
-            "date": "2025-10-23 11:39:08"
-        },
-        {
-            "domain_name": "fidelitycontracting.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 11:34:53"
-        },
-        {
-            "domain_name": "fgatlanta.com",
-            "destination": "Namecheap",
-            "date": "2025-10-23 11:34:53"
-        },
-        {
-            "domain_name": "wescarverelectric.com",
-            "destination": "Bluehost",
-            "date": "2025-10-23 11:13:04"
         }
     ],
     "dailyMovedStat": {
@@ -903,9 +903,9 @@
         "2025-10-23": "100219"
     },
     "topDestinationHosts": {
-        "Pressable": 11282,
-        "Kinsta": 6481,
-        "SiteGround": 5411,
+        "Pressable": 11284,
+        "Kinsta": 6483,
+        "SiteGround": 5412,
         "Digital Ocean": 5130,
         "Bluehost": 4220,
         "Hostinger": 3651,
@@ -914,13 +914,13 @@
         "BigScoots": 642,
         "WordPress.com": 496,
         "InMotion Hosting": 440,
-        "OVH": 430,
+        "OVH": 431,
         "GridPane": 408,
         "A2 Hosting": 394,
         "Namecheap": 374,
         "IONOS": 370,
         "DreamHost": 361,
-        "Elementor Hosting": 358,
+        "Elementor Hosting": 359,
         "Hetzner Online": 289,
         "HostGator": 232
     },
