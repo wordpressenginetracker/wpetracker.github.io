@@ -1,6 +1,11 @@
 {
-    "siteCount": 100219,
+    "siteCount": 100222,
     "recentlyMoved": [
+        {
+            "domain_name": "raeleneschulmeister.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-24 00:12:36"
+        },
         {
             "domain_name": "kramer-design.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "margaritaquihuis.com",
             "destination": "SiteGround",
             "date": "2025-10-22 17:06:40"
-        },
-        {
-            "domain_name": "controlandcommand.com",
-            "destination": "Bluehost",
-            "date": "2025-10-22 17:05:34"
         }
     ],
     "dailyMovedStat": {
@@ -909,7 +909,7 @@
         "Digital Ocean": 5126,
         "Bluehost": 4220,
         "Hostinger": 3641,
-        "GoDaddy": 1391,
+        "GoDaddy": 1392,
         "Liquid Web": 707,
         "BigScoots": 642,
         "WordPress.com": 495,
