@@ -1,6 +1,21 @@
 {
-    "siteCount": 100312,
+    "siteCount": 100320,
     "recentlyMoved": [
+        {
+            "domain_name": "praktijkkijk.nl",
+            "destination": "Hetzner Online",
+            "date": "2025-10-24 12:19:21"
+        },
+        {
+            "domain_name": "partner.geant.org",
+            "destination": "Kinsta",
+            "date": "2025-10-24 11:43:12"
+        },
+        {
+            "domain_name": "www.alonsofamilydental.com",
+            "destination": "SiteGround",
+            "date": "2025-10-24 11:42:28"
+        },
         {
             "domain_name": "npapws.org",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "okbarents.no",
             "destination": "Hostinger",
             "date": "2025-10-23 03:40:59"
-        },
-        {
-            "domain_name": "neighborhoodchiro.com",
-            "destination": "Hostinger",
-            "date": "2025-10-23 02:34:57"
-        },
-        {
-            "domain_name": "su4christ.org",
-            "destination": "Pressable",
-            "date": "2025-10-23 01:34:35"
-        },
-        {
-            "domain_name": "greaterworksinnovations.com",
-            "destination": "Hostinger",
-            "date": "2025-10-22 23:52:59"
         }
     ],
     "dailyMovedStat": {
@@ -904,8 +904,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11278,
-        "Kinsta": 6475,
-        "SiteGround": 5410,
+        "Kinsta": 6476,
+        "SiteGround": 5411,
         "Digital Ocean": 5128,
         "Bluehost": 4220,
         "Hostinger": 3647,
@@ -921,7 +921,7 @@
         "IONOS": 370,
         "DreamHost": 361,
         "Elementor Hosting": 356,
-        "Hetzner Online": 288,
+        "Hetzner Online": 289,
         "HostGator": 232
     },
     "dailyTotalStat": {
