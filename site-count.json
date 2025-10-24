@@ -1,6 +1,21 @@
 {
-    "siteCount": 100431,
+    "siteCount": 100471,
     "recentlyMoved": [
+        {
+            "domain_name": "plymouthlaserandsurgicalcenter.com",
+            "destination": "GridPane",
+            "date": "2025-10-24 20:05:05"
+        },
+        {
+            "domain_name": "overwatchprotective.com",
+            "destination": "Hostinger",
+            "date": "2025-10-24 19:54:34"
+        },
+        {
+            "domain_name": "addinsight.net",
+            "destination": "HostGator",
+            "date": "2025-10-24 19:48:08"
+        },
         {
             "domain_name": "vertexdownhole.com",
             "destination": "GoDaddy",
@@ -477,11 +492,6 @@
             "date": "2025-10-23 17:26:03"
         },
         {
-            "domain_name": "www.mishawaii.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 17:16:59"
-        },
-        {
             "domain_name": "snap-vodka.com",
             "destination": "Pressable",
             "date": "2025-10-23 16:57:55"
@@ -490,16 +500,6 @@
             "domain_name": "cedarsinaipark.org",
             "destination": "Digital Ocean",
             "date": "2025-10-23 16:53:43"
-        },
-        {
-            "domain_name": "singlewines.com",
-            "destination": "Pressable",
-            "date": "2025-10-23 16:45:53"
-        },
-        {
-            "domain_name": "simonandpatrick.com",
-            "destination": "Kinsta",
-            "date": "2025-10-23 16:45:25"
         }
     ],
     "dailyMovedStat": {
@@ -904,25 +904,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 11284,
-        "Kinsta": 6498,
+        "Kinsta": 6499,
         "SiteGround": 5414,
         "Digital Ocean": 5132,
         "Bluehost": 4221,
-        "Hostinger": 3651,
+        "Hostinger": 3652,
         "GoDaddy": 1394,
         "Liquid Web": 708,
         "BigScoots": 642,
         "WordPress.com": 498,
         "InMotion Hosting": 440,
         "OVH": 431,
-        "GridPane": 410,
+        "GridPane": 411,
         "A2 Hosting": 394,
         "Namecheap": 374,
         "IONOS": 370,
         "DreamHost": 361,
         "Elementor Hosting": 359,
         "Hetzner Online": 289,
-        "HostGator": 232
+        "HostGator": 233
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
