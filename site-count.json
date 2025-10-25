@@ -1,10 +1,15 @@
 {
-    "siteCount": 100756,
+    "siteCount": 100762,
     "recentlyMoved": [
         {
             "domain_name": "stuartdesignco.com",
             "destination": "Bluehost",
             "date": "2025-10-25 21:30:54"
+        },
+        {
+            "domain_name": "thelegacyatoakhill.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-25 21:27:43"
         },
         {
             "domain_name": "shorelinemedical.ca",
@@ -472,11 +477,6 @@
             "date": "2025-10-24 17:30:29"
         },
         {
-            "domain_name": "kariwhitmaninteriors.com",
-            "destination": "Bluehost",
-            "date": "2025-10-24 17:28:59"
-        },
-        {
             "domain_name": "collaborationcube.auxano.com",
             "destination": "Digital Ocean",
             "date": "2025-10-24 17:25:53"
@@ -904,10 +904,10 @@
         "2025-10-24": "100490"
     },
     "topDestinationHosts": {
-        "Pressable": 11299,
+        "Pressable": 11300,
         "Kinsta": 6510,
         "SiteGround": 5425,
-        "Digital Ocean": 5140,
+        "Digital Ocean": 5141,
         "Bluehost": 4229,
         "Hostinger": 3664,
         "GoDaddy": 1397,
