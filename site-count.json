@@ -1,6 +1,26 @@
 {
-    "siteCount": 100679,
+    "siteCount": 100743,
     "recentlyMoved": [
+        {
+            "domain_name": "recoveredman.com",
+            "destination": "Pressable",
+            "date": "2025-10-25 20:38:41"
+        },
+        {
+            "domain_name": "qtooth.com",
+            "destination": "Bluehost",
+            "date": "2025-10-25 20:27:28"
+        },
+        {
+            "domain_name": "precision-detailing.com",
+            "destination": "SiteGround",
+            "date": "2025-10-25 20:21:50"
+        },
+        {
+            "domain_name": "www.sodpmedia.com",
+            "destination": "Hostinger",
+            "date": "2025-10-25 19:53:47"
+        },
         {
             "domain_name": "mpcdelivery.com",
             "destination": "OVH",
@@ -472,34 +492,14 @@
             "date": "2025-10-24 16:13:26"
         },
         {
-            "domain_name": "future-foundation.com",
-            "destination": "Pressable",
-            "date": "2025-10-24 16:10:13"
-        },
-        {
             "domain_name": "pyleauto.com",
             "destination": "Pressable",
             "date": "2025-10-24 16:09:47"
         },
         {
-            "domain_name": "affinitypts.com",
-            "destination": "Elementor Hosting",
-            "date": "2025-10-24 15:59:02"
-        },
-        {
             "domain_name": "gdm-inc.com",
             "destination": "Kinsta",
             "date": "2025-10-24 15:44:04"
-        },
-        {
-            "domain_name": "orangecountyroofrepair.com",
-            "destination": "SiteGround",
-            "date": "2025-10-24 15:29:05"
-        },
-        {
-            "domain_name": "weaverexcavating.net",
-            "destination": "Kinsta",
-            "date": "2025-10-24 15:24:36"
         }
     ],
     "dailyMovedStat": {
@@ -906,12 +906,12 @@
     "topDestinationHosts": {
         "Pressable": 11298,
         "Kinsta": 6508,
-        "SiteGround": 5424,
-        "Digital Ocean": 5139,
-        "Bluehost": 4227,
-        "Hostinger": 3663,
+        "SiteGround": 5425,
+        "Digital Ocean": 5140,
+        "Bluehost": 4228,
+        "Hostinger": 3664,
         "GoDaddy": 1396,
-        "Liquid Web": 708,
+        "Liquid Web": 709,
         "BigScoots": 642,
         "WordPress.com": 499,
         "InMotion Hosting": 441,
