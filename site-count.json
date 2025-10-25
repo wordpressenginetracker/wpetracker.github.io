@@ -1,6 +1,21 @@
 {
-    "siteCount": 100573,
+    "siteCount": 100582,
     "recentlyMoved": [
+        {
+            "domain_name": "multicretesystems.com",
+            "destination": "Kinsta",
+            "date": "2025-10-25 10:07:22"
+        },
+        {
+            "domain_name": "doaroomescape.com",
+            "destination": "Kinsta",
+            "date": "2025-10-25 10:02:01"
+        },
+        {
+            "domain_name": "www.windsoraughtry.com",
+            "destination": "Pressable",
+            "date": "2025-10-25 09:12:51"
+        },
         {
             "domain_name": "classes.alexandriaprofessional.com",
             "destination": "DreamHost",
@@ -477,11 +492,6 @@
             "date": "2025-10-24 08:46:51"
         },
         {
-            "domain_name": "www.eastcoasttrailersandhorsefloats.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-24 08:41:28"
-        },
-        {
             "domain_name": "www.groundedflooring.com.au",
             "destination": "Kinsta",
             "date": "2025-10-24 08:13:52"
@@ -490,16 +500,6 @@
             "domain_name": "www.grothandsonsinteriors.com.au",
             "destination": "Kinsta",
             "date": "2025-10-24 08:13:52"
-        },
-        {
-            "domain_name": "www.greenacrefamilydentist.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-24 08:13:52"
-        },
-        {
-            "domain_name": "ar2021.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-10-24 08:08:03"
         }
     ],
     "dailyMovedStat": {
@@ -904,8 +904,8 @@
         "2025-10-24": "100490"
     },
     "topDestinationHosts": {
-        "Pressable": 11289,
-        "Kinsta": 6502,
+        "Pressable": 11290,
+        "Kinsta": 6504,
         "SiteGround": 5416,
         "Digital Ocean": 5135,
         "Bluehost": 4224,
