@@ -1,6 +1,16 @@
 {
-    "siteCount": 100529,
+    "siteCount": 100539,
     "recentlyMoved": [
+        {
+            "domain_name": "averagejoeseyewear.com",
+            "destination": "Hostinger",
+            "date": "2025-10-25 03:56:16"
+        },
+        {
+            "domain_name": "agritechresources.com",
+            "destination": "Kinsta",
+            "date": "2025-10-25 03:19:16"
+        },
         {
             "domain_name": "chemicalsblog.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "tribeca.london",
             "destination": "Digital Ocean",
             "date": "2025-10-24 05:49:00"
-        },
-        {
-            "domain_name": "tfdservices.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-24 05:41:23"
-        },
-        {
-            "domain_name": "www.midnorthassociation.org",
-            "destination": "Kinsta",
-            "date": "2025-10-24 04:48:16"
         }
     ],
     "dailyMovedStat": {
@@ -905,11 +905,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11289,
-        "Kinsta": 6501,
+        "Kinsta": 6502,
         "SiteGround": 5414,
         "Digital Ocean": 5135,
         "Bluehost": 4224,
-        "Hostinger": 3657,
+        "Hostinger": 3658,
         "GoDaddy": 1394,
         "Liquid Web": 708,
         "BigScoots": 642,
