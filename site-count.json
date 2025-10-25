@@ -1,6 +1,11 @@
 {
-    "siteCount": 100490,
+    "siteCount": 100503,
     "recentlyMoved": [
+        {
+            "domain_name": "floodandfire.com",
+            "destination": "Hostinger",
+            "date": "2025-10-24 23:44:49"
+        },
         {
             "domain_name": "nsplasticsurgery.co.nz",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rarepublicrelations.com",
             "destination": "Hostinger",
             "date": "2025-10-23 19:54:23"
-        },
-        {
-            "domain_name": "a1mechanics.com",
-            "destination": "HostGator",
-            "date": "2025-10-23 19:44:24"
         }
     ],
     "dailyMovedStat": {
@@ -909,7 +909,7 @@
         "SiteGround": 5414,
         "Digital Ocean": 5135,
         "Bluehost": 4224,
-        "Hostinger": 3652,
+        "Hostinger": 3653,
         "GoDaddy": 1394,
         "Liquid Web": 708,
         "BigScoots": 642,
