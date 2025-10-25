@@ -1,6 +1,26 @@
 {
-    "siteCount": 100554,
+    "siteCount": 100563,
     "recentlyMoved": [
+        {
+            "domain_name": "hayakalmasih.org",
+            "destination": "SiteGround",
+            "date": "2025-10-25 08:21:42"
+        },
+        {
+            "domain_name": "hiresociety.com",
+            "destination": "SiteGround",
+            "date": "2025-10-25 08:21:38"
+        },
+        {
+            "domain_name": "gpp.uk.com",
+            "destination": "IONOS",
+            "date": "2025-10-25 07:53:50"
+        },
+        {
+            "domain_name": "wilschroder.com",
+            "destination": "Hostinger",
+            "date": "2025-10-25 07:35:02"
+        },
         {
             "domain_name": "averagejoeseyewear.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "ar2018.geant.org",
             "destination": "Kinsta",
             "date": "2025-10-24 08:08:03"
-        },
-        {
-            "domain_name": "ar2017.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-10-24 08:08:03"
-        },
-        {
-            "domain_name": "africaconnect3.net",
-            "destination": "Kinsta",
-            "date": "2025-10-24 07:17:05"
-        },
-        {
-            "domain_name": "explaineverything.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 06:03:20"
-        },
-        {
-            "domain_name": "tribeca.london",
-            "destination": "Digital Ocean",
-            "date": "2025-10-24 05:49:00"
         }
     ],
     "dailyMovedStat": {
@@ -906,10 +906,10 @@
     "topDestinationHosts": {
         "Pressable": 11289,
         "Kinsta": 6502,
-        "SiteGround": 5414,
+        "SiteGround": 5416,
         "Digital Ocean": 5135,
         "Bluehost": 4224,
-        "Hostinger": 3658,
+        "Hostinger": 3659,
         "GoDaddy": 1394,
         "Liquid Web": 708,
         "BigScoots": 642,
@@ -919,7 +919,7 @@
         "GridPane": 411,
         "A2 Hosting": 394,
         "Namecheap": 374,
-        "IONOS": 370,
+        "IONOS": 371,
         "DreamHost": 361,
         "Elementor Hosting": 359,
         "Hetzner Online": 290,
