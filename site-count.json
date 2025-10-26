@@ -1,6 +1,16 @@
 {
-    "siteCount": 100814,
+    "siteCount": 100828,
     "recentlyMoved": [
+        {
+            "domain_name": "bahamasoceansafaris.com",
+            "destination": "Hostinger",
+            "date": "2025-10-26 20:26:04"
+        },
+        {
+            "domain_name": "alexanderandco.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-26 19:44:50"
+        },
         {
             "domain_name": "www.markusfeldrestoration.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "mitsnashville.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitsnaples.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitsheartland.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
         }
     ],
     "dailyMovedStat": {
@@ -907,10 +907,10 @@
     "topDestinationHosts": {
         "Pressable": 11300,
         "Kinsta": 6511,
-        "SiteGround": 5426,
+        "SiteGround": 5427,
         "Digital Ocean": 5141,
-        "Bluehost": 4230,
-        "Hostinger": 3670,
+        "Bluehost": 4231,
+        "Hostinger": 3671,
         "GoDaddy": 1398,
         "Liquid Web": 709,
         "BigScoots": 643,
@@ -918,7 +918,7 @@
         "InMotion Hosting": 441,
         "OVH": 433,
         "GridPane": 411,
-        "A2 Hosting": 394,
+        "A2 Hosting": 395,
         "Namecheap": 374,
         "IONOS": 373,
         "DreamHost": 363,
