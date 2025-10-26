@@ -1,6 +1,11 @@
 {
-    "siteCount": 100790,
+    "siteCount": 100793,
     "recentlyMoved": [
+        {
+            "domain_name": "www.prettyuninterestingdude.com",
+            "destination": "Hostinger",
+            "date": "2025-10-26 13:00:51"
+        },
         {
             "domain_name": "qrco.ca",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-10-24 17:25:53"
         },
         {
-            "domain_name": "khapoconstruction.com",
-            "destination": "SiteGround",
-            "date": "2025-10-24 17:21:01"
-        },
-        {
             "domain_name": "southmsmits.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:01:03"
@@ -910,7 +910,7 @@
         "SiteGround": 5426,
         "Digital Ocean": 5141,
         "Bluehost": 4229,
-        "Hostinger": 3665,
+        "Hostinger": 3666,
         "GoDaddy": 1398,
         "Liquid Web": 709,
         "BigScoots": 642,
