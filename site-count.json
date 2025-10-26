@@ -1,6 +1,11 @@
 {
-    "siteCount": 100830,
+    "siteCount": 100832,
     "recentlyMoved": [
+        {
+            "domain_name": "yourday1dental.com",
+            "destination": "GridPane",
+            "date": "2025-10-26 21:21:41"
+        },
         {
             "domain_name": "bahamasoceansafaris.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mitsprosper.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitsnashville.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
         }
     ],
     "dailyMovedStat": {
@@ -917,7 +917,7 @@
         "WordPress.com": 500,
         "InMotion Hosting": 441,
         "OVH": 433,
-        "GridPane": 411,
+        "GridPane": 412,
         "A2 Hosting": 395,
         "Namecheap": 374,
         "IONOS": 373,
