@@ -1,6 +1,11 @@
 {
-    "siteCount": 100780,
+    "siteCount": 100786,
     "recentlyMoved": [
+        {
+            "domain_name": "qrco.ca",
+            "destination": "Hostinger",
+            "date": "2025-10-26 07:56:24"
+        },
         {
             "domain_name": "standard.ai",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-10-24 17:21:01"
         },
         {
-            "domain_name": "www.naniweddingshawaii.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:03:32"
-        },
-        {
             "domain_name": "southmsmits.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:01:03"
@@ -910,7 +910,7 @@
         "SiteGround": 5426,
         "Digital Ocean": 5141,
         "Bluehost": 4229,
-        "Hostinger": 3664,
+        "Hostinger": 3665,
         "GoDaddy": 1398,
         "Liquid Web": 709,
         "BigScoots": 642,
