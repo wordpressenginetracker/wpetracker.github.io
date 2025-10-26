@@ -1,6 +1,11 @@
 {
-    "siteCount": 100762,
+    "siteCount": 100766,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ffoxlaw.legal",
+            "destination": "WordPress.com",
+            "date": "2025-10-25 23:16:44"
+        },
         {
             "domain_name": "stuartdesignco.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "southmsmits.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:01:03"
-        },
-        {
-            "domain_name": "www.mvesc.org",
-            "destination": "Kinsta",
-            "date": "2025-10-24 16:34:00"
         }
     ],
     "dailyMovedStat": {
@@ -914,7 +914,7 @@
         "GoDaddy": 1397,
         "Liquid Web": 709,
         "BigScoots": 642,
-        "WordPress.com": 499,
+        "WordPress.com": 500,
         "InMotion Hosting": 441,
         "OVH": 433,
         "GridPane": 411,
