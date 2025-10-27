@@ -1,6 +1,11 @@
 {
-    "siteCount": 100861,
+    "siteCount": 100862,
     "recentlyMoved": [
+        {
+            "domain_name": "www.roddersjournal.com",
+            "destination": "GoDaddy",
+            "date": "2025-10-27 09:36:37"
+        },
         {
             "domain_name": "developromefloyd.com",
             "destination": "InMotion Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-10-24 20:05:05"
         },
         {
-            "domain_name": "overwatchprotective.com",
-            "destination": "Hostinger",
-            "date": "2025-10-24 19:54:34"
-        },
-        {
             "domain_name": "addinsight.net",
             "destination": "HostGator",
             "date": "2025-10-24 19:48:08"
@@ -912,7 +912,7 @@
         "Digital Ocean": 5141,
         "Bluehost": 4231,
         "Hostinger": 3671,
-        "GoDaddy": 1398,
+        "GoDaddy": 1399,
         "Liquid Web": 709,
         "BigScoots": 643,
         "WordPress.com": 500,
