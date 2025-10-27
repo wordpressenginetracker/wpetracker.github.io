@@ -1,6 +1,16 @@
 {
-    "siteCount": 100832,
+    "siteCount": 100838,
     "recentlyMoved": [
+        {
+            "domain_name": "greenacresmi.com",
+            "destination": "SiteGround",
+            "date": "2025-10-27 00:21:08"
+        },
+        {
+            "domain_name": "heritagehallowfarm.com",
+            "destination": "Namecheap",
+            "date": "2025-10-27 00:09:41"
+        },
         {
             "domain_name": "yourday1dental.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "mitswest.com",
             "destination": "Kinsta",
             "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitsroguevalley.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitsprosper.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
         }
     ],
     "dailyMovedStat": {
@@ -908,7 +908,7 @@
     "topDestinationHosts": {
         "Pressable": 11300,
         "Kinsta": 6511,
-        "SiteGround": 5427,
+        "SiteGround": 5428,
         "Digital Ocean": 5141,
         "Bluehost": 4231,
         "Hostinger": 3671,
@@ -920,7 +920,7 @@
         "OVH": 433,
         "GridPane": 412,
         "A2 Hosting": 395,
-        "Namecheap": 374,
+        "Namecheap": 375,
         "IONOS": 373,
         "DreamHost": 363,
         "Elementor Hosting": 359,
