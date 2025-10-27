@@ -1,6 +1,21 @@
 {
-    "siteCount": 100838,
+    "siteCount": 100847,
     "recentlyMoved": [
+        {
+            "domain_name": "www.psychic.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-10-27 01:02:04"
+        },
+        {
+            "domain_name": "softswiss-casinos.com",
+            "destination": "Namecheap",
+            "date": "2025-10-27 00:59:26"
+        },
+        {
+            "domain_name": "seagullguitars.com",
+            "destination": "Kinsta",
+            "date": "2025-10-27 00:28:10"
+        },
         {
             "domain_name": "greenacresmi.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "vertexdownhole.com",
             "destination": "GoDaddy",
             "date": "2025-10-24 18:27:16"
-        },
-        {
-            "domain_name": "transtex-llc.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-24 18:19:13"
-        },
-        {
-            "domain_name": "mitswilmington.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
-        },
-        {
-            "domain_name": "mitswest.com",
-            "destination": "Kinsta",
-            "date": "2025-10-24 17:53:53"
         }
     ],
     "dailyMovedStat": {
@@ -907,8 +907,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11300,
-        "Kinsta": 6511,
-        "SiteGround": 5428,
+        "Kinsta": 6512,
+        "SiteGround": 5429,
         "Digital Ocean": 5141,
         "Bluehost": 4231,
         "Hostinger": 3671,
@@ -920,7 +920,7 @@
         "OVH": 433,
         "GridPane": 412,
         "A2 Hosting": 395,
-        "Namecheap": 375,
+        "Namecheap": 376,
         "IONOS": 373,
         "DreamHost": 363,
         "Elementor Hosting": 359,
