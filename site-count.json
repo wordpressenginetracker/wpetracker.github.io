@@ -1,6 +1,31 @@
 {
-    "siteCount": 100952,
+    "siteCount": 100967,
     "recentlyMoved": [
+        {
+            "domain_name": "soilfood.se",
+            "destination": "Hetzner Online",
+            "date": "2025-10-28 09:07:57"
+        },
+        {
+            "domain_name": "soilfood.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-10-28 09:07:57"
+        },
+        {
+            "domain_name": "janschwegler.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-28 08:52:16"
+        },
+        {
+            "domain_name": "conferences.banneroftruth.org",
+            "destination": "Kinsta",
+            "date": "2025-10-28 08:49:46"
+        },
+        {
+            "domain_name": "birminghamartsed.org",
+            "destination": "Hostinger",
+            "date": "2025-10-28 08:19:28"
+        },
         {
             "domain_name": "www.stateofdigitalpublishing.com",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "wilschroder.com",
             "destination": "Hostinger",
             "date": "2025-10-25 07:35:02"
-        },
-        {
-            "domain_name": "averagejoeseyewear.com",
-            "destination": "Hostinger",
-            "date": "2025-10-25 03:56:16"
-        },
-        {
-            "domain_name": "agritechresources.com",
-            "destination": "Kinsta",
-            "date": "2025-10-25 03:19:16"
-        },
-        {
-            "domain_name": "chemicalsblog.com",
-            "destination": "Hostinger",
-            "date": "2025-10-25 01:15:38"
-        },
-        {
-            "domain_name": "carriagehouseplus.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-10-25 01:13:57"
-        },
-        {
-            "domain_name": "luftagency.com",
-            "destination": "WordPress.com",
-            "date": "2025-10-25 00:59:36"
         }
     ],
     "dailyMovedStat": {
@@ -908,11 +908,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11305,
-        "Kinsta": 6513,
+        "Kinsta": 6514,
         "SiteGround": 5433,
-        "Digital Ocean": 5145,
+        "Digital Ocean": 5146,
         "Bluehost": 4231,
-        "Hostinger": 3676,
+        "Hostinger": 3677,
         "GoDaddy": 1399,
         "Liquid Web": 710,
         "BigScoots": 643,
@@ -925,7 +925,7 @@
         "IONOS": 373,
         "DreamHost": 364,
         "Elementor Hosting": 360,
-        "Hetzner Online": 291,
+        "Hetzner Online": 293,
         "HostGator": 233
     },
     "dailyTotalStat": {
