@@ -1,6 +1,16 @@
 {
-    "siteCount": 100933,
+    "siteCount": 100935,
     "recentlyMoved": [
+        {
+            "domain_name": "austclimate.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-28 04:19:29"
+        },
+        {
+            "domain_name": "onearabic.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-10-28 03:39:29"
+        },
         {
             "domain_name": "jeffdial.org",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.keyautomation.com.au",
             "destination": "Kinsta",
             "date": "2025-10-25 00:24:12"
-        },
-        {
-            "domain_name": "floodandfire.com",
-            "destination": "Hostinger",
-            "date": "2025-10-24 23:44:49"
-        },
-        {
-            "domain_name": "nsplasticsurgery.co.nz",
-            "destination": "Pressable",
-            "date": "2025-10-24 22:15:03"
         }
     ],
     "dailyMovedStat": {
@@ -908,7 +908,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11304,
-        "Kinsta": 6512,
+        "Kinsta": 6513,
         "SiteGround": 5433,
         "Digital Ocean": 5145,
         "Bluehost": 4231,
@@ -924,7 +924,7 @@
         "Namecheap": 377,
         "IONOS": 373,
         "DreamHost": 364,
-        "Elementor Hosting": 359,
+        "Elementor Hosting": 360,
         "Hetzner Online": 291,
         "HostGator": 233
     },
