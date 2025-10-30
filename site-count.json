@@ -1,6 +1,21 @@
 {
-    "siteCount": 101364,
+    "siteCount": 101372,
     "recentlyMoved": [
+        {
+            "domain_name": "highbuild.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-30 00:11:42"
+        },
+        {
+            "domain_name": "hickeyoatley.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-30 00:11:42"
+        },
+        {
+            "domain_name": "forneyenterprisekava.com",
+            "destination": "SiteGround",
+            "date": "2025-10-29 23:49:12"
+        },
         {
             "domain_name": "voter.democrat",
             "destination": "WordPress.com",
@@ -482,24 +497,9 @@
             "date": "2025-10-28 20:54:34"
         },
         {
-            "domain_name": "www.johntruslove.com",
-            "destination": "SiteGround",
-            "date": "2025-10-28 20:54:12"
-        },
-        {
             "domain_name": "joyridesaz.com",
             "destination": "Hostinger",
             "date": "2025-10-28 20:34:24"
-        },
-        {
-            "domain_name": "jogarner.com",
-            "destination": "GoDaddy",
-            "date": "2025-10-28 20:19:27"
-        },
-        {
-            "domain_name": "www.falconwestenergy.com",
-            "destination": "Pressable",
-            "date": "2025-10-28 20:00:54"
         }
     ],
     "dailyMovedStat": {
@@ -911,7 +911,7 @@
     "topDestinationHosts": {
         "Pressable": 11323,
         "Kinsta": 6560,
-        "SiteGround": 5471,
+        "SiteGround": 5472,
         "Digital Ocean": 5159,
         "Bluehost": 4234,
         "Hostinger": 3693,
