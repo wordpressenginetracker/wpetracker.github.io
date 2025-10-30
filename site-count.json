@@ -1,6 +1,11 @@
 {
-    "siteCount": 101433,
+    "siteCount": 101438,
     "recentlyMoved": [
+        {
+            "domain_name": "murmester-kammen.no",
+            "destination": "SiteGround",
+            "date": "2025-10-30 05:54:09"
+        },
         {
             "domain_name": "reliablewater247.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "houstonabogados.net",
             "destination": "Pressable",
             "date": "2025-10-29 00:25:23"
-        },
-        {
-            "domain_name": "raquelhernandezmeyer.com",
-            "destination": "Hostinger",
-            "date": "2025-10-28 23:54:22"
         }
     ],
     "dailyMovedStat": {
@@ -911,7 +911,7 @@
     "topDestinationHosts": {
         "Pressable": 11323,
         "Kinsta": 6562,
-        "SiteGround": 5483,
+        "SiteGround": 5484,
         "Digital Ocean": 5160,
         "Bluehost": 4234,
         "Hostinger": 3693,
