@@ -1,6 +1,31 @@
 {
-    "siteCount": 101474,
+    "siteCount": 101487,
     "recentlyMoved": [
+        {
+            "domain_name": "www.educatingforamericandemocracy.org",
+            "destination": "Pressable",
+            "date": "2025-10-30 12:08:01"
+        },
+        {
+            "domain_name": "armorwildlifemanagement.com",
+            "destination": "SiteGround",
+            "date": "2025-10-30 11:51:16"
+        },
+        {
+            "domain_name": "amysapola.com",
+            "destination": "SiteGround",
+            "date": "2025-10-30 11:45:38"
+        },
+        {
+            "domain_name": "point.edu",
+            "destination": "Pressable",
+            "date": "2025-10-30 11:44:46"
+        },
+        {
+            "domain_name": "acturis.fr",
+            "destination": "Kinsta",
+            "date": "2025-10-30 11:13:32"
+        },
         {
             "domain_name": "morpholine.biz",
             "destination": "Hostinger",
@@ -472,34 +497,9 @@
             "date": "2025-10-29 04:02:26"
         },
         {
-            "domain_name": "phoenixrebelliontherapy.com",
-            "destination": "Kinsta",
-            "date": "2025-10-29 03:56:10"
-        },
-        {
-            "domain_name": "www.caase.org",
-            "destination": "Kinsta",
-            "date": "2025-10-29 03:51:09"
-        },
-        {
             "domain_name": "herniarepairbrisbane.com.au",
             "destination": "SiteGround",
             "date": "2025-10-29 03:49:05"
-        },
-        {
-            "domain_name": "heritagehotelpetrie.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-29 03:49:05"
-        },
-        {
-            "domain_name": "footwellpodiatry.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-29 03:45:51"
-        },
-        {
-            "domain_name": "greenlifedental.com",
-            "destination": "Hostinger",
-            "date": "2025-10-29 03:33:25"
         }
     ],
     "dailyMovedStat": {
@@ -909,9 +909,9 @@
         "2025-10-29": "101364"
     },
     "topDestinationHosts": {
-        "Pressable": 11324,
-        "Kinsta": 6564,
-        "SiteGround": 5485,
+        "Pressable": 11326,
+        "Kinsta": 6565,
+        "SiteGround": 5487,
         "Digital Ocean": 5162,
         "Bluehost": 4234,
         "Hostinger": 3698,
