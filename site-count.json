@@ -1,6 +1,11 @@
 {
-    "siteCount": 101452,
+    "siteCount": 101460,
     "recentlyMoved": [
+        {
+            "domain_name": "cf-firm.com",
+            "destination": "SiteGround",
+            "date": "2025-10-30 09:13:39"
+        },
         {
             "domain_name": "rentacheapcardubai.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "events.rosebowlstadium.com",
             "destination": "SiteGround",
             "date": "2025-10-29 01:43:19"
-        },
-        {
-            "domain_name": "desailly.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-29 01:38:01"
         }
     ],
     "dailyMovedStat": {
@@ -911,7 +911,7 @@
     "topDestinationHosts": {
         "Pressable": 11324,
         "Kinsta": 6563,
-        "SiteGround": 5484,
+        "SiteGround": 5485,
         "Digital Ocean": 5162,
         "Bluehost": 4234,
         "Hostinger": 3695,
@@ -922,7 +922,7 @@
         "InMotion Hosting": 445,
         "OVH": 437,
         "GridPane": 413,
-        "A2 Hosting": 396,
+        "A2 Hosting": 397,
         "Namecheap": 377,
         "IONOS": 375,
         "DreamHost": 364,
