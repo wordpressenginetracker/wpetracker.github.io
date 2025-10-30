@@ -1,6 +1,26 @@
 {
-    "siteCount": 101580,
+    "siteCount": 101632,
     "recentlyMoved": [
+        {
+            "domain_name": "adriancenterforthearts.org",
+            "destination": "GoDaddy",
+            "date": "2025-10-30 20:00:23"
+        },
+        {
+            "domain_name": "anl-ca.com",
+            "destination": "Kinsta",
+            "date": "2025-10-30 19:38:24"
+        },
+        {
+            "domain_name": "www.360idaho.com",
+            "destination": "Pressable",
+            "date": "2025-10-30 19:17:26"
+        },
+        {
+            "domain_name": "adviceoneretirement.com",
+            "destination": "SiteGround",
+            "date": "2025-10-30 19:15:25"
+        },
         {
             "domain_name": "nbhospitals.com",
             "destination": "Digital Ocean",
@@ -467,21 +487,6 @@
             "date": "2025-10-29 18:03:52"
         },
         {
-            "domain_name": "mitseasterniowa.com",
-            "destination": "Kinsta",
-            "date": "2025-10-29 18:03:52"
-        },
-        {
-            "domain_name": "mitsbuckscounty.com",
-            "destination": "Kinsta",
-            "date": "2025-10-29 18:03:52"
-        },
-        {
-            "domain_name": "thekindestgoodbye.com",
-            "destination": "SiteGround",
-            "date": "2025-10-29 18:00:46"
-        },
-        {
             "domain_name": "egstoltzfushomes.com",
             "destination": "Kinsta",
             "date": "2025-10-29 17:30:47"
@@ -495,11 +500,6 @@
             "domain_name": "egstoltzfusconstruction.com",
             "destination": "Kinsta",
             "date": "2025-10-29 17:30:47"
-        },
-        {
-            "domain_name": "madeintheshademidland.com",
-            "destination": "Kinsta",
-            "date": "2025-10-29 17:11:24"
         }
     ],
     "dailyMovedStat": {
@@ -909,22 +909,22 @@
         "2025-10-29": "101364"
     },
     "topDestinationHosts": {
-        "Pressable": 11330,
-        "Kinsta": 6577,
-        "SiteGround": 5499,
+        "Pressable": 11331,
+        "Kinsta": 6578,
+        "SiteGround": 5500,
         "Digital Ocean": 5170,
-        "Bluehost": 4235,
+        "Bluehost": 4237,
         "Hostinger": 3699,
-        "GoDaddy": 1401,
+        "GoDaddy": 1403,
         "Liquid Web": 712,
         "BigScoots": 644,
         "WordPress.com": 507,
         "InMotion Hosting": 446,
         "OVH": 437,
         "GridPane": 414,
-        "A2 Hosting": 397,
+        "A2 Hosting": 398,
         "Namecheap": 377,
-        "IONOS": 376,
+        "IONOS": 377,
         "DreamHost": 364,
         "Elementor Hosting": 362,
         "Hetzner Online": 293,
