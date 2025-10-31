@@ -1,10 +1,45 @@
 {
-    "siteCount": 101756,
+    "siteCount": 101774,
     "recentlyMoved": [
+        {
+            "domain_name": "kappysauto.com",
+            "destination": "SiteGround",
+            "date": "2025-10-31 13:13:09"
+        },
+        {
+            "domain_name": "compressor-parts-usa.com",
+            "destination": "SiteGround",
+            "date": "2025-10-31 13:07:20"
+        },
+        {
+            "domain_name": "www.jakekarger.com",
+            "destination": "Pressable",
+            "date": "2025-10-31 12:57:26"
+        },
+        {
+            "domain_name": "cashback.minna-de-kaigaifx.com",
+            "destination": "Hostinger",
+            "date": "2025-10-31 12:54:20"
+        },
+        {
+            "domain_name": "www.multiservicegateway.com",
+            "destination": "Digital Ocean",
+            "date": "2025-10-31 12:36:02"
+        },
         {
             "domain_name": "hoodcontainer.com",
             "destination": "Hostinger",
             "date": "2025-10-31 12:32:06"
+        },
+        {
+            "domain_name": "jcp-law.com",
+            "destination": "SiteGround",
+            "date": "2025-10-31 12:28:47"
+        },
+        {
+            "domain_name": "indigowater.net",
+            "destination": "WordPress.com",
+            "date": "2025-10-31 12:10:06"
         },
         {
             "domain_name": "www.dwklaw.com",
@@ -465,41 +500,6 @@
             "domain_name": "verticeski.com",
             "destination": "Kinsta",
             "date": "2025-10-30 09:57:50"
-        },
-        {
-            "domain_name": "thecavaliercollective.com",
-            "destination": "GridPane",
-            "date": "2025-10-30 09:21:15"
-        },
-        {
-            "domain_name": "cf-firm.com",
-            "destination": "SiteGround",
-            "date": "2025-10-30 09:13:39"
-        },
-        {
-            "domain_name": "rentacheapcardubai.com",
-            "destination": "A2 Hosting",
-            "date": "2025-10-30 08:35:34"
-        },
-        {
-            "domain_name": "quiz.amezcua.com",
-            "destination": "Hostinger",
-            "date": "2025-10-30 08:30:57"
-        },
-        {
-            "domain_name": "gopanther.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 08:21:53"
-        },
-        {
-            "domain_name": "hammondshinners.com",
-            "destination": "Pressable",
-            "date": "2025-10-30 07:52:44"
-        },
-        {
-            "domain_name": "archicadapi.graphisoft.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-30 07:44:44"
         }
     ],
     "dailyMovedStat": {
@@ -910,16 +910,16 @@
         "2025-10-30": "101651"
     },
     "topDestinationHosts": {
-        "Pressable": 11331,
+        "Pressable": 11332,
         "Kinsta": 6594,
-        "SiteGround": 5508,
-        "Digital Ocean": 5172,
+        "SiteGround": 5510,
+        "Digital Ocean": 5173,
         "Bluehost": 4238,
-        "Hostinger": 3704,
-        "GoDaddy": 1404,
+        "Hostinger": 3706,
+        "GoDaddy": 1405,
         "Liquid Web": 712,
         "BigScoots": 645,
-        "WordPress.com": 507,
+        "WordPress.com": 508,
         "InMotion Hosting": 446,
         "OVH": 439,
         "GridPane": 414,
