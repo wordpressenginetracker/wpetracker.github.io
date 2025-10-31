@@ -1,6 +1,11 @@
 {
-    "siteCount": 101712,
+    "siteCount": 101718,
     "recentlyMoved": [
+        {
+            "domain_name": "101quincy.com",
+            "destination": "Bluehost",
+            "date": "2025-10-31 07:23:08"
+        },
         {
             "domain_name": "trumarket.info",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "montys.com.au",
             "destination": "Kinsta",
             "date": "2025-10-29 21:47:42"
-        },
-        {
-            "domain_name": "milehighoutdoor.com",
-            "destination": "Kinsta",
-            "date": "2025-10-29 21:47:13"
         }
     ],
     "dailyMovedStat": {
@@ -914,7 +914,7 @@
         "Kinsta": 6584,
         "SiteGround": 5505,
         "Digital Ocean": 5171,
-        "Bluehost": 4237,
+        "Bluehost": 4238,
         "Hostinger": 3703,
         "GoDaddy": 1404,
         "Liquid Web": 712,
