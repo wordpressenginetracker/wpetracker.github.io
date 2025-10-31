@@ -1,6 +1,11 @@
 {
-    "siteCount": 101691,
+    "siteCount": 101704,
     "recentlyMoved": [
+        {
+            "domain_name": "tarifica.com",
+            "destination": "Kinsta",
+            "date": "2025-10-31 05:49:38"
+        },
         {
             "domain_name": "margarineasia.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.peoplegrove.com",
             "destination": "Digital Ocean",
             "date": "2025-10-29 21:22:51"
-        },
-        {
-            "domain_name": "www.nihan.care",
-            "destination": "InMotion Hosting",
-            "date": "2025-10-29 21:13:43"
         }
     ],
     "dailyMovedStat": {
