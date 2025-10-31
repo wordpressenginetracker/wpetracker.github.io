@@ -1,6 +1,21 @@
 {
-    "siteCount": 101902,
+    "siteCount": 101912,
     "recentlyMoved": [
+        {
+            "domain_name": "venturenauts.com",
+            "destination": "SiteGround",
+            "date": "2025-10-31 22:09:41"
+        },
+        {
+            "domain_name": "threechordsorthetruth.com.au",
+            "destination": "SiteGround",
+            "date": "2025-10-31 22:07:53"
+        },
+        {
+            "domain_name": "torchable.com",
+            "destination": "Hostinger",
+            "date": "2025-10-31 21:37:38"
+        },
         {
             "domain_name": "susancachay.com",
             "destination": "SiteGround",
@@ -467,11 +482,6 @@
             "date": "2025-10-30 18:30:49"
         },
         {
-            "domain_name": "dwbconsultants.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-30 18:14:21"
-        },
-        {
             "domain_name": "mitsokanagan.com",
             "destination": "Kinsta",
             "date": "2025-10-30 18:04:07"
@@ -490,16 +500,6 @@
             "domain_name": "mitsnorthcolumbus.com",
             "destination": "Kinsta",
             "date": "2025-10-30 18:04:07"
-        },
-        {
-            "domain_name": "madeintheshadeoahu.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 17:44:35"
-        },
-        {
-            "domain_name": "madeintheshadensv.ca",
-            "destination": "Kinsta",
-            "date": "2025-10-30 17:44:35"
         }
     ],
     "dailyMovedStat": {
@@ -912,10 +912,10 @@
     "topDestinationHosts": {
         "Pressable": 11334,
         "Kinsta": 6607,
-        "SiteGround": 5527,
+        "SiteGround": 5529,
         "Digital Ocean": 5176,
         "Bluehost": 4239,
-        "Hostinger": 3707,
+        "Hostinger": 3708,
         "GoDaddy": 1405,
         "Liquid Web": 714,
         "BigScoots": 645,
