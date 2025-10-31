@@ -1,6 +1,11 @@
 {
-    "siteCount": 101704,
+    "siteCount": 101712,
     "recentlyMoved": [
+        {
+            "domain_name": "trumarket.info",
+            "destination": "Kinsta",
+            "date": "2025-10-31 06:08:39"
+        },
         {
             "domain_name": "tarifica.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "milehighoutdoor.com",
             "destination": "Kinsta",
             "date": "2025-10-29 21:47:13"
-        },
-        {
-            "domain_name": "www.peoplegrove.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-29 21:22:51"
         }
     ],
     "dailyMovedStat": {
@@ -911,7 +911,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11331,
-        "Kinsta": 6582,
+        "Kinsta": 6584,
         "SiteGround": 5505,
         "Digital Ocean": 5171,
         "Bluehost": 4237,
