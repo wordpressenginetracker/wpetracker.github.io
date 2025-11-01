@@ -1,6 +1,16 @@
 {
-    "siteCount": 102114,
+    "siteCount": 102173,
     "recentlyMoved": [
+        {
+            "domain_name": "acmeac.com",
+            "destination": "Pressable",
+            "date": "2025-11-01 19:53:56"
+        },
+        {
+            "domain_name": "www.allriteindustries.com",
+            "destination": "Kinsta",
+            "date": "2025-11-01 19:51:48"
+        },
         {
             "domain_name": "erieit.edu",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "mymortgageamerica.com",
             "destination": "OVH",
             "date": "2025-10-31 14:22:21"
-        },
-        {
-            "domain_name": "myaffordablepools.com",
-            "destination": "SiteGround",
-            "date": "2025-10-31 13:53:00"
-        },
-        {
-            "domain_name": "eliteconcretecoatingsslc.com",
-            "destination": "Pressable",
-            "date": "2025-10-31 13:52:50"
         }
     ],
     "dailyMovedStat": {
@@ -911,12 +911,12 @@
         "2025-10-31": "101912"
     },
     "topDestinationHosts": {
-        "Pressable": 11342,
-        "Kinsta": 6630,
-        "SiteGround": 5538,
+        "Pressable": 11343,
+        "Kinsta": 6631,
+        "SiteGround": 5539,
         "Digital Ocean": 5177,
         "Bluehost": 4241,
-        "Hostinger": 3715,
+        "Hostinger": 3716,
         "GoDaddy": 1407,
         "Liquid Web": 717,
         "BigScoots": 645,
