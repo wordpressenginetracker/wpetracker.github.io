@@ -1,6 +1,36 @@
 {
-    "siteCount": 101912,
+    "siteCount": 101923,
     "recentlyMoved": [
+        {
+            "domain_name": "www.exhibitions.sydneyjewishmuseum.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-01 00:49:20"
+        },
+        {
+            "domain_name": "primecigaratl.com",
+            "destination": "SiteGround",
+            "date": "2025-11-01 00:32:27"
+        },
+        {
+            "domain_name": "reddeer.360fitness.ca",
+            "destination": "GoDaddy",
+            "date": "2025-11-01 00:13:56"
+        },
+        {
+            "domain_name": "oxalicacid.com",
+            "destination": "Hostinger",
+            "date": "2025-11-01 00:08:44"
+        },
+        {
+            "domain_name": "fogco.com",
+            "destination": "Kinsta",
+            "date": "2025-10-31 23:57:13"
+        },
+        {
+            "domain_name": "antisemitism.sydneyjewishmuseum.com.au",
+            "destination": "Kinsta",
+            "date": "2025-10-31 23:38:49"
+        },
         {
             "domain_name": "venturenauts.com",
             "destination": "SiteGround",
@@ -457,11 +487,6 @@
             "date": "2025-10-30 20:19:33"
         },
         {
-            "domain_name": "adriancenterforthearts.org",
-            "destination": "GoDaddy",
-            "date": "2025-10-30 20:00:23"
-        },
-        {
             "domain_name": "anl-ca.com",
             "destination": "Kinsta",
             "date": "2025-10-30 19:38:24"
@@ -475,31 +500,6 @@
             "domain_name": "adviceoneretirement.com",
             "destination": "SiteGround",
             "date": "2025-10-30 19:15:25"
-        },
-        {
-            "domain_name": "nbhospitals.com",
-            "destination": "Digital Ocean",
-            "date": "2025-10-30 18:30:49"
-        },
-        {
-            "domain_name": "mitsokanagan.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 18:04:07"
-        },
-        {
-            "domain_name": "mitsnwmt.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 18:04:07"
-        },
-        {
-            "domain_name": "mitsnorthshore.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 18:04:07"
-        },
-        {
-            "domain_name": "mitsnorthcolumbus.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 18:04:07"
         }
     ],
     "dailyMovedStat": {
@@ -912,11 +912,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11334,
-        "Kinsta": 6607,
-        "SiteGround": 5529,
+        "Kinsta": 6609,
+        "SiteGround": 5530,
         "Digital Ocean": 5176,
         "Bluehost": 4239,
-        "Hostinger": 3708,
+        "Hostinger": 3709,
         "GoDaddy": 1405,
         "Liquid Web": 714,
         "BigScoots": 645,
