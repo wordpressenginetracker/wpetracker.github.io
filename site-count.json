@@ -1,6 +1,16 @@
 {
-    "siteCount": 101956,
+    "siteCount": 101967,
     "recentlyMoved": [
+        {
+            "domain_name": "jamesjoyce.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-11-01 04:22:56"
+        },
+        {
+            "domain_name": "inpher.io",
+            "destination": "SiteGround",
+            "date": "2025-11-01 04:19:57"
+        },
         {
             "domain_name": "hamsa.au",
             "destination": "Kinsta",
@@ -487,16 +497,6 @@
             "date": "2025-10-30 21:42:04"
         },
         {
-            "domain_name": "www.primesteakconcepts.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 21:15:12"
-        },
-        {
-            "domain_name": "lbmg.ca",
-            "destination": "Kinsta",
-            "date": "2025-10-30 21:13:14"
-        },
-        {
             "domain_name": "www.savonak.com",
             "destination": "Kinsta",
             "date": "2025-10-30 21:10:05"
@@ -911,12 +911,12 @@
         "2025-10-31": "101912"
     },
     "topDestinationHosts": {
-        "Pressable": 11336,
+        "Pressable": 11337,
         "Kinsta": 6611,
-        "SiteGround": 5533,
+        "SiteGround": 5534,
         "Digital Ocean": 5176,
         "Bluehost": 4239,
-        "Hostinger": 3710,
+        "Hostinger": 3711,
         "GoDaddy": 1406,
         "Liquid Web": 714,
         "BigScoots": 645,
