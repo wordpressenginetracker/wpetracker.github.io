@@ -1,6 +1,31 @@
 {
-    "siteCount": 101941,
+    "siteCount": 101956,
     "recentlyMoved": [
+        {
+            "domain_name": "hamsa.au",
+            "destination": "Kinsta",
+            "date": "2025-11-01 03:56:05"
+        },
+        {
+            "domain_name": "www.fourstreamscoaching.com",
+            "destination": "Pressable",
+            "date": "2025-11-01 03:50:45"
+        },
+        {
+            "domain_name": "aealliance.org",
+            "destination": "A2 Hosting",
+            "date": "2025-11-01 03:48:51"
+        },
+        {
+            "domain_name": "atlanticengineering.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-01 03:38:46"
+        },
+        {
+            "domain_name": "freestoneig.com",
+            "destination": "SiteGround",
+            "date": "2025-11-01 03:37:24"
+        },
         {
             "domain_name": "shop.cfcherrydale.com",
             "destination": "Hostinger",
@@ -462,11 +487,6 @@
             "date": "2025-10-30 21:42:04"
         },
         {
-            "domain_name": "southcapeentertainment.com",
-            "destination": "GoDaddy",
-            "date": "2025-10-30 21:19:31"
-        },
-        {
             "domain_name": "www.primesteakconcepts.com",
             "destination": "Kinsta",
             "date": "2025-10-30 21:15:12"
@@ -480,26 +500,6 @@
             "domain_name": "www.savonak.com",
             "destination": "Kinsta",
             "date": "2025-10-30 21:10:05"
-        },
-        {
-            "domain_name": "www.phb.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2025-10-30 20:57:27"
-        },
-        {
-            "domain_name": "showcaselawnworks.com",
-            "destination": "Hostinger",
-            "date": "2025-10-30 20:29:01"
-        },
-        {
-            "domain_name": "silverloom.io",
-            "destination": "Kinsta",
-            "date": "2025-10-30 20:28:58"
-        },
-        {
-            "domain_name": "bootsorbarefoot.com",
-            "destination": "Hostinger",
-            "date": "2025-10-30 20:19:33"
         }
     ],
     "dailyMovedStat": {
@@ -911,9 +911,9 @@
         "2025-10-31": "101912"
     },
     "topDestinationHosts": {
-        "Pressable": 11334,
-        "Kinsta": 6610,
-        "SiteGround": 5532,
+        "Pressable": 11336,
+        "Kinsta": 6611,
+        "SiteGround": 5533,
         "Digital Ocean": 5176,
         "Bluehost": 4239,
         "Hostinger": 3710,
@@ -924,7 +924,7 @@
         "InMotion Hosting": 446,
         "OVH": 442,
         "GridPane": 414,
-        "A2 Hosting": 398,
+        "A2 Hosting": 399,
         "IONOS": 378,
         "Namecheap": 377,
         "DreamHost": 364,
