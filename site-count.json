@@ -1,6 +1,26 @@
 {
-    "siteCount": 101987,
+    "siteCount": 102000,
     "recentlyMoved": [
+        {
+            "domain_name": "compressorparts.ie",
+            "destination": "SiteGround",
+            "date": "2025-11-01 09:06:48"
+        },
+        {
+            "domain_name": "communitychangeafrica.com",
+            "destination": "Hostinger",
+            "date": "2025-11-01 08:47:22"
+        },
+        {
+            "domain_name": "charlestonareaalliance.org",
+            "destination": "Pressable",
+            "date": "2025-11-01 08:41:39"
+        },
+        {
+            "domain_name": "immotherofthebride.com",
+            "destination": "Bluehost",
+            "date": "2025-11-01 08:07:34"
+        },
         {
             "domain_name": "patchouli-oil.net",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-10-31 05:49:38"
         },
         {
-            "domain_name": "margarineasia.com",
-            "destination": "Hostinger",
-            "date": "2025-10-31 01:51:06"
-        },
-        {
             "domain_name": "nitric-acid.biz",
             "destination": "Hostinger",
             "date": "2025-10-31 01:40:25"
-        },
-        {
-            "domain_name": "jimsautoserviceinc.com",
-            "destination": "SiteGround",
-            "date": "2025-10-31 00:52:40"
-        },
-        {
-            "domain_name": "hugs4business.com",
-            "destination": "SiteGround",
-            "date": "2025-10-31 00:07:30"
-        },
-        {
-            "domain_name": "foundationalfamily.com",
-            "destination": "SiteGround",
-            "date": "2025-10-30 23:16:57"
         }
     ],
     "dailyMovedStat": {
@@ -911,12 +911,12 @@
         "2025-10-31": "101912"
     },
     "topDestinationHosts": {
-        "Pressable": 11337,
+        "Pressable": 11338,
         "Kinsta": 6612,
-        "SiteGround": 5534,
+        "SiteGround": 5535,
         "Digital Ocean": 5176,
-        "Bluehost": 4239,
-        "Hostinger": 3712,
+        "Bluehost": 4240,
+        "Hostinger": 3713,
         "GoDaddy": 1406,
         "Liquid Web": 714,
         "BigScoots": 645,
