@@ -1,6 +1,21 @@
 {
-    "siteCount": 101923,
+    "siteCount": 101933,
     "recentlyMoved": [
+        {
+            "domain_name": "shop.cfcherrydale.com",
+            "destination": "Hostinger",
+            "date": "2025-11-01 01:12:19"
+        },
+        {
+            "domain_name": "www.hammockshvac.com",
+            "destination": "SiteGround",
+            "date": "2025-11-01 00:58:39"
+        },
+        {
+            "domain_name": "www.grindheartfitness.com",
+            "destination": "SiteGround",
+            "date": "2025-11-01 00:58:39"
+        },
         {
             "domain_name": "www.exhibitions.sydneyjewishmuseum.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "bootsorbarefoot.com",
             "destination": "Hostinger",
             "date": "2025-10-30 20:19:33"
-        },
-        {
-            "domain_name": "anl-ca.com",
-            "destination": "Kinsta",
-            "date": "2025-10-30 19:38:24"
-        },
-        {
-            "domain_name": "www.360idaho.com",
-            "destination": "Pressable",
-            "date": "2025-10-30 19:17:26"
-        },
-        {
-            "domain_name": "adviceoneretirement.com",
-            "destination": "SiteGround",
-            "date": "2025-10-30 19:15:25"
         }
     ],
     "dailyMovedStat": {
@@ -912,12 +912,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11334,
-        "Kinsta": 6609,
-        "SiteGround": 5530,
+        "Kinsta": 6610,
+        "SiteGround": 5532,
         "Digital Ocean": 5176,
         "Bluehost": 4239,
-        "Hostinger": 3709,
-        "GoDaddy": 1405,
+        "Hostinger": 3710,
+        "GoDaddy": 1406,
         "Liquid Web": 714,
         "BigScoots": 645,
         "WordPress.com": 511,
