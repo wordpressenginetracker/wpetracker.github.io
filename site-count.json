@@ -1,6 +1,11 @@
 {
-    "siteCount": 102252,
+    "siteCount": 102254,
     "recentlyMoved": [
+        {
+            "domain_name": "kkmprecision.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-02 20:57:28"
+        },
         {
             "domain_name": "fort88smokehouse.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "nationalesolutions.com",
             "destination": "WordPress.com",
             "date": "2025-10-31 18:24:17"
-        },
-        {
-            "domain_name": "drmazaheri.com",
-            "destination": "Kinsta",
-            "date": "2025-10-31 17:35:59"
         }
     ],
     "dailyMovedStat": {
@@ -915,7 +915,7 @@
         "Pressable": 11348,
         "Kinsta": 6633,
         "SiteGround": 5539,
-        "Digital Ocean": 5179,
+        "Digital Ocean": 5180,
         "Bluehost": 4241,
         "Hostinger": 3722,
         "GoDaddy": 1409,
