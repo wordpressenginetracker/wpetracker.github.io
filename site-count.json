@@ -1,6 +1,11 @@
 {
-    "siteCount": 102228,
+    "siteCount": 102234,
     "recentlyMoved": [
+        {
+            "domain_name": "777autoglass.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-02 15:20:39"
+        },
         {
             "domain_name": "www.scandiamarinelions.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "mackoil.com",
             "destination": "Kinsta",
             "date": "2025-10-31 17:35:35"
-        },
-        {
-            "domain_name": "singteachbible.com",
-            "destination": "SiteGround",
-            "date": "2025-10-31 16:56:17"
         }
     ],
     "dailyMovedStat": {
@@ -918,7 +918,7 @@
         "Digital Ocean": 5178,
         "Bluehost": 4241,
         "Hostinger": 3721,
-        "GoDaddy": 1407,
+        "GoDaddy": 1408,
         "Liquid Web": 717,
         "BigScoots": 645,
         "WordPress.com": 512,
