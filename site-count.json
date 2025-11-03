@@ -1,6 +1,11 @@
 {
-    "siteCount": 102311,
+    "siteCount": 102317,
     "recentlyMoved": [
+        {
+            "domain_name": "fullstackenergy.com",
+            "destination": "Hostinger",
+            "date": "2025-11-03 15:43:21"
+        },
         {
             "domain_name": "drrjjackson.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "brotherlyloveelectric.com",
             "destination": "Kinsta",
             "date": "2025-10-31 20:11:41"
-        },
-        {
-            "domain_name": "rjbcapitalpartners.com",
-            "destination": "SiteGround",
-            "date": "2025-10-31 20:00:25"
         }
     ],
     "dailyMovedStat": {
@@ -918,7 +918,7 @@
         "SiteGround": 5543,
         "Digital Ocean": 5182,
         "Bluehost": 4241,
-        "Hostinger": 3725,
+        "Hostinger": 3726,
         "GoDaddy": 1410,
         "Liquid Web": 717,
         "BigScoots": 645,
