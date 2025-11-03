@@ -1,6 +1,11 @@
 {
-    "siteCount": 102279,
+    "siteCount": 102284,
     "recentlyMoved": [
+        {
+            "domain_name": "fastepc.net",
+            "destination": "SiteGround",
+            "date": "2025-11-03 02:14:00"
+        },
         {
             "domain_name": "lombardiwines.com",
             "destination": "SiteGround",
@@ -477,11 +482,6 @@
             "date": "2025-10-31 20:11:41"
         },
         {
-            "domain_name": "provenenergymanagement.com.au",
-            "destination": "SiteGround",
-            "date": "2025-10-31 20:09:28"
-        },
-        {
             "domain_name": "www.dominickssteakhouse.com",
             "destination": "Kinsta",
             "date": "2025-10-31 20:08:01"
@@ -915,8 +915,8 @@
     "topDestinationHosts": {
         "Pressable": 11348,
         "Kinsta": 6635,
-        "SiteGround": 5539,
-        "Digital Ocean": 5181,
+        "SiteGround": 5541,
+        "Digital Ocean": 5182,
         "Bluehost": 4241,
         "Hostinger": 3723,
         "GoDaddy": 1410,
