@@ -1,6 +1,11 @@
 {
-    "siteCount": 102256,
+    "siteCount": 102269,
     "recentlyMoved": [
+        {
+            "domain_name": "www.communitysuccess.org",
+            "destination": "GoDaddy",
+            "date": "2025-11-02 23:53:11"
+        },
         {
             "domain_name": "kkmprecision.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "nutritionalbalancinglifestyle.com",
             "destination": "SiteGround",
             "date": "2025-10-31 18:28:25"
-        },
-        {
-            "domain_name": "nationalesolutions.com",
-            "destination": "WordPress.com",
-            "date": "2025-10-31 18:24:17"
         }
     ],
     "dailyMovedStat": {
@@ -914,12 +914,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11348,
-        "Kinsta": 6633,
+        "Kinsta": 6634,
         "SiteGround": 5539,
         "Digital Ocean": 5180,
         "Bluehost": 4241,
         "Hostinger": 3722,
-        "GoDaddy": 1409,
+        "GoDaddy": 1410,
         "Liquid Web": 717,
         "BigScoots": 645,
         "WordPress.com": 512,
