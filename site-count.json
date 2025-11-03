@@ -1,6 +1,11 @@
 {
-    "siteCount": 102299,
+    "siteCount": 102304,
     "recentlyMoved": [
+        {
+            "domain_name": "winatweb.com",
+            "destination": "SiteGround",
+            "date": "2025-11-03 11:29:49"
+        },
         {
             "domain_name": "www.mercantilemaritime.com",
             "destination": "Hostinger",
@@ -482,11 +487,6 @@
             "date": "2025-10-31 20:11:41"
         },
         {
-            "domain_name": "www.dominickssteakhouse.com",
-            "destination": "Kinsta",
-            "date": "2025-10-31 20:08:01"
-        },
-        {
             "domain_name": "htmasuccess.com",
             "destination": "SiteGround",
             "date": "2025-10-31 20:07:36"
@@ -915,7 +915,7 @@
     "topDestinationHosts": {
         "Pressable": 11348,
         "Kinsta": 6635,
-        "SiteGround": 5541,
+        "SiteGround": 5542,
         "Digital Ocean": 5182,
         "Bluehost": 4241,
         "Hostinger": 3724,
