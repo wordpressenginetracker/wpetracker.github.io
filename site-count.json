@@ -1,6 +1,16 @@
 {
-    "siteCount": 102331,
+    "siteCount": 102367,
     "recentlyMoved": [
+        {
+            "domain_name": "picturebookthailand.org",
+            "destination": "SiteGround",
+            "date": "2025-11-03 19:53:34"
+        },
+        {
+            "domain_name": "precisionlaserspecialists.com",
+            "destination": "SiteGround",
+            "date": "2025-11-03 19:36:35"
+        },
         {
             "domain_name": "noblerecruiting.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "reddeer.360fitness.ca",
             "destination": "GoDaddy",
             "date": "2025-11-01 00:13:56"
-        },
-        {
-            "domain_name": "oxalicacid.com",
-            "destination": "Hostinger",
-            "date": "2025-11-01 00:08:44"
-        },
-        {
-            "domain_name": "antisemitism.sydneyjewishmuseum.com.au",
-            "destination": "Kinsta",
-            "date": "2025-10-31 23:38:49"
         }
     ],
     "dailyMovedStat": {
@@ -914,12 +914,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11348,
-        "Kinsta": 6636,
-        "SiteGround": 5544,
-        "Digital Ocean": 5182,
+        "Kinsta": 6638,
+        "SiteGround": 5546,
+        "Digital Ocean": 5183,
         "Bluehost": 4241,
-        "Hostinger": 3727,
-        "GoDaddy": 1410,
+        "Hostinger": 3728,
+        "GoDaddy": 1411,
         "Liquid Web": 717,
         "BigScoots": 645,
         "WordPress.com": 516,
@@ -927,7 +927,7 @@
         "OVH": 443,
         "GridPane": 414,
         "A2 Hosting": 400,
-        "IONOS": 379,
+        "IONOS": 380,
         "Namecheap": 378,
         "DreamHost": 367,
         "Elementor Hosting": 364,
