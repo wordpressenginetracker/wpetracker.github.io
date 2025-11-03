@@ -1,6 +1,21 @@
 {
-    "siteCount": 102373,
+    "siteCount": 102377,
     "recentlyMoved": [
+        {
+            "domain_name": "drjenningsortho.com",
+            "destination": "SiteGround",
+            "date": "2025-11-03 21:53:45"
+        },
+        {
+            "domain_name": "micahcruver.com",
+            "destination": "SiteGround",
+            "date": "2025-11-03 21:41:38"
+        },
+        {
+            "domain_name": "delcoastlaser.com",
+            "destination": "SiteGround",
+            "date": "2025-11-03 21:40:05"
+        },
         {
             "domain_name": "tammymillerdesign.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "freestoneig.com",
             "destination": "SiteGround",
             "date": "2025-11-01 03:37:24"
-        },
-        {
-            "domain_name": "shop.cfcherrydale.com",
-            "destination": "Hostinger",
-            "date": "2025-11-01 01:12:19"
-        },
-        {
-            "domain_name": "www.hammockshvac.com",
-            "destination": "SiteGround",
-            "date": "2025-11-01 00:58:39"
-        },
-        {
-            "domain_name": "www.grindheartfitness.com",
-            "destination": "SiteGround",
-            "date": "2025-11-01 00:58:39"
         }
     ],
     "dailyMovedStat": {
@@ -915,7 +915,7 @@
     "topDestinationHosts": {
         "Pressable": 11348,
         "Kinsta": 6638,
-        "SiteGround": 5547,
+        "SiteGround": 5551,
         "Digital Ocean": 5183,
         "Bluehost": 4241,
         "Hostinger": 3728,
