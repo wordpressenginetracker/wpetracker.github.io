@@ -1,6 +1,21 @@
 {
-    "siteCount": 102391,
+    "siteCount": 102397,
     "recentlyMoved": [
+        {
+            "domain_name": "urbananimal.ca",
+            "destination": "SiteGround",
+            "date": "2025-11-04 02:27:00"
+        },
+        {
+            "domain_name": "dennys.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-04 01:23:02"
+        },
+        {
+            "domain_name": "thefitzgerald.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-04 01:11:41"
+        },
         {
             "domain_name": "quinine-sulphate.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "immotherofthebride.com",
             "destination": "Bluehost",
             "date": "2025-11-01 08:07:34"
-        },
-        {
-            "domain_name": "patchouli-oil.net",
-            "destination": "Hostinger",
-            "date": "2025-11-01 07:20:41"
-        },
-        {
-            "domain_name": "ecosupplements.hr",
-            "destination": "Kinsta",
-            "date": "2025-11-01 06:03:24"
-        },
-        {
-            "domain_name": "mvmag.pub",
-            "destination": "DreamHost",
-            "date": "2025-11-01 05:23:47"
         }
     ],
     "dailyMovedStat": {
@@ -914,9 +914,9 @@
         "2025-11-03": "102377"
     },
     "topDestinationHosts": {
-        "Pressable": 11348,
-        "Kinsta": 6638,
-        "SiteGround": 5551,
+        "Pressable": 11349,
+        "Kinsta": 6639,
+        "SiteGround": 5552,
         "Digital Ocean": 5184,
         "Bluehost": 4241,
         "Hostinger": 3732,
