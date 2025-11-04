@@ -1,10 +1,25 @@
 {
-    "siteCount": 102419,
+    "siteCount": 102429,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rosetti.it",
+            "destination": "SiteGround",
+            "date": "2025-11-04 09:17:03"
+        },
         {
             "domain_name": "pro.contentful.lepape.com",
             "destination": "Hostinger",
             "date": "2025-11-04 08:28:07"
+        },
+        {
+            "domain_name": "cackentucky.org",
+            "destination": "Digital Ocean",
+            "date": "2025-11-04 08:26:56"
+        },
+        {
+            "domain_name": "sbsca.in",
+            "destination": "Hostinger",
+            "date": "2025-11-04 08:22:41"
         },
         {
             "domain_name": "westplazatower.com",
@@ -472,11 +487,6 @@
             "date": "2025-11-01 12:33:17"
         },
         {
-            "domain_name": "hepb.org.au",
-            "destination": "Kinsta",
-            "date": "2025-11-01 12:31:36"
-        },
-        {
             "domain_name": "rushplumbingseattle.com",
             "destination": "A2 Hosting",
             "date": "2025-11-01 12:11:58"
@@ -490,16 +500,6 @@
             "domain_name": "www.hep.org.au",
             "destination": "Kinsta",
             "date": "2025-11-01 12:07:14"
-        },
-        {
-            "domain_name": "alsocreative.com",
-            "destination": "Hostinger",
-            "date": "2025-11-01 12:02:28"
-        },
-        {
-            "domain_name": "www.esaa.com",
-            "destination": "IONOS",
-            "date": "2025-11-01 11:31:49"
         }
     ],
     "dailyMovedStat": {
@@ -916,10 +916,10 @@
     "topDestinationHosts": {
         "Pressable": 11350,
         "Kinsta": 6639,
-        "SiteGround": 5552,
-        "Digital Ocean": 5187,
+        "SiteGround": 5553,
+        "Digital Ocean": 5188,
         "Bluehost": 4241,
-        "Hostinger": 3734,
+        "Hostinger": 3735,
         "GoDaddy": 1411,
         "Liquid Web": 717,
         "BigScoots": 645,
