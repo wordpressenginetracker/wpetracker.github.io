@@ -1,6 +1,36 @@
 {
-    "siteCount": 102463,
+    "siteCount": 102477,
     "recentlyMoved": [
+        {
+            "domain_name": "cryo-revive.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-04 13:50:05"
+        },
+        {
+            "domain_name": "naturescloset.net",
+            "destination": "GridPane",
+            "date": "2025-11-04 13:37:16"
+        },
+        {
+            "domain_name": "wykecommercials.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-11-04 13:31:33"
+        },
+        {
+            "domain_name": "mooresvillechristian.org",
+            "destination": "SiteGround",
+            "date": "2025-11-04 13:28:22"
+        },
+        {
+            "domain_name": "theacesinc.com",
+            "destination": "SiteGround",
+            "date": "2025-11-04 13:27:39"
+        },
+        {
+            "domain_name": "mercygift.org",
+            "destination": "SiteGround",
+            "date": "2025-11-04 13:22:50"
+        },
         {
             "domain_name": "shorteningasia.com",
             "destination": "Hostinger",
@@ -452,11 +482,6 @@
             "date": "2025-11-01 16:48:53"
         },
         {
-            "domain_name": "www.healthyuclinics.com",
-            "destination": "Kinsta",
-            "date": "2025-11-01 16:48:06"
-        },
-        {
             "domain_name": "cantata.org",
             "destination": "SiteGround",
             "date": "2025-11-01 16:41:07"
@@ -467,39 +492,14 @@
             "date": "2025-11-01 16:29:14"
         },
         {
-            "domain_name": "anad-training.org",
-            "destination": "SiteGround",
-            "date": "2025-11-01 16:21:06"
-        },
-        {
             "domain_name": "serclean.com",
             "destination": "Kinsta",
             "date": "2025-11-01 16:14:23"
         },
         {
-            "domain_name": "rtzav.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-01 16:08:30"
-        },
-        {
             "domain_name": "sarasotamits.com",
             "destination": "Kinsta",
             "date": "2025-11-01 16:04:32"
-        },
-        {
-            "domain_name": "pstlaw.ca",
-            "destination": "GoDaddy",
-            "date": "2025-11-01 16:03:38"
-        },
-        {
-            "domain_name": "www.thesteincenter.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-11-01 13:30:55"
-        },
-        {
-            "domain_name": "crazy-jims.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-01 12:54:18"
         }
     ],
     "dailyMovedStat": {
@@ -916,8 +916,8 @@
     "topDestinationHosts": {
         "Pressable": 11351,
         "Kinsta": 6641,
-        "SiteGround": 5554,
-        "Digital Ocean": 5188,
+        "SiteGround": 5558,
+        "Digital Ocean": 5189,
         "Bluehost": 4241,
         "Hostinger": 3739,
         "GoDaddy": 1411,
@@ -926,7 +926,7 @@
         "WordPress.com": 518,
         "InMotion Hosting": 448,
         "OVH": 444,
-        "GridPane": 415,
+        "GridPane": 416,
         "A2 Hosting": 400,
         "IONOS": 380,
         "Namecheap": 378,
