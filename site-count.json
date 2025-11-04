@@ -1,10 +1,25 @@
 {
-    "siteCount": 102580,
+    "siteCount": 102586,
     "recentlyMoved": [
+        {
+            "domain_name": "urapuntja.com.au",
+            "destination": "Digital Ocean",
+            "date": "2025-11-04 22:08:43"
+        },
+        {
+            "domain_name": "e-triketours.com",
+            "destination": "IONOS",
+            "date": "2025-11-04 21:46:06"
+        },
         {
             "domain_name": "www.torahtothetribes.com",
             "destination": "Kinsta",
             "date": "2025-11-04 21:38:06"
+        },
+        {
+            "domain_name": "cutis.com.au",
+            "destination": "SiteGround",
+            "date": "2025-11-04 21:24:55"
         },
         {
             "domain_name": "seykoraasphalt.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.totaldesignsourcetampa.com",
             "destination": "GoDaddy",
             "date": "2025-11-02 17:06:00"
-        },
-        {
-            "domain_name": "sportfuelslife.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-02 16:37:25"
-        },
-        {
-            "domain_name": "777autoglass.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-02 15:20:39"
-        },
-        {
-            "domain_name": "www.speechcoachforexecutives.com",
-            "destination": "Hostinger",
-            "date": "2025-11-02 12:45:11"
         }
     ],
     "dailyMovedStat": {
@@ -915,9 +915,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11354,
-        "Kinsta": 6644,
-        "SiteGround": 5568,
-        "Digital Ocean": 5190,
+        "Kinsta": 6645,
+        "SiteGround": 5569,
+        "Digital Ocean": 5191,
         "Bluehost": 4243,
         "Hostinger": 3746,
         "GoDaddy": 1411,
@@ -928,7 +928,7 @@
         "OVH": 444,
         "GridPane": 416,
         "A2 Hosting": 400,
-        "IONOS": 382,
+        "IONOS": 383,
         "Namecheap": 378,
         "DreamHost": 367,
         "Elementor Hosting": 364,
