@@ -1,6 +1,11 @@
 {
-    "siteCount": 102629,
+    "siteCount": 102633,
     "recentlyMoved": [
+        {
+            "domain_name": "wise-community.org",
+            "destination": "Kinsta",
+            "date": "2025-11-05 07:47:32"
+        },
         {
             "domain_name": "www.skipbinstoyou.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "fastepc.net",
             "destination": "SiteGround",
             "date": "2025-11-03 02:14:00"
-        },
-        {
-            "domain_name": "lombardiwines.com",
-            "destination": "SiteGround",
-            "date": "2025-11-03 01:12:39"
         }
     ],
     "dailyMovedStat": {
@@ -916,7 +916,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11354,
-        "Kinsta": 6647,
+        "Kinsta": 6648,
         "SiteGround": 5569,
         "Digital Ocean": 5192,
         "Bluehost": 4243,
