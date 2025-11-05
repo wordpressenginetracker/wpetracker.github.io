@@ -1,6 +1,31 @@
 {
-    "siteCount": 102746,
+    "siteCount": 102804,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dix1898.com",
+            "destination": "Kinsta",
+            "date": "2025-11-05 20:08:56"
+        },
+        {
+            "domain_name": "www.centralbucksoil.com",
+            "destination": "Kinsta",
+            "date": "2025-11-05 19:54:09"
+        },
+        {
+            "domain_name": "gaythornersl.com.au",
+            "destination": "SiteGround",
+            "date": "2025-11-05 19:51:59"
+        },
+        {
+            "domain_name": "4everyoungantiaging.com",
+            "destination": "SiteGround",
+            "date": "2025-11-05 19:51:14"
+        },
+        {
+            "domain_name": "www.acornschool.org",
+            "destination": "Kinsta",
+            "date": "2025-11-05 19:26:26"
+        },
         {
             "domain_name": "uncommoncentsinvesting.com",
             "destination": "GridPane",
@@ -472,34 +497,9 @@
             "date": "2025-11-04 15:40:01"
         },
         {
-            "domain_name": "cryo-revive.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-04 13:50:05"
-        },
-        {
             "domain_name": "naturescloset.net",
             "destination": "GridPane",
             "date": "2025-11-04 13:37:16"
-        },
-        {
-            "domain_name": "wykecommercials.co.uk",
-            "destination": "SiteGround",
-            "date": "2025-11-04 13:31:33"
-        },
-        {
-            "domain_name": "mooresvillechristian.org",
-            "destination": "SiteGround",
-            "date": "2025-11-04 13:28:22"
-        },
-        {
-            "domain_name": "theacesinc.com",
-            "destination": "SiteGround",
-            "date": "2025-11-04 13:27:39"
-        },
-        {
-            "domain_name": "mercygift.org",
-            "destination": "SiteGround",
-            "date": "2025-11-04 13:22:50"
         }
     ],
     "dailyMovedStat": {
@@ -916,9 +916,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11365,
-        "Kinsta": 6663,
-        "SiteGround": 5573,
-        "Digital Ocean": 5197,
+        "Kinsta": 6669,
+        "SiteGround": 5575,
+        "Digital Ocean": 5198,
         "Bluehost": 4245,
         "Hostinger": 3754,
         "GoDaddy": 1411,
@@ -933,7 +933,7 @@
         "Namecheap": 379,
         "DreamHost": 368,
         "Elementor Hosting": 364,
-        "Hetzner Online": 295,
+        "Hetzner Online": 296,
         "HostGator": 236
     },
     "dailyTotalStat": {
