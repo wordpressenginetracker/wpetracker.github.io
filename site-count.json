@@ -1,6 +1,26 @@
 {
-    "siteCount": 102804,
+    "siteCount": 102818,
     "recentlyMoved": [
+        {
+            "domain_name": "spa29brunswick.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-05 21:13:58"
+        },
+        {
+            "domain_name": "shop.4everyoungantiaging.com",
+            "destination": "SiteGround",
+            "date": "2025-11-05 20:44:14"
+        },
+        {
+            "domain_name": "boexverkoopt.nl",
+            "destination": "SiteGround",
+            "date": "2025-11-05 20:35:26"
+        },
+        {
+            "domain_name": "www.leadconnect.org",
+            "destination": "Pressable",
+            "date": "2025-11-05 20:34:21"
+        },
         {
             "domain_name": "www.dix1898.com",
             "destination": "Kinsta",
@@ -472,11 +492,6 @@
             "date": "2025-11-04 16:13:42"
         },
         {
-            "domain_name": "aingilin.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-04 16:02:20"
-        },
-        {
             "domain_name": "www.chandlerair.com",
             "destination": "Kinsta",
             "date": "2025-11-04 16:00:10"
@@ -485,21 +500,6 @@
             "domain_name": "rhombusguyspizza.com",
             "destination": "Hostinger",
             "date": "2025-11-04 15:53:49"
-        },
-        {
-            "domain_name": "paintsociety.org",
-            "destination": "Pressable",
-            "date": "2025-11-04 15:40:01"
-        },
-        {
-            "domain_name": "paintsociety.com",
-            "destination": "Pressable",
-            "date": "2025-11-04 15:40:01"
-        },
-        {
-            "domain_name": "naturescloset.net",
-            "destination": "GridPane",
-            "date": "2025-11-04 13:37:16"
         }
     ],
     "dailyMovedStat": {
@@ -915,9 +915,9 @@
         "2025-11-04": "102586"
     },
     "topDestinationHosts": {
-        "Pressable": 11365,
+        "Pressable": 11366,
         "Kinsta": 6669,
-        "SiteGround": 5575,
+        "SiteGround": 5577,
         "Digital Ocean": 5198,
         "Bluehost": 4245,
         "Hostinger": 3754,
@@ -925,7 +925,7 @@
         "Liquid Web": 720,
         "BigScoots": 648,
         "WordPress.com": 519,
-        "InMotion Hosting": 448,
+        "InMotion Hosting": 449,
         "OVH": 444,
         "GridPane": 419,
         "A2 Hosting": 400,
