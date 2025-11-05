@@ -1,6 +1,11 @@
 {
-    "siteCount": 102623,
+    "siteCount": 102628,
     "recentlyMoved": [
+        {
+            "domain_name": "www.skipbinstoyou.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-05 05:03:14"
+        },
         {
             "domain_name": "eastonporter.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "lombardiwines.com",
             "destination": "SiteGround",
             "date": "2025-11-03 01:12:39"
-        },
-        {
-            "domain_name": "logicfortress.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-03 01:12:39"
         }
     ],
     "dailyMovedStat": {
@@ -916,7 +916,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11354,
-        "Kinsta": 6646,
+        "Kinsta": 6647,
         "SiteGround": 5569,
         "Digital Ocean": 5192,
         "Bluehost": 4243,
