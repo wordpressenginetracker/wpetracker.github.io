@@ -1,6 +1,26 @@
 {
-    "siteCount": 102651,
+    "siteCount": 102662,
     "recentlyMoved": [
+        {
+            "domain_name": "www.flaquarium.org",
+            "destination": "Kinsta",
+            "date": "2025-11-05 12:29:14"
+        },
+        {
+            "domain_name": "www.serviceprosmn.com",
+            "destination": "SiteGround",
+            "date": "2025-11-05 12:07:15"
+        },
+        {
+            "domain_name": "georgejerjian.com",
+            "destination": "Krystal Hosting",
+            "date": "2025-11-05 12:01:09"
+        },
+        {
+            "domain_name": "www.burkholdertrucksales.com",
+            "destination": "Kinsta",
+            "date": "2025-11-05 11:56:11"
+        },
         {
             "domain_name": "tnc25.geant.org",
             "destination": "Kinsta",
@@ -477,29 +497,9 @@
             "date": "2025-11-03 18:23:36"
         },
         {
-            "domain_name": "tribecalawsuitloans.com",
-            "destination": "Kinsta",
-            "date": "2025-11-03 18:10:51"
-        },
-        {
-            "domain_name": "mountain-montessori.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-03 17:45:46"
-        },
-        {
             "domain_name": "faded808lasertattooremoval.com",
             "destination": "SiteGround",
             "date": "2025-11-03 17:35:59"
-        },
-        {
-            "domain_name": "montessori-training-sc.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-03 17:22:24"
-        },
-        {
-            "domain_name": "tailoredsoftware.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-03 17:02:13"
         }
     ],
     "dailyMovedStat": {
@@ -916,8 +916,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11354,
-        "Kinsta": 6654,
-        "SiteGround": 5569,
+        "Kinsta": 6655,
+        "SiteGround": 5570,
         "Digital Ocean": 5192,
         "Bluehost": 4243,
         "Hostinger": 3751,
