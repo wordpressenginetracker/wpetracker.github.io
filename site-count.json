@@ -1,6 +1,16 @@
 {
-    "siteCount": 102615,
+    "siteCount": 102619,
     "recentlyMoved": [
+        {
+            "domain_name": "eastonporter.com",
+            "destination": "BigScoots",
+            "date": "2025-11-05 01:41:15"
+        },
+        {
+            "domain_name": "themacalusogroup.com",
+            "destination": "Kinsta",
+            "date": "2025-11-05 01:27:12"
+        },
         {
             "domain_name": "sodiumdichromate.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "logicfortress.com",
             "destination": "Digital Ocean",
             "date": "2025-11-03 01:12:39"
-        },
-        {
-            "domain_name": "smartnfix.com",
-            "destination": "Hostinger",
-            "date": "2025-11-03 00:43:24"
-        },
-        {
-            "domain_name": "www.kodamakoifarm.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-03 00:14:31"
         }
     ],
     "dailyMovedStat": {
@@ -916,14 +916,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11354,
-        "Kinsta": 6645,
+        "Kinsta": 6646,
         "SiteGround": 5569,
         "Digital Ocean": 5192,
         "Bluehost": 4243,
         "Hostinger": 3749,
         "GoDaddy": 1411,
         "Liquid Web": 719,
-        "BigScoots": 647,
+        "BigScoots": 648,
         "WordPress.com": 519,
         "InMotion Hosting": 448,
         "OVH": 444,
