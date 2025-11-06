@@ -1,6 +1,21 @@
 {
-    "siteCount": 102941,
+    "siteCount": 102948,
     "recentlyMoved": [
+        {
+            "domain_name": "cawnetworkusa.com",
+            "destination": "Pressable",
+            "date": "2025-11-06 13:15:41"
+        },
+        {
+            "domain_name": "www.powerdrykc.com",
+            "destination": "Kinsta",
+            "date": "2025-11-06 12:55:56"
+        },
+        {
+            "domain_name": "www.paysagistegeb.com",
+            "destination": "GridPane",
+            "date": "2025-11-06 12:40:56"
+        },
         {
             "domain_name": "www.cityofotsego.org",
             "destination": "Wordify",
@@ -477,11 +492,6 @@
             "date": "2025-11-05 10:12:07"
         },
         {
-            "domain_name": "community.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-11-05 09:02:31"
-        },
-        {
             "domain_name": "londonfireassociates.co.uk",
             "destination": "Kinsta",
             "date": "2025-11-05 08:59:58"
@@ -490,16 +500,6 @@
             "domain_name": "connect.geant.org",
             "destination": "Kinsta",
             "date": "2025-11-05 08:53:18"
-        },
-        {
-            "domain_name": "sodiumsaccharine.com",
-            "destination": "Hostinger",
-            "date": "2025-11-05 08:37:51"
-        },
-        {
-            "domain_name": "sodiummetal.com",
-            "destination": "Hostinger",
-            "date": "2025-11-05 08:37:51"
         }
     ],
     "dailyMovedStat": {
@@ -916,8 +916,8 @@
         "2025-11-05": "102833"
     },
     "topDestinationHosts": {
-        "Pressable": 11371,
-        "Kinsta": 6675,
+        "Pressable": 11372,
+        "Kinsta": 6676,
         "SiteGround": 5586,
         "Digital Ocean": 5200,
         "Bluehost": 4246,
@@ -928,7 +928,7 @@
         "WordPress.com": 519,
         "InMotion Hosting": 449,
         "OVH": 445,
-        "GridPane": 420,
+        "GridPane": 421,
         "A2 Hosting": 400,
         "IONOS": 384,
         "Namecheap": 381,
