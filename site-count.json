@@ -1,6 +1,11 @@
 {
-    "siteCount": 102890,
+    "siteCount": 102898,
     "recentlyMoved": [
+        {
+            "domain_name": "daviesuu.org",
+            "destination": "Hostinger",
+            "date": "2025-11-06 05:28:45"
+        },
         {
             "domain_name": "connectsmart.cloud",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-11-04 21:24:55"
         },
         {
-            "domain_name": "seykoraasphalt.com",
-            "destination": "SiteGround",
-            "date": "2025-11-04 21:02:26"
-        },
-        {
             "domain_name": "clavispropertymanagement.com",
             "destination": "Hostinger",
             "date": "2025-11-04 20:50:23"
@@ -921,7 +921,7 @@
         "SiteGround": 5586,
         "Digital Ocean": 5199,
         "Bluehost": 4246,
-        "Hostinger": 3758,
+        "Hostinger": 3759,
         "GoDaddy": 1413,
         "Liquid Web": 720,
         "BigScoots": 648,
