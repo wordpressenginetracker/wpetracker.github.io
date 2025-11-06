@@ -1,6 +1,21 @@
 {
-    "siteCount": 102855,
+    "siteCount": 102864,
     "recentlyMoved": [
+        {
+            "domain_name": "fearisnotlove.ca",
+            "destination": "Namecheap",
+            "date": "2025-11-06 02:21:34"
+        },
+        {
+            "domain_name": "morethancpr.com",
+            "destination": "SiteGround",
+            "date": "2025-11-06 02:16:32"
+        },
+        {
+            "domain_name": "elsistemausa.org",
+            "destination": "SiteGround",
+            "date": "2025-11-06 01:50:18"
+        },
         {
             "domain_name": "www.snmconsulting.com.au",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-11-04 18:12:15"
         },
         {
-            "domain_name": "docorp.net",
-            "destination": "Hostinger",
-            "date": "2025-11-04 18:07:59"
-        },
-        {
-            "domain_name": "theshowroomtx.com",
-            "destination": "IONOS",
-            "date": "2025-11-04 17:26:15"
-        },
-        {
             "domain_name": "toohillconsulting.com",
             "destination": "SiteGround",
             "date": "2025-11-04 17:25:50"
-        },
-        {
-            "domain_name": "thepilotlawyer.com",
-            "destination": "BigScoots",
-            "date": "2025-11-04 17:13:09"
         }
     ],
     "dailyMovedStat": {
@@ -918,8 +918,8 @@
     "topDestinationHosts": {
         "Pressable": 11368,
         "Kinsta": 6670,
-        "SiteGround": 5582,
-        "Digital Ocean": 5198,
+        "SiteGround": 5584,
+        "Digital Ocean": 5199,
         "Bluehost": 4246,
         "Hostinger": 3756,
         "GoDaddy": 1413,
@@ -931,7 +931,7 @@
         "GridPane": 420,
         "A2 Hosting": 400,
         "IONOS": 384,
-        "Namecheap": 379,
+        "Namecheap": 380,
         "DreamHost": 368,
         "Elementor Hosting": 364,
         "Hetzner Online": 296,
