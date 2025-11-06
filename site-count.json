@@ -1,6 +1,36 @@
 {
-    "siteCount": 102833,
+    "siteCount": 102846,
     "recentlyMoved": [
+        {
+            "domain_name": "polarisdawn.elsistemausa.org",
+            "destination": "SiteGround",
+            "date": "2025-11-06 00:13:00"
+        },
+        {
+            "domain_name": "ashleyjoanrobson.com",
+            "destination": "SiteGround",
+            "date": "2025-11-06 00:03:13"
+        },
+        {
+            "domain_name": "frankgayservices.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-06 00:00:45"
+        },
+        {
+            "domain_name": "westernmaine.org",
+            "destination": "Hostinger",
+            "date": "2025-11-06 00:00:12"
+        },
+        {
+            "domain_name": "www.austinrealestatehomesblog.com",
+            "destination": "SiteGround",
+            "date": "2025-11-05 23:44:42"
+        },
+        {
+            "domain_name": "andreagalbraith.com",
+            "destination": "SiteGround",
+            "date": "2025-11-05 23:41:33"
+        },
         {
             "domain_name": "espacioaunnaasociacion.es",
             "destination": "Hostinger",
@@ -470,36 +500,6 @@
             "domain_name": "susanshaw.ca",
             "destination": "SiteGround",
             "date": "2025-11-04 16:58:40"
-        },
-        {
-            "domain_name": "samaratherapy.com",
-            "destination": "Kinsta",
-            "date": "2025-11-04 16:56:41"
-        },
-        {
-            "domain_name": "hklawstl.com",
-            "destination": "BigScoots",
-            "date": "2025-11-04 16:33:56"
-        },
-        {
-            "domain_name": "bambooplumbing.com",
-            "destination": "SiteGround",
-            "date": "2025-11-04 16:25:30"
-        },
-        {
-            "domain_name": "ronstowing.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-04 16:13:42"
-        },
-        {
-            "domain_name": "www.chandlerair.com",
-            "destination": "Kinsta",
-            "date": "2025-11-04 16:00:10"
-        },
-        {
-            "domain_name": "rhombusguyspizza.com",
-            "destination": "Hostinger",
-            "date": "2025-11-04 15:53:49"
         }
     ],
     "dailyMovedStat": {
@@ -918,11 +918,11 @@
     "topDestinationHosts": {
         "Pressable": 11366,
         "Kinsta": 6669,
-        "SiteGround": 5577,
+        "SiteGround": 5581,
         "Digital Ocean": 5198,
         "Bluehost": 4245,
-        "Hostinger": 3755,
-        "GoDaddy": 1411,
+        "Hostinger": 3756,
+        "GoDaddy": 1412,
         "Liquid Web": 720,
         "BigScoots": 648,
         "WordPress.com": 519,
