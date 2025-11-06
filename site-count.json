@@ -1,10 +1,30 @@
 {
-    "siteCount": 102915,
+    "siteCount": 102923,
     "recentlyMoved": [
+        {
+            "domain_name": "ulexite.biz",
+            "destination": "Hostinger",
+            "date": "2025-11-06 09:56:56"
+        },
+        {
+            "domain_name": "trisodium-phosphate.com",
+            "destination": "Hostinger",
+            "date": "2025-11-06 09:52:00"
+        },
+        {
+            "domain_name": "thedesignerscollaborative.com",
+            "destination": "Kinsta",
+            "date": "2025-11-06 09:46:49"
+        },
         {
             "domain_name": "stpp.biz",
             "destination": "Hostinger",
             "date": "2025-11-06 09:23:38"
+        },
+        {
+            "domain_name": "tapioca-starch.com",
+            "destination": "Hostinger",
+            "date": "2025-11-06 09:10:33"
         },
         {
             "domain_name": "smallfoundation.ie",
@@ -480,26 +500,6 @@
             "domain_name": "street-fame.com",
             "destination": "DreamHost",
             "date": "2025-11-05 01:03:36"
-        },
-        {
-            "domain_name": "simonkentoninn.com",
-            "destination": "Hostinger",
-            "date": "2025-11-05 01:02:17"
-        },
-        {
-            "domain_name": "ilprimopizza.com",
-            "destination": "Hostinger",
-            "date": "2025-11-05 00:04:53"
-        },
-        {
-            "domain_name": "www.gahlterrace.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-04 23:59:08"
-        },
-        {
-            "domain_name": "urapuntja.com.au",
-            "destination": "Digital Ocean",
-            "date": "2025-11-04 22:08:43"
         }
     ],
     "dailyMovedStat": {
@@ -917,11 +917,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11369,
-        "Kinsta": 6673,
+        "Kinsta": 6674,
         "SiteGround": 5586,
         "Digital Ocean": 5199,
         "Bluehost": 4246,
-        "Hostinger": 3761,
+        "Hostinger": 3764,
         "GoDaddy": 1413,
         "Liquid Web": 720,
         "BigScoots": 648,
