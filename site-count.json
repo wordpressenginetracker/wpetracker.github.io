@@ -1,10 +1,40 @@
 {
-    "siteCount": 103329,
+    "siteCount": 103341,
     "recentlyMoved": [
+        {
+            "domain_name": "brainbasedhs.com",
+            "destination": "Hostinger",
+            "date": "2025-11-07 20:55:54"
+        },
+        {
+            "domain_name": "www.lawncaredistributors.com",
+            "destination": "Kinsta",
+            "date": "2025-11-07 20:52:29"
+        },
+        {
+            "domain_name": "sculptpdx.com",
+            "destination": "Kinsta",
+            "date": "2025-11-07 20:48:15"
+        },
+        {
+            "domain_name": "intranet.lutz.us",
+            "destination": "GoDaddy",
+            "date": "2025-11-07 20:44:58"
+        },
+        {
+            "domain_name": "iamsomeone.org.au",
+            "destination": "SiteGround",
+            "date": "2025-11-07 20:42:27"
+        },
         {
             "domain_name": "quiltpro.com",
             "destination": "Kinsta",
             "date": "2025-11-07 20:31:24"
+        },
+        {
+            "domain_name": "isbellrentals.com",
+            "destination": "Kinsta",
+            "date": "2025-11-07 20:09:46"
         },
         {
             "domain_name": "artandfashion.co",
@@ -470,36 +500,6 @@
             "domain_name": "thedesignerscollaborative.com",
             "destination": "Kinsta",
             "date": "2025-11-06 09:46:49"
-        },
-        {
-            "domain_name": "stpp.biz",
-            "destination": "Hostinger",
-            "date": "2025-11-06 09:23:38"
-        },
-        {
-            "domain_name": "tapioca-starch.com",
-            "destination": "Hostinger",
-            "date": "2025-11-06 09:10:33"
-        },
-        {
-            "domain_name": "smallfoundation.ie",
-            "destination": "Krystal Hosting",
-            "date": "2025-11-06 08:56:21"
-        },
-        {
-            "domain_name": "janegoodrichphotography.com",
-            "destination": "Namecheap",
-            "date": "2025-11-06 08:47:34"
-        },
-        {
-            "domain_name": "sorbitol.biz",
-            "destination": "Hostinger",
-            "date": "2025-11-06 08:31:49"
-        },
-        {
-            "domain_name": "daviesuu.org",
-            "destination": "Hostinger",
-            "date": "2025-11-06 05:28:45"
         }
     ],
     "dailyMovedStat": {
@@ -918,12 +918,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11385,
-        "Kinsta": 6700,
-        "SiteGround": 5598,
+        "Kinsta": 6703,
+        "SiteGround": 5600,
         "Digital Ocean": 5206,
         "Bluehost": 4246,
-        "Hostinger": 3773,
-        "GoDaddy": 1416,
+        "Hostinger": 3774,
+        "GoDaddy": 1417,
         "Liquid Web": 725,
         "BigScoots": 649,
         "WordPress.com": 521,
