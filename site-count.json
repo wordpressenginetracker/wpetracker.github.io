@@ -1,6 +1,31 @@
 {
-    "siteCount": 103200,
+    "siteCount": 103217,
     "recentlyMoved": [
+        {
+            "domain_name": "sydneyjewishmuseum.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-07 13:07:25"
+        },
+        {
+            "domain_name": "surreysnagging.com",
+            "destination": "Kinsta",
+            "date": "2025-11-07 13:03:53"
+        },
+        {
+            "domain_name": "saworks.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-07 13:01:11"
+        },
+        {
+            "domain_name": "www.mydentalcaresolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-11-07 12:42:58"
+        },
+        {
+            "domain_name": "canadamintcoins.com",
+            "destination": "SiteGround",
+            "date": "2025-11-07 12:21:07"
+        },
         {
             "domain_name": "ambianceiq.com",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "www.dix1898.com",
             "destination": "Kinsta",
             "date": "2025-11-05 20:08:56"
-        },
-        {
-            "domain_name": "www.centralbucksoil.com",
-            "destination": "Kinsta",
-            "date": "2025-11-05 19:54:09"
-        },
-        {
-            "domain_name": "gaythornersl.com.au",
-            "destination": "SiteGround",
-            "date": "2025-11-05 19:51:59"
-        },
-        {
-            "domain_name": "4everyoungantiaging.com",
-            "destination": "SiteGround",
-            "date": "2025-11-05 19:51:14"
-        },
-        {
-            "domain_name": "www.acornschool.org",
-            "destination": "Kinsta",
-            "date": "2025-11-05 19:26:26"
-        },
-        {
-            "domain_name": "myskylights.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-05 17:38:47"
         }
     ],
     "dailyMovedStat": {
@@ -918,9 +918,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11380,
-        "Kinsta": 6687,
-        "SiteGround": 5593,
-        "Digital Ocean": 5205,
+        "Kinsta": 6688,
+        "SiteGround": 5594,
+        "Digital Ocean": 5206,
         "Bluehost": 4246,
         "Hostinger": 3771,
         "GoDaddy": 1413,
