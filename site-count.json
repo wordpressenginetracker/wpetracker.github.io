@@ -1,6 +1,16 @@
 {
-    "siteCount": 103555,
+    "siteCount": 103566,
     "recentlyMoved": [
+        {
+            "domain_name": "titanrealtyhomesellers.com",
+            "destination": "Bluehost",
+            "date": "2025-11-08 22:05:54"
+        },
+        {
+            "domain_name": "titanrealtyhomebuyers.com",
+            "destination": "Bluehost",
+            "date": "2025-11-08 22:05:54"
+        },
         {
             "domain_name": "landmaintenancehouston.com",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "alliancehvac.net",
             "destination": "Liquid Web",
             "date": "2025-11-07 15:41:31"
-        },
-        {
-            "domain_name": "drclintsteele.com",
-            "destination": "Hostinger",
-            "date": "2025-11-07 13:40:26"
-        },
-        {
-            "domain_name": "tnc.geant.org",
-            "destination": "Kinsta",
-            "date": "2025-11-07 13:37:40"
         }
     ],
     "dailyMovedStat": {
@@ -922,7 +922,7 @@
         "Kinsta": 6723,
         "SiteGround": 5615,
         "Digital Ocean": 5215,
-        "Bluehost": 4246,
+        "Bluehost": 4248,
         "Hostinger": 3781,
         "GoDaddy": 1420,
         "Liquid Web": 725,
