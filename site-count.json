@@ -1,6 +1,11 @@
 {
-    "siteCount": 103402,
+    "siteCount": 103406,
     "recentlyMoved": [
+        {
+            "domain_name": "emeliebergstrom.se",
+            "destination": "Elementor Hosting",
+            "date": "2025-11-08 05:44:15"
+        },
         {
             "domain_name": "www.edwardwilliamslaw.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "benchmarkfamilyservices.org",
             "destination": "Hostinger",
             "date": "2025-11-06 16:06:29"
-        },
-        {
-            "domain_name": "givingtuesday.theeffect.org",
-            "destination": "SiteGround",
-            "date": "2025-11-06 15:32:53"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
         "IONOS": 387,
         "Namecheap": 383,
         "DreamHost": 368,
-        "Elementor Hosting": 365,
+        "Elementor Hosting": 366,
         "Hetzner Online": 297,
         "HostGator": 236
     },
