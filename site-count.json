@@ -1,6 +1,11 @@
 {
-    "siteCount": 103548,
+    "siteCount": 103555,
     "recentlyMoved": [
+        {
+            "domain_name": "landmaintenancehouston.com",
+            "destination": "SiteGround",
+            "date": "2025-11-08 21:07:44"
+        },
         {
             "domain_name": "www.esmquebec.com",
             "destination": "GridPane",
@@ -10,6 +15,11 @@
             "domain_name": "goodglendalehomesforsale.com",
             "destination": "InMotion Hosting",
             "date": "2025-11-08 20:07:43"
+        },
+        {
+            "domain_name": "www.kandmwines.com",
+            "destination": "SiteGround",
+            "date": "2025-11-08 20:06:09"
         },
         {
             "domain_name": "woodhavencc.ca",
@@ -490,16 +500,6 @@
             "domain_name": "tnc.geant.org",
             "destination": "Kinsta",
             "date": "2025-11-07 13:37:40"
-        },
-        {
-            "domain_name": "www.vareladiesel.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-07 13:32:02"
-        },
-        {
-            "domain_name": "sydneyjewishmuseum.com.au",
-            "destination": "Kinsta",
-            "date": "2025-11-07 13:07:25"
         }
     ],
     "dailyMovedStat": {
@@ -920,7 +920,7 @@
     "topDestinationHosts": {
         "Pressable": 11389,
         "Kinsta": 6723,
-        "SiteGround": 5613,
+        "SiteGround": 5615,
         "Digital Ocean": 5215,
         "Bluehost": 4246,
         "Hostinger": 3781,
@@ -930,7 +930,7 @@
         "WordPress.com": 522,
         "InMotion Hosting": 451,
         "OVH": 448,
-        "GridPane": 428,
+        "GridPane": 429,
         "A2 Hosting": 400,
         "IONOS": 387,
         "Namecheap": 383,
