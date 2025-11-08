@@ -1,6 +1,21 @@
 {
-    "siteCount": 103365,
+    "siteCount": 103376,
     "recentlyMoved": [
+        {
+            "domain_name": "triangletiresph.com",
+            "destination": "Kinsta",
+            "date": "2025-11-08 02:00:26"
+        },
+        {
+            "domain_name": "dimensiongrc.com",
+            "destination": "Pressable",
+            "date": "2025-11-08 01:38:56"
+        },
+        {
+            "domain_name": "dermishealth.com",
+            "destination": "SiteGround",
+            "date": "2025-11-08 01:17:01"
+        },
         {
             "domain_name": "icobath.com",
             "destination": "Kinsta",
@@ -482,21 +497,6 @@
             "date": "2025-11-06 12:40:56"
         },
         {
-            "domain_name": "www.cityofotsego.org",
-            "destination": "Wordify",
-            "date": "2025-11-06 12:27:04"
-        },
-        {
-            "domain_name": "www.canfieldcustompumps.com",
-            "destination": "Pressable",
-            "date": "2025-11-06 12:11:16"
-        },
-        {
-            "domain_name": "haarundmehr.com",
-            "destination": "Kinsta",
-            "date": "2025-11-06 11:45:35"
-        },
-        {
             "domain_name": "raise-rite.com",
             "destination": "Liquid Web",
             "date": "2025-11-06 11:42:46"
@@ -918,9 +918,9 @@
         "2025-11-07": "103352"
     },
     "topDestinationHosts": {
-        "Pressable": 11386,
-        "Kinsta": 6707,
-        "SiteGround": 5601,
+        "Pressable": 11387,
+        "Kinsta": 6708,
+        "SiteGround": 5602,
         "Digital Ocean": 5206,
         "Bluehost": 4246,
         "Hostinger": 3774,
