@@ -1,6 +1,11 @@
 {
-    "siteCount": 103354,
+    "siteCount": 103365,
     "recentlyMoved": [
+        {
+            "domain_name": "icobath.com",
+            "destination": "Kinsta",
+            "date": "2025-11-08 00:20:00"
+        },
         {
             "domain_name": "thesterlingaventura.com",
             "destination": "SiteGround",
@@ -492,11 +497,6 @@
             "date": "2025-11-06 11:45:35"
         },
         {
-            "domain_name": "www.dentalhealthg.com",
-            "destination": "Pressable",
-            "date": "2025-11-06 11:44:20"
-        },
-        {
             "domain_name": "raise-rite.com",
             "destination": "Liquid Web",
             "date": "2025-11-06 11:42:46"
@@ -919,7 +919,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11386,
-        "Kinsta": 6706,
+        "Kinsta": 6707,
         "SiteGround": 5601,
         "Digital Ocean": 5206,
         "Bluehost": 4246,
