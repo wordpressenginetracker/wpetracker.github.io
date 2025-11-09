@@ -1,6 +1,11 @@
 {
-    "siteCount": 103592,
+    "siteCount": 103597,
     "recentlyMoved": [
+        {
+            "domain_name": "cannongreencharleston.com",
+            "destination": "BigScoots",
+            "date": "2025-11-09 12:27:55"
+        },
         {
             "domain_name": "www.cedarhillprep.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "swaianativefashion.org",
             "destination": "SiteGround",
             "date": "2025-11-07 16:52:59"
-        },
-        {
-            "domain_name": "ciaccioroofing.com",
-            "destination": "SiteGround",
-            "date": "2025-11-07 16:48:46"
         }
     ],
     "dailyMovedStat": {
@@ -927,7 +927,7 @@
         "Hostinger": 3784,
         "GoDaddy": 1420,
         "Liquid Web": 725,
-        "BigScoots": 651,
+        "BigScoots": 652,
         "WordPress.com": 522,
         "InMotion Hosting": 451,
         "OVH": 448,
