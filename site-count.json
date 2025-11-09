@@ -1,6 +1,11 @@
 {
-    "siteCount": 103601,
+    "siteCount": 103604,
     "recentlyMoved": [
+        {
+            "domain_name": "whiteoakvfc1.com",
+            "destination": "Pressable",
+            "date": "2025-11-09 15:57:22"
+        },
         {
             "domain_name": "theodoredawesfire.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "dehaanbuildingsolutions.com",
             "destination": "GoDaddy",
             "date": "2025-11-07 17:17:39"
-        },
-        {
-            "domain_name": "lushwineandspirits.com",
-            "destination": "Pressable",
-            "date": "2025-11-07 17:11:56"
         }
     ],
     "dailyMovedStat": {
@@ -919,7 +919,7 @@
         "2025-11-08": "103566"
     },
     "topDestinationHosts": {
-        "Pressable": 11391,
+        "Pressable": 11392,
         "Kinsta": 6725,
         "SiteGround": 5615,
         "Digital Ocean": 5216,
