@@ -1,6 +1,11 @@
 {
-    "siteCount": 103572,
+    "siteCount": 103574,
     "recentlyMoved": [
+        {
+            "domain_name": "luminusfinancial.com",
+            "destination": "Kinsta",
+            "date": "2025-11-09 01:45:22"
+        },
         {
             "domain_name": "spraytanannapolis.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "rockspotclimbing.com",
             "destination": "Liquid Web",
             "date": "2025-11-07 16:10:07"
-        },
-        {
-            "domain_name": "rejuvalife.md",
-            "destination": "GridPane",
-            "date": "2025-11-07 15:52:47"
         }
     ],
     "dailyMovedStat": {
@@ -920,7 +920,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11389,
-        "Kinsta": 6724,
+        "Kinsta": 6725,
         "SiteGround": 5615,
         "Digital Ocean": 5216,
         "Bluehost": 4248,
