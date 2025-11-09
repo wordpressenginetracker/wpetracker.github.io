@@ -1,6 +1,11 @@
 {
-    "siteCount": 103614,
+    "siteCount": 103615,
     "recentlyMoved": [
+        {
+            "domain_name": "feed.apicolscience.ro",
+            "destination": "Digital Ocean",
+            "date": "2025-11-09 18:50:53"
+        },
         {
             "domain_name": "thiellsfd.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "mitstampabay.com",
             "destination": "Kinsta",
             "date": "2025-11-07 17:25:08"
-        },
-        {
-            "domain_name": "mitsstjohnsfl.com",
-            "destination": "Kinsta",
-            "date": "2025-11-07 17:25:08"
         }
     ],
     "dailyMovedStat": {
@@ -922,7 +922,7 @@
         "Pressable": 11395,
         "Kinsta": 6725,
         "SiteGround": 5616,
-        "Digital Ocean": 5216,
+        "Digital Ocean": 5217,
         "Bluehost": 4249,
         "Hostinger": 3784,
         "GoDaddy": 1420,
