@@ -1,6 +1,11 @@
 {
-    "siteCount": 103574,
+    "siteCount": 103582,
     "recentlyMoved": [
+        {
+            "domain_name": "hempvidaplus.com",
+            "destination": "Namecheap",
+            "date": "2025-11-09 03:59:28"
+        },
         {
             "domain_name": "luminusfinancial.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "campusrepair.com",
             "destination": "Pressable",
             "date": "2025-11-07 16:21:35"
-        },
-        {
-            "domain_name": "rockspotclimbing.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-07 16:10:07"
         }
     ],
     "dailyMovedStat": {
@@ -934,7 +934,7 @@
         "GridPane": 429,
         "A2 Hosting": 400,
         "IONOS": 387,
-        "Namecheap": 383,
+        "Namecheap": 384,
         "DreamHost": 368,
         "Elementor Hosting": 366,
         "Hetzner Online": 297,
