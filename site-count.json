@@ -1,6 +1,11 @@
 {
-    "siteCount": 103585,
+    "siteCount": 103587,
     "recentlyMoved": [
+        {
+            "domain_name": "thestaroftheeast.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-11-09 09:55:55"
+        },
         {
             "domain_name": "www.mortgagefeeclassaction.com",
             "destination": "Namecheap",
@@ -482,11 +487,6 @@
             "date": "2025-11-07 16:54:59"
         },
         {
-            "domain_name": "casaligna.com",
-            "destination": "Kinsta",
-            "date": "2025-11-07 16:53:01"
-        },
-        {
             "domain_name": "swaianativefashion.org",
             "destination": "SiteGround",
             "date": "2025-11-07 16:52:59"
@@ -924,7 +924,7 @@
         "SiteGround": 5615,
         "Digital Ocean": 5216,
         "Bluehost": 4248,
-        "Hostinger": 3782,
+        "Hostinger": 3783,
         "GoDaddy": 1420,
         "Liquid Web": 725,
         "BigScoots": 651,
