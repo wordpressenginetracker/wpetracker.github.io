@@ -1,6 +1,16 @@
 {
-    "siteCount": 103639,
+    "siteCount": 103644,
     "recentlyMoved": [
+        {
+            "domain_name": "ccmanitowoc.org",
+            "destination": "SiteGround",
+            "date": "2025-11-09 20:53:04"
+        },
+        {
+            "domain_name": "www.multiversediscovery.com",
+            "destination": "Bluehost",
+            "date": "2025-11-09 20:35:23"
+        },
         {
             "domain_name": "whitesborofd.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "vitalleohealth.com",
             "destination": "GoDaddy",
             "date": "2025-11-07 18:24:23"
-        },
-        {
-            "domain_name": "vancouverblackfilmfest.com",
-            "destination": "Hostinger",
-            "date": "2025-11-07 17:54:40"
-        },
-        {
-            "domain_name": "mv8fc.org",
-            "destination": "Pressable",
-            "date": "2025-11-07 17:49:37"
         }
     ],
     "dailyMovedStat": {
@@ -921,9 +921,9 @@
     "topDestinationHosts": {
         "Pressable": 11396,
         "Kinsta": 6725,
-        "SiteGround": 5616,
+        "SiteGround": 5617,
         "Digital Ocean": 5217,
-        "Bluehost": 4249,
+        "Bluehost": 4250,
         "Hostinger": 3784,
         "GoDaddy": 1420,
         "Liquid Web": 725,
