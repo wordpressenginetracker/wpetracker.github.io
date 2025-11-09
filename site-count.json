@@ -1,6 +1,16 @@
 {
-    "siteCount": 103644,
+    "siteCount": 103647,
     "recentlyMoved": [
+        {
+            "domain_name": "feed.life-bio.ro",
+            "destination": "Digital Ocean",
+            "date": "2025-11-09 21:59:37"
+        },
+        {
+            "domain_name": "feed.dvrpharm.ro",
+            "destination": "Digital Ocean",
+            "date": "2025-11-09 21:59:37"
+        },
         {
             "domain_name": "ccmanitowoc.org",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "adamsqualitymasonry.com",
             "destination": "Pressable",
             "date": "2025-11-07 19:48:27"
-        },
-        {
-            "domain_name": "windsorgreenhouse.ca",
-            "destination": "Kinsta",
-            "date": "2025-11-07 19:12:53"
-        },
-        {
-            "domain_name": "vitalleohealth.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-07 18:24:23"
         }
     ],
     "dailyMovedStat": {
@@ -922,7 +922,7 @@
         "Pressable": 11396,
         "Kinsta": 6725,
         "SiteGround": 5617,
-        "Digital Ocean": 5217,
+        "Digital Ocean": 5219,
         "Bluehost": 4250,
         "Hostinger": 3784,
         "GoDaddy": 1420,
