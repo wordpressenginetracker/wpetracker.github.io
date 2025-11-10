@@ -1,6 +1,11 @@
 {
-    "siteCount": 103695,
+    "siteCount": 103698,
     "recentlyMoved": [
+        {
+            "domain_name": "thelakeschiropractic.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-10 13:45:35"
+        },
         {
             "domain_name": "cardielconstruction.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "absoluteenergysystems.com",
             "destination": "Hostinger",
             "date": "2025-11-08 03:35:29"
-        },
-        {
-            "domain_name": "triangletiresph.com",
-            "destination": "Kinsta",
-            "date": "2025-11-08 02:00:26"
         }
     ],
     "dailyMovedStat": {
@@ -920,7 +920,7 @@
         "2025-11-09": "103647"
     },
     "topDestinationHosts": {
-        "Pressable": 11399,
+        "Pressable": 11400,
         "Kinsta": 6728,
         "SiteGround": 5620,
         "Digital Ocean": 5220,
