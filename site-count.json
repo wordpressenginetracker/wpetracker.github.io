@@ -1,6 +1,16 @@
 {
-    "siteCount": 103672,
+    "siteCount": 103678,
     "recentlyMoved": [
+        {
+            "domain_name": "www.reprofortcollins.com",
+            "destination": "Pressable",
+            "date": "2025-11-10 05:22:46"
+        },
+        {
+            "domain_name": "charlesstreetplaza.com.au",
+            "destination": "Hostinger",
+            "date": "2025-11-10 04:30:09"
+        },
         {
             "domain_name": "myseductress.com.au",
             "destination": "SiteGround",
@@ -482,11 +492,6 @@
             "date": "2025-11-08 00:20:00"
         },
         {
-            "domain_name": "thesterlingaventura.com",
-            "destination": "SiteGround",
-            "date": "2025-11-07 22:03:35"
-        },
-        {
             "domain_name": "mitstallahassee.com",
             "destination": "Kinsta",
             "date": "2025-11-07 22:02:48"
@@ -495,11 +500,6 @@
             "domain_name": "metaltech.com",
             "destination": "Kinsta",
             "date": "2025-11-07 21:17:14"
-        },
-        {
-            "domain_name": "theathensofamerica.com",
-            "destination": "Pressable",
-            "date": "2025-11-07 21:12:53"
         }
     ],
     "dailyMovedStat": {
@@ -920,12 +920,12 @@
         "2025-11-09": "103647"
     },
     "topDestinationHosts": {
-        "Pressable": 11397,
+        "Pressable": 11398,
         "Kinsta": 6726,
         "SiteGround": 5620,
         "Digital Ocean": 5220,
         "Bluehost": 4252,
-        "Hostinger": 3787,
+        "Hostinger": 3788,
         "GoDaddy": 1420,
         "Liquid Web": 725,
         "BigScoots": 653,
