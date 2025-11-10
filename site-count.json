@@ -1,6 +1,26 @@
 {
-    "siteCount": 103688,
+    "siteCount": 103692,
     "recentlyMoved": [
+        {
+            "domain_name": "bauercrestfoundation.org",
+            "destination": "Kinsta",
+            "date": "2025-11-10 12:24:05"
+        },
+        {
+            "domain_name": "growinc.net",
+            "destination": "Kinsta",
+            "date": "2025-11-10 12:00:16"
+        },
+        {
+            "domain_name": "friendswithtales.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-10 11:59:19"
+        },
+        {
+            "domain_name": "gameplantutoring.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-10 11:31:32"
+        },
         {
             "domain_name": "www.reprofortcollins.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "dimensiongrc.com",
             "destination": "Pressable",
             "date": "2025-11-08 01:38:56"
-        },
-        {
-            "domain_name": "dermishealth.com",
-            "destination": "SiteGround",
-            "date": "2025-11-08 01:17:01"
-        },
-        {
-            "domain_name": "icobath.com",
-            "destination": "Kinsta",
-            "date": "2025-11-08 00:20:00"
-        },
-        {
-            "domain_name": "mitstallahassee.com",
-            "destination": "Kinsta",
-            "date": "2025-11-07 22:02:48"
-        },
-        {
-            "domain_name": "metaltech.com",
-            "destination": "Kinsta",
-            "date": "2025-11-07 21:17:14"
         }
     ],
     "dailyMovedStat": {
@@ -920,8 +920,8 @@
         "2025-11-09": "103647"
     },
     "topDestinationHosts": {
-        "Pressable": 11398,
-        "Kinsta": 6726,
+        "Pressable": 11399,
+        "Kinsta": 6727,
         "SiteGround": 5620,
         "Digital Ocean": 5220,
         "Bluehost": 4252,
@@ -930,7 +930,7 @@
         "Liquid Web": 725,
         "BigScoots": 653,
         "WordPress.com": 522,
-        "InMotion Hosting": 451,
+        "InMotion Hosting": 452,
         "OVH": 448,
         "GridPane": 430,
         "A2 Hosting": 400,
