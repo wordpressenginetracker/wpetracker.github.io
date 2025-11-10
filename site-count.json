@@ -1,6 +1,11 @@
 {
-    "siteCount": 103692,
+    "siteCount": 103695,
     "recentlyMoved": [
+        {
+            "domain_name": "cardielconstruction.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-10 13:05:38"
+        },
         {
             "domain_name": "bauercrestfoundation.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "triangletiresph.com",
             "destination": "Kinsta",
             "date": "2025-11-08 02:00:26"
-        },
-        {
-            "domain_name": "dimensiongrc.com",
-            "destination": "Pressable",
-            "date": "2025-11-08 01:38:56"
         }
     ],
     "dailyMovedStat": {
@@ -921,7 +921,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11399,
-        "Kinsta": 6727,
+        "Kinsta": 6728,
         "SiteGround": 5620,
         "Digital Ocean": 5220,
         "Bluehost": 4252,
@@ -930,7 +930,7 @@
         "Liquid Web": 725,
         "BigScoots": 653,
         "WordPress.com": 522,
-        "InMotion Hosting": 452,
+        "InMotion Hosting": 453,
         "OVH": 448,
         "GridPane": 430,
         "A2 Hosting": 400,
