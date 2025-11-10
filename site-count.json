@@ -1,6 +1,26 @@
 {
-    "siteCount": 103729,
+    "siteCount": 103735,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sibbach.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-10 21:10:17"
+        },
+        {
+            "domain_name": "smartstartinterlocks.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-10 21:06:47"
+        },
+        {
+            "domain_name": "insurise-financial.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-10 20:27:16"
+        },
+        {
+            "domain_name": "bspn.com.au",
+            "destination": "SiteGround",
+            "date": "2025-11-10 20:21:48"
+        },
         {
             "domain_name": "pinnacledistro.com",
             "destination": "Digital Ocean",
@@ -477,29 +497,9 @@
             "date": "2025-11-08 08:31:41"
         },
         {
-            "domain_name": "www.cucumber-catering.com",
-            "destination": "Krystal Hosting",
-            "date": "2025-11-08 08:31:41"
-        },
-        {
             "domain_name": "scootersonstraddie.com.au",
             "destination": "Hostinger",
             "date": "2025-11-08 08:15:16"
-        },
-        {
-            "domain_name": "papayapay.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2025-11-08 08:01:49"
-        },
-        {
-            "domain_name": "emeliebergstrom.se",
-            "destination": "Elementor Hosting",
-            "date": "2025-11-08 05:44:15"
-        },
-        {
-            "domain_name": "www.gairgallo.com",
-            "destination": "Kinsta",
-            "date": "2025-11-08 04:28:06"
         }
     ],
     "dailyMovedStat": {
@@ -920,9 +920,9 @@
         "2025-11-09": "103647"
     },
     "topDestinationHosts": {
-        "Pressable": 11400,
+        "Pressable": 11402,
         "Kinsta": 6729,
-        "SiteGround": 5621,
+        "SiteGround": 5622,
         "Digital Ocean": 5221,
         "Bluehost": 4252,
         "Hostinger": 3790,
@@ -930,7 +930,7 @@
         "Liquid Web": 725,
         "BigScoots": 653,
         "WordPress.com": 522,
-        "InMotion Hosting": 453,
+        "InMotion Hosting": 454,
         "OVH": 449,
         "GridPane": 430,
         "A2 Hosting": 400,
