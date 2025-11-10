@@ -1,6 +1,11 @@
 {
-    "siteCount": 103710,
+    "siteCount": 103729,
     "recentlyMoved": [
+        {
+            "domain_name": "pinnacledistro.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-10 19:26:50"
+        },
         {
             "domain_name": "www.santearmenie.org",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "www.gairgallo.com",
             "destination": "Kinsta",
             "date": "2025-11-08 04:28:06"
-        },
-        {
-            "domain_name": "resurrectiongeneralcontractors.com",
-            "destination": "Hostinger",
-            "date": "2025-11-08 04:20:05"
         }
     ],
     "dailyMovedStat": {
@@ -923,7 +923,7 @@
         "Pressable": 11400,
         "Kinsta": 6729,
         "SiteGround": 5621,
-        "Digital Ocean": 5220,
+        "Digital Ocean": 5221,
         "Bluehost": 4252,
         "Hostinger": 3790,
         "GoDaddy": 1420,
