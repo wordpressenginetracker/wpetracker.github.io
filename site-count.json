@@ -1,6 +1,11 @@
 {
-    "siteCount": 103748,
+    "siteCount": 103754,
     "recentlyMoved": [
+        {
+            "domain_name": "cruisejettravel.com",
+            "destination": "Hostinger",
+            "date": "2025-11-11 01:22:27"
+        },
         {
             "domain_name": "rathminesgroup.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "transcripta.com",
             "destination": "Digital Ocean",
             "date": "2025-11-08 09:38:31"
-        },
-        {
-            "domain_name": "teachincambs.org.uk",
-            "destination": "Hostinger",
-            "date": "2025-11-08 09:31:58"
         }
     ],
     "dailyMovedStat": {
@@ -926,7 +926,7 @@
         "SiteGround": 5622,
         "Digital Ocean": 5222,
         "Bluehost": 4252,
-        "Hostinger": 3791,
+        "Hostinger": 3792,
         "GoDaddy": 1420,
         "Liquid Web": 725,
         "BigScoots": 653,
