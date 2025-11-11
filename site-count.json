@@ -1,10 +1,45 @@
 {
-    "siteCount": 103877,
+    "siteCount": 103892,
     "recentlyMoved": [
+        {
+            "domain_name": "nextlevelspartans.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-11 18:47:19"
+        },
+        {
+            "domain_name": "epiqcg.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-11 18:28:55"
+        },
+        {
+            "domain_name": "trustingnews.org",
+            "destination": "Kinsta",
+            "date": "2025-11-11 17:58:16"
+        },
+        {
+            "domain_name": "lobstermaine-ia.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-11 17:57:53"
+        },
+        {
+            "domain_name": "virtualworkhorseteam.com",
+            "destination": "SiteGround",
+            "date": "2025-11-11 17:54:39"
+        },
+        {
+            "domain_name": "mcvfd.org",
+            "destination": "Pressable",
+            "date": "2025-11-11 17:52:55"
+        },
         {
             "domain_name": "suffernfire.com",
             "destination": "Pressable",
             "date": "2025-11-11 17:47:11"
+        },
+        {
+            "domain_name": "elevarpictures.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-11 17:42:22"
         },
         {
             "domain_name": "churchgrowthservices.com",
@@ -465,41 +500,6 @@
             "domain_name": "www.multiversediscovery.com",
             "destination": "Bluehost",
             "date": "2025-11-09 20:35:23"
-        },
-        {
-            "domain_name": "whitesborofd.com",
-            "destination": "Pressable",
-            "date": "2025-11-09 19:52:32"
-        },
-        {
-            "domain_name": "feed.apicolscience.ro",
-            "destination": "Digital Ocean",
-            "date": "2025-11-09 18:50:53"
-        },
-        {
-            "domain_name": "thiellsfd.com",
-            "destination": "Pressable",
-            "date": "2025-11-09 18:02:58"
-        },
-        {
-            "domain_name": "dooleydesigngroup.com",
-            "destination": "SiteGround",
-            "date": "2025-11-09 17:47:21"
-        },
-        {
-            "domain_name": "candlewoodfire.com",
-            "destination": "Pressable",
-            "date": "2025-11-09 16:40:37"
-        },
-        {
-            "domain_name": "rvfd400.com",
-            "destination": "Pressable",
-            "date": "2025-11-09 16:21:21"
-        },
-        {
-            "domain_name": "whiteoakvfc1.com",
-            "destination": "Pressable",
-            "date": "2025-11-09 15:57:22"
         }
     ],
     "dailyMovedStat": {
@@ -921,13 +921,13 @@
         "2025-11-10": "103739"
     },
     "topDestinationHosts": {
-        "Pressable": 11410,
-        "Kinsta": 6747,
+        "Pressable": 11412,
+        "Kinsta": 6748,
         "SiteGround": 5627,
-        "Digital Ocean": 5231,
+        "Digital Ocean": 5233,
         "Bluehost": 4253,
         "Hostinger": 3795,
-        "GoDaddy": 1420,
+        "GoDaddy": 1421,
         "Liquid Web": 726,
         "BigScoots": 654,
         "WordPress.com": 523,
