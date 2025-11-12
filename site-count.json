@@ -1,6 +1,11 @@
 {
-    "siteCount": 103996,
+    "siteCount": 104002,
     "recentlyMoved": [
+        {
+            "domain_name": "jbappliances.us",
+            "destination": "Bluehost",
+            "date": "2025-11-12 04:38:43"
+        },
         {
             "domain_name": "beardouble.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "tomik.co.nz",
             "destination": "Pressable",
             "date": "2025-11-10 22:16:32"
-        },
-        {
-            "domain_name": "www.sibbach.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-11-10 21:10:17"
         }
     ],
     "dailyMovedStat": {
@@ -924,9 +924,9 @@
     "topDestinationHosts": {
         "Pressable": 11416,
         "Kinsta": 6753,
-        "SiteGround": 5640,
+        "SiteGround": 5642,
         "Digital Ocean": 5237,
-        "Bluehost": 4255,
+        "Bluehost": 4256,
         "Hostinger": 3796,
         "GoDaddy": 1421,
         "Liquid Web": 728,
