@@ -1,10 +1,50 @@
 {
-    "siteCount": 104077,
+    "siteCount": 104090,
     "recentlyMoved": [
+        {
+            "domain_name": "stephencomunale.org",
+            "destination": "GridPane",
+            "date": "2025-11-12 17:32:45"
+        },
+        {
+            "domain_name": "www.nepowerdry.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 17:12:08"
+        },
+        {
+            "domain_name": "columbusandover.com",
+            "destination": "Pressable",
+            "date": "2025-11-12 17:08:32"
+        },
+        {
+            "domain_name": "sriarchitect.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-12 16:58:10"
+        },
+        {
+            "domain_name": "russautocenter.com",
+            "destination": "Hetzner Online",
+            "date": "2025-11-12 16:53:25"
+        },
+        {
+            "domain_name": "impactroofing.solutions",
+            "destination": "Kinsta",
+            "date": "2025-11-12 16:50:34"
+        },
         {
             "domain_name": "www.covecreekoutfitters.com",
             "destination": "Digital Ocean",
             "date": "2025-11-12 16:24:39"
+        },
+        {
+            "domain_name": "jnkcorporation.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 16:19:59"
+        },
+        {
+            "domain_name": "businnovteam.com",
+            "destination": "SiteGround",
+            "date": "2025-11-12 16:19:54"
         },
         {
             "domain_name": "auburnavenuedental.com",
@@ -447,11 +487,6 @@
             "date": "2025-11-11 16:41:03"
         },
         {
-            "domain_name": "healthy-skin-guide.com",
-            "destination": "SiteGround",
-            "date": "2025-11-11 16:36:40"
-        },
-        {
             "domain_name": "www.marksalomone.com",
             "destination": "Digital Ocean",
             "date": "2025-11-11 16:20:50"
@@ -465,41 +500,6 @@
             "domain_name": "www.emeraldpoolandspa.com",
             "destination": "Kinsta",
             "date": "2025-11-11 16:12:01"
-        },
-        {
-            "domain_name": "www.60eastlakeparking.com",
-            "destination": "Kinsta",
-            "date": "2025-11-11 16:11:41"
-        },
-        {
-            "domain_name": "www.401nwellsparking.com",
-            "destination": "Kinsta",
-            "date": "2025-11-11 16:11:41"
-        },
-        {
-            "domain_name": "barriercablepro.com",
-            "destination": "Pressable",
-            "date": "2025-11-11 16:05:22"
-        },
-        {
-            "domain_name": "www.318sfederalparking.com",
-            "destination": "Kinsta",
-            "date": "2025-11-11 15:51:12"
-        },
-        {
-            "domain_name": "www.cmlocal502.com",
-            "destination": "Kinsta",
-            "date": "2025-11-11 15:44:05"
-        },
-        {
-            "domain_name": "addynetworks.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-11 15:37:09"
-        },
-        {
-            "domain_name": "wpgen.ai",
-            "destination": "Digital Ocean",
-            "date": "2025-11-11 15:23:02"
         }
     ],
     "dailyMovedStat": {
@@ -922,10 +922,10 @@
         "2025-11-11": "103953"
     },
     "topDestinationHosts": {
-        "Pressable": 11419,
-        "Kinsta": 6769,
-        "SiteGround": 5645,
-        "Digital Ocean": 5247,
+        "Pressable": 11420,
+        "Kinsta": 6773,
+        "SiteGround": 5646,
+        "Digital Ocean": 5248,
         "Bluehost": 4256,
         "Hostinger": 3796,
         "GoDaddy": 1421,
@@ -934,13 +934,13 @@
         "WordPress.com": 524,
         "InMotion Hosting": 456,
         "OVH": 450,
-        "GridPane": 431,
+        "GridPane": 432,
         "A2 Hosting": 400,
         "Namecheap": 389,
         "IONOS": 389,
         "DreamHost": 368,
         "Elementor Hosting": 367,
-        "Hetzner Online": 299,
+        "Hetzner Online": 300,
         "HostGator": 237
     },
     "dailyTotalStat": {
