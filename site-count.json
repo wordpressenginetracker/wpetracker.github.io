@@ -1,6 +1,26 @@
 {
-    "siteCount": 104102,
+    "siteCount": 104144,
     "recentlyMoved": [
+        {
+            "domain_name": "belltowerfoundation.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 20:17:13"
+        },
+        {
+            "domain_name": "bellevuedentalimplant.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 19:55:50"
+        },
+        {
+            "domain_name": "bellevuedentalbraces.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 19:55:50"
+        },
+        {
+            "domain_name": "bellevueallon4dentalimplants.com",
+            "destination": "Kinsta",
+            "date": "2025-11-12 19:55:50"
+        },
         {
             "domain_name": "farmcommons.org",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "elevarpictures.com",
             "destination": "GoDaddy",
             "date": "2025-11-11 17:42:22"
-        },
-        {
-            "domain_name": "churchgrowthservices.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-11 17:30:10"
-        },
-        {
-            "domain_name": "cdmedia.com",
-            "destination": "BigScoots",
-            "date": "2025-11-11 17:25:45"
-        },
-        {
-            "domain_name": "stoeckinteriors.com",
-            "destination": "SiteGround",
-            "date": "2025-11-11 17:07:43"
-        },
-        {
-            "domain_name": "speakingwellofgod.org",
-            "destination": "Liquid Web",
-            "date": "2025-11-11 16:53:39"
         }
     ],
     "dailyMovedStat": {
@@ -923,7 +923,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11421,
-        "Kinsta": 6774,
+        "Kinsta": 6776,
         "SiteGround": 5648,
         "Digital Ocean": 5249,
         "Bluehost": 4256,
@@ -932,7 +932,7 @@
         "Liquid Web": 728,
         "BigScoots": 654,
         "WordPress.com": 525,
-        "InMotion Hosting": 456,
+        "InMotion Hosting": 457,
         "OVH": 450,
         "GridPane": 432,
         "A2 Hosting": 400,
