@@ -1,6 +1,26 @@
 {
-    "siteCount": 104186,
+    "siteCount": 104195,
     "recentlyMoved": [
+        {
+            "domain_name": "www.smitheconomics.com",
+            "destination": "Kinsta",
+            "date": "2025-11-13 05:27:37"
+        },
+        {
+            "domain_name": "kbhbyggetilsyn.dk",
+            "destination": "SiteGround",
+            "date": "2025-11-13 05:07:38"
+        },
+        {
+            "domain_name": "www.knockoutproductions.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-13 05:03:56"
+        },
+        {
+            "domain_name": "www.jdconstruction.net.au",
+            "destination": "Kinsta",
+            "date": "2025-11-13 04:47:49"
+        },
         {
             "domain_name": "subfurn.com",
             "destination": "SiteGround",
@@ -480,26 +500,6 @@
             "domain_name": "wearepdx.com",
             "destination": "SiteGround",
             "date": "2025-11-11 23:20:07"
-        },
-        {
-            "domain_name": "evbikesboise.com",
-            "destination": "SiteGround",
-            "date": "2025-11-11 22:24:09"
-        },
-        {
-            "domain_name": "naberhoodacu.com",
-            "destination": "SiteGround",
-            "date": "2025-11-11 22:04:03"
-        },
-        {
-            "domain_name": "velting.com",
-            "destination": "SiteGround",
-            "date": "2025-11-11 21:55:49"
-        },
-        {
-            "domain_name": "news.eddcaller.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-11 21:46:37"
         }
     ],
     "dailyMovedStat": {
@@ -924,8 +924,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11423,
-        "Kinsta": 6785,
-        "SiteGround": 5652,
+        "Kinsta": 6788,
+        "SiteGround": 5653,
         "Digital Ocean": 5250,
         "Bluehost": 4256,
         "Hostinger": 3797,
