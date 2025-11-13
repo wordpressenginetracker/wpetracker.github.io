@@ -1,6 +1,26 @@
 {
-    "siteCount": 104240,
+    "siteCount": 104252,
     "recentlyMoved": [
+        {
+            "domain_name": "watercolorpools.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-13 14:09:47"
+        },
+        {
+            "domain_name": "enduranceloans.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-13 14:03:17"
+        },
+        {
+            "domain_name": "tonyalpower.com",
+            "destination": "SiteGround",
+            "date": "2025-11-13 13:47:24"
+        },
+        {
+            "domain_name": "evokeesthetics.com",
+            "destination": "SiteGround",
+            "date": "2025-11-13 13:42:54"
+        },
         {
             "domain_name": "lionstkdacademy.com",
             "destination": "GridPane",
@@ -10,6 +30,11 @@
             "domain_name": "suburbmgmt.com",
             "destination": "SiteGround",
             "date": "2025-11-13 13:27:33"
+        },
+        {
+            "domain_name": "medilinx.com.ph",
+            "destination": "Kinsta",
+            "date": "2025-11-13 13:24:11"
         },
         {
             "domain_name": "cityelectricsupplymarketing.com",
@@ -475,31 +500,6 @@
             "domain_name": "emmetpartners.com",
             "destination": "Digital Ocean",
             "date": "2025-11-12 06:22:20"
-        },
-        {
-            "domain_name": "tsroofing.com.au",
-            "destination": "Kinsta",
-            "date": "2025-11-12 05:24:38"
-        },
-        {
-            "domain_name": "deep-river.com",
-            "destination": "Kinsta",
-            "date": "2025-11-12 05:22:13"
-        },
-        {
-            "domain_name": "jbappliances.us",
-            "destination": "Bluehost",
-            "date": "2025-11-12 04:38:43"
-        },
-        {
-            "domain_name": "beardouble.com",
-            "destination": "SiteGround",
-            "date": "2025-11-12 04:19:49"
-        },
-        {
-            "domain_name": "rev22-2.com",
-            "destination": "SiteGround",
-            "date": "2025-11-12 04:00:55"
         }
     ],
     "dailyMovedStat": {
@@ -924,12 +924,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11425,
-        "Kinsta": 6797,
-        "SiteGround": 5654,
-        "Digital Ocean": 5253,
+        "Kinsta": 6798,
+        "SiteGround": 5656,
+        "Digital Ocean": 5254,
         "Bluehost": 4256,
         "Hostinger": 3798,
-        "GoDaddy": 1423,
+        "GoDaddy": 1424,
         "Liquid Web": 729,
         "BigScoots": 655,
         "WordPress.com": 526,
