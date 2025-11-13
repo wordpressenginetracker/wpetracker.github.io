@@ -1,6 +1,16 @@
 {
-    "siteCount": 104218,
+    "siteCount": 104226,
     "recentlyMoved": [
+        {
+            "domain_name": "humescope.com.au",
+            "destination": "GoDaddy",
+            "date": "2025-11-13 12:30:22"
+        },
+        {
+            "domain_name": "www.ablazeofcolor.com",
+            "destination": "Pressable",
+            "date": "2025-11-13 12:07:54"
+        },
         {
             "domain_name": "naprocessing.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "vgwellness.com",
             "destination": "Liquid Web",
             "date": "2025-11-12 02:16:12"
-        },
-        {
-            "domain_name": "tridenttp.com.au",
-            "destination": "WordPress.com",
-            "date": "2025-11-12 01:40:25"
-        },
-        {
-            "domain_name": "thewardrobecompany.co.nz",
-            "destination": "Pressable",
-            "date": "2025-11-12 01:32:39"
         }
     ],
     "dailyMovedStat": {
@@ -923,7 +923,7 @@
         "2025-11-12": "104164"
     },
     "topDestinationHosts": {
-        "Pressable": 11423,
+        "Pressable": 11424,
         "Kinsta": 6796,
         "SiteGround": 5653,
         "Digital Ocean": 5252,
