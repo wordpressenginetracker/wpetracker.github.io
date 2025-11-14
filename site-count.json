@@ -1,6 +1,21 @@
 {
-    "siteCount": 104469,
+    "siteCount": 104480,
     "recentlyMoved": [
+        {
+            "domain_name": "www.drkellysvet.com",
+            "destination": "SiteGround",
+            "date": "2025-11-14 12:33:17"
+        },
+        {
+            "domain_name": "playgroundguardian.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-14 11:57:54"
+        },
+        {
+            "domain_name": "www.aridscapeutah.com",
+            "destination": "Kinsta",
+            "date": "2025-11-14 11:54:50"
+        },
         {
             "domain_name": "mulchinstalled.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "cheerfulchoices.com",
             "destination": "BigScoots",
             "date": "2025-11-13 00:47:21"
-        },
-        {
-            "domain_name": "shadowsystemscorp.com",
-            "destination": "SiteGround",
-            "date": "2025-11-13 00:44:32"
-        },
-        {
-            "domain_name": "greenbriardentalcare.com",
-            "destination": "SiteGround",
-            "date": "2025-11-13 00:24:32"
-        },
-        {
-            "domain_name": "4mprecision.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-12 23:44:43"
         }
     ],
     "dailyMovedStat": {
@@ -925,9 +925,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11433,
-        "Kinsta": 6826,
-        "SiteGround": 5662,
-        "Digital Ocean": 5264,
+        "Kinsta": 6827,
+        "SiteGround": 5663,
+        "Digital Ocean": 5265,
         "Bluehost": 4257,
         "Hostinger": 3805,
         "GoDaddy": 1428,
