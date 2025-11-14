@@ -1,6 +1,16 @@
 {
-    "siteCount": 104394,
+    "siteCount": 104406,
     "recentlyMoved": [
+        {
+            "domain_name": "empoweredco.com.au",
+            "destination": "Hostinger",
+            "date": "2025-11-14 01:49:52"
+        },
+        {
+            "domain_name": "www.wildcommoncharleston.com",
+            "destination": "BigScoots",
+            "date": "2025-11-14 01:45:47"
+        },
         {
             "domain_name": "brabhamfence.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "nacsportscenter.com",
             "destination": "SiteGround",
             "date": "2025-11-12 17:48:25"
-        },
-        {
-            "domain_name": "tomis.tech",
-            "destination": "Pressable",
-            "date": "2025-11-12 17:44:57"
-        },
-        {
-            "domain_name": "myadhdcoach.co",
-            "destination": "SiteGround",
-            "date": "2025-11-12 17:43:56"
         }
     ],
     "dailyMovedStat": {
@@ -929,10 +929,10 @@
         "SiteGround": 5659,
         "Digital Ocean": 5260,
         "Bluehost": 4257,
-        "Hostinger": 3803,
+        "Hostinger": 3804,
         "GoDaddy": 1428,
         "Liquid Web": 729,
-        "BigScoots": 656,
+        "BigScoots": 657,
         "WordPress.com": 526,
         "InMotion Hosting": 457,
         "OVH": 452,
