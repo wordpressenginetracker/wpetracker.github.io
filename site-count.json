@@ -1,6 +1,26 @@
 {
-    "siteCount": 104422,
+    "siteCount": 104435,
     "recentlyMoved": [
+        {
+            "domain_name": "laurenmullaly.com",
+            "destination": "SiteGround",
+            "date": "2025-11-14 04:57:36"
+        },
+        {
+            "domain_name": "sots.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-11-14 04:52:58"
+        },
+        {
+            "domain_name": "smileavenuepicorivera.com",
+            "destination": "Hostinger",
+            "date": "2025-11-14 04:51:44"
+        },
+        {
+            "domain_name": "www.hrfmlaw.com",
+            "destination": "Kinsta",
+            "date": "2025-11-14 04:39:30"
+        },
         {
             "domain_name": "aboutyouaesthetics.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "bfe.tw",
             "destination": "Hostinger",
             "date": "2025-11-12 20:33:38"
-        },
-        {
-            "domain_name": "belltowerfoundation.com",
-            "destination": "Kinsta",
-            "date": "2025-11-12 20:17:13"
-        },
-        {
-            "domain_name": "bellevuedentalimplant.com",
-            "destination": "Kinsta",
-            "date": "2025-11-12 19:55:50"
-        },
-        {
-            "domain_name": "bellevuedentalbraces.com",
-            "destination": "Kinsta",
-            "date": "2025-11-12 19:55:50"
-        },
-        {
-            "domain_name": "bellevueallon4dentalimplants.com",
-            "destination": "Kinsta",
-            "date": "2025-11-12 19:55:50"
         }
     ],
     "dailyMovedStat": {
@@ -925,11 +925,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11433,
-        "Kinsta": 6819,
-        "SiteGround": 5659,
-        "Digital Ocean": 5261,
+        "Kinsta": 6820,
+        "SiteGround": 5660,
+        "Digital Ocean": 5262,
         "Bluehost": 4257,
-        "Hostinger": 3804,
+        "Hostinger": 3805,
         "GoDaddy": 1428,
         "Liquid Web": 729,
         "BigScoots": 657,
