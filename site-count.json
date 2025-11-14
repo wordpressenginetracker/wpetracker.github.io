@@ -1,10 +1,35 @@
 {
-    "siteCount": 104480,
+    "siteCount": 104492,
     "recentlyMoved": [
+        {
+            "domain_name": "sunsetbeachumbrellas.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-14 13:30:54"
+        },
+        {
+            "domain_name": "kristiepf.com",
+            "destination": "Pressable",
+            "date": "2025-11-14 13:24:14"
+        },
+        {
+            "domain_name": "www.jtownchamber.com",
+            "destination": "Pressable",
+            "date": "2025-11-14 12:46:33"
+        },
+        {
+            "domain_name": "kidspeakinc.com",
+            "destination": "Kinsta",
+            "date": "2025-11-14 12:34:58"
+        },
         {
             "domain_name": "www.drkellysvet.com",
             "destination": "SiteGround",
             "date": "2025-11-14 12:33:17"
+        },
+        {
+            "domain_name": "jonmaron.com",
+            "destination": "SiteGround",
+            "date": "2025-11-14 12:23:49"
         },
         {
             "domain_name": "playgroundguardian.com",
@@ -475,31 +500,6 @@
             "domain_name": "www.smitheconomics.com",
             "destination": "Kinsta",
             "date": "2025-11-13 05:27:37"
-        },
-        {
-            "domain_name": "kbhbyggetilsyn.dk",
-            "destination": "SiteGround",
-            "date": "2025-11-13 05:07:38"
-        },
-        {
-            "domain_name": "www.knockoutproductions.com.au",
-            "destination": "Kinsta",
-            "date": "2025-11-13 05:03:56"
-        },
-        {
-            "domain_name": "www.jdconstruction.net.au",
-            "destination": "Kinsta",
-            "date": "2025-11-13 04:47:49"
-        },
-        {
-            "domain_name": "subfurn.com",
-            "destination": "SiteGround",
-            "date": "2025-11-13 01:28:35"
-        },
-        {
-            "domain_name": "cheerfulchoices.com",
-            "destination": "BigScoots",
-            "date": "2025-11-13 00:47:21"
         }
     ],
     "dailyMovedStat": {
@@ -924,9 +924,9 @@
         "2025-11-13": "104377"
     },
     "topDestinationHosts": {
-        "Pressable": 11433,
-        "Kinsta": 6827,
-        "SiteGround": 5663,
+        "Pressable": 11435,
+        "Kinsta": 6828,
+        "SiteGround": 5664,
         "Digital Ocean": 5265,
         "Bluehost": 4257,
         "Hostinger": 3805,
