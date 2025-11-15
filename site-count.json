@@ -1,6 +1,21 @@
 {
-    "siteCount": 104620,
+    "siteCount": 104625,
     "recentlyMoved": [
+        {
+            "domain_name": "modelcarstoo.com",
+            "destination": "Kinsta",
+            "date": "2025-11-15 02:12:11"
+        },
+        {
+            "domain_name": "swinson.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-15 01:46:29"
+        },
+        {
+            "domain_name": "zoneinwellness.com",
+            "destination": "WordPress.com",
+            "date": "2025-11-15 01:35:37"
+        },
         {
             "domain_name": "barristercapital.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2025-11-13 18:06:52"
         },
         {
-            "domain_name": "davidbisbeemd.com",
-            "destination": "Pressable",
-            "date": "2025-11-13 17:54:24"
-        },
-        {
             "domain_name": "members.sjfiredistrict.com",
             "destination": "Pressable",
             "date": "2025-11-13 17:41:40"
-        },
-        {
-            "domain_name": "www.recyclonslescmc.ca",
-            "destination": "Kinsta",
-            "date": "2025-11-13 17:20:24"
-        },
-        {
-            "domain_name": "conilhome.com",
-            "destination": "OVH",
-            "date": "2025-11-13 17:11:53"
         }
     ],
     "dailyMovedStat": {
@@ -925,8 +925,8 @@
         "2025-11-14": "104608"
     },
     "topDestinationHosts": {
-        "Pressable": 11440,
-        "Kinsta": 6839,
+        "Pressable": 11441,
+        "Kinsta": 6840,
         "SiteGround": 5675,
         "Digital Ocean": 5269,
         "Bluehost": 4257,
@@ -934,7 +934,7 @@
         "GoDaddy": 1429,
         "Liquid Web": 730,
         "BigScoots": 658,
-        "WordPress.com": 526,
+        "WordPress.com": 527,
         "InMotion Hosting": 457,
         "OVH": 452,
         "GridPane": 439,
