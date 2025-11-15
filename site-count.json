@@ -1,6 +1,26 @@
 {
-    "siteCount": 104608,
+    "siteCount": 104615,
     "recentlyMoved": [
+        {
+            "domain_name": "barristercapital.com",
+            "destination": "Hostinger",
+            "date": "2025-11-15 00:35:40"
+        },
+        {
+            "domain_name": "gradygroup.net",
+            "destination": "SiteGround",
+            "date": "2025-11-15 00:22:40"
+        },
+        {
+            "domain_name": "afproduce.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-14 23:56:55"
+        },
+        {
+            "domain_name": "pursuitrealestategroup.com",
+            "destination": "SiteGround",
+            "date": "2025-11-14 23:51:17"
+        },
         {
             "domain_name": "newvuemedical.com",
             "destination": "SiteGround",
@@ -477,29 +497,9 @@
             "date": "2025-11-13 17:11:53"
         },
         {
-            "domain_name": "saltark.com",
-            "destination": "Pressable",
-            "date": "2025-11-13 16:21:43"
-        },
-        {
             "domain_name": "sammichaels.com",
             "destination": "Kinsta",
             "date": "2025-11-13 16:11:01"
-        },
-        {
-            "domain_name": "insurancebyfrost.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-13 16:01:17"
-        },
-        {
-            "domain_name": "www.fgs.com",
-            "destination": "Kinsta",
-            "date": "2025-11-13 15:56:51"
-        },
-        {
-            "domain_name": "houstonrentacar.ae",
-            "destination": "A2 Hosting",
-            "date": "2025-11-13 15:56:10"
         }
     ],
     "dailyMovedStat": {
@@ -927,10 +927,10 @@
     "topDestinationHosts": {
         "Pressable": 11439,
         "Kinsta": 6839,
-        "SiteGround": 5673,
-        "Digital Ocean": 5268,
+        "SiteGround": 5675,
+        "Digital Ocean": 5269,
         "Bluehost": 4257,
-        "Hostinger": 3805,
+        "Hostinger": 3806,
         "GoDaddy": 1429,
         "Liquid Web": 730,
         "BigScoots": 658,
