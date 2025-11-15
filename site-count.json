@@ -1,6 +1,21 @@
 {
-    "siteCount": 104688,
+    "siteCount": 104697,
     "recentlyMoved": [
+        {
+            "domain_name": "ba3digitalmarketing.com",
+            "destination": "Hostinger",
+            "date": "2025-11-15 12:38:39"
+        },
+        {
+            "domain_name": "gsreacademy.com",
+            "destination": "SiteGround",
+            "date": "2025-11-15 11:59:49"
+        },
+        {
+            "domain_name": "ab-bc.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-11-15 11:48:42"
+        },
         {
             "domain_name": "newseasonair.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "servicesolutionsdidcot.co.uk",
             "destination": "Digital Ocean",
             "date": "2025-11-14 00:27:38"
-        },
-        {
-            "domain_name": "bestautocentres.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-14 00:08:06"
-        },
-        {
-            "domain_name": "bernsteinandbernstein.com",
-            "destination": "Kinsta",
-            "date": "2025-11-14 00:08:06"
-        },
-        {
-            "domain_name": "aboutplaysc.com",
-            "destination": "Kinsta",
-            "date": "2025-11-13 23:52:29"
         }
     ],
     "dailyMovedStat": {
@@ -927,10 +927,10 @@
     "topDestinationHosts": {
         "Pressable": 11442,
         "Kinsta": 6851,
-        "SiteGround": 5679,
-        "Digital Ocean": 5270,
+        "SiteGround": 5680,
+        "Digital Ocean": 5271,
         "Bluehost": 4258,
-        "Hostinger": 3810,
+        "Hostinger": 3811,
         "GoDaddy": 1430,
         "Liquid Web": 730,
         "BigScoots": 658,
