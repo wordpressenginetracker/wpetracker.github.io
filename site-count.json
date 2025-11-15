@@ -1,6 +1,31 @@
 {
-    "siteCount": 104812,
+    "siteCount": 104824,
     "recentlyMoved": [
+        {
+            "domain_name": "www.riverbendindustries.com",
+            "destination": "Pressable",
+            "date": "2025-11-15 21:26:43"
+        },
+        {
+            "domain_name": "lbep.org",
+            "destination": "Hostinger",
+            "date": "2025-11-15 21:24:12"
+        },
+        {
+            "domain_name": "stronglivescounseling.com",
+            "destination": "Hostinger",
+            "date": "2025-11-15 20:45:16"
+        },
+        {
+            "domain_name": "simplydivineweddings.ie",
+            "destination": "Digital Ocean",
+            "date": "2025-11-15 20:39:21"
+        },
+        {
+            "domain_name": "josephzoucha.net",
+            "destination": "Hostinger",
+            "date": "2025-11-15 20:34:29"
+        },
         {
             "domain_name": "hartleylawtx.com",
             "destination": "Bluehost",
@@ -10,6 +35,11 @@
             "domain_name": "protidiet.com",
             "destination": "GridPane",
             "date": "2025-11-15 20:29:31"
+        },
+        {
+            "domain_name": "sayitwithscience.org",
+            "destination": "Digital Ocean",
+            "date": "2025-11-15 20:29:06"
         },
         {
             "domain_name": "www.firstnere.com",
@@ -470,36 +500,6 @@
             "domain_name": "bakerbirdwell.com",
             "destination": "Digital Ocean",
             "date": "2025-11-14 16:08:57"
-        },
-        {
-            "domain_name": "pdxrealtorsam.com",
-            "destination": "Kinsta",
-            "date": "2025-11-14 15:55:12"
-        },
-        {
-            "domain_name": "www.veryenglish.com",
-            "destination": "A2 Hosting",
-            "date": "2025-11-14 13:45:38"
-        },
-        {
-            "domain_name": "machiningsolutionsllc.com",
-            "destination": "IONOS",
-            "date": "2025-11-14 13:31:27"
-        },
-        {
-            "domain_name": "sunsetbeachumbrellas.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-14 13:30:54"
-        },
-        {
-            "domain_name": "www.youtechagency.com",
-            "destination": "Kinsta",
-            "date": "2025-11-14 13:27:43"
-        },
-        {
-            "domain_name": "www.timberridgefencecompany.com",
-            "destination": "Kinsta",
-            "date": "2025-11-14 13:18:54"
         }
     ],
     "dailyMovedStat": {
@@ -925,12 +925,12 @@
         "2025-11-14": "104608"
     },
     "topDestinationHosts": {
-        "Pressable": 11444,
+        "Pressable": 11445,
         "Kinsta": 6860,
         "SiteGround": 5684,
-        "Digital Ocean": 5273,
-        "Bluehost": 4260,
-        "Hostinger": 3813,
+        "Digital Ocean": 5275,
+        "Bluehost": 4261,
+        "Hostinger": 3816,
         "GoDaddy": 1430,
         "Liquid Web": 730,
         "BigScoots": 659,
