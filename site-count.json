@@ -1,6 +1,21 @@
 {
-    "siteCount": 104829,
+    "siteCount": 104837,
     "recentlyMoved": [
+        {
+            "domain_name": "happypierced.com",
+            "destination": "Hostinger",
+            "date": "2025-11-16 00:18:18"
+        },
+        {
+            "domain_name": "helpinghandsofcelina.com",
+            "destination": "Bluehost",
+            "date": "2025-11-16 00:18:09"
+        },
+        {
+            "domain_name": "palmettopigbbq.com",
+            "destination": "Kinsta",
+            "date": "2025-11-16 00:08:10"
+        },
         {
             "domain_name": "nextlevelremodelingmn.com",
             "destination": "Namecheap",
@@ -485,21 +500,6 @@
             "domain_name": "sparcanada.ca",
             "destination": "BigScoots",
             "date": "2025-11-14 16:52:06"
-        },
-        {
-            "domain_name": "singletonsmoke.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-14 16:51:21"
-        },
-        {
-            "domain_name": "intersectionstl.com",
-            "destination": "Kinsta",
-            "date": "2025-11-14 16:16:00"
-        },
-        {
-            "domain_name": "bgcompanies.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-14 16:15:01"
         }
     ],
     "dailyMovedStat": {
@@ -927,11 +927,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11446,
-        "Kinsta": 6861,
+        "Kinsta": 6862,
         "SiteGround": 5684,
         "Digital Ocean": 5276,
-        "Bluehost": 4261,
-        "Hostinger": 3816,
+        "Bluehost": 4262,
+        "Hostinger": 3817,
         "GoDaddy": 1430,
         "Liquid Web": 730,
         "BigScoots": 659,
