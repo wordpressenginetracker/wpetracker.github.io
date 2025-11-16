@@ -1,6 +1,11 @@
 {
-    "siteCount": 104876,
+    "siteCount": 104886,
     "recentlyMoved": [
+        {
+            "domain_name": "891suspension.com",
+            "destination": "Hostinger",
+            "date": "2025-11-16 15:19:59"
+        },
         {
             "domain_name": "sixthavenuedentistry.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "hotinplacerecycling.com",
             "destination": "Kinsta",
             "date": "2025-11-14 20:35:13"
-        },
-        {
-            "domain_name": "atlantapickleballchampionship.com",
-            "destination": "SiteGround",
-            "date": "2025-11-14 20:06:21"
         }
     ],
     "dailyMovedStat": {
@@ -931,7 +931,7 @@
         "SiteGround": 5684,
         "Digital Ocean": 5277,
         "Bluehost": 4263,
-        "Hostinger": 3820,
+        "Hostinger": 3821,
         "GoDaddy": 1430,
         "Liquid Web": 730,
         "BigScoots": 659,
