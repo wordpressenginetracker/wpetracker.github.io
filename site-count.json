@@ -1,6 +1,11 @@
 {
-    "siteCount": 104978,
+    "siteCount": 104980,
     "recentlyMoved": [
+        {
+            "domain_name": "the-unwinder.com",
+            "destination": "Namecheap",
+            "date": "2025-11-17 13:54:10"
+        },
         {
             "domain_name": "shopamwoodworks.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "showbizrestrooms.com",
             "destination": "SiteGround",
             "date": "2025-11-15 04:33:59"
-        },
-        {
-            "domain_name": "www.highlandermetals.com.au",
-            "destination": "Kinsta",
-            "date": "2025-11-15 04:14:12"
         }
     ],
     "dailyMovedStat": {
@@ -941,7 +941,7 @@
         "OVH": 452,
         "GridPane": 443,
         "A2 Hosting": 403,
-        "Namecheap": 392,
+        "Namecheap": 393,
         "IONOS": 391,
         "DreamHost": 372,
         "Elementor Hosting": 367,
