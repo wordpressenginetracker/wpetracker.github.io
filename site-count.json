@@ -1,6 +1,11 @@
 {
-    "siteCount": 104987,
+    "siteCount": 105018,
     "recentlyMoved": [
+        {
+            "domain_name": "aaml-illinois.org",
+            "destination": "BigScoots",
+            "date": "2025-11-17 19:16:41"
+        },
         {
             "domain_name": "the-unwinder.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "labandfurnace.com",
             "destination": "Kinsta",
             "date": "2025-11-15 04:35:11"
-        },
-        {
-            "domain_name": "showbizrestrooms.com",
-            "destination": "SiteGround",
-            "date": "2025-11-15 04:33:59"
         }
     ],
     "dailyMovedStat": {
@@ -928,14 +928,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11447,
-        "Kinsta": 6874,
+        "Kinsta": 6877,
         "SiteGround": 5684,
         "Digital Ocean": 5278,
         "Bluehost": 4264,
         "Hostinger": 3826,
         "GoDaddy": 1432,
         "Liquid Web": 731,
-        "BigScoots": 660,
+        "BigScoots": 661,
         "WordPress.com": 529,
         "InMotion Hosting": 457,
         "OVH": 452,
