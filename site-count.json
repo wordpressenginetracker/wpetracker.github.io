@@ -1,6 +1,11 @@
 {
-    "siteCount": 104951,
+    "siteCount": 104959,
     "recentlyMoved": [
+        {
+            "domain_name": "lovethesell.com",
+            "destination": "DreamHost",
+            "date": "2025-11-17 01:01:40"
+        },
         {
             "domain_name": "summitacservices.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "zoneinwellness.com",
             "destination": "WordPress.com",
             "date": "2025-11-15 01:35:37"
-        },
-        {
-            "domain_name": "sallygratzgarcia.com",
-            "destination": "Hostinger",
-            "date": "2025-11-15 00:30:23"
         }
     ],
     "dailyMovedStat": {
@@ -927,7 +927,7 @@
         "2025-11-16": "104931"
     },
     "topDestinationHosts": {
-        "Pressable": 11446,
+        "Pressable": 11447,
         "Kinsta": 6874,
         "SiteGround": 5684,
         "Digital Ocean": 5278,
@@ -943,7 +943,7 @@
         "A2 Hosting": 403,
         "Namecheap": 392,
         "IONOS": 391,
-        "DreamHost": 371,
+        "DreamHost": 372,
         "Elementor Hosting": 367,
         "Hetzner Online": 301,
         "HostGator": 237
