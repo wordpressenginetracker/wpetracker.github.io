@@ -1,10 +1,25 @@
 {
-    "siteCount": 104938,
+    "siteCount": 104951,
     "recentlyMoved": [
+        {
+            "domain_name": "summitacservices.com",
+            "destination": "Pressable",
+            "date": "2025-11-17 00:58:32"
+        },
+        {
+            "domain_name": "standardsfit.com",
+            "destination": "Hostinger",
+            "date": "2025-11-17 00:44:53"
+        },
         {
             "domain_name": "www.danishwindmill.com",
             "destination": "Liquid Web",
             "date": "2025-11-17 00:18:22"
+        },
+        {
+            "domain_name": "belladentalfederalway.com",
+            "destination": "Kinsta",
+            "date": "2025-11-17 00:18:15"
         },
         {
             "domain_name": "lawculturehumanities.com",
@@ -482,24 +497,9 @@
             "date": "2025-11-15 01:35:37"
         },
         {
-            "domain_name": "barristercapital.com",
-            "destination": "Hostinger",
-            "date": "2025-11-15 00:35:40"
-        },
-        {
             "domain_name": "sallygratzgarcia.com",
             "destination": "Hostinger",
             "date": "2025-11-15 00:30:23"
-        },
-        {
-            "domain_name": "ilume.co.nz",
-            "destination": "Pressable",
-            "date": "2025-11-15 00:13:33"
-        },
-        {
-            "domain_name": "pursuitrealestategroup.com",
-            "destination": "SiteGround",
-            "date": "2025-11-14 23:51:17"
         }
     ],
     "dailyMovedStat": {
@@ -928,11 +928,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11446,
-        "Kinsta": 6873,
+        "Kinsta": 6874,
         "SiteGround": 5684,
         "Digital Ocean": 5278,
         "Bluehost": 4264,
-        "Hostinger": 3822,
+        "Hostinger": 3823,
         "GoDaddy": 1430,
         "Liquid Web": 731,
         "BigScoots": 660,
