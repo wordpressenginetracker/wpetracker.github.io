@@ -1,6 +1,11 @@
 {
-    "siteCount": 104974,
+    "siteCount": 104978,
     "recentlyMoved": [
+        {
+            "domain_name": "shopamwoodworks.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-17 13:05:23"
+        },
         {
             "domain_name": "www.alessicosmeticsurgery.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-11-15 04:33:59"
         },
         {
-            "domain_name": "www.dhilloud.com.au",
-            "destination": "Kinsta",
-            "date": "2025-11-15 04:21:48"
-        },
-        {
             "domain_name": "www.highlandermetals.com.au",
             "destination": "Kinsta",
             "date": "2025-11-15 04:14:12"
@@ -933,7 +933,7 @@
         "Digital Ocean": 5278,
         "Bluehost": 4264,
         "Hostinger": 3826,
-        "GoDaddy": 1431,
+        "GoDaddy": 1432,
         "Liquid Web": 731,
         "BigScoots": 660,
         "WordPress.com": 529,
