@@ -1,6 +1,11 @@
 {
-    "siteCount": 105030,
+    "siteCount": 105034,
     "recentlyMoved": [
+        {
+            "domain_name": "theelectricalcompany.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-18 01:18:37"
+        },
         {
             "domain_name": "stageitcharlotte.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "cmclc.com",
             "destination": "Namecheap",
             "date": "2025-11-15 05:11:10"
-        },
-        {
-            "domain_name": "labandfurnace.com",
-            "destination": "Kinsta",
-            "date": "2025-11-15 04:35:11"
         }
     ],
     "dailyMovedStat": {
@@ -928,7 +928,7 @@
         "2025-11-17": "105021"
     },
     "topDestinationHosts": {
-        "Pressable": 11448,
+        "Pressable": 11449,
         "Kinsta": 6877,
         "SiteGround": 5684,
         "Digital Ocean": 5279,
