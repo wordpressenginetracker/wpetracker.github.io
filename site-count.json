@@ -1,6 +1,11 @@
 {
-    "siteCount": 105045,
+    "siteCount": 105048,
     "recentlyMoved": [
+        {
+            "domain_name": "usabath.com",
+            "destination": "Pressable",
+            "date": "2025-11-18 05:53:54"
+        },
         {
             "domain_name": "www.ozgradehomes.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "businessfundinggroup.com",
             "destination": "GoDaddy",
             "date": "2025-11-15 08:21:23"
-        },
-        {
-            "domain_name": "hraco.org",
-            "destination": "SiteGround",
-            "date": "2025-11-15 08:11:15"
         }
     ],
     "dailyMovedStat": {
@@ -928,7 +928,7 @@
         "2025-11-17": "105021"
     },
     "topDestinationHosts": {
-        "Pressable": 11449,
+        "Pressable": 11450,
         "Kinsta": 6883,
         "SiteGround": 5684,
         "Digital Ocean": 5279,
