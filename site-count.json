@@ -1,6 +1,11 @@
 {
-    "siteCount": 105220,
+    "siteCount": 105225,
     "recentlyMoved": [
+        {
+            "domain_name": "dependablemoverssf.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-19 01:45:37"
+        },
         {
             "domain_name": "cherokee-sc.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "sixthavenuedentistry.com",
             "destination": "Kinsta",
             "date": "2025-11-16 04:33:32"
-        },
-        {
-            "domain_name": "traprecruiter.com",
-            "destination": "Bluehost",
-            "date": "2025-11-16 03:25:41"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
         "Digital Ocean": 5282,
         "Bluehost": 4266,
         "Hostinger": 3827,
-        "GoDaddy": 1436,
+        "GoDaddy": 1437,
         "Liquid Web": 731,
         "BigScoots": 662,
         "WordPress.com": 530,
