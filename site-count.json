@@ -1,10 +1,30 @@
 {
-    "siteCount": 105387,
+    "siteCount": 105396,
     "recentlyMoved": [
+        {
+            "domain_name": "nycmea.org",
+            "destination": "Digital Ocean",
+            "date": "2025-11-19 21:54:04"
+        },
+        {
+            "domain_name": "waitematasurgeons.co.nz",
+            "destination": "Pressable",
+            "date": "2025-11-19 21:44:29"
+        },
+        {
+            "domain_name": "waterrightspro.com",
+            "destination": "Kinsta",
+            "date": "2025-11-19 21:35:28"
+        },
         {
             "domain_name": "strategixcapital.com",
             "destination": "Hostinger",
             "date": "2025-11-19 21:26:47"
+        },
+        {
+            "domain_name": "thepitchlex.com",
+            "destination": "WordPress.com",
+            "date": "2025-11-19 21:17:28"
         },
         {
             "domain_name": "www.properpruning.com",
@@ -467,16 +487,6 @@
             "date": "2025-11-18 16:07:19"
         },
         {
-            "domain_name": "wellspringld.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 15:51:23"
-        },
-        {
-            "domain_name": "wellnessleads.co",
-            "destination": "Kinsta",
-            "date": "2025-11-18 15:51:23"
-        },
-        {
             "domain_name": "alphabehavioralhealthcenter.org",
             "destination": "Kinsta",
             "date": "2025-11-18 15:47:13"
@@ -490,16 +500,6 @@
             "domain_name": "www.anamosafloral.com",
             "destination": "HostGator",
             "date": "2025-11-18 15:44:04"
-        },
-        {
-            "domain_name": "www.lykelaw.com",
-            "destination": "Bluehost",
-            "date": "2025-11-18 15:22:57"
-        },
-        {
-            "domain_name": "flyheritage.com",
-            "destination": "Pressable",
-            "date": "2025-11-18 15:16:24"
         }
     ],
     "dailyMovedStat": {
@@ -929,16 +929,16 @@
         "2025-11-18": "105202"
     },
     "topDestinationHosts": {
-        "Pressable": 11461,
-        "Kinsta": 6950,
+        "Pressable": 11462,
+        "Kinsta": 6951,
         "SiteGround": 5684,
-        "Digital Ocean": 5289,
+        "Digital Ocean": 5290,
         "Bluehost": 4267,
         "Hostinger": 3831,
         "GoDaddy": 1438,
         "Liquid Web": 733,
         "BigScoots": 664,
-        "WordPress.com": 532,
+        "WordPress.com": 533,
         "InMotion Hosting": 457,
         "OVH": 452,
         "GridPane": 445,
