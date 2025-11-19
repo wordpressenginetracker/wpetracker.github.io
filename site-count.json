@@ -1,6 +1,26 @@
 {
-    "siteCount": 105202,
+    "siteCount": 105209,
     "recentlyMoved": [
+        {
+            "domain_name": "richbar.org",
+            "destination": "Kinsta",
+            "date": "2025-11-19 00:36:57"
+        },
+        {
+            "domain_name": "rhetoricsociety.org",
+            "destination": "Kinsta",
+            "date": "2025-11-19 00:36:57"
+        },
+        {
+            "domain_name": "americanwheatley.com",
+            "destination": "Pressable",
+            "date": "2025-11-18 23:34:38"
+        },
+        {
+            "domain_name": "activeeventtechnology.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-18 23:13:44"
+        },
         {
             "domain_name": "fbmm.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "myrtlebeach-attorney.com",
             "destination": "Kinsta",
             "date": "2025-11-16 02:07:59"
-        },
-        {
-            "domain_name": "tankstorage.com",
-            "destination": "IONOS",
-            "date": "2025-11-16 01:42:24"
-        },
-        {
-            "domain_name": "www.themagicrooter.com",
-            "destination": "GridPane",
-            "date": "2025-11-16 01:35:25"
-        },
-        {
-            "domain_name": "www.mgplumbingnrooter.com",
-            "destination": "GridPane",
-            "date": "2025-11-16 00:18:25"
-        },
-        {
-            "domain_name": "schraderscarpetcleaning.com",
-            "destination": "Hostinger",
-            "date": "2025-11-16 00:10:45"
         }
     ],
     "dailyMovedStat": {
@@ -929,13 +929,13 @@
         "2025-11-18": "105202"
     },
     "topDestinationHosts": {
-        "Pressable": 11455,
+        "Pressable": 11456,
         "Kinsta": 6915,
         "SiteGround": 5684,
         "Digital Ocean": 5281,
         "Bluehost": 4266,
         "Hostinger": 3827,
-        "GoDaddy": 1435,
+        "GoDaddy": 1436,
         "Liquid Web": 731,
         "BigScoots": 662,
         "WordPress.com": 530,
