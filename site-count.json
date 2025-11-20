@@ -1,10 +1,25 @@
 {
-    "siteCount": 105473,
+    "siteCount": 105483,
     "recentlyMoved": [
+        {
+            "domain_name": "longleafalliance.org",
+            "destination": "Kinsta",
+            "date": "2025-11-20 13:32:31"
+        },
+        {
+            "domain_name": "www.workersrights.org",
+            "destination": "Kinsta",
+            "date": "2025-11-20 13:03:15"
+        },
         {
             "domain_name": "hawthorneatcrenshaw.com",
             "destination": "Namecheap",
             "date": "2025-11-20 12:33:26"
+        },
+        {
+            "domain_name": "robusmortgage.com",
+            "destination": "Hostinger",
+            "date": "2025-11-20 12:15:32"
         },
         {
             "domain_name": "hnstrainingfacility.com",
@@ -485,21 +500,6 @@
             "domain_name": "activeeventtechnology.com",
             "destination": "GoDaddy",
             "date": "2025-11-18 23:13:44"
-        },
-        {
-            "domain_name": "fbmm.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 22:06:56"
-        },
-        {
-            "domain_name": "davidsarkus.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-18 21:29:26"
-        },
-        {
-            "domain_name": "meetingnotes.cimview.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 21:09:43"
         }
     ],
     "dailyMovedStat": {
@@ -931,11 +931,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11465,
-        "Kinsta": 6965,
+        "Kinsta": 6966,
         "SiteGround": 5684,
         "Digital Ocean": 5292,
         "Bluehost": 4267,
-        "Hostinger": 3836,
+        "Hostinger": 3837,
         "GoDaddy": 1440,
         "Liquid Web": 733,
         "BigScoots": 665,
