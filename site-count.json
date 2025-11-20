@@ -1,6 +1,21 @@
 {
-    "siteCount": 105416,
+    "siteCount": 105428,
     "recentlyMoved": [
+        {
+            "domain_name": "www.delawarecorp.com",
+            "destination": "Kinsta",
+            "date": "2025-11-20 04:28:33"
+        },
+        {
+            "domain_name": "www.lomitacourtapartments.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-20 03:54:48"
+        },
+        {
+            "domain_name": "833taxfree.com",
+            "destination": "Hostinger",
+            "date": "2025-11-20 03:44:36"
+        },
         {
             "domain_name": "dunbarbuilders.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2025-11-18 16:39:54"
         },
         {
-            "domain_name": "halostaffing.org",
-            "destination": "HostGator",
-            "date": "2025-11-18 16:35:58"
-        },
-        {
             "domain_name": "protypestaffing.com",
             "destination": "GoDaddy",
             "date": "2025-11-18 16:30:43"
-        },
-        {
-            "domain_name": "h2opoolservice.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 16:23:48"
-        },
-        {
-            "domain_name": "pledgetopitchit.org",
-            "destination": "Kinsta",
-            "date": "2025-11-18 15:46:43"
         }
     ],
     "dailyMovedStat": {
@@ -931,12 +931,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11462,
-        "Kinsta": 6952,
+        "Kinsta": 6953,
         "SiteGround": 5684,
         "Digital Ocean": 5290,
         "Bluehost": 4267,
-        "Hostinger": 3833,
-        "GoDaddy": 1438,
+        "Hostinger": 3834,
+        "GoDaddy": 1439,
         "Liquid Web": 733,
         "BigScoots": 664,
         "WordPress.com": 533,
