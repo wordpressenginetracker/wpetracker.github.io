@@ -1,10 +1,25 @@
 {
-    "siteCount": 105428,
+    "siteCount": 105439,
     "recentlyMoved": [
+        {
+            "domain_name": "www.whitebathroom.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-20 05:21:40"
+        },
+        {
+            "domain_name": "litigationcommentary.org",
+            "destination": "Kinsta",
+            "date": "2025-11-20 04:41:09"
+        },
         {
             "domain_name": "www.delawarecorp.com",
             "destination": "Kinsta",
             "date": "2025-11-20 04:28:33"
+        },
+        {
+            "domain_name": "www.johannabasford.com",
+            "destination": "BigScoots",
+            "date": "2025-11-20 04:06:03"
         },
         {
             "domain_name": "www.lomitacourtapartments.com",
@@ -482,24 +497,9 @@
             "date": "2025-11-18 17:09:11"
         },
         {
-            "domain_name": "www.intricatesound.design",
-            "destination": "Kinsta",
-            "date": "2025-11-18 16:54:29"
-        },
-        {
             "domain_name": "smithandjoneselectric.com",
             "destination": "Kinsta",
             "date": "2025-11-18 16:47:23"
-        },
-        {
-            "domain_name": "refinedresidence.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 16:39:54"
-        },
-        {
-            "domain_name": "protypestaffing.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-18 16:30:43"
         }
     ],
     "dailyMovedStat": {
@@ -931,14 +931,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11462,
-        "Kinsta": 6953,
+        "Kinsta": 6954,
         "SiteGround": 5684,
         "Digital Ocean": 5290,
         "Bluehost": 4267,
         "Hostinger": 3834,
         "GoDaddy": 1439,
         "Liquid Web": 733,
-        "BigScoots": 664,
+        "BigScoots": 665,
         "WordPress.com": 533,
         "InMotion Hosting": 457,
         "OVH": 452,
