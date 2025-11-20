@@ -1,6 +1,16 @@
 {
-    "siteCount": 105483,
+    "siteCount": 105490,
     "recentlyMoved": [
+        {
+            "domain_name": "edwardsaccountants.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-11-20 13:52:06"
+        },
+        {
+            "domain_name": "exchangelistingllc.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-20 13:46:48"
+        },
         {
             "domain_name": "longleafalliance.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "campbellplumbing.co.nz",
             "destination": "Pressable",
             "date": "2025-11-19 00:24:40"
-        },
-        {
-            "domain_name": "americanwheatley.com",
-            "destination": "Pressable",
-            "date": "2025-11-18 23:34:38"
-        },
-        {
-            "domain_name": "activeeventtechnology.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-18 23:13:44"
         }
     ],
     "dailyMovedStat": {
@@ -931,12 +931,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11465,
-        "Kinsta": 6966,
+        "Kinsta": 6968,
         "SiteGround": 5684,
         "Digital Ocean": 5292,
         "Bluehost": 4267,
         "Hostinger": 3837,
-        "GoDaddy": 1440,
+        "GoDaddy": 1441,
         "Liquid Web": 733,
         "BigScoots": 665,
         "WordPress.com": 533,
