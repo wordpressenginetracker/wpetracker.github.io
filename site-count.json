@@ -1,6 +1,31 @@
 {
-    "siteCount": 105448,
+    "siteCount": 105455,
     "recentlyMoved": [
+        {
+            "domain_name": "kokku.com",
+            "destination": "Pressable",
+            "date": "2025-11-20 08:59:52"
+        },
+        {
+            "domain_name": "sydneyturfandlandscaping.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-20 08:55:18"
+        },
+        {
+            "domain_name": "www.sydneycentralglass.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-20 08:50:45"
+        },
+        {
+            "domain_name": "www.sydneyccs.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-20 08:50:45"
+        },
+        {
+            "domain_name": "clouds.geant.org",
+            "destination": "Kinsta",
+            "date": "2025-11-20 08:45:14"
+        },
         {
             "domain_name": "www.eduvpn.org",
             "destination": "Kinsta",
@@ -475,31 +500,6 @@
             "domain_name": "www.pripackaging.com",
             "destination": "Kinsta",
             "date": "2025-11-18 20:24:31"
-        },
-        {
-            "domain_name": "goldroomprops.com",
-            "destination": "HostGator",
-            "date": "2025-11-18 19:58:56"
-        },
-        {
-            "domain_name": "360collisioncentres.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 19:48:13"
-        },
-        {
-            "domain_name": "www.alphaaviationpartners.com",
-            "destination": "Kinsta",
-            "date": "2025-11-18 19:48:02"
-        },
-        {
-            "domain_name": "phoenixmanufacturing.com",
-            "destination": "Pressable",
-            "date": "2025-11-18 19:23:28"
-        },
-        {
-            "domain_name": "maqtral.com.br",
-            "destination": "Bluehost",
-            "date": "2025-11-18 17:21:41"
         }
     ],
     "dailyMovedStat": {
@@ -930,8 +930,8 @@
         "2025-11-19": "105396"
     },
     "topDestinationHosts": {
-        "Pressable": 11463,
-        "Kinsta": 6956,
+        "Pressable": 11464,
+        "Kinsta": 6960,
         "SiteGround": 5684,
         "Digital Ocean": 5291,
         "Bluehost": 4267,
