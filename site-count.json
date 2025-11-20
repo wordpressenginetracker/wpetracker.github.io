@@ -1,6 +1,11 @@
 {
-    "siteCount": 105411,
+    "siteCount": 105416,
     "recentlyMoved": [
+        {
+            "domain_name": "dunbarbuilders.com",
+            "destination": "Kinsta",
+            "date": "2025-11-20 01:11:48"
+        },
         {
             "domain_name": "coloradohomeschool.com",
             "destination": "Hostinger",
@@ -492,11 +497,6 @@
             "date": "2025-11-18 16:23:48"
         },
         {
-            "domain_name": "alphabehavioralhealthcenter.org",
-            "destination": "Kinsta",
-            "date": "2025-11-18 15:47:13"
-        },
-        {
             "domain_name": "pledgetopitchit.org",
             "destination": "Kinsta",
             "date": "2025-11-18 15:46:43"
@@ -931,7 +931,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11462,
-        "Kinsta": 6951,
+        "Kinsta": 6952,
         "SiteGround": 5684,
         "Digital Ocean": 5290,
         "Bluehost": 4267,
