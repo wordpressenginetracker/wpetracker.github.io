@@ -1,5 +1,5 @@
 {
-    "siteCount": 105607,
+    "siteCount": 105616,
     "recentlyMoved": [
         {
             "domain_name": "sushicateringseattle.com",
@@ -10,6 +10,16 @@
             "domain_name": "sushicateringbellevue.com",
             "destination": "Kinsta",
             "date": "2025-11-20 21:37:57"
+        },
+        {
+            "domain_name": "motelpuyallup.com",
+            "destination": "Kinsta",
+            "date": "2025-11-20 21:30:26"
+        },
+        {
+            "domain_name": "toateslawfirm.com",
+            "destination": "Kinsta",
+            "date": "2025-11-20 21:22:46"
         },
         {
             "domain_name": "skipsautobodyshop.com",
@@ -490,16 +500,6 @@
             "domain_name": "nycmea.gbtesting.us",
             "destination": "Digital Ocean",
             "date": "2025-11-19 18:10:26"
-        },
-        {
-            "domain_name": "mdallison.com",
-            "destination": "Kinsta",
-            "date": "2025-11-19 17:45:50"
-        },
-        {
-            "domain_name": "members.soilhealthacademy.org",
-            "destination": "Digital Ocean",
-            "date": "2025-11-19 17:28:47"
         }
     ],
     "dailyMovedStat": {
@@ -931,7 +931,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11472,
-        "Kinsta": 7003,
+        "Kinsta": 7005,
         "SiteGround": 5684,
         "Digital Ocean": 5299,
         "Bluehost": 4269,
