@@ -1,6 +1,11 @@
 {
-    "siteCount": 105649,
+    "siteCount": 105654,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rollingwoodapartment.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-21 07:30:35"
+        },
         {
             "domain_name": "oclagolf.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "iq-inc.com",
             "destination": "BigScoots",
             "date": "2025-11-19 20:29:22"
-        },
-        {
-            "domain_name": "greatstartkent.org",
-            "destination": "Kinsta",
-            "date": "2025-11-19 20:20:27"
         }
     ],
     "dailyMovedStat": {
@@ -937,7 +937,7 @@
         "Digital Ocean": 5300,
         "Bluehost": 4269,
         "Hostinger": 3840,
-        "GoDaddy": 1441,
+        "GoDaddy": 1442,
         "Liquid Web": 733,
         "BigScoots": 665,
         "WordPress.com": 535,
