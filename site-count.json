@@ -1,6 +1,11 @@
 {
-    "siteCount": 105809,
+    "siteCount": 105820,
     "recentlyMoved": [
+        {
+            "domain_name": "ustaxrecovery.com",
+            "destination": "Bluehost",
+            "date": "2025-11-21 21:26:39"
+        },
         {
             "domain_name": "spectrum360.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "creativenonfiction.org",
             "destination": "Kinsta",
             "date": "2025-11-20 16:52:57"
-        },
-        {
-            "domain_name": "lakewoodfd.org",
-            "destination": "Pressable",
-            "date": "2025-11-20 16:41:08"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
         "Kinsta": 7035,
         "SiteGround": 5684,
         "Digital Ocean": 5308,
-        "Bluehost": 4270,
+        "Bluehost": 4271,
         "Hostinger": 3845,
         "GoDaddy": 1444,
         "Liquid Web": 734,
