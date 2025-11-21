@@ -1,6 +1,16 @@
 {
-    "siteCount": 105660,
+    "siteCount": 105662,
     "recentlyMoved": [
+        {
+            "domain_name": "objects.ws",
+            "destination": "Pressable",
+            "date": "2025-11-21 10:21:41"
+        },
+        {
+            "domain_name": "nutec-eu.com",
+            "destination": "Kinsta",
+            "date": "2025-11-21 09:51:28"
+        },
         {
             "domain_name": "logian.fi",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "waterrightspro.com",
             "destination": "Kinsta",
             "date": "2025-11-19 21:35:28"
-        },
-        {
-            "domain_name": "strategixcapital.com",
-            "destination": "Hostinger",
-            "date": "2025-11-19 21:26:47"
-        },
-        {
-            "domain_name": "thepitchlex.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-19 21:17:28"
         }
     ],
     "dailyMovedStat": {
@@ -931,12 +931,12 @@
         "2025-11-20": "105616"
     },
     "topDestinationHosts": {
-        "Pressable": 11473,
-        "Kinsta": 7009,
+        "Pressable": 11474,
+        "Kinsta": 7010,
         "SiteGround": 5684,
         "Digital Ocean": 5300,
         "Bluehost": 4269,
-        "Hostinger": 3840,
+        "Hostinger": 3841,
         "GoDaddy": 1442,
         "Liquid Web": 733,
         "BigScoots": 665,
