@@ -1,6 +1,21 @@
 {
-    "siteCount": 105973,
+    "siteCount": 106015,
     "recentlyMoved": [
+        {
+            "domain_name": "www.euclidbeverage.com",
+            "destination": "Kinsta",
+            "date": "2025-11-22 20:06:18"
+        },
+        {
+            "domain_name": "floridacoastcontracting.com",
+            "destination": "Namecheap",
+            "date": "2025-11-22 19:24:56"
+        },
+        {
+            "domain_name": "overlakedental.com",
+            "destination": "Kinsta",
+            "date": "2025-11-22 19:10:11"
+        },
         {
             "domain_name": "unitedshipping.com",
             "destination": "Digital Ocean",
@@ -472,11 +487,6 @@
             "date": "2025-11-21 16:31:05"
         },
         {
-            "domain_name": "ramenandbowl.com",
-            "destination": "Kinsta",
-            "date": "2025-11-21 16:23:01"
-        },
-        {
             "domain_name": "www.mckeownclassichomes.com",
             "destination": "Kinsta",
             "date": "2025-11-21 16:18:49"
@@ -490,16 +500,6 @@
             "domain_name": "bodyfirstwc.com",
             "destination": "Hostinger",
             "date": "2025-11-21 16:09:15"
-        },
-        {
-            "domain_name": "hapcoinc.com",
-            "destination": "Kinsta",
-            "date": "2025-11-21 16:06:01"
-        },
-        {
-            "domain_name": "www.knoxseniors.org",
-            "destination": "Liquid Web",
-            "date": "2025-11-21 16:03:30"
         }
     ],
     "dailyMovedStat": {
@@ -933,20 +933,20 @@
     },
     "topDestinationHosts": {
         "Pressable": 11485,
-        "Kinsta": 7068,
+        "Kinsta": 7071,
         "SiteGround": 5684,
-        "Digital Ocean": 5309,
+        "Digital Ocean": 5310,
         "Bluehost": 4272,
         "Hostinger": 3852,
-        "GoDaddy": 1447,
+        "GoDaddy": 1448,
         "Liquid Web": 735,
         "BigScoots": 670,
         "WordPress.com": 537,
         "InMotion Hosting": 458,
+        "GridPane": 455,
         "OVH": 454,
-        "GridPane": 454,
         "A2 Hosting": 406,
-        "Namecheap": 394,
+        "Namecheap": 395,
         "IONOS": 394,
         "DreamHost": 372,
         "Elementor Hosting": 367,
