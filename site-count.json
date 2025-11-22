@@ -1,6 +1,11 @@
 {
-    "siteCount": 105887,
+    "siteCount": 105890,
     "recentlyMoved": [
+        {
+            "domain_name": "seiland-explore.no",
+            "destination": "Hostinger",
+            "date": "2025-11-22 09:05:30"
+        },
         {
             "domain_name": "www.darkknightarmoury.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "asiafoodjournal.com",
             "destination": "Kinsta",
             "date": "2025-11-20 19:34:54"
-        },
-        {
-            "domain_name": "hairrelaxerlawsuitlawyers.com",
-            "destination": "Kinsta",
-            "date": "2025-11-20 19:33:24"
         }
     ],
     "dailyMovedStat": {
@@ -937,7 +937,7 @@
         "SiteGround": 5684,
         "Digital Ocean": 5308,
         "Bluehost": 4271,
-        "Hostinger": 3850,
+        "Hostinger": 3851,
         "GoDaddy": 1446,
         "Liquid Web": 734,
         "BigScoots": 668,
