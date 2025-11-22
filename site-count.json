@@ -1,10 +1,25 @@
 {
-    "siteCount": 105872,
+    "siteCount": 105880,
     "recentlyMoved": [
+        {
+            "domain_name": "exba.com",
+            "destination": "Hostinger",
+            "date": "2025-11-22 05:53:58"
+        },
         {
             "domain_name": "www.westmeadsmilecentre.com.au",
             "destination": "Kinsta",
             "date": "2025-11-22 05:39:56"
+        },
+        {
+            "domain_name": "davidinlearning.com",
+            "destination": "Hostinger",
+            "date": "2025-11-22 05:35:19"
+        },
+        {
+            "domain_name": "titanadvisory.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-22 05:34:07"
         },
         {
             "domain_name": "clearenv.com",
@@ -40,6 +55,11 @@
             "domain_name": "www.tilecraft.com.au",
             "destination": "Kinsta",
             "date": "2025-11-22 05:05:30"
+        },
+        {
+            "domain_name": "www.zjplastering.com.au",
+            "destination": "Kinsta",
+            "date": "2025-11-22 05:00:37"
         },
         {
             "domain_name": "happinesstravel.co.il",
@@ -462,11 +482,6 @@
             "date": "2025-11-20 20:06:26"
         },
         {
-            "domain_name": "peregrinenorth.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-20 20:04:57"
-        },
-        {
             "domain_name": "primehealthdenver.com",
             "destination": "Kinsta",
             "date": "2025-11-20 20:04:19"
@@ -477,16 +492,6 @@
             "date": "2025-11-20 19:38:08"
         },
         {
-            "domain_name": "goldsmithawards.org",
-            "destination": "Kinsta",
-            "date": "2025-11-20 19:38:08"
-        },
-        {
-            "domain_name": "gatewayinnonline.com",
-            "destination": "Kinsta",
-            "date": "2025-11-20 19:36:56"
-        },
-        {
             "domain_name": "asiafoodjournal.com",
             "destination": "Kinsta",
             "date": "2025-11-20 19:34:54"
@@ -495,11 +500,6 @@
             "domain_name": "hairrelaxerlawsuitlawyers.com",
             "destination": "Kinsta",
             "date": "2025-11-20 19:33:24"
-        },
-        {
-            "domain_name": "geenamoonhairsalon.com",
-            "destination": "Kinsta",
-            "date": "2025-11-20 19:21:05"
         }
     ],
     "dailyMovedStat": {
@@ -933,11 +933,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11481,
-        "Kinsta": 7042,
+        "Kinsta": 7045,
         "SiteGround": 5684,
         "Digital Ocean": 5308,
         "Bluehost": 4271,
-        "Hostinger": 3848,
+        "Hostinger": 3850,
         "GoDaddy": 1445,
         "Liquid Web": 734,
         "BigScoots": 667,
