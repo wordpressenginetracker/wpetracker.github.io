@@ -1,10 +1,25 @@
 {
-    "siteCount": 106091,
+    "siteCount": 106095,
     "recentlyMoved": [
+        {
+            "domain_name": "cryptovalutanieuws.nl",
+            "destination": "Kinsta",
+            "date": "2025-11-23 13:46:24"
+        },
+        {
+            "domain_name": "madeintheshadeblindsfranchising.com",
+            "destination": "Kinsta",
+            "date": "2025-11-23 13:36:01"
+        },
         {
             "domain_name": "kristyandvic.com",
             "destination": "BigScoots",
             "date": "2025-11-23 13:25:13"
+        },
+        {
+            "domain_name": "ecastonline.org",
+            "destination": "Kinsta",
+            "date": "2025-11-23 13:25:00"
         },
         {
             "domain_name": "skylandnj.com",
@@ -485,21 +500,6 @@
             "domain_name": "knkhelp.com",
             "destination": "Kinsta",
             "date": "2025-11-21 20:40:06"
-        },
-        {
-            "domain_name": "hillcrestland.com",
-            "destination": "Kinsta",
-            "date": "2025-11-21 20:35:56"
-        },
-        {
-            "domain_name": "aslh.net",
-            "destination": "Kinsta",
-            "date": "2025-11-21 19:49:11"
-        },
-        {
-            "domain_name": "www.amcny.org",
-            "destination": "Digital Ocean",
-            "date": "2025-11-21 19:49:10"
         }
     ],
     "dailyMovedStat": {
@@ -934,7 +934,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11485,
-        "Kinsta": 7089,
+        "Kinsta": 7092,
         "SiteGround": 5684,
         "Digital Ocean": 5312,
         "Bluehost": 4272,
