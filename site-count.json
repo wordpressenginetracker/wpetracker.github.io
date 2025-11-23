@@ -1,5 +1,5 @@
 {
-    "siteCount": 106059,
+    "siteCount": 106070,
     "recentlyMoved": [
         {
             "domain_name": "chriskenney.law",
@@ -15,6 +15,11 @@
             "domain_name": "landnproduce.com",
             "destination": "Kinsta",
             "date": "2025-11-23 01:12:30"
+        },
+        {
+            "domain_name": "mckenzielybrand.com",
+            "destination": "Kinsta",
+            "date": "2025-11-23 00:59:46"
         },
         {
             "domain_name": "bradleyinsgroup.com",
@@ -492,11 +497,6 @@
             "date": "2025-11-21 19:32:06"
         },
         {
-            "domain_name": "multnomahheating.pro",
-            "destination": "GoDaddy",
-            "date": "2025-11-21 17:39:02"
-        },
-        {
             "domain_name": "ualocal469.org",
             "destination": "Kinsta",
             "date": "2025-11-21 17:29:30"
@@ -934,7 +934,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11485,
-        "Kinsta": 7085,
+        "Kinsta": 7087,
         "SiteGround": 5684,
         "Digital Ocean": 5312,
         "Bluehost": 4272,
