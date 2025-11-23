@@ -1,6 +1,11 @@
 {
-    "siteCount": 106121,
+    "siteCount": 106122,
     "recentlyMoved": [
+        {
+            "domain_name": "birthhaven.org",
+            "destination": "Elementor Hosting",
+            "date": "2025-11-23 20:39:39"
+        },
         {
             "domain_name": "melineh.art",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "loveyourbodystudios.com",
             "destination": "Hostinger",
             "date": "2025-11-22 01:46:54"
-        },
-        {
-            "domain_name": "www.natetheplumber.com",
-            "destination": "GridPane",
-            "date": "2025-11-22 00:59:21"
         }
     ],
     "dailyMovedStat": {
@@ -950,7 +950,7 @@
         "Namecheap": 395,
         "IONOS": 395,
         "DreamHost": 372,
-        "Elementor Hosting": 367,
+        "Elementor Hosting": 368,
         "Hetzner Online": 301,
         "HostGator": 245
     },
