@@ -1,6 +1,11 @@
 {
-    "siteCount": 106070,
+    "siteCount": 106077,
     "recentlyMoved": [
+        {
+            "domain_name": "minutemuffleryorkton.ca",
+            "destination": "Hostinger",
+            "date": "2025-11-23 03:51:34"
+        },
         {
             "domain_name": "chriskenney.law",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "freetobuild.org",
             "destination": "Kinsta",
             "date": "2025-11-21 19:32:06"
-        },
-        {
-            "domain_name": "ualocal469.org",
-            "destination": "Kinsta",
-            "date": "2025-11-21 17:29:30"
         }
     ],
     "dailyMovedStat": {
@@ -938,7 +938,7 @@
         "SiteGround": 5684,
         "Digital Ocean": 5312,
         "Bluehost": 4272,
-        "Hostinger": 3853,
+        "Hostinger": 3854,
         "GoDaddy": 1448,
         "Liquid Web": 736,
         "BigScoots": 670,
