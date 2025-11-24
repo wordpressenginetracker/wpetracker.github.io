@@ -1,6 +1,11 @@
 {
-    "siteCount": 106215,
+    "siteCount": 106220,
     "recentlyMoved": [
+        {
+            "domain_name": "www.minervachamber.org",
+            "destination": "Kinsta",
+            "date": "2025-11-24 04:56:24"
+        },
         {
             "domain_name": "fionabratvold.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "nsf100championship.nl",
             "destination": "Kinsta",
             "date": "2025-11-22 13:32:10"
-        },
-        {
-            "domain_name": "npwtportal.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-22 13:32:10"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11493,
-        "Kinsta": 7109,
+        "Kinsta": 7110,
         "SiteGround": 5684,
         "Digital Ocean": 5315,
         "Bluehost": 4272,
