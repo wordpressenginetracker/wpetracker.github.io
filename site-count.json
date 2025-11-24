@@ -1,6 +1,16 @@
 {
-    "siteCount": 106246,
+    "siteCount": 106251,
     "recentlyMoved": [
+        {
+            "domain_name": "leegutkind.com",
+            "destination": "Kinsta",
+            "date": "2025-11-24 17:25:25"
+        },
+        {
+            "domain_name": "rememberedlight.org",
+            "destination": "Kinsta",
+            "date": "2025-11-24 16:44:59"
+        },
         {
             "domain_name": "openocean.dk",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "madeintheshadensli.com",
             "destination": "Kinsta",
             "date": "2025-11-22 17:11:20"
-        },
-        {
-            "domain_name": "madeintheshadelloydminster.ca",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:11:20"
-        },
-        {
-            "domain_name": "madeintheshadeblindsomaha.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:11:20"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11494,
-        "Kinsta": 7114,
+        "Kinsta": 7115,
         "SiteGround": 5685,
         "Digital Ocean": 5316,
         "Bluehost": 4273,
