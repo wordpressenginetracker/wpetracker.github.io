@@ -1,6 +1,11 @@
 {
-    "siteCount": 106239,
+    "siteCount": 106241,
     "recentlyMoved": [
+        {
+            "domain_name": "lps-ins.com",
+            "destination": "Kinsta",
+            "date": "2025-11-24 13:28:44"
+        },
         {
             "domain_name": "www.refrigerationamesse.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "madeintheshadeblindsomaha.com",
             "destination": "Kinsta",
             "date": "2025-11-22 17:11:20"
-        },
-        {
-            "domain_name": "carterengineering.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 16:39:46"
         }
     ],
     "dailyMovedStat": {
@@ -935,7 +935,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11494,
-        "Kinsta": 7112,
+        "Kinsta": 7113,
         "SiteGround": 5685,
         "Digital Ocean": 5315,
         "Bluehost": 4273,
