@@ -1,6 +1,11 @@
 {
-    "siteCount": 106220,
+    "siteCount": 106223,
     "recentlyMoved": [
+        {
+            "domain_name": "vogt-kuechen.de",
+            "destination": "IONOS",
+            "date": "2025-11-24 06:35:05"
+        },
         {
             "domain_name": "www.minervachamber.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "obgconnect.com",
             "destination": "BigScoots",
             "date": "2025-11-22 14:18:21"
-        },
-        {
-            "domain_name": "nsf100championship.nl",
-            "destination": "Kinsta",
-            "date": "2025-11-22 13:32:10"
         }
     ],
     "dailyMovedStat": {
@@ -948,7 +948,7 @@
         "GridPane": 457,
         "OVH": 456,
         "A2 Hosting": 406,
-        "IONOS": 396,
+        "IONOS": 397,
         "Namecheap": 395,
         "DreamHost": 373,
         "Elementor Hosting": 368,
