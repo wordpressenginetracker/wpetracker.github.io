@@ -1,10 +1,45 @@
 {
-    "siteCount": 106184,
+    "siteCount": 106210,
     "recentlyMoved": [
+        {
+            "domain_name": "explorebastropcounty.com",
+            "destination": "Pressable",
+            "date": "2025-11-24 02:31:19"
+        },
+        {
+            "domain_name": "nickvujicic.com",
+            "destination": "Pressable",
+            "date": "2025-11-24 02:07:07"
+        },
+        {
+            "domain_name": "mx-lierneux.be",
+            "destination": "Kinsta",
+            "date": "2025-11-24 01:51:08"
+        },
+        {
+            "domain_name": "ncph.org",
+            "destination": "Kinsta",
+            "date": "2025-11-24 01:45:49"
+        },
+        {
+            "domain_name": "magpiebakery.com",
+            "destination": "IONOS",
+            "date": "2025-11-24 01:42:29"
+        },
+        {
+            "domain_name": "cspo.org",
+            "destination": "Kinsta",
+            "date": "2025-11-24 01:40:04"
+        },
         {
             "domain_name": "www.ruskingroup.com",
             "destination": "Kinsta",
             "date": "2025-11-24 01:36:02"
+        },
+        {
+            "domain_name": "terbutalinelawsuit.com",
+            "destination": "Kinsta",
+            "date": "2025-11-24 01:28:14"
         },
         {
             "domain_name": "collinswoodpta.com",
@@ -22,6 +57,11 @@
             "date": "2025-11-24 01:21:35"
         },
         {
+            "domain_name": "targerm.ca",
+            "destination": "GridPane",
+            "date": "2025-11-24 01:20:51"
+        },
+        {
             "domain_name": "clearchoicemg.com",
             "destination": "Hostinger",
             "date": "2025-11-24 01:11:06"
@@ -35,6 +75,11 @@
             "domain_name": "keeggo.com",
             "destination": "Hostinger",
             "date": "2025-11-24 01:03:20"
+        },
+        {
+            "domain_name": "creativepush.org",
+            "destination": "Kinsta",
+            "date": "2025-11-24 01:02:31"
         },
         {
             "domain_name": "j2designstudio.com",
@@ -442,11 +487,6 @@
             "date": "2025-11-22 14:18:21"
         },
         {
-            "domain_name": "theelitebeach.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 13:50:51"
-        },
-        {
             "domain_name": "nsf100championship.nl",
             "destination": "Kinsta",
             "date": "2025-11-22 13:32:10"
@@ -460,46 +500,6 @@
             "domain_name": "treatmh.com",
             "destination": "Bluehost",
             "date": "2025-11-22 13:27:29"
-        },
-        {
-            "domain_name": "xn--bna-snaa.com",
-            "destination": "Pressable",
-            "date": "2025-11-22 13:22:21"
-        },
-        {
-            "domain_name": "www.rivaselectricalsystems.com",
-            "destination": "GridPane",
-            "date": "2025-11-22 13:04:48"
-        },
-        {
-            "domain_name": "libertaspress.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 13:00:59"
-        },
-        {
-            "domain_name": "boonagym.fi",
-            "destination": "Pressable",
-            "date": "2025-11-22 12:58:31"
-        },
-        {
-            "domain_name": "www.sadcamiante.com",
-            "destination": "GridPane",
-            "date": "2025-11-22 12:40:02"
-        },
-        {
-            "domain_name": "www.karinejacques.com",
-            "destination": "GridPane",
-            "date": "2025-11-22 12:24:51"
-        },
-        {
-            "domain_name": "carolynkennedygraupner.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-22 12:23:19"
-        },
-        {
-            "domain_name": "www.larpdistribution.com",
-            "destination": "BigScoots",
-            "date": "2025-11-22 12:13:53"
         }
     ],
     "dailyMovedStat": {
@@ -934,8 +934,8 @@
         "2025-11-23": "106126"
     },
     "topDestinationHosts": {
-        "Pressable": 11490,
-        "Kinsta": 7104,
+        "Pressable": 11492,
+        "Kinsta": 7109,
         "SiteGround": 5684,
         "Digital Ocean": 5315,
         "Bluehost": 4272,
@@ -945,11 +945,11 @@
         "BigScoots": 672,
         "WordPress.com": 537,
         "InMotion Hosting": 458,
+        "GridPane": 457,
         "OVH": 456,
-        "GridPane": 456,
         "A2 Hosting": 406,
+        "IONOS": 396,
         "Namecheap": 395,
-        "IONOS": 395,
         "DreamHost": 373,
         "Elementor Hosting": 368,
         "Hetzner Online": 301,
