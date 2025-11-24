@@ -1,6 +1,11 @@
 {
-    "siteCount": 106227,
+    "siteCount": 106230,
     "recentlyMoved": [
+        {
+            "domain_name": "chocolatesprings.com",
+            "destination": "Pressable",
+            "date": "2025-11-24 09:04:06"
+        },
         {
             "domain_name": "bartlettbasketballacademy.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "sgtint.com",
             "destination": "OVH",
             "date": "2025-11-22 16:38:28"
-        },
-        {
-            "domain_name": "scottallencreative.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 16:26:40"
         }
     ],
     "dailyMovedStat": {
@@ -934,7 +934,7 @@
         "2025-11-23": "106126"
     },
     "topDestinationHosts": {
-        "Pressable": 11493,
+        "Pressable": 11494,
         "Kinsta": 7111,
         "SiteGround": 5684,
         "Digital Ocean": 5315,
