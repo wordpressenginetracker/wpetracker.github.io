@@ -1,6 +1,11 @@
 {
-    "siteCount": 106233,
+    "siteCount": 106236,
     "recentlyMoved": [
+        {
+            "domain_name": "abkidsdent.com",
+            "destination": "Kinsta",
+            "date": "2025-11-24 11:55:55"
+        },
         {
             "domain_name": "chocolatesprings.com",
             "destination": "Pressable",
@@ -482,11 +487,6 @@
             "date": "2025-11-22 17:11:20"
         },
         {
-            "domain_name": "sdhomepro.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 16:55:54"
-        },
-        {
             "domain_name": "www.nthdegreefinancial.com",
             "destination": "Kinsta",
             "date": "2025-11-22 16:43:57"
@@ -935,7 +935,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11494,
-        "Kinsta": 7111,
+        "Kinsta": 7112,
         "SiteGround": 5684,
         "Digital Ocean": 5315,
         "Bluehost": 4273,
