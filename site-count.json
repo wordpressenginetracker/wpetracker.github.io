@@ -1,6 +1,11 @@
 {
-    "siteCount": 106305,
+    "siteCount": 106311,
     "recentlyMoved": [
+        {
+            "domain_name": "applelearningcompany.com",
+            "destination": "Kinsta",
+            "date": "2025-11-25 03:48:51"
+        },
         {
             "domain_name": "youthcomm.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "mitsplano.com",
             "destination": "Kinsta",
             "date": "2025-11-22 17:24:15"
-        },
-        {
-            "domain_name": "mitspittsburgh.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:24:15"
         }
     ],
     "dailyMovedStat": {
@@ -936,7 +936,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11494,
-        "Kinsta": 7117,
+        "Kinsta": 7118,
         "SiteGround": 5685,
         "Digital Ocean": 5320,
         "Bluehost": 4273,
