@@ -1,10 +1,25 @@
 {
-    "siteCount": 106489,
+    "siteCount": 106495,
     "recentlyMoved": [
+        {
+            "domain_name": "mirren.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-25 21:43:59"
+        },
+        {
+            "domain_name": "matunuckrealty.com",
+            "destination": "Pressable",
+            "date": "2025-11-25 21:26:54"
+        },
         {
             "domain_name": "centralillinoisorthodontics.com",
             "destination": "Kinsta",
             "date": "2025-11-25 21:11:39"
+        },
+        {
+            "domain_name": "www.sulgravemanor.us",
+            "destination": "Pressable",
+            "date": "2025-11-25 20:53:10"
         },
         {
             "domain_name": "www.noeldubonheur.com",
@@ -482,24 +497,9 @@
             "date": "2025-11-24 00:40:09"
         },
         {
-            "domain_name": "jointprojects.nl",
-            "destination": "Kinsta",
-            "date": "2025-11-24 00:40:09"
-        },
-        {
-            "domain_name": "jdfullerplumbingandheating.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 00:38:57"
-        },
-        {
             "domain_name": "christyjohnson.com",
             "destination": "BigScoots",
             "date": "2025-11-24 00:38:53"
-        },
-        {
-            "domain_name": "www.limehurstlake.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 00:35:47"
         }
     ],
     "dailyMovedStat": {
@@ -935,13 +935,13 @@
         "2025-11-24": "106289"
     },
     "topDestinationHosts": {
-        "Pressable": 11502,
+        "Pressable": 11504,
         "Kinsta": 7143,
         "SiteGround": 5685,
         "Digital Ocean": 5334,
         "Bluehost": 4274,
         "Hostinger": 3869,
-        "GoDaddy": 1451,
+        "GoDaddy": 1452,
         "Liquid Web": 736,
         "BigScoots": 673,
         "WordPress.com": 539,
