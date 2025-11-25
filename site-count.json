@@ -1,10 +1,30 @@
 {
-    "siteCount": 106364,
+    "siteCount": 106374,
     "recentlyMoved": [
+        {
+            "domain_name": "vie.syscomax.com",
+            "destination": "GridPane",
+            "date": "2025-11-25 14:36:20"
+        },
+        {
+            "domain_name": "daatemet.org.il",
+            "destination": "Hetzner Online",
+            "date": "2025-11-25 13:49:02"
+        },
+        {
+            "domain_name": "davischiropractickc.com",
+            "destination": "Pressable",
+            "date": "2025-11-25 13:46:07"
+        },
         {
             "domain_name": "www.surfcitysmiles.com",
             "destination": "Kinsta",
             "date": "2025-11-25 13:36:49"
+        },
+        {
+            "domain_name": "yougotwp.com",
+            "destination": "Pressable",
+            "date": "2025-11-25 13:25:06"
         },
         {
             "domain_name": "www.puitsabitibi.com",
@@ -480,26 +500,6 @@
             "domain_name": "britishswimschool.com",
             "destination": "Kinsta",
             "date": "2025-11-23 08:51:00"
-        },
-        {
-            "domain_name": "minutemuffleryorkton.ca",
-            "destination": "Hostinger",
-            "date": "2025-11-23 03:51:34"
-        },
-        {
-            "domain_name": "landnproduce.com",
-            "destination": "Kinsta",
-            "date": "2025-11-23 01:12:30"
-        },
-        {
-            "domain_name": "mckenzielybrand.com",
-            "destination": "Kinsta",
-            "date": "2025-11-23 00:59:46"
-        },
-        {
-            "domain_name": "cypresscommercial.com",
-            "destination": "Kinsta",
-            "date": "2025-11-23 00:49:56"
         }
     ],
     "dailyMovedStat": {
@@ -935,8 +935,8 @@
         "2025-11-24": "106289"
     },
     "topDestinationHosts": {
-        "Pressable": 11495,
-        "Kinsta": 7125,
+        "Pressable": 11497,
+        "Kinsta": 7127,
         "SiteGround": 5685,
         "Digital Ocean": 5327,
         "Bluehost": 4274,
@@ -945,7 +945,7 @@
         "Liquid Web": 736,
         "BigScoots": 673,
         "WordPress.com": 538,
-        "GridPane": 460,
+        "GridPane": 461,
         "InMotion Hosting": 458,
         "OVH": 457,
         "A2 Hosting": 406,
@@ -953,7 +953,7 @@
         "Namecheap": 396,
         "DreamHost": 373,
         "Elementor Hosting": 368,
-        "Hetzner Online": 301,
+        "Hetzner Online": 302,
         "HostGator": 245
     },
     "dailyTotalStat": {
