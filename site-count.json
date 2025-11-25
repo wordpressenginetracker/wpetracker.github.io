@@ -1,10 +1,15 @@
 {
-    "siteCount": 106374,
+    "siteCount": 106375,
     "recentlyMoved": [
         {
             "domain_name": "vie.syscomax.com",
             "destination": "GridPane",
             "date": "2025-11-25 14:36:20"
+        },
+        {
+            "domain_name": "nwapd.com",
+            "destination": "Kinsta",
+            "date": "2025-11-25 14:17:54"
         },
         {
             "domain_name": "daatemet.org.il",
@@ -495,11 +500,6 @@
             "domain_name": "skylandnj.com",
             "destination": "Kinsta",
             "date": "2025-11-23 12:47:58"
-        },
-        {
-            "domain_name": "britishswimschool.com",
-            "destination": "Kinsta",
-            "date": "2025-11-23 08:51:00"
         }
     ],
     "dailyMovedStat": {
@@ -936,7 +936,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11497,
-        "Kinsta": 7127,
+        "Kinsta": 7128,
         "SiteGround": 5685,
         "Digital Ocean": 5327,
         "Bluehost": 4274,
