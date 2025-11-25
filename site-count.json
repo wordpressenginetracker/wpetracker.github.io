@@ -1,6 +1,11 @@
 {
-    "siteCount": 106297,
+    "siteCount": 106301,
     "recentlyMoved": [
+        {
+            "domain_name": "bcleans.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-11-25 00:27:59"
+        },
         {
             "domain_name": "petmetrics.com",
             "destination": "Wordify",
@@ -495,11 +500,6 @@
             "domain_name": "mitsnraleigh.com",
             "destination": "Kinsta",
             "date": "2025-11-22 17:24:15"
-        },
-        {
-            "domain_name": "mitsmansfield.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:24:15"
         }
     ],
     "dailyMovedStat": {
@@ -938,7 +938,7 @@
         "Pressable": 11494,
         "Kinsta": 7116,
         "SiteGround": 5685,
-        "Digital Ocean": 5318,
+        "Digital Ocean": 5319,
         "Bluehost": 4273,
         "Hostinger": 3862,
         "GoDaddy": 1451,
@@ -950,7 +950,7 @@
         "OVH": 457,
         "A2 Hosting": 406,
         "IONOS": 397,
-        "Namecheap": 395,
+        "Namecheap": 396,
         "DreamHost": 373,
         "Elementor Hosting": 368,
         "Hetzner Online": 301,
