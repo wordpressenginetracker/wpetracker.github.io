@@ -1,6 +1,16 @@
 {
-    "siteCount": 106301,
+    "siteCount": 106305,
     "recentlyMoved": [
+        {
+            "domain_name": "youthcomm.org",
+            "destination": "Kinsta",
+            "date": "2025-11-25 01:40:35"
+        },
+        {
+            "domain_name": "davidmorrisgroup.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-25 01:37:36"
+        },
         {
             "domain_name": "bcleans.co.uk",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "mitspittsburgh.com",
             "destination": "Kinsta",
             "date": "2025-11-22 17:24:15"
-        },
-        {
-            "domain_name": "mitsorlando.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:24:15"
-        },
-        {
-            "domain_name": "mitsnraleigh.com",
-            "destination": "Kinsta",
-            "date": "2025-11-22 17:24:15"
         }
     ],
     "dailyMovedStat": {
@@ -936,9 +936,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11494,
-        "Kinsta": 7116,
+        "Kinsta": 7117,
         "SiteGround": 5685,
-        "Digital Ocean": 5319,
+        "Digital Ocean": 5320,
         "Bluehost": 4273,
         "Hostinger": 3862,
         "GoDaddy": 1451,
