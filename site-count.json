@@ -1,6 +1,11 @@
 {
-    "siteCount": 106495,
+    "siteCount": 106498,
     "recentlyMoved": [
+        {
+            "domain_name": "wagonworx.com",
+            "destination": "GridPane",
+            "date": "2025-11-25 22:52:17"
+        },
         {
             "domain_name": "mirren.com",
             "destination": "GoDaddy",
@@ -492,11 +497,6 @@
             "date": "2025-11-24 01:02:31"
         },
         {
-            "domain_name": "jointprojects.online",
-            "destination": "Kinsta",
-            "date": "2025-11-24 00:40:09"
-        },
-        {
             "domain_name": "christyjohnson.com",
             "destination": "BigScoots",
             "date": "2025-11-24 00:38:53"
@@ -932,7 +932,8 @@
         "2025-11-21": "105820",
         "2025-11-22": "106032",
         "2025-11-23": "106126",
-        "2025-11-24": "106289"
+        "2025-11-24": "106289",
+        "2025-11-25": "106498"
     },
     "topDestinationHosts": {
         "Pressable": 11504,
@@ -945,7 +946,7 @@
         "Liquid Web": 736,
         "BigScoots": 673,
         "WordPress.com": 539,
-        "GridPane": 462,
+        "GridPane": 463,
         "InMotion Hosting": 459,
         "OVH": 458,
         "A2 Hosting": 406,
@@ -1386,6 +1387,7 @@
         "2025-11-21": "530220",
         "2025-11-22": "529913",
         "2025-11-23": "561023",
-        "2025-11-24": "560390"
+        "2025-11-24": "560390",
+        "2025-11-25": "559671"
     }
 }
