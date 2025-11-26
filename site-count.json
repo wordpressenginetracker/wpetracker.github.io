@@ -1,6 +1,11 @@
 {
-    "siteCount": 106527,
+    "siteCount": 106528,
     "recentlyMoved": [
+        {
+            "domain_name": "nwroman.com.sg",
+            "destination": "Digital Ocean",
+            "date": "2025-11-26 06:24:50"
+        },
         {
             "domain_name": "canyon-us.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "magpiebakery.com",
             "destination": "IONOS",
             "date": "2025-11-24 01:42:29"
-        },
-        {
-            "domain_name": "terbutalinelawsuit.com",
-            "destination": "Kinsta",
-            "date": "2025-11-24 01:28:14"
         }
     ],
     "dailyMovedStat": {
