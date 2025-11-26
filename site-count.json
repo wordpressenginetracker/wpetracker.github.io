@@ -1,6 +1,11 @@
 {
-    "siteCount": 106510,
+    "siteCount": 106512,
     "recentlyMoved": [
+        {
+            "domain_name": "thelindsaycompanyllc.com",
+            "destination": "Kinsta",
+            "date": "2025-11-26 01:55:15"
+        },
         {
             "domain_name": "carolineguillaume.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "creativepush.org",
             "destination": "Kinsta",
             "date": "2025-11-24 01:02:31"
-        },
-        {
-            "domain_name": "christyjohnson.com",
-            "destination": "BigScoots",
-            "date": "2025-11-24 00:38:53"
         }
     ],
     "dailyMovedStat": {
@@ -937,7 +937,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11504,
-        "Kinsta": 7144,
+        "Kinsta": 7145,
         "SiteGround": 5685,
         "Digital Ocean": 5334,
         "Bluehost": 4274,
