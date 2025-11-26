@@ -1,6 +1,16 @@
 {
-    "siteCount": 106502,
+    "siteCount": 106510,
     "recentlyMoved": [
+        {
+            "domain_name": "carolineguillaume.com",
+            "destination": "Hostinger",
+            "date": "2025-11-26 00:42:58"
+        },
+        {
+            "domain_name": "hydrafireprotection.com",
+            "destination": "Kinsta",
+            "date": "2025-11-26 00:29:07"
+        },
         {
             "domain_name": "hammerfestparkering.no",
             "destination": "Hostinger",
@@ -472,11 +482,6 @@
             "date": "2025-11-24 01:28:13"
         },
         {
-            "domain_name": "khoeffie.nl",
-            "destination": "Kinsta",
-            "date": "2025-11-24 01:23:04"
-        },
-        {
             "domain_name": "targerm.ca",
             "destination": "GridPane",
             "date": "2025-11-24 01:20:51"
@@ -485,11 +490,6 @@
             "domain_name": "clearchoicemg.com",
             "destination": "Hostinger",
             "date": "2025-11-24 01:11:06"
-        },
-        {
-            "domain_name": "keeggo.com",
-            "destination": "Hostinger",
-            "date": "2025-11-24 01:03:20"
         },
         {
             "domain_name": "creativepush.org",
@@ -937,11 +937,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11504,
-        "Kinsta": 7143,
+        "Kinsta": 7144,
         "SiteGround": 5685,
         "Digital Ocean": 5334,
         "Bluehost": 4274,
-        "Hostinger": 3870,
+        "Hostinger": 3871,
         "GoDaddy": 1452,
         "Liquid Web": 736,
         "BigScoots": 673,
