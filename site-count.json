@@ -1,6 +1,26 @@
 {
-    "siteCount": 106541,
+    "siteCount": 106559,
     "recentlyMoved": [
+        {
+            "domain_name": "pelicanpoolsinc.com",
+            "destination": "Hostinger",
+            "date": "2025-11-26 12:05:07"
+        },
+        {
+            "domain_name": "postipuistonpysakointi.fi",
+            "destination": "Pressable",
+            "date": "2025-11-26 12:00:23"
+        },
+        {
+            "domain_name": "fidesmo.com",
+            "destination": "Hostinger",
+            "date": "2025-11-26 11:59:55"
+        },
+        {
+            "domain_name": "37932homes.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-26 11:28:15"
+        },
         {
             "domain_name": "mybenefits.me",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "abkidsdent.com",
             "destination": "Kinsta",
             "date": "2025-11-24 11:55:55"
-        },
-        {
-            "domain_name": "chocolatesprings.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 09:04:06"
-        },
-        {
-            "domain_name": "bartlettbasketballacademy.com",
-            "destination": "Bluehost",
-            "date": "2025-11-24 08:27:36"
-        },
-        {
-            "domain_name": "www.bitcoinskopensjop.nl",
-            "destination": "Kinsta",
-            "date": "2025-11-24 08:07:47"
-        },
-        {
-            "domain_name": "vogt-kuechen.de",
-            "destination": "IONOS",
-            "date": "2025-11-24 06:35:05"
         }
     ],
     "dailyMovedStat": {
@@ -936,19 +936,19 @@
         "2025-11-25": "106498"
     },
     "topDestinationHosts": {
-        "Pressable": 11504,
+        "Pressable": 11505,
         "Kinsta": 7154,
         "SiteGround": 5685,
         "Digital Ocean": 5335,
         "Bluehost": 4274,
-        "Hostinger": 3871,
+        "Hostinger": 3873,
         "GoDaddy": 1452,
         "Liquid Web": 736,
         "BigScoots": 674,
         "WordPress.com": 539,
         "GridPane": 464,
+        "InMotion Hosting": 460,
         "OVH": 459,
-        "InMotion Hosting": 459,
         "A2 Hosting": 406,
         "IONOS": 399,
         "Namecheap": 397,
