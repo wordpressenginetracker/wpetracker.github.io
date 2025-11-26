@@ -1,6 +1,26 @@
 {
-    "siteCount": 106528,
+    "siteCount": 106533,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dc-waterstop.com",
+            "destination": "GridPane",
+            "date": "2025-11-26 08:18:25"
+        },
+        {
+            "domain_name": "acefoodhandler.com",
+            "destination": "Kinsta",
+            "date": "2025-11-26 07:51:40"
+        },
+        {
+            "domain_name": "pcmedproject.com",
+            "destination": "BigScoots",
+            "date": "2025-11-26 07:51:04"
+        },
+        {
+            "domain_name": "ariellewozniak.com",
+            "destination": "HostGator",
+            "date": "2025-11-26 07:37:03"
+        },
         {
             "domain_name": "nwroman.com.sg",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "explorebastropcounty.com",
             "destination": "Pressable",
             "date": "2025-11-24 02:31:19"
-        },
-        {
-            "domain_name": "nickvujicic.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 02:07:07"
-        },
-        {
-            "domain_name": "mx-lierneux.be",
-            "destination": "Kinsta",
-            "date": "2025-11-24 01:51:08"
-        },
-        {
-            "domain_name": "ncph.org",
-            "destination": "Kinsta",
-            "date": "2025-11-24 01:45:49"
-        },
-        {
-            "domain_name": "magpiebakery.com",
-            "destination": "IONOS",
-            "date": "2025-11-24 01:42:29"
         }
     ],
     "dailyMovedStat": {
@@ -937,16 +937,16 @@
     },
     "topDestinationHosts": {
         "Pressable": 11504,
-        "Kinsta": 7151,
+        "Kinsta": 7152,
         "SiteGround": 5685,
         "Digital Ocean": 5335,
         "Bluehost": 4274,
         "Hostinger": 3871,
         "GoDaddy": 1452,
         "Liquid Web": 736,
-        "BigScoots": 673,
+        "BigScoots": 674,
         "WordPress.com": 539,
-        "GridPane": 463,
+        "GridPane": 464,
         "InMotion Hosting": 459,
         "OVH": 458,
         "A2 Hosting": 406,
@@ -955,7 +955,7 @@
         "DreamHost": 376,
         "Elementor Hosting": 368,
         "Hetzner Online": 302,
-        "HostGator": 245
+        "HostGator": 246
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
