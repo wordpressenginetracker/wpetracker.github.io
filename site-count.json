@@ -1,6 +1,31 @@
 {
-    "siteCount": 106600,
+    "siteCount": 106612,
     "recentlyMoved": [
+        {
+            "domain_name": "www.spiralinternational.org",
+            "destination": "Pressable",
+            "date": "2025-11-26 17:06:07"
+        },
+        {
+            "domain_name": "www.kraftchemical.com",
+            "destination": "Kinsta",
+            "date": "2025-11-26 17:02:30"
+        },
+        {
+            "domain_name": "jukupark.fi",
+            "destination": "Pressable",
+            "date": "2025-11-26 16:40:16"
+        },
+        {
+            "domain_name": "joeposa.com",
+            "destination": "Pressable",
+            "date": "2025-11-26 16:39:07"
+        },
+        {
+            "domain_name": "innotechprecisionmed.com",
+            "destination": "Pressable",
+            "date": "2025-11-26 16:28:24"
+        },
         {
             "domain_name": "amnealbiosciences.com",
             "destination": "Liquid Web",
@@ -20,6 +45,11 @@
             "domain_name": "redjuvenate.com",
             "destination": "Pressable",
             "date": "2025-11-26 16:13:45"
+        },
+        {
+            "domain_name": "safecampaudio.org",
+            "destination": "Kinsta",
+            "date": "2025-11-26 16:11:43"
         },
         {
             "domain_name": "amer-restoration.com",
@@ -470,36 +500,6 @@
             "domain_name": "swiftfitness.co.uk",
             "destination": "Hostinger",
             "date": "2025-11-25 09:28:50"
-        },
-        {
-            "domain_name": "baumortho.com",
-            "destination": "Kinsta",
-            "date": "2025-11-25 08:42:08"
-        },
-        {
-            "domain_name": "www.digibete.org",
-            "destination": "Digital Ocean",
-            "date": "2025-11-25 08:34:18"
-        },
-        {
-            "domain_name": "whitespacexpo.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-25 08:05:28"
-        },
-        {
-            "domain_name": "evreviver.com",
-            "destination": "Hostinger",
-            "date": "2025-11-25 06:07:22"
-        },
-        {
-            "domain_name": "zyntero.com",
-            "destination": "Hostinger",
-            "date": "2025-11-25 05:31:50"
-        },
-        {
-            "domain_name": "karencaplan.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-25 04:24:31"
         }
     ],
     "dailyMovedStat": {
@@ -936,8 +936,8 @@
         "2025-11-25": "106498"
     },
     "topDestinationHosts": {
-        "Pressable": 11508,
-        "Kinsta": 7161,
+        "Pressable": 11512,
+        "Kinsta": 7165,
         "SiteGround": 5685,
         "Digital Ocean": 5336,
         "Bluehost": 4274,
