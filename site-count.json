@@ -1,6 +1,16 @@
 {
-    "siteCount": 106533,
+    "siteCount": 106539,
     "recentlyMoved": [
+        {
+            "domain_name": "www.smecta.ua",
+            "destination": "OVH",
+            "date": "2025-11-26 09:36:11"
+        },
+        {
+            "domain_name": "calibercomponents.com",
+            "destination": "Kinsta",
+            "date": "2025-11-26 08:55:26"
+        },
         {
             "domain_name": "www.dc-waterstop.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "www.minervachamber.org",
             "destination": "Kinsta",
             "date": "2025-11-24 04:56:24"
-        },
-        {
-            "domain_name": "fionabratvold.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 03:07:08"
-        },
-        {
-            "domain_name": "explorebastropcounty.com",
-            "destination": "Pressable",
-            "date": "2025-11-24 02:31:19"
         }
     ],
     "dailyMovedStat": {
@@ -937,7 +937,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11504,
-        "Kinsta": 7152,
+        "Kinsta": 7153,
         "SiteGround": 5685,
         "Digital Ocean": 5335,
         "Bluehost": 4274,
@@ -947,8 +947,8 @@
         "BigScoots": 674,
         "WordPress.com": 539,
         "GridPane": 464,
+        "OVH": 459,
         "InMotion Hosting": 459,
-        "OVH": 458,
         "A2 Hosting": 406,
         "IONOS": 399,
         "Namecheap": 397,
