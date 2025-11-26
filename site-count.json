@@ -1,6 +1,11 @@
 {
-    "siteCount": 106498,
+    "siteCount": 106502,
     "recentlyMoved": [
+        {
+            "domain_name": "hammerfestparkering.no",
+            "destination": "Hostinger",
+            "date": "2025-11-26 00:01:57"
+        },
         {
             "domain_name": "wagonworx.com",
             "destination": "GridPane",
@@ -472,11 +477,6 @@
             "date": "2025-11-24 01:23:04"
         },
         {
-            "domain_name": "katiewright.me",
-            "destination": "Hostinger",
-            "date": "2025-11-24 01:21:35"
-        },
-        {
             "domain_name": "targerm.ca",
             "destination": "GridPane",
             "date": "2025-11-24 01:20:51"
@@ -941,7 +941,7 @@
         "SiteGround": 5685,
         "Digital Ocean": 5334,
         "Bluehost": 4274,
-        "Hostinger": 3869,
+        "Hostinger": 3870,
         "GoDaddy": 1452,
         "Liquid Web": 736,
         "BigScoots": 673,
