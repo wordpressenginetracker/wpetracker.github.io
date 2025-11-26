@@ -1,6 +1,11 @@
 {
-    "siteCount": 106539,
+    "siteCount": 106541,
     "recentlyMoved": [
+        {
+            "domain_name": "mybenefits.me",
+            "destination": "Kinsta",
+            "date": "2025-11-26 10:31:00"
+        },
         {
             "domain_name": "www.smecta.ua",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "vogt-kuechen.de",
             "destination": "IONOS",
             "date": "2025-11-24 06:35:05"
-        },
-        {
-            "domain_name": "www.minervachamber.org",
-            "destination": "Kinsta",
-            "date": "2025-11-24 04:56:24"
         }
     ],
     "dailyMovedStat": {
@@ -937,7 +937,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11504,
-        "Kinsta": 7153,
+        "Kinsta": 7154,
         "SiteGround": 5685,
         "Digital Ocean": 5335,
         "Bluehost": 4274,
