@@ -1,6 +1,11 @@
 {
-    "siteCount": 106621,
+    "siteCount": 106673,
     "recentlyMoved": [
+        {
+            "domain_name": "goroundrock.com",
+            "destination": "Pressable",
+            "date": "2025-11-26 20:21:37"
+        },
         {
             "domain_name": "epres.nl",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "rockymountainhomeschoolconference.com",
             "destination": "Hostinger",
             "date": "2025-11-25 12:22:26"
-        },
-        {
-            "domain_name": "www.clareholdings.com",
-            "destination": "Kinsta",
-            "date": "2025-11-25 12:09:28"
         }
     ],
     "dailyMovedStat": {
@@ -936,23 +936,23 @@
         "2025-11-25": "106498"
     },
     "topDestinationHosts": {
-        "Pressable": 11514,
+        "Pressable": 11515,
         "Kinsta": 7166,
         "SiteGround": 5685,
-        "Digital Ocean": 5336,
+        "Digital Ocean": 5337,
         "Bluehost": 4274,
-        "Hostinger": 3873,
+        "Hostinger": 3874,
         "GoDaddy": 1452,
         "Liquid Web": 738,
         "BigScoots": 674,
         "WordPress.com": 540,
         "GridPane": 464,
+        "OVH": 460,
         "InMotion Hosting": 460,
-        "OVH": 459,
         "A2 Hosting": 406,
         "IONOS": 399,
         "Namecheap": 397,
-        "DreamHost": 376,
+        "DreamHost": 377,
         "Elementor Hosting": 368,
         "Hetzner Online": 303,
         "HostGator": 246
