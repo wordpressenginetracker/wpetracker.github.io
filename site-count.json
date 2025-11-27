@@ -1,6 +1,11 @@
 {
-    "siteCount": 106884,
+    "siteCount": 106886,
     "recentlyMoved": [
+        {
+            "domain_name": "taeyunkimmastery.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-27 21:00:02"
+        },
         {
             "domain_name": "sfihealthsolutions.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "nwroman.com.sg",
             "destination": "Digital Ocean",
             "date": "2025-11-26 06:24:50"
-        },
-        {
-            "domain_name": "canyon-us.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 04:57:27"
         }
     ],
     "dailyMovedStat": {
@@ -943,7 +943,7 @@
         "Digital Ocean": 5348,
         "Bluehost": 4275,
         "Hostinger": 3881,
-        "GoDaddy": 1453,
+        "GoDaddy": 1454,
         "Liquid Web": 741,
         "BigScoots": 676,
         "WordPress.com": 541,
