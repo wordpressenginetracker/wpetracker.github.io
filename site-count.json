@@ -1,10 +1,30 @@
 {
-    "siteCount": 106878,
+    "siteCount": 106884,
     "recentlyMoved": [
+        {
+            "domain_name": "sfihealthsolutions.com",
+            "destination": "Kinsta",
+            "date": "2025-11-27 20:58:18"
+        },
+        {
+            "domain_name": "huntingtonpetvet.com",
+            "destination": "WordPress.com",
+            "date": "2025-11-27 20:53:27"
+        },
+        {
+            "domain_name": "www.heathbooks.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-11-27 20:14:14"
+        },
         {
             "domain_name": "www.gentlementalk.com",
             "destination": "Hostinger",
             "date": "2025-11-27 20:10:14"
+        },
+        {
+            "domain_name": "www.fullmanfirm.com",
+            "destination": "BigScoots",
+            "date": "2025-11-27 20:00:10"
         },
         {
             "domain_name": "tsundoku.cool",
@@ -480,26 +500,6 @@
             "domain_name": "canyon-us.com",
             "destination": "Kinsta",
             "date": "2025-11-26 04:57:27"
-        },
-        {
-            "domain_name": "www.drakecollopy.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 04:37:44"
-        },
-        {
-            "domain_name": "aseees.org",
-            "destination": "Kinsta",
-            "date": "2025-11-26 04:22:19"
-        },
-        {
-            "domain_name": "rhodesbaileylaw.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 04:05:24"
-        },
-        {
-            "domain_name": "groundbreakcarolinas.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 04:00:39"
         }
     ],
     "dailyMovedStat": {
@@ -938,15 +938,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 11532,
-        "Kinsta": 7175,
+        "Kinsta": 7177,
         "SiteGround": 5685,
         "Digital Ocean": 5348,
         "Bluehost": 4275,
         "Hostinger": 3881,
         "GoDaddy": 1453,
         "Liquid Web": 741,
-        "BigScoots": 675,
-        "WordPress.com": 540,
+        "BigScoots": 676,
+        "WordPress.com": 541,
         "InMotion Hosting": 466,
         "GridPane": 464,
         "OVH": 462,
