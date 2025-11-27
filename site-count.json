@@ -1,6 +1,11 @@
 {
-    "siteCount": 106719,
+    "siteCount": 106725,
     "recentlyMoved": [
+        {
+            "domain_name": "cowgirlcopystudio.com",
+            "destination": "Kinsta",
+            "date": "2025-11-27 05:46:34"
+        },
         {
             "domain_name": "hometowncarcare.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2025-11-25 15:31:09"
         },
         {
-            "domain_name": "vie.syscomax.com",
-            "destination": "GridPane",
-            "date": "2025-11-25 14:36:20"
-        },
-        {
             "domain_name": "nwapd.com",
             "destination": "Kinsta",
             "date": "2025-11-25 14:17:54"
@@ -938,7 +938,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11522,
-        "Kinsta": 7168,
+        "Kinsta": 7169,
         "SiteGround": 5685,
         "Digital Ocean": 5339,
         "Bluehost": 4274,
