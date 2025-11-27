@@ -1,6 +1,11 @@
 {
-    "siteCount": 106837,
+    "siteCount": 106878,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gentlementalk.com",
+            "destination": "Hostinger",
+            "date": "2025-11-27 20:10:14"
+        },
         {
             "domain_name": "tsundoku.cool",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "groundbreakcarolinas.com",
             "destination": "Kinsta",
             "date": "2025-11-26 04:00:39"
-        },
-        {
-            "domain_name": "phl-firm.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 03:50:25"
         }
     ],
     "dailyMovedStat": {
@@ -942,14 +942,14 @@
         "SiteGround": 5685,
         "Digital Ocean": 5348,
         "Bluehost": 4275,
-        "Hostinger": 3880,
+        "Hostinger": 3881,
         "GoDaddy": 1453,
         "Liquid Web": 741,
         "BigScoots": 675,
         "WordPress.com": 540,
+        "InMotion Hosting": 466,
         "GridPane": 464,
-        "InMotion Hosting": 463,
-        "OVH": 461,
+        "OVH": 462,
         "A2 Hosting": 406,
         "IONOS": 399,
         "Namecheap": 397,
