@@ -1,6 +1,16 @@
 {
-    "siteCount": 106704,
+    "siteCount": 106709,
     "recentlyMoved": [
+        {
+            "domain_name": "emeraldschool.org",
+            "destination": "Pressable",
+            "date": "2025-11-27 01:47:52"
+        },
+        {
+            "domain_name": "suncoastdogdaycare.com",
+            "destination": "Liquid Web",
+            "date": "2025-11-27 01:04:24"
+        },
         {
             "domain_name": "grillsymbol.ee",
             "destination": "InMotion Hosting",
@@ -490,16 +500,6 @@
             "domain_name": "yougotwp.com",
             "destination": "Pressable",
             "date": "2025-11-25 13:25:06"
-        },
-        {
-            "domain_name": "staarchitecture.com",
-            "destination": "Kinsta",
-            "date": "2025-11-25 13:10:37"
-        },
-        {
-            "domain_name": "cobblestonekids.com",
-            "destination": "Kinsta",
-            "date": "2025-11-25 13:09:47"
         }
     ],
     "dailyMovedStat": {
@@ -937,14 +937,14 @@
         "2025-11-26": "106690"
     },
     "topDestinationHosts": {
-        "Pressable": 11520,
+        "Pressable": 11521,
         "Kinsta": 7166,
         "SiteGround": 5685,
         "Digital Ocean": 5338,
         "Bluehost": 4274,
         "Hostinger": 3875,
         "GoDaddy": 1452,
-        "Liquid Web": 738,
+        "Liquid Web": 739,
         "BigScoots": 674,
         "WordPress.com": 540,
         "GridPane": 464,
