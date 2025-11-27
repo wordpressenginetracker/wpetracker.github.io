@@ -1,6 +1,21 @@
 {
-    "siteCount": 106814,
+    "siteCount": 106829,
     "recentlyMoved": [
+        {
+            "domain_name": "business.lincolnrd.com",
+            "destination": "Pressable",
+            "date": "2025-11-27 16:52:35"
+        },
+        {
+            "domain_name": "shadypaws.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-27 16:49:25"
+        },
+        {
+            "domain_name": "www.librarystack.org",
+            "destination": "Kinsta",
+            "date": "2025-11-27 16:39:33"
+        },
         {
             "domain_name": "absolutelyfish.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "hydrafireprotection.com",
             "destination": "Kinsta",
             "date": "2025-11-26 00:29:07"
-        },
-        {
-            "domain_name": "hammerfestparkering.no",
-            "destination": "Hostinger",
-            "date": "2025-11-26 00:01:57"
-        },
-        {
-            "domain_name": "wagonworx.com",
-            "destination": "GridPane",
-            "date": "2025-11-25 22:52:17"
-        },
-        {
-            "domain_name": "mirren.com",
-            "destination": "GoDaddy",
-            "date": "2025-11-25 21:43:59"
         }
     ],
     "dailyMovedStat": {
@@ -937,13 +937,13 @@
         "2025-11-26": "106690"
     },
     "topDestinationHosts": {
-        "Pressable": 11530,
-        "Kinsta": 7174,
+        "Pressable": 11531,
+        "Kinsta": 7175,
         "SiteGround": 5685,
         "Digital Ocean": 5347,
         "Bluehost": 4275,
         "Hostinger": 3880,
-        "GoDaddy": 1452,
+        "GoDaddy": 1453,
         "Liquid Web": 740,
         "BigScoots": 675,
         "WordPress.com": 540,
