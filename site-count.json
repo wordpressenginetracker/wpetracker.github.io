@@ -1,6 +1,11 @@
 {
-    "siteCount": 106976,
+    "siteCount": 106978,
     "recentlyMoved": [
+        {
+            "domain_name": "theseochap.com",
+            "destination": "Kinsta",
+            "date": "2025-11-28 18:17:26"
+        },
         {
             "domain_name": "bennyspainting.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-11-26 16:11:43"
         },
         {
-            "domain_name": "amer-restoration.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-26 15:47:14"
-        },
-        {
             "domain_name": "www.bluegrassroofingandconsulting.com",
             "destination": "Kinsta",
             "date": "2025-11-26 15:33:45"
@@ -939,7 +939,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11532,
-        "Kinsta": 7187,
+        "Kinsta": 7188,
         "SiteGround": 5685,
         "Digital Ocean": 5350,
         "Bluehost": 4279,
