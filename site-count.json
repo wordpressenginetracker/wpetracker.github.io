@@ -1,6 +1,11 @@
 {
-    "siteCount": 106893,
+    "siteCount": 106900,
     "recentlyMoved": [
+        {
+            "domain_name": "enjetmedia.com",
+            "destination": "Kinsta",
+            "date": "2025-11-28 01:45:10"
+        },
         {
             "domain_name": "taeyunkimmastery.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "ariellewozniak.com",
             "destination": "HostGator",
             "date": "2025-11-26 07:37:03"
-        },
-        {
-            "domain_name": "nwroman.com.sg",
-            "destination": "Digital Ocean",
-            "date": "2025-11-26 06:24:50"
         }
     ],
     "dailyMovedStat": {
@@ -939,7 +939,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11532,
-        "Kinsta": 7177,
+        "Kinsta": 7178,
         "SiteGround": 5685,
         "Digital Ocean": 5348,
         "Bluehost": 4275,
