@@ -1,6 +1,11 @@
 {
-    "siteCount": 106900,
+    "siteCount": 106907,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wtravelmagazine.com",
+            "destination": "Bluehost",
+            "date": "2025-11-28 03:53:29"
+        },
         {
             "domain_name": "enjetmedia.com",
             "destination": "Kinsta",
@@ -487,11 +492,6 @@
             "date": "2025-11-26 08:18:25"
         },
         {
-            "domain_name": "acefoodhandler.com",
-            "destination": "Kinsta",
-            "date": "2025-11-26 07:51:40"
-        },
-        {
             "domain_name": "pcmedproject.com",
             "destination": "BigScoots",
             "date": "2025-11-26 07:51:04"
@@ -942,7 +942,7 @@
         "Kinsta": 7178,
         "SiteGround": 5685,
         "Digital Ocean": 5348,
-        "Bluehost": 4275,
+        "Bluehost": 4276,
         "Hostinger": 3881,
         "GoDaddy": 1454,
         "Liquid Web": 741,
