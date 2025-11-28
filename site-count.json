@@ -1,6 +1,11 @@
 {
-    "siteCount": 106917,
+    "siteCount": 106920,
     "recentlyMoved": [
+        {
+            "domain_name": "etadesign.com",
+            "destination": "Kinsta",
+            "date": "2025-11-28 06:33:12"
+        },
         {
             "domain_name": "www.kingslinemarking.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "37932homes.com",
             "destination": "InMotion Hosting",
             "date": "2025-11-26 11:28:15"
-        },
-        {
-            "domain_name": "mybenefits.me",
-            "destination": "Kinsta",
-            "date": "2025-11-26 10:31:00"
         }
     ],
     "dailyMovedStat": {
@@ -939,7 +939,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11532,
-        "Kinsta": 7180,
+        "Kinsta": 7181,
         "SiteGround": 5685,
         "Digital Ocean": 5349,
         "Bluehost": 4276,
