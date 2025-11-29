@@ -1,6 +1,11 @@
 {
-    "siteCount": 107066,
+    "siteCount": 107068,
     "recentlyMoved": [
+        {
+            "domain_name": "anram.nl",
+            "destination": "Hetzner Online",
+            "date": "2025-11-29 12:06:10"
+        },
         {
             "domain_name": "vastkustensbf.se",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-11-27 04:12:30"
         },
         {
-            "domain_name": "goodmanpsych.com",
-            "destination": "Kinsta",
-            "date": "2025-11-27 03:41:48"
-        },
-        {
             "domain_name": "www.bmncd.com",
             "destination": "Digital Ocean",
             "date": "2025-11-27 03:38:17"
@@ -957,7 +957,7 @@
         "Namecheap": 397,
         "DreamHost": 377,
         "Elementor Hosting": 369,
-        "Hetzner Online": 305,
+        "Hetzner Online": 306,
         "HostGator": 246
     },
     "dailyTotalStat": {
