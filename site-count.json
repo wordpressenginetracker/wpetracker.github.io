@@ -1,6 +1,26 @@
 {
-    "siteCount": 107086,
+    "siteCount": 107094,
     "recentlyMoved": [
+        {
+            "domain_name": "lenoxlib.org",
+            "destination": "Pressable",
+            "date": "2025-11-29 17:26:51"
+        },
+        {
+            "domain_name": "silverrainflower.com",
+            "destination": "GoDaddy",
+            "date": "2025-11-29 16:42:47"
+        },
+        {
+            "domain_name": "bochiweb.com",
+            "destination": "Kinsta",
+            "date": "2025-11-29 16:40:49"
+        },
+        {
+            "domain_name": "sprintzero.it",
+            "destination": "Hetzner Online",
+            "date": "2025-11-29 16:33:47"
+        },
         {
             "domain_name": "enwatch.ca",
             "destination": "Digital Ocean",
@@ -477,29 +497,9 @@
             "date": "2025-11-27 12:02:03"
         },
         {
-            "domain_name": "agilityscan.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-11-27 11:50:05"
-        },
-        {
-            "domain_name": "www.krennerlaw.com",
-            "destination": "Liquid Web",
-            "date": "2025-11-27 11:40:43"
-        },
-        {
             "domain_name": "gapinvestments.com",
             "destination": "Bluehost",
             "date": "2025-11-27 11:30:40"
-        },
-        {
-            "domain_name": "dragonkimfoundation.org",
-            "destination": "Kinsta",
-            "date": "2025-11-27 10:18:22"
-        },
-        {
-            "domain_name": "derivaenergy.com",
-            "destination": "Kinsta",
-            "date": "2025-11-27 10:03:10"
         }
     ],
     "dailyMovedStat": {
@@ -939,13 +939,13 @@
         "2025-11-28": "107017"
     },
     "topDestinationHosts": {
-        "Pressable": 11534,
-        "Kinsta": 7197,
+        "Pressable": 11535,
+        "Kinsta": 7198,
         "SiteGround": 5685,
         "Digital Ocean": 5362,
         "Bluehost": 4281,
         "Hostinger": 3893,
-        "GoDaddy": 1456,
+        "GoDaddy": 1457,
         "Liquid Web": 741,
         "BigScoots": 676,
         "WordPress.com": 541,
@@ -957,7 +957,7 @@
         "Namecheap": 397,
         "DreamHost": 377,
         "Elementor Hosting": 369,
-        "Hetzner Online": 306,
+        "Hetzner Online": 307,
         "HostGator": 246
     },
     "dailyTotalStat": {
