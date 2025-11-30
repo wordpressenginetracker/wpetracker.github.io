@@ -1,6 +1,11 @@
 {
-    "siteCount": 107180,
+    "siteCount": 107182,
     "recentlyMoved": [
+        {
+            "domain_name": "tomroyal.com",
+            "destination": "IONOS",
+            "date": "2025-11-30 18:03:44"
+        },
         {
             "domain_name": "comerslandscaping.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "americanglorystyle.com",
             "destination": "Pressable",
             "date": "2025-11-27 15:42:16"
-        },
-        {
-            "domain_name": "www.sookefastball.ca",
-            "destination": "OVH",
-            "date": "2025-11-27 15:32:18"
         }
     ],
     "dailyMovedStat": {
@@ -954,7 +954,7 @@
         "InMotion Hosting": 466,
         "GridPane": 465,
         "A2 Hosting": 406,
-        "IONOS": 400,
+        "IONOS": 401,
         "Namecheap": 398,
         "DreamHost": 379,
         "Elementor Hosting": 369,
