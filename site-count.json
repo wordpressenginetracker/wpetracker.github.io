@@ -1,6 +1,11 @@
 {
-    "siteCount": 107197,
+    "siteCount": 107200,
     "recentlyMoved": [
+        {
+            "domain_name": "strangeelectricllc.com",
+            "destination": "InMotion Hosting",
+            "date": "2025-11-30 20:48:12"
+        },
         {
             "domain_name": "tomroyal.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.librarystack.org",
             "destination": "Kinsta",
             "date": "2025-11-27 16:39:33"
-        },
-        {
-            "domain_name": "americanglorystyle.com",
-            "destination": "Pressable",
-            "date": "2025-11-27 15:42:16"
         }
     ],
     "dailyMovedStat": {
@@ -951,7 +951,7 @@
         "BigScoots": 677,
         "WordPress.com": 541,
         "OVH": 467,
-        "InMotion Hosting": 466,
+        "InMotion Hosting": 467,
         "GridPane": 465,
         "A2 Hosting": 406,
         "IONOS": 401,
