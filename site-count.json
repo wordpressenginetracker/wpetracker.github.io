@@ -1,6 +1,21 @@
 {
-    "siteCount": 107139,
+    "siteCount": 107145,
     "recentlyMoved": [
+        {
+            "domain_name": "www.unboundb2b.com",
+            "destination": "Digital Ocean",
+            "date": "2025-11-30 08:29:29"
+        },
+        {
+            "domain_name": "www.axelerant.it",
+            "destination": "Hetzner Online",
+            "date": "2025-11-30 07:44:29"
+        },
+        {
+            "domain_name": "www.alexpagnoni.com",
+            "destination": "Hetzner Online",
+            "date": "2025-11-30 07:31:16"
+        },
         {
             "domain_name": "rutto.it",
             "destination": "Hetzner Online",
@@ -457,11 +472,6 @@
             "date": "2025-11-27 13:17:33"
         },
         {
-            "domain_name": "innatehealingcompany.com",
-            "destination": "Digital Ocean",
-            "date": "2025-11-27 13:01:31"
-        },
-        {
             "domain_name": "satistax.com",
             "destination": "Krystal Hosting",
             "date": "2025-11-27 12:50:05"
@@ -485,16 +495,6 @@
             "domain_name": "centraltexaswindowcleaning.com",
             "destination": "Pressable",
             "date": "2025-11-27 12:34:03"
-        },
-        {
-            "domain_name": "igrowseo.com",
-            "destination": "Hetzner Online",
-            "date": "2025-11-27 12:29:53"
-        },
-        {
-            "domain_name": "www.halsion.online",
-            "destination": "Digital Ocean",
-            "date": "2025-11-27 12:28:14"
         },
         {
             "domain_name": "jeff-boyer.com",
@@ -943,7 +943,7 @@
         "Pressable": 11536,
         "Kinsta": 7198,
         "SiteGround": 5685,
-        "Digital Ocean": 5363,
+        "Digital Ocean": 5364,
         "Bluehost": 4281,
         "Hostinger": 3893,
         "GoDaddy": 1457,
@@ -958,7 +958,7 @@
         "Namecheap": 397,
         "DreamHost": 378,
         "Elementor Hosting": 369,
-        "Hetzner Online": 309,
+        "Hetzner Online": 311,
         "HostGator": 246
     },
     "dailyTotalStat": {
