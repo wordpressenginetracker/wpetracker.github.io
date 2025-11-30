@@ -1,6 +1,21 @@
 {
-    "siteCount": 107157,
+    "siteCount": 107161,
     "recentlyMoved": [
+        {
+            "domain_name": "overthemantel.com",
+            "destination": "Kinsta",
+            "date": "2025-11-30 11:56:12"
+        },
+        {
+            "domain_name": "harling-law.com",
+            "destination": "Kinsta",
+            "date": "2025-11-30 11:51:30"
+        },
+        {
+            "domain_name": "almightyguttering.com",
+            "destination": "Hostinger",
+            "date": "2025-11-30 11:33:56"
+        },
         {
             "domain_name": "uppermorelandfire.org",
             "destination": "OVH",
@@ -477,16 +492,6 @@
             "date": "2025-11-27 13:32:21"
         },
         {
-            "domain_name": "cbdreleafpittsford.com",
-            "destination": "Pressable",
-            "date": "2025-11-27 13:22:46"
-        },
-        {
-            "domain_name": "cbdreleafexton.com",
-            "destination": "Pressable",
-            "date": "2025-11-27 13:22:46"
-        },
-        {
             "domain_name": "xpconstructioncorp.com",
             "destination": "Hostinger",
             "date": "2025-11-27 13:17:33"
@@ -495,11 +500,6 @@
             "domain_name": "stephenlharris.com",
             "destination": "Pressable",
             "date": "2025-11-27 12:48:21"
-        },
-        {
-            "domain_name": "centraltexaswindowcleaning.com",
-            "destination": "Pressable",
-            "date": "2025-11-27 12:34:03"
         }
     ],
     "dailyMovedStat": {
@@ -941,11 +941,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11536,
-        "Kinsta": 7200,
+        "Kinsta": 7202,
         "SiteGround": 5685,
         "Digital Ocean": 5364,
         "Bluehost": 4281,
-        "Hostinger": 3893,
+        "Hostinger": 3894,
         "GoDaddy": 1457,
         "Liquid Web": 741,
         "BigScoots": 676,
