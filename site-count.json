@@ -1,6 +1,11 @@
 {
-    "siteCount": 107229,
+    "siteCount": 107230,
     "recentlyMoved": [
+        {
+            "domain_name": "nugget.travel",
+            "destination": "Hostinger",
+            "date": "2025-12-01 02:46:51"
+        },
         {
             "domain_name": "yamaha-dealer.network",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-11-27 20:00:10"
         },
         {
-            "domain_name": "tsundoku.cool",
-            "destination": "Digital Ocean",
-            "date": "2025-11-27 18:17:17"
-        },
-        {
             "domain_name": "naturesquickdry123.com",
             "destination": "Liquid Web",
             "date": "2025-11-27 17:45:49"
@@ -946,7 +946,7 @@
         "SiteGround": 5685,
         "Digital Ocean": 5367,
         "Bluehost": 4281,
-        "Hostinger": 3895,
+        "Hostinger": 3896,
         "GoDaddy": 1457,
         "Liquid Web": 741,
         "BigScoots": 677,
