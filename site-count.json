@@ -1,6 +1,11 @@
 {
-    "siteCount": 107235,
+    "siteCount": 107238,
     "recentlyMoved": [
+        {
+            "domain_name": "forustestlab.no",
+            "destination": "Hetzner Online",
+            "date": "2025-12-01 07:59:17"
+        },
         {
             "domain_name": "darbarcanberra.com.au",
             "destination": "Namecheap",
@@ -492,11 +497,6 @@
             "date": "2025-11-27 20:58:18"
         },
         {
-            "domain_name": "huntingtonpetvet.com",
-            "destination": "WordPress.com",
-            "date": "2025-11-27 20:53:27"
-        },
-        {
             "domain_name": "www.heathbooks.co.uk",
             "destination": "Kinsta",
             "date": "2025-11-27 20:14:14"
@@ -959,7 +959,7 @@
         "Namecheap": 399,
         "DreamHost": 379,
         "Elementor Hosting": 369,
-        "Hetzner Online": 312,
+        "Hetzner Online": 313,
         "HostGator": 246
     },
     "dailyTotalStat": {
