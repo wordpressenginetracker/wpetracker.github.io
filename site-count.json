@@ -1,6 +1,11 @@
 {
-    "siteCount": 107233,
+    "siteCount": 107235,
     "recentlyMoved": [
+        {
+            "domain_name": "darbarcanberra.com.au",
+            "destination": "Namecheap",
+            "date": "2025-12-01 05:14:30"
+        },
         {
             "domain_name": "saltroomconstruction.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.heathbooks.co.uk",
             "destination": "Kinsta",
             "date": "2025-11-27 20:14:14"
-        },
-        {
-            "domain_name": "www.fullmanfirm.com",
-            "destination": "BigScoots",
-            "date": "2025-11-27 20:00:10"
         }
     ],
     "dailyMovedStat": {
@@ -956,7 +956,7 @@
         "GridPane": 465,
         "A2 Hosting": 406,
         "IONOS": 401,
-        "Namecheap": 398,
+        "Namecheap": 399,
         "DreamHost": 379,
         "Elementor Hosting": 369,
         "Hetzner Online": 312,
