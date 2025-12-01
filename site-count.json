@@ -1,6 +1,11 @@
 {
-    "siteCount": 107218,
+    "siteCount": 107229,
     "recentlyMoved": [
+        {
+            "domain_name": "yamaha-dealer.network",
+            "destination": "Kinsta",
+            "date": "2025-12-01 01:34:04"
+        },
         {
             "domain_name": "www.247floodandfire.com",
             "destination": "Digital Ocean",
@@ -492,11 +497,6 @@
             "date": "2025-11-27 18:17:17"
         },
         {
-            "domain_name": "timwilliford.com",
-            "destination": "Pressable",
-            "date": "2025-11-27 17:50:36"
-        },
-        {
             "domain_name": "naturesquickdry123.com",
             "destination": "Liquid Web",
             "date": "2025-11-27 17:45:49"
@@ -942,7 +942,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11536,
-        "Kinsta": 7207,
+        "Kinsta": 7208,
         "SiteGround": 5685,
         "Digital Ocean": 5367,
         "Bluehost": 4281,
