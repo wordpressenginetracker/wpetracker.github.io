@@ -1,6 +1,11 @@
 {
-    "siteCount": 107311,
+    "siteCount": 107320,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lacasitasammamish.com",
+            "destination": "HostGator",
+            "date": "2025-12-02 04:57:25"
+        },
         {
             "domain_name": "normyshouseremovers.com.au",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "happyvalleynotary.com",
             "destination": "Bluehost",
             "date": "2025-11-28 11:52:11"
-        },
-        {
-            "domain_name": "hanjulee.com",
-            "destination": "Kinsta",
-            "date": "2025-11-28 11:52:11"
         }
     ],
     "dailyMovedStat": {
@@ -961,7 +961,7 @@
         "DreamHost": 381,
         "Elementor Hosting": 369,
         "Hetzner Online": 313,
-        "HostGator": 246
+        "HostGator": 247
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
