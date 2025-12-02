@@ -1,6 +1,26 @@
 {
-    "siteCount": 107481,
+    "siteCount": 107488,
     "recentlyMoved": [
+        {
+            "domain_name": "nosugaradded.org",
+            "destination": "Kinsta",
+            "date": "2025-12-02 22:25:28"
+        },
+        {
+            "domain_name": "vuenj.com",
+            "destination": "Hostinger",
+            "date": "2025-12-02 21:42:01"
+        },
+        {
+            "domain_name": "vuelongisland.com",
+            "destination": "Hostinger",
+            "date": "2025-12-02 21:42:01"
+        },
+        {
+            "domain_name": "disabilityadvocacy.ca",
+            "destination": "Bluehost",
+            "date": "2025-12-02 21:09:28"
+        },
         {
             "domain_name": "riversidequarter.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "www.axelerant.it",
             "destination": "Hetzner Online",
             "date": "2025-11-30 07:44:29"
-        },
-        {
-            "domain_name": "www.alexpagnoni.com",
-            "destination": "Hetzner Online",
-            "date": "2025-11-30 07:31:16"
-        },
-        {
-            "domain_name": "rutto.it",
-            "destination": "Hetzner Online",
-            "date": "2025-11-30 03:59:26"
-        },
-        {
-            "domain_name": "www.nextdx.it",
-            "destination": "Hetzner Online",
-            "date": "2025-11-30 03:41:30"
-        },
-        {
-            "domain_name": "osldata.co.nz",
-            "destination": "Pressable",
-            "date": "2025-11-29 19:09:37"
         }
     ],
     "dailyMovedStat": {
@@ -943,11 +943,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11542,
-        "Kinsta": 7229,
+        "Kinsta": 7230,
         "SiteGround": 5685,
         "Digital Ocean": 5377,
-        "Bluehost": 4283,
-        "Hostinger": 3910,
+        "Bluehost": 4284,
+        "Hostinger": 3912,
         "GoDaddy": 1464,
         "Liquid Web": 743,
         "BigScoots": 677,
