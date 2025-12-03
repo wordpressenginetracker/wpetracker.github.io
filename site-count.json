@@ -1,10 +1,30 @@
 {
-    "siteCount": 107501,
+    "siteCount": 107507,
     "recentlyMoved": [
+        {
+            "domain_name": "teachingfullsteamahead.com",
+            "destination": "Kinsta",
+            "date": "2025-12-03 01:58:24"
+        },
+        {
+            "domain_name": "techsavvyautomotive.ca",
+            "destination": "Digital Ocean",
+            "date": "2025-12-03 01:40:24"
+        },
+        {
+            "domain_name": "edmondsmedicalclinic.com",
+            "destination": "Kinsta",
+            "date": "2025-12-03 01:33:41"
+        },
         {
             "domain_name": "leadershipcoachingforresults.com",
             "destination": "Namecheap",
             "date": "2025-12-03 01:03:09"
+        },
+        {
+            "domain_name": "www.theglassguru.com",
+            "destination": "Kinsta",
+            "date": "2025-12-03 00:55:53"
         },
         {
             "domain_name": "josephbograd.com",
@@ -480,26 +500,6 @@
             "domain_name": "indonesia.approvedgroupinternational.com",
             "destination": "Hostinger",
             "date": "2025-11-30 12:29:20"
-        },
-        {
-            "domain_name": "overthemantel.com",
-            "destination": "Kinsta",
-            "date": "2025-11-30 11:56:12"
-        },
-        {
-            "domain_name": "harling-law.com",
-            "destination": "Kinsta",
-            "date": "2025-11-30 11:51:30"
-        },
-        {
-            "domain_name": "almightyguttering.com",
-            "destination": "Hostinger",
-            "date": "2025-11-30 11:33:56"
-        },
-        {
-            "domain_name": "esign.axelerant.it",
-            "destination": "Hetzner Online",
-            "date": "2025-11-30 09:53:56"
         }
     ],
     "dailyMovedStat": {
@@ -944,9 +944,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11543,
-        "Kinsta": 7232,
+        "Kinsta": 7235,
         "SiteGround": 5685,
-        "Digital Ocean": 5377,
+        "Digital Ocean": 5378,
         "Bluehost": 4284,
         "Hostinger": 3913,
         "GoDaddy": 1464,
