@@ -1,6 +1,16 @@
 {
-    "siteCount": 107548,
+    "siteCount": 107561,
     "recentlyMoved": [
+        {
+            "domain_name": "hootenyoung.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-03 12:41:34"
+        },
+        {
+            "domain_name": "weknowja.com",
+            "destination": "IONOS",
+            "date": "2025-12-03 11:49:17"
+        },
         {
             "domain_name": "tysoutdoorpower.com",
             "destination": "Bluehost",
@@ -490,16 +500,6 @@
             "domain_name": "saltroomconstruction.com",
             "destination": "Hostinger",
             "date": "2025-12-01 04:30:57"
-        },
-        {
-            "domain_name": "placesjournal.org",
-            "destination": "Kinsta",
-            "date": "2025-12-01 04:21:24"
-        },
-        {
-            "domain_name": "nugget.travel",
-            "destination": "Hostinger",
-            "date": "2025-12-01 02:46:51"
         }
     ],
     "dailyMovedStat": {
@@ -957,8 +957,8 @@
         "InMotion Hosting": 468,
         "GridPane": 465,
         "A2 Hosting": 406,
+        "IONOS": 403,
         "Namecheap": 402,
-        "IONOS": 402,
         "DreamHost": 381,
         "Elementor Hosting": 369,
         "Hetzner Online": 315,
