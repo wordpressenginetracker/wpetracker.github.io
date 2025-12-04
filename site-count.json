@@ -1,10 +1,20 @@
 {
-    "siteCount": 107706,
+    "siteCount": 107714,
     "recentlyMoved": [
+        {
+            "domain_name": "simpadianconsulting.com",
+            "destination": "Pressable",
+            "date": "2025-12-04 01:16:54"
+        },
         {
             "domain_name": "raymexlift.com",
             "destination": "Hostinger",
             "date": "2025-12-04 00:39:23"
+        },
+        {
+            "domain_name": "www.hwfire.org.uk",
+            "destination": "Kinsta",
+            "date": "2025-12-04 00:38:18"
         },
         {
             "domain_name": "petergeorgiou.com",
@@ -487,19 +497,9 @@
             "date": "2025-12-02 16:32:28"
         },
         {
-            "domain_name": "www.etgrow.com",
-            "destination": "Pressable",
-            "date": "2025-12-02 16:31:12"
-        },
-        {
             "domain_name": "honestairinc.com",
             "destination": "GoDaddy",
             "date": "2025-12-02 16:25:31"
-        },
-        {
-            "domain_name": "healthylearners.com",
-            "destination": "Kinsta",
-            "date": "2025-12-02 15:42:40"
         }
     ],
     "dailyMovedStat": {
@@ -944,8 +944,8 @@
         "2025-12-03": "107697"
     },
     "topDestinationHosts": {
-        "Pressable": 11559,
-        "Kinsta": 7248,
+        "Pressable": 11560,
+        "Kinsta": 7249,
         "SiteGround": 5685,
         "Digital Ocean": 5397,
         "Bluehost": 4286,
