@@ -1,10 +1,30 @@
 {
-    "siteCount": 107764,
+    "siteCount": 107775,
     "recentlyMoved": [
+        {
+            "domain_name": "walkerwilcox.com",
+            "destination": "Kinsta",
+            "date": "2025-12-04 10:35:02"
+        },
+        {
+            "domain_name": "truintegrityllc.com",
+            "destination": "Hostinger",
+            "date": "2025-12-04 10:02:00"
+        },
         {
             "domain_name": "civic-cup.co.uk",
             "destination": "Kinsta",
             "date": "2025-12-04 09:35:29"
+        },
+        {
+            "domain_name": "drpakdds.com",
+            "destination": "Kinsta",
+            "date": "2025-12-04 09:32:31"
+        },
+        {
+            "domain_name": "maximummotorsport.uk",
+            "destination": "Kinsta",
+            "date": "2025-12-04 09:05:37"
         },
         {
             "domain_name": "ruralland.com",
@@ -480,26 +500,6 @@
             "domain_name": "vuelongisland.com",
             "destination": "Hostinger",
             "date": "2025-12-02 21:42:01"
-        },
-        {
-            "domain_name": "disabilityadvocacy.ca",
-            "destination": "Bluehost",
-            "date": "2025-12-02 21:09:28"
-        },
-        {
-            "domain_name": "riversidequarter.com",
-            "destination": "Hostinger",
-            "date": "2025-12-02 20:23:29"
-        },
-        {
-            "domain_name": "brightfuturepediatrics.com",
-            "destination": "GoDaddy",
-            "date": "2025-12-02 20:12:11"
-        },
-        {
-            "domain_name": "greatbeliever.us",
-            "destination": "Digital Ocean",
-            "date": "2025-12-02 20:10:22"
         }
     ],
     "dailyMovedStat": {
@@ -945,11 +945,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11566,
-        "Kinsta": 7253,
+        "Kinsta": 7256,
         "SiteGround": 5685,
         "Digital Ocean": 5398,
         "Bluehost": 4287,
-        "Hostinger": 3925,
+        "Hostinger": 3926,
         "GoDaddy": 1467,
         "Liquid Web": 744,
         "BigScoots": 677,
