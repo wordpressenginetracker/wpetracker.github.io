@@ -1,6 +1,36 @@
 {
-    "siteCount": 107697,
+    "siteCount": 107706,
     "recentlyMoved": [
+        {
+            "domain_name": "raymexlift.com",
+            "destination": "Hostinger",
+            "date": "2025-12-04 00:39:23"
+        },
+        {
+            "domain_name": "petergeorgiou.com",
+            "destination": "Pressable",
+            "date": "2025-12-04 00:04:32"
+        },
+        {
+            "domain_name": "philipsautocare.com",
+            "destination": "Hostinger",
+            "date": "2025-12-04 00:04:00"
+        },
+        {
+            "domain_name": "advisortouch.com",
+            "destination": "Bluehost",
+            "date": "2025-12-03 23:55:23"
+        },
+        {
+            "domain_name": "parikhpower.in",
+            "destination": "DreamHost",
+            "date": "2025-12-03 23:25:15"
+        },
+        {
+            "domain_name": "gdevansllc.com",
+            "destination": "Hostinger",
+            "date": "2025-12-03 23:23:22"
+        },
         {
             "domain_name": "myperfectmortgage.com",
             "destination": "Digital Ocean",
@@ -467,39 +497,9 @@
             "date": "2025-12-02 16:25:31"
         },
         {
-            "domain_name": "atlascleanliving.com",
-            "destination": "Hostinger",
-            "date": "2025-12-02 16:23:42"
-        },
-        {
-            "domain_name": "www.stswr.ca",
-            "destination": "OVH",
-            "date": "2025-12-02 16:15:55"
-        },
-        {
-            "domain_name": "www.akronurbanleague.org",
-            "destination": "Kinsta",
-            "date": "2025-12-02 16:07:22"
-        },
-        {
-            "domain_name": "flashpoint.agency",
-            "destination": "Hostinger",
-            "date": "2025-12-02 15:54:26"
-        },
-        {
             "domain_name": "healthylearners.com",
             "destination": "Kinsta",
             "date": "2025-12-02 15:42:40"
-        },
-        {
-            "domain_name": "www.nextdayaccess.ca",
-            "destination": "Kinsta",
-            "date": "2025-12-02 15:28:32"
-        },
-        {
-            "domain_name": "tegoh.com",
-            "destination": "Bluehost",
-            "date": "2025-12-02 13:31:19"
         }
     ],
     "dailyMovedStat": {
@@ -944,12 +944,12 @@
         "2025-12-03": "107697"
     },
     "topDestinationHosts": {
-        "Pressable": 11558,
+        "Pressable": 11559,
         "Kinsta": 7248,
         "SiteGround": 5685,
         "Digital Ocean": 5397,
-        "Bluehost": 4285,
-        "Hostinger": 3919,
+        "Bluehost": 4286,
+        "Hostinger": 3922,
         "GoDaddy": 1467,
         "Liquid Web": 744,
         "BigScoots": 677,
@@ -960,7 +960,7 @@
         "A2 Hosting": 406,
         "IONOS": 403,
         "Namecheap": 402,
-        "DreamHost": 381,
+        "DreamHost": 382,
         "Elementor Hosting": 369,
         "Hetzner Online": 315,
         "HostGator": 247
