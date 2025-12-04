@@ -1,6 +1,16 @@
 {
-    "siteCount": 107748,
+    "siteCount": 107759,
     "recentlyMoved": [
+        {
+            "domain_name": "www.drroyallee.com",
+            "destination": "Pressable",
+            "date": "2025-12-04 08:13:42"
+        },
+        {
+            "domain_name": "agavecocina.com",
+            "destination": "Bluehost",
+            "date": "2025-12-04 07:25:51"
+        },
         {
             "domain_name": "eumedplus.net",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.manchesterpoliceathleticleague.org",
             "destination": "Liquid Web",
             "date": "2025-12-02 19:40:36"
-        },
-        {
-            "domain_name": "mitchellmobile.ca",
-            "destination": "Digital Ocean",
-            "date": "2025-12-02 18:02:47"
-        },
-        {
-            "domain_name": "missionup.us",
-            "destination": "Digital Ocean",
-            "date": "2025-12-02 17:27:02"
         }
     ],
     "dailyMovedStat": {
@@ -944,11 +944,11 @@
         "2025-12-03": "107697"
     },
     "topDestinationHosts": {
-        "Pressable": 11565,
+        "Pressable": 11566,
         "Kinsta": 7251,
         "SiteGround": 5685,
         "Digital Ocean": 5398,
-        "Bluehost": 4286,
+        "Bluehost": 4287,
         "Hostinger": 3925,
         "GoDaddy": 1467,
         "Liquid Web": 744,
