@@ -1,6 +1,21 @@
 {
-    "siteCount": 107808,
+    "siteCount": 107815,
     "recentlyMoved": [
+        {
+            "domain_name": "novohair.dk",
+            "destination": "WordPress.com",
+            "date": "2025-12-04 14:09:40"
+        },
+        {
+            "domain_name": "vanessadeponte.fr",
+            "destination": "OVH",
+            "date": "2025-12-04 13:47:20"
+        },
+        {
+            "domain_name": "mopanitrading.co.uk",
+            "destination": "Kinsta",
+            "date": "2025-12-04 13:36:21"
+        },
         {
             "domain_name": "cmscdrivingschool.com",
             "destination": "Kinsta",
@@ -20,6 +35,11 @@
             "domain_name": "www.staging.angelsense.com",
             "destination": "Kinsta",
             "date": "2025-12-04 13:07:19"
+        },
+        {
+            "domain_name": "cryptoapps.nl",
+            "destination": "Kinsta",
+            "date": "2025-12-04 13:01:34"
         },
         {
             "domain_name": "seniorlivingkinnect.com",
@@ -480,26 +500,6 @@
             "domain_name": "blog.blablacar.co.uk",
             "destination": "Pressable",
             "date": "2025-12-03 08:09:06"
-        },
-        {
-            "domain_name": "www.aliantis.net",
-            "destination": "IONOS",
-            "date": "2025-12-03 07:47:17"
-        },
-        {
-            "domain_name": "mypaperlessfax.com",
-            "destination": "Kinsta",
-            "date": "2025-12-03 05:56:11"
-        },
-        {
-            "domain_name": "dantenner.com",
-            "destination": "Hetzner Online",
-            "date": "2025-12-03 05:39:25"
-        },
-        {
-            "domain_name": "sydkustensel.se",
-            "destination": "Kinsta",
-            "date": "2025-12-03 05:11:48"
         }
     ],
     "dailyMovedStat": {
@@ -945,7 +945,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11569,
-        "Kinsta": 7264,
+        "Kinsta": 7266,
         "SiteGround": 5685,
         "Digital Ocean": 5398,
         "Bluehost": 4287,
@@ -953,8 +953,8 @@
         "GoDaddy": 1468,
         "Liquid Web": 744,
         "BigScoots": 677,
-        "WordPress.com": 544,
-        "OVH": 470,
+        "WordPress.com": 545,
+        "OVH": 471,
         "InMotion Hosting": 469,
         "GridPane": 465,
         "A2 Hosting": 406,
