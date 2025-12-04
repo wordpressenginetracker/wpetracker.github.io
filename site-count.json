@@ -1,6 +1,16 @@
 {
-    "siteCount": 107852,
+    "siteCount": 107858,
     "recentlyMoved": [
+        {
+            "domain_name": "emdfactory.com",
+            "destination": "OVH",
+            "date": "2025-12-04 18:13:07"
+        },
+        {
+            "domain_name": "tauntongaragedoor.com",
+            "destination": "Hostinger",
+            "date": "2025-12-04 17:35:31"
+        },
         {
             "domain_name": "changinggear.ca",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "no-a.es",
             "destination": "OVH",
             "date": "2025-12-03 13:55:28"
-        },
-        {
-            "domain_name": "vergedoors.com",
-            "destination": "Kinsta",
-            "date": "2025-12-03 13:51:08"
-        },
-        {
-            "domain_name": "eyewearista.com",
-            "destination": "Hostinger",
-            "date": "2025-12-03 13:47:45"
         }
     ],
     "dailyMovedStat": {
@@ -949,12 +949,12 @@
         "SiteGround": 5685,
         "Digital Ocean": 5401,
         "Bluehost": 4288,
-        "Hostinger": 3930,
+        "Hostinger": 3931,
         "GoDaddy": 1468,
         "Liquid Web": 744,
         "BigScoots": 677,
         "WordPress.com": 545,
-        "OVH": 472,
+        "OVH": 473,
         "InMotion Hosting": 469,
         "GridPane": 465,
         "A2 Hosting": 408,
