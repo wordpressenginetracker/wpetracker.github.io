@@ -1,6 +1,46 @@
 {
-    "siteCount": 108009,
+    "siteCount": 108027,
     "recentlyMoved": [
+        {
+            "domain_name": "cloudcannabis.com",
+            "destination": "Kinsta",
+            "date": "2025-12-05 13:38:09"
+        },
+        {
+            "domain_name": "bryantpro.com",
+            "destination": "Kinsta",
+            "date": "2025-12-05 13:11:03"
+        },
+        {
+            "domain_name": "izzdo.com",
+            "destination": "Hostinger",
+            "date": "2025-12-05 13:05:00"
+        },
+        {
+            "domain_name": "leesroofingtx.com",
+            "destination": "Hostinger",
+            "date": "2025-12-05 13:02:34"
+        },
+        {
+            "domain_name": "hqclean.co.nz",
+            "destination": "Pressable",
+            "date": "2025-12-05 12:40:32"
+        },
+        {
+            "domain_name": "bostontrainersclub.com",
+            "destination": "Pressable",
+            "date": "2025-12-05 12:32:23"
+        },
+        {
+            "domain_name": "bostonroofpro.com",
+            "destination": "Pressable",
+            "date": "2025-12-05 12:32:23"
+        },
+        {
+            "domain_name": "bostoncustomcarpentry.com",
+            "destination": "Pressable",
+            "date": "2025-12-05 12:32:23"
+        },
         {
             "domain_name": "augustagoodnews.com",
             "destination": "Kinsta",
@@ -460,46 +500,6 @@
             "domain_name": "tmgre.com",
             "destination": "Hostinger",
             "date": "2025-12-04 01:53:03"
-        },
-        {
-            "domain_name": "luxrestoration.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 01:17:25"
-        },
-        {
-            "domain_name": "luxdevelopment.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 01:17:25"
-        },
-        {
-            "domain_name": "luxcompanies.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 01:17:25"
-        },
-        {
-            "domain_name": "simpadianconsulting.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 01:16:54"
-        },
-        {
-            "domain_name": "raymexlift.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 00:39:23"
-        },
-        {
-            "domain_name": "www.hwfire.org.uk",
-            "destination": "Kinsta",
-            "date": "2025-12-04 00:38:18"
-        },
-        {
-            "domain_name": "petergeorgiou.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 00:04:32"
-        },
-        {
-            "domain_name": "philipsautocare.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 00:04:00"
         }
     ],
     "dailyMovedStat": {
@@ -945,12 +945,12 @@
         "2025-12-04": "107944"
     },
     "topDestinationHosts": {
-        "Pressable": 11585,
-        "Kinsta": 7276,
+        "Pressable": 11589,
+        "Kinsta": 7278,
         "SiteGround": 5685,
         "Digital Ocean": 5401,
         "Bluehost": 4290,
-        "Hostinger": 3940,
+        "Hostinger": 3942,
         "GoDaddy": 1468,
         "Liquid Web": 746,
         "BigScoots": 678,
