@@ -1,6 +1,26 @@
 {
-    "siteCount": 108035,
+    "siteCount": 108049,
     "recentlyMoved": [
+        {
+            "domain_name": "beavercountychiro.com",
+            "destination": "Hostinger",
+            "date": "2025-12-05 16:30:11"
+        },
+        {
+            "domain_name": "hometownhub.ca",
+            "destination": "Hostinger",
+            "date": "2025-12-05 15:59:36"
+        },
+        {
+            "domain_name": "backofbeyondbooks.com",
+            "destination": "Pressable",
+            "date": "2025-12-05 15:51:04"
+        },
+        {
+            "domain_name": "www.ccate.org",
+            "destination": "IONOS",
+            "date": "2025-12-05 15:44:09"
+        },
         {
             "domain_name": "economicjusticecoalition.org",
             "destination": "WordPress.com",
@@ -480,26 +500,6 @@
             "domain_name": "theadspark.com",
             "destination": "Elementor Hosting",
             "date": "2025-12-04 05:16:09"
-        },
-        {
-            "domain_name": "www.onestopcabinets.com.au",
-            "destination": "Kinsta",
-            "date": "2025-12-04 04:42:08"
-        },
-        {
-            "domain_name": "passingfriends.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 03:30:32"
-        },
-        {
-            "domain_name": "evansone.com",
-            "destination": "Pressable",
-            "date": "2025-12-04 02:16:32"
-        },
-        {
-            "domain_name": "tmgre.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 01:53:03"
         }
     ],
     "dailyMovedStat": {
@@ -945,7 +945,7 @@
         "2025-12-04": "107944"
     },
     "topDestinationHosts": {
-        "Pressable": 11589,
+        "Pressable": 11590,
         "Kinsta": 7278,
         "SiteGround": 5685,
         "Digital Ocean": 5401,
@@ -959,7 +959,7 @@
         "InMotion Hosting": 470,
         "GridPane": 466,
         "A2 Hosting": 408,
-        "IONOS": 407,
+        "IONOS": 408,
         "Namecheap": 403,
         "DreamHost": 382,
         "Elementor Hosting": 370,
