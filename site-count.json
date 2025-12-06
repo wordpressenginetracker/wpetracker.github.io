@@ -1,6 +1,16 @@
 {
-    "siteCount": 108254,
+    "siteCount": 108292,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blastandcast.org",
+            "destination": "Kinsta",
+            "date": "2025-12-06 19:45:12"
+        },
+        {
+            "domain_name": "parisbaguette.uk",
+            "destination": "Digital Ocean",
+            "date": "2025-12-06 19:19:06"
+        },
         {
             "domain_name": "maloneyserv.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "chestnutridge.events",
             "destination": "Kinsta",
             "date": "2025-12-05 01:14:05"
-        },
-        {
-            "domain_name": "revcody.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-12-05 00:34:04"
-        },
-        {
-            "domain_name": "www.dynamicpooldesigns.com.au",
-            "destination": "OVH",
-            "date": "2025-12-05 00:05:12"
         }
     ],
     "dailyMovedStat": {
@@ -947,9 +947,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11594,
-        "Kinsta": 7297,
+        "Kinsta": 7298,
         "SiteGround": 5685,
-        "Digital Ocean": 5415,
+        "Digital Ocean": 5416,
         "Bluehost": 4293,
         "Hostinger": 3953,
         "GoDaddy": 1471,
