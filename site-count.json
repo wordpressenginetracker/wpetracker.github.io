@@ -1,6 +1,11 @@
 {
-    "siteCount": 108209,
+    "siteCount": 108215,
     "recentlyMoved": [
+        {
+            "domain_name": "ngaendo.com",
+            "destination": "Hostinger",
+            "date": "2025-12-06 13:36:11"
+        },
         {
             "domain_name": "www.rudyspizza.co.uk",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "emdfactory.com",
             "destination": "OVH",
             "date": "2025-12-04 18:13:07"
-        },
-        {
-            "domain_name": "tauntongaragedoor.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 17:35:31"
         }
     ],
     "dailyMovedStat": {
@@ -947,11 +947,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11593,
-        "Kinsta": 7292,
+        "Kinsta": 7293,
         "SiteGround": 5685,
         "Digital Ocean": 5413,
         "Bluehost": 4292,
-        "Hostinger": 3951,
+        "Hostinger": 3952,
         "GoDaddy": 1471,
         "Liquid Web": 746,
         "BigScoots": 679,
