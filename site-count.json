@@ -1,6 +1,16 @@
 {
-    "siteCount": 108292,
+    "siteCount": 108298,
     "recentlyMoved": [
+        {
+            "domain_name": "robertlominack.com",
+            "destination": "Kinsta",
+            "date": "2025-12-06 20:47:50"
+        },
+        {
+            "domain_name": "igrealty.com",
+            "destination": "Hostinger",
+            "date": "2025-12-06 20:08:22"
+        },
         {
             "domain_name": "www.blastandcast.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "debt-relief-programs.com",
             "destination": "Hostinger",
             "date": "2025-12-05 01:26:09"
-        },
-        {
-            "domain_name": "cesl.nz",
-            "destination": "Pressable",
-            "date": "2025-12-05 01:19:26"
-        },
-        {
-            "domain_name": "chestnutridge.events",
-            "destination": "Kinsta",
-            "date": "2025-12-05 01:14:05"
         }
     ],
     "dailyMovedStat": {
@@ -947,11 +947,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11594,
-        "Kinsta": 7298,
+        "Kinsta": 7299,
         "SiteGround": 5685,
         "Digital Ocean": 5416,
         "Bluehost": 4293,
-        "Hostinger": 3953,
+        "Hostinger": 3954,
         "GoDaddy": 1471,
         "Liquid Web": 747,
         "BigScoots": 679,
