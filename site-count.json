@@ -1,6 +1,26 @@
 {
-    "siteCount": 108192,
+    "siteCount": 108202,
     "recentlyMoved": [
+        {
+            "domain_name": "pineridgemodular.com",
+            "destination": "OVH",
+            "date": "2025-12-06 12:20:08"
+        },
+        {
+            "domain_name": "www.accountable.eu",
+            "destination": "Hostinger",
+            "date": "2025-12-06 12:09:48"
+        },
+        {
+            "domain_name": "austinwallbeds.us",
+            "destination": "Hostinger",
+            "date": "2025-12-06 11:45:02"
+        },
+        {
+            "domain_name": "webpeak.com",
+            "destination": "Hetzner Online",
+            "date": "2025-12-06 11:20:08"
+        },
         {
             "domain_name": "longislandlocalseo.com",
             "destination": "Bluehost",
@@ -467,19 +487,9 @@
             "date": "2025-12-04 17:30:33"
         },
         {
-            "domain_name": "kidsdcc.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 17:25:57"
-        },
-        {
             "domain_name": "chichesterchiropractor.co.uk",
             "destination": "Kinsta",
             "date": "2025-12-04 17:17:44"
-        },
-        {
-            "domain_name": "seniorcarecompanions.com",
-            "destination": "Hostinger",
-            "date": "2025-12-04 17:06:18"
         },
         {
             "domain_name": "stampnook.com",
@@ -490,16 +500,6 @@
             "domain_name": "lamdd.org",
             "destination": "OVH",
             "date": "2025-12-04 16:51:27"
-        },
-        {
-            "domain_name": "silvestrirealestate.com",
-            "destination": "A2 Hosting",
-            "date": "2025-12-04 16:31:49"
-        },
-        {
-            "domain_name": "www.mharochester.org",
-            "destination": "Pressable",
-            "date": "2025-12-04 16:27:17"
         }
     ],
     "dailyMovedStat": {
@@ -951,12 +951,12 @@
         "SiteGround": 5685,
         "Digital Ocean": 5413,
         "Bluehost": 4292,
-        "Hostinger": 3948,
+        "Hostinger": 3950,
         "GoDaddy": 1471,
         "Liquid Web": 746,
         "BigScoots": 679,
         "WordPress.com": 546,
-        "OVH": 475,
+        "OVH": 476,
         "InMotion Hosting": 470,
         "GridPane": 466,
         "IONOS": 409,
@@ -964,7 +964,7 @@
         "Namecheap": 404,
         "DreamHost": 383,
         "Elementor Hosting": 372,
-        "Hetzner Online": 317,
+        "Hetzner Online": 318,
         "HostGator": 247
     },
     "dailyTotalStat": {
