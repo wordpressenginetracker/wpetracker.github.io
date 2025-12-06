@@ -1,6 +1,21 @@
 {
-    "siteCount": 108158,
+    "siteCount": 108166,
     "recentlyMoved": [
+        {
+            "domain_name": "www.amecnews.com",
+            "destination": "Pressable",
+            "date": "2025-12-06 03:50:39"
+        },
+        {
+            "domain_name": "agamehoops.com",
+            "destination": "Hostinger",
+            "date": "2025-12-06 03:22:30"
+        },
+        {
+            "domain_name": "41university.com",
+            "destination": "Hostinger",
+            "date": "2025-12-06 03:13:34"
+        },
         {
             "domain_name": "waldeckpa.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "novohair.dk",
             "destination": "WordPress.com",
             "date": "2025-12-04 14:09:40"
-        },
-        {
-            "domain_name": "vanessadeponte.fr",
-            "destination": "OVH",
-            "date": "2025-12-04 13:47:20"
-        },
-        {
-            "domain_name": "mopanitrading.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-12-04 13:36:21"
-        },
-        {
-            "domain_name": "cryptoapps.nl",
-            "destination": "Kinsta",
-            "date": "2025-12-04 13:01:34"
         }
     ],
     "dailyMovedStat": {
@@ -946,12 +946,12 @@
         "2025-12-05": "108135"
     },
     "topDestinationHosts": {
-        "Pressable": 11591,
+        "Pressable": 11592,
         "Kinsta": 7291,
         "SiteGround": 5685,
         "Digital Ocean": 5408,
         "Bluehost": 4291,
-        "Hostinger": 3946,
+        "Hostinger": 3948,
         "GoDaddy": 1470,
         "Liquid Web": 746,
         "BigScoots": 679,
