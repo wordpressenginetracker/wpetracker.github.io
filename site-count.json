@@ -1,6 +1,11 @@
 {
-    "siteCount": 108330,
+    "siteCount": 108333,
     "recentlyMoved": [
+        {
+            "domain_name": "geekstogopdx.com",
+            "destination": "DreamHost",
+            "date": "2025-12-07 07:35:17"
+        },
         {
             "domain_name": "www.cohenv.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "augustagoodnews.com",
             "destination": "Kinsta",
             "date": "2025-12-05 12:14:29"
-        },
-        {
-            "domain_name": "apexfloorllc.com",
-            "destination": "Pressable",
-            "date": "2025-12-05 11:35:54"
         }
     ],
     "dailyMovedStat": {
@@ -963,7 +963,7 @@
         "A2 Hosting": 411,
         "IONOS": 409,
         "Namecheap": 404,
-        "DreamHost": 383,
+        "DreamHost": 384,
         "Elementor Hosting": 373,
         "Hetzner Online": 318,
         "HostGator": 247
