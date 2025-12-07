@@ -1,6 +1,36 @@
 {
-    "siteCount": 108303,
+    "siteCount": 108312,
     "recentlyMoved": [
+        {
+            "domain_name": "huntergathererbrewery.com",
+            "destination": "Kinsta",
+            "date": "2025-12-07 00:33:10"
+        },
+        {
+            "domain_name": "reedtechinc.com",
+            "destination": "Kinsta",
+            "date": "2025-12-06 23:55:57"
+        },
+        {
+            "domain_name": "outtherebranding.com.au",
+            "destination": "GoDaddy",
+            "date": "2025-12-06 23:54:23"
+        },
+        {
+            "domain_name": "hippenterprises.com",
+            "destination": "Kinsta",
+            "date": "2025-12-06 23:52:10"
+        },
+        {
+            "domain_name": "rcpep.org",
+            "destination": "Kinsta",
+            "date": "2025-12-06 23:47:58"
+        },
+        {
+            "domain_name": "willforhope.org",
+            "destination": "Kinsta",
+            "date": "2025-12-06 23:26:05"
+        },
         {
             "domain_name": "enterprisedataconference.com",
             "destination": "Bluehost",
@@ -470,36 +500,6 @@
             "domain_name": "shereebill.com",
             "destination": "Kinsta",
             "date": "2025-12-05 08:57:27"
-        },
-        {
-            "domain_name": "www.vimelco.fi",
-            "destination": "Pressable",
-            "date": "2025-12-05 07:42:20"
-        },
-        {
-            "domain_name": "spaceofgrace365.org",
-            "destination": "Hostinger",
-            "date": "2025-12-05 05:03:18"
-        },
-        {
-            "domain_name": "www.psdcenter.com",
-            "destination": "Kinsta",
-            "date": "2025-12-05 04:41:17"
-        },
-        {
-            "domain_name": "asundry.com",
-            "destination": "Hostinger",
-            "date": "2025-12-05 04:34:05"
-        },
-        {
-            "domain_name": "shopabrand.com",
-            "destination": "Hostinger",
-            "date": "2025-12-05 03:53:12"
-        },
-        {
-            "domain_name": "gloria-hotels.com",
-            "destination": "Hostinger",
-            "date": "2025-12-05 03:41:08"
         }
     ],
     "dailyMovedStat": {
@@ -948,12 +948,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11594,
-        "Kinsta": 7300,
+        "Kinsta": 7304,
         "SiteGround": 5685,
         "Digital Ocean": 5416,
         "Bluehost": 4294,
         "Hostinger": 3954,
-        "GoDaddy": 1471,
+        "GoDaddy": 1472,
         "Liquid Web": 747,
         "BigScoots": 679,
         "WordPress.com": 547,
