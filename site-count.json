@@ -1,6 +1,11 @@
 {
-    "siteCount": 108348,
+    "siteCount": 108353,
     "recentlyMoved": [
+        {
+            "domain_name": "venue622.com",
+            "destination": "Kinsta",
+            "date": "2025-12-07 13:51:57"
+        },
         {
             "domain_name": "healing-humanity.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "leesroofingtx.com",
             "destination": "Hostinger",
             "date": "2025-12-05 13:02:34"
-        },
-        {
-            "domain_name": "bostontrainersclub.com",
-            "destination": "Pressable",
-            "date": "2025-12-05 12:32:23"
         }
     ],
     "dailyMovedStat": {
@@ -948,7 +948,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11594,
-        "Kinsta": 7310,
+        "Kinsta": 7311,
         "SiteGround": 5685,
         "Digital Ocean": 5418,
         "Bluehost": 4295,
