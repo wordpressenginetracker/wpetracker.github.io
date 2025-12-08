@@ -1,6 +1,11 @@
 {
-    "siteCount": 108423,
+    "siteCount": 108424,
     "recentlyMoved": [
+        {
+            "domain_name": "cisgmoot.org",
+            "destination": "Kinsta",
+            "date": "2025-12-08 08:45:15"
+        },
         {
             "domain_name": "www.flickerlab.com",
             "destination": "Bluehost",
@@ -492,11 +497,6 @@
             "date": "2025-12-05 19:57:19"
         },
         {
-            "domain_name": "galaxybearing.com",
-            "destination": "Kinsta",
-            "date": "2025-12-05 19:55:31"
-        },
-        {
             "domain_name": "www.anodics.com",
             "destination": "Kinsta",
             "date": "2025-12-05 19:27:27"
@@ -949,10 +949,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11596,
-        "Kinsta": 7315,
+        "Kinsta": 7316,
         "SiteGround": 5685,
         "Digital Ocean": 5420,
-        "Bluehost": 4296,
+        "Bluehost": 4297,
         "Hostinger": 3957,
         "GoDaddy": 1475,
         "Liquid Web": 747,
