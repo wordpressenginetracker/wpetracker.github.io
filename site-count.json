@@ -1,6 +1,21 @@
 {
-    "siteCount": 108417,
+    "siteCount": 108423,
     "recentlyMoved": [
+        {
+            "domain_name": "www.flickerlab.com",
+            "destination": "Bluehost",
+            "date": "2025-12-08 08:28:33"
+        },
+        {
+            "domain_name": "westernerslc.com",
+            "destination": "Bluehost",
+            "date": "2025-12-08 07:34:59"
+        },
+        {
+            "domain_name": "affordableapartmentssl.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-08 07:30:33"
+        },
         {
             "domain_name": "www.torontoagilecommunity.org",
             "destination": "WordPress.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.anodics.com",
             "destination": "Kinsta",
             "date": "2025-12-05 19:27:27"
-        },
-        {
-            "domain_name": "summerwindward.org",
-            "destination": "Hostinger",
-            "date": "2025-12-05 16:56:37"
-        },
-        {
-            "domain_name": "www.reubizzle.com",
-            "destination": "Kinsta",
-            "date": "2025-12-05 16:48:00"
-        },
-        {
-            "domain_name": "ssaccountingandtaxes.com",
-            "destination": "GoDaddy",
-            "date": "2025-12-05 16:36:50"
         }
     ],
     "dailyMovedStat": {
@@ -951,8 +951,8 @@
         "Pressable": 11596,
         "Kinsta": 7315,
         "SiteGround": 5685,
-        "Digital Ocean": 5419,
-        "Bluehost": 4295,
+        "Digital Ocean": 5420,
+        "Bluehost": 4296,
         "Hostinger": 3957,
         "GoDaddy": 1475,
         "Liquid Web": 747,
