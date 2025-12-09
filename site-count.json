@@ -1,6 +1,56 @@
 {
-    "siteCount": 108541,
+    "siteCount": 108559,
     "recentlyMoved": [
+        {
+            "domain_name": "archway.ca",
+            "destination": "Kinsta",
+            "date": "2025-12-09 16:27:08"
+        },
+        {
+            "domain_name": "www.canserve.ca",
+            "destination": "OVH",
+            "date": "2025-12-09 16:23:12"
+        },
+        {
+            "domain_name": "www.accountable.de",
+            "destination": "Hostinger",
+            "date": "2025-12-09 16:14:47"
+        },
+        {
+            "domain_name": "ar.geant.org",
+            "destination": "Kinsta",
+            "date": "2025-12-09 16:08:39"
+        },
+        {
+            "domain_name": "preventinggenocide.org",
+            "destination": "WordPress.com",
+            "date": "2025-12-09 16:07:29"
+        },
+        {
+            "domain_name": "wirkkaladesigns.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-09 15:47:42"
+        },
+        {
+            "domain_name": "prestigealarm.com",
+            "destination": "Kinsta",
+            "date": "2025-12-09 15:40:13"
+        },
+        {
+            "domain_name": "premiumwindowanddoor.com",
+            "destination": "Kinsta",
+            "date": "2025-12-09 15:40:13"
+        },
+        {
+            "domain_name": "foxandgiraffe.com.au",
+            "destination": "Namecheap",
+            "date": "2025-12-09 15:32:49"
+        },
+        {
+            "domain_name": "greenlivingmag.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-09 15:32:44"
+        },
         {
             "domain_name": "waterloocap.com",
             "destination": "Digital Ocean",
@@ -447,59 +497,9 @@
             "date": "2025-12-06 12:56:38"
         },
         {
-            "domain_name": "kellerwallbeds.com",
-            "destination": "Hostinger",
-            "date": "2025-12-06 12:56:11"
-        },
-        {
             "domain_name": "smilesallday.com",
             "destination": "Kinsta",
             "date": "2025-12-06 12:48:08"
-        },
-        {
-            "domain_name": "pineridgemodular.com",
-            "destination": "OVH",
-            "date": "2025-12-06 12:20:08"
-        },
-        {
-            "domain_name": "www.accountable.eu",
-            "destination": "Hostinger",
-            "date": "2025-12-06 12:09:48"
-        },
-        {
-            "domain_name": "austinwallbeds.us",
-            "destination": "Hostinger",
-            "date": "2025-12-06 11:45:02"
-        },
-        {
-            "domain_name": "webpeak.com",
-            "destination": "Hetzner Online",
-            "date": "2025-12-06 11:20:08"
-        },
-        {
-            "domain_name": "longislandlocalseo.com",
-            "destination": "Bluehost",
-            "date": "2025-12-06 09:33:10"
-        },
-        {
-            "domain_name": "eclipsedrafting.com.au",
-            "destination": "GoDaddy",
-            "date": "2025-12-06 09:24:36"
-        },
-        {
-            "domain_name": "yatripabari.com",
-            "destination": "IONOS",
-            "date": "2025-12-06 09:01:48"
-        },
-        {
-            "domain_name": "www.hqws.com",
-            "destination": "Pressable",
-            "date": "2025-12-06 08:52:25"
-        },
-        {
-            "domain_name": "frivilligportalen.dk",
-            "destination": "Digital Ocean",
-            "date": "2025-12-06 08:10:35"
         }
     ],
     "dailyMovedStat": {
@@ -950,21 +950,21 @@
     },
     "topDestinationHosts": {
         "Pressable": 11597,
-        "Kinsta": 7321,
+        "Kinsta": 7325,
         "SiteGround": 5685,
-        "Digital Ocean": 5430,
+        "Digital Ocean": 5432,
         "Bluehost": 4297,
-        "Hostinger": 3961,
+        "Hostinger": 3962,
         "GoDaddy": 1477,
         "Liquid Web": 747,
         "BigScoots": 679,
-        "WordPress.com": 550,
-        "OVH": 477,
+        "WordPress.com": 551,
+        "OVH": 478,
         "InMotion Hosting": 470,
         "GridPane": 469,
         "A2 Hosting": 412,
         "IONOS": 409,
-        "Namecheap": 405,
+        "Namecheap": 406,
         "DreamHost": 385,
         "Elementor Hosting": 375,
         "Hetzner Online": 320,
