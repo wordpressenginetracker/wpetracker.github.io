@@ -1,6 +1,11 @@
 {
-    "siteCount": 108559,
+    "siteCount": 108567,
     "recentlyMoved": [
+        {
+            "domain_name": "saleshive.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-09 16:45:54"
+        },
         {
             "domain_name": "archway.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.txclosetsandmore.com",
             "destination": "Kinsta",
             "date": "2025-12-06 12:56:38"
-        },
-        {
-            "domain_name": "smilesallday.com",
-            "destination": "Kinsta",
-            "date": "2025-12-06 12:48:08"
         }
     ],
     "dailyMovedStat": {
@@ -952,7 +952,7 @@
         "Pressable": 11597,
         "Kinsta": 7325,
         "SiteGround": 5685,
-        "Digital Ocean": 5432,
+        "Digital Ocean": 5433,
         "Bluehost": 4297,
         "Hostinger": 3962,
         "GoDaddy": 1477,
