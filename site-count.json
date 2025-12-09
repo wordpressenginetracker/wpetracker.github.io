@@ -1,6 +1,21 @@
 {
-    "siteCount": 108632,
+    "siteCount": 108638,
     "recentlyMoved": [
+        {
+            "domain_name": "thewashguysvegas.com",
+            "destination": "Hostinger",
+            "date": "2025-12-09 21:34:07"
+        },
+        {
+            "domain_name": "timbercannabisco.com",
+            "destination": "Kinsta",
+            "date": "2025-12-09 21:28:27"
+        },
+        {
+            "domain_name": "lynnieandthedragon.com",
+            "destination": "Namecheap",
+            "date": "2025-12-09 21:17:07"
+        },
         {
             "domain_name": "www.rideridy.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "myresultsfitness.com",
             "destination": "Kinsta",
             "date": "2025-12-06 21:58:24"
-        },
-        {
-            "domain_name": "robertlominack.com",
-            "destination": "Kinsta",
-            "date": "2025-12-06 20:47:50"
-        },
-        {
-            "domain_name": "igrealty.com",
-            "destination": "Hostinger",
-            "date": "2025-12-06 20:08:22"
-        },
-        {
-            "domain_name": "www.blastandcast.org",
-            "destination": "Kinsta",
-            "date": "2025-12-06 19:45:12"
         }
     ],
     "dailyMovedStat": {
@@ -950,11 +950,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11599,
-        "Kinsta": 7336,
+        "Kinsta": 7337,
         "SiteGround": 5685,
         "Digital Ocean": 5434,
         "Bluehost": 4297,
-        "Hostinger": 3965,
+        "Hostinger": 3966,
         "GoDaddy": 1477,
         "Liquid Web": 748,
         "BigScoots": 679,
@@ -964,7 +964,7 @@
         "GridPane": 469,
         "A2 Hosting": 412,
         "IONOS": 410,
-        "Namecheap": 406,
+        "Namecheap": 407,
         "DreamHost": 385,
         "Elementor Hosting": 375,
         "Hetzner Online": 320,
