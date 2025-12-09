@@ -1,6 +1,11 @@
 {
-    "siteCount": 108485,
+    "siteCount": 108492,
     "recentlyMoved": [
+        {
+            "domain_name": "weisscommercialflooring.com",
+            "destination": "Elementor Hosting",
+            "date": "2025-12-09 03:10:01"
+        },
         {
             "domain_name": "leadeveryday.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "homesurban.com",
             "destination": "Kinsta",
             "date": "2025-12-06 00:09:21"
-        },
-        {
-            "domain_name": "www.ditoccolaw.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-05 23:51:51"
         }
     ],
     "dailyMovedStat": {
@@ -966,7 +966,7 @@
         "IONOS": 409,
         "Namecheap": 405,
         "DreamHost": 385,
-        "Elementor Hosting": 373,
+        "Elementor Hosting": 374,
         "Hetzner Online": 318,
         "HostGator": 247
     },
