@@ -1,6 +1,11 @@
 {
-    "siteCount": 108655,
+    "siteCount": 108661,
     "recentlyMoved": [
+        {
+            "domain_name": "wemove-it.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-10 03:14:49"
+        },
         {
             "domain_name": "digitalspotlighthealth.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "trimetgroup.com",
             "destination": "A2 Hosting",
             "date": "2025-12-07 03:55:57"
-        },
-        {
-            "domain_name": "tcesd5.org",
-            "destination": "Bluehost",
-            "date": "2025-12-07 01:06:38"
         }
     ],
     "dailyMovedStat": {
@@ -956,7 +956,7 @@
         "Digital Ocean": 5434,
         "Bluehost": 4297,
         "Hostinger": 3968,
-        "GoDaddy": 1478,
+        "GoDaddy": 1479,
         "Liquid Web": 748,
         "BigScoots": 680,
         "WordPress.com": 551,
