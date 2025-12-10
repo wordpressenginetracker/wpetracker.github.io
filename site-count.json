@@ -1,15 +1,45 @@
 {
-    "siteCount": 108648,
+    "siteCount": 108655,
     "recentlyMoved": [
+        {
+            "domain_name": "digitalspotlighthealth.com",
+            "destination": "Kinsta",
+            "date": "2025-12-10 02:05:23"
+        },
+        {
+            "domain_name": "digitalspotlightfinance.com",
+            "destination": "Kinsta",
+            "date": "2025-12-10 02:05:23"
+        },
+        {
+            "domain_name": "evaaraya.com",
+            "destination": "Hostinger",
+            "date": "2025-12-10 01:49:34"
+        },
+        {
+            "domain_name": "www.ultimuttrace.com",
+            "destination": "HostGator",
+            "date": "2025-12-10 01:37:32"
+        },
         {
             "domain_name": "livfarms.com",
             "destination": "GridPane",
             "date": "2025-12-10 01:34:43"
         },
         {
+            "domain_name": "yourvivalife.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-10 01:21:39"
+        },
+        {
             "domain_name": "stuvfireplaces.com.au",
             "destination": "Kinsta",
             "date": "2025-12-10 01:13:31"
+        },
+        {
+            "domain_name": "lvepevents.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-10 00:57:12"
         },
         {
             "domain_name": "senseadvertising.com.au",
@@ -467,39 +497,9 @@
             "date": "2025-12-07 03:55:57"
         },
         {
-            "domain_name": "southeasternforestry.com",
-            "destination": "Kinsta",
-            "date": "2025-12-07 01:10:38"
-        },
-        {
             "domain_name": "tcesd5.org",
             "destination": "Bluehost",
             "date": "2025-12-07 01:06:38"
-        },
-        {
-            "domain_name": "charlescweathers.com",
-            "destination": "Kinsta",
-            "date": "2025-12-07 00:55:21"
-        },
-        {
-            "domain_name": "huntergathererbrewery.com",
-            "destination": "Kinsta",
-            "date": "2025-12-07 00:33:10"
-        },
-        {
-            "domain_name": "buyingatexasranch.com",
-            "destination": "WordPress.com",
-            "date": "2025-12-07 00:25:57"
-        },
-        {
-            "domain_name": "reedtechinc.com",
-            "destination": "Kinsta",
-            "date": "2025-12-06 23:55:57"
-        },
-        {
-            "domain_name": "hippenterprises.com",
-            "destination": "Kinsta",
-            "date": "2025-12-06 23:52:10"
         }
     ],
     "dailyMovedStat": {
@@ -951,25 +951,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 11599,
-        "Kinsta": 7339,
+        "Kinsta": 7342,
         "SiteGround": 5685,
         "Digital Ocean": 5434,
         "Bluehost": 4297,
-        "Hostinger": 3967,
-        "GoDaddy": 1477,
+        "Hostinger": 3968,
+        "GoDaddy": 1478,
         "Liquid Web": 748,
         "BigScoots": 680,
         "WordPress.com": 551,
         "OVH": 478,
         "InMotion Hosting": 471,
-        "GridPane": 469,
+        "GridPane": 470,
         "A2 Hosting": 412,
         "IONOS": 410,
         "Namecheap": 407,
         "DreamHost": 385,
         "Elementor Hosting": 375,
         "Hetzner Online": 320,
-        "HostGator": 247
+        "HostGator": 248
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
