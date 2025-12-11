@@ -1,10 +1,20 @@
 {
-    "siteCount": 108896,
+    "siteCount": 108903,
     "recentlyMoved": [
+        {
+            "domain_name": "thedunes.nl",
+            "destination": "Digital Ocean",
+            "date": "2025-12-11 09:29:48"
+        },
         {
             "domain_name": "kruegergilbert.com",
             "destination": "OVH",
             "date": "2025-12-11 09:22:13"
+        },
+        {
+            "domain_name": "maitaicharters.com",
+            "destination": "Hostinger",
+            "date": "2025-12-11 09:01:16"
         },
         {
             "domain_name": "www.spotusa.com",
@@ -482,11 +492,6 @@
             "date": "2025-12-09 20:49:14"
         },
         {
-            "domain_name": "jamaicachamber.org.jm",
-            "destination": "IONOS",
-            "date": "2025-12-09 20:40:40"
-        },
-        {
             "domain_name": "small.tulane.edu",
             "destination": "Kinsta",
             "date": "2025-12-09 20:38:36"
@@ -495,11 +500,6 @@
             "domain_name": "brassybit.com",
             "destination": "InMotion Hosting",
             "date": "2025-12-09 20:17:34"
-        },
-        {
-            "domain_name": "www.brattonsteel.com",
-            "destination": "Kinsta",
-            "date": "2025-12-09 19:39:36"
         }
     ],
     "dailyMovedStat": {
@@ -954,9 +954,9 @@
         "Pressable": 11616,
         "Kinsta": 7371,
         "SiteGround": 5685,
-        "Digital Ocean": 5442,
+        "Digital Ocean": 5443,
         "Bluehost": 4299,
-        "Hostinger": 3980,
+        "Hostinger": 3981,
         "GoDaddy": 1480,
         "Liquid Web": 748,
         "BigScoots": 682,
