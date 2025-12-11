@@ -1,6 +1,21 @@
 {
-    "siteCount": 108903,
+    "siteCount": 108919,
     "recentlyMoved": [
+        {
+            "domain_name": "fusionphysics.com",
+            "destination": "OVH",
+            "date": "2025-12-11 11:57:35"
+        },
+        {
+            "domain_name": "www.arizonacollege.edu",
+            "destination": "WordPress VIP",
+            "date": "2025-12-11 11:39:18"
+        },
+        {
+            "domain_name": "altergo.ca",
+            "destination": "OVH",
+            "date": "2025-12-11 11:27:26"
+        },
         {
             "domain_name": "thedunes.nl",
             "destination": "Digital Ocean",
@@ -482,24 +497,9 @@
             "date": "2025-12-09 21:12:17"
         },
         {
-            "domain_name": "www.richards-law.com",
-            "destination": "Kinsta",
-            "date": "2025-12-09 21:12:17"
-        },
-        {
             "domain_name": "lisannehuggins.com",
             "destination": "Kinsta",
             "date": "2025-12-09 20:49:14"
-        },
-        {
-            "domain_name": "small.tulane.edu",
-            "destination": "Kinsta",
-            "date": "2025-12-09 20:38:36"
-        },
-        {
-            "domain_name": "brassybit.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-12-09 20:17:34"
         }
     ],
     "dailyMovedStat": {
@@ -961,7 +961,7 @@
         "Liquid Web": 748,
         "BigScoots": 682,
         "WordPress.com": 552,
-        "OVH": 479,
+        "OVH": 481,
         "InMotion Hosting": 472,
         "GridPane": 470,
         "A2 Hosting": 412,
