@@ -1,6 +1,26 @@
 {
-    "siteCount": 109210,
+    "siteCount": 109219,
     "recentlyMoved": [
+        {
+            "domain_name": "nyhealthfoundation.org",
+            "destination": "Digital Ocean",
+            "date": "2025-12-12 18:11:40"
+        },
+        {
+            "domain_name": "novadentalstudio.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 18:03:28"
+        },
+        {
+            "domain_name": "teriancapital.com",
+            "destination": "Bluehost",
+            "date": "2025-12-12 17:54:24"
+        },
+        {
+            "domain_name": "www.wilmardelta.com",
+            "destination": "Kinsta",
+            "date": "2025-12-12 17:32:38"
+        },
         {
             "domain_name": "londonaestheticspakistan.com",
             "destination": "Hostinger",
@@ -472,11 +492,6 @@
             "date": "2025-12-11 12:37:17"
         },
         {
-            "domain_name": "fusionphysics.com",
-            "destination": "OVH",
-            "date": "2025-12-11 11:57:35"
-        },
-        {
             "domain_name": "www.arizonacollege.edu",
             "destination": "WordPress VIP",
             "date": "2025-12-11 11:39:18"
@@ -485,21 +500,6 @@
             "domain_name": "altergo.ca",
             "destination": "OVH",
             "date": "2025-12-11 11:27:26"
-        },
-        {
-            "domain_name": "thedunes.nl",
-            "destination": "Digital Ocean",
-            "date": "2025-12-11 09:29:48"
-        },
-        {
-            "domain_name": "maitaicharters.com",
-            "destination": "Hostinger",
-            "date": "2025-12-11 09:01:16"
-        },
-        {
-            "domain_name": "www.spotusa.com",
-            "destination": "Kinsta",
-            "date": "2025-12-11 08:54:44"
         }
     ],
     "dailyMovedStat": {
@@ -953,11 +953,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11628,
-        "Kinsta": 7417,
+        "Kinsta": 7418,
         "SiteGround": 5685,
-        "Digital Ocean": 5452,
-        "Bluehost": 4305,
-        "Hostinger": 3990,
+        "Digital Ocean": 5453,
+        "Bluehost": 4306,
+        "Hostinger": 3992,
         "GoDaddy": 1480,
         "Liquid Web": 752,
         "BigScoots": 682,
