@@ -1,10 +1,35 @@
 {
-    "siteCount": 109275,
+    "siteCount": 109292,
     "recentlyMoved": [
+        {
+            "domain_name": "ultimatemsk.com",
+            "destination": "A2 Hosting",
+            "date": "2025-12-12 22:22:13"
+        },
+        {
+            "domain_name": "www.vizius.com",
+            "destination": "Pressable",
+            "date": "2025-12-12 21:52:33"
+        },
         {
             "domain_name": "lortontowndental.com",
             "destination": "Kinsta",
             "date": "2025-12-12 21:45:27"
+        },
+        {
+            "domain_name": "www.willislaw.com",
+            "destination": "Kinsta",
+            "date": "2025-12-12 21:44:10"
+        },
+        {
+            "domain_name": "dmariephotos.com",
+            "destination": "BigScoots",
+            "date": "2025-12-12 21:43:55"
+        },
+        {
+            "domain_name": "tomtheplumberny.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 21:41:04"
         },
         {
             "domain_name": "lift.parsonsbehle.com",
@@ -17,9 +42,29 @@
             "date": "2025-12-12 21:36:29"
         },
         {
+            "domain_name": "fade2perfection.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 21:30:25"
+        },
+        {
+            "domain_name": "excelsior-design.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 21:30:25"
+        },
+        {
+            "domain_name": "diamondbackridge.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 21:30:25"
+        },
+        {
             "domain_name": "cresciotrucking.com",
             "destination": "Pressable",
             "date": "2025-12-12 21:19:25"
+        },
+        {
+            "domain_name": "eatwellpros.com",
+            "destination": "Hostinger",
+            "date": "2025-12-12 21:17:42"
         },
         {
             "domain_name": "kileyfinancialservices.com",
@@ -30,6 +75,11 @@
             "domain_name": "cic.gbtesting.us",
             "destination": "Digital Ocean",
             "date": "2025-12-12 20:59:19"
+        },
+        {
+            "domain_name": "cumberlandtrust.com",
+            "destination": "Pressable",
+            "date": "2025-12-12 20:59:16"
         },
         {
             "domain_name": "www.strictlymaids.com",
@@ -442,64 +492,14 @@
             "date": "2025-12-11 16:20:46"
         },
         {
-            "domain_name": "plan-a.ca",
-            "destination": "Kinsta",
-            "date": "2025-12-11 16:19:34"
-        },
-        {
-            "domain_name": "astera.org",
-            "destination": "Kinsta",
-            "date": "2025-12-11 16:18:31"
-        },
-        {
             "domain_name": "www.georgegaldorisi.com",
             "destination": "Kinsta",
             "date": "2025-12-11 16:17:01"
         },
         {
-            "domain_name": "www.dltravis.com",
-            "destination": "Kinsta",
-            "date": "2025-12-11 16:14:31"
-        },
-        {
-            "domain_name": "www.cherrycreeksmiles.com",
-            "destination": "Kinsta",
-            "date": "2025-12-11 16:13:17"
-        },
-        {
             "domain_name": "hsfamilylaw.com",
             "destination": "Kinsta",
             "date": "2025-12-11 16:06:02"
-        },
-        {
-            "domain_name": "allaboutsportsu.com",
-            "destination": "Namecheap",
-            "date": "2025-12-11 15:58:31"
-        },
-        {
-            "domain_name": "ovenrescue.co.uk",
-            "destination": "WordPress.com",
-            "date": "2025-12-11 15:45:27"
-        },
-        {
-            "domain_name": "georgiasprinklers.com",
-            "destination": "Kinsta",
-            "date": "2025-12-11 15:38:12"
-        },
-        {
-            "domain_name": "anjasnejbjerg.dk",
-            "destination": "Hetzner Online",
-            "date": "2025-12-11 15:37:23"
-        },
-        {
-            "domain_name": "www.aqueduc-romain-du-gier.fr",
-            "destination": "Digital Ocean",
-            "date": "2025-12-11 15:36:50"
-        },
-        {
-            "domain_name": "writersedgeservice.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-11 15:30:25"
         }
     ],
     "dailyMovedStat": {
@@ -952,20 +952,20 @@
         "2025-12-11": "109090"
     },
     "topDestinationHosts": {
-        "Pressable": 11630,
-        "Kinsta": 7420,
+        "Pressable": 11633,
+        "Kinsta": 7422,
         "SiteGround": 5685,
         "Digital Ocean": 5457,
         "Bluehost": 4307,
-        "Hostinger": 3993,
+        "Hostinger": 3998,
         "GoDaddy": 1480,
         "Liquid Web": 752,
-        "BigScoots": 682,
+        "BigScoots": 683,
         "WordPress.com": 555,
         "OVH": 485,
         "GridPane": 474,
         "InMotion Hosting": 473,
-        "A2 Hosting": 412,
+        "A2 Hosting": 413,
         "IONOS": 412,
         "Namecheap": 409,
         "DreamHost": 389,
