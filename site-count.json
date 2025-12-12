@@ -1,6 +1,11 @@
 {
-    "siteCount": 109172,
+    "siteCount": 109179,
     "recentlyMoved": [
+        {
+            "domain_name": "bikegraphix.com",
+            "destination": "Pressable",
+            "date": "2025-12-12 12:44:23"
+        },
         {
             "domain_name": "hayata.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "carepointsolutions.com",
             "destination": "Kinsta",
             "date": "2025-12-11 04:48:41"
-        },
-        {
-            "domain_name": "www.environmentsatwork.com",
-            "destination": "Pressable",
-            "date": "2025-12-11 03:50:22"
         }
     ],
     "dailyMovedStat": {
@@ -952,7 +952,7 @@
         "2025-12-11": "109090"
     },
     "topDestinationHosts": {
-        "Pressable": 11626,
+        "Pressable": 11627,
         "Kinsta": 7411,
         "SiteGround": 5685,
         "Digital Ocean": 5452,
