@@ -1,6 +1,11 @@
 {
-    "siteCount": 109339,
+    "siteCount": 109341,
     "recentlyMoved": [
+        {
+            "domain_name": "vbf.se",
+            "destination": "Kinsta",
+            "date": "2025-12-13 09:48:30"
+        },
         {
             "domain_name": "stringtheoryfabricart.com",
             "destination": "Kinsta",
@@ -492,11 +497,6 @@
             "date": "2025-12-11 18:20:31"
         },
         {
-            "domain_name": "naturalenclosures.com",
-            "destination": "Kinsta",
-            "date": "2025-12-11 18:14:22"
-        },
-        {
             "domain_name": "wagfamilylaw.com",
             "destination": "Kinsta",
             "date": "2025-12-11 17:46:03"
@@ -954,7 +954,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11636,
-        "Kinsta": 7427,
+        "Kinsta": 7428,
         "SiteGround": 5685,
         "Digital Ocean": 5458,
         "Bluehost": 4307,
