@@ -1,6 +1,11 @@
 {
-    "siteCount": 109459,
+    "siteCount": 109465,
     "recentlyMoved": [
+        {
+            "domain_name": "us.kebony.com",
+            "destination": "SiteGround",
+            "date": "2025-12-13 22:11:07"
+        },
         {
             "domain_name": "costatropical.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "waverleyheights.com",
             "destination": "OVH",
             "date": "2025-12-12 10:29:20"
-        },
-        {
-            "domain_name": "verticalacresfarm.com",
-            "destination": "Pressable",
-            "date": "2025-12-12 10:29:15"
         }
     ],
     "dailyMovedStat": {
@@ -955,7 +955,7 @@
     "topDestinationHosts": {
         "Pressable": 11640,
         "Kinsta": 7447,
-        "SiteGround": 5685,
+        "SiteGround": 5686,
         "Digital Ocean": 5461,
         "Bluehost": 4309,
         "Hostinger": 4006,
