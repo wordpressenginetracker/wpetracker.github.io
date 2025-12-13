@@ -1,5 +1,5 @@
 {
-    "siteCount": 109390,
+    "siteCount": 109395,
     "recentlyMoved": [
         {
             "domain_name": "www.doitalldoitrightsewers.com",
@@ -10,6 +10,11 @@
             "domain_name": "rashcurtis.com",
             "destination": "GoDaddy",
             "date": "2025-12-13 16:22:11"
+        },
+        {
+            "domain_name": "impact.ttc.com",
+            "destination": "Kinsta",
+            "date": "2025-12-13 16:04:33"
         },
         {
             "domain_name": "americanroofpros.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.petsaversshreveport.org",
             "destination": "DreamHost",
             "date": "2025-12-12 00:24:23"
-        },
-        {
-            "domain_name": "aotm.io",
-            "destination": "Hostinger",
-            "date": "2025-12-11 23:34:57"
         }
     ],
     "dailyMovedStat": {
@@ -954,7 +954,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11639,
-        "Kinsta": 7437,
+        "Kinsta": 7438,
         "SiteGround": 5685,
         "Digital Ocean": 5460,
         "Bluehost": 4307,
