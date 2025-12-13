@@ -1,6 +1,16 @@
 {
-    "siteCount": 109337,
+    "siteCount": 109339,
     "recentlyMoved": [
+        {
+            "domain_name": "stringtheoryfabricart.com",
+            "destination": "Kinsta",
+            "date": "2025-12-13 09:16:46"
+        },
+        {
+            "domain_name": "bwlibertyinn.com",
+            "destination": "Kinsta",
+            "date": "2025-12-13 08:28:21"
+        },
         {
             "domain_name": "www.akatemia.org",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "wagfamilylaw.com",
             "destination": "Kinsta",
             "date": "2025-12-11 17:46:03"
-        },
-        {
-            "domain_name": "nackidscan.org",
-            "destination": "Digital Ocean",
-            "date": "2025-12-11 17:43:38"
-        },
-        {
-            "domain_name": "thenextstop.org",
-            "destination": "Kinsta",
-            "date": "2025-12-11 17:11:29"
         }
     ],
     "dailyMovedStat": {
@@ -954,7 +954,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11636,
-        "Kinsta": 7425,
+        "Kinsta": 7427,
         "SiteGround": 5685,
         "Digital Ocean": 5458,
         "Bluehost": 4307,
