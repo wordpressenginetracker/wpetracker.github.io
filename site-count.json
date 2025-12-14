@@ -1,6 +1,11 @@
 {
-    "siteCount": 109521,
+    "siteCount": 109522,
     "recentlyMoved": [
+        {
+            "domain_name": "www.whatceesays.com",
+            "destination": "Bluehost",
+            "date": "2025-12-14 17:37:17"
+        },
         {
             "domain_name": "quantumbioinformatics.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-12-12 16:43:09"
         },
         {
-            "domain_name": "www.destamer.com",
-            "destination": "Kinsta",
-            "date": "2025-12-12 16:38:37"
-        },
-        {
             "domain_name": "rainbow-trends.com",
             "destination": "Hostinger",
             "date": "2025-12-12 16:26:06"
@@ -958,7 +958,7 @@
         "Kinsta": 7450,
         "SiteGround": 5686,
         "Digital Ocean": 5462,
-        "Bluehost": 4310,
+        "Bluehost": 4311,
         "Hostinger": 4008,
         "GoDaddy": 1482,
         "Liquid Web": 753,
