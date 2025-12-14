@@ -1,6 +1,11 @@
 {
-    "siteCount": 109491,
+    "siteCount": 109494,
     "recentlyMoved": [
+        {
+            "domain_name": "fit-this.com",
+            "destination": "HostGator",
+            "date": "2025-12-14 07:33:44"
+        },
         {
             "domain_name": "www.bakeraltech.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "denovopain.com",
             "destination": "Kinsta",
             "date": "2025-12-12 13:17:16"
-        },
-        {
-            "domain_name": "bikegraphix.com",
-            "destination": "Pressable",
-            "date": "2025-12-12 12:44:23"
         }
     ],
     "dailyMovedStat": {
@@ -973,7 +973,7 @@
         "DreamHost": 389,
         "Elementor Hosting": 378,
         "Hetzner Online": 322,
-        "HostGator": 248
+        "HostGator": 249
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
