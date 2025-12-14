@@ -1,6 +1,16 @@
 {
-    "siteCount": 109483,
+    "siteCount": 109491,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bakeraltech.com",
+            "destination": "Kinsta",
+            "date": "2025-12-14 04:15:12"
+        },
+        {
+            "domain_name": "peakhealthsolutions.org",
+            "destination": "Namecheap",
+            "date": "2025-12-14 03:50:48"
+        },
         {
             "domain_name": "www.trustcounselorllc.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "bikegraphix.com",
             "destination": "Pressable",
             "date": "2025-12-12 12:44:23"
-        },
-        {
-            "domain_name": "hayata.com",
-            "destination": "Kinsta",
-            "date": "2025-12-12 12:19:35"
-        },
-        {
-            "domain_name": "www.novipax.com",
-            "destination": "Pressable",
-            "date": "2025-12-12 11:45:20"
         }
     ],
     "dailyMovedStat": {
@@ -955,7 +955,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11641,
-        "Kinsta": 7449,
+        "Kinsta": 7450,
         "SiteGround": 5686,
         "Digital Ocean": 5461,
         "Bluehost": 4309,
@@ -969,7 +969,7 @@
         "InMotion Hosting": 473,
         "A2 Hosting": 413,
         "IONOS": 413,
-        "Namecheap": 410,
+        "Namecheap": 411,
         "DreamHost": 389,
         "Elementor Hosting": 378,
         "Hetzner Online": 322,
