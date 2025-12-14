@@ -1,6 +1,11 @@
 {
-    "siteCount": 109479,
+    "siteCount": 109483,
     "recentlyMoved": [
+        {
+            "domain_name": "www.trustcounselorllc.com",
+            "destination": "Kinsta",
+            "date": "2025-12-14 00:57:03"
+        },
         {
             "domain_name": "catanddogfilms.com.au",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.novipax.com",
             "destination": "Pressable",
             "date": "2025-12-12 11:45:20"
-        },
-        {
-            "domain_name": "www.beesafebeeremoval.com",
-            "destination": "IONOS",
-            "date": "2025-12-12 11:32:15"
         }
     ],
     "dailyMovedStat": {
@@ -955,7 +955,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11641,
-        "Kinsta": 7448,
+        "Kinsta": 7449,
         "SiteGround": 5686,
         "Digital Ocean": 5461,
         "Bluehost": 4309,
