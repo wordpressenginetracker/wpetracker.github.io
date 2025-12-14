@@ -1,6 +1,11 @@
 {
-    "siteCount": 109541,
+    "siteCount": 109546,
     "recentlyMoved": [
+        {
+            "domain_name": "billysellsvegas.com",
+            "destination": "Kinsta",
+            "date": "2025-12-14 20:37:46"
+        },
         {
             "domain_name": "howell-ayfc.org",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.lorimercorp.com",
             "destination": "Kinsta",
             "date": "2025-12-12 16:43:09"
-        },
-        {
-            "domain_name": "bradylawpllc.com",
-            "destination": "Hostinger",
-            "date": "2025-12-12 16:06:21"
         }
     ],
     "dailyMovedStat": {
@@ -955,7 +955,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11641,
-        "Kinsta": 7450,
+        "Kinsta": 7451,
         "SiteGround": 5686,
         "Digital Ocean": 5462,
         "Bluehost": 4311,
@@ -968,7 +968,7 @@
         "GridPane": 478,
         "InMotion Hosting": 473,
         "A2 Hosting": 414,
-        "IONOS": 413,
+        "IONOS": 414,
         "Namecheap": 412,
         "DreamHost": 389,
         "Elementor Hosting": 379,
