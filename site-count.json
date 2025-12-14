@@ -1,6 +1,21 @@
 {
-    "siteCount": 109471,
+    "siteCount": 109479,
     "recentlyMoved": [
+        {
+            "domain_name": "catanddogfilms.com.au",
+            "destination": "Hostinger",
+            "date": "2025-12-14 00:56:06"
+        },
+        {
+            "domain_name": "brooklynfrontiers.org",
+            "destination": "Pressable",
+            "date": "2025-12-14 00:52:39"
+        },
+        {
+            "domain_name": "www.griffitts.co",
+            "destination": "Kinsta",
+            "date": "2025-12-14 00:13:13"
+        },
         {
             "domain_name": "us.kebony.com",
             "destination": "SiteGround",
@@ -477,29 +492,14 @@
             "date": "2025-12-12 12:19:35"
         },
         {
-            "domain_name": "www.aallenconstruction.com",
-            "destination": "Pressable",
-            "date": "2025-12-12 12:00:33"
-        },
-        {
             "domain_name": "www.novipax.com",
             "destination": "Pressable",
             "date": "2025-12-12 11:45:20"
         },
         {
-            "domain_name": "actleasing.com",
-            "destination": "Pressable",
-            "date": "2025-12-12 11:36:52"
-        },
-        {
             "domain_name": "www.beesafebeeremoval.com",
             "destination": "IONOS",
             "date": "2025-12-12 11:32:15"
-        },
-        {
-            "domain_name": "waverleyheights.com",
-            "destination": "OVH",
-            "date": "2025-12-12 10:29:20"
         }
     ],
     "dailyMovedStat": {
@@ -954,12 +954,12 @@
         "2025-12-13": "109465"
     },
     "topDestinationHosts": {
-        "Pressable": 11640,
-        "Kinsta": 7447,
+        "Pressable": 11641,
+        "Kinsta": 7448,
         "SiteGround": 5686,
         "Digital Ocean": 5461,
         "Bluehost": 4309,
-        "Hostinger": 4006,
+        "Hostinger": 4007,
         "GoDaddy": 1482,
         "Liquid Web": 753,
         "BigScoots": 683,
