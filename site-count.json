@@ -1,6 +1,16 @@
 {
-    "siteCount": 109549,
+    "siteCount": 109558,
     "recentlyMoved": [
+        {
+            "domain_name": "optimalarabia.com",
+            "destination": "Bluehost",
+            "date": "2025-12-15 00:01:08"
+        },
+        {
+            "domain_name": "www.atlantaparent.com",
+            "destination": "A2 Hosting",
+            "date": "2025-12-14 23:56:49"
+        },
         {
             "domain_name": "billysellsvegas.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "londonaestheticspakistan.com",
             "destination": "Hostinger",
             "date": "2025-12-12 17:26:42"
-        },
-        {
-            "domain_name": "www.sourceonesupply.com",
-            "destination": "Kinsta",
-            "date": "2025-12-12 16:53:09"
-        },
-        {
-            "domain_name": "www.lorimercorp.com",
-            "destination": "Kinsta",
-            "date": "2025-12-12 16:43:09"
         }
     ],
     "dailyMovedStat": {
@@ -959,7 +959,7 @@
         "Kinsta": 7451,
         "SiteGround": 5686,
         "Digital Ocean": 5462,
-        "Bluehost": 4311,
+        "Bluehost": 4312,
         "Hostinger": 4008,
         "GoDaddy": 1482,
         "Liquid Web": 753,
@@ -968,7 +968,7 @@
         "OVH": 486,
         "GridPane": 478,
         "InMotion Hosting": 473,
-        "A2 Hosting": 414,
+        "A2 Hosting": 415,
         "IONOS": 414,
         "Namecheap": 412,
         "DreamHost": 389,
