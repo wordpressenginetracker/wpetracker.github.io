@@ -1,6 +1,21 @@
 {
-    "siteCount": 109676,
+    "siteCount": 109683,
     "recentlyMoved": [
+        {
+            "domain_name": "oblica.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-16 06:11:03"
+        },
+        {
+            "domain_name": "mypawland.com",
+            "destination": "Hostinger",
+            "date": "2025-12-16 05:46:19"
+        },
+        {
+            "domain_name": "vuontistuvat.fi",
+            "destination": "Kinsta",
+            "date": "2025-12-16 05:44:14"
+        },
         {
             "domain_name": "carneval.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "wmlaw.com",
             "destination": "Kinsta",
             "date": "2025-12-13 11:29:29"
-        },
-        {
-            "domain_name": "vbf.se",
-            "destination": "Kinsta",
-            "date": "2025-12-13 09:48:30"
-        },
-        {
-            "domain_name": "stringtheoryfabricart.com",
-            "destination": "Kinsta",
-            "date": "2025-12-13 09:16:46"
-        },
-        {
-            "domain_name": "bwlibertyinn.com",
-            "destination": "Kinsta",
-            "date": "2025-12-13 08:28:21"
         }
     ],
     "dailyMovedStat": {
@@ -957,11 +957,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11653,
-        "Kinsta": 7462,
+        "Kinsta": 7464,
         "SiteGround": 5686,
         "Digital Ocean": 5464,
         "Bluehost": 4313,
-        "Hostinger": 4012,
+        "Hostinger": 4013,
         "GoDaddy": 1483,
         "Liquid Web": 753,
         "BigScoots": 683,
