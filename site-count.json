@@ -1,6 +1,31 @@
 {
-    "siteCount": 109714,
+    "siteCount": 109724,
     "recentlyMoved": [
+        {
+            "domain_name": "haystackpress.com",
+            "destination": "Kinsta",
+            "date": "2025-12-16 12:30:41"
+        },
+        {
+            "domain_name": "rent.vls.com",
+            "destination": "Kinsta",
+            "date": "2025-12-16 12:16:59"
+        },
+        {
+            "domain_name": "www.aval.fi",
+            "destination": "Pressable",
+            "date": "2025-12-16 12:11:11"
+        },
+        {
+            "domain_name": "arvis.co.uk",
+            "destination": "Hostinger",
+            "date": "2025-12-16 12:09:41"
+        },
+        {
+            "domain_name": "www.day1displays.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2025-12-16 12:09:03"
+        },
         {
             "domain_name": "vls.com",
             "destination": "Kinsta",
@@ -467,39 +492,14 @@
             "date": "2025-12-13 13:47:00"
         },
         {
-            "domain_name": "continuumtherapypartners.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-13 13:38:14"
-        },
-        {
             "domain_name": "www.treadright.org",
             "destination": "Kinsta",
             "date": "2025-12-13 13:12:24"
         },
         {
-            "domain_name": "www.screwconveyorparts.com",
-            "destination": "Kinsta",
-            "date": "2025-12-13 13:11:36"
-        },
-        {
-            "domain_name": "www.longsplumbingservices.com",
-            "destination": "GridPane",
-            "date": "2025-12-13 13:03:33"
-        },
-        {
             "domain_name": "crashdummy.com",
             "destination": "Hostinger",
             "date": "2025-12-13 12:55:13"
-        },
-        {
-            "domain_name": "stephenswaring.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-13 12:48:40"
-        },
-        {
-            "domain_name": "julietwilson.com",
-            "destination": "Kinsta",
-            "date": "2025-12-13 12:46:50"
         }
     ],
     "dailyMovedStat": {
@@ -956,12 +956,12 @@
         "2025-12-15": "109640"
     },
     "topDestinationHosts": {
-        "Pressable": 11654,
-        "Kinsta": 7466,
+        "Pressable": 11655,
+        "Kinsta": 7467,
         "SiteGround": 5686,
         "Digital Ocean": 5465,
         "Bluehost": 4314,
-        "Hostinger": 4015,
+        "Hostinger": 4016,
         "GoDaddy": 1483,
         "Liquid Web": 753,
         "BigScoots": 683,
