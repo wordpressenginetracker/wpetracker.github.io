@@ -1,6 +1,21 @@
 {
-    "siteCount": 109671,
+    "siteCount": 109676,
     "recentlyMoved": [
+        {
+            "domain_name": "carneval.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-16 05:05:16"
+        },
+        {
+            "domain_name": "sharethis.video",
+            "destination": "Hostinger",
+            "date": "2025-12-16 05:01:26"
+        },
+        {
+            "domain_name": "www.revenuerocket.com",
+            "destination": "Pressable",
+            "date": "2025-12-16 04:59:52"
+        },
         {
             "domain_name": "glasshaus.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "bwlibertyinn.com",
             "destination": "Kinsta",
             "date": "2025-12-13 08:28:21"
-        },
-        {
-            "domain_name": "www.akatemia.org",
-            "destination": "Pressable",
-            "date": "2025-12-13 08:11:05"
-        },
-        {
-            "domain_name": "livelifeinmaine.com",
-            "destination": "GoDaddy",
-            "date": "2025-12-13 04:56:05"
-        },
-        {
-            "domain_name": "www.libertyhillep.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-13 04:46:22"
         }
     ],
     "dailyMovedStat": {
@@ -956,12 +956,12 @@
         "2025-12-15": "109640"
     },
     "topDestinationHosts": {
-        "Pressable": 11652,
-        "Kinsta": 7461,
+        "Pressable": 11653,
+        "Kinsta": 7462,
         "SiteGround": 5686,
         "Digital Ocean": 5464,
         "Bluehost": 4313,
-        "Hostinger": 4011,
+        "Hostinger": 4012,
         "GoDaddy": 1483,
         "Liquid Web": 753,
         "BigScoots": 683,
