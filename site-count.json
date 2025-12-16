@@ -1,6 +1,16 @@
 {
-    "siteCount": 109683,
+    "siteCount": 109692,
     "recentlyMoved": [
+        {
+            "domain_name": "piitsipubi.fi",
+            "destination": "Kinsta",
+            "date": "2025-12-16 08:19:11"
+        },
+        {
+            "domain_name": "primetimecenter.org",
+            "destination": "HostGator",
+            "date": "2025-12-16 07:37:54"
+        },
         {
             "domain_name": "oblica.com.au",
             "destination": "Kinsta",
@@ -482,11 +492,6 @@
             "date": "2025-12-13 12:12:24"
         },
         {
-            "domain_name": "frontier.edu",
-            "destination": "Pressable",
-            "date": "2025-12-13 11:58:08"
-        },
-        {
             "domain_name": "www.amarkwire.com",
             "destination": "Kinsta",
             "date": "2025-12-13 11:40:12"
@@ -495,11 +500,6 @@
             "domain_name": "gatewaydrs.com",
             "destination": "Kinsta",
             "date": "2025-12-13 11:35:20"
-        },
-        {
-            "domain_name": "wmlaw.com",
-            "destination": "Kinsta",
-            "date": "2025-12-13 11:29:29"
         }
     ],
     "dailyMovedStat": {
@@ -957,7 +957,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11653,
-        "Kinsta": 7464,
+        "Kinsta": 7465,
         "SiteGround": 5686,
         "Digital Ocean": 5464,
         "Bluehost": 4313,
@@ -975,7 +975,7 @@
         "DreamHost": 390,
         "Elementor Hosting": 379,
         "Hetzner Online": 322,
-        "HostGator": 251
+        "HostGator": 252
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
