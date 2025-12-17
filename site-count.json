@@ -1,6 +1,11 @@
 {
-    "siteCount": 109888,
+    "siteCount": 109894,
     "recentlyMoved": [
+        {
+            "domain_name": "advafab.com",
+            "destination": "Pressable",
+            "date": "2025-12-17 03:51:03"
+        },
         {
             "domain_name": "familylegalcare.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "billysellsvegas.com",
             "destination": "Kinsta",
             "date": "2025-12-14 20:37:46"
-        },
-        {
-            "domain_name": "howell-ayfc.org",
-            "destination": "IONOS",
-            "date": "2025-12-14 20:34:37"
         }
     ],
     "dailyMovedStat": {
@@ -957,7 +957,7 @@
         "2025-12-16": "109867"
     },
     "topDestinationHosts": {
-        "Pressable": 11661,
+        "Pressable": 11662,
         "Kinsta": 7478,
         "SiteGround": 5686,
         "Digital Ocean": 5471,
