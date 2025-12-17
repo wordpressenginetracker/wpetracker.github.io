@@ -1,6 +1,21 @@
 {
-    "siteCount": 109894,
+    "siteCount": 109900,
     "recentlyMoved": [
+        {
+            "domain_name": "jacksondesignbuild.com",
+            "destination": "A2 Hosting",
+            "date": "2025-12-17 04:49:10"
+        },
+        {
+            "domain_name": "siggroup.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-17 04:47:59"
+        },
+        {
+            "domain_name": "rixinsurance.co.nz",
+            "destination": "Hostinger",
+            "date": "2025-12-17 04:08:13"
+        },
         {
             "domain_name": "advafab.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.jwmneuro.com",
             "destination": "DreamHost",
             "date": "2025-12-15 00:25:42"
-        },
-        {
-            "domain_name": "optimalarabia.com",
-            "destination": "Bluehost",
-            "date": "2025-12-15 00:01:08"
-        },
-        {
-            "domain_name": "www.atlantaparent.com",
-            "destination": "A2 Hosting",
-            "date": "2025-12-14 23:56:49"
-        },
-        {
-            "domain_name": "billysellsvegas.com",
-            "destination": "Kinsta",
-            "date": "2025-12-14 20:37:46"
         }
     ],
     "dailyMovedStat": {
@@ -958,11 +958,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11662,
-        "Kinsta": 7478,
+        "Kinsta": 7479,
         "SiteGround": 5686,
         "Digital Ocean": 5471,
         "Bluehost": 4317,
-        "Hostinger": 4026,
+        "Hostinger": 4027,
         "GoDaddy": 1484,
         "Liquid Web": 755,
         "BigScoots": 683,
@@ -970,7 +970,7 @@
         "OVH": 489,
         "GridPane": 479,
         "InMotion Hosting": 473,
-        "A2 Hosting": 415,
+        "A2 Hosting": 416,
         "Namecheap": 414,
         "IONOS": 414,
         "DreamHost": 390,
