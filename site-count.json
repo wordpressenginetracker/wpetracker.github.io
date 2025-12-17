@@ -1,6 +1,11 @@
 {
-    "siteCount": 109915,
+    "siteCount": 109920,
     "recentlyMoved": [
+        {
+            "domain_name": "jumpcap.com",
+            "destination": "Kinsta",
+            "date": "2025-12-17 08:37:20"
+        },
         {
             "domain_name": "pascon.co.uk",
             "destination": "Krystal Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "dcmaterialsinc.com",
             "destination": "GoDaddy",
             "date": "2025-12-15 13:27:44"
-        },
-        {
-            "domain_name": "creativefinancialgrp.com",
-            "destination": "Hostinger",
-            "date": "2025-12-15 12:59:18"
         }
     ],
     "dailyMovedStat": {
@@ -958,7 +958,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11663,
-        "Kinsta": 7479,
+        "Kinsta": 7480,
         "SiteGround": 5686,
         "Digital Ocean": 5473,
         "Bluehost": 4318,
