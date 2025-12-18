@@ -1,6 +1,21 @@
 {
-    "siteCount": 110117,
+    "siteCount": 110124,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rusyel.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-18 01:18:37"
+        },
+        {
+            "domain_name": "www.rnrd.com",
+            "destination": "Kinsta",
+            "date": "2025-12-18 00:56:51"
+        },
+        {
+            "domain_name": "karenwschneider.com",
+            "destination": "Pressable",
+            "date": "2025-12-18 00:37:37"
+        },
         {
             "domain_name": "hingesandhardware.com",
             "destination": "Pressable",
@@ -477,16 +492,6 @@
             "date": "2025-12-16 18:04:38"
         },
         {
-            "domain_name": "www.spauldingpress.com",
-            "destination": "Pressable",
-            "date": "2025-12-16 17:34:54"
-        },
-        {
-            "domain_name": "sppmachine.com",
-            "destination": "Liquid Web",
-            "date": "2025-12-16 17:29:46"
-        },
-        {
             "domain_name": "thecreditsummit.com",
             "destination": "Hostinger",
             "date": "2025-12-16 17:25:09"
@@ -495,11 +500,6 @@
             "domain_name": "www.ventanabybuckner.com",
             "destination": "Liquid Web",
             "date": "2025-12-16 17:03:17"
-        },
-        {
-            "domain_name": "www.paternityusa.com",
-            "destination": "GridPane",
-            "date": "2025-12-16 16:47:03"
         }
     ],
     "dailyMovedStat": {
@@ -958,8 +958,8 @@
         "2025-12-17": "110111"
     },
     "topDestinationHosts": {
-        "Pressable": 11673,
-        "Kinsta": 7505,
+        "Pressable": 11674,
+        "Kinsta": 7507,
         "SiteGround": 5686,
         "Digital Ocean": 5483,
         "Bluehost": 4318,
