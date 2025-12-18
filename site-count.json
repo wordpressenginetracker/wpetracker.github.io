@@ -1,6 +1,21 @@
 {
-    "siteCount": 110128,
+    "siteCount": 110136,
     "recentlyMoved": [
+        {
+            "domain_name": "greengrouproof.com",
+            "destination": "DreamHost",
+            "date": "2025-12-18 03:58:10"
+        },
+        {
+            "domain_name": "www.economos.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-18 03:48:21"
+        },
+        {
+            "domain_name": "www.buubble.com",
+            "destination": "Hostinger",
+            "date": "2025-12-18 03:38:54"
+        },
         {
             "domain_name": "dennis-volpe.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "1330coffee.com",
             "destination": "Hostinger",
             "date": "2025-12-16 19:05:03"
-        },
-        {
-            "domain_name": "fahrenheitheadwear.com",
-            "destination": "Pressable",
-            "date": "2025-12-16 18:38:13"
-        },
-        {
-            "domain_name": "mfalmasonry.com",
-            "destination": "Pressable",
-            "date": "2025-12-16 18:04:38"
-        },
-        {
-            "domain_name": "thecreditsummit.com",
-            "destination": "Hostinger",
-            "date": "2025-12-16 17:25:09"
         }
     ],
     "dailyMovedStat": {
@@ -959,11 +959,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11675,
-        "Kinsta": 7507,
+        "Kinsta": 7508,
         "SiteGround": 5686,
         "Digital Ocean": 5483,
         "Bluehost": 4318,
-        "Hostinger": 4035,
+        "Hostinger": 4036,
         "GoDaddy": 1487,
         "Liquid Web": 756,
         "BigScoots": 685,
@@ -974,7 +974,7 @@
         "A2 Hosting": 417,
         "Namecheap": 416,
         "IONOS": 415,
-        "DreamHost": 390,
+        "DreamHost": 391,
         "Elementor Hosting": 379,
         "Hetzner Online": 322,
         "HostGator": 252
