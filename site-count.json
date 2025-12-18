@@ -1,6 +1,26 @@
 {
-    "siteCount": 110203,
+    "siteCount": 110214,
     "recentlyMoved": [
+        {
+            "domain_name": "discovereyecareers.org",
+            "destination": "Kinsta",
+            "date": "2025-12-18 13:44:17"
+        },
+        {
+            "domain_name": "theimplanthub.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-18 13:41:50"
+        },
+        {
+            "domain_name": "thebrielle.com",
+            "destination": "Hostinger",
+            "date": "2025-12-18 13:39:45"
+        },
+        {
+            "domain_name": "xpyfilmandmedia.com",
+            "destination": "Hostinger",
+            "date": "2025-12-18 13:38:18"
+        },
         {
             "domain_name": "www.sassonplasticsurgery.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "megakc.com",
             "destination": "BigScoots",
             "date": "2025-12-17 09:49:24"
-        },
-        {
-            "domain_name": "zazenwebdesign.com",
-            "destination": "Namecheap",
-            "date": "2025-12-17 09:46:38"
-        },
-        {
-            "domain_name": "jumpcap.com",
-            "destination": "Kinsta",
-            "date": "2025-12-17 08:37:20"
-        },
-        {
-            "domain_name": "www.avahotel.gr",
-            "destination": "OVH",
-            "date": "2025-12-17 08:11:20"
-        },
-        {
-            "domain_name": "promotionalvideobrochures.com.au",
-            "destination": "GoDaddy",
-            "date": "2025-12-17 07:38:51"
         }
     ],
     "dailyMovedStat": {
@@ -959,11 +959,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11691,
-        "Kinsta": 7512,
+        "Kinsta": 7513,
         "SiteGround": 5686,
-        "Digital Ocean": 5487,
+        "Digital Ocean": 5488,
         "Bluehost": 4318,
-        "Hostinger": 4039,
+        "Hostinger": 4041,
         "GoDaddy": 1487,
         "Liquid Web": 757,
         "BigScoots": 686,
