@@ -1,6 +1,11 @@
 {
-    "siteCount": 110174,
+    "siteCount": 110177,
     "recentlyMoved": [
+        {
+            "domain_name": "northshoretwins.com",
+            "destination": "Pressable",
+            "date": "2025-12-18 10:32:50"
+        },
         {
             "domain_name": "countershox.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "siggroup.com.au",
             "destination": "Kinsta",
             "date": "2025-12-17 04:47:59"
-        },
-        {
-            "domain_name": "rixinsurance.co.nz",
-            "destination": "Hostinger",
-            "date": "2025-12-17 04:08:13"
         }
     ],
     "dailyMovedStat": {
@@ -958,7 +958,7 @@
         "2025-12-17": "110111"
     },
     "topDestinationHosts": {
-        "Pressable": 11689,
+        "Pressable": 11690,
         "Kinsta": 7509,
         "SiteGround": 5686,
         "Digital Ocean": 5485,
