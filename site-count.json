@@ -1,6 +1,11 @@
 {
-    "siteCount": 110124,
+    "siteCount": 110128,
     "recentlyMoved": [
+        {
+            "domain_name": "dennis-volpe.com",
+            "destination": "Pressable",
+            "date": "2025-12-18 01:34:52"
+        },
         {
             "domain_name": "www.rusyel.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "thecreditsummit.com",
             "destination": "Hostinger",
             "date": "2025-12-16 17:25:09"
-        },
-        {
-            "domain_name": "www.ventanabybuckner.com",
-            "destination": "Liquid Web",
-            "date": "2025-12-16 17:03:17"
         }
     ],
     "dailyMovedStat": {
@@ -958,7 +958,7 @@
         "2025-12-17": "110111"
     },
     "topDestinationHosts": {
-        "Pressable": 11674,
+        "Pressable": 11675,
         "Kinsta": 7507,
         "SiteGround": 5686,
         "Digital Ocean": 5483,
