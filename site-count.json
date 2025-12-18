@@ -1,6 +1,21 @@
 {
-    "siteCount": 110320,
+    "siteCount": 110324,
     "recentlyMoved": [
+        {
+            "domain_name": "nri3pl.com",
+            "destination": "OVH",
+            "date": "2025-12-18 21:46:27"
+        },
+        {
+            "domain_name": "dovecreekanimalhospital.com",
+            "destination": "Pressable",
+            "date": "2025-12-18 21:40:29"
+        },
+        {
+            "domain_name": "doggettnews.com",
+            "destination": "Kinsta",
+            "date": "2025-12-18 21:26:51"
+        },
         {
             "domain_name": "kubotaorangedays.kubotausa.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "heko.fi",
             "destination": "Pressable",
             "date": "2025-12-17 16:27:10"
-        },
-        {
-            "domain_name": "www.delawarevalleypaving.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-17 16:08:13"
-        },
-        {
-            "domain_name": "astrehab.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-17 15:39:46"
-        },
-        {
-            "domain_name": "www.carbongc.co.uk",
-            "destination": "Kinsta",
-            "date": "2025-12-17 15:35:26"
         }
     ],
     "dailyMovedStat": {
@@ -958,8 +958,8 @@
         "2025-12-17": "110111"
     },
     "topDestinationHosts": {
-        "Pressable": 11696,
-        "Kinsta": 7523,
+        "Pressable": 11697,
+        "Kinsta": 7524,
         "SiteGround": 5686,
         "Digital Ocean": 5493,
         "Bluehost": 4319,
@@ -968,7 +968,7 @@
         "Liquid Web": 757,
         "BigScoots": 687,
         "WordPress.com": 558,
-        "OVH": 491,
+        "OVH": 492,
         "GridPane": 481,
         "InMotion Hosting": 474,
         "A2 Hosting": 417,
