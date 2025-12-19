@@ -1,6 +1,16 @@
 {
-    "siteCount": 110344,
+    "siteCount": 110354,
     "recentlyMoved": [
+        {
+            "domain_name": "www.perihelion.at",
+            "destination": "WordPress.com",
+            "date": "2025-12-19 05:14:43"
+        },
+        {
+            "domain_name": "sorlandsbrygga.no",
+            "destination": "Kinsta",
+            "date": "2025-12-19 04:57:54"
+        },
         {
             "domain_name": "hoovers304.com",
             "destination": "WordPress.com",
@@ -482,11 +492,6 @@
             "date": "2025-12-17 17:35:07"
         },
         {
-            "domain_name": "www.whiskeybungalow.com",
-            "destination": "Kinsta",
-            "date": "2025-12-17 17:35:01"
-        },
-        {
             "domain_name": "delawarevalleysurvey.com",
             "destination": "Digital Ocean",
             "date": "2025-12-17 17:31:45"
@@ -495,11 +500,6 @@
             "domain_name": "meredithhcarr.com",
             "destination": "Kinsta",
             "date": "2025-12-17 17:19:45"
-        },
-        {
-            "domain_name": "studentcenter.claremont.edu",
-            "destination": "Pressable",
-            "date": "2025-12-17 17:01:53"
         }
     ],
     "dailyMovedStat": {
@@ -960,7 +960,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11699,
-        "Kinsta": 7524,
+        "Kinsta": 7525,
         "SiteGround": 5686,
         "Digital Ocean": 5493,
         "Bluehost": 4319,
@@ -968,7 +968,7 @@
         "GoDaddy": 1488,
         "Liquid Web": 757,
         "BigScoots": 687,
-        "WordPress.com": 559,
+        "WordPress.com": 561,
         "OVH": 493,
         "GridPane": 481,
         "InMotion Hosting": 474,
