@@ -1,6 +1,31 @@
 {
-    "siteCount": 110361,
+    "siteCount": 110385,
     "recentlyMoved": [
+        {
+            "domain_name": "artbygomez.com",
+            "destination": "Hostinger",
+            "date": "2025-12-19 08:13:06"
+        },
+        {
+            "domain_name": "www.mauimarklaw.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-19 07:50:32"
+        },
+        {
+            "domain_name": "helixrecruiting.com",
+            "destination": "Pressable",
+            "date": "2025-12-19 07:49:24"
+        },
+        {
+            "domain_name": "parsenn.no",
+            "destination": "Hetzner Online",
+            "date": "2025-12-19 07:47:13"
+        },
+        {
+            "domain_name": "patriotpeakfoundation.org",
+            "destination": "WordPress.com",
+            "date": "2025-12-19 07:29:43"
+        },
         {
             "domain_name": "votreimmobilier.ch",
             "destination": "Kinsta",
@@ -467,39 +492,14 @@
             "date": "2025-12-17 20:23:15"
         },
         {
-            "domain_name": "www.canitravel.com",
-            "destination": "Kinsta",
-            "date": "2025-12-17 20:21:39"
-        },
-        {
-            "domain_name": "garliccrush.com",
-            "destination": "Kinsta",
-            "date": "2025-12-17 20:13:49"
-        },
-        {
             "domain_name": "www.centerstagebc.com",
             "destination": "Kinsta",
             "date": "2025-12-17 20:07:45"
         },
         {
-            "domain_name": "geosphere-environmental.co.uk",
-            "destination": "IONOS",
-            "date": "2025-12-17 20:02:26"
-        },
-        {
             "domain_name": "groups.ttc.com",
             "destination": "Kinsta",
             "date": "2025-12-17 20:00:40"
-        },
-        {
-            "domain_name": "gregmckeown.com",
-            "destination": "Pressable",
-            "date": "2025-12-17 19:43:21"
-        },
-        {
-            "domain_name": "tramontoestatewines.com.au",
-            "destination": "Kinsta",
-            "date": "2025-12-17 17:35:07"
         }
     ],
     "dailyMovedStat": {
@@ -959,16 +959,16 @@
         "2025-12-18": "110324"
     },
     "topDestinationHosts": {
-        "Pressable": 11700,
+        "Pressable": 11701,
         "Kinsta": 7527,
         "SiteGround": 5686,
         "Digital Ocean": 5494,
         "Bluehost": 4319,
-        "Hostinger": 4043,
-        "GoDaddy": 1488,
+        "Hostinger": 4044,
+        "GoDaddy": 1489,
         "Liquid Web": 757,
         "BigScoots": 687,
-        "WordPress.com": 561,
+        "WordPress.com": 562,
         "OVH": 493,
         "GridPane": 481,
         "InMotion Hosting": 474,
@@ -977,7 +977,7 @@
         "IONOS": 415,
         "DreamHost": 391,
         "Elementor Hosting": 379,
-        "Hetzner Online": 322,
+        "Hetzner Online": 323,
         "HostGator": 252
     },
     "dailyTotalStat": {
