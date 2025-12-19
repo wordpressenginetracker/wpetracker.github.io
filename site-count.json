@@ -1,6 +1,11 @@
 {
-    "siteCount": 110395,
+    "siteCount": 110398,
     "recentlyMoved": [
+        {
+            "domain_name": "nfclegal.com",
+            "destination": "Kinsta",
+            "date": "2025-12-19 09:47:37"
+        },
         {
             "domain_name": "lighthousemoving.com",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-12-17 20:46:16"
         },
         {
-            "domain_name": "sarahbakermusic.com",
-            "destination": "Kinsta",
-            "date": "2025-12-17 20:43:04"
-        },
-        {
             "domain_name": "korean.skjcpa.com",
             "destination": "Kinsta",
             "date": "2025-12-17 20:29:52"
@@ -960,7 +960,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11702,
-        "Kinsta": 7527,
+        "Kinsta": 7528,
         "SiteGround": 5686,
         "Digital Ocean": 5494,
         "Bluehost": 4319,
