@@ -1,6 +1,11 @@
 {
-    "siteCount": 110333,
+    "siteCount": 110337,
     "recentlyMoved": [
+        {
+            "domain_name": "tckiacademy.com",
+            "destination": "Pressable",
+            "date": "2025-12-19 01:37:03"
+        },
         {
             "domain_name": "www.sagehormonehealth.com",
             "destination": "WordPress.com",
@@ -492,11 +497,6 @@
             "date": "2025-12-17 17:19:45"
         },
         {
-            "domain_name": "caretinuumadvisors.com",
-            "destination": "Namecheap",
-            "date": "2025-12-17 17:16:11"
-        },
-        {
             "domain_name": "studentcenter.claremont.edu",
             "destination": "Pressable",
             "date": "2025-12-17 17:01:53"
@@ -959,7 +959,7 @@
         "2025-12-18": "110324"
     },
     "topDestinationHosts": {
-        "Pressable": 11698,
+        "Pressable": 11699,
         "Kinsta": 7524,
         "SiteGround": 5686,
         "Digital Ocean": 5493,
