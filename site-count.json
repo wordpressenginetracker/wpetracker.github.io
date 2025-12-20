@@ -1,6 +1,16 @@
 {
-    "siteCount": 110583,
+    "siteCount": 110597,
     "recentlyMoved": [
+        {
+            "domain_name": "angelfilms.com",
+            "destination": "Pressable",
+            "date": "2025-12-20 04:23:07"
+        },
+        {
+            "domain_name": "www.chestnutasheville.com",
+            "destination": "GridPane",
+            "date": "2025-12-20 04:17:07"
+        },
         {
             "domain_name": "meiercompanies.com",
             "destination": "BigScoots",
@@ -487,19 +497,9 @@
             "date": "2025-12-18 10:11:07"
         },
         {
-            "domain_name": "childressagency.com",
-            "destination": "Hostinger",
-            "date": "2025-12-18 09:53:11"
-        },
-        {
             "domain_name": "doggettconcrete.com",
             "destination": "Kinsta",
             "date": "2025-12-18 09:46:16"
-        },
-        {
-            "domain_name": "coast-riders.org",
-            "destination": "Pressable",
-            "date": "2025-12-18 09:39:38"
         }
     ],
     "dailyMovedStat": {
@@ -960,7 +960,7 @@
         "2025-12-19": "110558"
     },
     "topDestinationHosts": {
-        "Pressable": 11706,
+        "Pressable": 11707,
         "Kinsta": 7540,
         "SiteGround": 5686,
         "Digital Ocean": 5501,
@@ -971,7 +971,7 @@
         "BigScoots": 688,
         "WordPress.com": 563,
         "OVH": 493,
-        "GridPane": 483,
+        "GridPane": 484,
         "InMotion Hosting": 475,
         "A2 Hosting": 418,
         "Namecheap": 418,
