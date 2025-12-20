@@ -1,6 +1,11 @@
 {
-    "siteCount": 110606,
+    "siteCount": 110612,
     "recentlyMoved": [
+        {
+            "domain_name": "mcbride-re.com",
+            "destination": "Hostinger",
+            "date": "2025-12-20 05:45:16"
+        },
         {
             "domain_name": "www.stuartmullins.co",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "northshoretwins.com",
             "destination": "Pressable",
             "date": "2025-12-18 10:32:50"
-        },
-        {
-            "domain_name": "doggettconcrete.com",
-            "destination": "Kinsta",
-            "date": "2025-12-18 09:46:16"
         }
     ],
     "dailyMovedStat": {
@@ -965,7 +965,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5501,
         "Bluehost": 4321,
-        "Hostinger": 4052,
+        "Hostinger": 4053,
         "GoDaddy": 1490,
         "Liquid Web": 760,
         "BigScoots": 688,
