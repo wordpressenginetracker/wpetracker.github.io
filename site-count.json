@@ -1,10 +1,20 @@
 {
-    "siteCount": 110670,
+    "siteCount": 110682,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hestersoffice.com",
+            "destination": "Kinsta",
+            "date": "2025-12-20 16:25:52"
+        },
         {
             "domain_name": "goddardhomestead.org",
             "destination": "Kinsta",
             "date": "2025-12-20 16:20:14"
+        },
+        {
+            "domain_name": "ilitravel.org",
+            "destination": "BigScoots",
+            "date": "2025-12-20 16:19:53"
         },
         {
             "domain_name": "www.deduce.com",
@@ -15,6 +25,11 @@
             "domain_name": "phimufoundation.org",
             "destination": "Kinsta",
             "date": "2025-12-20 16:02:27"
+        },
+        {
+            "domain_name": "rivercityhardwoods.com",
+            "destination": "Namecheap",
+            "date": "2025-12-20 15:55:39"
         },
         {
             "domain_name": "www.hearnm.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.vtnetwork.org",
             "destination": "Pressable",
             "date": "2025-12-18 17:23:50"
-        },
-        {
-            "domain_name": "layerxsecurity.com",
-            "destination": "Pressable",
-            "date": "2025-12-18 17:06:40"
-        },
-        {
-            "domain_name": "climeconair.com",
-            "destination": "Pressable",
-            "date": "2025-12-18 16:59:59"
-        },
-        {
-            "domain_name": "www.southerncarbide.com",
-            "destination": "Kinsta",
-            "date": "2025-12-18 16:45:21"
         }
     ],
     "dailyMovedStat": {
@@ -961,19 +961,19 @@
     },
     "topDestinationHosts": {
         "Pressable": 11708,
-        "Kinsta": 7545,
+        "Kinsta": 7546,
         "SiteGround": 5686,
         "Digital Ocean": 5503,
         "Bluehost": 4326,
         "Hostinger": 4056,
         "GoDaddy": 1490,
         "Liquid Web": 760,
-        "BigScoots": 698,
+        "BigScoots": 699,
         "WordPress.com": 564,
         "OVH": 493,
         "GridPane": 484,
         "InMotion Hosting": 475,
-        "Namecheap": 419,
+        "Namecheap": 420,
         "A2 Hosting": 418,
         "IONOS": 415,
         "DreamHost": 391,
