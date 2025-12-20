@@ -1,6 +1,11 @@
 {
-    "siteCount": 110623,
+    "siteCount": 110625,
     "recentlyMoved": [
+        {
+            "domain_name": "evansalliance.com",
+            "destination": "Bluehost",
+            "date": "2025-12-20 10:18:14"
+        },
         {
             "domain_name": "www.thenorna.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.mediavalve.com",
             "destination": "Kinsta",
             "date": "2025-12-18 12:14:37"
-        },
-        {
-            "domain_name": "blekingebatforbund.se",
-            "destination": "Kinsta",
-            "date": "2025-12-18 12:08:12"
         }
     ],
     "dailyMovedStat": {
@@ -964,7 +964,7 @@
         "Kinsta": 7540,
         "SiteGround": 5686,
         "Digital Ocean": 5501,
-        "Bluehost": 4324,
+        "Bluehost": 4326,
         "Hostinger": 4054,
         "GoDaddy": 1490,
         "Liquid Web": 760,
