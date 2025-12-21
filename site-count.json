@@ -1,6 +1,11 @@
 {
-    "siteCount": 110792,
+    "siteCount": 110798,
     "recentlyMoved": [
+        {
+            "domain_name": "crossroadstn.com",
+            "destination": "Digital Ocean",
+            "date": "2025-12-21 08:59:19"
+        },
         {
             "domain_name": "reflectbook.org",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "milkylane.co",
             "destination": "Digital Ocean",
             "date": "2025-12-19 05:51:44"
-        },
-        {
-            "domain_name": "ystadmodellen.se",
-            "destination": "Kinsta",
-            "date": "2025-12-19 05:29:47"
         }
     ],
     "dailyMovedStat": {
