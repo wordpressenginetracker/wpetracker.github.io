@@ -1,6 +1,11 @@
 {
-    "siteCount": 110835,
+    "siteCount": 110837,
     "recentlyMoved": [
+        {
+            "domain_name": "sampro.com",
+            "destination": "Hostinger",
+            "date": "2025-12-21 16:32:22"
+        },
         {
             "domain_name": "www.theorlando.co.uk",
             "destination": "Hostinger",
@@ -487,11 +492,6 @@
             "date": "2025-12-19 08:58:06"
         },
         {
-            "domain_name": "artbygomez.com",
-            "destination": "Hostinger",
-            "date": "2025-12-19 08:13:06"
-        },
-        {
             "domain_name": "infinitywater.net",
             "destination": "Pressable",
             "date": "2025-12-19 08:00:00"
@@ -966,7 +966,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5509,
         "Bluehost": 4328,
-        "Hostinger": 4062,
+        "Hostinger": 4063,
         "GoDaddy": 1492,
         "Liquid Web": 760,
         "BigScoots": 699,
