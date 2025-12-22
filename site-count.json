@@ -1,6 +1,11 @@
 {
-    "siteCount": 110921,
+    "siteCount": 110924,
     "recentlyMoved": [
+        {
+            "domain_name": "waste-not.org",
+            "destination": "Hostinger",
+            "date": "2025-12-22 06:19:12"
+        },
         {
             "domain_name": "morrettflyfishing.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "sandiegogarageservice.com",
             "destination": "A2 Hosting",
             "date": "2025-12-19 16:47:58"
-        },
-        {
-            "domain_name": "iatse834.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 16:40:09"
         }
     ],
     "dailyMovedStat": {
@@ -967,7 +967,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5511,
         "Bluehost": 4329,
-        "Hostinger": 4072,
+        "Hostinger": 4073,
         "GoDaddy": 1493,
         "Liquid Web": 760,
         "BigScoots": 700,
