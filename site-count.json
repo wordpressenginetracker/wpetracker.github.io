@@ -1,6 +1,11 @@
 {
-    "siteCount": 110960,
+    "siteCount": 110962,
     "recentlyMoved": [
+        {
+            "domain_name": "nextlevelledger.com",
+            "destination": "Bluehost",
+            "date": "2025-12-22 17:59:59"
+        },
         {
             "domain_name": "goldandhawks.com",
             "destination": "Namecheap",
@@ -492,11 +497,6 @@
             "date": "2025-12-19 19:30:31"
         },
         {
-            "domain_name": "eclecticartists.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 17:37:25"
-        },
-        {
             "domain_name": "myartswayag.com",
             "destination": "Kinsta",
             "date": "2025-12-19 17:31:59"
@@ -966,7 +966,7 @@
         "Kinsta": 7555,
         "SiteGround": 5686,
         "Digital Ocean": 5512,
-        "Bluehost": 4329,
+        "Bluehost": 4330,
         "Hostinger": 4074,
         "GoDaddy": 1493,
         "Liquid Web": 760,
