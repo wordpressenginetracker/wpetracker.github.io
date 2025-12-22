@@ -1,6 +1,11 @@
 {
-    "siteCount": 110948,
+    "siteCount": 110952,
     "recentlyMoved": [
+        {
+            "domain_name": "sasoros.com",
+            "destination": "Pressable",
+            "date": "2025-12-22 12:12:29"
+        },
         {
             "domain_name": "greenplanet-gardening.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "myartswayag.com",
             "destination": "Kinsta",
             "date": "2025-12-19 17:31:59"
-        },
-        {
-            "domain_name": "www.soninbeako.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 17:21:56"
         }
     ],
     "dailyMovedStat": {
@@ -962,7 +962,7 @@
         "2025-12-21": "110884"
     },
     "topDestinationHosts": {
-        "Pressable": 11712,
+        "Pressable": 11713,
         "Kinsta": 7555,
         "SiteGround": 5686,
         "Digital Ocean": 5512,
