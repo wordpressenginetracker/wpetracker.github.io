@@ -1,6 +1,11 @@
 {
-    "siteCount": 110962,
+    "siteCount": 110987,
     "recentlyMoved": [
+        {
+            "domain_name": "www.greenlakecosmeticdentistry.com",
+            "destination": "Kinsta",
+            "date": "2025-12-22 20:16:14"
+        },
         {
             "domain_name": "nextlevelledger.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.bearserco.com",
             "destination": "Kinsta",
             "date": "2025-12-19 19:30:31"
-        },
-        {
-            "domain_name": "myartswayag.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 17:31:59"
         }
     ],
     "dailyMovedStat": {
@@ -963,10 +963,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11713,
-        "Kinsta": 7555,
+        "Kinsta": 7556,
         "SiteGround": 5686,
         "Digital Ocean": 5512,
-        "Bluehost": 4330,
+        "Bluehost": 4332,
         "Hostinger": 4074,
         "GoDaddy": 1493,
         "Liquid Web": 760,
