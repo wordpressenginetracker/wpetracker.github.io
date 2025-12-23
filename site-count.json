@@ -1,6 +1,11 @@
 {
-    "siteCount": 111022,
+    "siteCount": 111024,
     "recentlyMoved": [
+        {
+            "domain_name": "dseda.org",
+            "destination": "Digital Ocean",
+            "date": "2025-12-23 09:26:02"
+        },
         {
             "domain_name": "casinovator.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "montanahydraulics.com",
             "destination": "Bluehost",
             "date": "2025-12-19 21:35:58"
-        },
-        {
-            "domain_name": "texasturnkeyranches.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 21:05:23"
         }
     ],
     "dailyMovedStat": {
@@ -966,7 +966,7 @@
         "Pressable": 11713,
         "Kinsta": 7557,
         "SiteGround": 5686,
-        "Digital Ocean": 5513,
+        "Digital Ocean": 5514,
         "Bluehost": 4332,
         "Hostinger": 4077,
         "GoDaddy": 1493,
