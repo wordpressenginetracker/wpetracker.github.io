@@ -1,6 +1,11 @@
 {
-    "siteCount": 111008,
+    "siteCount": 111013,
     "recentlyMoved": [
+        {
+            "domain_name": "www.eskomatic.fi",
+            "destination": "Hetzner Online",
+            "date": "2025-12-23 07:55:32"
+        },
         {
             "domain_name": "danskepadelturneringer.dk",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "bloomfitwellness.com",
             "destination": "Hostinger",
             "date": "2025-12-19 20:30:49"
-        },
-        {
-            "domain_name": "autoworksnm.com",
-            "destination": "Hostinger",
-            "date": "2025-12-19 20:17:52"
         }
     ],
     "dailyMovedStat": {
@@ -981,7 +981,7 @@
         "IONOS": 415,
         "DreamHost": 394,
         "Elementor Hosting": 380,
-        "Hetzner Online": 324,
+        "Hetzner Online": 325,
         "HostGator": 252
     },
     "dailyTotalStat": {
