@@ -1,6 +1,11 @@
 {
-    "siteCount": 111003,
+    "siteCount": 111008,
     "recentlyMoved": [
+        {
+            "domain_name": "danskepadelturneringer.dk",
+            "destination": "Elementor Hosting",
+            "date": "2025-12-23 05:25:51"
+        },
         {
             "domain_name": "ex-ceedinnovation.co.uk",
             "destination": "Digital Ocean",
@@ -485,11 +490,6 @@
             "domain_name": "jonesqualityremodeling.com",
             "destination": "InMotion Hosting",
             "date": "2025-12-19 20:37:04"
-        },
-        {
-            "domain_name": "www.continental-trust.com",
-            "destination": "Kinsta",
-            "date": "2025-12-19 20:31:56"
         },
         {
             "domain_name": "bloomfitwellness.com",
@@ -980,7 +980,7 @@
         "A2 Hosting": 418,
         "IONOS": 415,
         "DreamHost": 394,
-        "Elementor Hosting": 379,
+        "Elementor Hosting": 380,
         "Hetzner Online": 324,
         "HostGator": 252
     },
