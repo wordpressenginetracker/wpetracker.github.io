@@ -1,6 +1,26 @@
 {
-    "siteCount": 111103,
+    "siteCount": 111137,
     "recentlyMoved": [
+        {
+            "domain_name": "handymanroger.net",
+            "destination": "Pressable",
+            "date": "2025-12-23 20:25:10"
+        },
+        {
+            "domain_name": "apracticalwedding.com",
+            "destination": "WordPress.com",
+            "date": "2025-12-23 20:18:12"
+        },
+        {
+            "domain_name": "portal.lmtsuccessgroup.com",
+            "destination": "Pressable",
+            "date": "2025-12-23 20:07:53"
+        },
+        {
+            "domain_name": "www.0pointloan.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-23 19:07:17"
+        },
         {
             "domain_name": "nationalwomensfoundation.org",
             "destination": "Hostinger",
@@ -472,21 +492,6 @@
             "date": "2025-12-20 13:40:54"
         },
         {
-            "domain_name": "www.pawsnrec.com",
-            "destination": "Kinsta",
-            "date": "2025-12-20 13:18:23"
-        },
-        {
-            "domain_name": "chicagovotesedfund.com",
-            "destination": "BigScoots",
-            "date": "2025-12-20 13:13:45"
-        },
-        {
-            "domain_name": "chicagovotes.com",
-            "destination": "BigScoots",
-            "date": "2025-12-20 13:13:45"
-        },
-        {
             "domain_name": "marinachamber.com",
             "destination": "Hostinger",
             "date": "2025-12-20 13:12:19"
@@ -495,11 +500,6 @@
             "domain_name": "dentistryftworthgreer.com",
             "destination": "Hostinger",
             "date": "2025-12-20 13:04:56"
-        },
-        {
-            "domain_name": "crushwinexp.com",
-            "destination": "Kinsta",
-            "date": "2025-12-20 12:54:22"
         }
     ],
     "dailyMovedStat": {
@@ -963,25 +963,25 @@
         "2025-12-22": "110991"
     },
     "topDestinationHosts": {
-        "Pressable": 11714,
+        "Pressable": 11716,
         "Kinsta": 7561,
         "SiteGround": 5686,
         "Digital Ocean": 5518,
         "Bluehost": 4336,
         "Hostinger": 4080,
-        "GoDaddy": 1493,
+        "GoDaddy": 1494,
         "Liquid Web": 763,
         "BigScoots": 700,
-        "WordPress.com": 564,
+        "WordPress.com": 565,
         "OVH": 495,
         "GridPane": 487,
-        "InMotion Hosting": 476,
+        "InMotion Hosting": 477,
         "Namecheap": 424,
         "A2 Hosting": 418,
         "IONOS": 416,
         "DreamHost": 394,
         "Elementor Hosting": 380,
-        "Hetzner Online": 326,
+        "Hetzner Online": 327,
         "HostGator": 252
     },
     "dailyTotalStat": {
