@@ -1,6 +1,21 @@
 {
-    "siteCount": 111013,
+    "siteCount": 111022,
     "recentlyMoved": [
+        {
+            "domain_name": "casinovator.com",
+            "destination": "Hostinger",
+            "date": "2025-12-23 09:07:21"
+        },
+        {
+            "domain_name": "laketerraceapts.com",
+            "destination": "Hostinger",
+            "date": "2025-12-23 09:06:53"
+        },
+        {
+            "domain_name": "spreknorge.no",
+            "destination": "Hetzner Online",
+            "date": "2025-12-23 08:56:28"
+        },
         {
             "domain_name": "www.eskomatic.fi",
             "destination": "Hetzner Online",
@@ -485,21 +500,6 @@
             "domain_name": "texasturnkeyranches.com",
             "destination": "Kinsta",
             "date": "2025-12-19 21:05:23"
-        },
-        {
-            "domain_name": "levelcsolutions.com",
-            "destination": "Liquid Web",
-            "date": "2025-12-19 20:56:41"
-        },
-        {
-            "domain_name": "jonesqualityremodeling.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-12-19 20:37:04"
-        },
-        {
-            "domain_name": "bloomfitwellness.com",
-            "destination": "Hostinger",
-            "date": "2025-12-19 20:30:49"
         }
     ],
     "dailyMovedStat": {
@@ -968,7 +968,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5513,
         "Bluehost": 4332,
-        "Hostinger": 4075,
+        "Hostinger": 4077,
         "GoDaddy": 1493,
         "Liquid Web": 760,
         "BigScoots": 700,
@@ -981,7 +981,7 @@
         "IONOS": 415,
         "DreamHost": 394,
         "Elementor Hosting": 380,
-        "Hetzner Online": 325,
+        "Hetzner Online": 326,
         "HostGator": 252
     },
     "dailyTotalStat": {
