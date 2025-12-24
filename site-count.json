@@ -1,6 +1,11 @@
 {
-    "siteCount": 111166,
+    "siteCount": 111173,
     "recentlyMoved": [
+        {
+            "domain_name": "www.armoryutah.com",
+            "destination": "Hostinger",
+            "date": "2025-12-24 03:26:56"
+        },
         {
             "domain_name": "athenspizzaatlanta.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "ilitravel.org",
             "destination": "BigScoots",
             "date": "2025-12-20 16:19:53"
-        },
-        {
-            "domain_name": "rivercityhardwoods.com",
-            "destination": "Namecheap",
-            "date": "2025-12-20 15:55:39"
         }
     ],
     "dailyMovedStat": {
@@ -969,7 +969,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5521,
         "Bluehost": 4336,
-        "Hostinger": 4083,
+        "Hostinger": 4084,
         "GoDaddy": 1494,
         "Liquid Web": 763,
         "BigScoots": 700,
