@@ -1,6 +1,26 @@
 {
-    "siteCount": 111242,
+    "siteCount": 111253,
     "recentlyMoved": [
+        {
+            "domain_name": "leichtusa.com",
+            "destination": "Bluehost",
+            "date": "2025-12-24 17:27:46"
+        },
+        {
+            "domain_name": "chelanministorage.com",
+            "destination": "Hostinger",
+            "date": "2025-12-24 17:21:48"
+        },
+        {
+            "domain_name": "stcroixlinen.com",
+            "destination": "Hostinger",
+            "date": "2025-12-24 17:21:12"
+        },
+        {
+            "domain_name": "corner-realty.com",
+            "destination": "Hostinger",
+            "date": "2025-12-24 17:06:52"
+        },
         {
             "domain_name": "bellevueannrealty.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "cryptonieuwsblad.nl",
             "destination": "Kinsta",
             "date": "2025-12-21 17:22:02"
-        },
-        {
-            "domain_name": "sampro.com",
-            "destination": "Hostinger",
-            "date": "2025-12-21 16:32:22"
-        },
-        {
-            "domain_name": "www.theorlando.co.uk",
-            "destination": "Hostinger",
-            "date": "2025-12-21 13:42:15"
-        },
-        {
-            "domain_name": "www.unionsling.com",
-            "destination": "Kinsta",
-            "date": "2025-12-21 13:13:17"
-        },
-        {
-            "domain_name": "newhorizonoilandgas.com",
-            "destination": "Hostinger",
-            "date": "2025-12-21 10:06:40"
         }
     ],
     "dailyMovedStat": {
@@ -965,11 +965,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11721,
-        "Kinsta": 7570,
+        "Kinsta": 7571,
         "SiteGround": 5686,
         "Digital Ocean": 5523,
-        "Bluehost": 4336,
-        "Hostinger": 4087,
+        "Bluehost": 4337,
+        "Hostinger": 4090,
         "GoDaddy": 1494,
         "Liquid Web": 763,
         "BigScoots": 700,
