@@ -1,6 +1,11 @@
 {
-    "siteCount": 111420,
+    "siteCount": 111422,
     "recentlyMoved": [
+        {
+            "domain_name": "natmcorp.com",
+            "destination": "Hostinger",
+            "date": "2025-12-25 21:41:11"
+        },
         {
             "domain_name": "legendshog.com",
             "destination": "Pressable",
@@ -480,11 +485,6 @@
             "domain_name": "soapandsudsrvwash.com",
             "destination": "Bluehost",
             "date": "2025-12-23 17:03:36"
-        },
-        {
-            "domain_name": "sippinlocal.org",
-            "destination": "Bluehost",
-            "date": "2025-12-23 16:58:42"
         },
         {
             "domain_name": "www.prokalia.se",
@@ -970,7 +970,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5526,
         "Bluehost": 4337,
-        "Hostinger": 4102,
+        "Hostinger": 4103,
         "GoDaddy": 1495,
         "Liquid Web": 764,
         "BigScoots": 700,
