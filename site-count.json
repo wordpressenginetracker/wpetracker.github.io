@@ -1,6 +1,11 @@
 {
-    "siteCount": 111324,
+    "siteCount": 111326,
     "recentlyMoved": [
+        {
+            "domain_name": "americanschooloffinance.com",
+            "destination": "Pressable",
+            "date": "2025-12-25 00:15:30"
+        },
         {
             "domain_name": "wakefielddogwalker.com",
             "destination": "Pressable",
@@ -487,11 +492,6 @@
             "date": "2025-12-22 06:19:12"
         },
         {
-            "domain_name": "morrettflyfishing.com",
-            "destination": "Kinsta",
-            "date": "2025-12-22 02:17:57"
-        },
-        {
             "domain_name": "vidzuno.com",
             "destination": "Bluehost",
             "date": "2025-12-22 01:47:49"
@@ -965,7 +965,7 @@
         "2025-12-24": "111324"
     },
     "topDestinationHosts": {
-        "Pressable": 11725,
+        "Pressable": 11726,
         "Kinsta": 7576,
         "SiteGround": 5686,
         "Digital Ocean": 5524,
