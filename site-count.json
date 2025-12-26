@@ -1,6 +1,11 @@
 {
-    "siteCount": 111462,
+    "siteCount": 111463,
     "recentlyMoved": [
+        {
+            "domain_name": "mannlaw.ca",
+            "destination": "Bluehost",
+            "date": "2025-12-26 21:17:47"
+        },
         {
             "domain_name": "www.roselleparknews.org",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.yourinspectorteam.com",
             "destination": "Kinsta",
             "date": "2025-12-23 17:29:23"
-        },
-        {
-            "domain_name": "www.prokalia.se",
-            "destination": "Kinsta",
-            "date": "2025-12-23 16:40:45"
         }
     ],
     "dailyMovedStat": {
@@ -970,7 +970,7 @@
         "Kinsta": 7576,
         "SiteGround": 5686,
         "Digital Ocean": 5526,
-        "Bluehost": 4338,
+        "Bluehost": 4339,
         "Hostinger": 4104,
         "GoDaddy": 1495,
         "Liquid Web": 764,
