@@ -1,6 +1,11 @@
 {
-    "siteCount": 111436,
+    "siteCount": 111438,
     "recentlyMoved": [
+        {
+            "domain_name": "www.roselleparknews.org",
+            "destination": "Bluehost",
+            "date": "2025-12-26 08:30:45"
+        },
         {
             "domain_name": "suebonzell.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.prokalia.se",
             "destination": "Kinsta",
             "date": "2025-12-23 16:40:45"
-        },
-        {
-            "domain_name": "somethingextra.org",
-            "destination": "Digital Ocean",
-            "date": "2025-12-23 16:35:08"
         }
     ],
     "dailyMovedStat": {
@@ -970,7 +970,7 @@
         "Kinsta": 7576,
         "SiteGround": 5686,
         "Digital Ocean": 5526,
-        "Bluehost": 4337,
+        "Bluehost": 4338,
         "Hostinger": 4104,
         "GoDaddy": 1495,
         "Liquid Web": 764,
