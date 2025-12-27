@@ -1,6 +1,21 @@
 {
-    "siteCount": 111488,
+    "siteCount": 111493,
     "recentlyMoved": [
+        {
+            "domain_name": "conciergemdorlando.com",
+            "destination": "Hostinger",
+            "date": "2025-12-27 13:32:15"
+        },
+        {
+            "domain_name": "sobersurroundings.com",
+            "destination": "Pressable",
+            "date": "2025-12-27 12:47:54"
+        },
+        {
+            "domain_name": "boccellipro.com",
+            "destination": "Pressable",
+            "date": "2025-12-27 12:13:44"
+        },
         {
             "domain_name": "market45.co",
             "destination": "Namecheap",
@@ -482,24 +497,9 @@
             "date": "2025-12-23 21:36:30"
         },
         {
-            "domain_name": "korjo.sensed.com.au",
-            "destination": "Kinsta",
-            "date": "2025-12-23 21:10:40"
-        },
-        {
             "domain_name": "mamafiyatarot.com",
             "destination": "Pressable",
             "date": "2025-12-23 21:06:23"
-        },
-        {
-            "domain_name": "jwathletics.com",
-            "destination": "OVH",
-            "date": "2025-12-23 20:44:35"
-        },
-        {
-            "domain_name": "handymanroger.net",
-            "destination": "Pressable",
-            "date": "2025-12-23 20:25:10"
         }
     ],
     "dailyMovedStat": {
@@ -967,12 +967,12 @@
         "2025-12-26": "111463"
     },
     "topDestinationHosts": {
-        "Pressable": 11753,
+        "Pressable": 11755,
         "Kinsta": 7576,
         "SiteGround": 5686,
         "Digital Ocean": 5526,
         "Bluehost": 4339,
-        "Hostinger": 4105,
+        "Hostinger": 4106,
         "GoDaddy": 1495,
         "Liquid Web": 764,
         "BigScoots": 700,
