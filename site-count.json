@@ -1,6 +1,11 @@
 {
-    "siteCount": 111533,
+    "siteCount": 111535,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dawsdental.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-27 23:46:13"
+        },
         {
             "domain_name": "willbrightfoundation.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "www.armoryutah.com",
             "destination": "Hostinger",
             "date": "2025-12-24 03:26:56"
-        },
-        {
-            "domain_name": "rockyourbody.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 00:06:10"
         }
     ],
     "dailyMovedStat": {
@@ -974,7 +974,7 @@
         "Digital Ocean": 5527,
         "Bluehost": 4340,
         "Hostinger": 4107,
-        "GoDaddy": 1495,
+        "GoDaddy": 1496,
         "Liquid Web": 764,
         "BigScoots": 700,
         "WordPress.com": 567,
