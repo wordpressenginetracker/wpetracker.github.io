@@ -1,6 +1,11 @@
 {
-    "siteCount": 111580,
+    "siteCount": 111586,
     "recentlyMoved": [
+        {
+            "domain_name": "5citiesmensclub.org",
+            "destination": "Pressable",
+            "date": "2025-12-28 15:21:24"
+        },
         {
             "domain_name": "netconnectionllc.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "dansdrainservices.com",
             "destination": "Kinsta",
             "date": "2025-12-24 13:22:26"
-        },
-        {
-            "domain_name": "spinsfactory.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 13:12:10"
         }
     ],
     "dailyMovedStat": {
@@ -968,7 +968,7 @@
         "2025-12-27": "111533"
     },
     "topDestinationHosts": {
-        "Pressable": 11762,
+        "Pressable": 11763,
         "Kinsta": 7580,
         "SiteGround": 5686,
         "Digital Ocean": 5527,
