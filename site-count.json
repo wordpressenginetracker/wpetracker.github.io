@@ -1,6 +1,16 @@
 {
-    "siteCount": 111535,
+    "siteCount": 111540,
     "recentlyMoved": [
+        {
+            "domain_name": "careacademy.com",
+            "destination": "Kinsta",
+            "date": "2025-12-28 01:13:59"
+        },
+        {
+            "domain_name": "www.jmpbranding.com",
+            "destination": "Pressable",
+            "date": "2025-12-28 00:43:49"
+        },
         {
             "domain_name": "www.dawsdental.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "bestbettingsitesaustralia.com.au",
             "destination": "Kinsta",
             "date": "2025-12-24 08:05:10"
-        },
-        {
-            "domain_name": "hypddigital.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 04:39:16"
-        },
-        {
-            "domain_name": "www.armoryutah.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 03:26:56"
         }
     ],
     "dailyMovedStat": {
@@ -968,8 +968,8 @@
         "2025-12-27": "111533"
     },
     "topDestinationHosts": {
-        "Pressable": 11758,
-        "Kinsta": 7579,
+        "Pressable": 11759,
+        "Kinsta": 7580,
         "SiteGround": 5686,
         "Digital Ocean": 5527,
         "Bluehost": 4340,
