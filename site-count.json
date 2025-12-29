@@ -1,6 +1,26 @@
 {
-    "siteCount": 111615,
+    "siteCount": 111621,
     "recentlyMoved": [
+        {
+            "domain_name": "www.callrevival.com",
+            "destination": "Kinsta",
+            "date": "2025-12-28 23:49:55"
+        },
+        {
+            "domain_name": "funnyfarmcoffee.com",
+            "destination": "IONOS",
+            "date": "2025-12-28 23:49:35"
+        },
+        {
+            "domain_name": "alderwoodbackneckpainclinic.com",
+            "destination": "Kinsta",
+            "date": "2025-12-28 23:33:55"
+        },
+        {
+            "domain_name": "www.justracing.com.au",
+            "destination": "Kinsta",
+            "date": "2025-12-28 23:16:46"
+        },
         {
             "domain_name": "voiceimagingstudio.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2025-12-24 16:12:09"
         },
         {
-            "domain_name": "pipelinesinc.net",
-            "destination": "Pressable",
-            "date": "2025-12-24 15:45:42"
-        },
-        {
-            "domain_name": "www.automaticdoorspecialists.com",
-            "destination": "A2 Hosting",
-            "date": "2025-12-24 15:41:33"
-        },
-        {
             "domain_name": "aquasystempoolsllc.com",
             "destination": "InMotion Hosting",
             "date": "2025-12-24 15:37:28"
-        },
-        {
-            "domain_name": "garagegard.com",
-            "destination": "Pressable",
-            "date": "2025-12-24 15:35:12"
-        },
-        {
-            "domain_name": "firstcoastrelieffund.org",
-            "destination": "GridPane",
-            "date": "2025-12-24 15:34:09"
         }
     ],
     "dailyMovedStat": {
@@ -970,7 +970,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11764,
-        "Kinsta": 7580,
+        "Kinsta": 7583,
         "SiteGround": 5686,
         "Digital Ocean": 5527,
         "Bluehost": 4342,
@@ -984,7 +984,7 @@
         "InMotion Hosting": 479,
         "Namecheap": 426,
         "A2 Hosting": 419,
-        "IONOS": 416,
+        "IONOS": 417,
         "DreamHost": 394,
         "Elementor Hosting": 385,
         "Hetzner Online": 328,
