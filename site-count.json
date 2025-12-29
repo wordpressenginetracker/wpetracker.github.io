@@ -1,6 +1,11 @@
 {
-    "siteCount": 111639,
+    "siteCount": 111641,
     "recentlyMoved": [
+        {
+            "domain_name": "denvermonthly.com",
+            "destination": "Hostinger",
+            "date": "2025-12-29 13:35:06"
+        },
         {
             "domain_name": "pfc.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.justhorseracing.com.au",
             "destination": "Kinsta",
             "date": "2025-12-24 20:00:12"
-        },
-        {
-            "domain_name": "alexandcompany.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 19:42:16"
         }
     ],
     "dailyMovedStat": {
@@ -974,7 +974,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5528,
         "Bluehost": 4342,
-        "Hostinger": 4114,
+        "Hostinger": 4115,
         "GoDaddy": 1496,
         "Liquid Web": 764,
         "BigScoots": 701,
