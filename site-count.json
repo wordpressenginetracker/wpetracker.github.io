@@ -1,6 +1,11 @@
 {
-    "siteCount": 111637,
+    "siteCount": 111638,
     "recentlyMoved": [
+        {
+            "domain_name": "pfc.ca",
+            "destination": "Kinsta",
+            "date": "2025-12-29 12:10:35"
+        },
         {
             "domain_name": "mahoganyscholars.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "alexandcompany.com",
             "destination": "Hostinger",
             "date": "2025-12-24 19:42:16"
-        },
-        {
-            "domain_name": "fdnsc.net",
-            "destination": "GridPane",
-            "date": "2025-12-24 18:16:41"
         }
     ],
     "dailyMovedStat": {
@@ -970,7 +970,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11764,
-        "Kinsta": 7584,
+        "Kinsta": 7585,
         "SiteGround": 5686,
         "Digital Ocean": 5528,
         "Bluehost": 4342,
