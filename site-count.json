@@ -1,6 +1,11 @@
 {
-    "siteCount": 111632,
+    "siteCount": 111634,
     "recentlyMoved": [
+        {
+            "domain_name": "safaroto.com",
+            "destination": "Hostinger",
+            "date": "2025-12-29 04:08:48"
+        },
         {
             "domain_name": "msrachelhollis.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "demo.ministoragesites.com",
             "destination": "Hostinger",
             "date": "2025-12-24 17:53:21"
-        },
-        {
-            "domain_name": "corner-realty.com",
-            "destination": "Hostinger",
-            "date": "2025-12-24 17:06:52"
         }
     ],
     "dailyMovedStat": {
@@ -974,7 +974,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5528,
         "Bluehost": 4342,
-        "Hostinger": 4112,
+        "Hostinger": 4113,
         "GoDaddy": 1496,
         "Liquid Web": 764,
         "BigScoots": 701,
