@@ -1,6 +1,21 @@
 {
-    "siteCount": 111681,
+    "siteCount": 111686,
     "recentlyMoved": [
+        {
+            "domain_name": "suebonzellrealestate.com",
+            "destination": "Hostinger",
+            "date": "2025-12-30 01:26:28"
+        },
+        {
+            "domain_name": "bonzellmedia.com",
+            "destination": "Hostinger",
+            "date": "2025-12-30 00:33:57"
+        },
+        {
+            "domain_name": "ritewayac.com",
+            "destination": "Kinsta",
+            "date": "2025-12-29 23:58:48"
+        },
         {
             "domain_name": "springhillbaptist.church",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "mendez-masonry.com",
             "destination": "Pressable",
             "date": "2025-12-24 21:08:44"
-        },
-        {
-            "domain_name": "complan.net.au",
-            "destination": "Kinsta",
-            "date": "2025-12-24 21:03:02"
-        },
-        {
-            "domain_name": "www.sauttercigars.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-24 20:41:02"
-        },
-        {
-            "domain_name": "cfcelectric.com",
-            "destination": "Pressable",
-            "date": "2025-12-24 20:38:47"
         }
     ],
     "dailyMovedStat": {
@@ -971,11 +971,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11765,
-        "Kinsta": 7585,
+        "Kinsta": 7586,
         "SiteGround": 5686,
         "Digital Ocean": 5530,
         "Bluehost": 4342,
-        "Hostinger": 4115,
+        "Hostinger": 4116,
         "GoDaddy": 1497,
         "Liquid Web": 764,
         "BigScoots": 701,
