@@ -1,6 +1,11 @@
 {
-    "siteCount": 111861,
+    "siteCount": 111865,
     "recentlyMoved": [
+        {
+            "domain_name": "neeyv.com",
+            "destination": "Pressable",
+            "date": "2025-12-31 10:32:49"
+        },
         {
             "domain_name": "crestwoodvineyard.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "boccellipro.com",
             "destination": "Pressable",
             "date": "2025-12-27 12:13:44"
-        },
-        {
-            "domain_name": "market45.co",
-            "destination": "Namecheap",
-            "date": "2025-12-27 09:19:45"
         }
     ],
     "dailyMovedStat": {
@@ -971,12 +971,12 @@
         "2025-12-30": "111826"
     },
     "topDestinationHosts": {
-        "Pressable": 11775,
+        "Pressable": 11776,
         "Kinsta": 7589,
         "SiteGround": 5686,
         "Digital Ocean": 5539,
         "Bluehost": 4347,
-        "Hostinger": 4125,
+        "Hostinger": 4126,
         "GoDaddy": 1499,
         "Liquid Web": 765,
         "BigScoots": 702,
