@@ -1,6 +1,11 @@
 {
-    "siteCount": 111991,
+    "siteCount": 111998,
     "recentlyMoved": [
+        {
+            "domain_name": "washingtonstemeducation.org",
+            "destination": "Hostinger",
+            "date": "2025-12-31 22:19:21"
+        },
         {
             "domain_name": "sunwestresidential.com",
             "destination": "WordPress.com",
@@ -10,6 +15,11 @@
             "domain_name": "laviproject.org",
             "destination": "Pressable",
             "date": "2025-12-31 21:34:12"
+        },
+        {
+            "domain_name": "daycoheating.com",
+            "destination": "Hostinger",
+            "date": "2025-12-31 21:09:19"
         },
         {
             "domain_name": "www.hctafcu.org",
@@ -490,16 +500,6 @@
             "domain_name": "mahoganyscholars.ca",
             "destination": "Hostinger",
             "date": "2025-12-29 05:18:30"
-        },
-        {
-            "domain_name": "safaroto.com",
-            "destination": "Hostinger",
-            "date": "2025-12-29 04:08:48"
-        },
-        {
-            "domain_name": "msrachelhollis.com",
-            "destination": "BigScoots",
-            "date": "2025-12-29 02:15:01"
         }
     ],
     "dailyMovedStat": {
@@ -976,11 +976,11 @@
         "SiteGround": 5686,
         "Digital Ocean": 5545,
         "Bluehost": 4347,
-        "Hostinger": 4134,
+        "Hostinger": 4135,
         "GoDaddy": 1501,
         "Liquid Web": 765,
         "BigScoots": 702,
-        "WordPress.com": 570,
+        "WordPress.com": 571,
         "GridPane": 499,
         "OVH": 497,
         "InMotion Hosting": 481,
