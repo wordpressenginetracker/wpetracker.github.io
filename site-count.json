@@ -1,6 +1,11 @@
 {
-    "siteCount": 111852,
+    "siteCount": 111854,
     "recentlyMoved": [
+        {
+            "domain_name": "smp.scalpinkct.com",
+            "destination": "Hostinger",
+            "date": "2025-12-31 05:07:42"
+        },
         {
             "domain_name": "www.weempowher.org",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "holistichealthwakefield.com",
             "destination": "Pressable",
             "date": "2025-12-27 00:30:37"
-        },
-        {
-            "domain_name": "polyfab.com",
-            "destination": "Pressable",
-            "date": "2025-12-26 23:59:43"
         }
     ],
     "dailyMovedStat": {
@@ -976,7 +976,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5539,
         "Bluehost": 4347,
-        "Hostinger": 4124,
+        "Hostinger": 4125,
         "GoDaddy": 1499,
         "Liquid Web": 765,
         "BigScoots": 701,
