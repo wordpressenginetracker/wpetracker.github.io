@@ -1,6 +1,11 @@
 {
-    "siteCount": 111854,
+    "siteCount": 111857,
     "recentlyMoved": [
+        {
+            "domain_name": "manuscriptacademy.com",
+            "destination": "Kinsta",
+            "date": "2025-12-31 05:59:15"
+        },
         {
             "domain_name": "smp.scalpinkct.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "duffyforcouncil.com",
             "destination": "Hostinger",
             "date": "2025-12-27 01:28:06"
-        },
-        {
-            "domain_name": "holistichealthwakefield.com",
-            "destination": "Pressable",
-            "date": "2025-12-27 00:30:37"
         }
     ],
     "dailyMovedStat": {
@@ -972,7 +972,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11775,
-        "Kinsta": 7588,
+        "Kinsta": 7589,
         "SiteGround": 5686,
         "Digital Ocean": 5539,
         "Bluehost": 4347,
