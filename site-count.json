@@ -1,6 +1,46 @@
 {
-    "siteCount": 111946,
+    "siteCount": 111985,
     "recentlyMoved": [
+        {
+            "domain_name": "holmandcawley.com",
+            "destination": "HostGator",
+            "date": "2025-12-31 20:40:39"
+        },
+        {
+            "domain_name": "bckazlaw.com",
+            "destination": "Kinsta",
+            "date": "2025-12-31 20:36:12"
+        },
+        {
+            "domain_name": "hartforddespatch.com",
+            "destination": "Kinsta",
+            "date": "2025-12-31 20:06:55"
+        },
+        {
+            "domain_name": "gordonsheating.com",
+            "destination": "Hostinger",
+            "date": "2025-12-31 19:48:21"
+        },
+        {
+            "domain_name": "rammik.com",
+            "destination": "GoDaddy",
+            "date": "2025-12-31 19:44:24"
+        },
+        {
+            "domain_name": "agelessgrace.com",
+            "destination": "GridPane",
+            "date": "2025-12-31 19:36:33"
+        },
+        {
+            "domain_name": "pchelle.com",
+            "destination": "Hostinger",
+            "date": "2025-12-31 19:22:03"
+        },
+        {
+            "domain_name": "peterlbrown.com",
+            "destination": "Kinsta",
+            "date": "2025-12-31 19:21:31"
+        },
         {
             "domain_name": "mulchcolorjet.com",
             "destination": "Pressable",
@@ -452,11 +492,6 @@
             "date": "2025-12-29 01:49:12"
         },
         {
-            "domain_name": "shoreline-dentistry.com",
-            "destination": "Kinsta",
-            "date": "2025-12-29 00:48:32"
-        },
-        {
             "domain_name": "www.mthopeelevator.com",
             "destination": "GridPane",
             "date": "2025-12-29 00:21:19"
@@ -465,41 +500,6 @@
             "domain_name": "signspotva.com",
             "destination": "Digital Ocean",
             "date": "2025-12-29 00:19:25"
-        },
-        {
-            "domain_name": "www.callrevival.com",
-            "destination": "Kinsta",
-            "date": "2025-12-28 23:49:55"
-        },
-        {
-            "domain_name": "funnyfarmcoffee.com",
-            "destination": "IONOS",
-            "date": "2025-12-28 23:49:35"
-        },
-        {
-            "domain_name": "alderwoodbackneckpainclinic.com",
-            "destination": "Kinsta",
-            "date": "2025-12-28 23:33:55"
-        },
-        {
-            "domain_name": "www.justracing.com.au",
-            "destination": "Kinsta",
-            "date": "2025-12-28 23:16:46"
-        },
-        {
-            "domain_name": "voiceimagingstudio.com",
-            "destination": "Hostinger",
-            "date": "2025-12-28 22:25:22"
-        },
-        {
-            "domain_name": "thelifebalanceacademy.org",
-            "destination": "Hostinger",
-            "date": "2025-12-28 21:06:59"
-        },
-        {
-            "domain_name": "lncigc.org",
-            "destination": "Bluehost",
-            "date": "2025-12-28 20:57:29"
         }
     ],
     "dailyMovedStat": {
@@ -972,23 +972,23 @@
     },
     "topDestinationHosts": {
         "Pressable": 11786,
-        "Kinsta": 7590,
+        "Kinsta": 7592,
         "SiteGround": 5686,
-        "Digital Ocean": 5543,
+        "Digital Ocean": 5544,
         "Bluehost": 4347,
-        "Hostinger": 4131,
-        "GoDaddy": 1500,
+        "Hostinger": 4134,
+        "GoDaddy": 1501,
         "Liquid Web": 765,
         "BigScoots": 702,
         "WordPress.com": 570,
-        "GridPane": 498,
+        "GridPane": 499,
         "OVH": 497,
         "InMotion Hosting": 481,
         "Namecheap": 431,
         "A2 Hosting": 421,
         "IONOS": 419,
         "DreamHost": 397,
-        "Elementor Hosting": 385,
+        "Elementor Hosting": 386,
         "Hetzner Online": 328,
         "HostGator": 254
     },
