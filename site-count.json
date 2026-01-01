@@ -1,6 +1,11 @@
 {
-    "siteCount": 111998,
+    "siteCount": 112005,
     "recentlyMoved": [
+        {
+            "domain_name": "aryaroofing.com",
+            "destination": "Pressable",
+            "date": "2025-12-31 23:51:53"
+        },
         {
             "domain_name": "washingtonstemeducation.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "pfc.ca",
             "destination": "Kinsta",
             "date": "2025-12-29 12:10:35"
-        },
-        {
-            "domain_name": "mahoganyscholars.ca",
-            "destination": "Hostinger",
-            "date": "2025-12-29 05:18:30"
         }
     ],
     "dailyMovedStat": {
@@ -972,7 +972,7 @@
         "2025-12-31": "111998"
     },
     "topDestinationHosts": {
-        "Pressable": 11787,
+        "Pressable": 11788,
         "Kinsta": 7593,
         "SiteGround": 5686,
         "Digital Ocean": 5545,
