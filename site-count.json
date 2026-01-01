@@ -1,6 +1,11 @@
 {
-    "siteCount": 112102,
+    "siteCount": 112104,
     "recentlyMoved": [
+        {
+            "domain_name": "diversityawards.ca",
+            "destination": "Kinsta",
+            "date": "2026-01-01 21:53:28"
+        },
         {
             "domain_name": "tarpestry.com",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "cmpas.org",
             "destination": "Bluehost",
             "date": "2025-12-30 12:43:43"
-        },
-        {
-            "domain_name": "butchersarms-essex.co.uk",
-            "destination": "Pressable",
-            "date": "2025-12-30 12:33:01"
         }
     ],
     "dailyMovedStat": {
@@ -973,7 +973,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11789,
-        "Kinsta": 7595,
+        "Kinsta": 7596,
         "SiteGround": 5687,
         "Digital Ocean": 5547,
         "Bluehost": 4347,
