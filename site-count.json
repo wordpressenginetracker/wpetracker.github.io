@@ -1,6 +1,11 @@
 {
-    "siteCount": 112005,
+    "siteCount": 112009,
     "recentlyMoved": [
+        {
+            "domain_name": "clergylifecoaching.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-01-01 01:28:02"
+        },
         {
             "domain_name": "aryaroofing.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "denvermonthly.com",
             "destination": "Hostinger",
             "date": "2025-12-29 13:35:06"
-        },
-        {
-            "domain_name": "pfc.ca",
-            "destination": "Kinsta",
-            "date": "2025-12-29 12:10:35"
         }
     ],
     "dailyMovedStat": {
@@ -989,7 +989,7 @@
         "A2 Hosting": 421,
         "IONOS": 419,
         "DreamHost": 397,
-        "Elementor Hosting": 386,
+        "Elementor Hosting": 387,
         "Hetzner Online": 328,
         "HostGator": 255
     },
