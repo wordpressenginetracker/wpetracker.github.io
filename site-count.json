@@ -1,6 +1,11 @@
 {
-    "siteCount": 112014,
+    "siteCount": 112016,
     "recentlyMoved": [
+        {
+            "domain_name": "squimbles.com.au",
+            "destination": "Hostinger",
+            "date": "2026-01-01 05:11:51"
+        },
         {
             "domain_name": "clergylifecoaching.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "chgseniorliving.com",
             "destination": "DreamHost",
             "date": "2025-12-29 16:36:27"
-        },
-        {
-            "domain_name": "denvermonthly.com",
-            "destination": "Hostinger",
-            "date": "2025-12-29 13:35:06"
         }
     ],
     "dailyMovedStat": {
@@ -977,7 +977,7 @@
         "SiteGround": 5686,
         "Digital Ocean": 5545,
         "Bluehost": 4347,
-        "Hostinger": 4136,
+        "Hostinger": 4137,
         "GoDaddy": 1501,
         "Liquid Web": 765,
         "BigScoots": 702,
