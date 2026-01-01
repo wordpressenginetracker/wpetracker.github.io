@@ -1,6 +1,11 @@
 {
-    "siteCount": 112028,
+    "siteCount": 112035,
     "recentlyMoved": [
+        {
+            "domain_name": "www.demers-ambulances.com",
+            "destination": "SiteGround",
+            "date": "2026-01-01 12:18:02"
+        },
         {
             "domain_name": "lisettelubbers.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "makenamassage.com",
             "destination": "GoDaddy",
             "date": "2025-12-30 01:16:30"
-        },
-        {
-            "domain_name": "bonzellmedia.com",
-            "destination": "Hostinger",
-            "date": "2025-12-30 00:33:57"
         }
     ],
     "dailyMovedStat": {
@@ -974,7 +974,7 @@
     "topDestinationHosts": {
         "Pressable": 11788,
         "Kinsta": 7594,
-        "SiteGround": 5686,
+        "SiteGround": 5687,
         "Digital Ocean": 5546,
         "Bluehost": 4347,
         "Hostinger": 4139,
