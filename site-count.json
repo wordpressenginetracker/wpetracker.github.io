@@ -1,10 +1,15 @@
 {
-    "siteCount": 112025,
+    "siteCount": 112028,
     "recentlyMoved": [
         {
             "domain_name": "lisettelubbers.com",
             "destination": "Hetzner Online",
             "date": "2026-01-01 09:39:08"
+        },
+        {
+            "domain_name": "n2ws.com",
+            "destination": "Kinsta",
+            "date": "2026-01-01 09:32:06"
         },
         {
             "domain_name": "madeonline.com",
@@ -495,11 +500,6 @@
             "domain_name": "bonzellmedia.com",
             "destination": "Hostinger",
             "date": "2025-12-30 00:33:57"
-        },
-        {
-            "domain_name": "ritewayac.com",
-            "destination": "Kinsta",
-            "date": "2025-12-29 23:58:48"
         }
     ],
     "dailyMovedStat": {
@@ -973,11 +973,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11788,
-        "Kinsta": 7593,
+        "Kinsta": 7594,
         "SiteGround": 5686,
         "Digital Ocean": 5546,
         "Bluehost": 4347,
-        "Hostinger": 4138,
+        "Hostinger": 4139,
         "GoDaddy": 1501,
         "Liquid Web": 765,
         "BigScoots": 702,
