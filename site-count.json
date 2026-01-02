@@ -1,6 +1,11 @@
 {
-    "siteCount": 112141,
+    "siteCount": 112144,
     "recentlyMoved": [
+        {
+            "domain_name": "makingyousmile.nyc",
+            "destination": "Pressable",
+            "date": "2026-01-02 17:19:16"
+        },
         {
             "domain_name": "macecurran.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "northeasthorticultural.com",
             "destination": "A2 Hosting",
             "date": "2025-12-30 13:58:45"
-        },
-        {
-            "domain_name": "mwbjc.com",
-            "destination": "InMotion Hosting",
-            "date": "2025-12-30 13:46:05"
         }
     ],
     "dailyMovedStat": {
@@ -973,7 +973,7 @@
         "2026-01-01": "112104"
     },
     "topDestinationHosts": {
-        "Pressable": 11789,
+        "Pressable": 11790,
         "Kinsta": 7596,
         "SiteGround": 5687,
         "Digital Ocean": 5548,
