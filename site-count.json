@@ -1,6 +1,11 @@
 {
-    "siteCount": 112168,
+    "siteCount": 112171,
     "recentlyMoved": [
+        {
+            "domain_name": "mysickbuilds.com",
+            "destination": "Hostinger",
+            "date": "2026-01-02 22:08:43"
+        },
         {
             "domain_name": "canibanaturals.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.ashevilleart.org",
             "destination": "GridPane",
             "date": "2025-12-30 15:27:50"
-        },
-        {
-            "domain_name": "airvolblock.com",
-            "destination": "Pressable",
-            "date": "2025-12-30 15:25:34"
         }
     ],
     "dailyMovedStat": {
@@ -978,7 +978,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5551,
         "Bluehost": 4347,
-        "Hostinger": 4141,
+        "Hostinger": 4142,
         "GoDaddy": 1502,
         "Liquid Web": 766,
         "BigScoots": 702,
