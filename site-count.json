@@ -1,6 +1,11 @@
 {
-    "siteCount": 112233,
+    "siteCount": 112237,
     "recentlyMoved": [
+        {
+            "domain_name": "nutechus.com",
+            "destination": "Liquid Web",
+            "date": "2026-01-03 18:36:59"
+        },
         {
             "domain_name": "ssgmedinfo.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "parkcreststorage.com",
             "destination": "Pressable",
             "date": "2025-12-30 23:14:59"
-        },
-        {
-            "domain_name": "vbsurgicalarts.com",
-            "destination": "Hostinger",
-            "date": "2025-12-30 21:39:44"
         }
     ],
     "dailyMovedStat": {
@@ -981,7 +981,7 @@
         "Bluehost": 4350,
         "Hostinger": 4144,
         "GoDaddy": 1503,
-        "Liquid Web": 766,
+        "Liquid Web": 767,
         "BigScoots": 702,
         "WordPress.com": 572,
         "GridPane": 503,
