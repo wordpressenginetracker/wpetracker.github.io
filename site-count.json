@@ -1,6 +1,11 @@
 {
-    "siteCount": 112194,
+    "siteCount": 112196,
     "recentlyMoved": [
+        {
+            "domain_name": "www.promptdesign.art",
+            "destination": "Namecheap",
+            "date": "2026-01-03 09:15:18"
+        },
         {
             "domain_name": "quiz.somabreath.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.icalamedical.com",
             "destination": "Kinsta",
             "date": "2025-12-30 16:36:32"
-        },
-        {
-            "domain_name": "arenarei.com",
-            "destination": "Hostinger",
-            "date": "2025-12-30 15:59:48"
         }
     ],
     "dailyMovedStat": {
@@ -987,7 +987,7 @@
         "GridPane": 503,
         "OVH": 501,
         "InMotion Hosting": 482,
-        "Namecheap": 431,
+        "Namecheap": 432,
         "A2 Hosting": 421,
         "IONOS": 419,
         "DreamHost": 397,
