@@ -1,6 +1,16 @@
 {
-    "siteCount": 112188,
+    "siteCount": 112194,
     "recentlyMoved": [
+        {
+            "domain_name": "quiz.somabreath.com",
+            "destination": "Kinsta",
+            "date": "2026-01-03 08:35:21"
+        },
+        {
+            "domain_name": "reachfitnessohio.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-03 08:32:46"
+        },
         {
             "domain_name": "shred2u.com.au",
             "destination": "Digital Ocean",
@@ -487,19 +497,9 @@
             "date": "2025-12-30 16:36:32"
         },
         {
-            "domain_name": "www.tradeschoolgrants.com",
-            "destination": "Bluehost",
-            "date": "2025-12-30 16:16:21"
-        },
-        {
             "domain_name": "arenarei.com",
             "destination": "Hostinger",
             "date": "2025-12-30 15:59:48"
-        },
-        {
-            "domain_name": "www.uncommoncaribbean.com",
-            "destination": "Digital Ocean",
-            "date": "2025-12-30 15:35:26"
         }
     ],
     "dailyMovedStat": {
@@ -975,9 +975,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11790,
-        "Kinsta": 7597,
+        "Kinsta": 7598,
         "SiteGround": 5687,
-        "Digital Ocean": 5552,
+        "Digital Ocean": 5553,
         "Bluehost": 4347,
         "Hostinger": 4142,
         "GoDaddy": 1502,
