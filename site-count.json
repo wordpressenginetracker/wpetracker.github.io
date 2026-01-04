@@ -1,6 +1,11 @@
 {
-    "siteCount": 112293,
+    "siteCount": 112295,
     "recentlyMoved": [
+        {
+            "domain_name": "souldeepjourney.com",
+            "destination": "Hostinger",
+            "date": "2026-01-04 08:29:25"
+        },
         {
             "domain_name": "vectortechgroup.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "smp.scalpinkct.com",
             "destination": "Hostinger",
             "date": "2025-12-31 05:07:42"
-        },
-        {
-            "domain_name": "www.weempowher.org",
-            "destination": "Namecheap",
-            "date": "2025-12-31 01:55:50"
         }
     ],
     "dailyMovedStat": {
@@ -980,7 +980,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5556,
         "Bluehost": 4351,
-        "Hostinger": 4145,
+        "Hostinger": 4146,
         "GoDaddy": 1503,
         "Liquid Web": 767,
         "BigScoots": 702,
