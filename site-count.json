@@ -1,6 +1,11 @@
 {
-    "siteCount": 112368,
+    "siteCount": 112373,
     "recentlyMoved": [
+        {
+            "domain_name": "www.justbetting.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-04 23:44:57"
+        },
         {
             "domain_name": "wbtravelpros.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "vivaldiafrica.com",
             "destination": "Pressable",
             "date": "2025-12-31 13:45:42"
-        },
-        {
-            "domain_name": "vfacts.com",
-            "destination": "Pressable",
-            "date": "2025-12-31 13:43:18"
         }
     ],
     "dailyMovedStat": {
@@ -977,7 +977,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11795,
-        "Kinsta": 7599,
+        "Kinsta": 7600,
         "SiteGround": 5687,
         "Digital Ocean": 5556,
         "Bluehost": 4353,
