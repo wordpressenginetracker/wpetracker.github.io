@@ -1,6 +1,11 @@
 {
-    "siteCount": 112452,
+    "siteCount": 112462,
     "recentlyMoved": [
+        {
+            "domain_name": "stollarchitecture.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-05 21:22:21"
+        },
         {
             "domain_name": "arisbenefitgroup.com",
             "destination": "InMotion Hosting",
@@ -492,11 +497,6 @@
             "date": "2025-12-31 19:44:24"
         },
         {
-            "domain_name": "pchelle.com",
-            "destination": "Hostinger",
-            "date": "2025-12-31 19:22:03"
-        },
-        {
             "domain_name": "peterlbrown.com",
             "destination": "Kinsta",
             "date": "2025-12-31 19:21:31"
@@ -977,7 +977,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11795,
-        "Kinsta": 7602,
+        "Kinsta": 7603,
         "SiteGround": 5687,
         "Digital Ocean": 5565,
         "Bluehost": 4354,
