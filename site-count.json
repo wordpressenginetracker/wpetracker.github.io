@@ -1,6 +1,21 @@
 {
-    "siteCount": 112511,
+    "siteCount": 112520,
     "recentlyMoved": [
+        {
+            "domain_name": "cityparksalliance.org",
+            "destination": "Kinsta",
+            "date": "2026-01-06 13:32:33"
+        },
+        {
+            "domain_name": "lawlessforge.com",
+            "destination": "Pressable",
+            "date": "2026-01-06 12:37:53"
+        },
+        {
+            "domain_name": "www.jtape.com",
+            "destination": "Hostinger",
+            "date": "2026-01-06 12:28:12"
+        },
         {
             "domain_name": "www.commercialemployees.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "washingtonstemeducation.org",
             "destination": "Hostinger",
             "date": "2025-12-31 22:19:21"
-        },
-        {
-            "domain_name": "sunwestresidential.com",
-            "destination": "WordPress.com",
-            "date": "2025-12-31 21:42:48"
-        },
-        {
-            "domain_name": "laviproject.org",
-            "destination": "Pressable",
-            "date": "2025-12-31 21:34:12"
-        },
-        {
-            "domain_name": "daycoheating.com",
-            "destination": "Hostinger",
-            "date": "2025-12-31 21:09:19"
         }
     ],
     "dailyMovedStat": {
@@ -977,12 +977,12 @@
         "2026-01-05": "112464"
     },
     "topDestinationHosts": {
-        "Pressable": 11797,
-        "Kinsta": 7603,
+        "Pressable": 11798,
+        "Kinsta": 7604,
         "SiteGround": 5687,
         "Digital Ocean": 5565,
         "Bluehost": 4354,
-        "Hostinger": 4161,
+        "Hostinger": 4162,
         "GoDaddy": 1505,
         "Liquid Web": 768,
         "BigScoots": 703,
