@@ -1,6 +1,11 @@
 {
-    "siteCount": 112520,
+    "siteCount": 112533,
     "recentlyMoved": [
+        {
+            "domain_name": "eduvate.biz",
+            "destination": "IONOS",
+            "date": "2026-01-06 13:47:12"
+        },
         {
             "domain_name": "cityparksalliance.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "aryaroofing.com",
             "destination": "Pressable",
             "date": "2025-12-31 23:51:53"
-        },
-        {
-            "domain_name": "washingtonstemeducation.org",
-            "destination": "Hostinger",
-            "date": "2025-12-31 22:19:21"
         }
     ],
     "dailyMovedStat": {
@@ -992,7 +992,7 @@
         "InMotion Hosting": 484,
         "Namecheap": 434,
         "A2 Hosting": 421,
-        "IONOS": 419,
+        "IONOS": 420,
         "DreamHost": 399,
         "Elementor Hosting": 388,
         "Hetzner Online": 330,
