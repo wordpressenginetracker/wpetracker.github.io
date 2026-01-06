@@ -1,6 +1,11 @@
 {
-    "siteCount": 112469,
+    "siteCount": 112473,
     "recentlyMoved": [
+        {
+            "domain_name": "bmp.thehumanjib.com",
+            "destination": "DreamHost",
+            "date": "2026-01-06 00:42:31"
+        },
         {
             "domain_name": "writerjaw.com",
             "destination": "Liquid Web",
@@ -490,11 +495,6 @@
             "domain_name": "hartforddespatch.com",
             "destination": "Kinsta",
             "date": "2025-12-31 20:06:55"
-        },
-        {
-            "domain_name": "gordonsheating.com",
-            "destination": "Hostinger",
-            "date": "2025-12-31 19:48:21"
         },
         {
             "domain_name": "rammik.com",
@@ -993,7 +993,7 @@
         "Namecheap": 434,
         "A2 Hosting": 421,
         "IONOS": 419,
-        "DreamHost": 398,
+        "DreamHost": 399,
         "Elementor Hosting": 388,
         "Hetzner Online": 329,
         "HostGator": 255
