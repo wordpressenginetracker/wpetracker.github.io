@@ -1,6 +1,16 @@
 {
-    "siteCount": 112477,
+    "siteCount": 112482,
     "recentlyMoved": [
+        {
+            "domain_name": "learning.cawnetworkusa.com",
+            "destination": "Pressable",
+            "date": "2026-01-06 05:36:47"
+        },
+        {
+            "domain_name": "content.hrone.cloud",
+            "destination": "Hostinger",
+            "date": "2026-01-06 05:32:14"
+        },
         {
             "domain_name": "bmp.thehumanjib.com",
             "destination": "DreamHost",
@@ -490,16 +500,6 @@
             "domain_name": "bckazlaw.com",
             "destination": "Kinsta",
             "date": "2025-12-31 20:36:12"
-        },
-        {
-            "domain_name": "hartforddespatch.com",
-            "destination": "Kinsta",
-            "date": "2025-12-31 20:06:55"
-        },
-        {
-            "domain_name": "rammik.com",
-            "destination": "GoDaddy",
-            "date": "2025-12-31 19:44:24"
         }
     ],
     "dailyMovedStat": {
@@ -977,12 +977,12 @@
         "2026-01-05": "112464"
     },
     "topDestinationHosts": {
-        "Pressable": 11795,
+        "Pressable": 11796,
         "Kinsta": 7603,
         "SiteGround": 5687,
         "Digital Ocean": 5565,
         "Bluehost": 4354,
-        "Hostinger": 4159,
+        "Hostinger": 4160,
         "GoDaddy": 1505,
         "Liquid Web": 768,
         "BigScoots": 703,
