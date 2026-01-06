@@ -1,6 +1,11 @@
 {
-    "siteCount": 112464,
+    "siteCount": 112469,
     "recentlyMoved": [
+        {
+            "domain_name": "writerjaw.com",
+            "destination": "Liquid Web",
+            "date": "2026-01-05 23:26:11"
+        },
         {
             "domain_name": "stollarchitecture.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "rammik.com",
             "destination": "GoDaddy",
             "date": "2025-12-31 19:44:24"
-        },
-        {
-            "domain_name": "peterlbrown.com",
-            "destination": "Kinsta",
-            "date": "2025-12-31 19:21:31"
         }
     ],
     "dailyMovedStat": {
@@ -984,7 +984,7 @@
         "Bluehost": 4354,
         "Hostinger": 4159,
         "GoDaddy": 1505,
-        "Liquid Web": 767,
+        "Liquid Web": 768,
         "BigScoots": 703,
         "WordPress.com": 574,
         "OVH": 503,
