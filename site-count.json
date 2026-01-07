@@ -1,6 +1,11 @@
 {
-    "siteCount": 112669,
+    "siteCount": 112672,
     "recentlyMoved": [
+        {
+            "domain_name": "globalpetindustry.com",
+            "destination": "Kinsta",
+            "date": "2026-01-07 08:13:41"
+        },
         {
             "domain_name": "www.vaultdoorsdirect.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "mysickbuilds.com",
             "destination": "Hostinger",
             "date": "2026-01-02 22:08:43"
-        },
-        {
-            "domain_name": "canibanaturals.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-02 20:31:50"
         }
     ],
     "dailyMovedStat": {
@@ -979,7 +979,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11803,
-        "Kinsta": 7608,
+        "Kinsta": 7609,
         "SiteGround": 5687,
         "Digital Ocean": 5569,
         "Bluehost": 4354,
