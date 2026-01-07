@@ -1,6 +1,16 @@
 {
-    "siteCount": 112757,
+    "siteCount": 112773,
     "recentlyMoved": [
+        {
+            "domain_name": "waterstrategies.com",
+            "destination": "Hostinger",
+            "date": "2026-01-07 18:00:32"
+        },
+        {
+            "domain_name": "oaec.org",
+            "destination": "Kinsta",
+            "date": "2026-01-07 17:48:29"
+        },
         {
             "domain_name": "www.whoismrmister.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "formerdistrictattorneys.com",
             "destination": "WordPress.com",
             "date": "2026-01-04 11:18:24"
-        },
-        {
-            "domain_name": "souldeepjourney.com",
-            "destination": "Hostinger",
-            "date": "2026-01-04 08:29:25"
-        },
-        {
-            "domain_name": "vectortechgroup.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-03 22:19:58"
         }
     ],
     "dailyMovedStat": {
@@ -979,11 +979,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11804,
-        "Kinsta": 7614,
+        "Kinsta": 7616,
         "SiteGround": 5687,
         "Digital Ocean": 5570,
-        "Bluehost": 4356,
-        "Hostinger": 4176,
+        "Bluehost": 4357,
+        "Hostinger": 4177,
         "GoDaddy": 1507,
         "Liquid Web": 771,
         "BigScoots": 704,
