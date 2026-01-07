@@ -1,6 +1,16 @@
 {
-    "siteCount": 112681,
+    "siteCount": 112691,
     "recentlyMoved": [
+        {
+            "domain_name": "hscfdn.org",
+            "destination": "Kinsta",
+            "date": "2026-01-07 12:33:42"
+        },
+        {
+            "domain_name": "www.northshore-ep.com",
+            "destination": "Bluehost",
+            "date": "2026-01-07 11:59:59"
+        },
         {
             "domain_name": "www.zaray.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.promptdesign.art",
             "destination": "Namecheap",
             "date": "2026-01-03 09:15:18"
-        },
-        {
-            "domain_name": "quiz.somabreath.com",
-            "destination": "Kinsta",
-            "date": "2026-01-03 08:35:21"
-        },
-        {
-            "domain_name": "reachfitnessohio.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-03 08:32:46"
         }
     ],
     "dailyMovedStat": {
@@ -982,7 +982,7 @@
         "Kinsta": 7610,
         "SiteGround": 5687,
         "Digital Ocean": 5569,
-        "Bluehost": 4354,
+        "Bluehost": 4355,
         "Hostinger": 4171,
         "GoDaddy": 1506,
         "Liquid Web": 771,
