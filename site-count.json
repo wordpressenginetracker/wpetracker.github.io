@@ -1,10 +1,20 @@
 {
-    "siteCount": 112672,
+    "siteCount": 112678,
     "recentlyMoved": [
+        {
+            "domain_name": "www.zaray.com",
+            "destination": "Kinsta",
+            "date": "2026-01-07 09:20:45"
+        },
         {
             "domain_name": "globalpetindustry.com",
             "destination": "Kinsta",
             "date": "2026-01-07 08:13:41"
+        },
+        {
+            "domain_name": "saffronbubbles.com",
+            "destination": "Hostinger",
+            "date": "2026-01-07 08:03:45"
         },
         {
             "domain_name": "www.vaultdoorsdirect.com",
@@ -490,16 +500,6 @@
             "domain_name": "reachfitnessohio.com",
             "destination": "Digital Ocean",
             "date": "2026-01-03 08:32:46"
-        },
-        {
-            "domain_name": "shred2u.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-01-03 04:48:04"
-        },
-        {
-            "domain_name": "mysickbuilds.com",
-            "destination": "Hostinger",
-            "date": "2026-01-02 22:08:43"
         }
     ],
     "dailyMovedStat": {
@@ -983,7 +983,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5569,
         "Bluehost": 4354,
-        "Hostinger": 4170,
+        "Hostinger": 4171,
         "GoDaddy": 1506,
         "Liquid Web": 771,
         "BigScoots": 704,
