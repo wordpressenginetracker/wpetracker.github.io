@@ -1,6 +1,16 @@
 {
-    "siteCount": 112704,
+    "siteCount": 112718,
     "recentlyMoved": [
+        {
+            "domain_name": "exogear.co",
+            "destination": "GoDaddy",
+            "date": "2026-01-07 14:21:50"
+        },
+        {
+            "domain_name": "mskus.com",
+            "destination": "Hostinger",
+            "date": "2026-01-07 13:45:34"
+        },
         {
             "domain_name": "loraandted.com",
             "destination": "Bluehost",
@@ -10,6 +20,11 @@
             "domain_name": "cravescoffee.com",
             "destination": "Hostinger",
             "date": "2026-01-07 13:27:21"
+        },
+        {
+            "domain_name": "moralesfeedandsupply.com",
+            "destination": "Kinsta",
+            "date": "2026-01-07 13:25:39"
         },
         {
             "domain_name": "www.thechadhajimenezlawfirm.com",
@@ -485,21 +500,6 @@
             "domain_name": "personalinjuryattorneystpete.com",
             "destination": "Bluehost",
             "date": "2026-01-03 16:11:45"
-        },
-        {
-            "domain_name": "eracent.com",
-            "destination": "Hostinger",
-            "date": "2026-01-03 13:37:10"
-        },
-        {
-            "domain_name": "big10vacations.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-03 12:40:57"
-        },
-        {
-            "domain_name": "simplicitycoachingllc.com",
-            "destination": "Bluehost",
-            "date": "2026-01-03 12:28:33"
         }
     ],
     "dailyMovedStat": {
@@ -979,12 +979,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11804,
-        "Kinsta": 7612,
+        "Kinsta": 7613,
         "SiteGround": 5687,
         "Digital Ocean": 5569,
-        "Bluehost": 4355,
-        "Hostinger": 4172,
-        "GoDaddy": 1506,
+        "Bluehost": 4356,
+        "Hostinger": 4174,
+        "GoDaddy": 1507,
         "Liquid Web": 771,
         "BigScoots": 704,
         "WordPress.com": 574,
