@@ -1,6 +1,11 @@
 {
-    "siteCount": 112831,
+    "siteCount": 112836,
     "recentlyMoved": [
+        {
+            "domain_name": "operacanada.ca",
+            "destination": "Hostinger",
+            "date": "2026-01-07 23:21:51"
+        },
         {
             "domain_name": "veritas-foundation.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "clubbass.ca",
             "destination": "Hostinger",
             "date": "2026-01-04 21:12:04"
-        },
-        {
-            "domain_name": "carecardinal.com",
-            "destination": "Bluehost",
-            "date": "2026-01-04 21:07:39"
         }
     ],
     "dailyMovedStat": {
@@ -984,7 +984,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5571,
         "Bluehost": 4357,
-        "Hostinger": 4184,
+        "Hostinger": 4185,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 704,
