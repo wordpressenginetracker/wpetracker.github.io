@@ -1,10 +1,30 @@
 {
-    "siteCount": 113033,
+    "siteCount": 113042,
     "recentlyMoved": [
+        {
+            "domain_name": "spiritwoodacoustic.com",
+            "destination": "Hostinger",
+            "date": "2026-01-08 21:44:48"
+        },
+        {
+            "domain_name": "debbidimaggio.org",
+            "destination": "Krystal Hosting",
+            "date": "2026-01-08 21:32:40"
+        },
+        {
+            "domain_name": "maverickoftexas.com",
+            "destination": "Hostinger",
+            "date": "2026-01-08 21:20:19"
+        },
         {
             "domain_name": "crystaldatabase.com",
             "destination": "Digital Ocean",
             "date": "2026-01-08 21:19:06"
+        },
+        {
+            "domain_name": "dombrovskilegal.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-08 21:08:07"
         },
         {
             "domain_name": "susanwbrown.com",
@@ -472,11 +492,6 @@
             "date": "2026-01-06 17:57:18"
         },
         {
-            "domain_name": "www.writtenwordmedia.com",
-            "destination": "Kinsta",
-            "date": "2026-01-06 17:38:43"
-        },
-        {
             "domain_name": "n2co.com",
             "destination": "Wordify",
             "date": "2026-01-06 17:34:34"
@@ -485,21 +500,6 @@
             "domain_name": "twinbrookassistedliving.com",
             "destination": "OVH",
             "date": "2026-01-06 17:24:24"
-        },
-        {
-            "domain_name": "concretesciencefl.com",
-            "destination": "Kinsta",
-            "date": "2026-01-06 17:18:22"
-        },
-        {
-            "domain_name": "cutesmilenj.com",
-            "destination": "Hostinger",
-            "date": "2026-01-06 17:14:54"
-        },
-        {
-            "domain_name": "www.thisoldthinglondon.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-06 17:09:44"
         }
     ],
     "dailyMovedStat": {
@@ -980,11 +980,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11810,
-        "Kinsta": 7624,
+        "Kinsta": 7625,
         "SiteGround": 5687,
-        "Digital Ocean": 5578,
+        "Digital Ocean": 5579,
         "Bluehost": 4358,
-        "Hostinger": 4191,
+        "Hostinger": 4193,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 705,
