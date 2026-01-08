@@ -1,6 +1,11 @@
 {
-    "siteCount": 112891,
+    "siteCount": 112895,
     "recentlyMoved": [
+        {
+            "domain_name": "www.upwardmo.org",
+            "destination": "IONOS",
+            "date": "2026-01-08 09:28:35"
+        },
         {
             "domain_name": "www.dawnshallmarkshop.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "shawnburcham.com",
             "destination": "Namecheap",
             "date": "2026-01-05 04:20:10"
-        },
-        {
-            "domain_name": "honeybuilthome.com",
-            "destination": "BigScoots",
-            "date": "2026-01-05 04:08:20"
         }
     ],
     "dailyMovedStat": {
@@ -994,7 +994,7 @@
         "InMotion Hosting": 486,
         "Namecheap": 436,
         "A2 Hosting": 422,
-        "IONOS": 420,
+        "IONOS": 421,
         "DreamHost": 400,
         "Elementor Hosting": 388,
         "Hetzner Online": 330,
