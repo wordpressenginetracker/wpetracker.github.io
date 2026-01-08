@@ -1,6 +1,31 @@
 {
-    "siteCount": 112951,
+    "siteCount": 112971,
     "recentlyMoved": [
+        {
+            "domain_name": "southernmagazine.com",
+            "destination": "Hostinger",
+            "date": "2026-01-08 17:16:52"
+        },
+        {
+            "domain_name": "civicspace-casetracker.rfkhumanrights.org",
+            "destination": "Kinsta",
+            "date": "2026-01-08 17:15:20"
+        },
+        {
+            "domain_name": "www.maycoliving.co.uk",
+            "destination": "IONOS",
+            "date": "2026-01-08 16:52:41"
+        },
+        {
+            "domain_name": "tennesseemonthly.com",
+            "destination": "Hostinger",
+            "date": "2026-01-08 16:51:21"
+        },
+        {
+            "domain_name": "chetcomedical.com",
+            "destination": "Pressable",
+            "date": "2026-01-08 16:47:56"
+        },
         {
             "domain_name": "perryprotech.com",
             "destination": "WordPress.com",
@@ -472,34 +497,9 @@
             "date": "2026-01-06 11:51:44"
         },
         {
-            "domain_name": "learning.cawnetworkusa.com",
-            "destination": "Pressable",
-            "date": "2026-01-06 05:36:47"
-        },
-        {
             "domain_name": "content.hrone.cloud",
             "destination": "Hostinger",
             "date": "2026-01-06 05:32:14"
-        },
-        {
-            "domain_name": "bmp.thehumanjib.com",
-            "destination": "DreamHost",
-            "date": "2026-01-06 00:42:31"
-        },
-        {
-            "domain_name": "writerjaw.com",
-            "destination": "Liquid Web",
-            "date": "2026-01-05 23:26:11"
-        },
-        {
-            "domain_name": "stollarchitecture.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-05 21:22:21"
-        },
-        {
-            "domain_name": "arisbenefitgroup.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-05 20:24:04"
         }
     ],
     "dailyMovedStat": {
@@ -979,12 +979,12 @@
         "2026-01-07": "112831"
     },
     "topDestinationHosts": {
-        "Pressable": 11809,
-        "Kinsta": 7620,
+        "Pressable": 11810,
+        "Kinsta": 7621,
         "SiteGround": 5687,
         "Digital Ocean": 5576,
         "Bluehost": 4357,
-        "Hostinger": 4187,
+        "Hostinger": 4188,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 705,
@@ -993,8 +993,8 @@
         "GridPane": 504,
         "InMotion Hosting": 488,
         "Namecheap": 436,
+        "IONOS": 423,
         "A2 Hosting": 422,
-        "IONOS": 422,
         "DreamHost": 401,
         "Elementor Hosting": 388,
         "Hetzner Online": 330,
