@@ -1,6 +1,11 @@
 {
-    "siteCount": 112853,
+    "siteCount": 112862,
     "recentlyMoved": [
+        {
+            "domain_name": "ahernsplumbingwagga.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-08 03:38:33"
+        },
         {
             "domain_name": "statewidepublicaffairs.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "templarstore.com",
             "destination": "Hostinger",
             "date": "2026-01-05 01:47:51"
-        },
-        {
-            "domain_name": "www.justbetting.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-04 23:44:57"
         }
     ],
     "dailyMovedStat": {
@@ -980,7 +980,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11805,
-        "Kinsta": 7618,
+        "Kinsta": 7619,
         "SiteGround": 5687,
         "Digital Ocean": 5571,
         "Bluehost": 4357,
