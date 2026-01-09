@@ -1,6 +1,26 @@
 {
-    "siteCount": 113049,
+    "siteCount": 113058,
     "recentlyMoved": [
+        {
+            "domain_name": "compassjournal.org",
+            "destination": "Kinsta",
+            "date": "2026-01-09 01:39:20"
+        },
+        {
+            "domain_name": "suzannemorenoberke.com",
+            "destination": "Pressable",
+            "date": "2026-01-09 01:29:48"
+        },
+        {
+            "domain_name": "civiledge.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-09 00:40:03"
+        },
+        {
+            "domain_name": "kellermedia.com",
+            "destination": "Namecheap",
+            "date": "2026-01-09 00:37:12"
+        },
         {
             "domain_name": "www.getconcert.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "benafica.com",
             "destination": "GoDaddy",
             "date": "2026-01-06 20:10:46"
-        },
-        {
-            "domain_name": "api.preat.com",
-            "destination": "Pressable",
-            "date": "2026-01-06 19:47:40"
-        },
-        {
-            "domain_name": "parlorsix.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-01-06 19:22:58"
-        },
-        {
-            "domain_name": "n2co.com",
-            "destination": "Wordify",
-            "date": "2026-01-06 17:34:34"
-        },
-        {
-            "domain_name": "twinbrookassistedliving.com",
-            "destination": "OVH",
-            "date": "2026-01-06 17:24:24"
         }
     ],
     "dailyMovedStat": {
@@ -980,12 +980,12 @@
         "2026-01-08": "113042"
     },
     "topDestinationHosts": {
-        "Pressable": 11810,
-        "Kinsta": 7625,
+        "Pressable": 11811,
+        "Kinsta": 7627,
         "SiteGround": 5687,
         "Digital Ocean": 5579,
         "Bluehost": 4359,
-        "Hostinger": 4193,
+        "Hostinger": 4194,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 705,
@@ -993,7 +993,7 @@
         "OVH": 505,
         "GridPane": 505,
         "InMotion Hosting": 488,
-        "Namecheap": 437,
+        "Namecheap": 438,
         "IONOS": 423,
         "A2 Hosting": 422,
         "DreamHost": 401,
