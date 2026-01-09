@@ -1,6 +1,16 @@
 {
-    "siteCount": 113100,
+    "siteCount": 113106,
     "recentlyMoved": [
+        {
+            "domain_name": "medfaclearningcentre.com",
+            "destination": "Kinsta",
+            "date": "2026-01-09 09:47:50"
+        },
+        {
+            "domain_name": "downhomecrossfit.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-09 09:44:51"
+        },
         {
             "domain_name": "cheveninggardens.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.northshore-ep.com",
             "destination": "Bluehost",
             "date": "2026-01-07 11:59:59"
-        },
-        {
-            "domain_name": "www.zaray.com",
-            "destination": "Kinsta",
-            "date": "2026-01-07 09:20:45"
-        },
-        {
-            "domain_name": "saffronbubbles.com",
-            "destination": "Hostinger",
-            "date": "2026-01-07 08:03:45"
         }
     ],
     "dailyMovedStat": {
@@ -981,9 +981,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11812,
-        "Kinsta": 7627,
+        "Kinsta": 7628,
         "SiteGround": 5687,
-        "Digital Ocean": 5583,
+        "Digital Ocean": 5584,
         "Bluehost": 4359,
         "Hostinger": 4203,
         "GoDaddy": 1507,
