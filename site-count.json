@@ -1,6 +1,36 @@
 {
-    "siteCount": 113106,
+    "siteCount": 113119,
     "recentlyMoved": [
+        {
+            "domain_name": "hct-world.com",
+            "destination": "Kinsta",
+            "date": "2026-01-09 12:36:11"
+        },
+        {
+            "domain_name": "www.fandbbusinessschool.com",
+            "destination": "Hostinger",
+            "date": "2026-01-09 11:41:41"
+        },
+        {
+            "domain_name": "akkatek.se",
+            "destination": "Kinsta",
+            "date": "2026-01-09 11:41:02"
+        },
+        {
+            "domain_name": "www.meadowlakepetresort.com",
+            "destination": "Kinsta",
+            "date": "2026-01-09 11:40:39"
+        },
+        {
+            "domain_name": "policy-practice.oxfam.org",
+            "destination": "Kinsta",
+            "date": "2026-01-09 11:38:54"
+        },
+        {
+            "domain_name": "werthmann.fi",
+            "destination": "Hetzner Online",
+            "date": "2026-01-09 11:25:57"
+        },
         {
             "domain_name": "medfaclearningcentre.com",
             "destination": "Kinsta",
@@ -467,39 +497,9 @@
             "date": "2026-01-07 13:25:39"
         },
         {
-            "domain_name": "www.thechadhajimenezlawfirm.com",
-            "destination": "Pressable",
-            "date": "2026-01-07 13:19:54"
-        },
-        {
             "domain_name": "coraswellness.org",
             "destination": "Hostinger",
             "date": "2026-01-07 13:00:28"
-        },
-        {
-            "domain_name": "kandcoliving.com",
-            "destination": "Kinsta",
-            "date": "2026-01-07 12:44:49"
-        },
-        {
-            "domain_name": "hscfdn.org",
-            "destination": "Kinsta",
-            "date": "2026-01-07 12:33:42"
-        },
-        {
-            "domain_name": "impactsolarnj.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-07 12:09:42"
-        },
-        {
-            "domain_name": "breakhabit.com.au",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-07 12:09:26"
-        },
-        {
-            "domain_name": "www.northshore-ep.com",
-            "destination": "Bluehost",
-            "date": "2026-01-07 11:59:59"
         }
     ],
     "dailyMovedStat": {
@@ -981,11 +981,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11812,
-        "Kinsta": 7628,
+        "Kinsta": 7632,
         "SiteGround": 5687,
         "Digital Ocean": 5584,
         "Bluehost": 4359,
-        "Hostinger": 4203,
+        "Hostinger": 4204,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 707,
@@ -998,7 +998,7 @@
         "A2 Hosting": 422,
         "DreamHost": 401,
         "Elementor Hosting": 389,
-        "Hetzner Online": 330,
+        "Hetzner Online": 331,
         "HostGator": 255
     },
     "dailyTotalStat": {
