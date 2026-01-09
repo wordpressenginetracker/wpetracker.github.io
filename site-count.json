@@ -1,6 +1,21 @@
 {
-    "siteCount": 113119,
+    "siteCount": 113134,
     "recentlyMoved": [
+        {
+            "domain_name": "coyotebodywork.com",
+            "destination": "Kinsta",
+            "date": "2026-01-09 13:27:00"
+        },
+        {
+            "domain_name": "laboteknordic.se",
+            "destination": "Kinsta",
+            "date": "2026-01-09 13:14:22"
+        },
+        {
+            "domain_name": "www.topdollarpayouts.com",
+            "destination": "Namecheap",
+            "date": "2026-01-09 13:07:24"
+        },
         {
             "domain_name": "hct-world.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2026-01-07 13:45:34"
         },
         {
-            "domain_name": "loraandted.com",
-            "destination": "Bluehost",
-            "date": "2026-01-07 13:28:19"
-        },
-        {
-            "domain_name": "cravescoffee.com",
-            "destination": "Hostinger",
-            "date": "2026-01-07 13:27:21"
-        },
-        {
             "domain_name": "moralesfeedandsupply.com",
             "destination": "Kinsta",
             "date": "2026-01-07 13:25:39"
-        },
-        {
-            "domain_name": "coraswellness.org",
-            "destination": "Hostinger",
-            "date": "2026-01-07 13:00:28"
         }
     ],
     "dailyMovedStat": {
@@ -981,7 +981,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11812,
-        "Kinsta": 7632,
+        "Kinsta": 7634,
         "SiteGround": 5687,
         "Digital Ocean": 5584,
         "Bluehost": 4359,
@@ -993,7 +993,7 @@
         "OVH": 505,
         "GridPane": 505,
         "InMotion Hosting": 488,
-        "Namecheap": 438,
+        "Namecheap": 439,
         "IONOS": 423,
         "A2 Hosting": 422,
         "DreamHost": 401,
