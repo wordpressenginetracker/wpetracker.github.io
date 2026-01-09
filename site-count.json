@@ -1,10 +1,25 @@
 {
-    "siteCount": 113134,
+    "siteCount": 113141,
     "recentlyMoved": [
+        {
+            "domain_name": "novemfit.com",
+            "destination": "A2 Hosting",
+            "date": "2026-01-09 13:49:29"
+        },
+        {
+            "domain_name": "dramywhittington.com",
+            "destination": "Hostinger",
+            "date": "2026-01-09 13:29:25"
+        },
         {
             "domain_name": "coyotebodywork.com",
             "destination": "Kinsta",
             "date": "2026-01-09 13:27:00"
+        },
+        {
+            "domain_name": "maxvelocity.com",
+            "destination": "Kinsta",
+            "date": "2026-01-09 13:17:59"
         },
         {
             "domain_name": "laboteknordic.se",
@@ -485,21 +500,6 @@
             "domain_name": "fundinghq.ca",
             "destination": "Hostinger",
             "date": "2026-01-07 15:16:16"
-        },
-        {
-            "domain_name": "exogear.co",
-            "destination": "GoDaddy",
-            "date": "2026-01-07 14:21:50"
-        },
-        {
-            "domain_name": "mskus.com",
-            "destination": "Hostinger",
-            "date": "2026-01-07 13:45:34"
-        },
-        {
-            "domain_name": "moralesfeedandsupply.com",
-            "destination": "Kinsta",
-            "date": "2026-01-07 13:25:39"
         }
     ],
     "dailyMovedStat": {
@@ -981,11 +981,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11812,
-        "Kinsta": 7634,
+        "Kinsta": 7635,
         "SiteGround": 5687,
         "Digital Ocean": 5584,
         "Bluehost": 4359,
-        "Hostinger": 4204,
+        "Hostinger": 4205,
         "GoDaddy": 1507,
         "Liquid Web": 772,
         "BigScoots": 707,
@@ -994,8 +994,8 @@
         "GridPane": 505,
         "InMotion Hosting": 488,
         "Namecheap": 439,
+        "A2 Hosting": 423,
         "IONOS": 423,
-        "A2 Hosting": 422,
         "DreamHost": 401,
         "Elementor Hosting": 389,
         "Hetzner Online": 331,
