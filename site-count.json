@@ -1,10 +1,40 @@
 {
-    "siteCount": 113376,
+    "siteCount": 113392,
     "recentlyMoved": [
+        {
+            "domain_name": "solutionmonday.com",
+            "destination": "Bluehost",
+            "date": "2026-01-10 17:16:02"
+        },
+        {
+            "domain_name": "littlecloak.org",
+            "destination": "Wordify",
+            "date": "2026-01-10 17:13:00"
+        },
+        {
+            "domain_name": "kmkdllc.com",
+            "destination": "Pressable",
+            "date": "2026-01-10 16:55:08"
+        },
+        {
+            "domain_name": "crosslaketech.com",
+            "destination": "Kinsta",
+            "date": "2026-01-10 16:51:07"
+        },
+        {
+            "domain_name": "biotcr.com",
+            "destination": "Kinsta",
+            "date": "2026-01-10 16:23:31"
+        },
         {
             "domain_name": "www.bellaballroom.com",
             "destination": "Liquid Web",
             "date": "2026-01-10 16:17:47"
+        },
+        {
+            "domain_name": "invest24.ca",
+            "destination": "Hostinger",
+            "date": "2026-01-10 16:08:45"
         },
         {
             "domain_name": "neallawaz.com",
@@ -467,39 +497,9 @@
             "date": "2026-01-08 21:44:48"
         },
         {
-            "domain_name": "debbidimaggio.org",
-            "destination": "Krystal Hosting",
-            "date": "2026-01-08 21:32:40"
-        },
-        {
-            "domain_name": "maverickoftexas.com",
-            "destination": "Hostinger",
-            "date": "2026-01-08 21:20:19"
-        },
-        {
-            "domain_name": "crystaldatabase.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-08 21:19:06"
-        },
-        {
             "domain_name": "dombrovskilegal.com.au",
             "destination": "Kinsta",
             "date": "2026-01-08 21:08:07"
-        },
-        {
-            "domain_name": "susanwbrown.com",
-            "destination": "Bluehost",
-            "date": "2026-01-08 20:46:51"
-        },
-        {
-            "domain_name": "backoncoursegolf.com",
-            "destination": "Kinsta",
-            "date": "2026-01-08 20:00:18"
-        },
-        {
-            "domain_name": "www.exploredesign.com",
-            "destination": "GridPane",
-            "date": "2026-01-08 19:51:33"
         }
     ],
     "dailyMovedStat": {
@@ -981,12 +981,12 @@
         "2026-01-09": "113260"
     },
     "topDestinationHosts": {
-        "Pressable": 11815,
-        "Kinsta": 7651,
+        "Pressable": 11816,
+        "Kinsta": 7653,
         "SiteGround": 5687,
         "Digital Ocean": 5597,
-        "Bluehost": 4363,
-        "Hostinger": 4218,
+        "Bluehost": 4364,
+        "Hostinger": 4219,
         "GoDaddy": 1510,
         "Liquid Web": 773,
         "BigScoots": 708,
