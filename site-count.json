@@ -1,6 +1,16 @@
 {
-    "siteCount": 113328,
+    "siteCount": 113337,
     "recentlyMoved": [
+        {
+            "domain_name": "wolvfdn.com",
+            "destination": "Kinsta",
+            "date": "2026-01-10 12:04:37"
+        },
+        {
+            "domain_name": "precisionmachinerysystems.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-10 11:35:21"
+        },
         {
             "domain_name": "vivaquity.ie",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.cloudzenpartners.com",
             "destination": "Namecheap",
             "date": "2026-01-08 17:22:03"
-        },
-        {
-            "domain_name": "civicspace-casetracker.rfkhumanrights.org",
-            "destination": "Kinsta",
-            "date": "2026-01-08 17:15:20"
-        },
-        {
-            "domain_name": "tennesseemonthly.com",
-            "destination": "Hostinger",
-            "date": "2026-01-08 16:51:21"
         }
     ],
     "dailyMovedStat": {
@@ -982,12 +982,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11815,
-        "Kinsta": 7647,
+        "Kinsta": 7648,
         "SiteGround": 5687,
         "Digital Ocean": 5596,
         "Bluehost": 4363,
         "Hostinger": 4218,
-        "GoDaddy": 1508,
+        "GoDaddy": 1509,
         "Liquid Web": 772,
         "BigScoots": 708,
         "WordPress.com": 577,
