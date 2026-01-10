@@ -1,6 +1,11 @@
 {
-    "siteCount": 113274,
+    "siteCount": 113282,
     "recentlyMoved": [
+        {
+            "domain_name": "edgeutilities.com.au",
+            "destination": "Hostinger",
+            "date": "2026-01-10 01:50:16"
+        },
         {
             "domain_name": "iceclinics.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "theroyjackson.com",
             "destination": "Digital Ocean",
             "date": "2026-01-08 13:04:39"
-        },
-        {
-            "domain_name": "sjtitansbasketball.com",
-            "destination": "IONOS",
-            "date": "2026-01-08 12:29:05"
         }
     ],
     "dailyMovedStat": {
@@ -986,7 +986,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5591,
         "Bluehost": 4363,
-        "Hostinger": 4215,
+        "Hostinger": 4216,
         "GoDaddy": 1508,
         "Liquid Web": 772,
         "BigScoots": 708,
