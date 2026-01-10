@@ -1,6 +1,11 @@
 {
-    "siteCount": 113268,
+    "siteCount": 113274,
     "recentlyMoved": [
+        {
+            "domain_name": "iceclinics.com",
+            "destination": "Hostinger",
+            "date": "2026-01-10 00:24:58"
+        },
         {
             "domain_name": "www.bbbswnc.org",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "sjtitansbasketball.com",
             "destination": "IONOS",
             "date": "2026-01-08 12:29:05"
-        },
-        {
-            "domain_name": "joshbillings.com",
-            "destination": "Pressable",
-            "date": "2026-01-08 12:15:01"
         }
     ],
     "dailyMovedStat": {
@@ -986,7 +986,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5591,
         "Bluehost": 4363,
-        "Hostinger": 4214,
+        "Hostinger": 4215,
         "GoDaddy": 1508,
         "Liquid Web": 772,
         "BigScoots": 708,
