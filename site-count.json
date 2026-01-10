@@ -1,6 +1,21 @@
 {
-    "siteCount": 113449,
+    "siteCount": 113459,
     "recentlyMoved": [
+        {
+            "domain_name": "elitefireandwaterrestoration.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-01-10 21:54:24"
+        },
+        {
+            "domain_name": "elitedrainandseptic.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-01-10 21:54:24"
+        },
+        {
+            "domain_name": "epiclimosf.com",
+            "destination": "HostGator",
+            "date": "2026-01-10 21:45:09"
+        },
         {
             "domain_name": "ipickwinners.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "gocarta.com",
             "destination": "Hostinger",
             "date": "2026-01-09 03:43:11"
-        },
-        {
-            "domain_name": "nataliebakerphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-01-09 02:07:11"
-        },
-        {
-            "domain_name": "titustrans.com",
-            "destination": "Pressable",
-            "date": "2026-01-09 01:48:34"
-        },
-        {
-            "domain_name": "designobserver.com",
-            "destination": "BigScoots",
-            "date": "2026-01-09 01:19:31"
         }
     ],
     "dailyMovedStat": {
@@ -998,9 +998,9 @@
         "A2 Hosting": 424,
         "IONOS": 423,
         "DreamHost": 401,
-        "Elementor Hosting": 390,
+        "Elementor Hosting": 392,
         "Hetzner Online": 332,
-        "HostGator": 255
+        "HostGator": 256
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
