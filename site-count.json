@@ -1,6 +1,11 @@
 {
-    "siteCount": 113493,
+    "siteCount": 113497,
     "recentlyMoved": [
+        {
+            "domain_name": "climafresh.it",
+            "destination": "Hostinger",
+            "date": "2026-01-11 12:57:52"
+        },
         {
             "domain_name": "cobianroig.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "paladingroupltd.com",
             "destination": "Digital Ocean",
             "date": "2026-01-09 08:05:02"
-        },
-        {
-            "domain_name": "paladinexperts.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-09 08:05:02"
         }
     ],
     "dailyMovedStat": {
@@ -987,7 +987,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5600,
         "Bluehost": 4366,
-        "Hostinger": 4221,
+        "Hostinger": 4222,
         "GoDaddy": 1511,
         "Liquid Web": 774,
         "BigScoots": 709,
