@@ -1,6 +1,11 @@
 {
-    "siteCount": 113476,
+    "siteCount": 113481,
     "recentlyMoved": [
+        {
+            "domain_name": "velatechindia.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-11 03:38:45"
+        },
         {
             "domain_name": "austinairhvac.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "paladinadvice.com",
             "destination": "Digital Ocean",
             "date": "2026-01-09 08:05:02"
-        },
-        {
-            "domain_name": "uniq-hammerfest.no",
-            "destination": "Hostinger",
-            "date": "2026-01-09 06:04:45"
         }
     ],
     "dailyMovedStat": {
@@ -988,7 +988,7 @@
         "Digital Ocean": 5600,
         "Bluehost": 4366,
         "Hostinger": 4220,
-        "GoDaddy": 1510,
+        "GoDaddy": 1511,
         "Liquid Web": 774,
         "BigScoots": 709,
         "WordPress.com": 578,
