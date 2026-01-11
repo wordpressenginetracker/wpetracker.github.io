@@ -1,6 +1,21 @@
 {
-    "siteCount": 113459,
+    "siteCount": 113469,
     "recentlyMoved": [
+        {
+            "domain_name": "austinairhvac.com",
+            "destination": "Hostinger",
+            "date": "2026-01-11 00:13:57"
+        },
+        {
+            "domain_name": "www.missionvillageontario.com",
+            "destination": "WordPress.com",
+            "date": "2026-01-10 23:56:48"
+        },
+        {
+            "domain_name": "fireflyelectricalllc.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-01-10 23:10:18"
+        },
         {
             "domain_name": "elitefireandwaterrestoration.com",
             "destination": "Elementor Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "uniq-hammerfest.no",
             "destination": "Hostinger",
             "date": "2026-01-09 06:04:45"
-        },
-        {
-            "domain_name": "dryoungperiodontics.com",
-            "destination": "Hostinger",
-            "date": "2026-01-09 05:24:28"
-        },
-        {
-            "domain_name": "mcverolese.it",
-            "destination": "Hostinger",
-            "date": "2026-01-09 05:05:59"
-        },
-        {
-            "domain_name": "gocarta.com",
-            "destination": "Hostinger",
-            "date": "2026-01-09 03:43:11"
         }
     ],
     "dailyMovedStat": {
@@ -987,11 +987,11 @@
         "SiteGround": 5687,
         "Digital Ocean": 5600,
         "Bluehost": 4366,
-        "Hostinger": 4219,
+        "Hostinger": 4220,
         "GoDaddy": 1510,
         "Liquid Web": 774,
         "BigScoots": 709,
-        "WordPress.com": 577,
+        "WordPress.com": 578,
         "OVH": 507,
         "GridPane": 507,
         "InMotion Hosting": 488,
@@ -999,7 +999,7 @@
         "A2 Hosting": 424,
         "IONOS": 423,
         "DreamHost": 401,
-        "Elementor Hosting": 392,
+        "Elementor Hosting": 393,
         "Hetzner Online": 332,
         "HostGator": 256
     },
