@@ -1,6 +1,11 @@
 {
-    "siteCount": 113606,
+    "siteCount": 113608,
     "recentlyMoved": [
+        {
+            "domain_name": "watthub.com",
+            "destination": "Kinsta",
+            "date": "2026-01-12 18:05:57"
+        },
         {
             "domain_name": "bethanymelbourne.com",
             "destination": "Elementor Hosting",
@@ -480,11 +485,6 @@
             "domain_name": "mygroomservices.com",
             "destination": "GoDaddy",
             "date": "2026-01-09 17:26:22"
-        },
-        {
-            "domain_name": "studiomooregan.com",
-            "destination": "BigScoots",
-            "date": "2026-01-09 17:06:41"
         },
         {
             "domain_name": "teleraddirect.com",
@@ -984,7 +984,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11820,
-        "Kinsta": 7657,
+        "Kinsta": 7658,
         "SiteGround": 5687,
         "Digital Ocean": 5603,
         "Bluehost": 4368,
