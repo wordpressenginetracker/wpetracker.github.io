@@ -1,6 +1,16 @@
 {
-    "siteCount": 113589,
+    "siteCount": 113596,
     "recentlyMoved": [
+        {
+            "domain_name": "www.attorneybradrickcollins.com",
+            "destination": "Hostinger",
+            "date": "2026-01-12 16:01:57"
+        },
+        {
+            "domain_name": "gwarizona.com",
+            "destination": "Kinsta",
+            "date": "2026-01-12 16:00:23"
+        },
         {
             "domain_name": "northproductions.com",
             "destination": "Bluehost",
@@ -490,16 +500,6 @@
             "domain_name": "letusadore.com",
             "destination": "Digital Ocean",
             "date": "2026-01-09 16:54:04"
-        },
-        {
-            "domain_name": "southernremodel.net",
-            "destination": "Hostinger",
-            "date": "2026-01-09 16:52:12"
-        },
-        {
-            "domain_name": "boltahead.com",
-            "destination": "Hostinger",
-            "date": "2026-01-09 16:29:35"
         }
     ],
     "dailyMovedStat": {
@@ -984,11 +984,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11820,
-        "Kinsta": 7656,
+        "Kinsta": 7657,
         "SiteGround": 5687,
         "Digital Ocean": 5603,
         "Bluehost": 4368,
-        "Hostinger": 4229,
+        "Hostinger": 4230,
         "GoDaddy": 1511,
         "Liquid Web": 775,
         "BigScoots": 710,
