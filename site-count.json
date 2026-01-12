@@ -1,6 +1,11 @@
 {
-    "siteCount": 113596,
+    "siteCount": 113606,
     "recentlyMoved": [
+        {
+            "domain_name": "bethanymelbourne.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-01-12 16:06:39"
+        },
         {
             "domain_name": "www.attorneybradrickcollins.com",
             "destination": "Hostinger",
@@ -470,11 +475,6 @@
             "domain_name": "davitaphysiciansolutions.com",
             "destination": "WordPress VIP",
             "date": "2026-01-09 17:38:57"
-        },
-        {
-            "domain_name": "classactioncapital.com",
-            "destination": "Hostinger",
-            "date": "2026-01-09 17:26:50"
         },
         {
             "domain_name": "mygroomservices.com",
@@ -1000,7 +1000,7 @@
         "A2 Hosting": 424,
         "IONOS": 424,
         "DreamHost": 401,
-        "Elementor Hosting": 393,
+        "Elementor Hosting": 394,
         "Hetzner Online": 332,
         "HostGator": 256
     },
