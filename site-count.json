@@ -1,6 +1,11 @@
 {
-    "siteCount": 113568,
+    "siteCount": 113571,
     "recentlyMoved": [
+        {
+            "domain_name": "baleboshevlawyers.com.au",
+            "destination": "Pressable",
+            "date": "2026-01-12 03:50:25"
+        },
         {
             "domain_name": "defoortconsultant.com",
             "destination": "IONOS",
@@ -492,11 +497,6 @@
             "date": "2026-01-09 13:29:25"
         },
         {
-            "domain_name": "coyotebodywork.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 13:27:00"
-        },
-        {
             "domain_name": "maxvelocity.com",
             "destination": "Kinsta",
             "date": "2026-01-09 13:17:59"
@@ -983,7 +983,7 @@
         "2026-01-11": "113533"
     },
     "topDestinationHosts": {
-        "Pressable": 11817,
+        "Pressable": 11818,
         "Kinsta": 7655,
         "SiteGround": 5687,
         "Digital Ocean": 5603,
