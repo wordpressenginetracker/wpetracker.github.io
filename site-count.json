@@ -1,6 +1,11 @@
 {
-    "siteCount": 113571,
+    "siteCount": 113574,
     "recentlyMoved": [
+        {
+            "domain_name": "commissioncreative.com",
+            "destination": "Pressable",
+            "date": "2026-01-12 05:07:18"
+        },
         {
             "domain_name": "baleboshevlawyers.com.au",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "dramywhittington.com",
             "destination": "Hostinger",
             "date": "2026-01-09 13:29:25"
-        },
-        {
-            "domain_name": "maxvelocity.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 13:17:59"
         }
     ],
     "dailyMovedStat": {
@@ -983,7 +983,7 @@
         "2026-01-11": "113533"
     },
     "topDestinationHosts": {
-        "Pressable": 11818,
+        "Pressable": 11819,
         "Kinsta": 7655,
         "SiteGround": 5687,
         "Digital Ocean": 5603,
