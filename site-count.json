@@ -1,6 +1,16 @@
 {
-    "siteCount": 113631,
+    "siteCount": 113641,
     "recentlyMoved": [
+        {
+            "domain_name": "lumosblinds.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-12 21:34:37"
+        },
+        {
+            "domain_name": "slcapitalwealth.com",
+            "destination": "Kinsta",
+            "date": "2026-01-12 21:09:36"
+        },
         {
             "domain_name": "watthub.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "teleraddirect.com",
             "destination": "Kinsta",
             "date": "2026-01-09 17:01:58"
-        },
-        {
-            "domain_name": "crossfit51.com",
-            "destination": "A2 Hosting",
-            "date": "2026-01-09 16:56:34"
-        },
-        {
-            "domain_name": "letusadore.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-09 16:54:04"
         }
     ],
     "dailyMovedStat": {
@@ -984,7 +984,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11820,
-        "Kinsta": 7658,
+        "Kinsta": 7659,
         "SiteGround": 5687,
         "Digital Ocean": 5605,
         "Bluehost": 4368,
