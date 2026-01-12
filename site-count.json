@@ -1,10 +1,20 @@
 {
-    "siteCount": 113553,
+    "siteCount": 113560,
     "recentlyMoved": [
+        {
+            "domain_name": "cottagelife.com",
+            "destination": "Bluehost",
+            "date": "2026-01-12 01:17:47"
+        },
         {
             "domain_name": "hollandparker.com",
             "destination": "BigScoots",
             "date": "2026-01-12 00:38:43"
+        },
+        {
+            "domain_name": "scottcathcart.org",
+            "destination": "Namecheap",
+            "date": "2026-01-12 00:34:03"
         },
         {
             "domain_name": "restaurang-sara.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.topdollarpayouts.com",
             "destination": "Namecheap",
             "date": "2026-01-09 13:07:24"
-        },
-        {
-            "domain_name": "hct-world.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 12:36:11"
-        },
-        {
-            "domain_name": "www.meadowlakepetresort.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 11:40:39"
         }
     ],
     "dailyMovedStat": {
@@ -984,7 +984,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11817,
-        "Kinsta": 7654,
+        "Kinsta": 7655,
         "SiteGround": 5687,
         "Digital Ocean": 5602,
         "Bluehost": 4366,
@@ -996,7 +996,7 @@
         "GridPane": 508,
         "OVH": 507,
         "InMotion Hosting": 488,
-        "Namecheap": 440,
+        "Namecheap": 441,
         "A2 Hosting": 424,
         "IONOS": 423,
         "DreamHost": 401,
