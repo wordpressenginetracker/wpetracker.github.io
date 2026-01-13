@@ -1,10 +1,35 @@
 {
-    "siteCount": 113835,
+    "siteCount": 113848,
     "recentlyMoved": [
+        {
+            "domain_name": "chenaltherapy.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 21:20:47"
+        },
+        {
+            "domain_name": "lasscass.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 21:19:28"
+        },
+        {
+            "domain_name": "cashforcars-bc.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-13 21:12:57"
+        },
+        {
+            "domain_name": "sff.gbtesting.us",
+            "destination": "Digital Ocean",
+            "date": "2026-01-13 21:04:05"
+        },
         {
             "domain_name": "riverinamechanical.com.au",
             "destination": "Kinsta",
             "date": "2026-01-13 20:48:18"
+        },
+        {
+            "domain_name": "sharrockhomes.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 20:30:31"
         },
         {
             "domain_name": "hangersar.com",
@@ -475,31 +500,6 @@
             "domain_name": "crosslaketech.com",
             "destination": "Kinsta",
             "date": "2026-01-10 16:51:07"
-        },
-        {
-            "domain_name": "biotcr.com",
-            "destination": "Kinsta",
-            "date": "2026-01-10 16:23:31"
-        },
-        {
-            "domain_name": "www.bellaballroom.com",
-            "destination": "Liquid Web",
-            "date": "2026-01-10 16:17:47"
-        },
-        {
-            "domain_name": "invest24.ca",
-            "destination": "Hostinger",
-            "date": "2026-01-10 16:08:45"
-        },
-        {
-            "domain_name": "neallawaz.com",
-            "destination": "Kinsta",
-            "date": "2026-01-10 14:15:02"
-        },
-        {
-            "domain_name": "mayrivermedicare.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-10 13:21:37"
         }
     ],
     "dailyMovedStat": {
@@ -985,9 +985,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11823,
-        "Kinsta": 7683,
+        "Kinsta": 7687,
         "SiteGround": 5688,
-        "Digital Ocean": 5612,
+        "Digital Ocean": 5614,
         "Bluehost": 4371,
         "Hostinger": 4237,
         "GoDaddy": 1511,
