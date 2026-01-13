@@ -1,15 +1,45 @@
 {
-    "siteCount": 113755,
+    "siteCount": 113765,
     "recentlyMoved": [
+        {
+            "domain_name": "ocab.nl",
+            "destination": "Kinsta",
+            "date": "2026-01-13 14:22:30"
+        },
+        {
+            "domain_name": "usaselfstoragear.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 13:59:53"
+        },
+        {
+            "domain_name": "thebuxtoncomplex.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 13:50:52"
+        },
         {
             "domain_name": "terrascompleet.nl",
             "destination": "Kinsta",
             "date": "2026-01-13 13:40:59"
         },
         {
+            "domain_name": "nonyl-phenol.com",
+            "destination": "Hostinger",
+            "date": "2026-01-13 13:35:22"
+        },
+        {
+            "domain_name": "decantertastingroom.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 13:29:38"
+        },
+        {
             "domain_name": "stannchurch.org",
             "destination": "Digital Ocean",
             "date": "2026-01-13 13:26:15"
+        },
+        {
+            "domain_name": "doolittleinstitute.org",
+            "destination": "Kinsta",
+            "date": "2026-01-13 13:19:05"
         },
         {
             "domain_name": "lifestudiowellness.com",
@@ -470,36 +500,6 @@
             "domain_name": "eyefloaters.eu",
             "destination": "Digital Ocean",
             "date": "2026-01-10 09:35:52"
-        },
-        {
-            "domain_name": "www.swingkingdom.com",
-            "destination": "Pressable",
-            "date": "2026-01-10 09:26:59"
-        },
-        {
-            "domain_name": "www.propertyplan.ca",
-            "destination": "Namecheap",
-            "date": "2026-01-10 08:40:46"
-        },
-        {
-            "domain_name": "glaskoerpertruebungen.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-10 08:08:44"
-        },
-        {
-            "domain_name": "findbestroofersnear.me",
-            "destination": "Hostinger",
-            "date": "2026-01-10 07:32:57"
-        },
-        {
-            "domain_name": "findbestnear.me",
-            "destination": "Hostinger",
-            "date": "2026-01-10 07:32:57"
-        },
-        {
-            "domain_name": "mentorsinternational.org",
-            "destination": "Pressable",
-            "date": "2026-01-10 05:38:26"
         }
     ],
     "dailyMovedStat": {
@@ -985,11 +985,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11823,
-        "Kinsta": 7672,
+        "Kinsta": 7678,
         "SiteGround": 5687,
-        "Digital Ocean": 5609,
+        "Digital Ocean": 5610,
         "Bluehost": 4369,
-        "Hostinger": 4234,
+        "Hostinger": 4235,
         "GoDaddy": 1511,
         "Liquid Web": 776,
         "BigScoots": 711,
