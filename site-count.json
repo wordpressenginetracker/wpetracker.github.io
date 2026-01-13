@@ -1,6 +1,26 @@
 {
-    "siteCount": 113645,
+    "siteCount": 113655,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wolfordlaw.com",
+            "destination": "Bluehost",
+            "date": "2026-01-13 00:15:56"
+        },
+        {
+            "domain_name": "bestoday.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 00:15:17"
+        },
+        {
+            "domain_name": "ourariverineprotection.com",
+            "destination": "Kinsta",
+            "date": "2026-01-12 23:41:27"
+        },
+        {
+            "domain_name": "piccoloprojects.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-12 23:34:52"
+        },
         {
             "domain_name": "lumosblinds.com.au",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "nrc.gbtesting.us",
             "destination": "Digital Ocean",
             "date": "2026-01-09 18:28:39"
-        },
-        {
-            "domain_name": "mha.gbtesting.us",
-            "destination": "Digital Ocean",
-            "date": "2026-01-09 17:58:26"
-        },
-        {
-            "domain_name": "davitaphysiciansolutions.com",
-            "destination": "WordPress VIP",
-            "date": "2026-01-09 17:38:57"
-        },
-        {
-            "domain_name": "mygroomservices.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-09 17:26:22"
-        },
-        {
-            "domain_name": "teleraddirect.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 17:01:58"
         }
     ],
     "dailyMovedStat": {
@@ -985,14 +985,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11820,
-        "Kinsta": 7660,
+        "Kinsta": 7662,
         "SiteGround": 5687,
         "Digital Ocean": 5605,
-        "Bluehost": 4368,
+        "Bluehost": 4369,
         "Hostinger": 4230,
         "GoDaddy": 1511,
         "Liquid Web": 775,
-        "BigScoots": 710,
+        "BigScoots": 711,
         "WordPress.com": 578,
         "OVH": 508,
         "GridPane": 508,
