@@ -1,6 +1,16 @@
 {
-    "siteCount": 113783,
+    "siteCount": 113788,
     "recentlyMoved": [
+        {
+            "domain_name": "nickcesarz.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-13 18:35:13"
+        },
+        {
+            "domain_name": "lwbpr.com",
+            "destination": "Kinsta",
+            "date": "2026-01-13 17:20:17"
+        },
         {
             "domain_name": "smallbusinessfundingexperts.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "brittanytauber.com",
             "destination": "Kinsta",
             "date": "2026-01-10 12:07:19"
-        },
-        {
-            "domain_name": "wolvfdn.com",
-            "destination": "Kinsta",
-            "date": "2026-01-10 12:04:37"
-        },
-        {
-            "domain_name": "precisionmachinerysystems.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-10 11:35:21"
         }
     ],
     "dailyMovedStat": {
@@ -985,9 +985,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11823,
-        "Kinsta": 7678,
+        "Kinsta": 7679,
         "SiteGround": 5688,
-        "Digital Ocean": 5610,
+        "Digital Ocean": 5611,
         "Bluehost": 4370,
         "Hostinger": 4236,
         "GoDaddy": 1511,
