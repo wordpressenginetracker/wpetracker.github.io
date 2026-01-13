@@ -1,6 +1,11 @@
 {
-    "siteCount": 113667,
+    "siteCount": 113676,
     "recentlyMoved": [
+        {
+            "domain_name": "poliuretiamo.it",
+            "destination": "Hostinger",
+            "date": "2026-01-13 04:19:20"
+        },
         {
             "domain_name": "maccelerator.la",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.cucs.org",
             "destination": "Digital Ocean",
             "date": "2026-01-09 19:49:41"
-        },
-        {
-            "domain_name": "gainst.com",
-            "destination": "Kinsta",
-            "date": "2026-01-09 19:26:05"
         }
     ],
     "dailyMovedStat": {
@@ -989,7 +989,7 @@
         "SiteGround": 5687,
         "Digital Ocean": 5605,
         "Bluehost": 4369,
-        "Hostinger": 4230,
+        "Hostinger": 4231,
         "GoDaddy": 1511,
         "Liquid Web": 775,
         "BigScoots": 711,
