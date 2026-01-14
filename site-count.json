@@ -1,6 +1,16 @@
 {
-    "siteCount": 113949,
+    "siteCount": 113961,
     "recentlyMoved": [
+        {
+            "domain_name": "norfolkbotanicalgarden.org",
+            "destination": "Kinsta",
+            "date": "2026-01-14 14:29:26"
+        },
+        {
+            "domain_name": "elevatedsolutionservices.com",
+            "destination": "Hostinger",
+            "date": "2026-01-14 13:45:20"
+        },
         {
             "domain_name": "suncoastfoodandwinefest.com",
             "destination": "WordPress.com",
@@ -482,11 +492,6 @@
             "date": "2026-01-12 01:11:44"
         },
         {
-            "domain_name": "hollandparker.com",
-            "destination": "BigScoots",
-            "date": "2026-01-12 00:38:43"
-        },
-        {
             "domain_name": "scottcathcart.org",
             "destination": "Namecheap",
             "date": "2026-01-12 00:34:03"
@@ -495,11 +500,6 @@
             "domain_name": "restaurang-sara.com",
             "destination": "Kinsta",
             "date": "2026-01-12 00:20:32"
-        },
-        {
-            "domain_name": "www.apicolscience.ro",
-            "destination": "Digital Ocean",
-            "date": "2026-01-11 23:27:02"
         }
     ],
     "dailyMovedStat": {
@@ -986,11 +986,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11827,
-        "Kinsta": 7695,
+        "Kinsta": 7696,
         "SiteGround": 5688,
         "Digital Ocean": 5618,
         "Bluehost": 4373,
-        "Hostinger": 4244,
+        "Hostinger": 4245,
         "GoDaddy": 1512,
         "Liquid Web": 777,
         "BigScoots": 713,
