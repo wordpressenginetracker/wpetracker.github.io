@@ -1,6 +1,11 @@
 {
-    "siteCount": 113870,
+    "siteCount": 113874,
     "recentlyMoved": [
+        {
+            "domain_name": "www.vancouverlacrosse.com",
+            "destination": "OVH",
+            "date": "2026-01-14 03:29:31"
+        },
         {
             "domain_name": "zirconiumdioxide.net",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "chrisharrisjr.com",
             "destination": "Elementor Hosting",
             "date": "2026-01-10 20:29:16"
-        },
-        {
-            "domain_name": "river504.com",
-            "destination": "Bluehost",
-            "date": "2026-01-10 20:16:06"
         }
     ],
     "dailyMovedStat": {
@@ -995,8 +995,8 @@
         "Liquid Web": 777,
         "BigScoots": 711,
         "WordPress.com": 579,
+        "OVH": 509,
         "GridPane": 509,
-        "OVH": 508,
         "InMotion Hosting": 488,
         "Namecheap": 442,
         "A2 Hosting": 424,
