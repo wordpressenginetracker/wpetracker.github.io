@@ -1,6 +1,11 @@
 {
-    "siteCount": 113887,
+    "siteCount": 113898,
     "recentlyMoved": [
+        {
+            "domain_name": "nwcement.org",
+            "destination": "Digital Ocean",
+            "date": "2026-01-14 06:08:08"
+        },
         {
             "domain_name": "scottsdaleartauction.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "fireflyelectricalllc.com",
             "destination": "Elementor Hosting",
             "date": "2026-01-10 23:10:18"
-        },
-        {
-            "domain_name": "epiclimosf.com",
-            "destination": "HostGator",
-            "date": "2026-01-10 21:45:09"
         }
     ],
     "dailyMovedStat": {
@@ -988,7 +988,7 @@
         "Pressable": 11825,
         "Kinsta": 7691,
         "SiteGround": 5688,
-        "Digital Ocean": 5614,
+        "Digital Ocean": 5615,
         "Bluehost": 4371,
         "Hostinger": 4241,
         "GoDaddy": 1512,
