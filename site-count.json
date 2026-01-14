@@ -1,6 +1,11 @@
 {
-    "siteCount": 113927,
+    "siteCount": 113934,
     "recentlyMoved": [
+        {
+            "domain_name": "hi-techhealth.com",
+            "destination": "Hostinger",
+            "date": "2026-01-14 12:27:16"
+        },
         {
             "domain_name": "emmapilkingtonweddings.co.uk",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "movemycontainer.com",
             "destination": "Hostinger",
             "date": "2026-01-11 17:42:21"
-        },
-        {
-            "domain_name": "potteryworld.com",
-            "destination": "Hostinger",
-            "date": "2026-01-11 16:13:50"
         }
     ],
     "dailyMovedStat": {
@@ -990,7 +990,7 @@
         "SiteGround": 5688,
         "Digital Ocean": 5617,
         "Bluehost": 4373,
-        "Hostinger": 4241,
+        "Hostinger": 4242,
         "GoDaddy": 1512,
         "Liquid Web": 777,
         "BigScoots": 713,
