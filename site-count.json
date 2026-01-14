@@ -1,6 +1,26 @@
 {
-    "siteCount": 114017,
+    "siteCount": 114074,
     "recentlyMoved": [
+        {
+            "domain_name": "azurebuilders.com",
+            "destination": "Hostinger",
+            "date": "2026-01-14 20:30:54"
+        },
+        {
+            "domain_name": "robboslandscapesupplies.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-14 20:20:54"
+        },
+        {
+            "domain_name": "woodruffurology.com",
+            "destination": "Kinsta",
+            "date": "2026-01-14 20:09:49"
+        },
+        {
+            "domain_name": "palisadesfuel.com",
+            "destination": "Kinsta",
+            "date": "2026-01-14 19:44:21"
+        },
         {
             "domain_name": "northsidepower.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "qesynthesis.io",
             "destination": "WordPress.com",
             "date": "2026-01-13 07:56:01"
-        },
-        {
-            "domain_name": "afoodblog.notjust.co",
-            "destination": "Hostinger",
-            "date": "2026-01-13 07:14:55"
-        },
-        {
-            "domain_name": "ctstrasportisrl.it",
-            "destination": "Hostinger",
-            "date": "2026-01-13 05:49:35"
-        },
-        {
-            "domain_name": "crownworkspace.com",
-            "destination": "Pressable",
-            "date": "2026-01-13 05:39:57"
-        },
-        {
-            "domain_name": "mdvdds.com",
-            "destination": "GridPane",
-            "date": "2026-01-13 05:37:58"
         }
     ],
     "dailyMovedStat": {
@@ -986,13 +986,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 11830,
-        "Kinsta": 7705,
+        "Kinsta": 7708,
         "SiteGround": 5688,
         "Digital Ocean": 5622,
         "Bluehost": 4373,
-        "Hostinger": 4248,
+        "Hostinger": 4249,
         "GoDaddy": 1512,
-        "Liquid Web": 778,
+        "Liquid Web": 779,
         "BigScoots": 713,
         "WordPress.com": 581,
         "GridPane": 510,
