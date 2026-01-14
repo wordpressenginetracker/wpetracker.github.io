@@ -1,6 +1,26 @@
 {
-    "siteCount": 113874,
+    "siteCount": 113887,
     "recentlyMoved": [
+        {
+            "domain_name": "scottsdaleartauction.com",
+            "destination": "Kinsta",
+            "date": "2026-01-14 04:55:04"
+        },
+        {
+            "domain_name": "construction.icmtg.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-14 04:52:37"
+        },
+        {
+            "domain_name": "softwaretechcompany.com",
+            "destination": "Hostinger",
+            "date": "2026-01-14 04:26:57"
+        },
+        {
+            "domain_name": "katlynreilly.com",
+            "destination": "BigScoots",
+            "date": "2026-01-14 04:20:40"
+        },
         {
             "domain_name": "www.vancouverlacrosse.com",
             "destination": "OVH",
@@ -477,29 +497,9 @@
             "date": "2026-01-10 23:10:18"
         },
         {
-            "domain_name": "elitefireandwaterrestoration.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-01-10 21:54:24"
-        },
-        {
-            "domain_name": "elitedrainandseptic.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-01-10 21:54:24"
-        },
-        {
             "domain_name": "epiclimosf.com",
             "destination": "HostGator",
             "date": "2026-01-10 21:45:09"
-        },
-        {
-            "domain_name": "ipickwinners.com",
-            "destination": "Kinsta",
-            "date": "2026-01-10 20:59:24"
-        },
-        {
-            "domain_name": "chrisharrisjr.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-01-10 20:29:16"
         }
     ],
     "dailyMovedStat": {
@@ -986,14 +986,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11825,
-        "Kinsta": 7690,
+        "Kinsta": 7691,
         "SiteGround": 5688,
         "Digital Ocean": 5614,
         "Bluehost": 4371,
-        "Hostinger": 4240,
-        "GoDaddy": 1511,
+        "Hostinger": 4241,
+        "GoDaddy": 1512,
         "Liquid Web": 777,
-        "BigScoots": 711,
+        "BigScoots": 712,
         "WordPress.com": 579,
         "OVH": 509,
         "GridPane": 509,
