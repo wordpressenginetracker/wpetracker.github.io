@@ -1,6 +1,16 @@
 {
-    "siteCount": 113854,
+    "siteCount": 113858,
     "recentlyMoved": [
+        {
+            "domain_name": "bbai.io",
+            "destination": "Hostinger",
+            "date": "2026-01-14 00:18:07"
+        },
+        {
+            "domain_name": "accurateautomotiveinc.com",
+            "destination": "Pressable",
+            "date": "2026-01-14 00:03:57"
+        },
         {
             "domain_name": "vetsurgicare.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "medicalprofessionalsmag.com",
             "destination": "Wordify",
             "date": "2026-01-10 17:26:27"
-        },
-        {
-            "domain_name": "littlecloak.org",
-            "destination": "Wordify",
-            "date": "2026-01-10 17:13:00"
-        },
-        {
-            "domain_name": "crosslaketech.com",
-            "destination": "Kinsta",
-            "date": "2026-01-10 16:51:07"
         }
     ],
     "dailyMovedStat": {
@@ -985,7 +985,7 @@
         "2026-01-13": "113854"
     },
     "topDestinationHosts": {
-        "Pressable": 11823,
+        "Pressable": 11824,
         "Kinsta": 7689,
         "SiteGround": 5688,
         "Digital Ocean": 5614,
