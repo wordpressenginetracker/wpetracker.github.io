@@ -1,6 +1,11 @@
 {
-    "siteCount": 113913,
+    "siteCount": 113924,
     "recentlyMoved": [
+        {
+            "domain_name": "jms.ch",
+            "destination": "Kinsta",
+            "date": "2026-01-14 08:55:33"
+        },
         {
             "domain_name": "www.glacierhighline.com",
             "destination": "Pressable",
@@ -492,11 +497,6 @@
             "date": "2026-01-11 15:39:15"
         },
         {
-            "domain_name": "thermofresh.it",
-            "destination": "Hostinger",
-            "date": "2026-01-11 13:49:27"
-        },
-        {
             "domain_name": "dryflex.it",
             "destination": "Hostinger",
             "date": "2026-01-11 13:12:26"
@@ -985,8 +985,8 @@
         "2026-01-13": "113854"
     },
     "topDestinationHosts": {
-        "Pressable": 11826,
-        "Kinsta": 7692,
+        "Pressable": 11827,
+        "Kinsta": 7693,
         "SiteGround": 5688,
         "Digital Ocean": 5617,
         "Bluehost": 4372,
