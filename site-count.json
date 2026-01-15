@@ -1,6 +1,21 @@
 {
-    "siteCount": 114223,
+    "siteCount": 114233,
     "recentlyMoved": [
+        {
+            "domain_name": "waggawealth.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-15 17:44:32"
+        },
+        {
+            "domain_name": "drumspy.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-15 17:33:49"
+        },
+        {
+            "domain_name": "tuttlemanfoundation.org",
+            "destination": "Digital Ocean",
+            "date": "2026-01-15 17:29:26"
+        },
         {
             "domain_name": "successhabits.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "vetsurgicare.com",
             "destination": "Kinsta",
             "date": "2026-01-13 22:25:06"
-        },
-        {
-            "domain_name": "chenaltherapy.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 21:20:47"
-        },
-        {
-            "domain_name": "lasscass.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 21:19:28"
-        },
-        {
-            "domain_name": "cultivate.thegoodearthgarden.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 20:55:44"
         }
     ],
     "dailyMovedStat": {
@@ -987,9 +987,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11830,
-        "Kinsta": 7721,
+        "Kinsta": 7722,
         "SiteGround": 5688,
-        "Digital Ocean": 5628,
+        "Digital Ocean": 5630,
         "Bluehost": 4377,
         "Hostinger": 4251,
         "GoDaddy": 1513,
