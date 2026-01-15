@@ -1,6 +1,11 @@
 {
-    "siteCount": 114125,
+    "siteCount": 114136,
     "recentlyMoved": [
+        {
+            "domain_name": "qualiaschool.org",
+            "destination": "Bluehost",
+            "date": "2026-01-15 04:13:38"
+        },
         {
             "domain_name": "thewaggapoolshop.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "ocab.nl",
             "destination": "Kinsta",
             "date": "2026-01-13 14:22:30"
-        },
-        {
-            "domain_name": "nonyl-phenol.com",
-            "destination": "Hostinger",
-            "date": "2026-01-13 13:35:22"
         }
     ],
     "dailyMovedStat": {
@@ -990,7 +990,7 @@
         "Kinsta": 7718,
         "SiteGround": 5688,
         "Digital Ocean": 5625,
-        "Bluehost": 4375,
+        "Bluehost": 4376,
         "Hostinger": 4249,
         "GoDaddy": 1512,
         "Liquid Web": 779,
