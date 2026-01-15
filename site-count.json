@@ -1,6 +1,11 @@
 {
-    "siteCount": 114181,
+    "siteCount": 114193,
     "recentlyMoved": [
+        {
+            "domain_name": "knockdownthehouse.com",
+            "destination": "DreamHost",
+            "date": "2026-01-15 12:33:24"
+        },
         {
             "domain_name": "phoenixhockeyclub.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "a1led.net",
             "destination": "Kinsta",
             "date": "2026-01-13 19:11:34"
-        },
-        {
-            "domain_name": "nickcesarz.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-13 18:35:13"
         }
     ],
     "dailyMovedStat": {
@@ -1002,7 +1002,7 @@
         "Namecheap": 443,
         "A2 Hosting": 424,
         "IONOS": 424,
-        "DreamHost": 401,
+        "DreamHost": 402,
         "Elementor Hosting": 396,
         "Hetzner Online": 334,
         "HostGator": 256
