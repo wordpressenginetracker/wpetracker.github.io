@@ -1,6 +1,26 @@
 {
-    "siteCount": 114198,
+    "siteCount": 114209,
     "recentlyMoved": [
+        {
+            "domain_name": "hnpfit.com",
+            "destination": "Bluehost",
+            "date": "2026-01-15 16:39:05"
+        },
+        {
+            "domain_name": "pricemyac.com",
+            "destination": "Kinsta",
+            "date": "2026-01-15 16:22:44"
+        },
+        {
+            "domain_name": "fittslawfirm.com",
+            "destination": "BigScoots",
+            "date": "2026-01-15 15:35:03"
+        },
+        {
+            "domain_name": "3pillarconstruction.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-15 15:18:30"
+        },
         {
             "domain_name": "turcolegal.com",
             "destination": "Kinsta",
@@ -472,34 +492,14 @@
             "date": "2026-01-13 21:12:57"
         },
         {
-            "domain_name": "sff.gbtesting.us",
-            "destination": "Digital Ocean",
-            "date": "2026-01-13 21:04:05"
-        },
-        {
             "domain_name": "cultivate.thegoodearthgarden.com",
             "destination": "Kinsta",
             "date": "2026-01-13 20:55:44"
         },
         {
-            "domain_name": "riverinamechanical.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-13 20:48:18"
-        },
-        {
             "domain_name": "sharrockhomes.com",
             "destination": "Kinsta",
             "date": "2026-01-13 20:30:31"
-        },
-        {
-            "domain_name": "hangersar.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 20:18:00"
-        },
-        {
-            "domain_name": "wrapologyar.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 19:57:54"
         }
     ],
     "dailyMovedStat": {
@@ -987,14 +987,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11830,
-        "Kinsta": 7720,
+        "Kinsta": 7721,
         "SiteGround": 5688,
-        "Digital Ocean": 5627,
-        "Bluehost": 4376,
+        "Digital Ocean": 5628,
+        "Bluehost": 4377,
         "Hostinger": 4250,
         "GoDaddy": 1513,
         "Liquid Web": 779,
-        "BigScoots": 714,
+        "BigScoots": 715,
         "WordPress.com": 581,
         "OVH": 510,
         "GridPane": 510,
