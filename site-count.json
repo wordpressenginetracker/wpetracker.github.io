@@ -1,6 +1,11 @@
 {
-    "siteCount": 114121,
+    "siteCount": 114125,
     "recentlyMoved": [
+        {
+            "domain_name": "thewaggapoolshop.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-15 01:21:13"
+        },
         {
             "domain_name": "www.pamanabenefit.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "ocab.nl",
             "destination": "Kinsta",
             "date": "2026-01-13 14:22:30"
-        },
-        {
-            "domain_name": "usaselfstoragear.com",
-            "destination": "Kinsta",
-            "date": "2026-01-13 13:59:53"
         },
         {
             "domain_name": "nonyl-phenol.com",
@@ -987,7 +987,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11830,
-        "Kinsta": 7717,
+        "Kinsta": 7718,
         "SiteGround": 5688,
         "Digital Ocean": 5625,
         "Bluehost": 4375,
