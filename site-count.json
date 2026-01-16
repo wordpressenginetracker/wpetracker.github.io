@@ -1,6 +1,16 @@
 {
-    "siteCount": 114299,
+    "siteCount": 114307,
     "recentlyMoved": [
+        {
+            "domain_name": "absoluteservices.net",
+            "destination": "GoDaddy",
+            "date": "2026-01-15 23:40:17"
+        },
+        {
+            "domain_name": "goallagency.com",
+            "destination": "Kinsta",
+            "date": "2026-01-15 23:33:00"
+        },
         {
             "domain_name": "stackwizard.com",
             "destination": "Bluehost",
@@ -487,19 +497,9 @@
             "date": "2026-01-14 07:42:06"
         },
         {
-            "domain_name": "origin-rehab.com",
-            "destination": "Bluehost",
-            "date": "2026-01-14 07:41:40"
-        },
-        {
             "domain_name": "foodstudies.com.au",
             "destination": "Kinsta",
             "date": "2026-01-14 07:14:08"
-        },
-        {
-            "domain_name": "nwcement.org",
-            "destination": "Digital Ocean",
-            "date": "2026-01-14 06:08:08"
         }
     ],
     "dailyMovedStat": {
@@ -988,12 +988,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11830,
-        "Kinsta": 7729,
+        "Kinsta": 7730,
         "SiteGround": 5689,
         "Digital Ocean": 5633,
         "Bluehost": 4379,
         "Hostinger": 4252,
-        "GoDaddy": 1513,
+        "GoDaddy": 1514,
         "Liquid Web": 779,
         "BigScoots": 715,
         "WordPress.com": 581,
