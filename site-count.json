@@ -1,6 +1,11 @@
 {
-    "siteCount": 114342,
+    "siteCount": 114346,
     "recentlyMoved": [
+        {
+            "domain_name": "vrachtbaan.nl",
+            "destination": "Kinsta",
+            "date": "2026-01-16 06:21:56"
+        },
         {
             "domain_name": "britishow.ca",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "board.flaquarium.org",
             "destination": "Kinsta",
             "date": "2026-01-14 12:05:58"
-        },
-        {
-            "domain_name": "vinandvinlandscaping.com",
-            "destination": "Bluehost",
-            "date": "2026-01-14 09:40:44"
         }
     ],
     "dailyMovedStat": {
@@ -988,7 +988,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11832,
-        "Kinsta": 7731,
+        "Kinsta": 7732,
         "SiteGround": 5689,
         "Digital Ocean": 5633,
         "Bluehost": 4380,
