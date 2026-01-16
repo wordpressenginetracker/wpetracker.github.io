@@ -1,6 +1,21 @@
 {
-    "siteCount": 114320,
+    "siteCount": 114334,
     "recentlyMoved": [
+        {
+            "domain_name": "affluxi.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-01-16 04:06:42"
+        },
+        {
+            "domain_name": "pomt.ae",
+            "destination": "Pressable",
+            "date": "2026-01-16 03:32:50"
+        },
+        {
+            "domain_name": "advance-trading.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-16 03:28:40"
+        },
         {
             "domain_name": "stimulated-inc.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "vinandvinlandscaping.com",
             "destination": "Bluehost",
             "date": "2026-01-14 09:40:44"
-        },
-        {
-            "domain_name": "jms.ch",
-            "destination": "Kinsta",
-            "date": "2026-01-14 08:55:33"
-        },
-        {
-            "domain_name": "www.glacierhighline.com",
-            "destination": "Pressable",
-            "date": "2026-01-14 08:36:36"
-        },
-        {
-            "domain_name": "hischarity.org.uk",
-            "destination": "Pressable",
-            "date": "2026-01-14 08:32:51"
         }
     ],
     "dailyMovedStat": {
@@ -987,12 +987,12 @@
         "2026-01-15": "114299"
     },
     "topDestinationHosts": {
-        "Pressable": 11831,
-        "Kinsta": 7730,
+        "Pressable": 11832,
+        "Kinsta": 7731,
         "SiteGround": 5689,
         "Digital Ocean": 5633,
         "Bluehost": 4380,
-        "Hostinger": 4252,
+        "Hostinger": 4253,
         "GoDaddy": 1514,
         "Liquid Web": 779,
         "BigScoots": 715,
