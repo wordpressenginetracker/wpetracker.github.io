@@ -1,6 +1,26 @@
 {
-    "siteCount": 114361,
+    "siteCount": 114376,
     "recentlyMoved": [
+        {
+            "domain_name": "pnk.group",
+            "destination": "GoDaddy",
+            "date": "2026-01-16 12:02:17"
+        },
+        {
+            "domain_name": "www.goldschmidtgenovese.com",
+            "destination": "Bluehost",
+            "date": "2026-01-16 11:32:48"
+        },
+        {
+            "domain_name": "franchiseinfo.n2co.com",
+            "destination": "Wordify",
+            "date": "2026-01-16 11:24:23"
+        },
+        {
+            "domain_name": "franchise.n2co.com",
+            "destination": "Wordify",
+            "date": "2026-01-16 11:24:23"
+        },
         {
             "domain_name": "craneco-parts.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "suncoastfoodandwinefest.com",
             "destination": "WordPress.com",
             "date": "2026-01-14 13:27:21"
-        },
-        {
-            "domain_name": "kidsdevelopmentaltherapy.com",
-            "destination": "Hostinger",
-            "date": "2026-01-14 13:11:54"
-        },
-        {
-            "domain_name": "www.kidsdevelopmentalclinic.com",
-            "destination": "Hostinger",
-            "date": "2026-01-14 12:55:53"
-        },
-        {
-            "domain_name": "stinsonservices.com",
-            "destination": "Kinsta",
-            "date": "2026-01-14 12:52:41"
-        },
-        {
-            "domain_name": "bssva.org",
-            "destination": "Digital Ocean",
-            "date": "2026-01-14 12:48:19"
         }
     ],
     "dailyMovedStat": {
@@ -991,9 +991,9 @@
         "Kinsta": 7732,
         "SiteGround": 5689,
         "Digital Ocean": 5634,
-        "Bluehost": 4380,
+        "Bluehost": 4381,
         "Hostinger": 4254,
-        "GoDaddy": 1514,
+        "GoDaddy": 1515,
         "Liquid Web": 779,
         "BigScoots": 715,
         "WordPress.com": 581,
