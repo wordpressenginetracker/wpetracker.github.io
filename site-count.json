@@ -1,10 +1,15 @@
 {
-    "siteCount": 114548,
+    "siteCount": 114551,
     "recentlyMoved": [
         {
             "domain_name": "terabitit.com",
             "destination": "Bluehost",
             "date": "2026-01-17 09:33:06"
+        },
+        {
+            "domain_name": "volzfinancial.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-01-17 09:32:53"
         },
         {
             "domain_name": "www.synergyhealth360.com",
@@ -490,11 +495,6 @@
             "domain_name": "edafl.com",
             "destination": "Kinsta",
             "date": "2026-01-14 21:36:56"
-        },
-        {
-            "domain_name": "confirmed.n2co.com",
-            "destination": "Wordify",
-            "date": "2026-01-14 21:25:24"
         },
         {
             "domain_name": "morkescedarlake.com",
@@ -989,10 +989,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11836,
-        "Kinsta": 7747,
+        "Kinsta": 7748,
         "SiteGround": 5689,
         "Digital Ocean": 5634,
-        "Bluehost": 4386,
+        "Bluehost": 4387,
         "Hostinger": 4262,
         "GoDaddy": 1515,
         "Liquid Web": 782,
