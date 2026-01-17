@@ -1,6 +1,11 @@
 {
-    "siteCount": 114509,
+    "siteCount": 114518,
     "recentlyMoved": [
+        {
+            "domain_name": "www.comfort-air.com",
+            "destination": "Pressable",
+            "date": "2026-01-17 04:33:21"
+        },
         {
             "domain_name": "dfppartners.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "woodruffurology.com",
             "destination": "Kinsta",
             "date": "2026-01-14 20:09:49"
-        },
-        {
-            "domain_name": "palisadesfuel.com",
-            "destination": "Kinsta",
-            "date": "2026-01-14 19:44:21"
         }
     ],
     "dailyMovedStat": {
@@ -988,7 +988,7 @@
         "2026-01-16": "114491"
     },
     "topDestinationHosts": {
-        "Pressable": 11835,
+        "Pressable": 11836,
         "Kinsta": 7747,
         "SiteGround": 5689,
         "Digital Ocean": 5634,
