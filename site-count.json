@@ -1,6 +1,11 @@
 {
-    "siteCount": 114536,
+    "siteCount": 114539,
     "recentlyMoved": [
+        {
+            "domain_name": "hamiltonplaceevents.com",
+            "destination": "Bluehost",
+            "date": "2026-01-17 07:36:18"
+        },
         {
             "domain_name": "mtselectllc.com",
             "destination": "Liquid Web",
@@ -485,11 +490,6 @@
             "domain_name": "cohnface.com",
             "destination": "Kinsta",
             "date": "2026-01-14 21:16:20"
-        },
-        {
-            "domain_name": "solarwiseww.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-14 21:03:51"
         },
         {
             "domain_name": "www.rog3.com",
@@ -992,7 +992,7 @@
         "Kinsta": 7747,
         "SiteGround": 5689,
         "Digital Ocean": 5634,
-        "Bluehost": 4382,
+        "Bluehost": 4383,
         "Hostinger": 4261,
         "GoDaddy": 1515,
         "Liquid Web": 782,
