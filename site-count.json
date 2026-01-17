@@ -1,6 +1,21 @@
 {
-    "siteCount": 114551,
+    "siteCount": 114560,
     "recentlyMoved": [
+        {
+            "domain_name": "westtermite.com",
+            "destination": "Kinsta",
+            "date": "2026-01-17 11:58:06"
+        },
+        {
+            "domain_name": "wowfactorfinds.com",
+            "destination": "Namecheap",
+            "date": "2026-01-17 11:53:47"
+        },
+        {
+            "domain_name": "www.luminous-spaces.com",
+            "destination": "Kinsta",
+            "date": "2026-01-17 11:25:23"
+        },
         {
             "domain_name": "terabitit.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "annie-louise.com",
             "destination": "BigScoots",
             "date": "2026-01-14 23:34:34"
-        },
-        {
-            "domain_name": "etherealprojects.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-14 22:02:32"
-        },
-        {
-            "domain_name": "edafl.com",
-            "destination": "Kinsta",
-            "date": "2026-01-14 21:36:56"
-        },
-        {
-            "domain_name": "morkescedarlake.com",
-            "destination": "Bluehost",
-            "date": "2026-01-14 21:20:54"
         }
     ],
     "dailyMovedStat": {
@@ -989,7 +989,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11836,
-        "Kinsta": 7748,
+        "Kinsta": 7750,
         "SiteGround": 5689,
         "Digital Ocean": 5634,
         "Bluehost": 4387,
@@ -1001,7 +1001,7 @@
         "OVH": 515,
         "GridPane": 511,
         "InMotion Hosting": 488,
-        "Namecheap": 445,
+        "Namecheap": 446,
         "A2 Hosting": 426,
         "IONOS": 425,
         "DreamHost": 402,
