@@ -1,6 +1,11 @@
 {
-    "siteCount": 114622,
+    "siteCount": 114678,
     "recentlyMoved": [
+        {
+            "domain_name": "westcoastcardsandcomics.com",
+            "destination": "Hostinger",
+            "date": "2026-01-17 20:03:46"
+        },
         {
             "domain_name": "oakdaledental.net",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "fireinyou.org",
             "destination": "A2 Hosting",
             "date": "2026-01-15 19:22:40"
-        },
-        {
-            "domain_name": "waggawealth.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-15 17:44:32"
         }
     ],
     "dailyMovedStat": {
@@ -991,10 +991,10 @@
         "Pressable": 11837,
         "Kinsta": 7756,
         "SiteGround": 5689,
-        "Digital Ocean": 5641,
+        "Digital Ocean": 5644,
         "Bluehost": 4387,
-        "Hostinger": 4266,
-        "GoDaddy": 1517,
+        "Hostinger": 4267,
+        "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 716,
         "WordPress.com": 581,
