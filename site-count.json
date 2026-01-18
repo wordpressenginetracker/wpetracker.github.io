@@ -1,6 +1,11 @@
 {
-    "siteCount": 114726,
+    "siteCount": 114729,
     "recentlyMoved": [
+        {
+            "domain_name": "cargotransinc.com",
+            "destination": "Hostinger",
+            "date": "2026-01-18 08:40:39"
+        },
         {
             "domain_name": "apresto.app",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "lilerealestate.com",
             "destination": "Kinsta",
             "date": "2026-01-15 21:22:17"
-        },
-        {
-            "domain_name": "classicroofers.com",
-            "destination": "Kinsta",
-            "date": "2026-01-15 20:41:39"
         }
     ],
     "dailyMovedStat": {
@@ -994,7 +994,7 @@
         "SiteGround": 5689,
         "Digital Ocean": 5646,
         "Bluehost": 4387,
-        "Hostinger": 4268,
+        "Hostinger": 4269,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
