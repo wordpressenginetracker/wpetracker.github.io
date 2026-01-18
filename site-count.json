@@ -1,6 +1,11 @@
 {
-    "siteCount": 114787,
+    "siteCount": 114790,
     "recentlyMoved": [
+        {
+            "domain_name": "mechanicalxadvantage.com",
+            "destination": "WordPress.com",
+            "date": "2026-01-18 21:21:53"
+        },
         {
             "domain_name": "www.compradecoches.es",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "vrachtbaan.nl",
             "destination": "Kinsta",
             "date": "2026-01-16 06:21:56"
-        },
-        {
-            "domain_name": "britishow.ca",
-            "destination": "OVH",
-            "date": "2026-01-16 04:13:18"
         }
     ],
     "dailyMovedStat": {
@@ -998,7 +998,7 @@
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
-        "WordPress.com": 581,
+        "WordPress.com": 582,
         "OVH": 518,
         "GridPane": 511,
         "InMotion Hosting": 488,
