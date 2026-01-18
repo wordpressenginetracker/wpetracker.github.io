@@ -1,6 +1,26 @@
 {
-    "siteCount": 114704,
+    "siteCount": 114711,
     "recentlyMoved": [
+        {
+            "domain_name": "virtuous.org",
+            "destination": "BigScoots",
+            "date": "2026-01-18 01:49:06"
+        },
+        {
+            "domain_name": "explore.raisedonors.com",
+            "destination": "BigScoots",
+            "date": "2026-01-18 01:46:23"
+        },
+        {
+            "domain_name": "vomo.org",
+            "destination": "BigScoots",
+            "date": "2026-01-18 01:40:58"
+        },
+        {
+            "domain_name": "datascience.library.claremont.edu",
+            "destination": "Pressable",
+            "date": "2026-01-18 01:29:54"
+        },
         {
             "domain_name": "brand.virtuous.org",
             "destination": "BigScoots",
@@ -477,29 +497,9 @@
             "date": "2026-01-15 20:41:39"
         },
         {
-            "domain_name": "growwithelite.com",
-            "destination": "Hostinger",
-            "date": "2026-01-15 20:23:48"
-        },
-        {
             "domain_name": "jnccharities.com",
             "destination": "Kinsta",
             "date": "2026-01-15 20:14:08"
-        },
-        {
-            "domain_name": "innovationsineyecare.com",
-            "destination": "OVH",
-            "date": "2026-01-15 20:12:11"
-        },
-        {
-            "domain_name": "roddyeng.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-15 19:55:22"
-        },
-        {
-            "domain_name": "www.wildcreekautorestoration.co",
-            "destination": "SiteGround",
-            "date": "2026-01-15 19:47:22"
         }
     ],
     "dailyMovedStat": {
@@ -989,7 +989,7 @@
         "2026-01-17": "114692"
     },
     "topDestinationHosts": {
-        "Pressable": 11838,
+        "Pressable": 11839,
         "Kinsta": 7756,
         "SiteGround": 5689,
         "Digital Ocean": 5645,
@@ -997,7 +997,7 @@
         "Hostinger": 4267,
         "GoDaddy": 1518,
         "Liquid Web": 782,
-        "BigScoots": 718,
+        "BigScoots": 721,
         "WordPress.com": 581,
         "OVH": 516,
         "GridPane": 511,
