@@ -1,6 +1,21 @@
 {
-    "siteCount": 114711,
+    "siteCount": 114721,
     "recentlyMoved": [
+        {
+            "domain_name": "apresto.app",
+            "destination": "Digital Ocean",
+            "date": "2026-01-18 03:50:33"
+        },
+        {
+            "domain_name": "fabulousmama.nl",
+            "destination": "Hetzner Online",
+            "date": "2026-01-18 03:46:00"
+        },
+        {
+            "domain_name": "friocampriverview.com",
+            "destination": "Hostinger",
+            "date": "2026-01-18 03:30:25"
+        },
         {
             "domain_name": "virtuous.org",
             "destination": "BigScoots",
@@ -477,29 +492,14 @@
             "date": "2026-01-15 23:33:00"
         },
         {
-            "domain_name": "stackwizard.com",
-            "destination": "Bluehost",
-            "date": "2026-01-15 21:24:11"
-        },
-        {
             "domain_name": "lilerealestate.com",
             "destination": "Kinsta",
             "date": "2026-01-15 21:22:17"
         },
         {
-            "domain_name": "kresk4oceans.com",
-            "destination": "OVH",
-            "date": "2026-01-15 21:03:04"
-        },
-        {
             "domain_name": "classicroofers.com",
             "destination": "Kinsta",
             "date": "2026-01-15 20:41:39"
-        },
-        {
-            "domain_name": "jnccharities.com",
-            "destination": "Kinsta",
-            "date": "2026-01-15 20:14:08"
         }
     ],
     "dailyMovedStat": {
@@ -992,9 +992,9 @@
         "Pressable": 11839,
         "Kinsta": 7756,
         "SiteGround": 5689,
-        "Digital Ocean": 5645,
+        "Digital Ocean": 5646,
         "Bluehost": 4387,
-        "Hostinger": 4267,
+        "Hostinger": 4268,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
@@ -1007,7 +1007,7 @@
         "IONOS": 425,
         "DreamHost": 402,
         "Elementor Hosting": 396,
-        "Hetzner Online": 334,
+        "Hetzner Online": 335,
         "HostGator": 256
     },
     "dailyTotalStat": {
