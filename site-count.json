@@ -1,6 +1,11 @@
 {
-    "siteCount": 114699,
+    "siteCount": 114704,
     "recentlyMoved": [
+        {
+            "domain_name": "brand.virtuous.org",
+            "destination": "BigScoots",
+            "date": "2026-01-18 00:11:21"
+        },
         {
             "domain_name": "library.claremont.edu",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.wildcreekautorestoration.co",
             "destination": "SiteGround",
             "date": "2026-01-15 19:47:22"
-        },
-        {
-            "domain_name": "go-sherman.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-15 19:30:31"
         }
     ],
     "dailyMovedStat": {
@@ -997,7 +997,7 @@
         "Hostinger": 4267,
         "GoDaddy": 1518,
         "Liquid Web": 782,
-        "BigScoots": 717,
+        "BigScoots": 718,
         "WordPress.com": 581,
         "OVH": 516,
         "GridPane": 511,
