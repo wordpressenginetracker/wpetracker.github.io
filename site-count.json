@@ -1,10 +1,20 @@
 {
-    "siteCount": 114753,
+    "siteCount": 114759,
     "recentlyMoved": [
+        {
+            "domain_name": "kodejava.org",
+            "destination": "Hostinger",
+            "date": "2026-01-18 16:51:36"
+        },
         {
             "domain_name": "arakyta.com",
             "destination": "Hostinger",
             "date": "2026-01-18 16:25:36"
+        },
+        {
+            "domain_name": "capta.org",
+            "destination": "Hostinger",
+            "date": "2026-01-18 16:20:45"
         },
         {
             "domain_name": "tiptontraining.co.uk",
@@ -490,16 +500,6 @@
             "domain_name": "pomt.ae",
             "destination": "Pressable",
             "date": "2026-01-16 03:32:50"
-        },
-        {
-            "domain_name": "advance-trading.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-16 03:28:40"
-        },
-        {
-            "domain_name": "stimulated-inc.com",
-            "destination": "Pressable",
-            "date": "2026-01-16 01:06:03"
         }
     ],
     "dailyMovedStat": {
@@ -994,7 +994,7 @@
         "SiteGround": 5689,
         "Digital Ocean": 5648,
         "Bluehost": 4387,
-        "Hostinger": 4270,
+        "Hostinger": 4272,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
