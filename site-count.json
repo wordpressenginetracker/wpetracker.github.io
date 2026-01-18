@@ -1,6 +1,11 @@
 {
-    "siteCount": 114759,
+    "siteCount": 114763,
     "recentlyMoved": [
+        {
+            "domain_name": "marissachibas.com",
+            "destination": "Pressable",
+            "date": "2026-01-18 17:07:38"
+        },
         {
             "domain_name": "kodejava.org",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "britishow.ca",
             "destination": "OVH",
             "date": "2026-01-16 04:13:18"
-        },
-        {
-            "domain_name": "affluxi.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-01-16 04:06:42"
         },
         {
             "domain_name": "pomt.ae",
@@ -989,7 +989,7 @@
         "2026-01-17": "114692"
     },
     "topDestinationHosts": {
-        "Pressable": 11839,
+        "Pressable": 11840,
         "Kinsta": 7756,
         "SiteGround": 5689,
         "Digital Ocean": 5648,
