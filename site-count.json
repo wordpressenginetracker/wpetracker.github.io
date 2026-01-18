@@ -1,6 +1,11 @@
 {
-    "siteCount": 114747,
+    "siteCount": 114753,
     "recentlyMoved": [
+        {
+            "domain_name": "arakyta.com",
+            "destination": "Hostinger",
+            "date": "2026-01-18 16:25:36"
+        },
         {
             "domain_name": "tiptontraining.co.uk",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "stimulated-inc.com",
             "destination": "Pressable",
             "date": "2026-01-16 01:06:03"
-        },
-        {
-            "domain_name": "carematrix.net",
-            "destination": "A2 Hosting",
-            "date": "2026-01-16 00:24:41"
         }
     ],
     "dailyMovedStat": {
@@ -994,7 +994,7 @@
         "SiteGround": 5689,
         "Digital Ocean": 5648,
         "Bluehost": 4387,
-        "Hostinger": 4269,
+        "Hostinger": 4270,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
