@@ -1,6 +1,11 @@
 {
-    "siteCount": 114854,
+    "siteCount": 114889,
     "recentlyMoved": [
+        {
+            "domain_name": "archkckbenefits.com",
+            "destination": "Pressable",
+            "date": "2026-01-19 20:05:16"
+        },
         {
             "domain_name": "www.vaginismo.com.br",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "anthonywiselyconstructions.com.au",
             "destination": "Kinsta",
             "date": "2026-01-16 19:41:56"
-        },
-        {
-            "domain_name": "opportunities.n2co.com",
-            "destination": "Wordify",
-            "date": "2026-01-16 19:40:05"
         },
         {
             "domain_name": "academiedespompiers.ca",
@@ -990,16 +990,16 @@
         "2026-01-18": "114790"
     },
     "topDestinationHosts": {
-        "Pressable": 11840,
-        "Kinsta": 7758,
+        "Pressable": 11841,
+        "Kinsta": 7759,
         "SiteGround": 5689,
-        "Digital Ocean": 5650,
+        "Digital Ocean": 5651,
         "Bluehost": 4388,
         "Hostinger": 4277,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
-        "WordPress.com": 583,
+        "WordPress.com": 584,
         "OVH": 519,
         "GridPane": 511,
         "InMotion Hosting": 488,
@@ -1008,7 +1008,7 @@
         "IONOS": 426,
         "DreamHost": 403,
         "Elementor Hosting": 396,
-        "Hetzner Online": 335,
+        "Hetzner Online": 336,
         "HostGator": 256
     },
     "dailyTotalStat": {
