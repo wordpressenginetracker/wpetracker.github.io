@@ -1,6 +1,11 @@
 {
-    "siteCount": 114823,
+    "siteCount": 114828,
     "recentlyMoved": [
+        {
+            "domain_name": "size8clinic.com",
+            "destination": "Hostinger",
+            "date": "2026-01-19 05:12:20"
+        },
         {
             "domain_name": "www.villadesanantonio.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "www.joycelayman.com",
             "destination": "Hostinger",
             "date": "2026-01-16 16:07:42"
-        },
-        {
-            "domain_name": "www.bmrpoolandpatio.com",
-            "destination": "Hostinger",
-            "date": "2026-01-16 16:00:35"
         }
     ],
     "dailyMovedStat": {
@@ -995,7 +995,7 @@
         "SiteGround": 5689,
         "Digital Ocean": 5650,
         "Bluehost": 4388,
-        "Hostinger": 4275,
+        "Hostinger": 4276,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
