@@ -1,6 +1,16 @@
 {
-    "siteCount": 114790,
+    "siteCount": 114801,
     "recentlyMoved": [
+        {
+            "domain_name": "reesebuilders.com",
+            "destination": "Hostinger",
+            "date": "2026-01-19 00:31:49"
+        },
+        {
+            "domain_name": "afroballers.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-18 23:53:34"
+        },
         {
             "domain_name": "mechanicalxadvantage.com",
             "destination": "WordPress.com",
@@ -490,16 +500,6 @@
             "domain_name": "craneco-parts.com",
             "destination": "Digital Ocean",
             "date": "2026-01-16 09:32:44"
-        },
-        {
-            "domain_name": "stouravonmagazine.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-01-16 08:41:46"
-        },
-        {
-            "domain_name": "vrachtbaan.nl",
-            "destination": "Kinsta",
-            "date": "2026-01-16 06:21:56"
         }
     ],
     "dailyMovedStat": {
@@ -993,9 +993,9 @@
         "Pressable": 11840,
         "Kinsta": 7757,
         "SiteGround": 5689,
-        "Digital Ocean": 5648,
+        "Digital Ocean": 5649,
         "Bluehost": 4387,
-        "Hostinger": 4272,
+        "Hostinger": 4273,
         "GoDaddy": 1518,
         "Liquid Web": 782,
         "BigScoots": 721,
