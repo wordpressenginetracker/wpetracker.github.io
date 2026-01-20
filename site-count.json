@@ -1,6 +1,11 @@
 {
-    "siteCount": 114910,
+    "siteCount": 114912,
     "recentlyMoved": [
+        {
+            "domain_name": "www.designsbydani.net",
+            "destination": "GoDaddy",
+            "date": "2026-01-20 04:03:28"
+        },
         {
             "domain_name": "limitlessmindstherapy.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "info.n2co.com",
             "destination": "Wordify",
             "date": "2026-01-16 20:02:56"
-        },
-        {
-            "domain_name": "anthonywiselyconstructions.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-16 19:41:56"
         }
     ],
     "dailyMovedStat": {
@@ -997,7 +997,7 @@
         "Digital Ocean": 5651,
         "Bluehost": 4388,
         "Hostinger": 4277,
-        "GoDaddy": 1518,
+        "GoDaddy": 1519,
         "Liquid Web": 782,
         "BigScoots": 722,
         "WordPress.com": 584,
