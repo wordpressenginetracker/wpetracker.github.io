@@ -1,6 +1,11 @@
 {
-    "siteCount": 114907,
+    "siteCount": 114908,
     "recentlyMoved": [
+        {
+            "domain_name": "limitlessmindstherapy.com",
+            "destination": "Kinsta",
+            "date": "2026-01-20 00:51:42"
+        },
         {
             "domain_name": "recsgroup.com.au",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "info.n2co.com",
             "destination": "Wordify",
             "date": "2026-01-16 20:02:56"
-        },
-        {
-            "domain_name": "fsioffice.com",
-            "destination": "Pressable",
-            "date": "2026-01-16 19:57:29"
         },
         {
             "domain_name": "anthonywiselyconstructions.com.au",
@@ -992,7 +992,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11841,
-        "Kinsta": 7760,
+        "Kinsta": 7761,
         "SiteGround": 5689,
         "Digital Ocean": 5651,
         "Bluehost": 4388,
