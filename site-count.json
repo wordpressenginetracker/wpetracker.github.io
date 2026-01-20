@@ -1,10 +1,40 @@
 {
-    "siteCount": 114995,
+    "siteCount": 115013,
     "recentlyMoved": [
+        {
+            "domain_name": "sundownrents.com",
+            "destination": "Kinsta",
+            "date": "2026-01-20 17:39:27"
+        },
+        {
+            "domain_name": "rocksolidconcretecon.com",
+            "destination": "Hostinger",
+            "date": "2026-01-20 16:52:02"
+        },
+        {
+            "domain_name": "serenitycareservice.com",
+            "destination": "Hostinger",
+            "date": "2026-01-20 16:39:35"
+        },
+        {
+            "domain_name": "scottcathcart.net",
+            "destination": "Namecheap",
+            "date": "2026-01-20 16:39:00"
+        },
+        {
+            "domain_name": "scottcathcart.com",
+            "destination": "Namecheap",
+            "date": "2026-01-20 16:39:00"
+        },
         {
             "domain_name": "avekip.com",
             "destination": "Hostinger",
             "date": "2026-01-20 16:25:33"
+        },
+        {
+            "domain_name": "jpbdesigns.com",
+            "destination": "WordPress.com",
+            "date": "2026-01-20 16:19:17"
         },
         {
             "domain_name": "amandagracephotography.net",
@@ -467,39 +497,9 @@
             "date": "2026-01-17 12:37:11"
         },
         {
-            "domain_name": "itsasecretacademy.com",
-            "destination": "Kinsta",
-            "date": "2026-01-17 12:27:12"
-        },
-        {
-            "domain_name": "seamgroup.pl",
-            "destination": "OVH",
-            "date": "2026-01-17 12:14:26"
-        },
-        {
             "domain_name": "brouwerbuilding.com",
             "destination": "Hostinger",
             "date": "2026-01-17 12:07:47"
-        },
-        {
-            "domain_name": "westtermite.com",
-            "destination": "Kinsta",
-            "date": "2026-01-17 11:58:06"
-        },
-        {
-            "domain_name": "wowfactorfinds.com",
-            "destination": "Namecheap",
-            "date": "2026-01-17 11:53:47"
-        },
-        {
-            "domain_name": "www.luminous-spaces.com",
-            "destination": "Kinsta",
-            "date": "2026-01-17 11:25:23"
-        },
-        {
-            "domain_name": "volzfinancial.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-01-17 09:32:53"
         }
     ],
     "dailyMovedStat": {
@@ -992,19 +992,19 @@
     },
     "topDestinationHosts": {
         "Pressable": 11847,
-        "Kinsta": 7768,
+        "Kinsta": 7769,
         "SiteGround": 5689,
         "Digital Ocean": 5657,
         "Bluehost": 4389,
-        "Hostinger": 4280,
+        "Hostinger": 4282,
         "GoDaddy": 1520,
         "Liquid Web": 784,
         "BigScoots": 722,
-        "WordPress.com": 586,
+        "WordPress.com": 587,
         "OVH": 520,
         "GridPane": 511,
         "InMotion Hosting": 488,
-        "Namecheap": 447,
+        "Namecheap": 449,
         "IONOS": 428,
         "A2 Hosting": 426,
         "DreamHost": 403,
