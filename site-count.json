@@ -1,6 +1,36 @@
 {
-    "siteCount": 114980,
+    "siteCount": 114995,
     "recentlyMoved": [
+        {
+            "domain_name": "avekip.com",
+            "destination": "Hostinger",
+            "date": "2026-01-20 16:25:33"
+        },
+        {
+            "domain_name": "amandagracephotography.net",
+            "destination": "Bluehost",
+            "date": "2026-01-20 16:15:35"
+        },
+        {
+            "domain_name": "phoenixheart.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-20 16:13:21"
+        },
+        {
+            "domain_name": "bbsiding.com",
+            "destination": "Liquid Web",
+            "date": "2026-01-20 15:59:45"
+        },
+        {
+            "domain_name": "www.bensasphalt.com",
+            "destination": "Kinsta",
+            "date": "2026-01-20 15:42:13"
+        },
+        {
+            "domain_name": "writerlaw.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-20 15:17:21"
+        },
         {
             "domain_name": "washburnironworks.com",
             "destination": "Pressable",
@@ -467,39 +497,9 @@
             "date": "2026-01-17 11:25:23"
         },
         {
-            "domain_name": "terabitit.com",
-            "destination": "Bluehost",
-            "date": "2026-01-17 09:33:06"
-        },
-        {
             "domain_name": "volzfinancial.co.uk",
             "destination": "Kinsta",
             "date": "2026-01-17 09:32:53"
-        },
-        {
-            "domain_name": "www.synergyhealth360.com",
-            "destination": "Hostinger",
-            "date": "2026-01-17 09:32:47"
-        },
-        {
-            "domain_name": "supernovamedia.ca",
-            "destination": "Bluehost",
-            "date": "2026-01-17 08:57:14"
-        },
-        {
-            "domain_name": "landscape-solutions.net",
-            "destination": "Bluehost",
-            "date": "2026-01-17 08:51:04"
-        },
-        {
-            "domain_name": "lakelandlandscaping.com",
-            "destination": "Bluehost",
-            "date": "2026-01-17 08:50:45"
-        },
-        {
-            "domain_name": "hamiltonplaceevents.com",
-            "destination": "Bluehost",
-            "date": "2026-01-17 07:36:18"
         }
     ],
     "dailyMovedStat": {
@@ -992,13 +992,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 11847,
-        "Kinsta": 7767,
+        "Kinsta": 7768,
         "SiteGround": 5689,
-        "Digital Ocean": 5655,
-        "Bluehost": 4388,
-        "Hostinger": 4279,
+        "Digital Ocean": 5657,
+        "Bluehost": 4389,
+        "Hostinger": 4280,
         "GoDaddy": 1520,
-        "Liquid Web": 783,
+        "Liquid Web": 784,
         "BigScoots": 722,
         "WordPress.com": 586,
         "OVH": 520,
