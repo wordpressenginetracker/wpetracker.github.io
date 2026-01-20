@@ -1,6 +1,21 @@
 {
-    "siteCount": 114932,
+    "siteCount": 114936,
     "recentlyMoved": [
+        {
+            "domain_name": "nkc.co.za",
+            "destination": "IONOS",
+            "date": "2026-01-20 09:57:20"
+        },
+        {
+            "domain_name": "familyfriendlywisconsin.org",
+            "destination": "OVH",
+            "date": "2026-01-20 09:54:57"
+        },
+        {
+            "domain_name": "travelnow.onemega.com",
+            "destination": "Kinsta",
+            "date": "2026-01-20 09:39:43"
+        },
         {
             "domain_name": "impec.be",
             "destination": "Hetzner Online",
@@ -482,24 +497,9 @@
             "date": "2026-01-16 21:40:23"
         },
         {
-            "domain_name": "clubmotel.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-16 21:36:14"
-        },
-        {
             "domain_name": "dejay.com.au",
             "destination": "Kinsta",
             "date": "2026-01-16 21:29:31"
-        },
-        {
-            "domain_name": "cootaconcrete.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-16 21:25:34"
-        },
-        {
-            "domain_name": "camdeclogistics.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-16 20:20:18"
         }
     ],
     "dailyMovedStat": {
@@ -992,7 +992,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11841,
-        "Kinsta": 7761,
+        "Kinsta": 7762,
         "SiteGround": 5689,
         "Digital Ocean": 5651,
         "Bluehost": 4388,
@@ -1001,12 +1001,12 @@
         "Liquid Web": 783,
         "BigScoots": 722,
         "WordPress.com": 584,
-        "OVH": 519,
+        "OVH": 520,
         "GridPane": 511,
         "InMotion Hosting": 488,
         "Namecheap": 447,
+        "IONOS": 427,
         "A2 Hosting": 426,
-        "IONOS": 426,
         "DreamHost": 403,
         "Elementor Hosting": 396,
         "Hetzner Online": 337,
