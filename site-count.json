@@ -1,6 +1,11 @@
 {
-    "siteCount": 114927,
+    "siteCount": 114932,
     "recentlyMoved": [
+        {
+            "domain_name": "impec.be",
+            "destination": "Hetzner Online",
+            "date": "2026-01-20 08:44:27"
+        },
         {
             "domain_name": "campaigns.at-edge.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "camdeclogistics.com.au",
             "destination": "Kinsta",
             "date": "2026-01-16 20:20:18"
-        },
-        {
-            "domain_name": "info.n2co.com",
-            "destination": "Wordify",
-            "date": "2026-01-16 20:02:56"
         }
     ],
     "dailyMovedStat": {
@@ -1009,7 +1009,7 @@
         "IONOS": 426,
         "DreamHost": 403,
         "Elementor Hosting": 396,
-        "Hetzner Online": 336,
+        "Hetzner Online": 337,
         "HostGator": 256
     },
     "dailyTotalStat": {
