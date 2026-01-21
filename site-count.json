@@ -1,6 +1,11 @@
 {
-    "siteCount": 115202,
+    "siteCount": 115213,
     "recentlyMoved": [
+        {
+            "domain_name": "peterbeckenham.com",
+            "destination": "Bluehost",
+            "date": "2026-01-21 16:11:52"
+        },
         {
             "domain_name": "egortho.com",
             "destination": "Kinsta",
@@ -480,11 +485,6 @@
             "domain_name": "size8clinic.com",
             "destination": "Hostinger",
             "date": "2026-01-19 05:12:20"
-        },
-        {
-            "domain_name": "www.villadesanantonio.com",
-            "destination": "DreamHost",
-            "date": "2026-01-19 01:46:39"
         },
         {
             "domain_name": "davidyoderwellness.com",
@@ -996,7 +996,7 @@
         "Kinsta": 7787,
         "SiteGround": 5691,
         "Digital Ocean": 5668,
-        "Bluehost": 4390,
+        "Bluehost": 4391,
         "Hostinger": 4287,
         "GoDaddy": 1522,
         "Liquid Web": 787,
