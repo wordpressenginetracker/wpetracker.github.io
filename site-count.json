@@ -1,6 +1,31 @@
 {
-    "siteCount": 115153,
+    "siteCount": 115168,
     "recentlyMoved": [
+        {
+            "domain_name": "podcast.realproducersmag.com",
+            "destination": "Wordify",
+            "date": "2026-01-21 12:24:08"
+        },
+        {
+            "domain_name": "prclub.org",
+            "destination": "Kinsta",
+            "date": "2026-01-21 12:20:19"
+        },
+        {
+            "domain_name": "graciebarrachicago.com",
+            "destination": "Hostinger",
+            "date": "2026-01-21 12:20:03"
+        },
+        {
+            "domain_name": "www.activeday.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-21 11:29:26"
+        },
+        {
+            "domain_name": "wheatonmoving.com",
+            "destination": "Kinsta",
+            "date": "2026-01-21 11:10:40"
+        },
         {
             "domain_name": "eyeassociatesofmonmouth.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "kodejava.org",
             "destination": "Hostinger",
             "date": "2026-01-18 16:51:36"
-        },
-        {
-            "domain_name": "arakyta.com",
-            "destination": "Hostinger",
-            "date": "2026-01-18 16:25:36"
-        },
-        {
-            "domain_name": "capta.org",
-            "destination": "Hostinger",
-            "date": "2026-01-18 16:20:45"
-        },
-        {
-            "domain_name": "tiptontraining.co.uk",
-            "destination": "IONOS",
-            "date": "2026-01-18 13:41:30"
-        },
-        {
-            "domain_name": "barfieldcrescentdental.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-18 12:33:54"
-        },
-        {
-            "domain_name": "sanjayghoshmd.com",
-            "destination": "OVH",
-            "date": "2026-01-18 12:27:53"
         }
     ],
     "dailyMovedStat": {
@@ -993,11 +993,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11848,
-        "Kinsta": 7781,
+        "Kinsta": 7783,
         "SiteGround": 5691,
-        "Digital Ocean": 5666,
+        "Digital Ocean": 5667,
         "Bluehost": 4390,
-        "Hostinger": 4286,
+        "Hostinger": 4287,
         "GoDaddy": 1522,
         "Liquid Web": 785,
         "BigScoots": 722,
