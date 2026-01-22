@@ -1,6 +1,16 @@
 {
-    "siteCount": 115531,
+    "siteCount": 115539,
     "recentlyMoved": [
+        {
+            "domain_name": "earthwalk.com",
+            "destination": "Kinsta",
+            "date": "2026-01-22 22:16:59"
+        },
+        {
+            "domain_name": "thebridesmaidblog.com",
+            "destination": "BigScoots",
+            "date": "2026-01-22 21:21:27"
+        },
         {
             "domain_name": "leadershipfellows.org",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "www.activeday.com",
             "destination": "Digital Ocean",
             "date": "2026-01-21 11:29:26"
-        },
-        {
-            "domain_name": "wheatonmoving.com",
-            "destination": "Kinsta",
-            "date": "2026-01-21 11:10:40"
-        },
-        {
-            "domain_name": "ffialaroofing.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-21 10:02:24"
         }
     ],
     "dailyMovedStat": {
@@ -994,14 +994,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11858,
-        "Kinsta": 7808,
+        "Kinsta": 7809,
         "SiteGround": 5691,
         "Digital Ocean": 5681,
         "Bluehost": 4398,
         "Hostinger": 4297,
         "GoDaddy": 1526,
         "Liquid Web": 789,
-        "BigScoots": 725,
+        "BigScoots": 726,
         "WordPress.com": 588,
         "GridPane": 525,
         "OVH": 521,
