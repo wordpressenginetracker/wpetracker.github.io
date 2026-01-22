@@ -1,6 +1,36 @@
 {
-    "siteCount": 115458,
+    "siteCount": 115468,
     "recentlyMoved": [
+        {
+            "domain_name": "nspg.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-22 18:39:58"
+        },
+        {
+            "domain_name": "fellows.gbtesting.us",
+            "destination": "Digital Ocean",
+            "date": "2026-01-22 18:23:07"
+        },
+        {
+            "domain_name": "valorpartners.com",
+            "destination": "Liquid Web",
+            "date": "2026-01-22 18:20:21"
+        },
+        {
+            "domain_name": "norritonfire.org",
+            "destination": "IONOS",
+            "date": "2026-01-22 18:16:16"
+        },
+        {
+            "domain_name": "mrdcommunications.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-22 18:05:50"
+        },
+        {
+            "domain_name": "faradaywrap.com",
+            "destination": "Kinsta",
+            "date": "2026-01-22 17:54:39"
+        },
         {
             "domain_name": "www.tungstenbranding.com",
             "destination": "InMotion Hosting",
@@ -470,36 +500,6 @@
             "domain_name": "www.locate2u.com",
             "destination": "Digital Ocean",
             "date": "2026-01-21 08:53:36"
-        },
-        {
-            "domain_name": "www.kinetec.fr",
-            "destination": "Kinsta",
-            "date": "2026-01-21 08:40:28"
-        },
-        {
-            "domain_name": "photogenesisenergy.com",
-            "destination": "Hostinger",
-            "date": "2026-01-21 08:18:55"
-        },
-        {
-            "domain_name": "www.walkme.com",
-            "destination": "WordPress VIP",
-            "date": "2026-01-21 07:48:03"
-        },
-        {
-            "domain_name": "pipelt.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-21 07:41:28"
-        },
-        {
-            "domain_name": "stevet.icmtg.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-21 04:50:27"
-        },
-        {
-            "domain_name": "www.aroonapools.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-21 03:53:08"
         }
     ],
     "dailyMovedStat": {
@@ -994,20 +994,20 @@
     },
     "topDestinationHosts": {
         "Pressable": 11858,
-        "Kinsta": 7800,
+        "Kinsta": 7803,
         "SiteGround": 5691,
-        "Digital Ocean": 5677,
+        "Digital Ocean": 5678,
         "Bluehost": 4398,
         "Hostinger": 4295,
         "GoDaddy": 1525,
-        "Liquid Web": 787,
+        "Liquid Web": 788,
         "BigScoots": 724,
         "WordPress.com": 588,
         "GridPane": 524,
         "OVH": 521,
-        "InMotion Hosting": 491,
+        "InMotion Hosting": 492,
         "Namecheap": 454,
-        "IONOS": 429,
+        "IONOS": 430,
         "A2 Hosting": 428,
         "DreamHost": 405,
         "Elementor Hosting": 396,
