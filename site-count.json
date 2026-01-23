@@ -1,6 +1,21 @@
 {
-    "siteCount": 115571,
+    "siteCount": 115576,
     "recentlyMoved": [
+        {
+            "domain_name": "newthoughtlife.org",
+            "destination": "Hostinger",
+            "date": "2026-01-23 06:32:50"
+        },
+        {
+            "domain_name": "elementlawfirm.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-23 06:21:17"
+        },
+        {
+            "domain_name": "tovejansson.com",
+            "destination": "Pressable",
+            "date": "2026-01-23 06:03:12"
+        },
         {
             "domain_name": "jamesmahu.com",
             "destination": "GridPane",
@@ -485,21 +500,6 @@
             "domain_name": "unboxedadvisors.com",
             "destination": "Namecheap",
             "date": "2026-01-21 13:32:20"
-        },
-        {
-            "domain_name": "comingsoon.realproducersmag.com",
-            "destination": "Wordify",
-            "date": "2026-01-21 13:29:00"
-        },
-        {
-            "domain_name": "lsyconsultants.com",
-            "destination": "Kinsta",
-            "date": "2026-01-21 13:20:46"
-        },
-        {
-            "domain_name": "menofiron.org",
-            "destination": "Liquid Web",
-            "date": "2026-01-21 13:16:10"
         }
     ],
     "dailyMovedStat": {
@@ -994,13 +994,13 @@
         "2026-01-22": "115539"
     },
     "topDestinationHosts": {
-        "Pressable": 11859,
+        "Pressable": 11860,
         "Kinsta": 7811,
         "SiteGround": 5691,
         "Digital Ocean": 5681,
         "Bluehost": 4398,
-        "Hostinger": 4297,
-        "GoDaddy": 1527,
+        "Hostinger": 4298,
+        "GoDaddy": 1528,
         "Liquid Web": 790,
         "BigScoots": 726,
         "WordPress.com": 588,
