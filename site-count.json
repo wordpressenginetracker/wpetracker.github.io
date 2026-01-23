@@ -1,6 +1,11 @@
 {
-    "siteCount": 115554,
+    "siteCount": 115559,
     "recentlyMoved": [
+        {
+            "domain_name": "mariashriver.com",
+            "destination": "Pressable",
+            "date": "2026-01-23 01:09:00"
+        },
         {
             "domain_name": "riverinacosmeticmedicine.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.leaderdog.org",
             "destination": "Liquid Web",
             "date": "2026-01-21 12:38:05"
-        },
-        {
-            "domain_name": "prclub.org",
-            "destination": "Kinsta",
-            "date": "2026-01-21 12:20:19"
         }
     ],
     "dailyMovedStat": {
@@ -994,7 +994,7 @@
         "2026-01-22": "115539"
     },
     "topDestinationHosts": {
-        "Pressable": 11858,
+        "Pressable": 11859,
         "Kinsta": 7811,
         "SiteGround": 5691,
         "Digital Ocean": 5681,
