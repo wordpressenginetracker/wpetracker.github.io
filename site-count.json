@@ -1,6 +1,11 @@
 {
-    "siteCount": 115564,
+    "siteCount": 115571,
     "recentlyMoved": [
+        {
+            "domain_name": "jamesmahu.com",
+            "destination": "GridPane",
+            "date": "2026-01-23 04:26:52"
+        },
         {
             "domain_name": "osherslocksmith.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "menofiron.org",
             "destination": "Liquid Web",
             "date": "2026-01-21 13:16:10"
-        },
-        {
-            "domain_name": "www.leaderdog.org",
-            "destination": "Liquid Web",
-            "date": "2026-01-21 12:38:05"
         }
     ],
     "dailyMovedStat": {
@@ -1004,7 +1004,7 @@
         "Liquid Web": 790,
         "BigScoots": 726,
         "WordPress.com": 588,
-        "GridPane": 525,
+        "GridPane": 526,
         "OVH": 521,
         "InMotion Hosting": 492,
         "Namecheap": 454,
