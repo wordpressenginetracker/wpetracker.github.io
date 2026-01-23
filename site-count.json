@@ -1,10 +1,35 @@
 {
-    "siteCount": 115586,
+    "siteCount": 115603,
     "recentlyMoved": [
+        {
+            "domain_name": "juniperapothecary.com",
+            "destination": "Pressable",
+            "date": "2026-01-23 08:53:50"
+        },
+        {
+            "domain_name": "computeralliesinc.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-23 08:49:36"
+        },
+        {
+            "domain_name": "www.sandpiperci.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-23 08:48:07"
+        },
+        {
+            "domain_name": "shirazcounseling.com",
+            "destination": "Bluehost",
+            "date": "2026-01-23 08:33:11"
+        },
         {
             "domain_name": "holstonandhuntley.com",
             "destination": "Digital Ocean",
             "date": "2026-01-23 08:31:50"
+        },
+        {
+            "domain_name": "boiler-chem.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-23 08:10:53"
         },
         {
             "domain_name": "highqualityelectricny.com",
@@ -467,11 +492,6 @@
             "date": "2026-01-21 17:25:45"
         },
         {
-            "domain_name": "smokymountaintechworks.org",
-            "destination": "Pressable",
-            "date": "2026-01-21 17:22:47"
-        },
-        {
             "domain_name": "cieradesign.com",
             "destination": "BigScoots",
             "date": "2026-01-21 17:03:03"
@@ -480,26 +500,6 @@
             "domain_name": "www.redfeatherromance.com",
             "destination": "Kinsta",
             "date": "2026-01-21 16:38:50"
-        },
-        {
-            "domain_name": "sarahbranaghanphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-01-21 16:28:33"
-        },
-        {
-            "domain_name": "carrieres.duroking.com",
-            "destination": "GridPane",
-            "date": "2026-01-21 16:24:27"
-        },
-        {
-            "domain_name": "peterbeckenham.com",
-            "destination": "Bluehost",
-            "date": "2026-01-21 16:11:52"
-        },
-        {
-            "domain_name": "warrington-chamber.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-01-21 14:04:53"
         }
     ],
     "dailyMovedStat": {
@@ -994,11 +994,11 @@
         "2026-01-22": "115539"
     },
     "topDestinationHosts": {
-        "Pressable": 11860,
+        "Pressable": 11861,
         "Kinsta": 7812,
         "SiteGround": 5691,
-        "Digital Ocean": 5683,
-        "Bluehost": 4398,
+        "Digital Ocean": 5686,
+        "Bluehost": 4399,
         "Hostinger": 4298,
         "GoDaddy": 1528,
         "Liquid Web": 790,
