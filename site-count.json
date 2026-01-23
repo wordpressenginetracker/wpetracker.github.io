@@ -1,6 +1,11 @@
 {
-    "siteCount": 115559,
+    "siteCount": 115564,
     "recentlyMoved": [
+        {
+            "domain_name": "osherslocksmith.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-23 03:18:15"
+        },
         {
             "domain_name": "mariashriver.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "menofiron.org",
             "destination": "Liquid Web",
             "date": "2026-01-21 13:16:10"
-        },
-        {
-            "domain_name": "www.insightfulastrology.com",
-            "destination": "Kinsta",
-            "date": "2026-01-21 12:38:11"
         },
         {
             "domain_name": "www.leaderdog.org",
@@ -1000,7 +1000,7 @@
         "Digital Ocean": 5681,
         "Bluehost": 4398,
         "Hostinger": 4297,
-        "GoDaddy": 1526,
+        "GoDaddy": 1527,
         "Liquid Web": 790,
         "BigScoots": 726,
         "WordPress.com": 588,
