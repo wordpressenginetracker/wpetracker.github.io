@@ -1,6 +1,21 @@
 {
-    "siteCount": 115915,
+    "siteCount": 115928,
     "recentlyMoved": [
+        {
+            "domain_name": "moskowitzllp.com",
+            "destination": "A2 Hosting",
+            "date": "2026-01-24 22:13:49"
+        },
+        {
+            "domain_name": "nft-logistics.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-24 22:08:47"
+        },
+        {
+            "domain_name": "membres.graphseobourse.fr",
+            "destination": "Kinsta",
+            "date": "2026-01-24 21:12:11"
+        },
         {
             "domain_name": "www.cullumandbrown.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "newthoughtlife.org",
             "destination": "Hostinger",
             "date": "2026-01-23 06:32:50"
-        },
-        {
-            "domain_name": "elementlawfirm.com",
-            "destination": "GoDaddy",
-            "date": "2026-01-23 06:21:17"
-        },
-        {
-            "domain_name": "tovejansson.com",
-            "destination": "Pressable",
-            "date": "2026-01-23 06:03:12"
-        },
-        {
-            "domain_name": "jamesmahu.com",
-            "destination": "GridPane",
-            "date": "2026-01-23 04:26:52"
         }
     ],
     "dailyMovedStat": {
@@ -996,8 +996,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11868,
-        "Kinsta": 7823,
-        "Digital Ocean": 5720,
+        "Kinsta": 7824,
+        "Digital Ocean": 5721,
         "SiteGround": 5691,
         "Bluehost": 4404,
         "Hostinger": 4307,
@@ -1010,7 +1010,7 @@
         "InMotion Hosting": 494,
         "Namecheap": 456,
         "IONOS": 431,
-        "A2 Hosting": 428,
+        "A2 Hosting": 429,
         "DreamHost": 406,
         "Elementor Hosting": 397,
         "Hetzner Online": 338,
