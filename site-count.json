@@ -1,6 +1,11 @@
 {
-    "siteCount": 115767,
+    "siteCount": 115769,
     "recentlyMoved": [
+        {
+            "domain_name": "littlepearlsdental.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-24 05:02:32"
+        },
         {
             "domain_name": "heathlandscapes.co.uk",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "www.dlgmgmt.com",
             "destination": "Digital Ocean",
             "date": "2026-01-22 11:56:05"
-        },
-        {
-            "domain_name": "garuzlegal.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-22 11:35:14"
         },
         {
             "domain_name": "hackmandentistry.com",
@@ -997,7 +997,7 @@
     "topDestinationHosts": {
         "Pressable": 11864,
         "Kinsta": 7819,
-        "Digital Ocean": 5705,
+        "Digital Ocean": 5706,
         "SiteGround": 5691,
         "Bluehost": 4400,
         "Hostinger": 4301,
