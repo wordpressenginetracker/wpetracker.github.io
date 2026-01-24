@@ -1,6 +1,31 @@
 {
-    "siteCount": 115748,
+    "siteCount": 115755,
     "recentlyMoved": [
+        {
+            "domain_name": "saltroomorlando.com",
+            "destination": "DreamHost",
+            "date": "2026-01-24 01:01:03"
+        },
+        {
+            "domain_name": "sunshineserves.com",
+            "destination": "Namecheap",
+            "date": "2026-01-24 00:58:44"
+        },
+        {
+            "domain_name": "catskillsvisitorcenter.org",
+            "destination": "Kinsta",
+            "date": "2026-01-24 00:48:04"
+        },
+        {
+            "domain_name": "hybridegym.ca",
+            "destination": "OVH",
+            "date": "2026-01-24 00:29:49"
+        },
+        {
+            "domain_name": "charlesbartlett.net",
+            "destination": "Pressable",
+            "date": "2026-01-24 00:28:10"
+        },
         {
             "domain_name": "paulbillingslaw.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "pianocloseouts.com",
             "destination": "Bluehost",
             "date": "2026-01-22 08:16:34"
-        },
-        {
-            "domain_name": "parkbenchbattery.com",
-            "destination": "Bluehost",
-            "date": "2026-01-22 07:44:19"
-        },
-        {
-            "domain_name": "training.gigisplayhouse.org",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-22 06:04:18"
-        },
-        {
-            "domain_name": "makehamscoaches.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-22 05:37:59"
-        },
-        {
-            "domain_name": "dedicatedcowboy.com",
-            "destination": "Pressable",
-            "date": "2026-01-22 05:26:00"
-        },
-        {
-            "domain_name": "sunrisesanitation.com",
-            "destination": "Pressable",
-            "date": "2026-01-22 05:14:50"
         }
     ],
     "dailyMovedStat": {
@@ -995,8 +995,8 @@
         "2026-01-23": "115743"
     },
     "topDestinationHosts": {
-        "Pressable": 11862,
-        "Kinsta": 7818,
+        "Pressable": 11863,
+        "Kinsta": 7819,
         "Digital Ocean": 5701,
         "SiteGround": 5691,
         "Bluehost": 4400,
@@ -1006,12 +1006,12 @@
         "BigScoots": 728,
         "WordPress.com": 588,
         "GridPane": 527,
-        "OVH": 522,
+        "OVH": 523,
         "InMotion Hosting": 493,
-        "Namecheap": 455,
+        "Namecheap": 456,
         "IONOS": 430,
         "A2 Hosting": 428,
-        "DreamHost": 405,
+        "DreamHost": 406,
         "Elementor Hosting": 396,
         "Hetzner Online": 338,
         "HostGator": 257
