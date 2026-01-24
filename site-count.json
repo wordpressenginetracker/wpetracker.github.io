@@ -1,6 +1,16 @@
 {
-    "siteCount": 115755,
+    "siteCount": 115759,
     "recentlyMoved": [
+        {
+            "domain_name": "drsayani.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-24 01:44:44"
+        },
+        {
+            "domain_name": "milestone-dentistry.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-24 01:38:10"
+        },
         {
             "domain_name": "saltroomorlando.com",
             "destination": "DreamHost",
@@ -490,16 +500,6 @@
             "domain_name": "lucaspackaging.com",
             "destination": "Bluehost",
             "date": "2026-01-22 09:41:27"
-        },
-        {
-            "domain_name": "pianoseats.com",
-            "destination": "Bluehost",
-            "date": "2026-01-22 08:16:34"
-        },
-        {
-            "domain_name": "pianocloseouts.com",
-            "destination": "Bluehost",
-            "date": "2026-01-22 08:16:34"
         }
     ],
     "dailyMovedStat": {
@@ -997,7 +997,7 @@
     "topDestinationHosts": {
         "Pressable": 11863,
         "Kinsta": 7819,
-        "Digital Ocean": 5701,
+        "Digital Ocean": 5703,
         "SiteGround": 5691,
         "Bluehost": 4400,
         "Hostinger": 4300,
