@@ -1,6 +1,16 @@
 {
-    "siteCount": 115957,
+    "siteCount": 115964,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stratec-geo.com",
+            "destination": "Hostinger",
+            "date": "2026-01-25 09:13:36"
+        },
+        {
+            "domain_name": "xeniapro.com",
+            "destination": "Kinsta",
+            "date": "2026-01-25 08:54:30"
+        },
         {
             "domain_name": "pathtocanada.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "dnadelivers.com",
             "destination": "Digital Ocean",
             "date": "2026-01-23 10:04:13"
-        },
-        {
-            "domain_name": "ddcoc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 09:12:26"
-        },
-        {
-            "domain_name": "computeralliesinc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 08:49:36"
         }
     ],
     "dailyMovedStat": {
@@ -1001,7 +1001,7 @@
         "Digital Ocean": 5722,
         "SiteGround": 5691,
         "Bluehost": 4404,
-        "Hostinger": 4310,
+        "Hostinger": 4311,
         "GoDaddy": 1530,
         "Liquid Web": 792,
         "BigScoots": 728,
