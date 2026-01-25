@@ -1,6 +1,11 @@
 {
-    "siteCount": 115952,
+    "siteCount": 115957,
     "recentlyMoved": [
+        {
+            "domain_name": "pathtocanada.com",
+            "destination": "Hostinger",
+            "date": "2026-01-25 07:26:44"
+        },
         {
             "domain_name": "newlinebehavioral.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "computeralliesinc.com",
             "destination": "Digital Ocean",
             "date": "2026-01-23 08:49:36"
-        },
-        {
-            "domain_name": "www.sandpiperci.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 08:48:07"
         }
     ],
     "dailyMovedStat": {
@@ -1001,7 +1001,7 @@
         "Digital Ocean": 5722,
         "SiteGround": 5691,
         "Bluehost": 4404,
-        "Hostinger": 4309,
+        "Hostinger": 4310,
         "GoDaddy": 1530,
         "Liquid Web": 792,
         "BigScoots": 728,
