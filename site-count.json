@@ -1,6 +1,16 @@
 {
-    "siteCount": 115996,
+    "siteCount": 116000,
     "recentlyMoved": [
+        {
+            "domain_name": "tlclocum.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-25 17:43:18"
+        },
+        {
+            "domain_name": "virtual.gigisplayhouse.org",
+            "destination": "InMotion Hosting",
+            "date": "2026-01-25 17:40:08"
+        },
         {
             "domain_name": "riversideproject.org",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "kristasalterations.com",
             "destination": "Digital Ocean",
             "date": "2026-01-23 12:59:49"
-        },
-        {
-            "domain_name": "keywestcriminaldefense.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 12:41:08"
-        },
-        {
-            "domain_name": "rydwheels.com",
-            "destination": "Kinsta",
-            "date": "2026-01-23 12:37:46"
         }
     ],
     "dailyMovedStat": {
@@ -998,7 +998,7 @@
     "topDestinationHosts": {
         "Pressable": 11869,
         "Kinsta": 7826,
-        "Digital Ocean": 5724,
+        "Digital Ocean": 5725,
         "SiteGround": 5691,
         "Bluehost": 4404,
         "Hostinger": 4312,
@@ -1008,7 +1008,7 @@
         "WordPress.com": 588,
         "GridPane": 532,
         "OVH": 525,
-        "InMotion Hosting": 494,
+        "InMotion Hosting": 495,
         "Namecheap": 457,
         "IONOS": 431,
         "A2 Hosting": 429,
