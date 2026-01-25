@@ -1,10 +1,20 @@
 {
-    "siteCount": 115964,
+    "siteCount": 115968,
     "recentlyMoved": [
+        {
+            "domain_name": "tmate.golf",
+            "destination": "Hostinger",
+            "date": "2026-01-25 09:55:35"
+        },
         {
             "domain_name": "www.stratec-geo.com",
             "destination": "Hostinger",
             "date": "2026-01-25 09:13:36"
+        },
+        {
+            "domain_name": "melbournegaragedoorrepairs.com.au",
+            "destination": "OVH",
+            "date": "2026-01-25 09:11:26"
         },
         {
             "domain_name": "xeniapro.com",
@@ -490,16 +500,6 @@
             "domain_name": "pacanchor.com",
             "destination": "GoDaddy",
             "date": "2026-01-23 11:41:06"
-        },
-        {
-            "domain_name": "wandsworthconsulting.com",
-            "destination": "Kinsta",
-            "date": "2026-01-23 10:08:14"
-        },
-        {
-            "domain_name": "dnadelivers.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 10:04:13"
         }
     ],
     "dailyMovedStat": {
@@ -997,17 +997,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 11869,
-        "Kinsta": 7825,
+        "Kinsta": 7826,
         "Digital Ocean": 5722,
         "SiteGround": 5691,
         "Bluehost": 4404,
-        "Hostinger": 4311,
+        "Hostinger": 4312,
         "GoDaddy": 1530,
         "Liquid Web": 792,
         "BigScoots": 728,
         "WordPress.com": 588,
         "GridPane": 532,
-        "OVH": 524,
+        "OVH": 525,
         "InMotion Hosting": 494,
         "Namecheap": 456,
         "IONOS": 431,
