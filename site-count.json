@@ -1,6 +1,16 @@
 {
-    "siteCount": 116000,
+    "siteCount": 116021,
     "recentlyMoved": [
+        {
+            "domain_name": "fusedglass.org",
+            "destination": "Liquid Web",
+            "date": "2026-01-25 20:13:36"
+        },
+        {
+            "domain_name": "americanmusicclub.com",
+            "destination": "DreamHost",
+            "date": "2026-01-25 20:10:34"
+        },
         {
             "domain_name": "tlclocum.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "thekarinaramos.com",
             "destination": "BigScoots",
             "date": "2026-01-23 13:11:46"
-        },
-        {
-            "domain_name": "soulprimechicago.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 13:04:15"
-        },
-        {
-            "domain_name": "kristasalterations.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-23 12:59:49"
         }
     ],
     "dailyMovedStat": {
@@ -998,12 +998,12 @@
     "topDestinationHosts": {
         "Pressable": 11869,
         "Kinsta": 7826,
-        "Digital Ocean": 5725,
+        "Digital Ocean": 5726,
         "SiteGround": 5691,
         "Bluehost": 4404,
-        "Hostinger": 4312,
+        "Hostinger": 4313,
         "GoDaddy": 1530,
-        "Liquid Web": 792,
+        "Liquid Web": 793,
         "BigScoots": 728,
         "WordPress.com": 588,
         "GridPane": 532,
@@ -1012,7 +1012,7 @@
         "Namecheap": 457,
         "IONOS": 431,
         "A2 Hosting": 429,
-        "DreamHost": 406,
+        "DreamHost": 407,
         "Elementor Hosting": 397,
         "Hetzner Online": 340,
         "HostGator": 257
