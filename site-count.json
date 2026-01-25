@@ -1,6 +1,11 @@
 {
-    "siteCount": 115988,
+    "siteCount": 115996,
     "recentlyMoved": [
+        {
+            "domain_name": "riversideproject.org",
+            "destination": "Digital Ocean",
+            "date": "2026-01-25 16:03:06"
+        },
         {
             "domain_name": "bankongood.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "rydwheels.com",
             "destination": "Kinsta",
             "date": "2026-01-23 12:37:46"
-        },
-        {
-            "domain_name": "www.dalecarnegie.co.uk",
-            "destination": "OVH",
-            "date": "2026-01-23 12:04:49"
         }
     ],
     "dailyMovedStat": {
@@ -998,7 +998,7 @@
     "topDestinationHosts": {
         "Pressable": 11869,
         "Kinsta": 7826,
-        "Digital Ocean": 5723,
+        "Digital Ocean": 5724,
         "SiteGround": 5691,
         "Bluehost": 4404,
         "Hostinger": 4312,
