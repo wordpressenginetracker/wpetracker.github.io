@@ -1,6 +1,11 @@
 {
-    "siteCount": 116062,
+    "siteCount": 116063,
     "recentlyMoved": [
+        {
+            "domain_name": "sahimn.com",
+            "destination": "Bluehost",
+            "date": "2026-01-26 08:33:37"
+        },
         {
             "domain_name": "callicratecattleco.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "southerncharmlimos.com",
             "destination": "BigScoots",
             "date": "2026-01-23 17:17:28"
-        },
-        {
-            "domain_name": "angelinvestorsdurham.ca",
-            "destination": "Kinsta",
-            "date": "2026-01-23 15:57:04"
         }
     ],
     "dailyMovedStat": {
@@ -1001,7 +1001,7 @@
         "Kinsta": 7829,
         "Digital Ocean": 5727,
         "SiteGround": 5691,
-        "Bluehost": 4405,
+        "Bluehost": 4406,
         "Hostinger": 4316,
         "GoDaddy": 1530,
         "Liquid Web": 793,
