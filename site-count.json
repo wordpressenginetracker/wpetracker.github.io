@@ -1,6 +1,11 @@
 {
-    "siteCount": 116074,
+    "siteCount": 116075,
     "recentlyMoved": [
+        {
+            "domain_name": "mpcevent.com",
+            "destination": "Hostinger",
+            "date": "2026-01-26 13:57:57"
+        },
         {
             "domain_name": "hesselwillemsen.com",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "www.alversonobrien.com",
             "destination": "Kinsta",
             "date": "2026-01-23 19:57:45"
-        },
-        {
-            "domain_name": "www.dynamictechnomedicals.com",
-            "destination": "Hostinger",
-            "date": "2026-01-23 19:25:15"
         }
     ],
     "dailyMovedStat": {
@@ -1002,7 +1002,7 @@
         "Digital Ocean": 5728,
         "SiteGround": 5691,
         "Bluehost": 4406,
-        "Hostinger": 4316,
+        "Hostinger": 4317,
         "GoDaddy": 1530,
         "Liquid Web": 793,
         "BigScoots": 728,
