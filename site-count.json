@@ -1,6 +1,11 @@
 {
-    "siteCount": 116063,
+    "siteCount": 116064,
     "recentlyMoved": [
+        {
+            "domain_name": "mc.locate2u.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-26 09:15:11"
+        },
         {
             "domain_name": "sahimn.com",
             "destination": "Bluehost",
@@ -494,11 +499,6 @@
         {
             "domain_name": "southwestlegal.com",
             "destination": "Digital Ocean",
-            "date": "2026-01-23 17:17:28"
-        },
-        {
-            "domain_name": "southerncharmlimos.com",
-            "destination": "BigScoots",
             "date": "2026-01-23 17:17:28"
         }
     ],
@@ -999,7 +999,7 @@
     "topDestinationHosts": {
         "Pressable": 11869,
         "Kinsta": 7829,
-        "Digital Ocean": 5727,
+        "Digital Ocean": 5728,
         "SiteGround": 5691,
         "Bluehost": 4406,
         "Hostinger": 4316,
