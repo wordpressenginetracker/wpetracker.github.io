@@ -1,6 +1,11 @@
 {
-    "siteCount": 116108,
+    "siteCount": 116113,
     "recentlyMoved": [
+        {
+            "domain_name": "nancyforalaska.com",
+            "destination": "Kinsta",
+            "date": "2026-01-26 22:10:47"
+        },
         {
             "domain_name": "www.infinyphoto.ca",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "waggaoss.com.au",
             "destination": "Kinsta",
             "date": "2026-01-23 21:44:41"
-        },
-        {
-            "domain_name": "stevenalessandro.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-23 20:40:12"
         }
     ],
     "dailyMovedStat": {
@@ -998,7 +998,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11870,
-        "Kinsta": 7830,
+        "Kinsta": 7831,
         "Digital Ocean": 5728,
         "SiteGround": 5691,
         "Bluehost": 4407,
