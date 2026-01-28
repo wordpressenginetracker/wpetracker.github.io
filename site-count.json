@@ -1,6 +1,11 @@
 {
-    "siteCount": 116328,
+    "siteCount": 116336,
     "recentlyMoved": [
+        {
+            "domain_name": "www.diamondresinproducts.com",
+            "destination": "Kinsta",
+            "date": "2026-01-28 04:03:32"
+        },
         {
             "domain_name": "unitedhomeservices.com",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "pathtocanada.com",
             "destination": "Hostinger",
             "date": "2026-01-25 07:26:44"
-        },
-        {
-            "domain_name": "newlinebehavioral.com",
-            "destination": "Hetzner Online",
-            "date": "2026-01-25 04:26:14"
         },
         {
             "domain_name": "he.longevity.science",
@@ -1000,7 +1000,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11878,
-        "Kinsta": 7850,
+        "Kinsta": 7851,
         "Digital Ocean": 5734,
         "SiteGround": 5691,
         "Bluehost": 4411,
