@@ -1,6 +1,21 @@
 {
-    "siteCount": 116336,
+    "siteCount": 116342,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sunnyvaleseafood.com",
+            "destination": "GoDaddy",
+            "date": "2026-01-28 05:36:53"
+        },
+        {
+            "domain_name": "jimenaco.com",
+            "destination": "Bluehost",
+            "date": "2026-01-28 04:19:58"
+        },
+        {
+            "domain_name": "blog.blablacar.de",
+            "destination": "Pressable",
+            "date": "2026-01-28 04:09:14"
+        },
         {
             "domain_name": "www.diamondresinproducts.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "xeniapro.com",
             "destination": "Kinsta",
             "date": "2026-01-25 08:54:30"
-        },
-        {
-            "domain_name": "pathtocanada.com",
-            "destination": "Hostinger",
-            "date": "2026-01-25 07:26:44"
-        },
-        {
-            "domain_name": "he.longevity.science",
-            "destination": "Hostinger",
-            "date": "2026-01-25 04:13:59"
-        },
-        {
-            "domain_name": "esbiketour.com",
-            "destination": "Kinsta",
-            "date": "2026-01-25 03:41:45"
         }
     ],
     "dailyMovedStat": {
@@ -999,13 +999,13 @@
         "2026-01-27": "116299"
     },
     "topDestinationHosts": {
-        "Pressable": 11878,
+        "Pressable": 11879,
         "Kinsta": 7851,
         "Digital Ocean": 5734,
         "SiteGround": 5691,
-        "Bluehost": 4411,
+        "Bluehost": 4412,
         "Hostinger": 4328,
-        "GoDaddy": 1533,
+        "GoDaddy": 1534,
         "Liquid Web": 793,
         "BigScoots": 731,
         "WordPress.com": 591,
