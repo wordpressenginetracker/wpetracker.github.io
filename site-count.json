@@ -1,6 +1,11 @@
 {
-    "siteCount": 116561,
+    "siteCount": 116566,
     "recentlyMoved": [
+        {
+            "domain_name": "museumofcontemporarycuts.org",
+            "destination": "InMotion Hosting",
+            "date": "2026-01-28 22:04:24"
+        },
         {
             "domain_name": "www.cpptech.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "sgtpepps.com",
             "destination": "Pressable",
             "date": "2026-01-27 16:15:00"
-        },
-        {
-            "domain_name": "www.kenandrobintalkaboutstuff.com",
-            "destination": "Pressable",
-            "date": "2026-01-27 16:10:08"
         }
     ],
     "dailyMovedStat": {
@@ -1011,7 +1011,7 @@
         "WordPress.com": 592,
         "GridPane": 537,
         "OVH": 529,
-        "InMotion Hosting": 511,
+        "InMotion Hosting": 512,
         "Namecheap": 459,
         "IONOS": 435,
         "A2 Hosting": 429,
