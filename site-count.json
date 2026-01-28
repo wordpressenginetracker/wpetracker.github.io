@@ -1,10 +1,40 @@
 {
-    "siteCount": 116395,
+    "siteCount": 116411,
     "recentlyMoved": [
+        {
+            "domain_name": "celestenature.com",
+            "destination": "Namecheap",
+            "date": "2026-01-28 13:04:06"
+        },
+        {
+            "domain_name": "roundtopreserve.com",
+            "destination": "Pressable",
+            "date": "2026-01-28 12:59:33"
+        },
+        {
+            "domain_name": "bushhousevetgroup.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-01-28 12:47:56"
+        },
+        {
+            "domain_name": "johnnyandjunemusical.com",
+            "destination": "IONOS",
+            "date": "2026-01-28 12:37:34"
+        },
+        {
+            "domain_name": "www.gonderflex.com",
+            "destination": "GridPane",
+            "date": "2026-01-28 12:36:18"
+        },
         {
             "domain_name": "www.armishaws.com",
             "destination": "Hostinger",
             "date": "2026-01-28 12:19:33"
+        },
+        {
+            "domain_name": "browningroofs.com",
+            "destination": "Liquid Web",
+            "date": "2026-01-28 12:14:04"
         },
         {
             "domain_name": "www.ebenisterie2000.ca",
@@ -470,36 +500,6 @@
             "domain_name": "www.technikpackaging.com",
             "destination": "Kinsta",
             "date": "2026-01-26 01:32:45"
-        },
-        {
-            "domain_name": "casinoplusbonus.com",
-            "destination": "Hostinger",
-            "date": "2026-01-26 00:54:08"
-        },
-        {
-            "domain_name": "sidedoorevents.com",
-            "destination": "Hostinger",
-            "date": "2026-01-26 00:29:19"
-        },
-        {
-            "domain_name": "www.djfelectricandconstruction.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-26 00:10:54"
-        },
-        {
-            "domain_name": "www.racingfans.com.au",
-            "destination": "Kinsta",
-            "date": "2026-01-25 23:42:12"
-        },
-        {
-            "domain_name": "www.cc-institute.org",
-            "destination": "DreamHost",
-            "date": "2026-01-25 23:38:50"
-        },
-        {
-            "domain_name": "syncrostore.com",
-            "destination": "Hostinger",
-            "date": "2026-01-25 20:56:39"
         }
     ],
     "dailyMovedStat": {
@@ -999,25 +999,25 @@
         "2026-01-27": "116299"
     },
     "topDestinationHosts": {
-        "Pressable": 11880,
+        "Pressable": 11881,
         "Kinsta": 7852,
         "Digital Ocean": 5737,
         "SiteGround": 5691,
         "Bluehost": 4412,
         "Hostinger": 4331,
         "GoDaddy": 1534,
-        "Liquid Web": 793,
+        "Liquid Web": 794,
         "BigScoots": 731,
         "WordPress.com": 591,
-        "GridPane": 536,
+        "GridPane": 537,
         "OVH": 529,
         "InMotion Hosting": 498,
-        "Namecheap": 457,
-        "IONOS": 434,
+        "Namecheap": 458,
+        "IONOS": 435,
         "A2 Hosting": 429,
         "DreamHost": 410,
         "Elementor Hosting": 401,
-        "Hetzner Online": 341,
+        "Hetzner Online": 342,
         "HostGator": 257
     },
     "dailyTotalStat": {
