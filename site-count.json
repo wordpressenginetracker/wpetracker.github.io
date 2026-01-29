@@ -1,6 +1,11 @@
 {
-    "siteCount": 116664,
+    "siteCount": 116669,
     "recentlyMoved": [
+        {
+            "domain_name": "dostoevsky.org",
+            "destination": "Hostinger",
+            "date": "2026-01-29 09:32:54"
+        },
         {
             "domain_name": "sunpro.build",
             "destination": "Pressable",
@@ -494,11 +499,6 @@
         {
             "domain_name": "www.warrington-worldwide.co.uk",
             "destination": "Kinsta",
-            "date": "2026-01-27 20:59:05"
-        },
-        {
-            "domain_name": "www.vsgprotection.com",
-            "destination": "Pressable",
             "date": "2026-01-27 20:59:05"
         }
     ],
@@ -1005,7 +1005,7 @@
         "Digital Ocean": 5749,
         "SiteGround": 5692,
         "Bluehost": 4415,
-        "Hostinger": 4336,
+        "Hostinger": 4337,
         "GoDaddy": 1534,
         "Liquid Web": 794,
         "BigScoots": 732,
