@@ -1,6 +1,26 @@
 {
-    "siteCount": 116592,
+    "siteCount": 116615,
     "recentlyMoved": [
+        {
+            "domain_name": "ww2.valuengine.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-29 04:02:43"
+        },
+        {
+            "domain_name": "behaviorchangeimpact.org",
+            "destination": "OVH",
+            "date": "2026-01-29 03:57:24"
+        },
+        {
+            "domain_name": "www.divorcelawyerslancastercountypa.com",
+            "destination": "SiteGround",
+            "date": "2026-01-29 03:48:28"
+        },
+        {
+            "domain_name": "amoryripley.sensed.com.au",
+            "destination": "Kinsta",
+            "date": "2026-01-29 03:29:15"
+        },
         {
             "domain_name": "supplyteq.com.au",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "warrington-worldwide.co.uk",
             "destination": "Kinsta",
             "date": "2026-01-27 18:13:28"
-        },
-        {
-            "domain_name": "elizabethtripp.com",
-            "destination": "Hostinger",
-            "date": "2026-01-27 17:57:15"
-        },
-        {
-            "domain_name": "vhparksandrec.com",
-            "destination": "Hostinger",
-            "date": "2026-01-27 17:43:57"
-        },
-        {
-            "domain_name": "deepsouthtitle.com",
-            "destination": "Bluehost",
-            "date": "2026-01-27 17:14:46"
-        },
-        {
-            "domain_name": "www.westminstertutors.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2026-01-27 17:06:04"
         }
     ],
     "dailyMovedStat": {
@@ -1001,9 +1001,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11882,
-        "Kinsta": 7875,
-        "Digital Ocean": 5746,
-        "SiteGround": 5691,
+        "Kinsta": 7876,
+        "Digital Ocean": 5747,
+        "SiteGround": 5692,
         "Bluehost": 4414,
         "Hostinger": 4334,
         "GoDaddy": 1534,
