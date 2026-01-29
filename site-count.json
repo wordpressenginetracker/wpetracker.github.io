@@ -1,6 +1,11 @@
 {
-    "siteCount": 116566,
+    "siteCount": 116578,
     "recentlyMoved": [
+        {
+            "domain_name": "primestorage.com",
+            "destination": "Kinsta",
+            "date": "2026-01-28 23:46:46"
+        },
         {
             "domain_name": "museumofcontemporarycuts.org",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "www.westminstertutors.co.uk",
             "destination": "Krystal Hosting",
             "date": "2026-01-27 17:06:04"
-        },
-        {
-            "domain_name": "sgtpepps.com",
-            "destination": "Pressable",
-            "date": "2026-01-27 16:15:00"
         }
     ],
     "dailyMovedStat": {
@@ -1001,7 +1001,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11882,
-        "Kinsta": 7872,
+        "Kinsta": 7874,
         "Digital Ocean": 5745,
         "SiteGround": 5691,
         "Bluehost": 4413,
