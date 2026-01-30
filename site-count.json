@@ -1,10 +1,25 @@
 {
-    "siteCount": 117055,
+    "siteCount": 117067,
     "recentlyMoved": [
+        {
+            "domain_name": "www.shieldsnursingcenters.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-30 21:06:07"
+        },
         {
             "domain_name": "rcscorp.com",
             "destination": "Kinsta",
             "date": "2026-01-30 20:35:43"
+        },
+        {
+            "domain_name": "www.hudhudtravels.com",
+            "destination": "Digital Ocean",
+            "date": "2026-01-30 20:28:08"
+        },
+        {
+            "domain_name": "sadowworkerscomplaw.com",
+            "destination": "Hostinger",
+            "date": "2026-01-30 20:19:18"
         },
         {
             "domain_name": "amtechsls.com",
@@ -485,21 +500,6 @@
             "domain_name": "dryeyehandbook.com",
             "destination": "Hostinger",
             "date": "2026-01-29 14:11:28"
-        },
-        {
-            "domain_name": "thejournalismlab.org",
-            "destination": "Kinsta",
-            "date": "2026-01-29 14:05:27"
-        },
-        {
-            "domain_name": "thesanfranciscodogwalker.com",
-            "destination": "Bluehost",
-            "date": "2026-01-29 13:52:18"
-        },
-        {
-            "domain_name": "yourmidwife.org.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-01-29 13:51:55"
         }
     ],
     "dailyMovedStat": {
@@ -1003,10 +1003,10 @@
     "topDestinationHosts": {
         "Pressable": 11891,
         "Kinsta": 7910,
-        "Digital Ocean": 5788,
+        "Digital Ocean": 5790,
         "SiteGround": 5692,
         "Bluehost": 4419,
-        "Hostinger": 4345,
+        "Hostinger": 4346,
         "GoDaddy": 1538,
         "Liquid Web": 794,
         "BigScoots": 738,
