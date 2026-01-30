@@ -1,6 +1,21 @@
 {
-    "siteCount": 116868,
+    "siteCount": 116885,
     "recentlyMoved": [
+        {
+            "domain_name": "e4a.org",
+            "destination": "Pressable",
+            "date": "2026-01-30 06:13:34"
+        },
+        {
+            "domain_name": "mnsmarketplace.com",
+            "destination": "Pressable",
+            "date": "2026-01-30 05:35:47"
+        },
+        {
+            "domain_name": "monarchk9.com",
+            "destination": "IONOS",
+            "date": "2026-01-30 05:30:48"
+        },
         {
             "domain_name": "careers.enstargroup.com",
             "destination": "Digital Ocean",
@@ -480,21 +495,6 @@
             "domain_name": "nicholsfamilydental.com",
             "destination": "Kinsta",
             "date": "2026-01-28 18:37:50"
-        },
-        {
-            "domain_name": "mondedudecor.com",
-            "destination": "Hostinger",
-            "date": "2026-01-28 18:16:00"
-        },
-        {
-            "domain_name": "edgerealtyar.com",
-            "destination": "Kinsta",
-            "date": "2026-01-28 17:51:10"
-        },
-        {
-            "domain_name": "meyerwelding.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-28 17:49:56"
         },
         {
             "domain_name": "narrowsmarinaky.com",
@@ -1001,7 +1001,7 @@
         "2026-01-29": "116823"
     },
     "topDestinationHosts": {
-        "Pressable": 11889,
+        "Pressable": 11891,
         "Kinsta": 7895,
         "Digital Ocean": 5768,
         "SiteGround": 5692,
@@ -1015,7 +1015,7 @@
         "OVH": 532,
         "InMotion Hosting": 513,
         "Namecheap": 461,
-        "IONOS": 436,
+        "IONOS": 437,
         "A2 Hosting": 430,
         "DreamHost": 410,
         "Elementor Hosting": 401,
