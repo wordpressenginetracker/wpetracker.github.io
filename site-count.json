@@ -1,6 +1,11 @@
 {
-    "siteCount": 116844,
+    "siteCount": 116853,
     "recentlyMoved": [
+        {
+            "domain_name": "eastlakehernando.com",
+            "destination": "Kinsta",
+            "date": "2026-01-30 01:29:02"
+        },
         {
             "domain_name": "itchyfootprints.com",
             "destination": "Namecheap",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "thespecificelkgrove.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-28 17:41:30"
-        },
-        {
-            "domain_name": "thespecificchattanooga.com",
             "destination": "InMotion Hosting",
             "date": "2026-01-28 17:41:30"
         }
@@ -1002,7 +1002,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11889,
-        "Kinsta": 7894,
+        "Kinsta": 7895,
         "Digital Ocean": 5765,
         "SiteGround": 5692,
         "Bluehost": 4418,
