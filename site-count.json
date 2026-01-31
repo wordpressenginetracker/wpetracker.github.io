@@ -1,6 +1,16 @@
 {
-    "siteCount": 117187,
+    "siteCount": 117197,
     "recentlyMoved": [
+        {
+            "domain_name": "myacademicadvantage.com",
+            "destination": "Kinsta",
+            "date": "2026-01-31 14:00:18"
+        },
+        {
+            "domain_name": "nuadventure.nu",
+            "destination": "Kinsta",
+            "date": "2026-01-31 13:51:31"
+        },
         {
             "domain_name": "www.towermarketing.net",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "callyellowsub.ca",
             "destination": "Hostinger",
             "date": "2026-01-30 04:54:10"
-        },
-        {
-            "domain_name": "omsupplies.co.nz",
-            "destination": "Hostinger",
-            "date": "2026-01-30 03:59:15"
-        },
-        {
-            "domain_name": "eastlakehernando.com",
-            "destination": "Kinsta",
-            "date": "2026-01-30 01:29:02"
         }
     ],
     "dailyMovedStat": {
@@ -1003,7 +1003,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11893,
-        "Kinsta": 7920,
+        "Kinsta": 7922,
         "Digital Ocean": 5798,
         "SiteGround": 5692,
         "Bluehost": 4420,
