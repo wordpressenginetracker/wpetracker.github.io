@@ -1,6 +1,11 @@
 {
-    "siteCount": 117150,
+    "siteCount": 117152,
     "recentlyMoved": [
+        {
+            "domain_name": "nec24.com",
+            "destination": "Hostinger",
+            "date": "2026-01-31 10:07:43"
+        },
         {
             "domain_name": "smileupdental.co.uk",
             "destination": "OVH",
@@ -480,11 +485,6 @@
             "domain_name": "timesheets.mx",
             "destination": "BigScoots",
             "date": "2026-01-29 21:46:21"
-        },
-        {
-            "domain_name": "letstalkar.com",
-            "destination": "Kinsta",
-            "date": "2026-01-29 21:25:47"
         },
         {
             "domain_name": "lovesair.com",
@@ -1007,7 +1007,7 @@
         "Digital Ocean": 5797,
         "SiteGround": 5692,
         "Bluehost": 4420,
-        "Hostinger": 4352,
+        "Hostinger": 4353,
         "GoDaddy": 1539,
         "Liquid Web": 794,
         "BigScoots": 739,
