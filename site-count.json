@@ -1,6 +1,11 @@
 {
-    "siteCount": 117144,
+    "siteCount": 117150,
     "recentlyMoved": [
+        {
+            "domain_name": "smileupdental.co.uk",
+            "destination": "OVH",
+            "date": "2026-01-31 09:01:53"
+        },
         {
             "domain_name": "agreatoregonwinetour.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "life-bio.ro",
             "destination": "Digital Ocean",
             "date": "2026-01-29 21:05:28"
-        },
-        {
-            "domain_name": "starkfgi.com",
-            "destination": "A2 Hosting",
-            "date": "2026-01-29 21:00:28"
         },
         {
             "domain_name": "www.timesheets.com",
@@ -1013,7 +1013,7 @@
         "BigScoots": 739,
         "WordPress.com": 594,
         "GridPane": 544,
-        "OVH": 533,
+        "OVH": 534,
         "InMotion Hosting": 517,
         "Namecheap": 461,
         "IONOS": 437,
