@@ -1,6 +1,16 @@
 {
-    "siteCount": 117436,
+    "siteCount": 117445,
     "recentlyMoved": [
+        {
+            "domain_name": "usbrick.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-01 17:49:43"
+        },
+        {
+            "domain_name": "deluxeplumbers.com",
+            "destination": "Hostinger",
+            "date": "2026-02-01 17:04:20"
+        },
         {
             "domain_name": "pro-style.ca",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "paigeoverturf.com",
             "destination": "BigScoots",
             "date": "2026-01-30 19:27:13"
-        },
-        {
-            "domain_name": "urmissionlr.org",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-30 17:53:36"
-        },
-        {
-            "domain_name": "northshorervandboat.com",
-            "destination": "Kinsta",
-            "date": "2026-01-30 17:47:28"
         }
     ],
     "dailyMovedStat": {
@@ -1005,10 +1005,10 @@
     "topDestinationHosts": {
         "Pressable": 11896,
         "Kinsta": 7939,
-        "Digital Ocean": 5806,
+        "Digital Ocean": 5807,
         "SiteGround": 5692,
         "Bluehost": 4421,
-        "Hostinger": 4367,
+        "Hostinger": 4368,
         "GoDaddy": 1544,
         "Liquid Web": 794,
         "BigScoots": 740,
