@@ -1,6 +1,11 @@
 {
-    "siteCount": 117408,
+    "siteCount": 117411,
     "recentlyMoved": [
+        {
+            "domain_name": "mediatraining.hu",
+            "destination": "Hostinger",
+            "date": "2026-02-01 09:30:15"
+        },
         {
             "domain_name": "psprovocative.com",
             "destination": "Hostinger",
@@ -480,11 +485,6 @@
             "domain_name": "training.salesrabbit.com",
             "destination": "WordPress.com",
             "date": "2026-01-30 17:59:04"
-        },
-        {
-            "domain_name": "drnaveran.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-01-30 17:57:49"
         },
         {
             "domain_name": "urmissionlr.org",
@@ -1008,7 +1008,7 @@
         "Digital Ocean": 5806,
         "SiteGround": 5692,
         "Bluehost": 4421,
-        "Hostinger": 4366,
+        "Hostinger": 4367,
         "GoDaddy": 1543,
         "Liquid Web": 794,
         "BigScoots": 740,
