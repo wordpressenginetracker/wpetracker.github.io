@@ -1,6 +1,11 @@
 {
-    "siteCount": 117531,
+    "siteCount": 117533,
     "recentlyMoved": [
+        {
+            "domain_name": "jennifermillerphoto.com",
+            "destination": "BigScoots",
+            "date": "2026-02-02 16:36:17"
+        },
         {
             "domain_name": "gitlenlaw.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "g2cfo.com",
             "destination": "Kinsta",
             "date": "2026-01-31 04:11:36"
-        },
-        {
-            "domain_name": "parnetic.com",
-            "destination": "Hostinger",
-            "date": "2026-01-31 04:03:11"
         },
         {
             "domain_name": "glasgowfmr.com",
@@ -1012,7 +1012,7 @@
         "Hostinger": 4377,
         "GoDaddy": 1546,
         "Liquid Web": 794,
-        "BigScoots": 741,
+        "BigScoots": 742,
         "WordPress.com": 595,
         "GridPane": 544,
         "OVH": 537,
