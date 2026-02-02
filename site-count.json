@@ -1,6 +1,11 @@
 {
-    "siteCount": 117521,
+    "siteCount": 117526,
     "recentlyMoved": [
+        {
+            "domain_name": "virusirto.hu",
+            "destination": "Hostinger",
+            "date": "2026-02-02 14:16:18"
+        },
         {
             "domain_name": "moneybagsbook.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.stressfreedots.com",
             "destination": "BigScoots",
             "date": "2026-01-31 01:04:40"
-        },
-        {
-            "domain_name": "canadiancaregiving.org",
-            "destination": "Kinsta",
-            "date": "2026-01-31 00:52:02"
         }
     ],
     "dailyMovedStat": {
@@ -1009,7 +1009,7 @@
         "Digital Ocean": 5809,
         "SiteGround": 5692,
         "Bluehost": 4422,
-        "Hostinger": 4375,
+        "Hostinger": 4376,
         "GoDaddy": 1545,
         "Liquid Web": 794,
         "BigScoots": 741,
