@@ -1,6 +1,11 @@
 {
-    "siteCount": 117574,
+    "siteCount": 117582,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hardroadcounselling.com",
+            "destination": "Bluehost",
+            "date": "2026-02-03 00:06:11"
+        },
         {
             "domain_name": "waggadirectionaldrilling.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "hamngoodys.com",
             "destination": "Kinsta",
             "date": "2026-01-31 11:39:37"
-        },
-        {
-            "domain_name": "nec24.com",
-            "destination": "Hostinger",
-            "date": "2026-01-31 10:07:43"
         }
     ],
     "dailyMovedStat": {
@@ -1009,7 +1009,7 @@
         "Kinsta": 7950,
         "Digital Ocean": 5810,
         "SiteGround": 5692,
-        "Bluehost": 4423,
+        "Bluehost": 4424,
         "Hostinger": 4378,
         "GoDaddy": 1546,
         "Liquid Web": 795,
