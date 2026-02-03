@@ -1,6 +1,31 @@
 {
-    "siteCount": 117596,
+    "siteCount": 117603,
     "recentlyMoved": [
+        {
+            "domain_name": "www.evsltd.com",
+            "destination": "SiteGround",
+            "date": "2026-02-03 04:36:09"
+        },
+        {
+            "domain_name": "affordablehomeswagga.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-03 04:04:56"
+        },
+        {
+            "domain_name": "benchmarkjoinery.net.au",
+            "destination": "Kinsta",
+            "date": "2026-02-03 04:01:00"
+        },
+        {
+            "domain_name": "avanteguard.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-03 03:43:20"
+        },
+        {
+            "domain_name": "whiteysroofrestorations.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-03 03:14:22"
+        },
         {
             "domain_name": "enjoy.dadgrass.com",
             "destination": "InMotion Hosting",
@@ -472,34 +497,9 @@
             "date": "2026-01-31 13:12:00"
         },
         {
-            "domain_name": "cerberusartists.com",
-            "destination": "Kinsta",
-            "date": "2026-01-31 13:04:59"
-        },
-        {
             "domain_name": "competentresponse.ca",
             "destination": "Kinsta",
             "date": "2026-01-31 13:04:57"
-        },
-        {
-            "domain_name": "homesbyhesley.com",
-            "destination": "Kinsta",
-            "date": "2026-01-31 12:39:11"
-        },
-        {
-            "domain_name": "www.gauley.com",
-            "destination": "Kinsta",
-            "date": "2026-01-31 12:30:40"
-        },
-        {
-            "domain_name": "krvrentaltrailers.com",
-            "destination": "IONOS",
-            "date": "2026-01-31 12:26:37"
-        },
-        {
-            "domain_name": "imagepainting.com",
-            "destination": "Pressable",
-            "date": "2026-01-31 12:03:08"
         }
     ],
     "dailyMovedStat": {
@@ -1006,9 +1006,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 11900,
-        "Kinsta": 7955,
+        "Kinsta": 7958,
         "Digital Ocean": 5810,
-        "SiteGround": 5692,
+        "SiteGround": 5693,
         "Bluehost": 4424,
         "Hostinger": 4378,
         "GoDaddy": 1546,
