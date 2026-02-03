@@ -1,6 +1,21 @@
 {
-    "siteCount": 117603,
+    "siteCount": 117613,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sonambulas.com",
+            "destination": "Hostinger",
+            "date": "2026-02-03 05:14:22"
+        },
+        {
+            "domain_name": "cbhenergetics.com",
+            "destination": "Kinsta",
+            "date": "2026-02-03 05:13:10"
+        },
+        {
+            "domain_name": "superdocintegratori.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-03 04:56:27"
+        },
         {
             "domain_name": "www.evsltd.com",
             "destination": "SiteGround",
@@ -485,21 +500,6 @@
             "domain_name": "nuadventure.nu",
             "destination": "Kinsta",
             "date": "2026-01-31 13:51:31"
-        },
-        {
-            "domain_name": "www.towermarketing.net",
-            "destination": "Kinsta",
-            "date": "2026-01-31 13:21:02"
-        },
-        {
-            "domain_name": "stepministries.org",
-            "destination": "Kinsta",
-            "date": "2026-01-31 13:12:00"
-        },
-        {
-            "domain_name": "competentresponse.ca",
-            "destination": "Kinsta",
-            "date": "2026-01-31 13:04:57"
         }
     ],
     "dailyMovedStat": {
@@ -1006,11 +1006,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11900,
-        "Kinsta": 7958,
-        "Digital Ocean": 5810,
+        "Kinsta": 7960,
+        "Digital Ocean": 5811,
         "SiteGround": 5693,
         "Bluehost": 4424,
-        "Hostinger": 4378,
+        "Hostinger": 4379,
         "GoDaddy": 1546,
         "Liquid Web": 795,
         "BigScoots": 742,
