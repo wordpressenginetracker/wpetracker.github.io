@@ -1,6 +1,16 @@
 {
-    "siteCount": 117708,
+    "siteCount": 117717,
     "recentlyMoved": [
+        {
+            "domain_name": "wapatoshores.org",
+            "destination": "WordPress.com",
+            "date": "2026-02-03 18:10:36"
+        },
+        {
+            "domain_name": "designsbymarieco.com",
+            "destination": "BigScoots",
+            "date": "2026-02-03 17:33:39"
+        },
         {
             "domain_name": "thaigga.com.au",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "bodycontourz.com",
             "destination": "Hostinger",
             "date": "2026-02-01 00:03:19"
-        },
-        {
-            "domain_name": "mhtenergetics.com",
-            "destination": "Kinsta",
-            "date": "2026-01-31 21:51:34"
-        },
-        {
-            "domain_name": "csicontrols.com",
-            "destination": "Digital Ocean",
-            "date": "2026-01-31 21:21:23"
         }
     ],
     "dailyMovedStat": {
@@ -1006,15 +1006,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 11901,
-        "Kinsta": 7968,
+        "Kinsta": 7969,
         "Digital Ocean": 5818,
         "SiteGround": 5693,
         "Bluehost": 4425,
         "Hostinger": 4383,
         "GoDaddy": 1547,
         "Liquid Web": 795,
-        "BigScoots": 742,
-        "WordPress.com": 597,
+        "BigScoots": 744,
+        "WordPress.com": 598,
         "GridPane": 544,
         "OVH": 539,
         "InMotion Hosting": 518,
