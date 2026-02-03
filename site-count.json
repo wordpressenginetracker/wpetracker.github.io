@@ -1,6 +1,11 @@
 {
-    "siteCount": 117613,
+    "siteCount": 117618,
     "recentlyMoved": [
+        {
+            "domain_name": "novacium.com",
+            "destination": "OVH",
+            "date": "2026-02-03 06:08:58"
+        },
         {
             "domain_name": "www.sonambulas.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "www.tnriskadvisors.com",
             "destination": "Digital Ocean",
             "date": "2026-01-31 15:40:17"
-        },
-        {
-            "domain_name": "myacademicadvantage.com",
-            "destination": "Kinsta",
-            "date": "2026-01-31 14:00:18"
         },
         {
             "domain_name": "nuadventure.nu",
@@ -1016,7 +1016,7 @@
         "BigScoots": 742,
         "WordPress.com": 596,
         "GridPane": 544,
-        "OVH": 537,
+        "OVH": 538,
         "InMotion Hosting": 518,
         "Namecheap": 463,
         "IONOS": 438,
