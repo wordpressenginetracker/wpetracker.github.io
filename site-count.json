@@ -1,6 +1,11 @@
 {
-    "siteCount": 117618,
+    "siteCount": 117624,
     "recentlyMoved": [
+        {
+            "domain_name": "pdcbuilds.com",
+            "destination": "Hostinger",
+            "date": "2026-02-03 07:30:18"
+        },
         {
             "domain_name": "novacium.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "www.tnriskadvisors.com",
             "destination": "Digital Ocean",
             "date": "2026-01-31 15:40:17"
-        },
-        {
-            "domain_name": "nuadventure.nu",
-            "destination": "Kinsta",
-            "date": "2026-01-31 13:51:31"
         }
     ],
     "dailyMovedStat": {
@@ -1010,7 +1010,7 @@
         "Digital Ocean": 5811,
         "SiteGround": 5693,
         "Bluehost": 4424,
-        "Hostinger": 4379,
+        "Hostinger": 4380,
         "GoDaddy": 1546,
         "Liquid Web": 795,
         "BigScoots": 742,
