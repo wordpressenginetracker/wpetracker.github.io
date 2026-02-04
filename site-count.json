@@ -1,10 +1,20 @@
 {
-    "siteCount": 117999,
+    "siteCount": 118003,
     "recentlyMoved": [
+        {
+            "domain_name": "upcyclellc.com",
+            "destination": "Kinsta",
+            "date": "2026-02-04 22:13:39"
+        },
         {
             "domain_name": "lipstocklaser.com",
             "destination": "Digital Ocean",
             "date": "2026-02-04 21:37:06"
+        },
+        {
+            "domain_name": "extendhealthco.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-04 21:34:26"
         },
         {
             "domain_name": "slaterplumbing.com",
@@ -490,16 +500,6 @@
             "domain_name": "movementculturegyms.com",
             "destination": "Digital Ocean",
             "date": "2026-02-03 10:03:12"
-        },
-        {
-            "domain_name": "mb92.com",
-            "destination": "IONOS",
-            "date": "2026-02-03 09:18:39"
-        },
-        {
-            "domain_name": "www.theelectricmine.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-03 09:11:36"
         }
     ],
     "dailyMovedStat": {
@@ -1007,7 +1007,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11904,
-        "Kinsta": 7988,
+        "Kinsta": 7990,
         "Digital Ocean": 5830,
         "SiteGround": 5693,
         "Bluehost": 4426,
