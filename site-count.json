@@ -1,6 +1,11 @@
 {
-    "siteCount": 117946,
+    "siteCount": 117985,
     "recentlyMoved": [
+        {
+            "domain_name": "www.arch.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-04 19:50:50"
+        },
         {
             "domain_name": "fallsfarmllc.com",
             "destination": "Namecheap",
@@ -490,11 +495,6 @@
             "domain_name": "www.sonambulas.com",
             "destination": "Hostinger",
             "date": "2026-02-03 05:14:22"
-        },
-        {
-            "domain_name": "cbhenergetics.com",
-            "destination": "Kinsta",
-            "date": "2026-02-03 05:13:10"
         },
         {
             "domain_name": "superdocintegratori.com",
@@ -1008,7 +1008,7 @@
     "topDestinationHosts": {
         "Pressable": 11904,
         "Kinsta": 7987,
-        "Digital Ocean": 5825,
+        "Digital Ocean": 5828,
         "SiteGround": 5693,
         "Bluehost": 4426,
         "Hostinger": 4392,
