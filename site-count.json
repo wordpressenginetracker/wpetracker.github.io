@@ -1,6 +1,11 @@
 {
-    "siteCount": 118051,
+    "siteCount": 118062,
     "recentlyMoved": [
+        {
+            "domain_name": "www.tennisbc.org",
+            "destination": "GoDaddy",
+            "date": "2026-02-05 04:45:19"
+        },
         {
             "domain_name": "heartandsoulinteriors.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.topshootersbar.com",
             "destination": "WordPress.com",
             "date": "2026-02-03 16:14:17"
-        },
-        {
-            "domain_name": "opeast.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-03 15:56:28"
         }
     ],
     "dailyMovedStat": {
@@ -1013,7 +1013,7 @@
         "SiteGround": 5693,
         "Bluehost": 4427,
         "Hostinger": 4399,
-        "GoDaddy": 1552,
+        "GoDaddy": 1553,
         "Liquid Web": 798,
         "BigScoots": 749,
         "WordPress.com": 601,
