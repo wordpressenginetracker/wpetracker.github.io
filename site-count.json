@@ -1,6 +1,11 @@
 {
-    "siteCount": 118076,
+    "siteCount": 118081,
     "recentlyMoved": [
+        {
+            "domain_name": "katypaintpro.com",
+            "destination": "Pressable",
+            "date": "2026-02-05 08:42:59"
+        },
         {
             "domain_name": "phoenixgroup.com.pg",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "clarkdentalgroup.com",
             "destination": "Kinsta",
             "date": "2026-02-03 16:51:15"
-        },
-        {
-            "domain_name": "brswelding.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-03 16:28:40"
         }
     ],
     "dailyMovedStat": {
@@ -1007,7 +1007,7 @@
         "2026-02-04": "118003"
     },
     "topDestinationHosts": {
-        "Pressable": 11905,
+        "Pressable": 11906,
         "Kinsta": 8000,
         "Digital Ocean": 5830,
         "SiteGround": 5693,
