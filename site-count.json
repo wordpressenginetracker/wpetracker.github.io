@@ -1,6 +1,21 @@
 {
-    "siteCount": 118121,
+    "siteCount": 118128,
     "recentlyMoved": [
+        {
+            "domain_name": "www.guardianroadway.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-02-05 16:00:02"
+        },
+        {
+            "domain_name": "www.jlbuilding.com",
+            "destination": "Kinsta",
+            "date": "2026-02-05 15:33:57"
+        },
+        {
+            "domain_name": "www.freebooksy.com",
+            "destination": "Kinsta",
+            "date": "2026-02-05 15:31:13"
+        },
         {
             "domain_name": "viabuff.com",
             "destination": "Kinsta",
@@ -472,16 +487,6 @@
             "date": "2026-02-03 21:10:12"
         },
         {
-            "domain_name": "chimcheroo.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-03 21:07:50"
-        },
-        {
-            "domain_name": "christicpeace.com",
-            "destination": "Kinsta",
-            "date": "2026-02-03 21:02:01"
-        },
-        {
             "domain_name": "www.superiorgroundcover.com",
             "destination": "GoDaddy",
             "date": "2026-02-03 20:59:45"
@@ -495,11 +500,6 @@
             "domain_name": "landmarkpaintinginc.com",
             "destination": "Bluehost",
             "date": "2026-02-03 20:53:47"
-        },
-        {
-            "domain_name": "soulawakening.com",
-            "destination": "Hostinger",
-            "date": "2026-02-03 20:41:03"
         }
     ],
     "dailyMovedStat": {
@@ -1008,7 +1008,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11907,
-        "Kinsta": 8004,
+        "Kinsta": 8006,
         "Digital Ocean": 5831,
         "SiteGround": 5693,
         "Bluehost": 4427,
