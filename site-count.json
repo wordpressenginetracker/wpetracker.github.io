@@ -1,5 +1,5 @@
 {
-    "siteCount": 118026,
+    "siteCount": 118035,
     "recentlyMoved": [
         {
             "domain_name": "cth.ca",
@@ -15,6 +15,11 @@
             "domain_name": "tanna-frederick.com",
             "destination": "Hostinger",
             "date": "2026-02-05 01:20:53"
+        },
+        {
+            "domain_name": "medicalequipsolutions.com",
+            "destination": "Hostinger",
+            "date": "2026-02-05 01:20:24"
         },
         {
             "domain_name": "crsnsw.com.au",
@@ -485,11 +490,6 @@
             "domain_name": "livfitnj.com",
             "destination": "Digital Ocean",
             "date": "2026-02-03 13:23:43"
-        },
-        {
-            "domain_name": "www.sequimgazette.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-03 13:05:47"
         },
         {
             "domain_name": "levelfour.io",
@@ -1008,11 +1008,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11904,
-        "Kinsta": 7996,
+        "Kinsta": 7997,
         "Digital Ocean": 5830,
         "SiteGround": 5693,
         "Bluehost": 4426,
-        "Hostinger": 4396,
+        "Hostinger": 4397,
         "GoDaddy": 1552,
         "Liquid Web": 798,
         "BigScoots": 749,
