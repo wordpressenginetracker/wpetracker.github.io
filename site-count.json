@@ -1,6 +1,26 @@
 {
-    "siteCount": 118035,
+    "siteCount": 118051,
     "recentlyMoved": [
+        {
+            "domain_name": "heartandsoulinteriors.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-05 04:18:22"
+        },
+        {
+            "domain_name": "aramjoolawfirm.com",
+            "destination": "Bluehost",
+            "date": "2026-02-05 04:14:56"
+        },
+        {
+            "domain_name": "orderofthedragon.com",
+            "destination": "Hostinger",
+            "date": "2026-02-05 03:54:01"
+        },
+        {
+            "domain_name": "worldcampus.net",
+            "destination": "Hostinger",
+            "date": "2026-02-05 03:38:39"
+        },
         {
             "domain_name": "cth.ca",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "opeast.org",
             "destination": "Digital Ocean",
             "date": "2026-02-03 15:56:28"
-        },
-        {
-            "domain_name": "twinbridgescrossfit.com",
-            "destination": "A2 Hosting",
-            "date": "2026-02-03 13:49:50"
-        },
-        {
-            "domain_name": "livfitnj.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-03 13:23:43"
-        },
-        {
-            "domain_name": "levelfour.io",
-            "destination": "Kinsta",
-            "date": "2026-02-03 12:51:40"
-        },
-        {
-            "domain_name": "louisatesta.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-03 12:47:54"
         }
     ],
     "dailyMovedStat": {
@@ -1008,11 +1008,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11904,
-        "Kinsta": 7997,
+        "Kinsta": 7998,
         "Digital Ocean": 5830,
         "SiteGround": 5693,
-        "Bluehost": 4426,
-        "Hostinger": 4397,
+        "Bluehost": 4427,
+        "Hostinger": 4399,
         "GoDaddy": 1552,
         "Liquid Web": 798,
         "BigScoots": 749,
