@@ -1,6 +1,16 @@
 {
-    "siteCount": 118226,
+    "siteCount": 118234,
     "recentlyMoved": [
+        {
+            "domain_name": "federationatx.com",
+            "destination": "Namecheap",
+            "date": "2026-02-05 22:11:07"
+        },
+        {
+            "domain_name": "zone.zondahome.com",
+            "destination": "WordPress VIP",
+            "date": "2026-02-05 21:05:40"
+        },
         {
             "domain_name": "inspiredkitchensandjoinery.com.au",
             "destination": "Kinsta",
@@ -477,11 +487,6 @@
             "date": "2026-02-04 16:36:45"
         },
         {
-            "domain_name": "www.fryemontinn.com",
-            "destination": "GridPane",
-            "date": "2026-02-04 16:34:53"
-        },
-        {
             "domain_name": "jewishcoloringpages.com",
             "destination": "Hostinger",
             "date": "2026-02-04 16:29:47"
@@ -495,11 +500,6 @@
             "domain_name": "infertilitydocs.com",
             "destination": "GoDaddy",
             "date": "2026-02-04 16:20:01"
-        },
-        {
-            "domain_name": "horizontelerad.com",
-            "destination": "Kinsta",
-            "date": "2026-02-04 16:07:15"
         }
     ],
     "dailyMovedStat": {
@@ -1020,7 +1020,7 @@
         "GridPane": 550,
         "OVH": 540,
         "InMotion Hosting": 521,
-        "Namecheap": 466,
+        "Namecheap": 467,
         "IONOS": 442,
         "A2 Hosting": 432,
         "DreamHost": 410,
