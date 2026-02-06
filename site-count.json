@@ -1,6 +1,16 @@
 {
-    "siteCount": 118330,
+    "siteCount": 118337,
     "recentlyMoved": [
+        {
+            "domain_name": "playvillekids.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-06 16:08:37"
+        },
+        {
+            "domain_name": "www.websterauctioneers.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-06 15:55:46"
+        },
         {
             "domain_name": "farrellymitchell.com",
             "destination": "Digital Ocean",
@@ -477,11 +487,6 @@
             "date": "2026-02-05 01:21:34"
         },
         {
-            "domain_name": "cjmweldingandfabrication.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-05 01:20:59"
-        },
-        {
             "domain_name": "tanna-frederick.com",
             "destination": "Hostinger",
             "date": "2026-02-05 01:20:53"
@@ -495,11 +500,6 @@
             "domain_name": "crsnsw.com.au",
             "destination": "Kinsta",
             "date": "2026-02-05 00:59:48"
-        },
-        {
-            "domain_name": "coachjyima.com",
-            "destination": "Hostinger",
-            "date": "2026-02-05 00:35:18"
         }
     ],
     "dailyMovedStat": {
@@ -1009,8 +1009,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11913,
-        "Kinsta": 8035,
-        "Digital Ocean": 5845,
+        "Kinsta": 8036,
+        "Digital Ocean": 5846,
         "SiteGround": 5693,
         "Bluehost": 4429,
         "Hostinger": 4405,
