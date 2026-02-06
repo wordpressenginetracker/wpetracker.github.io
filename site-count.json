@@ -1,6 +1,11 @@
 {
-    "siteCount": 118415,
+    "siteCount": 118420,
     "recentlyMoved": [
+        {
+            "domain_name": "earthssubstance.com",
+            "destination": "Hostinger",
+            "date": "2026-02-06 21:27:48"
+        },
         {
             "domain_name": "legacylending.ca",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "cmtonstage.com",
             "destination": "Liquid Web",
             "date": "2026-02-06 21:21:06"
+        },
+        {
+            "domain_name": "dysphagiacafe.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-06 21:09:24"
         },
         {
             "domain_name": "lvwalker.ca",
@@ -490,16 +500,6 @@
             "domain_name": "mitseasternshore.com",
             "destination": "Kinsta",
             "date": "2026-02-05 13:33:27"
-        },
-        {
-            "domain_name": "suncolawns.com",
-            "destination": "Pressable",
-            "date": "2026-02-05 13:16:36"
-        },
-        {
-            "domain_name": "maxxgreentech.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-02-05 12:58:51"
         }
     ],
     "dailyMovedStat": {
@@ -1005,7 +1005,8 @@
         "2026-02-02": "117574",
         "2026-02-03": "117779",
         "2026-02-04": "118003",
-        "2026-02-05": "118234"
+        "2026-02-05": "118234",
+        "2026-02-06": "118420"
     },
     "topDestinationHosts": {
         "Pressable": 11918,
@@ -1013,8 +1014,8 @@
         "Digital Ocean": 5849,
         "SiteGround": 5693,
         "Bluehost": 4429,
-        "Hostinger": 4405,
-        "GoDaddy": 1555,
+        "Hostinger": 4406,
+        "GoDaddy": 1556,
         "Liquid Web": 801,
         "BigScoots": 749,
         "WordPress.com": 603,
@@ -1532,6 +1533,7 @@
         "2026-02-02": "538814",
         "2026-02-03": "537509",
         "2026-02-04": "536772",
-        "2026-02-05": "536466"
+        "2026-02-05": "536466",
+        "2026-02-06": "534819"
     }
 }
