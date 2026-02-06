@@ -1,6 +1,16 @@
 {
-    "siteCount": 118234,
+    "siteCount": 118240,
     "recentlyMoved": [
+        {
+            "domain_name": "www.claremont.edu",
+            "destination": "Pressable",
+            "date": "2026-02-06 00:29:10"
+        },
+        {
+            "domain_name": "avensys.com",
+            "destination": "Kinsta",
+            "date": "2026-02-06 00:12:11"
+        },
         {
             "domain_name": "federationatx.com",
             "destination": "Namecheap",
@@ -490,16 +500,6 @@
             "domain_name": "jewishcoloringpages.com",
             "destination": "Hostinger",
             "date": "2026-02-04 16:29:47"
-        },
-        {
-            "domain_name": "www.jldavisrealty.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-04 16:21:37"
-        },
-        {
-            "domain_name": "infertilitydocs.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-04 16:20:01"
         }
     ],
     "dailyMovedStat": {
@@ -1008,8 +1008,8 @@
         "2026-02-05": "118234"
     },
     "topDestinationHosts": {
-        "Pressable": 11908,
-        "Kinsta": 8023,
+        "Pressable": 11909,
+        "Kinsta": 8024,
         "Digital Ocean": 5836,
         "SiteGround": 5693,
         "Bluehost": 4428,
