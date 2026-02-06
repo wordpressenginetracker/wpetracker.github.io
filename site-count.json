@@ -1,6 +1,16 @@
 {
-    "siteCount": 118316,
+    "siteCount": 118323,
     "recentlyMoved": [
+        {
+            "domain_name": "www.trrcopo.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-06 13:38:29"
+        },
+        {
+            "domain_name": "saltmedspadawsonville.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-06 12:36:31"
+        },
         {
             "domain_name": "houseappeal.com",
             "destination": "Kinsta",
@@ -12,9 +22,19 @@
             "date": "2026-02-06 12:29:19"
         },
         {
+            "domain_name": "rumorsmaumelle.com",
+            "destination": "Kinsta",
+            "date": "2026-02-06 12:27:59"
+        },
+        {
             "domain_name": "platformtrailblazers.com",
             "destination": "WordPress.com",
             "date": "2026-02-06 12:22:40"
+        },
+        {
+            "domain_name": "brimacomberacing.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-06 12:19:57"
         },
         {
             "domain_name": "bacarokitchen.com",
@@ -472,16 +492,6 @@
             "date": "2026-02-05 00:26:05"
         },
         {
-            "domain_name": "gardenersstudiowagga.com",
-            "destination": "Kinsta",
-            "date": "2026-02-05 00:14:05"
-        },
-        {
-            "domain_name": "godentalwagga.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-04 23:57:23"
-        },
-        {
             "domain_name": "www.foundationdental.com.au",
             "destination": "Kinsta",
             "date": "2026-02-04 23:47:14"
@@ -490,16 +500,6 @@
             "domain_name": "bachillsvineyard.com",
             "destination": "Hostinger",
             "date": "2026-02-04 23:47:02"
-        },
-        {
-            "domain_name": "upcyclellc.com",
-            "destination": "Kinsta",
-            "date": "2026-02-04 22:13:39"
-        },
-        {
-            "domain_name": "extendhealthco.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-04 21:34:26"
         }
     ],
     "dailyMovedStat": {
@@ -1009,8 +1009,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11913,
-        "Kinsta": 8030,
-        "Digital Ocean": 5841,
+        "Kinsta": 8033,
+        "Digital Ocean": 5843,
         "SiteGround": 5693,
         "Bluehost": 4429,
         "Hostinger": 4405,
