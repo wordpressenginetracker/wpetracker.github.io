@@ -1,6 +1,16 @@
 {
-    "siteCount": 118420,
+    "siteCount": 118423,
     "recentlyMoved": [
+        {
+            "domain_name": "achievingyourbest.net",
+            "destination": "Kinsta",
+            "date": "2026-02-06 23:34:53"
+        },
+        {
+            "domain_name": "peerforeducation.org",
+            "destination": "WordPress.com",
+            "date": "2026-02-06 23:22:57"
+        },
         {
             "domain_name": "earthssubstance.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "viabuff.com",
             "destination": "Kinsta",
             "date": "2026-02-05 13:56:49"
-        },
-        {
-            "domain_name": "mrgsmeats.com",
-            "destination": "Kinsta",
-            "date": "2026-02-05 13:53:38"
-        },
-        {
-            "domain_name": "mitseasternshore.com",
-            "destination": "Kinsta",
-            "date": "2026-02-05 13:33:27"
         }
     ],
     "dailyMovedStat": {
@@ -1010,7 +1010,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11918,
-        "Kinsta": 8050,
+        "Kinsta": 8051,
         "Digital Ocean": 5849,
         "SiteGround": 5693,
         "Bluehost": 4429,
@@ -1018,7 +1018,7 @@
         "GoDaddy": 1556,
         "Liquid Web": 801,
         "BigScoots": 749,
-        "WordPress.com": 603,
+        "WordPress.com": 604,
         "GridPane": 550,
         "OVH": 540,
         "InMotion Hosting": 521,
