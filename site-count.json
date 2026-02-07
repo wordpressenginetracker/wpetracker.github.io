@@ -1,6 +1,11 @@
 {
-    "siteCount": 118445,
+    "siteCount": 118448,
     "recentlyMoved": [
+        {
+            "domain_name": "kevinkremer.com",
+            "destination": "Hostinger",
+            "date": "2026-02-07 04:47:15"
+        },
         {
             "domain_name": "himplasticsurgery.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "crnalocumjobs.com",
             "destination": "Kinsta",
             "date": "2026-02-05 16:51:30"
-        },
-        {
-            "domain_name": "cabooze.com",
-            "destination": "GridPane",
-            "date": "2026-02-05 16:39:33"
         }
     ],
     "dailyMovedStat": {
@@ -1014,7 +1014,7 @@
         "Digital Ocean": 5850,
         "SiteGround": 5693,
         "Bluehost": 4430,
-        "Hostinger": 4407,
+        "Hostinger": 4408,
         "GoDaddy": 1556,
         "Liquid Web": 801,
         "BigScoots": 749,
