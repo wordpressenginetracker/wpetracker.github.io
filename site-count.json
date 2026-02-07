@@ -1,6 +1,11 @@
 {
-    "siteCount": 118433,
+    "siteCount": 118437,
     "recentlyMoved": [
+        {
+            "domain_name": "drwmori.com",
+            "destination": "Kinsta",
+            "date": "2026-02-07 02:01:01"
+        },
         {
             "domain_name": "lennoxheadaccom.com.au",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "bluewestopportunities.org",
             "destination": "GridPane",
             "date": "2026-02-05 16:43:00"
-        },
-        {
-            "domain_name": "www.hendersoncolibrary.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-05 16:41:37"
         },
         {
             "domain_name": "cabooze.com",
@@ -1010,7 +1010,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11918,
-        "Kinsta": 8053,
+        "Kinsta": 8055,
         "Digital Ocean": 5849,
         "SiteGround": 5693,
         "Bluehost": 4430,
