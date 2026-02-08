@@ -1,6 +1,11 @@
 {
-    "siteCount": 118684,
+    "siteCount": 118685,
     "recentlyMoved": [
+        {
+            "domain_name": "edsted.com",
+            "destination": "Namecheap",
+            "date": "2026-02-08 21:47:04"
+        },
         {
             "domain_name": "www.warmbuddystore.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "www.paradise-watersports.com",
             "destination": "Pressable",
             "date": "2026-02-06 16:31:02"
-        },
-        {
-            "domain_name": "joseslandscapingteam.com",
-            "destination": "Pressable",
-            "date": "2026-02-06 16:14:09"
         }
     ],
     "dailyMovedStat": {
@@ -1023,12 +1023,12 @@
         "GridPane": 550,
         "OVH": 543,
         "InMotion Hosting": 525,
-        "Namecheap": 468,
+        "Namecheap": 469,
         "IONOS": 442,
         "A2 Hosting": 432,
         "DreamHost": 411,
         "Elementor Hosting": 402,
-        "Hetzner Online": 348,
+        "Hetzner Online": 349,
         "HostGator": 260
     },
     "dailyTotalStat": {
