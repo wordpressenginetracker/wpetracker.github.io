@@ -1,6 +1,16 @@
 {
-    "siteCount": 118646,
+    "siteCount": 118657,
     "recentlyMoved": [
+        {
+            "domain_name": "commvnity.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-08 17:23:03"
+        },
+        {
+            "domain_name": "kenyaevelyn.com",
+            "destination": "Hostinger",
+            "date": "2026-02-08 16:58:41"
+        },
         {
             "domain_name": "hsprojects.com",
             "destination": "Krystal Hosting",
@@ -485,16 +495,6 @@
             "domain_name": "novawall.com",
             "destination": "Digital Ocean",
             "date": "2026-02-06 13:49:28"
-        },
-        {
-            "domain_name": "edumeet.org",
-            "destination": "Kinsta",
-            "date": "2026-02-06 13:38:40"
-        },
-        {
-            "domain_name": "www.trrcopo.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-06 13:38:29"
         },
         {
             "domain_name": "motorad.com",
@@ -1015,8 +1015,8 @@
         "Digital Ocean": 5860,
         "SiteGround": 5693,
         "Bluehost": 4434,
-        "Hostinger": 4424,
-        "GoDaddy": 1558,
+        "Hostinger": 4425,
+        "GoDaddy": 1559,
         "Liquid Web": 801,
         "BigScoots": 750,
         "WordPress.com": 604,
