@@ -1,6 +1,11 @@
 {
-    "siteCount": 118660,
+    "siteCount": 118679,
     "recentlyMoved": [
+        {
+            "domain_name": "givealaugh.com",
+            "destination": "DreamHost",
+            "date": "2026-02-08 20:09:57"
+        },
         {
             "domain_name": "vernonwhaley.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "joseslandscapingteam.com",
             "destination": "Pressable",
             "date": "2026-02-06 16:14:09"
-        },
-        {
-            "domain_name": "playvillekids.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-06 16:08:37"
         },
         {
             "domain_name": "www.websterauctioneers.com",
@@ -1011,11 +1011,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11929,
-        "Kinsta": 8064,
+        "Kinsta": 8065,
         "Digital Ocean": 5860,
         "SiteGround": 5693,
         "Bluehost": 4434,
-        "Hostinger": 4428,
+        "Hostinger": 4429,
         "GoDaddy": 1559,
         "Liquid Web": 801,
         "BigScoots": 750,
@@ -1026,7 +1026,7 @@
         "Namecheap": 468,
         "IONOS": 442,
         "A2 Hosting": 432,
-        "DreamHost": 410,
+        "DreamHost": 411,
         "Elementor Hosting": 402,
         "Hetzner Online": 348,
         "HostGator": 260
