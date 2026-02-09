@@ -1,6 +1,21 @@
 {
-    "siteCount": 118690,
+    "siteCount": 118696,
     "recentlyMoved": [
+        {
+            "domain_name": "chicagoplasticsurgery.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-09 01:14:01"
+        },
+        {
+            "domain_name": "sayplastics.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-09 01:04:42"
+        },
+        {
+            "domain_name": "buforddentist.com",
+            "destination": "Kinsta",
+            "date": "2026-02-09 00:50:24"
+        },
         {
             "domain_name": "r-rstl.com",
             "destination": "Kinsta",
@@ -472,11 +487,6 @@
             "date": "2026-02-06 18:06:33"
         },
         {
-            "domain_name": "mikeshoreman.com",
-            "destination": "Kinsta",
-            "date": "2026-02-06 18:06:21"
-        },
-        {
             "domain_name": "events.blackpress.ca",
             "destination": "WordPress VIP",
             "date": "2026-02-06 17:55:49"
@@ -490,16 +500,6 @@
             "domain_name": "ferreribarbershop.com",
             "destination": "Kinsta",
             "date": "2026-02-06 17:29:55"
-        },
-        {
-            "domain_name": "magnoliahuntingsupply.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-06 17:25:32"
-        },
-        {
-            "domain_name": "markexe.com",
-            "destination": "Pressable",
-            "date": "2026-02-06 17:12:23"
         }
     ],
     "dailyMovedStat": {
@@ -1012,8 +1012,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 11929,
-        "Kinsta": 8066,
-        "Digital Ocean": 5860,
+        "Kinsta": 8068,
+        "Digital Ocean": 5862,
         "SiteGround": 5693,
         "Bluehost": 4434,
         "Hostinger": 4430,
