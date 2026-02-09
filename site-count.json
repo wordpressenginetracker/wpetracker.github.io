@@ -1,6 +1,26 @@
 {
-    "siteCount": 118685,
+    "siteCount": 118690,
     "recentlyMoved": [
+        {
+            "domain_name": "r-rstl.com",
+            "destination": "Kinsta",
+            "date": "2026-02-09 00:24:08"
+        },
+        {
+            "domain_name": "hschockey.com",
+            "destination": "Kinsta",
+            "date": "2026-02-09 00:20:20"
+        },
+        {
+            "domain_name": "aquatechnicsuk.com",
+            "destination": "Krystal Hosting",
+            "date": "2026-02-09 00:19:34"
+        },
+        {
+            "domain_name": "orlandoadvocate.com",
+            "destination": "Hostinger",
+            "date": "2026-02-08 23:36:32"
+        },
         {
             "domain_name": "edsted.com",
             "destination": "Namecheap",
@@ -480,26 +500,6 @@
             "domain_name": "markexe.com",
             "destination": "Pressable",
             "date": "2026-02-06 17:12:23"
-        },
-        {
-            "domain_name": "carburantaeroportuairemontreal.com",
-            "destination": "Kinsta",
-            "date": "2026-02-06 17:06:58"
-        },
-        {
-            "domain_name": "curvemusic.com",
-            "destination": "Kinsta",
-            "date": "2026-02-06 17:02:16"
-        },
-        {
-            "domain_name": "lakeviewhealthandwellness.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-06 16:31:25"
-        },
-        {
-            "domain_name": "www.paradise-watersports.com",
-            "destination": "Pressable",
-            "date": "2026-02-06 16:31:02"
         }
     ],
     "dailyMovedStat": {
@@ -1012,11 +1012,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 11929,
-        "Kinsta": 8065,
+        "Kinsta": 8066,
         "Digital Ocean": 5860,
         "SiteGround": 5693,
         "Bluehost": 4434,
-        "Hostinger": 4429,
+        "Hostinger": 4430,
         "GoDaddy": 1559,
         "Liquid Web": 801,
         "BigScoots": 750,
