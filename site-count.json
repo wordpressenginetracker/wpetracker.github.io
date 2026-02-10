@@ -1,6 +1,16 @@
 {
-    "siteCount": 118804,
+    "siteCount": 118815,
     "recentlyMoved": [
+        {
+            "domain_name": "retireinph.com",
+            "destination": "HostGator",
+            "date": "2026-02-10 08:44:00"
+        },
+        {
+            "domain_name": "avidspecialists.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-02-10 08:02:35"
+        },
         {
             "domain_name": "cala.agra.org",
             "destination": "GoDaddy",
@@ -487,19 +497,9 @@
             "date": "2026-02-07 00:36:35"
         },
         {
-            "domain_name": "achievingyourbest.net",
-            "destination": "Kinsta",
-            "date": "2026-02-06 23:34:53"
-        },
-        {
             "domain_name": "peerforeducation.org",
             "destination": "WordPress.com",
             "date": "2026-02-06 23:22:57"
-        },
-        {
-            "domain_name": "earthssubstance.com",
-            "destination": "Hostinger",
-            "date": "2026-02-06 21:27:48"
         }
     ],
     "dailyMovedStat": {
@@ -1024,7 +1024,7 @@
         "WordPress.com": 604,
         "GridPane": 551,
         "OVH": 543,
-        "InMotion Hosting": 527,
+        "InMotion Hosting": 528,
         "Namecheap": 470,
         "IONOS": 442,
         "A2 Hosting": 432,
