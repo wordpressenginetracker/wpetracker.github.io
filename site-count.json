@@ -1,6 +1,21 @@
 {
-    "siteCount": 118815,
+    "siteCount": 118820,
     "recentlyMoved": [
+        {
+            "domain_name": "customdrive.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-10 09:30:23"
+        },
+        {
+            "domain_name": "machinerysafetylev.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-02-10 09:29:24"
+        },
+        {
+            "domain_name": "saybrooksolutions.com",
+            "destination": "Hostinger",
+            "date": "2026-02-10 08:52:44"
+        },
         {
             "domain_name": "retireinph.com",
             "destination": "HostGator",
@@ -482,24 +497,9 @@
             "date": "2026-02-07 00:59:54"
         },
         {
-            "domain_name": "impactuniv.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-02-07 00:53:44"
-        },
-        {
             "domain_name": "joansshoes.com.au",
             "destination": "Kinsta",
             "date": "2026-02-07 00:48:12"
-        },
-        {
-            "domain_name": "jayray.com",
-            "destination": "Bluehost",
-            "date": "2026-02-07 00:36:35"
-        },
-        {
-            "domain_name": "peerforeducation.org",
-            "destination": "WordPress.com",
-            "date": "2026-02-06 23:22:57"
         }
     ],
     "dailyMovedStat": {
@@ -1017,7 +1017,7 @@
         "Digital Ocean": 5866,
         "SiteGround": 5693,
         "Bluehost": 4435,
-        "Hostinger": 4433,
+        "Hostinger": 4434,
         "GoDaddy": 1560,
         "Liquid Web": 801,
         "BigScoots": 750,
@@ -1031,7 +1031,7 @@
         "DreamHost": 412,
         "Elementor Hosting": 403,
         "Hetzner Online": 349,
-        "HostGator": 260
+        "HostGator": 261
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
