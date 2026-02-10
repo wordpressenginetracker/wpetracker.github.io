@@ -1,6 +1,36 @@
 {
-    "siteCount": 118822,
+    "siteCount": 118836,
     "recentlyMoved": [
+        {
+            "domain_name": "azlegal.net",
+            "destination": "Digital Ocean",
+            "date": "2026-02-10 12:16:00"
+        },
+        {
+            "domain_name": "funnelleasing.com",
+            "destination": "Kinsta",
+            "date": "2026-02-10 12:14:09"
+        },
+        {
+            "domain_name": "ourfutureagenda.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-10 12:00:03"
+        },
+        {
+            "domain_name": "hamburg-hochzeitsfotografen.de",
+            "destination": "IONOS",
+            "date": "2026-02-10 11:44:31"
+        },
+        {
+            "domain_name": "www.auburn-reporter.com",
+            "destination": "WordPress VIP",
+            "date": "2026-02-10 11:27:10"
+        },
+        {
+            "domain_name": "flowfect.com",
+            "destination": "Pressable",
+            "date": "2026-02-10 11:21:26"
+        },
         {
             "domain_name": "customdrive.com",
             "destination": "GoDaddy",
@@ -470,36 +500,6 @@
             "domain_name": "kevinkremer.com",
             "destination": "Hostinger",
             "date": "2026-02-07 04:47:15"
-        },
-        {
-            "domain_name": "himplasticsurgery.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-07 04:12:45"
-        },
-        {
-            "domain_name": "pahconstruction.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-07 03:28:03"
-        },
-        {
-            "domain_name": "drwmori.com",
-            "destination": "Kinsta",
-            "date": "2026-02-07 02:01:01"
-        },
-        {
-            "domain_name": "lennoxheadaccom.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-07 01:05:38"
-        },
-        {
-            "domain_name": "madinsdrycleanersandlaundry.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-07 00:59:54"
-        },
-        {
-            "domain_name": "joansshoes.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-07 00:48:12"
         }
     ],
     "dailyMovedStat": {
@@ -1012,9 +1012,9 @@
         "2026-02-09": "118778"
     },
     "topDestinationHosts": {
-        "Pressable": 11934,
-        "Kinsta": 8070,
-        "Digital Ocean": 5866,
+        "Pressable": 11935,
+        "Kinsta": 8071,
+        "Digital Ocean": 5868,
         "SiteGround": 5693,
         "Bluehost": 4435,
         "Hostinger": 4434,
@@ -1026,7 +1026,7 @@
         "OVH": 543,
         "InMotion Hosting": 528,
         "Namecheap": 470,
-        "IONOS": 442,
+        "IONOS": 443,
         "A2 Hosting": 432,
         "DreamHost": 412,
         "Elementor Hosting": 403,
