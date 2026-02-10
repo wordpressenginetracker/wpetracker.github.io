@@ -1,6 +1,11 @@
 {
-    "siteCount": 118788,
+    "siteCount": 118790,
     "recentlyMoved": [
+        {
+            "domain_name": "edistolicensetochill.com",
+            "destination": "Kinsta",
+            "date": "2026-02-10 01:21:02"
+        },
         {
             "domain_name": "www.villepreneurs.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "dysphagiacafe.com",
             "destination": "GoDaddy",
             "date": "2026-02-06 21:09:24"
-        },
-        {
-            "domain_name": "lvwalker.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-06 21:01:49"
         }
     ],
     "dailyMovedStat": {
@@ -1012,8 +1012,8 @@
         "2026-02-09": "118778"
     },
     "topDestinationHosts": {
-        "Pressable": 11933,
-        "Kinsta": 8069,
+        "Pressable": 11934,
+        "Kinsta": 8070,
         "Digital Ocean": 5866,
         "SiteGround": 5693,
         "Bluehost": 4435,
