@@ -1,6 +1,41 @@
 {
-    "siteCount": 118972,
+    "siteCount": 119031,
     "recentlyMoved": [
+        {
+            "domain_name": "bellumlegal.com",
+            "destination": "Kinsta",
+            "date": "2026-02-10 20:40:28"
+        },
+        {
+            "domain_name": "quinterocesar.com",
+            "destination": "Kinsta",
+            "date": "2026-02-10 20:21:28"
+        },
+        {
+            "domain_name": "qualitycabinetsandcounters.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-10 20:21:28"
+        },
+        {
+            "domain_name": "www.drjvera.com",
+            "destination": "IONOS",
+            "date": "2026-02-10 20:20:07"
+        },
+        {
+            "domain_name": "hingeconsulting.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-10 20:15:59"
+        },
+        {
+            "domain_name": "ppprint.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-10 19:48:57"
+        },
+        {
+            "domain_name": "pagoslc.com",
+            "destination": "Pressable",
+            "date": "2026-02-10 19:14:51"
+        },
         {
             "domain_name": "nrt.mkmedicalsuk.com",
             "destination": "Pressable",
@@ -465,41 +500,6 @@
             "domain_name": "www.warmbuddystore.com",
             "destination": "Hetzner Online",
             "date": "2026-02-08 21:30:04"
-        },
-        {
-            "domain_name": "givealaugh.com",
-            "destination": "DreamHost",
-            "date": "2026-02-08 20:09:57"
-        },
-        {
-            "domain_name": "vernonwhaley.com",
-            "destination": "Hostinger",
-            "date": "2026-02-08 17:53:52"
-        },
-        {
-            "domain_name": "merchclub.com",
-            "destination": "Hostinger",
-            "date": "2026-02-08 17:51:21"
-        },
-        {
-            "domain_name": "commvnity.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-08 17:23:03"
-        },
-        {
-            "domain_name": "thinkrichradio.com",
-            "destination": "Hostinger",
-            "date": "2026-02-08 17:03:46"
-        },
-        {
-            "domain_name": "kenyaevelyn.com",
-            "destination": "Hostinger",
-            "date": "2026-02-08 16:58:41"
-        },
-        {
-            "domain_name": "hsprojects.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-02-08 16:24:57"
         }
     ],
     "dailyMovedStat": {
@@ -1012,12 +1012,12 @@
         "2026-02-09": "118778"
     },
     "topDestinationHosts": {
-        "Pressable": 11952,
-        "Kinsta": 8086,
+        "Pressable": 11953,
+        "Kinsta": 8090,
         "Digital Ocean": 5871,
         "SiteGround": 5693,
-        "Hostinger": 4440,
-        "Bluehost": 4438,
+        "Hostinger": 4441,
+        "Bluehost": 4439,
         "GoDaddy": 1563,
         "Liquid Web": 801,
         "BigScoots": 753,
@@ -1026,10 +1026,10 @@
         "OVH": 543,
         "InMotion Hosting": 528,
         "Namecheap": 470,
-        "IONOS": 443,
+        "IONOS": 444,
         "A2 Hosting": 432,
-        "DreamHost": 412,
-        "Elementor Hosting": 403,
+        "DreamHost": 413,
+        "Elementor Hosting": 404,
         "Hetzner Online": 349,
         "HostGator": 261
     },
