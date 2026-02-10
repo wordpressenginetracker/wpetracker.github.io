@@ -1,6 +1,11 @@
 {
-    "siteCount": 118794,
+    "siteCount": 118800,
     "recentlyMoved": [
+        {
+            "domain_name": "cala.agra.org",
+            "destination": "GoDaddy",
+            "date": "2026-02-10 04:23:17"
+        },
         {
             "domain_name": "edistolicensetochill.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "earthssubstance.com",
             "destination": "Hostinger",
             "date": "2026-02-06 21:27:48"
-        },
-        {
-            "domain_name": "dysphagiacafe.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-06 21:09:24"
         }
     ],
     "dailyMovedStat": {
@@ -1018,7 +1018,7 @@
         "SiteGround": 5693,
         "Bluehost": 4435,
         "Hostinger": 4433,
-        "GoDaddy": 1559,
+        "GoDaddy": 1560,
         "Liquid Web": 801,
         "BigScoots": 750,
         "WordPress.com": 604,
