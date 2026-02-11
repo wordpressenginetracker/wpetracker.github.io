@@ -1,6 +1,26 @@
 {
-    "siteCount": 119147,
+    "siteCount": 119171,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sahabainitiative.org",
+            "destination": "GoDaddy",
+            "date": "2026-02-11 12:14:46"
+        },
+        {
+            "domain_name": "hungryrunwinecellars.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-11 12:09:28"
+        },
+        {
+            "domain_name": "www.kswconstructionllc.com",
+            "destination": "Kinsta",
+            "date": "2026-02-11 11:57:52"
+        },
+        {
+            "domain_name": "www.acuitycpas.com",
+            "destination": "Kinsta",
+            "date": "2026-02-11 11:54:00"
+        },
         {
             "domain_name": "takobox.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "cynthiawilliamswellness.com",
             "destination": "Pressable",
             "date": "2026-02-10 13:16:21"
-        },
-        {
-            "domain_name": "lnacreative.com",
-            "destination": "Pressable",
-            "date": "2026-02-10 13:09:00"
-        },
-        {
-            "domain_name": "lonestardoorrestore.com",
-            "destination": "Pressable",
-            "date": "2026-02-10 12:52:27"
-        },
-        {
-            "domain_name": "lonestardoorrefinishing.com",
-            "destination": "Pressable",
-            "date": "2026-02-10 12:52:27"
-        },
-        {
-            "domain_name": "www.tacomadailyindex.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-10 12:38:44"
         }
     ],
     "dailyMovedStat": {
@@ -1014,12 +1014,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 11961,
-        "Kinsta": 8108,
+        "Kinsta": 8110,
         "Digital Ocean": 5874,
         "SiteGround": 5693,
         "Hostinger": 4451,
-        "Bluehost": 4440,
-        "GoDaddy": 1564,
+        "Bluehost": 4441,
+        "GoDaddy": 1565,
         "Liquid Web": 801,
         "BigScoots": 753,
         "WordPress.com": 605,
