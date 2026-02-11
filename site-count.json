@@ -1,6 +1,11 @@
 {
-    "siteCount": 119100,
+    "siteCount": 119111,
     "recentlyMoved": [
+        {
+            "domain_name": "pmggroup.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-11 03:56:03"
+        },
         {
             "domain_name": "tammys.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "hamburg-hochzeitsfotografen.de",
             "destination": "IONOS",
             "date": "2026-02-10 11:44:31"
-        },
-        {
-            "domain_name": "www.auburn-reporter.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-10 11:27:10"
         }
     ],
     "dailyMovedStat": {
@@ -1014,7 +1014,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11957,
-        "Kinsta": 8107,
+        "Kinsta": 8108,
         "Digital Ocean": 5872,
         "SiteGround": 5693,
         "Hostinger": 4448,
