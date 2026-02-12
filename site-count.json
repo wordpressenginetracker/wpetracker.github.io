@@ -1,6 +1,11 @@
 {
-    "siteCount": 119385,
+    "siteCount": 119386,
     "recentlyMoved": [
+        {
+            "domain_name": "torqdist.com",
+            "destination": "Kinsta",
+            "date": "2026-02-12 10:06:40"
+        },
         {
             "domain_name": "rightchoiceconstruction.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "inthearenaonline.com",
             "destination": "Bluehost",
             "date": "2026-02-10 20:12:11"
-        },
-        {
-            "domain_name": "ppprint.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-10 19:48:57"
         }
     ],
     "dailyMovedStat": {
@@ -1015,7 +1015,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11969,
-        "Kinsta": 8118,
+        "Kinsta": 8119,
         "Digital Ocean": 5891,
         "SiteGround": 5693,
         "Hostinger": 4454,
