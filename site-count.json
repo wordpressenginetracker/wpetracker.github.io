@@ -1,6 +1,11 @@
 {
-    "siteCount": 119340,
+    "siteCount": 119353,
     "recentlyMoved": [
+        {
+            "domain_name": "clictell.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-12 05:19:45"
+        },
         {
             "domain_name": "lriexteriors.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "nrt.mkmedicalsuk.com",
             "destination": "Pressable",
             "date": "2026-02-10 18:18:58"
-        },
-        {
-            "domain_name": "nimbofork.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-10 18:01:22"
         }
     ],
     "dailyMovedStat": {
@@ -1020,7 +1020,7 @@
         "SiteGround": 5693,
         "Hostinger": 4454,
         "Bluehost": 4446,
-        "GoDaddy": 1566,
+        "GoDaddy": 1567,
         "Liquid Web": 803,
         "BigScoots": 754,
         "WordPress.com": 609,
