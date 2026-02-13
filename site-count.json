@@ -1,6 +1,11 @@
 {
-    "siteCount": 119625,
+    "siteCount": 119635,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theaacareers.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-02-13 09:26:23"
+        },
         {
             "domain_name": "arkansasrivertours.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "gilmoreelectricexpress.com",
             "destination": "Digital Ocean",
             "date": "2026-02-11 15:51:37"
-        },
-        {
-            "domain_name": "aircomfortofky.com",
-            "destination": "Pressable",
-            "date": "2026-02-11 15:32:55"
         }
     ],
     "dailyMovedStat": {
@@ -1017,7 +1017,7 @@
     "topDestinationHosts": {
         "Pressable": 11984,
         "Kinsta": 8134,
-        "Digital Ocean": 5897,
+        "Digital Ocean": 5898,
         "SiteGround": 5693,
         "Hostinger": 4459,
         "Bluehost": 4448,
