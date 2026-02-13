@@ -1,6 +1,11 @@
 {
-    "siteCount": 119601,
+    "siteCount": 119609,
     "recentlyMoved": [
+        {
+            "domain_name": "nonamedelisc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-13 06:24:07"
+        },
         {
             "domain_name": "redrockautomation.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "virtualintell.com",
             "destination": "Digital Ocean",
             "date": "2026-02-11 14:18:05"
-        },
-        {
-            "domain_name": "matrixassetadvisors.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-11 13:47:02"
         }
     ],
     "dailyMovedStat": {
@@ -1019,7 +1019,7 @@
         "Kinsta": 8134,
         "Digital Ocean": 5897,
         "SiteGround": 5693,
-        "Hostinger": 4458,
+        "Hostinger": 4459,
         "Bluehost": 4448,
         "GoDaddy": 1570,
         "Liquid Web": 804,
