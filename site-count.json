@@ -1,6 +1,31 @@
 {
-    "siteCount": 119640,
+    "siteCount": 119668,
     "recentlyMoved": [
+        {
+            "domain_name": "backpackinteractive.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-13 12:09:54"
+        },
+        {
+            "domain_name": "redrockeurope.nl",
+            "destination": "Hostinger",
+            "date": "2026-02-13 11:47:01"
+        },
+        {
+            "domain_name": "www.bergmanfarmsupply.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-13 11:46:18"
+        },
+        {
+            "domain_name": "www.blueroanrealtors.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-13 11:37:44"
+        },
+        {
+            "domain_name": "abckeystone.org",
+            "destination": "Kinsta",
+            "date": "2026-02-13 11:26:32"
+        },
         {
             "domain_name": "neveragainmeans.com",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "clearviewadvisory.ca",
             "destination": "Kinsta",
             "date": "2026-02-11 17:04:03"
-        },
-        {
-            "domain_name": "www.perritt.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-02-11 17:00:54"
-        },
-        {
-            "domain_name": "harpendencolts.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-11 16:27:36"
-        },
-        {
-            "domain_name": "seniorlivingtruthseries.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-11 16:13:40"
-        },
-        {
-            "domain_name": "baseballdevelopmentgroup.com",
-            "destination": "Kinsta",
-            "date": "2026-02-11 16:01:51"
-        },
-        {
-            "domain_name": "www.destinationsouth.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-11 15:53:11"
         }
     ],
     "dailyMovedStat": {
@@ -1016,10 +1016,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 11985,
-        "Kinsta": 8134,
-        "Digital Ocean": 5898,
+        "Kinsta": 8135,
+        "Digital Ocean": 5901,
         "SiteGround": 5693,
-        "Hostinger": 4459,
+        "Hostinger": 4460,
         "Bluehost": 4448,
         "GoDaddy": 1570,
         "Liquid Web": 804,
