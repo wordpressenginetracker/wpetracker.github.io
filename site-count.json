@@ -1,6 +1,11 @@
 {
-    "siteCount": 119989,
+    "siteCount": 119990,
     "recentlyMoved": [
+        {
+            "domain_name": "espacodadecoracao.com.br",
+            "destination": "Hostinger",
+            "date": "2026-02-14 21:33:36"
+        },
         {
             "domain_name": "centralbe.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "iris-recherche.qc.ca",
             "destination": "OVH",
             "date": "2026-02-13 12:43:47"
-        },
-        {
-            "domain_name": "sapphirecustomhomes.net",
-            "destination": "Pressable",
-            "date": "2026-02-13 12:31:07"
         }
     ],
     "dailyMovedStat": {
@@ -1020,7 +1020,7 @@
         "Kinsta": 8172,
         "Digital Ocean": 5919,
         "SiteGround": 5694,
-        "Hostinger": 4470,
+        "Hostinger": 4471,
         "Bluehost": 4449,
         "GoDaddy": 1576,
         "Liquid Web": 808,
