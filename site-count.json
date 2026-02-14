@@ -1,6 +1,21 @@
 {
-    "siteCount": 119855,
+    "siteCount": 119861,
     "recentlyMoved": [
+        {
+            "domain_name": "drzur.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-14 09:37:14"
+        },
+        {
+            "domain_name": "nickschristianacademy.com",
+            "destination": "Hostinger",
+            "date": "2026-02-14 09:25:14"
+        },
+        {
+            "domain_name": "tracimarlowdesigns.com",
+            "destination": "Pressable",
+            "date": "2026-02-14 09:07:40"
+        },
         {
             "domain_name": "stephaniezheng.com",
             "destination": "HostGator",
@@ -467,11 +482,6 @@
             "date": "2026-02-12 16:08:46"
         },
         {
-            "domain_name": "23zero.com",
-            "destination": "Kinsta",
-            "date": "2026-02-12 16:00:36"
-        },
-        {
             "domain_name": "ace-consulting.net",
             "destination": "Pressable",
             "date": "2026-02-12 15:53:57"
@@ -490,16 +500,6 @@
             "domain_name": "www.atlantaluxuryrentals.com",
             "destination": "InMotion Hosting",
             "date": "2026-02-12 15:33:01"
-        },
-        {
-            "domain_name": "10pmptx.com",
-            "destination": "A2 Hosting",
-            "date": "2026-02-12 15:04:31"
-        },
-        {
-            "domain_name": "01945themagazine.com",
-            "destination": "BigScoots",
-            "date": "2026-02-12 15:04:31"
         }
     ],
     "dailyMovedStat": {
@@ -1016,13 +1016,13 @@
         "2026-02-13": "119801"
     },
     "topDestinationHosts": {
-        "Pressable": 11991,
+        "Pressable": 11992,
         "Kinsta": 8149,
         "Digital Ocean": 5914,
         "SiteGround": 5694,
-        "Hostinger": 4464,
+        "Hostinger": 4465,
         "Bluehost": 4449,
-        "GoDaddy": 1573,
+        "GoDaddy": 1574,
         "Liquid Web": 805,
         "BigScoots": 763,
         "WordPress.com": 611,
