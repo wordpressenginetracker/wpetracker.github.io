@@ -1,10 +1,15 @@
 {
-    "siteCount": 119811,
+    "siteCount": 119818,
     "recentlyMoved": [
         {
             "domain_name": "anchorinnbeachhouse.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-14 00:20:51"
+        },
+        {
+            "domain_name": "www.helpinghand.org.au",
+            "destination": "Kinsta",
+            "date": "2026-02-14 00:20:19"
         },
         {
             "domain_name": "www.cathedralstm.org",
@@ -490,11 +495,6 @@
             "domain_name": "lynnfieldweeklynews.com",
             "destination": "BigScoots",
             "date": "2026-02-12 13:20:10"
-        },
-        {
-            "domain_name": "streetsensemedia.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-12 13:18:22"
         },
         {
             "domain_name": "madeintheshadelr.com",
@@ -1017,7 +1017,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 11991,
-        "Kinsta": 8144,
+        "Kinsta": 8145,
         "Digital Ocean": 5914,
         "SiteGround": 5694,
         "Hostinger": 4461,
