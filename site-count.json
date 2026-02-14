@@ -1,10 +1,30 @@
 {
-    "siteCount": 119915,
+    "siteCount": 119929,
     "recentlyMoved": [
+        {
+            "domain_name": "www.zet-tecdedetizadora.com.br",
+            "destination": "Hostinger",
+            "date": "2026-02-14 17:24:17"
+        },
+        {
+            "domain_name": "theatlantichouse.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-14 17:10:54"
+        },
+        {
+            "domain_name": "csmfirm.com",
+            "destination": "Kinsta",
+            "date": "2026-02-14 17:05:44"
+        },
         {
             "domain_name": "bermudagetaway.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-14 16:38:48"
+        },
+        {
+            "domain_name": "blockislandinns.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-14 16:35:18"
         },
         {
             "domain_name": "www.samcoagency.com",
@@ -25,6 +45,16 @@
             "domain_name": "bayarea.solar",
             "destination": "Kinsta",
             "date": "2026-02-14 16:12:39"
+        },
+        {
+            "domain_name": "jlphotographyri.com",
+            "destination": "BigScoots",
+            "date": "2026-02-14 16:11:40"
+        },
+        {
+            "domain_name": "borgosanvincenzo.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-14 16:06:30"
         },
         {
             "domain_name": "aquabluehotels.com",
@@ -467,39 +497,9 @@
             "date": "2026-02-13 01:24:28"
         },
         {
-            "domain_name": "cjscsi.com",
-            "destination": "Bluehost",
-            "date": "2026-02-13 01:08:29"
-        },
-        {
             "domain_name": "limetwig.com",
             "destination": "Pressable",
             "date": "2026-02-13 01:02:49"
-        },
-        {
-            "domain_name": "huckleberryhome.com",
-            "destination": "Pressable",
-            "date": "2026-02-13 00:38:29"
-        },
-        {
-            "domain_name": "pioneercomfort.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-12 23:50:09"
-        },
-        {
-            "domain_name": "wmcproducts.net",
-            "destination": "GoDaddy",
-            "date": "2026-02-12 23:30:44"
-        },
-        {
-            "domain_name": "themindfulnessmovie.com",
-            "destination": "Pressable",
-            "date": "2026-02-12 21:23:00"
-        },
-        {
-            "domain_name": "synapsec.ca",
-            "destination": "OVH",
-            "date": "2026-02-12 21:19:05"
         }
     ],
     "dailyMovedStat": {
@@ -1017,14 +1017,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 11994,
-        "Kinsta": 8165,
+        "Kinsta": 8166,
         "Digital Ocean": 5916,
         "SiteGround": 5694,
         "Hostinger": 4466,
         "Bluehost": 4449,
         "GoDaddy": 1575,
         "Liquid Web": 806,
-        "BigScoots": 763,
+        "BigScoots": 764,
         "WordPress.com": 611,
         "GridPane": 553,
         "OVH": 547,
@@ -1032,8 +1032,8 @@
         "Namecheap": 470,
         "IONOS": 444,
         "A2 Hosting": 434,
+        "Elementor Hosting": 415,
         "DreamHost": 414,
-        "Elementor Hosting": 412,
         "Hetzner Online": 352,
         "HostGator": 264
     },
