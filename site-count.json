@@ -1,6 +1,21 @@
 {
-    "siteCount": 119847,
+    "siteCount": 119855,
     "recentlyMoved": [
+        {
+            "domain_name": "stephaniezheng.com",
+            "destination": "HostGator",
+            "date": "2026-02-14 08:52:04"
+        },
+        {
+            "domain_name": "www.prontobuildingpermits.com.au",
+            "destination": "GridPane",
+            "date": "2026-02-14 08:49:53"
+        },
+        {
+            "domain_name": "sharknc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-14 08:43:52"
+        },
         {
             "domain_name": "www.expressdoors.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "01945themagazine.com",
             "destination": "BigScoots",
             "date": "2026-02-12 15:04:31"
-        },
-        {
-            "domain_name": "01940themagazine.com",
-            "destination": "BigScoots",
-            "date": "2026-02-12 15:04:31"
-        },
-        {
-            "domain_name": "01907themagazine.com",
-            "destination": "BigScoots",
-            "date": "2026-02-12 15:04:31"
-        },
-        {
-            "domain_name": "noticiaslavoz.com",
-            "destination": "BigScoots",
-            "date": "2026-02-12 13:53:07"
         }
     ],
     "dailyMovedStat": {
@@ -1020,13 +1020,13 @@
         "Kinsta": 8149,
         "Digital Ocean": 5914,
         "SiteGround": 5694,
-        "Hostinger": 4463,
+        "Hostinger": 4464,
         "Bluehost": 4449,
         "GoDaddy": 1573,
         "Liquid Web": 805,
         "BigScoots": 763,
         "WordPress.com": 611,
-        "GridPane": 552,
+        "GridPane": 553,
         "OVH": 546,
         "InMotion Hosting": 536,
         "Namecheap": 470,
@@ -1035,7 +1035,7 @@
         "DreamHost": 414,
         "Elementor Hosting": 409,
         "Hetzner Online": 352,
-        "HostGator": 263
+        "HostGator": 264
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
