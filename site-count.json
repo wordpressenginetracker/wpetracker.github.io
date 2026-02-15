@@ -1,6 +1,16 @@
 {
-    "siteCount": 120000,
+    "siteCount": 120008,
     "recentlyMoved": [
+        {
+            "domain_name": "bushunter.pixely.com",
+            "destination": "Krystal Hosting",
+            "date": "2026-02-15 01:03:15"
+        },
+        {
+            "domain_name": "boblarson.org",
+            "destination": "HostGator",
+            "date": "2026-02-15 00:51:17"
+        },
         {
             "domain_name": "espacodadecoracao.com.br",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "theatreontheridge.ca",
             "destination": "Kinsta",
             "date": "2026-02-13 13:00:20"
-        },
-        {
-            "domain_name": "sosbrooklyn.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-13 12:51:51"
-        },
-        {
-            "domain_name": "iris-recherche.qc.ca",
-            "destination": "OVH",
-            "date": "2026-02-13 12:43:47"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
         "Elementor Hosting": 415,
         "DreamHost": 414,
         "Hetzner Online": 352,
-        "HostGator": 264
+        "HostGator": 265
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
