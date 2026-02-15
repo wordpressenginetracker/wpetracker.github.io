@@ -1,6 +1,11 @@
 {
-    "siteCount": 120032,
+    "siteCount": 120038,
     "recentlyMoved": [
+        {
+            "domain_name": "www.softwarepromotions.com",
+            "destination": "DreamHost",
+            "date": "2026-02-15 12:25:24"
+        },
         {
             "domain_name": "wades.co.uk",
             "destination": "Krystal Hosting",
@@ -485,11 +490,6 @@
             "domain_name": "lonestarlandenhancement.com",
             "destination": "Digital Ocean",
             "date": "2026-02-13 16:41:57"
-        },
-        {
-            "domain_name": "rapidtestaz.com",
-            "destination": "Kinsta",
-            "date": "2026-02-13 16:27:41"
         },
         {
             "domain_name": "redwoodemployment.com",
@@ -1034,7 +1034,7 @@
         "IONOS": 445,
         "A2 Hosting": 434,
         "Elementor Hosting": 420,
-        "DreamHost": 414,
+        "DreamHost": 415,
         "Hetzner Online": 352,
         "HostGator": 265
     },
