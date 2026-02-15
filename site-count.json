@@ -1,6 +1,11 @@
 {
-    "siteCount": 120031,
+    "siteCount": 120032,
     "recentlyMoved": [
+        {
+            "domain_name": "wades.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-02-15 09:56:45"
+        },
         {
             "domain_name": "clearwaterbeachclub.com",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "johnniedspizzeria.com",
             "destination": "HostGator",
             "date": "2026-02-13 16:13:53"
-        },
-        {
-            "domain_name": "www.browncoil.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-13 16:03:57"
         }
     ],
     "dailyMovedStat": {
