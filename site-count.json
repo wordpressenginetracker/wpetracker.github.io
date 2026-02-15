@@ -1,6 +1,16 @@
 {
-    "siteCount": 120008,
+    "siteCount": 120019,
     "recentlyMoved": [
+        {
+            "domain_name": "a4.nz",
+            "destination": "Hostinger",
+            "date": "2026-02-15 04:05:52"
+        },
+        {
+            "domain_name": "dagroupservices.com",
+            "destination": "OVH",
+            "date": "2026-02-15 03:39:27"
+        },
         {
             "domain_name": "bushunter.pixely.com",
             "destination": "Krystal Hosting",
@@ -485,16 +495,6 @@
             "domain_name": "wearekitchensink.com",
             "destination": "Kinsta",
             "date": "2026-02-13 14:28:07"
-        },
-        {
-            "domain_name": "livenorthline.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-13 13:32:13"
-        },
-        {
-            "domain_name": "www.rettew.com",
-            "destination": "Kinsta",
-            "date": "2026-02-13 13:23:12"
         },
         {
             "domain_name": "theatreontheridge.ca",
@@ -1021,14 +1021,14 @@
         "Kinsta": 8172,
         "Digital Ocean": 5919,
         "SiteGround": 5694,
-        "Hostinger": 4471,
+        "Hostinger": 4472,
         "Bluehost": 4449,
         "GoDaddy": 1576,
         "Liquid Web": 808,
         "BigScoots": 764,
         "WordPress.com": 611,
         "GridPane": 553,
-        "OVH": 547,
+        "OVH": 548,
         "InMotion Hosting": 536,
         "Namecheap": 470,
         "IONOS": 445,
