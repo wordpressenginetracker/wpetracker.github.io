@@ -1,6 +1,46 @@
 {
-    "siteCount": 120096,
+    "siteCount": 120117,
     "recentlyMoved": [
+        {
+            "domain_name": "rip-corp.com",
+            "destination": "OVH",
+            "date": "2026-02-15 20:46:34"
+        },
+        {
+            "domain_name": "rockinjequine.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 20:44:54"
+        },
+        {
+            "domain_name": "hamletinn.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-15 20:16:21"
+        },
+        {
+            "domain_name": "p2equestrian.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 20:02:01"
+        },
+        {
+            "domain_name": "fivewayfarm.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 20:00:23"
+        },
+        {
+            "domain_name": "oldeoaksfarm.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 19:50:38"
+        },
+        {
+            "domain_name": "follyfarmseq.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 19:43:46"
+        },
+        {
+            "domain_name": "wsalesint.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 19:38:13"
+        },
         {
             "domain_name": "feredaysporthorses.com",
             "destination": "Pressable",
@@ -460,46 +500,6 @@
             "domain_name": "palmettocenter.com",
             "destination": "Kinsta",
             "date": "2026-02-14 15:25:52"
-        },
-        {
-            "domain_name": "orange-county.solar",
-            "destination": "Kinsta",
-            "date": "2026-02-14 15:24:52"
-        },
-        {
-            "domain_name": "omegasolarenergy.com",
-            "destination": "Kinsta",
-            "date": "2026-02-14 15:11:36"
-        },
-        {
-            "domain_name": "vibrantoccasionscatering.com",
-            "destination": "Kinsta",
-            "date": "2026-02-14 13:43:35"
-        },
-        {
-            "domain_name": "manorhouse1.com",
-            "destination": "Liquid Web",
-            "date": "2026-02-14 13:29:48"
-        },
-        {
-            "domain_name": "naturalreliefdispensary.com",
-            "destination": "Kinsta",
-            "date": "2026-02-14 13:23:01"
-        },
-        {
-            "domain_name": "naturalrelief.net",
-            "destination": "Kinsta",
-            "date": "2026-02-14 13:23:01"
-        },
-        {
-            "domain_name": "strusoft.com",
-            "destination": "Hostinger",
-            "date": "2026-02-14 12:59:42"
-        },
-        {
-            "domain_name": "bobbydigbylaw.com",
-            "destination": "Kinsta",
-            "date": "2026-02-14 12:10:51"
         }
     ],
     "dailyMovedStat": {
@@ -1017,13 +1017,13 @@
         "2026-02-14": "119990"
     },
     "topDestinationHosts": {
-        "Pressable": 12024,
+        "Pressable": 12029,
         "Kinsta": 8172,
         "Digital Ocean": 5921,
         "SiteGround": 5694,
         "Hostinger": 4473,
         "Bluehost": 4449,
-        "GoDaddy": 1576,
+        "GoDaddy": 1577,
         "Liquid Web": 808,
         "BigScoots": 764,
         "WordPress.com": 611,
@@ -1032,8 +1032,8 @@
         "InMotion Hosting": 536,
         "Namecheap": 471,
         "IONOS": 445,
+        "Elementor Hosting": 435,
         "A2 Hosting": 434,
-        "Elementor Hosting": 434,
         "DreamHost": 415,
         "Hetzner Online": 352,
         "HostGator": 265
