@@ -1,6 +1,36 @@
 {
-    "siteCount": 120038,
+    "siteCount": 120046,
     "recentlyMoved": [
+        {
+            "domain_name": "crownpointcondos.net",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-15 13:28:40"
+        },
+        {
+            "domain_name": "customwinecellars.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-15 13:20:31"
+        },
+        {
+            "domain_name": "bostonsbestsanta.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 12:56:44"
+        },
+        {
+            "domain_name": "coveatyarmouth.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-15 12:52:58"
+        },
+        {
+            "domain_name": "www.motus.com",
+            "destination": "Pressable",
+            "date": "2026-02-15 12:51:41"
+        },
+        {
+            "domain_name": "congocoastal.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-15 12:43:53"
+        },
         {
             "domain_name": "www.softwarepromotions.com",
             "destination": "DreamHost",
@@ -467,39 +497,9 @@
             "date": "2026-02-13 17:35:11"
         },
         {
-            "domain_name": "commercialjunee.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-13 17:21:05"
-        },
-        {
-            "domain_name": "tacds.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-13 17:14:11"
-        },
-        {
-            "domain_name": "klvphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-02-13 16:56:07"
-        },
-        {
-            "domain_name": "www.ppsphx.com",
-            "destination": "SiteGround",
-            "date": "2026-02-13 16:54:52"
-        },
-        {
             "domain_name": "lonestarlandenhancement.com",
             "destination": "Digital Ocean",
             "date": "2026-02-13 16:41:57"
-        },
-        {
-            "domain_name": "redwoodemployment.com",
-            "destination": "Kinsta",
-            "date": "2026-02-13 16:18:17"
-        },
-        {
-            "domain_name": "johnniedspizzeria.com",
-            "destination": "HostGator",
-            "date": "2026-02-13 16:13:53"
         }
     ],
     "dailyMovedStat": {
@@ -1017,7 +1017,7 @@
         "2026-02-14": "119990"
     },
     "topDestinationHosts": {
-        "Pressable": 11997,
+        "Pressable": 11999,
         "Kinsta": 8172,
         "Digital Ocean": 5919,
         "SiteGround": 5694,
@@ -1033,7 +1033,7 @@
         "Namecheap": 470,
         "IONOS": 445,
         "A2 Hosting": 434,
-        "Elementor Hosting": 420,
+        "Elementor Hosting": 423,
         "DreamHost": 415,
         "Hetzner Online": 352,
         "HostGator": 265
