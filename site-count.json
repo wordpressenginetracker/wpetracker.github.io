@@ -1,6 +1,11 @@
 {
-    "siteCount": 120200,
+    "siteCount": 120203,
     "recentlyMoved": [
+        {
+            "domain_name": "www.autotechnologyrepair.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-16 13:50:31"
+        },
         {
             "domain_name": "jubilationchoir.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "chasecreek.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-15 09:12:43"
-        },
-        {
-            "domain_name": "cedarhouseonsound.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-15 08:24:18"
         }
     ],
     "dailyMovedStat": {
@@ -1020,7 +1020,7 @@
     "topDestinationHosts": {
         "Pressable": 12031,
         "Kinsta": 8172,
-        "Digital Ocean": 5922,
+        "Digital Ocean": 5923,
         "SiteGround": 5694,
         "Hostinger": 4485,
         "Bluehost": 4449,
