@@ -1,15 +1,40 @@
 {
-    "siteCount": 120158,
+    "siteCount": 120166,
     "recentlyMoved": [
+        {
+            "domain_name": "eglise-baptiste-oratoire.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 05:49:39"
+        },
+        {
+            "domain_name": "michaelfrazierdesigns.com",
+            "destination": "Hetzner Online",
+            "date": "2026-02-16 05:34:51"
+        },
         {
             "domain_name": "mannarestaurant.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 05:29:18"
         },
         {
+            "domain_name": "montaukmanor.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-16 05:20:20"
+        },
+        {
             "domain_name": "lodgeatkennebunk.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 05:11:42"
+        },
+        {
+            "domain_name": "theperfect32.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 05:07:43"
+        },
+        {
+            "domain_name": "mistyharborresort.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-16 05:07:01"
         },
         {
             "domain_name": "littlesurinn.com",
@@ -475,31 +500,6 @@
             "domain_name": "meetings.at-edge.com",
             "destination": "Hostinger",
             "date": "2026-02-14 17:12:20"
-        },
-        {
-            "domain_name": "theatlantichouse.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-14 17:10:54"
-        },
-        {
-            "domain_name": "csmfirm.com",
-            "destination": "Kinsta",
-            "date": "2026-02-14 17:05:44"
-        },
-        {
-            "domain_name": "blockislandinns.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-14 16:35:18"
-        },
-        {
-            "domain_name": "jlphotographyri.com",
-            "destination": "BigScoots",
-            "date": "2026-02-14 16:11:40"
-        },
-        {
-            "domain_name": "borgosanvincenzo.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-14 16:06:30"
         }
     ],
     "dailyMovedStat": {
@@ -1022,7 +1022,7 @@
         "Kinsta": 8172,
         "Digital Ocean": 5922,
         "SiteGround": 5694,
-        "Hostinger": 4476,
+        "Hostinger": 4478,
         "Bluehost": 4449,
         "GoDaddy": 1577,
         "Liquid Web": 809,
@@ -1033,10 +1033,10 @@
         "InMotion Hosting": 536,
         "Namecheap": 471,
         "IONOS": 445,
-        "Elementor Hosting": 439,
+        "Elementor Hosting": 442,
         "A2 Hosting": 434,
         "DreamHost": 415,
-        "Hetzner Online": 352,
+        "Hetzner Online": 353,
         "HostGator": 266
     },
     "dailyTotalStat": {
