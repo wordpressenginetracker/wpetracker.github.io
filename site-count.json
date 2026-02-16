@@ -1,6 +1,11 @@
 {
-    "siteCount": 120239,
+    "siteCount": 120265,
     "recentlyMoved": [
+        {
+            "domain_name": "windsongresidences.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-16 19:43:48"
+        },
         {
             "domain_name": "essencialaquecedores.com.br",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "hiddencreekfarmil.com",
             "destination": "Pressable",
             "date": "2026-02-15 15:54:31"
-        },
-        {
-            "domain_name": "global-equine.com",
-            "destination": "Pressable",
-            "date": "2026-02-15 15:49:15"
         },
         {
             "domain_name": "hagensport.com",
@@ -1019,7 +1019,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12031,
-        "Kinsta": 8172,
+        "Kinsta": 8173,
         "Digital Ocean": 5924,
         "SiteGround": 5695,
         "Hostinger": 4489,
@@ -1031,12 +1031,12 @@
         "GridPane": 554,
         "OVH": 549,
         "InMotion Hosting": 536,
-        "Elementor Hosting": 474,
+        "Elementor Hosting": 475,
         "Namecheap": 471,
         "IONOS": 445,
         "A2 Hosting": 434,
         "DreamHost": 416,
-        "Hetzner Online": 353,
+        "Hetzner Online": 354,
         "HostGator": 266
     },
     "dailyTotalStat": {
