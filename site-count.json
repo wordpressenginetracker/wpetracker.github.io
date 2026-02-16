@@ -1,6 +1,21 @@
 {
-    "siteCount": 120166,
+    "siteCount": 120172,
     "recentlyMoved": [
+        {
+            "domain_name": "gdesrosiers.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 08:00:11"
+        },
+        {
+            "domain_name": "fortunelab.net",
+            "destination": "Hostinger",
+            "date": "2026-02-16 07:41:35"
+        },
+        {
+            "domain_name": "garderietresorsbeaumont.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 07:28:34"
+        },
         {
             "domain_name": "eglise-baptiste-oratoire.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2026-02-14 17:33:29"
         },
         {
-            "domain_name": "www.zet-tecdedetizadora.com.br",
-            "destination": "Hostinger",
-            "date": "2026-02-14 17:24:17"
-        },
-        {
             "domain_name": "tolmgrp.com",
             "destination": "Liquid Web",
             "date": "2026-02-14 17:16:56"
-        },
-        {
-            "domain_name": "therusticgallery.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-14 17:12:53"
-        },
-        {
-            "domain_name": "meetings.at-edge.com",
-            "destination": "Hostinger",
-            "date": "2026-02-14 17:12:20"
         }
     ],
     "dailyMovedStat": {
@@ -1022,7 +1022,7 @@
         "Kinsta": 8172,
         "Digital Ocean": 5922,
         "SiteGround": 5694,
-        "Hostinger": 4478,
+        "Hostinger": 4481,
         "Bluehost": 4449,
         "GoDaddy": 1577,
         "Liquid Web": 809,
