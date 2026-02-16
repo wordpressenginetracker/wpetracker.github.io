@@ -1,6 +1,16 @@
 {
-    "siteCount": 120172,
+    "siteCount": 120175,
     "recentlyMoved": [
+        {
+            "domain_name": "matsiko.org",
+            "destination": "GoDaddy",
+            "date": "2026-02-16 09:19:31"
+        },
+        {
+            "domain_name": "kennebunkportmainelodging.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-16 08:19:51"
+        },
         {
             "domain_name": "gdesrosiers.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "nextlevelcx.com",
             "destination": "IONOS",
             "date": "2026-02-14 17:37:59"
-        },
-        {
-            "domain_name": "tlapc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-14 17:33:29"
-        },
-        {
-            "domain_name": "tolmgrp.com",
-            "destination": "Liquid Web",
-            "date": "2026-02-14 17:16:56"
         }
     ],
     "dailyMovedStat": {
@@ -1033,7 +1033,7 @@
         "InMotion Hosting": 536,
         "Namecheap": 471,
         "IONOS": 445,
-        "Elementor Hosting": 442,
+        "Elementor Hosting": 443,
         "A2 Hosting": 434,
         "DreamHost": 415,
         "Hetzner Online": 353,
