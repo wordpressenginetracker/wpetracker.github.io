@@ -1,6 +1,26 @@
 {
-    "siteCount": 120203,
+    "siteCount": 120212,
     "recentlyMoved": [
+        {
+            "domain_name": "idenh.org",
+            "destination": "Hostinger",
+            "date": "2026-02-16 16:43:19"
+        },
+        {
+            "domain_name": "becomingfab.com",
+            "destination": "DreamHost",
+            "date": "2026-02-16 15:52:05"
+        },
+        {
+            "domain_name": "fsatraining.com",
+            "destination": "SiteGround",
+            "date": "2026-02-16 15:46:35"
+        },
+        {
+            "domain_name": "www.caprimar.com.br",
+            "destination": "Hostinger",
+            "date": "2026-02-16 15:41:13"
+        },
         {
             "domain_name": "www.autotechnologyrepair.com",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "congocoastal.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-15 12:43:53"
-        },
-        {
-            "domain_name": "www.softwarepromotions.com",
-            "destination": "DreamHost",
-            "date": "2026-02-15 12:25:24"
-        },
-        {
-            "domain_name": "wades.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2026-02-15 09:56:45"
-        },
-        {
-            "domain_name": "clearwaterbeachclub.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-15 09:18:02"
-        },
-        {
-            "domain_name": "chasecreek.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-15 09:12:43"
         }
     ],
     "dailyMovedStat": {
@@ -1021,8 +1021,8 @@
         "Pressable": 12031,
         "Kinsta": 8172,
         "Digital Ocean": 5923,
-        "SiteGround": 5694,
-        "Hostinger": 4485,
+        "SiteGround": 5695,
+        "Hostinger": 4486,
         "Bluehost": 4449,
         "GoDaddy": 1578,
         "Liquid Web": 809,
@@ -1035,7 +1035,7 @@
         "Elementor Hosting": 459,
         "IONOS": 445,
         "A2 Hosting": 434,
-        "DreamHost": 415,
+        "DreamHost": 416,
         "Hetzner Online": 353,
         "HostGator": 266
     },
