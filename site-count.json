@@ -1,6 +1,11 @@
 {
-    "siteCount": 120194,
+    "siteCount": 120200,
     "recentlyMoved": [
+        {
+            "domain_name": "jubilationchoir.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 12:53:33"
+        },
         {
             "domain_name": "ranchomoonrise.com",
             "destination": "Elementor Hosting",
@@ -10,6 +15,16 @@
             "domain_name": "redsquirrellodge.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 12:35:33"
+        },
+        {
+            "domain_name": "saybrookservices.com",
+            "destination": "Hostinger",
+            "date": "2026-02-16 12:19:13"
+        },
+        {
+            "domain_name": "royalatlantic.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-16 12:17:23"
         },
         {
             "domain_name": "riomexicancafe.com",
@@ -482,24 +497,9 @@
             "date": "2026-02-15 09:12:43"
         },
         {
-            "domain_name": "brineybreezes.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-15 08:37:17"
-        },
-        {
-            "domain_name": "bohringerinc.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-15 08:36:36"
-        },
-        {
             "domain_name": "cedarhouseonsound.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-15 08:24:18"
-        },
-        {
-            "domain_name": "dagroupservices.com",
-            "destination": "OVH",
-            "date": "2026-02-15 03:39:27"
         }
     ],
     "dailyMovedStat": {
@@ -1022,7 +1022,7 @@
         "Kinsta": 8172,
         "Digital Ocean": 5922,
         "SiteGround": 5694,
-        "Hostinger": 4483,
+        "Hostinger": 4485,
         "Bluehost": 4449,
         "GoDaddy": 1578,
         "Liquid Web": 809,
@@ -1032,7 +1032,7 @@
         "OVH": 549,
         "InMotion Hosting": 536,
         "Namecheap": 471,
-        "Elementor Hosting": 457,
+        "Elementor Hosting": 459,
         "IONOS": 445,
         "A2 Hosting": 434,
         "DreamHost": 415,
