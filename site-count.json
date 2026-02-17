@@ -1,6 +1,36 @@
 {
-    "siteCount": 120379,
+    "siteCount": 120392,
     "recentlyMoved": [
+        {
+            "domain_name": "holyhearthigh.ca",
+            "destination": "Namecheap",
+            "date": "2026-02-17 16:23:43"
+        },
+        {
+            "domain_name": "www.cansulta.com",
+            "destination": "SiteGround",
+            "date": "2026-02-17 16:22:59"
+        },
+        {
+            "domain_name": "www.discovermctx.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-17 16:19:36"
+        },
+        {
+            "domain_name": "www.hannibalparks.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-17 16:11:28"
+        },
+        {
+            "domain_name": "www.mckinleykids.com",
+            "destination": "WordPress.com",
+            "date": "2026-02-17 15:38:07"
+        },
+        {
+            "domain_name": "pinnaclestructures.com",
+            "destination": "Kinsta",
+            "date": "2026-02-17 15:27:12"
+        },
         {
             "domain_name": "officinevispa.com",
             "destination": "Hostinger",
@@ -470,36 +500,6 @@
             "domain_name": "gdesrosiers.com",
             "destination": "Hostinger",
             "date": "2026-02-16 08:00:11"
-        },
-        {
-            "domain_name": "fortunelab.net",
-            "destination": "Hostinger",
-            "date": "2026-02-16 07:41:35"
-        },
-        {
-            "domain_name": "garderietresorsbeaumont.com",
-            "destination": "Hostinger",
-            "date": "2026-02-16 07:28:34"
-        },
-        {
-            "domain_name": "eglise-baptiste-oratoire.com",
-            "destination": "Hostinger",
-            "date": "2026-02-16 05:49:39"
-        },
-        {
-            "domain_name": "michaelfrazierdesigns.com",
-            "destination": "Hetzner Online",
-            "date": "2026-02-16 05:34:51"
-        },
-        {
-            "domain_name": "montaukmanor.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 05:20:20"
-        },
-        {
-            "domain_name": "mistyharborresort.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 05:07:01"
         }
     ],
     "dailyMovedStat": {
@@ -1020,20 +1020,20 @@
     },
     "topDestinationHosts": {
         "Pressable": 12041,
-        "Kinsta": 8178,
-        "Digital Ocean": 5929,
-        "SiteGround": 5695,
+        "Kinsta": 8179,
+        "Digital Ocean": 5930,
+        "SiteGround": 5696,
         "Hostinger": 4505,
         "Bluehost": 4449,
         "GoDaddy": 1581,
         "Liquid Web": 809,
         "BigScoots": 764,
-        "WordPress.com": 611,
+        "WordPress.com": 612,
         "GridPane": 558,
         "OVH": 549,
         "InMotion Hosting": 536,
         "Elementor Hosting": 477,
-        "Namecheap": 471,
+        "Namecheap": 472,
         "IONOS": 445,
         "A2 Hosting": 434,
         "DreamHost": 416,
