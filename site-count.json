@@ -1,6 +1,11 @@
 {
-    "siteCount": 120297,
+    "siteCount": 120300,
     "recentlyMoved": [
+        {
+            "domain_name": "boblarsonuniversity.org",
+            "destination": "HostGator",
+            "date": "2026-02-17 04:36:03"
+        },
         {
             "domain_name": "fabiennecolas.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "kimberleydiamondfarms.com",
             "destination": "Pressable",
             "date": "2026-02-15 16:37:58"
-        },
-        {
-            "domain_name": "jhsporthorses.com",
-            "destination": "Pressable",
-            "date": "2026-02-15 16:36:58"
         }
     ],
     "dailyMovedStat": {
@@ -1038,7 +1038,7 @@
         "A2 Hosting": 434,
         "DreamHost": 416,
         "Hetzner Online": 354,
-        "HostGator": 266
+        "HostGator": 267
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
