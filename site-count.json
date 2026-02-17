@@ -1,6 +1,21 @@
 {
-    "siteCount": 120370,
+    "siteCount": 120379,
     "recentlyMoved": [
+        {
+            "domain_name": "officinevispa.com",
+            "destination": "Hostinger",
+            "date": "2026-02-17 13:57:51"
+        },
+        {
+            "domain_name": "thelanguagegroup.com",
+            "destination": "Kinsta",
+            "date": "2026-02-17 13:45:18"
+        },
+        {
+            "domain_name": "energymasterhomeinc.com",
+            "destination": "Kinsta",
+            "date": "2026-02-17 13:21:31"
+        },
         {
             "domain_name": "solarinasec.com",
             "destination": "Kinsta",
@@ -477,24 +492,9 @@
             "date": "2026-02-16 05:34:51"
         },
         {
-            "domain_name": "mannarestaurant.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 05:29:18"
-        },
-        {
             "domain_name": "montaukmanor.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 05:20:20"
-        },
-        {
-            "domain_name": "lodgeatkennebunk.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 05:11:42"
-        },
-        {
-            "domain_name": "theperfect32.com",
-            "destination": "Hostinger",
-            "date": "2026-02-16 05:07:43"
         },
         {
             "domain_name": "mistyharborresort.com",
@@ -1020,10 +1020,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12041,
-        "Kinsta": 8176,
+        "Kinsta": 8178,
         "Digital Ocean": 5929,
         "SiteGround": 5695,
-        "Hostinger": 4504,
+        "Hostinger": 4505,
         "Bluehost": 4449,
         "GoDaddy": 1581,
         "Liquid Web": 809,
