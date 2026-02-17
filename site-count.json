@@ -1,6 +1,16 @@
 {
-    "siteCount": 120405,
+    "siteCount": 120412,
     "recentlyMoved": [
+        {
+            "domain_name": "viiventures.co",
+            "destination": "OVH",
+            "date": "2026-02-17 18:17:05"
+        },
+        {
+            "domain_name": "melissamarieartistry.com",
+            "destination": "Hostinger",
+            "date": "2026-02-17 17:31:33"
+        },
         {
             "domain_name": "thecarpetcenter.net",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2026-02-16 10:02:28"
         },
         {
-            "domain_name": "eglisegalilee.com",
-            "destination": "Hostinger",
-            "date": "2026-02-16 09:56:20"
-        },
-        {
             "domain_name": "nfct.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 09:31:06"
-        },
-        {
-            "domain_name": "mountnevishotel.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 09:14:06"
         }
     ],
     "dailyMovedStat": {
@@ -1020,17 +1020,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 12042,
-        "Kinsta": 8180,
+        "Kinsta": 8181,
         "Digital Ocean": 5931,
         "SiteGround": 5696,
-        "Hostinger": 4506,
+        "Hostinger": 4507,
         "Bluehost": 4449,
         "GoDaddy": 1581,
         "Liquid Web": 809,
         "BigScoots": 764,
         "WordPress.com": 612,
         "GridPane": 558,
-        "OVH": 549,
+        "OVH": 550,
         "InMotion Hosting": 536,
         "Elementor Hosting": 477,
         "Namecheap": 472,
