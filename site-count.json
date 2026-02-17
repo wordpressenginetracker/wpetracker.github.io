@@ -1,6 +1,26 @@
 {
-    "siteCount": 120354,
+    "siteCount": 120370,
     "recentlyMoved": [
+        {
+            "domain_name": "solarinasec.com",
+            "destination": "Kinsta",
+            "date": "2026-02-17 13:10:16"
+        },
+        {
+            "domain_name": "intentionalinterim.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-17 12:41:32"
+        },
+        {
+            "domain_name": "kingsalmonlodge.com",
+            "destination": "Pressable",
+            "date": "2026-02-17 12:39:28"
+        },
+        {
+            "domain_name": "innovativehealthbenefits.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-17 12:37:13"
+        },
         {
             "domain_name": "www.gorilladoctors.org",
             "destination": "Pressable",
@@ -17,9 +37,19 @@
             "date": "2026-02-17 12:16:56"
         },
         {
+            "domain_name": "buckelewgroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-17 12:08:31"
+        },
+        {
             "domain_name": "revyved.com",
             "destination": "Digital Ocean",
             "date": "2026-02-17 12:08:31"
+        },
+        {
+            "domain_name": "blugardatours.de",
+            "destination": "Hostinger",
+            "date": "2026-02-17 11:56:59"
         },
         {
             "domain_name": "gametimewraps.com",
@@ -470,36 +500,6 @@
             "domain_name": "mistyharborresort.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-16 05:07:01"
-        },
-        {
-            "domain_name": "littlesurinn.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 05:02:01"
-        },
-        {
-            "domain_name": "www.michaelseufer.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-16 05:01:17"
-        },
-        {
-            "domain_name": "kmss-us.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 04:25:51"
-        },
-        {
-            "domain_name": "innathighway1.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 03:55:15"
-        },
-        {
-            "domain_name": "topline-training.com",
-            "destination": "Pressable",
-            "date": "2026-02-16 01:37:50"
-        },
-        {
-            "domain_name": "magnoliabronze.com",
-            "destination": "Hostinger",
-            "date": "2026-02-16 01:17:38"
         }
     ],
     "dailyMovedStat": {
@@ -1019,13 +1019,13 @@
         "2026-02-16": "120274"
     },
     "topDestinationHosts": {
-        "Pressable": 12039,
-        "Kinsta": 8175,
-        "Digital Ocean": 5927,
+        "Pressable": 12041,
+        "Kinsta": 8176,
+        "Digital Ocean": 5929,
         "SiteGround": 5695,
-        "Hostinger": 4503,
+        "Hostinger": 4504,
         "Bluehost": 4449,
-        "GoDaddy": 1580,
+        "GoDaddy": 1581,
         "Liquid Web": 809,
         "BigScoots": 764,
         "WordPress.com": 611,
