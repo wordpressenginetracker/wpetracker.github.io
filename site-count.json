@@ -1,6 +1,16 @@
 {
-    "siteCount": 120649,
+    "siteCount": 120657,
     "recentlyMoved": [
+        {
+            "domain_name": "metricmotors.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-18 17:54:27"
+        },
+        {
+            "domain_name": "vectoronto.com",
+            "destination": "Kinsta",
+            "date": "2026-02-18 17:46:25"
+        },
         {
             "domain_name": "swingshopgolf.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "officinevispa.com",
             "destination": "Hostinger",
             "date": "2026-02-17 13:57:51"
-        },
-        {
-            "domain_name": "thelanguagegroup.com",
-            "destination": "Kinsta",
-            "date": "2026-02-17 13:45:18"
-        },
-        {
-            "domain_name": "energymasterhomeinc.com",
-            "destination": "Kinsta",
-            "date": "2026-02-17 13:21:31"
         }
     ],
     "dailyMovedStat": {
@@ -1021,14 +1021,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 12052,
-        "Kinsta": 8211,
+        "Kinsta": 8212,
         "Digital Ocean": 5943,
         "SiteGround": 5696,
         "Hostinger": 4523,
         "Bluehost": 4455,
-        "GoDaddy": 1582,
+        "GoDaddy": 1583,
         "Liquid Web": 809,
-        "BigScoots": 765,
+        "BigScoots": 766,
         "WordPress.com": 613,
         "GridPane": 558,
         "OVH": 551,
