@@ -1,6 +1,11 @@
 {
-    "siteCount": 120549,
+    "siteCount": 120552,
     "recentlyMoved": [
+        {
+            "domain_name": "weatherinsightspodcast.com",
+            "destination": "Pressable",
+            "date": "2026-02-18 10:00:21"
+        },
         {
             "domain_name": "theatrecolas.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "boblarsonuniversity.org",
             "destination": "HostGator",
             "date": "2026-02-17 04:36:03"
-        },
-        {
-            "domain_name": "fabiennecolas.com",
-            "destination": "Hostinger",
-            "date": "2026-02-17 01:40:20"
         }
     ],
     "dailyMovedStat": {
@@ -1020,11 +1020,11 @@
         "2026-02-17": "120483"
     },
     "topDestinationHosts": {
-        "Pressable": 12046,
+        "Pressable": 12047,
         "Kinsta": 8202,
         "Digital Ocean": 5936,
         "SiteGround": 5696,
-        "Hostinger": 4517,
+        "Hostinger": 4518,
         "Bluehost": 4451,
         "GoDaddy": 1582,
         "Liquid Web": 809,
