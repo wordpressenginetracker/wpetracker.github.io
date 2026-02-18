@@ -1,6 +1,21 @@
 {
-    "siteCount": 120527,
+    "siteCount": 120539,
     "recentlyMoved": [
+        {
+            "domain_name": "www.getsmoodi.com",
+            "destination": "OVH",
+            "date": "2026-02-18 08:38:37"
+        },
+        {
+            "domain_name": "auravita.ch",
+            "destination": "Kinsta",
+            "date": "2026-02-18 08:25:32"
+        },
+        {
+            "domain_name": "aquahotelbeachclub.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-18 07:30:17"
+        },
         {
             "domain_name": "spitzenhof.at",
             "destination": "Hetzner Online",
@@ -485,21 +500,6 @@
             "domain_name": "fonduaunoir.ca",
             "destination": "Hostinger",
             "date": "2026-02-16 23:43:02"
-        },
-        {
-            "domain_name": "www.solutionsplumbingfl.com",
-            "destination": "GridPane",
-            "date": "2026-02-16 21:26:38"
-        },
-        {
-            "domain_name": "windsongresidences.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 19:43:48"
-        },
-        {
-            "domain_name": "essencialaquecedores.com.br",
-            "destination": "Hostinger",
-            "date": "2026-02-16 17:53:08"
         }
     ],
     "dailyMovedStat": {
@@ -1021,10 +1021,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12046,
-        "Kinsta": 8201,
+        "Kinsta": 8202,
         "Digital Ocean": 5936,
         "SiteGround": 5696,
-        "Hostinger": 4515,
+        "Hostinger": 4516,
         "Bluehost": 4449,
         "GoDaddy": 1582,
         "Liquid Web": 809,
@@ -1033,7 +1033,7 @@
         "GridPane": 558,
         "OVH": 550,
         "InMotion Hosting": 536,
-        "Elementor Hosting": 478,
+        "Elementor Hosting": 479,
         "Namecheap": 472,
         "IONOS": 445,
         "A2 Hosting": 434,
