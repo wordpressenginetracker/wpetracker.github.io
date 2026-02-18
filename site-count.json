@@ -1,6 +1,16 @@
 {
-    "siteCount": 120521,
+    "siteCount": 120527,
     "recentlyMoved": [
+        {
+            "domain_name": "spitzenhof.at",
+            "destination": "Hetzner Online",
+            "date": "2026-02-18 05:58:53"
+        },
+        {
+            "domain_name": "markpody.com",
+            "destination": "Hostinger",
+            "date": "2026-02-18 05:13:57"
+        },
         {
             "domain_name": "buildpave.co.uk",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "essencialaquecedores.com.br",
             "destination": "Hostinger",
             "date": "2026-02-16 17:53:08"
-        },
-        {
-            "domain_name": "thetipperaryinn.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-16 17:33:27"
-        },
-        {
-            "domain_name": "eastoakcabin.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-16 17:10:19"
         }
     ],
     "dailyMovedStat": {
@@ -1024,7 +1024,7 @@
         "Kinsta": 8201,
         "Digital Ocean": 5936,
         "SiteGround": 5696,
-        "Hostinger": 4514,
+        "Hostinger": 4515,
         "Bluehost": 4449,
         "GoDaddy": 1582,
         "Liquid Web": 809,
@@ -1038,7 +1038,7 @@
         "IONOS": 445,
         "A2 Hosting": 434,
         "DreamHost": 416,
-        "Hetzner Online": 355,
+        "Hetzner Online": 356,
         "HostGator": 267
     },
     "dailyTotalStat": {
