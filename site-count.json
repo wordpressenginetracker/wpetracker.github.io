@@ -1,6 +1,26 @@
 {
-    "siteCount": 120552,
+    "siteCount": 120568,
     "recentlyMoved": [
+        {
+            "domain_name": "www.chaliklaw.com",
+            "destination": "BigScoots",
+            "date": "2026-02-18 12:09:54"
+        },
+        {
+            "domain_name": "rose.report",
+            "destination": "Hostinger",
+            "date": "2026-02-18 12:07:00"
+        },
+        {
+            "domain_name": "productionstopnote.com",
+            "destination": "Hostinger",
+            "date": "2026-02-18 11:55:09"
+        },
+        {
+            "domain_name": "gpee.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-18 11:32:38"
+        },
         {
             "domain_name": "weatherinsightspodcast.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "fondationfabiennecolas.org",
             "destination": "Hostinger",
             "date": "2026-02-17 07:14:07"
-        },
-        {
-            "domain_name": "nstpictures.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-17 05:41:06"
-        },
-        {
-            "domain_name": "wallcoveringcollective.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-02-17 05:30:00"
-        },
-        {
-            "domain_name": "natachaprudent.com",
-            "destination": "Hostinger",
-            "date": "2026-02-17 05:20:23"
-        },
-        {
-            "domain_name": "boblarsonuniversity.org",
-            "destination": "HostGator",
-            "date": "2026-02-17 04:36:03"
         }
     ],
     "dailyMovedStat": {
@@ -1021,14 +1021,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 12047,
-        "Kinsta": 8202,
-        "Digital Ocean": 5936,
+        "Kinsta": 8203,
+        "Digital Ocean": 5937,
         "SiteGround": 5696,
-        "Hostinger": 4518,
+        "Hostinger": 4519,
         "Bluehost": 4451,
         "GoDaddy": 1582,
         "Liquid Web": 809,
-        "BigScoots": 764,
+        "BigScoots": 765,
         "WordPress.com": 613,
         "GridPane": 558,
         "OVH": 551,
