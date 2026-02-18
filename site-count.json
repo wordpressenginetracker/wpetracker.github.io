@@ -1,15 +1,40 @@
 {
-    "siteCount": 120539,
+    "siteCount": 120549,
     "recentlyMoved": [
+        {
+            "domain_name": "theatrecolas.com",
+            "destination": "Hostinger",
+            "date": "2026-02-18 09:37:42"
+        },
+        {
+            "domain_name": "konditorei-stockhammer.at",
+            "destination": "Hetzner Online",
+            "date": "2026-02-18 09:12:45"
+        },
         {
             "domain_name": "www.getsmoodi.com",
             "destination": "OVH",
             "date": "2026-02-18 08:38:37"
         },
         {
+            "domain_name": "www.markedwardsauthor.com",
+            "destination": "Bluehost",
+            "date": "2026-02-18 08:38:25"
+        },
+        {
             "domain_name": "auravita.ch",
             "destination": "Kinsta",
             "date": "2026-02-18 08:25:32"
+        },
+        {
+            "domain_name": "sankofagroupllc.com",
+            "destination": "Bluehost",
+            "date": "2026-02-18 08:08:11"
+        },
+        {
+            "domain_name": "salvadorblackfilm.com",
+            "destination": "Hostinger",
+            "date": "2026-02-18 08:00:24"
         },
         {
             "domain_name": "aquahotelbeachclub.com",
@@ -475,31 +500,6 @@
             "domain_name": "fabiennecolas.com",
             "destination": "Hostinger",
             "date": "2026-02-17 01:40:20"
-        },
-        {
-            "domain_name": "www.straightuphvac.com",
-            "destination": "GridPane",
-            "date": "2026-02-17 01:23:38"
-        },
-        {
-            "domain_name": "www.turnerplumbingil.com",
-            "destination": "GridPane",
-            "date": "2026-02-17 00:54:58"
-        },
-        {
-            "domain_name": "johnsplumber.com",
-            "destination": "GridPane",
-            "date": "2026-02-17 00:44:17"
-        },
-        {
-            "domain_name": "beingblackincanada.com",
-            "destination": "Hostinger",
-            "date": "2026-02-17 00:01:00"
-        },
-        {
-            "domain_name": "fonduaunoir.ca",
-            "destination": "Hostinger",
-            "date": "2026-02-16 23:43:02"
         }
     ],
     "dailyMovedStat": {
@@ -1024,21 +1024,21 @@
         "Kinsta": 8202,
         "Digital Ocean": 5936,
         "SiteGround": 5696,
-        "Hostinger": 4516,
-        "Bluehost": 4449,
+        "Hostinger": 4517,
+        "Bluehost": 4451,
         "GoDaddy": 1582,
         "Liquid Web": 809,
         "BigScoots": 764,
         "WordPress.com": 613,
         "GridPane": 558,
-        "OVH": 550,
+        "OVH": 551,
         "InMotion Hosting": 536,
         "Elementor Hosting": 479,
         "Namecheap": 472,
         "IONOS": 445,
         "A2 Hosting": 434,
         "DreamHost": 416,
-        "Hetzner Online": 356,
+        "Hetzner Online": 357,
         "HostGator": 267
     },
     "dailyTotalStat": {
