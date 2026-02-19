@@ -1,5 +1,5 @@
 {
-    "siteCount": 120774,
+    "siteCount": 120779,
     "recentlyMoved": [
         {
             "domain_name": "cwsuter.com",
@@ -10,6 +10,11 @@
             "domain_name": "mainstreetmutual.com",
             "destination": "Kinsta",
             "date": "2026-02-19 09:14:49"
+        },
+        {
+            "domain_name": "missouriinnovation.com",
+            "destination": "Kinsta",
+            "date": "2026-02-19 09:14:43"
         },
         {
             "domain_name": "madeirainfife.com",
@@ -495,11 +500,6 @@
             "domain_name": "advisors360pwm.com",
             "destination": "Hostinger",
             "date": "2026-02-17 23:27:24"
-        },
-        {
-            "domain_name": "oathall-vets.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-02-17 22:28:05"
         }
     ],
     "dailyMovedStat": {
@@ -1022,7 +1022,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12056,
-        "Kinsta": 8228,
+        "Kinsta": 8229,
         "Digital Ocean": 5948,
         "SiteGround": 5696,
         "Hostinger": 4527,
