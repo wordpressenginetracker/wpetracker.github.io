@@ -1,6 +1,51 @@
 {
-    "siteCount": 120827,
+    "siteCount": 120846,
     "recentlyMoved": [
+        {
+            "domain_name": "www.newinbooks.com",
+            "destination": "Kinsta",
+            "date": "2026-02-19 16:24:04"
+        },
+        {
+            "domain_name": "atlasindustries.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-19 16:21:17"
+        },
+        {
+            "domain_name": "greenerdaysolutions.com",
+            "destination": "Bluehost",
+            "date": "2026-02-19 16:07:27"
+        },
+        {
+            "domain_name": "fouraceswholesale.com",
+            "destination": "Kinsta",
+            "date": "2026-02-19 15:49:41"
+        },
+        {
+            "domain_name": "abinsures.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-19 15:45:57"
+        },
+        {
+            "domain_name": "oreapowerhouse.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-19 15:42:24"
+        },
+        {
+            "domain_name": "orea100.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-19 15:42:24"
+        },
+        {
+            "domain_name": "greenvalleylactosefree.com",
+            "destination": "Kinsta",
+            "date": "2026-02-19 15:42:04"
+        },
+        {
+            "domain_name": "pakmo.co",
+            "destination": "Digital Ocean",
+            "date": "2026-02-19 15:33:12"
+        },
         {
             "domain_name": "vanwettens.co.za",
             "destination": "Hetzner Online",
@@ -455,51 +500,6 @@
             "domain_name": "thekaskadeshotel.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-18 13:17:06"
-        },
-        {
-            "domain_name": "jimbolesconst.com",
-            "destination": "Pressable",
-            "date": "2026-02-18 12:55:19"
-        },
-        {
-            "domain_name": "innowellness.fi",
-            "destination": "Pressable",
-            "date": "2026-02-18 12:42:57"
-        },
-        {
-            "domain_name": "lawofficesofkarenkrausbill.com",
-            "destination": "Kinsta",
-            "date": "2026-02-18 12:41:58"
-        },
-        {
-            "domain_name": "loghillproperties.com",
-            "destination": "Kinsta",
-            "date": "2026-02-18 12:41:55"
-        },
-        {
-            "domain_name": "carmelrooneyart.ie",
-            "destination": "Digital Ocean",
-            "date": "2026-02-18 12:24:21"
-        },
-        {
-            "domain_name": "saffronic.com",
-            "destination": "Hostinger",
-            "date": "2026-02-18 12:13:38"
-        },
-        {
-            "domain_name": "www.chaliklaw.com",
-            "destination": "BigScoots",
-            "date": "2026-02-18 12:09:54"
-        },
-        {
-            "domain_name": "rose.report",
-            "destination": "Hostinger",
-            "date": "2026-02-18 12:07:00"
-        },
-        {
-            "domain_name": "productionstopnote.com",
-            "destination": "Hostinger",
-            "date": "2026-02-18 11:55:09"
         }
     ],
     "dailyMovedStat": {
@@ -1022,11 +1022,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 12058,
-        "Kinsta": 8243,
-        "Digital Ocean": 5953,
+        "Kinsta": 8250,
+        "Digital Ocean": 5955,
         "SiteGround": 5696,
         "Hostinger": 4528,
-        "Bluehost": 4458,
+        "Bluehost": 4459,
         "GoDaddy": 1584,
         "Liquid Web": 809,
         "BigScoots": 766,
