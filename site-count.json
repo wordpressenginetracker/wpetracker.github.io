@@ -1,6 +1,11 @@
 {
-    "siteCount": 121117,
+    "siteCount": 121146,
     "recentlyMoved": [
+        {
+            "domain_name": "trinityriverridge.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-20 18:02:28"
+        },
         {
             "domain_name": "ccacadiana.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "matickconstruction.com",
             "destination": "Kinsta",
             "date": "2026-02-19 13:04:32"
-        },
-        {
-            "domain_name": "lightspeedinnovation.com",
-            "destination": "Kinsta",
-            "date": "2026-02-19 13:01:19"
         }
     ],
     "dailyMovedStat": {
@@ -1023,12 +1023,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 12075,
-        "Kinsta": 8268,
-        "Digital Ocean": 5966,
+        "Kinsta": 8269,
+        "Digital Ocean": 5967,
         "SiteGround": 5696,
         "Hostinger": 4549,
         "Bluehost": 4462,
-        "GoDaddy": 1584,
+        "GoDaddy": 1585,
         "Liquid Web": 809,
         "BigScoots": 768,
         "WordPress.com": 615,
