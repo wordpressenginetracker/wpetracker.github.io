@@ -1,6 +1,11 @@
 {
-    "siteCount": 121031,
+    "siteCount": 121033,
     "recentlyMoved": [
+        {
+            "domain_name": "employmentmatters.ca",
+            "destination": "Hostinger",
+            "date": "2026-02-20 10:09:35"
+        },
         {
             "domain_name": "marissamarissamerchant.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "queernundrum.com",
             "destination": "Hostinger",
             "date": "2026-02-19 07:47:23"
-        },
-        {
-            "domain_name": "hagbybil.se",
-            "destination": "OVH",
-            "date": "2026-02-19 07:36:03"
         }
     ],
     "dailyMovedStat": {
@@ -1023,10 +1023,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12070,
-        "Kinsta": 8256,
+        "Kinsta": 8257,
         "Digital Ocean": 5962,
         "SiteGround": 5696,
-        "Hostinger": 4544,
+        "Hostinger": 4545,
         "Bluehost": 4460,
         "GoDaddy": 1584,
         "Liquid Web": 809,
