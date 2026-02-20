@@ -1,6 +1,11 @@
 {
-    "siteCount": 121195,
+    "siteCount": 121203,
     "recentlyMoved": [
+        {
+            "domain_name": "felicitywright.com.au",
+            "destination": "Hostinger",
+            "date": "2026-02-20 21:27:14"
+        },
         {
             "domain_name": "teamcoachinginternational.com",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "tb4ronam.ca",
             "destination": "OVH",
             "date": "2026-02-20 21:14:40"
+        },
+        {
+            "domain_name": "megaphonemagazine.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-20 21:03:57"
         },
         {
             "domain_name": "sdrdallas.com",
@@ -485,16 +495,6 @@
             "domain_name": "atlasindustries.ca",
             "destination": "Kinsta",
             "date": "2026-02-19 16:21:17"
-        },
-        {
-            "domain_name": "greenerdaysolutions.com",
-            "destination": "Bluehost",
-            "date": "2026-02-19 16:07:27"
-        },
-        {
-            "domain_name": "fouraceswholesale.com",
-            "destination": "Kinsta",
-            "date": "2026-02-19 15:49:41"
         },
         {
             "domain_name": "greenvalleylactosefree.com",
@@ -1024,9 +1024,9 @@
     "topDestinationHosts": {
         "Pressable": 12075,
         "Kinsta": 8272,
-        "Digital Ocean": 5968,
+        "Digital Ocean": 5969,
         "SiteGround": 5696,
-        "Hostinger": 4551,
+        "Hostinger": 4552,
         "Bluehost": 4463,
         "GoDaddy": 1587,
         "Liquid Web": 810,
