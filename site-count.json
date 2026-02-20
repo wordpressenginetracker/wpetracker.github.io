@@ -1,6 +1,11 @@
 {
-    "siteCount": 120999,
+    "siteCount": 121004,
     "recentlyMoved": [
+        {
+            "domain_name": "thepeachgallery.com",
+            "destination": "Hostinger",
+            "date": "2026-02-20 05:46:16"
+        },
         {
             "domain_name": "conserversociety.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "advancedveinaz.com",
             "destination": "Namecheap",
             "date": "2026-02-19 07:24:52"
-        },
-        {
-            "domain_name": "garynagler.com",
-            "destination": "Pressable",
-            "date": "2026-02-19 03:55:14"
         }
     ],
     "dailyMovedStat": {
@@ -1026,7 +1026,7 @@
         "Kinsta": 8253,
         "Digital Ocean": 5962,
         "SiteGround": 5696,
-        "Hostinger": 4543,
+        "Hostinger": 4544,
         "Bluehost": 4460,
         "GoDaddy": 1584,
         "Liquid Web": 809,
