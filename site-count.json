@@ -1,6 +1,46 @@
 {
-    "siteCount": 121179,
+    "siteCount": 121195,
     "recentlyMoved": [
+        {
+            "domain_name": "teamcoachinginternational.com",
+            "destination": "Kinsta",
+            "date": "2026-02-20 21:22:27"
+        },
+        {
+            "domain_name": "tb4ronam.ca",
+            "destination": "OVH",
+            "date": "2026-02-20 21:14:40"
+        },
+        {
+            "domain_name": "sdrdallas.com",
+            "destination": "DreamHost",
+            "date": "2026-02-20 20:56:00"
+        },
+        {
+            "domain_name": "katiemajors.blog",
+            "destination": "WordPress.com",
+            "date": "2026-02-20 20:54:28"
+        },
+        {
+            "domain_name": "www.sawchukgroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-20 20:51:28"
+        },
+        {
+            "domain_name": "casselsgarage.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-20 20:41:55"
+        },
+        {
+            "domain_name": "casedarwinlaw.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-20 20:41:55"
+        },
+        {
+            "domain_name": "jimmyknott.com",
+            "destination": "Hostinger",
+            "date": "2026-02-20 20:25:37"
+        },
         {
             "domain_name": "www.aonerefrigeration.com",
             "destination": "Liquid Web",
@@ -457,49 +497,9 @@
             "date": "2026-02-19 15:49:41"
         },
         {
-            "domain_name": "abinsures.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-19 15:45:57"
-        },
-        {
-            "domain_name": "oreapowerhouse.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-19 15:42:24"
-        },
-        {
-            "domain_name": "orea100.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-19 15:42:24"
-        },
-        {
             "domain_name": "greenvalleylactosefree.com",
             "destination": "Kinsta",
             "date": "2026-02-19 15:42:04"
-        },
-        {
-            "domain_name": "pakmo.co",
-            "destination": "Digital Ocean",
-            "date": "2026-02-19 15:33:12"
-        },
-        {
-            "domain_name": "vanwettens.co.za",
-            "destination": "Hetzner Online",
-            "date": "2026-02-19 14:04:31"
-        },
-        {
-            "domain_name": "envirotechelectric.com",
-            "destination": "Kinsta",
-            "date": "2026-02-19 14:02:23"
-        },
-        {
-            "domain_name": "nettleinghamaudio.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-19 13:54:20"
-        },
-        {
-            "domain_name": "trinityschools.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-19 13:18:21"
         }
     ],
     "dailyMovedStat": {
@@ -1023,23 +1023,23 @@
     },
     "topDestinationHosts": {
         "Pressable": 12075,
-        "Kinsta": 8271,
-        "Digital Ocean": 5967,
+        "Kinsta": 8272,
+        "Digital Ocean": 5968,
         "SiteGround": 5696,
-        "Hostinger": 4550,
+        "Hostinger": 4551,
         "Bluehost": 4463,
-        "GoDaddy": 1585,
+        "GoDaddy": 1587,
         "Liquid Web": 810,
         "BigScoots": 768,
-        "WordPress.com": 615,
+        "WordPress.com": 616,
         "GridPane": 559,
-        "OVH": 553,
+        "OVH": 554,
         "InMotion Hosting": 540,
         "Elementor Hosting": 488,
         "Namecheap": 473,
         "IONOS": 445,
         "A2 Hosting": 436,
-        "DreamHost": 419,
+        "DreamHost": 420,
         "Hetzner Online": 359,
         "HostGator": 267
     },
