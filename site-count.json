@@ -1,6 +1,21 @@
 {
-    "siteCount": 120950,
+    "siteCount": 120967,
     "recentlyMoved": [
+        {
+            "domain_name": "literaryamerica.net",
+            "destination": "Hostinger",
+            "date": "2026-02-20 01:32:01"
+        },
+        {
+            "domain_name": "kindlygreen.shop",
+            "destination": "Pressable",
+            "date": "2026-02-20 01:07:06"
+        },
+        {
+            "domain_name": "kindlygreen.com",
+            "destination": "Pressable",
+            "date": "2026-02-20 01:07:06"
+        },
         {
             "domain_name": "grindstone-properties.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "patriot-fence.com",
             "destination": "Pressable",
             "date": "2026-02-18 19:14:05"
-        },
-        {
-            "domain_name": "metricmotors.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-18 17:54:27"
-        },
-        {
-            "domain_name": "vectoronto.com",
-            "destination": "Kinsta",
-            "date": "2026-02-18 17:46:25"
-        },
-        {
-            "domain_name": "thepartynewyork.com",
-            "destination": "BigScoots",
-            "date": "2026-02-18 17:02:57"
         }
     ],
     "dailyMovedStat": {
@@ -1022,11 +1022,11 @@
         "2026-02-19": "120943"
     },
     "topDestinationHosts": {
-        "Pressable": 12062,
+        "Pressable": 12064,
         "Kinsta": 8253,
         "Digital Ocean": 5961,
         "SiteGround": 5696,
-        "Hostinger": 4534,
+        "Hostinger": 4535,
         "Bluehost": 4460,
         "GoDaddy": 1584,
         "Liquid Web": 809,
