@@ -1,6 +1,11 @@
 {
-    "siteCount": 121203,
+    "siteCount": 121209,
     "recentlyMoved": [
+        {
+            "domain_name": "garritano-bros.com",
+            "destination": "Kinsta",
+            "date": "2026-02-20 23:54:34"
+        },
         {
             "domain_name": "felicitywright.com.au",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "atlasindustries.ca",
             "destination": "Kinsta",
             "date": "2026-02-19 16:21:17"
-        },
-        {
-            "domain_name": "greenvalleylactosefree.com",
-            "destination": "Kinsta",
-            "date": "2026-02-19 15:42:04"
         }
     ],
     "dailyMovedStat": {
@@ -1024,7 +1024,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12075,
-        "Kinsta": 8272,
+        "Kinsta": 8273,
         "Digital Ocean": 5969,
         "SiteGround": 5696,
         "Hostinger": 4552,
