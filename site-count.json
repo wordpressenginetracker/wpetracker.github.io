@@ -1,6 +1,11 @@
 {
-    "siteCount": 121403,
+    "siteCount": 121407,
     "recentlyMoved": [
+        {
+            "domain_name": "oaia.on.ca",
+            "destination": "Hostinger",
+            "date": "2026-02-21 22:06:15"
+        },
         {
             "domain_name": "master-electrical.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "newportwellness.ca",
             "destination": "Hostinger",
             "date": "2026-02-20 13:21:43"
-        },
-        {
-            "domain_name": "studiopattyd.com",
-            "destination": "Bluehost",
-            "date": "2026-02-20 13:12:11"
         }
     ],
     "dailyMovedStat": {
@@ -1025,9 +1025,9 @@
     "topDestinationHosts": {
         "Pressable": 12079,
         "Kinsta": 8309,
-        "Digital Ocean": 5974,
+        "Digital Ocean": 5975,
         "SiteGround": 5696,
-        "Hostinger": 4558,
+        "Hostinger": 4559,
         "Bluehost": 4466,
         "GoDaddy": 1588,
         "Liquid Web": 810,
