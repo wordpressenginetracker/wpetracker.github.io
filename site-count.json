@@ -1,6 +1,11 @@
 {
-    "siteCount": 121209,
+    "siteCount": 121218,
     "recentlyMoved": [
+        {
+            "domain_name": "sa.ipaa.org.au",
+            "destination": "Kinsta",
+            "date": "2026-02-21 00:38:24"
+        },
         {
             "domain_name": "garritano-bros.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "carolstrom.com",
             "destination": "Hostinger",
             "date": "2026-02-19 16:25:41"
-        },
-        {
-            "domain_name": "www.newinbooks.com",
-            "destination": "Kinsta",
-            "date": "2026-02-19 16:24:04"
         },
         {
             "domain_name": "atlasindustries.ca",
@@ -1024,7 +1024,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12075,
-        "Kinsta": 8273,
+        "Kinsta": 8274,
         "Digital Ocean": 5969,
         "SiteGround": 5696,
         "Hostinger": 4552,
