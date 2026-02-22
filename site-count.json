@@ -1,6 +1,16 @@
 {
-    "siteCount": 121517,
+    "siteCount": 121524,
     "recentlyMoved": [
+        {
+            "domain_name": "clarityhearingclinics.com",
+            "destination": "Hostinger",
+            "date": "2026-02-22 20:47:26"
+        },
+        {
+            "domain_name": "infiniumcom.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-22 20:35:10"
+        },
         {
             "domain_name": "pinetopcottagesatfredslake.com",
             "destination": "HostGator",
@@ -477,11 +487,6 @@
             "date": "2026-02-20 21:03:57"
         },
         {
-            "domain_name": "katiemajors.blog",
-            "destination": "WordPress.com",
-            "date": "2026-02-20 20:54:28"
-        },
-        {
             "domain_name": "www.sawchukgroup.com",
             "destination": "Digital Ocean",
             "date": "2026-02-20 20:51:28"
@@ -495,11 +500,6 @@
             "domain_name": "casedarwinlaw.com",
             "destination": "GoDaddy",
             "date": "2026-02-20 20:41:55"
-        },
-        {
-            "domain_name": "jimmyknott.com",
-            "destination": "Hostinger",
-            "date": "2026-02-20 20:25:37"
         }
     ],
     "dailyMovedStat": {
@@ -1026,9 +1026,9 @@
     "topDestinationHosts": {
         "Pressable": 12079,
         "Kinsta": 8313,
-        "Digital Ocean": 5980,
+        "Digital Ocean": 5981,
         "SiteGround": 5696,
-        "Hostinger": 4564,
+        "Hostinger": 4565,
         "Bluehost": 4469,
         "GoDaddy": 1590,
         "Liquid Web": 810,
