@@ -1,6 +1,11 @@
 {
-    "siteCount": 121482,
+    "siteCount": 121490,
     "recentlyMoved": [
+        {
+            "domain_name": "derickryan.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-22 17:44:51"
+        },
         {
             "domain_name": "reservenmlodging.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "gehrkeconstruction.com",
             "destination": "Bluehost",
             "date": "2026-02-20 19:33:57"
-        },
-        {
-            "domain_name": "wiradjuricc.com",
-            "destination": "Kinsta",
-            "date": "2026-02-20 19:30:35"
         }
     ],
     "dailyMovedStat": {
@@ -1030,7 +1030,7 @@
         "SiteGround": 5696,
         "Hostinger": 4563,
         "Bluehost": 4468,
-        "GoDaddy": 1588,
+        "GoDaddy": 1589,
         "Liquid Web": 810,
         "BigScoots": 770,
         "WordPress.com": 617,
