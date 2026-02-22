@@ -1,6 +1,16 @@
 {
-    "siteCount": 121456,
+    "siteCount": 121467,
     "recentlyMoved": [
+        {
+            "domain_name": "marathonbe.com",
+            "destination": "Kinsta",
+            "date": "2026-02-22 12:51:13"
+        },
+        {
+            "domain_name": "www.sunsetindustries.com",
+            "destination": "Bluehost",
+            "date": "2026-02-22 12:50:20"
+        },
         {
             "domain_name": "www.christenseninstitute.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "trinityriverridge.org",
             "destination": "Digital Ocean",
             "date": "2026-02-20 18:02:28"
-        },
-        {
-            "domain_name": "theprofitrecipe.com",
-            "destination": "Kinsta",
-            "date": "2026-02-20 17:04:21"
-        },
-        {
-            "domain_name": "themedspachandler.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-20 17:01:18"
         }
     ],
     "dailyMovedStat": {
@@ -1025,11 +1025,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 12079,
-        "Kinsta": 8312,
+        "Kinsta": 8313,
         "Digital Ocean": 5977,
         "SiteGround": 5696,
         "Hostinger": 4563,
-        "Bluehost": 4467,
+        "Bluehost": 4468,
         "GoDaddy": 1588,
         "Liquid Web": 810,
         "BigScoots": 770,
