@@ -1,6 +1,16 @@
 {
-    "siteCount": 121473,
+    "siteCount": 121482,
     "recentlyMoved": [
+        {
+            "domain_name": "reservenmlodging.com",
+            "destination": "HostGator",
+            "date": "2026-02-22 16:05:03"
+        },
+        {
+            "domain_name": "assetfunders.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-22 15:34:40"
+        },
         {
             "domain_name": "marathonbe.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "wiradjuricc.com",
             "destination": "Kinsta",
             "date": "2026-02-20 19:30:35"
-        },
-        {
-            "domain_name": "7steptransition.com",
-            "destination": "Hostinger",
-            "date": "2026-02-20 19:29:42"
-        },
-        {
-            "domain_name": "trinityriverridge.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-20 18:02:28"
         }
     ],
     "dailyMovedStat": {
@@ -1026,7 +1026,7 @@
     "topDestinationHosts": {
         "Pressable": 12079,
         "Kinsta": 8313,
-        "Digital Ocean": 5977,
+        "Digital Ocean": 5978,
         "SiteGround": 5696,
         "Hostinger": 4563,
         "Bluehost": 4468,
@@ -1043,7 +1043,7 @@
         "A2 Hosting": 437,
         "DreamHost": 422,
         "Hetzner Online": 359,
-        "HostGator": 269
+        "HostGator": 270
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
