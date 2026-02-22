@@ -1,6 +1,11 @@
 {
-    "siteCount": 121435,
+    "siteCount": 121439,
     "recentlyMoved": [
+        {
+            "domain_name": "www.transformwithleah.com",
+            "destination": "HostGator",
+            "date": "2026-02-22 08:00:10"
+        },
         {
             "domain_name": "chateaumarmot.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "intrepidtheatre.com",
             "destination": "Digital Ocean",
             "date": "2026-02-20 16:11:44"
-        },
-        {
-            "domain_name": "www.careers.adhd-360.com",
-            "destination": "Kinsta",
-            "date": "2026-02-20 15:53:34"
         }
     ],
     "dailyMovedStat": {
@@ -1043,7 +1043,7 @@
         "A2 Hosting": 437,
         "DreamHost": 421,
         "Hetzner Online": 359,
-        "HostGator": 268
+        "HostGator": 269
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
