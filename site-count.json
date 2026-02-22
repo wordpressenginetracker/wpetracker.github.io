@@ -1,6 +1,11 @@
 {
-    "siteCount": 121424,
+    "siteCount": 121435,
     "recentlyMoved": [
+        {
+            "domain_name": "chateaumarmot.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-02-22 03:55:49"
+        },
         {
             "domain_name": "chanelorders.beautysoclean.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.careers.adhd-360.com",
             "destination": "Kinsta",
             "date": "2026-02-20 15:53:34"
-        },
-        {
-            "domain_name": "www.blackwidowmedia.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-02-20 15:26:12"
         }
     ],
     "dailyMovedStat": {
@@ -1028,7 +1028,7 @@
         "Kinsta": 8309,
         "Digital Ocean": 5977,
         "SiteGround": 5696,
-        "Hostinger": 4562,
+        "Hostinger": 4563,
         "Bluehost": 4466,
         "GoDaddy": 1588,
         "Liquid Web": 810,
