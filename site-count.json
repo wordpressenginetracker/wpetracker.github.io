@@ -1,10 +1,25 @@
 {
-    "siteCount": 121490,
+    "siteCount": 121494,
     "recentlyMoved": [
+        {
+            "domain_name": "economicjusticefund.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-22 17:57:38"
+        },
+        {
+            "domain_name": "executiveclassflights.com",
+            "destination": "Bluehost",
+            "date": "2026-02-22 17:45:33"
+        },
         {
             "domain_name": "derickryan.com",
             "destination": "GoDaddy",
             "date": "2026-02-22 17:44:51"
+        },
+        {
+            "domain_name": "trff.org",
+            "destination": "Digital Ocean",
+            "date": "2026-02-22 17:11:21"
         },
         {
             "domain_name": "reservenmlodging.com",
@@ -485,21 +500,6 @@
             "domain_name": "jimmyknott.com",
             "destination": "Hostinger",
             "date": "2026-02-20 20:25:37"
-        },
-        {
-            "domain_name": "www.aonerefrigeration.com",
-            "destination": "Liquid Web",
-            "date": "2026-02-20 20:04:53"
-        },
-        {
-            "domain_name": "www.jeffhaynielaw.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-02-20 19:37:24"
-        },
-        {
-            "domain_name": "gehrkeconstruction.com",
-            "destination": "Bluehost",
-            "date": "2026-02-20 19:33:57"
         }
     ],
     "dailyMovedStat": {
@@ -1026,10 +1026,10 @@
     "topDestinationHosts": {
         "Pressable": 12079,
         "Kinsta": 8313,
-        "Digital Ocean": 5978,
+        "Digital Ocean": 5980,
         "SiteGround": 5696,
         "Hostinger": 4563,
-        "Bluehost": 4468,
+        "Bluehost": 4469,
         "GoDaddy": 1589,
         "Liquid Web": 810,
         "BigScoots": 770,
