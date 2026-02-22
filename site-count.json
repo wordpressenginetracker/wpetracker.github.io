@@ -1,6 +1,11 @@
 {
-    "siteCount": 121494,
+    "siteCount": 121517,
     "recentlyMoved": [
+        {
+            "domain_name": "pinetopcottagesatfredslake.com",
+            "destination": "HostGator",
+            "date": "2026-02-22 20:18:27"
+        },
         {
             "domain_name": "economicjusticefund.org",
             "destination": "Digital Ocean",
@@ -470,11 +475,6 @@
             "domain_name": "megaphonemagazine.com",
             "destination": "Digital Ocean",
             "date": "2026-02-20 21:03:57"
-        },
-        {
-            "domain_name": "sdrdallas.com",
-            "destination": "DreamHost",
-            "date": "2026-02-20 20:56:00"
         },
         {
             "domain_name": "katiemajors.blog",
@@ -1028,12 +1028,12 @@
         "Kinsta": 8313,
         "Digital Ocean": 5980,
         "SiteGround": 5696,
-        "Hostinger": 4563,
+        "Hostinger": 4564,
         "Bluehost": 4469,
-        "GoDaddy": 1589,
+        "GoDaddy": 1590,
         "Liquid Web": 810,
         "BigScoots": 770,
-        "WordPress.com": 617,
+        "WordPress.com": 618,
         "GridPane": 561,
         "OVH": 557,
         "InMotion Hosting": 540,
@@ -1043,7 +1043,7 @@
         "A2 Hosting": 437,
         "DreamHost": 422,
         "Hetzner Online": 359,
-        "HostGator": 270
+        "HostGator": 271
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
