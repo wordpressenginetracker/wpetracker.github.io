@@ -1,6 +1,36 @@
 {
-    "siteCount": 121615,
+    "siteCount": 121655,
     "recentlyMoved": [
+        {
+            "domain_name": "www.historyvictoria.org.au",
+            "destination": "Kinsta",
+            "date": "2026-02-23 20:35:24"
+        },
+        {
+            "domain_name": "quantumprogressionllc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-23 20:32:42"
+        },
+        {
+            "domain_name": "pedalpowerkids.com",
+            "destination": "Hostinger",
+            "date": "2026-02-23 20:13:56"
+        },
+        {
+            "domain_name": "worthyretail.com",
+            "destination": "Hostinger",
+            "date": "2026-02-23 20:00:36"
+        },
+        {
+            "domain_name": "www.afmservices.com.au",
+            "destination": "Pressable",
+            "date": "2026-02-23 19:53:02"
+        },
+        {
+            "domain_name": "pinsstudios.com",
+            "destination": "Hostinger",
+            "date": "2026-02-23 19:27:57"
+        },
         {
             "domain_name": "memoriesbymiatta.com",
             "destination": "Hostinger",
@@ -467,39 +497,9 @@
             "date": "2026-02-21 13:03:14"
         },
         {
-            "domain_name": "leadsxclusive.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 12:50:36"
-        },
-        {
-            "domain_name": "www.merchantsofficefurniture.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 12:48:46"
-        },
-        {
-            "domain_name": "sherwoodsmile.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 12:40:14"
-        },
-        {
-            "domain_name": "carrollrehab.com",
-            "destination": "OVH",
-            "date": "2026-02-21 12:39:10"
-        },
-        {
             "domain_name": "stubbornlyyoung.com",
             "destination": "Kinsta",
             "date": "2026-02-21 12:34:03"
-        },
-        {
-            "domain_name": "cmse.org",
-            "destination": "Kinsta",
-            "date": "2026-02-21 12:31:54"
-        },
-        {
-            "domain_name": "judithwatkins.com",
-            "destination": "BigScoots",
-            "date": "2026-02-21 12:28:06"
         }
     ],
     "dailyMovedStat": {
@@ -1025,13 +1025,13 @@
         "2026-02-22": "121525"
     },
     "topDestinationHosts": {
-        "Pressable": 12081,
+        "Pressable": 12082,
         "Kinsta": 8315,
-        "Digital Ocean": 5981,
+        "Digital Ocean": 5982,
         "SiteGround": 5696,
-        "Hostinger": 4587,
+        "Hostinger": 4592,
         "Bluehost": 4470,
-        "GoDaddy": 1591,
+        "GoDaddy": 1592,
         "Liquid Web": 810,
         "BigScoots": 772,
         "WordPress.com": 618,
