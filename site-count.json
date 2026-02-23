@@ -1,6 +1,26 @@
 {
-    "siteCount": 121525,
+    "siteCount": 121537,
     "recentlyMoved": [
+        {
+            "domain_name": "i99fit.com",
+            "destination": "Kinsta",
+            "date": "2026-02-23 00:15:25"
+        },
+        {
+            "domain_name": "anemie-falciforme.org",
+            "destination": "Hostinger",
+            "date": "2026-02-22 23:55:49"
+        },
+        {
+            "domain_name": "gothampoint.com",
+            "destination": "DreamHost",
+            "date": "2026-02-22 23:47:11"
+        },
+        {
+            "domain_name": "atwellsgroup.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-22 23:35:10"
+        },
         {
             "domain_name": "clarityhearingclinics.com",
             "destination": "Hostinger",
@@ -477,29 +497,9 @@
             "date": "2026-02-20 21:22:27"
         },
         {
-            "domain_name": "tb4ronam.ca",
-            "destination": "OVH",
-            "date": "2026-02-20 21:14:40"
-        },
-        {
             "domain_name": "megaphonemagazine.com",
             "destination": "Digital Ocean",
             "date": "2026-02-20 21:03:57"
-        },
-        {
-            "domain_name": "www.sawchukgroup.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-20 20:51:28"
-        },
-        {
-            "domain_name": "casselsgarage.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-20 20:41:55"
-        },
-        {
-            "domain_name": "casedarwinlaw.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-20 20:41:55"
         }
     ],
     "dailyMovedStat": {
@@ -1029,7 +1029,7 @@
         "Kinsta": 8313,
         "Digital Ocean": 5981,
         "SiteGround": 5696,
-        "Hostinger": 4565,
+        "Hostinger": 4566,
         "Bluehost": 4469,
         "GoDaddy": 1590,
         "Liquid Web": 810,
@@ -1038,11 +1038,11 @@
         "GridPane": 561,
         "OVH": 557,
         "InMotion Hosting": 540,
-        "Elementor Hosting": 489,
+        "Elementor Hosting": 490,
         "Namecheap": 476,
         "IONOS": 446,
         "A2 Hosting": 437,
-        "DreamHost": 422,
+        "DreamHost": 423,
         "Hetzner Online": 359,
         "HostGator": 271
     },
