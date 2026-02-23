@@ -1,6 +1,16 @@
 {
-    "siteCount": 121537,
+    "siteCount": 121543,
     "recentlyMoved": [
+        {
+            "domain_name": "thesassybarn.com",
+            "destination": "BigScoots",
+            "date": "2026-02-23 01:34:05"
+        },
+        {
+            "domain_name": "www.startupcan.ca",
+            "destination": "Kinsta",
+            "date": "2026-02-23 00:34:00"
+        },
         {
             "domain_name": "i99fit.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "felicitywright.com.au",
             "destination": "Hostinger",
             "date": "2026-02-20 21:27:14"
-        },
-        {
-            "domain_name": "teamcoachinginternational.com",
-            "destination": "Kinsta",
-            "date": "2026-02-20 21:22:27"
-        },
-        {
-            "domain_name": "megaphonemagazine.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-20 21:03:57"
         }
     ],
     "dailyMovedStat": {
@@ -1026,7 +1026,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12079,
-        "Kinsta": 8313,
+        "Kinsta": 8315,
         "Digital Ocean": 5981,
         "SiteGround": 5696,
         "Hostinger": 4566,
