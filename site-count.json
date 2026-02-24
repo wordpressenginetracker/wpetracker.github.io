@@ -1,6 +1,11 @@
 {
-    "siteCount": 121704,
+    "siteCount": 121714,
     "recentlyMoved": [
+        {
+            "domain_name": "savianotennis.com",
+            "destination": "Hostinger",
+            "date": "2026-02-24 08:32:44"
+        },
         {
             "domain_name": "gluu.biz",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "kaopectate.com",
             "destination": "Kinsta",
             "date": "2026-02-21 16:12:51"
-        },
-        {
-            "domain_name": "www.mettafund.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-21 16:07:35"
         }
     ],
     "dailyMovedStat": {
@@ -1030,7 +1030,7 @@
         "Kinsta": 8321,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
-        "Hostinger": 4599,
+        "Hostinger": 4600,
         "Bluehost": 4470,
         "GoDaddy": 1592,
         "Liquid Web": 810,
