@@ -1,6 +1,11 @@
 {
-    "siteCount": 121662,
+    "siteCount": 121666,
     "recentlyMoved": [
+        {
+            "domain_name": "flyingfoxfabrics.com",
+            "destination": "Hostinger",
+            "date": "2026-02-23 23:54:14"
+        },
         {
             "domain_name": "wcclp.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "annualconference.isst-d.org",
             "destination": "Kinsta",
             "date": "2026-02-21 15:46:12"
-        },
-        {
-            "domain_name": "fouracesvip.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 15:26:40"
         }
     ],
     "dailyMovedStat": {
@@ -1030,7 +1030,7 @@
         "Kinsta": 8317,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
-        "Hostinger": 4597,
+        "Hostinger": 4598,
         "Bluehost": 4470,
         "GoDaddy": 1592,
         "Liquid Web": 810,
