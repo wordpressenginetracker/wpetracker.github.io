@@ -1,6 +1,21 @@
 {
-    "siteCount": 121717,
+    "siteCount": 121729,
     "recentlyMoved": [
+        {
+            "domain_name": "gatehousesatcom.com",
+            "destination": "Kinsta",
+            "date": "2026-02-24 12:13:12"
+        },
+        {
+            "domain_name": "arizona.sempersolaris.com",
+            "destination": "Kinsta",
+            "date": "2026-02-24 12:12:14"
+        },
+        {
+            "domain_name": "romarchery.com",
+            "destination": "Bluehost",
+            "date": "2026-02-24 12:07:30"
+        },
         {
             "domain_name": "trinityoffers.com",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2026-02-21 17:33:57"
         },
         {
-            "domain_name": "studio8twentytwo.com",
-            "destination": "Hostinger",
-            "date": "2026-02-21 17:17:45"
-        },
-        {
-            "domain_name": "knutzensmeats.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 17:10:12"
-        },
-        {
             "domain_name": "thisithaca.org",
             "destination": "Pressable",
             "date": "2026-02-21 17:03:21"
-        },
-        {
-            "domain_name": "lilikoiagency.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 16:55:51"
         }
     ],
     "dailyMovedStat": {
@@ -1027,7 +1027,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12084,
-        "Kinsta": 8321,
+        "Kinsta": 8323,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
         "Hostinger": 4601,
