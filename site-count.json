@@ -1,6 +1,11 @@
 {
-    "siteCount": 121690,
+    "siteCount": 121696,
     "recentlyMoved": [
+        {
+            "domain_name": "norisma.no",
+            "destination": "Kinsta",
+            "date": "2026-02-24 05:41:00"
+        },
         {
             "domain_name": "www.4jinsurance.com",
             "destination": "Kinsta",
@@ -475,11 +480,6 @@
             "domain_name": "lilikoiagency.com",
             "destination": "Kinsta",
             "date": "2026-02-21 16:55:51"
-        },
-        {
-            "domain_name": "innovativelandtransfer.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-21 16:31:22"
         },
         {
             "domain_name": "kaopectate.com",
@@ -1027,7 +1027,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12083,
-        "Kinsta": 8319,
+        "Kinsta": 8320,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
         "Hostinger": 4599,
