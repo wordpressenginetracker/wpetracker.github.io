@@ -1,6 +1,16 @@
 {
-    "siteCount": 121872,
+    "siteCount": 121877,
     "recentlyMoved": [
+        {
+            "domain_name": "uranquinty.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-24 21:49:11"
+        },
+        {
+            "domain_name": "nxtlvldevelopment.com",
+            "destination": "Hostinger",
+            "date": "2026-02-24 21:41:45"
+        },
         {
             "domain_name": "www.wiewelinsurance.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "thewomensalzheimersmovement.org",
             "destination": "Pressable",
             "date": "2026-02-23 05:50:48"
-        },
-        {
-            "domain_name": "kennedytireauto.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-23 04:25:30"
-        },
-        {
-            "domain_name": "namzcustomcycleproducts.com",
-            "destination": "BigScoots",
-            "date": "2026-02-23 01:32:02"
         }
     ],
     "dailyMovedStat": {
@@ -1027,10 +1027,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12085,
-        "Kinsta": 8334,
+        "Kinsta": 8335,
         "Digital Ocean": 5993,
         "SiteGround": 5696,
-        "Hostinger": 4608,
+        "Hostinger": 4609,
         "Bluehost": 4471,
         "GoDaddy": 1594,
         "Liquid Web": 810,
