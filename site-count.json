@@ -1,10 +1,25 @@
 {
-    "siteCount": 121671,
+    "siteCount": 121675,
     "recentlyMoved": [
+        {
+            "domain_name": "ezwsiweb.com",
+            "destination": "Hetzner Online",
+            "date": "2026-02-24 01:55:09"
+        },
+        {
+            "domain_name": "valvagana.com",
+            "destination": "Hetzner Online",
+            "date": "2026-02-24 01:27:42"
+        },
         {
             "domain_name": "www.ryanwilks.com.au",
             "destination": "Pressable",
             "date": "2026-02-24 01:19:15"
+        },
+        {
+            "domain_name": "dowellsolutions.com.au",
+            "destination": "Kinsta",
+            "date": "2026-02-24 01:14:43"
         },
         {
             "domain_name": "sparkletutoring.com",
@@ -462,11 +477,6 @@
             "date": "2026-02-21 16:31:22"
         },
         {
-            "domain_name": "apexcapitaladvisors.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 16:24:36"
-        },
-        {
             "domain_name": "herofortheplanet.org",
             "destination": "Kinsta",
             "date": "2026-02-21 16:24:29"
@@ -482,11 +492,6 @@
             "date": "2026-02-21 16:10:32"
         },
         {
-            "domain_name": "quemadonmlodging.com",
-            "destination": "HostGator",
-            "date": "2026-02-21 16:08:07"
-        },
-        {
             "domain_name": "www.mettafund.org",
             "destination": "Digital Ocean",
             "date": "2026-02-21 16:07:35"
@@ -495,11 +500,6 @@
             "domain_name": "www.isst-d.org",
             "destination": "Kinsta",
             "date": "2026-02-21 15:58:23"
-        },
-        {
-            "domain_name": "guntersolutions.com",
-            "destination": "A2 Hosting",
-            "date": "2026-02-21 15:57:40"
         }
     ],
     "dailyMovedStat": {
@@ -1027,7 +1027,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12083,
-        "Kinsta": 8317,
+        "Kinsta": 8318,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
         "Hostinger": 4599,
@@ -1044,7 +1044,7 @@
         "IONOS": 446,
         "A2 Hosting": 437,
         "DreamHost": 423,
-        "Hetzner Online": 359,
+        "Hetzner Online": 361,
         "HostGator": 271
     },
     "dailyTotalStat": {
