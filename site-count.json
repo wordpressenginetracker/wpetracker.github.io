@@ -1,6 +1,16 @@
 {
-    "siteCount": 121666,
+    "siteCount": 121671,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ryanwilks.com.au",
+            "destination": "Pressable",
+            "date": "2026-02-24 01:19:15"
+        },
+        {
+            "domain_name": "sparkletutoring.com",
+            "destination": "Hostinger",
+            "date": "2026-02-24 00:40:10"
+        },
         {
             "domain_name": "flyingfoxfabrics.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "guntersolutions.com",
             "destination": "A2 Hosting",
             "date": "2026-02-21 15:57:40"
-        },
-        {
-            "domain_name": "planeteeralliance.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 15:54:03"
-        },
-        {
-            "domain_name": "annualconference.isst-d.org",
-            "destination": "Kinsta",
-            "date": "2026-02-21 15:46:12"
         }
     ],
     "dailyMovedStat": {
@@ -1026,11 +1026,11 @@
         "2026-02-23": "121662"
     },
     "topDestinationHosts": {
-        "Pressable": 12082,
+        "Pressable": 12083,
         "Kinsta": 8317,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
-        "Hostinger": 4598,
+        "Hostinger": 4599,
         "Bluehost": 4470,
         "GoDaddy": 1592,
         "Liquid Web": 810,
