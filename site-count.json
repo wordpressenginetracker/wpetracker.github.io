@@ -1,6 +1,11 @@
 {
-    "siteCount": 121714,
+    "siteCount": 121717,
     "recentlyMoved": [
+        {
+            "domain_name": "trinityoffers.com",
+            "destination": "Hostinger",
+            "date": "2026-02-24 09:42:26"
+        },
         {
             "domain_name": "savianotennis.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "lilikoiagency.com",
             "destination": "Kinsta",
             "date": "2026-02-21 16:55:51"
-        },
-        {
-            "domain_name": "kaopectate.com",
-            "destination": "Kinsta",
-            "date": "2026-02-21 16:12:51"
         }
     ],
     "dailyMovedStat": {
@@ -1030,7 +1030,7 @@
         "Kinsta": 8321,
         "Digital Ocean": 5982,
         "SiteGround": 5696,
-        "Hostinger": 4600,
+        "Hostinger": 4601,
         "Bluehost": 4470,
         "GoDaddy": 1592,
         "Liquid Web": 810,
