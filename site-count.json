@@ -1,6 +1,46 @@
 {
-    "siteCount": 121989,
+    "siteCount": 122005,
     "recentlyMoved": [
+        {
+            "domain_name": "hexcorpllc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-25 16:21:15"
+        },
+        {
+            "domain_name": "www.historynet.com",
+            "destination": "WordPress VIP",
+            "date": "2026-02-25 16:18:56"
+        },
+        {
+            "domain_name": "accentfc.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 16:05:01"
+        },
+        {
+            "domain_name": "arrolyx.com",
+            "destination": "Hostinger",
+            "date": "2026-02-25 15:53:16"
+        },
+        {
+            "domain_name": "ilewisinsurance.com",
+            "destination": "Wordify",
+            "date": "2026-02-25 15:50:50"
+        },
+        {
+            "domain_name": "one-oceancargollc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-25 15:27:58"
+        },
+        {
+            "domain_name": "popshoplive.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 15:24:58"
+        },
+        {
+            "domain_name": "woodruffenterprises.com",
+            "destination": "Hostinger",
+            "date": "2026-02-25 15:11:07"
+        },
         {
             "domain_name": "www.wolvesoftherockies.org",
             "destination": "Pressable",
@@ -460,46 +500,6 @@
             "domain_name": "savianotennis.com",
             "destination": "Hostinger",
             "date": "2026-02-24 08:32:44"
-        },
-        {
-            "domain_name": "gluu.biz",
-            "destination": "Kinsta",
-            "date": "2026-02-24 08:13:00"
-        },
-        {
-            "domain_name": "adventuresunlimited.net",
-            "destination": "Pressable",
-            "date": "2026-02-24 07:45:57"
-        },
-        {
-            "domain_name": "norisma.no",
-            "destination": "Kinsta",
-            "date": "2026-02-24 05:41:00"
-        },
-        {
-            "domain_name": "www.4jinsurance.com",
-            "destination": "Kinsta",
-            "date": "2026-02-24 04:01:47"
-        },
-        {
-            "domain_name": "ezwsiweb.com",
-            "destination": "Hetzner Online",
-            "date": "2026-02-24 01:55:09"
-        },
-        {
-            "domain_name": "valvagana.com",
-            "destination": "Hetzner Online",
-            "date": "2026-02-24 01:27:42"
-        },
-        {
-            "domain_name": "www.ryanwilks.com.au",
-            "destination": "Pressable",
-            "date": "2026-02-24 01:19:15"
-        },
-        {
-            "domain_name": "dowellsolutions.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-24 01:14:43"
         }
     ],
     "dailyMovedStat": {
@@ -1028,10 +1028,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12091,
-        "Kinsta": 8345,
+        "Kinsta": 8347,
         "Digital Ocean": 5998,
         "SiteGround": 5696,
-        "Hostinger": 4618,
+        "Hostinger": 4622,
         "Bluehost": 4473,
         "GoDaddy": 1594,
         "Liquid Web": 811,
