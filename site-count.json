@@ -1,6 +1,21 @@
 {
-    "siteCount": 122024,
+    "siteCount": 122035,
     "recentlyMoved": [
+        {
+            "domain_name": "downtownspokane.org",
+            "destination": "InMotion Hosting",
+            "date": "2026-02-25 17:51:39"
+        },
+        {
+            "domain_name": "my.drbicuspid.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 17:35:55"
+        },
+        {
+            "domain_name": "tsscolorado.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 17:23:48"
+        },
         {
             "domain_name": "www.theixsports.com",
             "destination": "WordPress.com",
@@ -20,6 +35,11 @@
             "domain_name": "thebenstokes.com",
             "destination": "Kinsta",
             "date": "2026-02-25 17:13:46"
+        },
+        {
+            "domain_name": "ehdlawyers.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 17:09:23"
         },
         {
             "domain_name": "centerptg.org",
@@ -457,21 +477,6 @@
             "date": "2026-02-24 13:41:45"
         },
         {
-            "domain_name": "www.vashonbeachcomber.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-24 13:39:04"
-        },
-        {
-            "domain_name": "www.thedailyworld.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-24 13:31:48"
-        },
-        {
-            "domain_name": "texas.sempersolaris.com",
-            "destination": "Kinsta",
-            "date": "2026-02-24 13:30:44"
-        },
-        {
             "domain_name": "discoskate.co.uk",
             "destination": "Digital Ocean",
             "date": "2026-02-24 13:27:14"
@@ -490,11 +495,6 @@
             "domain_name": "thebuildproject.ca",
             "destination": "Hostinger",
             "date": "2026-02-24 12:57:42"
-        },
-        {
-            "domain_name": "www.southwhidbeyrecord.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-24 12:48:32"
         },
         {
             "domain_name": "www.whidbeynewstimes.com",
@@ -1028,7 +1028,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12093,
-        "Kinsta": 8349,
+        "Kinsta": 8352,
         "Digital Ocean": 6000,
         "SiteGround": 5696,
         "Hostinger": 4623,
@@ -1039,7 +1039,7 @@
         "WordPress.com": 620,
         "GridPane": 561,
         "OVH": 561,
-        "InMotion Hosting": 541,
+        "InMotion Hosting": 542,
         "Elementor Hosting": 491,
         "Namecheap": 476,
         "IONOS": 447,
