@@ -1,6 +1,21 @@
 {
-    "siteCount": 122035,
+    "siteCount": 122089,
     "recentlyMoved": [
+        {
+            "domain_name": "woodshore.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 19:59:51"
+        },
+        {
+            "domain_name": "prosteamuk.com",
+            "destination": "Bluehost",
+            "date": "2026-02-25 19:56:09"
+        },
+        {
+            "domain_name": "prologicvaluation.com",
+            "destination": "WordPress.com",
+            "date": "2026-02-25 19:47:52"
+        },
         {
             "domain_name": "downtownspokane.org",
             "destination": "InMotion Hosting",
@@ -472,11 +487,6 @@
             "date": "2026-02-24 13:50:53"
         },
         {
-            "domain_name": "thegigattheendofthe.world",
-            "destination": "Digital Ocean",
-            "date": "2026-02-24 13:41:45"
-        },
-        {
             "domain_name": "discoskate.co.uk",
             "destination": "Digital Ocean",
             "date": "2026-02-24 13:27:14"
@@ -490,16 +500,6 @@
             "domain_name": "fastlapgroup.com",
             "destination": "GoDaddy",
             "date": "2026-02-24 13:19:57"
-        },
-        {
-            "domain_name": "thebuildproject.ca",
-            "destination": "Hostinger",
-            "date": "2026-02-24 12:57:42"
-        },
-        {
-            "domain_name": "www.whidbeynewstimes.com",
-            "destination": "WordPress VIP",
-            "date": "2026-02-24 12:44:57"
         }
     ],
     "dailyMovedStat": {
@@ -1028,25 +1028,25 @@
     },
     "topDestinationHosts": {
         "Pressable": 12093,
-        "Kinsta": 8352,
+        "Kinsta": 8354,
         "Digital Ocean": 6000,
         "SiteGround": 5696,
         "Hostinger": 4623,
-        "Bluehost": 4473,
+        "Bluehost": 4476,
         "GoDaddy": 1594,
         "Liquid Web": 811,
-        "BigScoots": 775,
-        "WordPress.com": 620,
+        "BigScoots": 776,
+        "WordPress.com": 621,
         "GridPane": 561,
         "OVH": 561,
         "InMotion Hosting": 542,
         "Elementor Hosting": 491,
-        "Namecheap": 476,
+        "Namecheap": 477,
         "IONOS": 447,
         "A2 Hosting": 437,
         "DreamHost": 424,
-        "Hetzner Online": 362,
-        "HostGator": 273
+        "Hetzner Online": 363,
+        "HostGator": 274
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
