@@ -1,6 +1,21 @@
 {
-    "siteCount": 121897,
+    "siteCount": 121901,
     "recentlyMoved": [
+        {
+            "domain_name": "allanapratt.com",
+            "destination": "Pressable",
+            "date": "2026-02-25 04:07:15"
+        },
+        {
+            "domain_name": "rocketcarwashexpress.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 03:57:43"
+        },
+        {
+            "domain_name": "www.comllp.com",
+            "destination": "Pressable",
+            "date": "2026-02-25 03:40:29"
+        },
         {
             "domain_name": "lubd.com",
             "destination": "Kinsta",
@@ -477,11 +492,6 @@
             "date": "2026-02-23 16:05:30"
         },
         {
-            "domain_name": "goombayadventurers.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 16:05:30"
-        },
-        {
             "domain_name": "brookwaterscurse.com",
             "destination": "Hostinger",
             "date": "2026-02-23 16:00:05"
@@ -490,16 +500,6 @@
             "domain_name": "inallwayshuman.com",
             "destination": "Hostinger",
             "date": "2026-02-23 15:53:06"
-        },
-        {
-            "domain_name": "elevatedexperiencesent.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 13:36:30"
-        },
-        {
-            "domain_name": "ecotoneny.com",
-            "destination": "Bluehost",
-            "date": "2026-02-23 13:31:47"
         }
     ],
     "dailyMovedStat": {
@@ -1027,7 +1027,7 @@
         "2026-02-24": "121877"
     },
     "topDestinationHosts": {
-        "Pressable": 12085,
+        "Pressable": 12087,
         "Kinsta": 8336,
         "Digital Ocean": 5995,
         "SiteGround": 5696,
