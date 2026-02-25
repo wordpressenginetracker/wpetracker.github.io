@@ -1,6 +1,21 @@
 {
-    "siteCount": 121945,
+    "siteCount": 121961,
     "recentlyMoved": [
+        {
+            "domain_name": "www.holstonmedicalgroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-25 12:39:16"
+        },
+        {
+            "domain_name": "blueboxorkland.no",
+            "destination": "Hostinger",
+            "date": "2026-02-25 12:26:16"
+        },
+        {
+            "domain_name": "angermann-baum.ch",
+            "destination": "Kinsta",
+            "date": "2026-02-25 11:45:45"
+        },
         {
             "domain_name": "naturallyrelaxed.life",
             "destination": "Hostinger",
@@ -480,21 +495,6 @@
             "domain_name": "pinsstudios.com",
             "destination": "Hostinger",
             "date": "2026-02-23 19:27:57"
-        },
-        {
-            "domain_name": "nickallenformd.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 17:30:42"
-        },
-        {
-            "domain_name": "nextgenmobilemechanics.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 17:25:56"
-        },
-        {
-            "domain_name": "wdqadventureracing.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 17:25:38"
         },
         {
             "domain_name": "wearemanypeople.com",
@@ -1028,7 +1028,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12089,
-        "Kinsta": 8339,
+        "Kinsta": 8340,
         "Digital Ocean": 5995,
         "SiteGround": 5696,
         "Hostinger": 4613,
