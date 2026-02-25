@@ -1,6 +1,26 @@
 {
-    "siteCount": 121887,
+    "siteCount": 121895,
     "recentlyMoved": [
+        {
+            "domain_name": "lubd.com",
+            "destination": "Kinsta",
+            "date": "2026-02-25 01:28:32"
+        },
+        {
+            "domain_name": "chadrising.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-25 01:00:45"
+        },
+        {
+            "domain_name": "lustfeed.com",
+            "destination": "DreamHost",
+            "date": "2026-02-25 00:50:29"
+        },
+        {
+            "domain_name": "cancercentersocal.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-25 00:13:40"
+        },
         {
             "domain_name": "aspiranettoyage.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "ecotoneny.com",
             "destination": "Bluehost",
             "date": "2026-02-23 13:31:47"
-        },
-        {
-            "domain_name": "darnisaamante.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 13:06:52"
-        },
-        {
-            "domain_name": "deepccp.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 12:59:15"
-        },
-        {
-            "domain_name": "centeringblackvoices.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 12:53:04"
-        },
-        {
-            "domain_name": "tucsonrichelson.com",
-            "destination": "Hostinger",
-            "date": "2026-02-23 09:34:20"
         }
     ],
     "dailyMovedStat": {
@@ -1028,8 +1028,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12085,
-        "Kinsta": 8335,
-        "Digital Ocean": 5993,
+        "Kinsta": 8336,
+        "Digital Ocean": 5995,
         "SiteGround": 5696,
         "Hostinger": 4610,
         "Bluehost": 4472,
@@ -1044,7 +1044,7 @@
         "Namecheap": 476,
         "IONOS": 446,
         "A2 Hosting": 437,
-        "DreamHost": 423,
+        "DreamHost": 424,
         "Hetzner Online": 361,
         "HostGator": 273
     },
