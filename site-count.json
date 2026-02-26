@@ -1,6 +1,26 @@
 {
-    "siteCount": 122323,
+    "siteCount": 122351,
     "recentlyMoved": [
+        {
+            "domain_name": "massotherapiejeanne.ca",
+            "destination": "OVH",
+            "date": "2026-02-26 17:24:36"
+        },
+        {
+            "domain_name": "danindante.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-26 17:22:09"
+        },
+        {
+            "domain_name": "www.r-advertising.com",
+            "destination": "OVH",
+            "date": "2026-02-26 17:07:49"
+        },
+        {
+            "domain_name": "silverbackautomotive.com",
+            "destination": "Pressable",
+            "date": "2026-02-26 16:58:12"
+        },
         {
             "domain_name": "bhamt.org",
             "destination": "Pressable",
@@ -10,6 +30,11 @@
             "domain_name": "www.caninetofive.com",
             "destination": "Kinsta",
             "date": "2026-02-26 16:24:18"
+        },
+        {
+            "domain_name": "kleenmark.com",
+            "destination": "Bluehost",
+            "date": "2026-02-26 16:23:01"
         },
         {
             "domain_name": "www.regionalaccess.net",
@@ -457,11 +482,6 @@
             "date": "2026-02-25 13:04:18"
         },
         {
-            "domain_name": "joshtrent.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-25 13:02:31"
-        },
-        {
             "domain_name": "susquehannavalleypaving.com",
             "destination": "Hostinger",
             "date": "2026-02-25 12:52:45"
@@ -480,26 +500,6 @@
             "domain_name": "cligroup.ca",
             "destination": "Kinsta",
             "date": "2026-02-25 12:39:54"
-        },
-        {
-            "domain_name": "canyonparkveterinaryhospital.com",
-            "destination": "Kinsta",
-            "date": "2026-02-25 12:38:35"
-        },
-        {
-            "domain_name": "www.pipelining.com",
-            "destination": "Kinsta",
-            "date": "2026-02-25 12:37:57"
-        },
-        {
-            "domain_name": "bocaofoodfest.com",
-            "destination": "Hostinger",
-            "date": "2026-02-25 12:36:49"
-        },
-        {
-            "domain_name": "burgundyplace.seniorstar.com",
-            "destination": "OVH",
-            "date": "2026-02-25 12:12:04"
         }
     ],
     "dailyMovedStat": {
@@ -1028,18 +1028,18 @@
         "2026-02-25": "122117"
     },
     "topDestinationHosts": {
-        "Pressable": 12098,
+        "Pressable": 12100,
         "Kinsta": 8366,
-        "Digital Ocean": 6006,
+        "Digital Ocean": 6007,
         "SiteGround": 5696,
         "Hostinger": 4632,
-        "Bluehost": 4482,
-        "GoDaddy": 1595,
+        "Bluehost": 4483,
+        "GoDaddy": 1596,
         "Liquid Web": 811,
         "BigScoots": 776,
         "WordPress.com": 623,
         "GridPane": 563,
-        "OVH": 562,
+        "OVH": 563,
         "InMotion Hosting": 543,
         "Elementor Hosting": 497,
         "Namecheap": 479,
