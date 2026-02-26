@@ -1,6 +1,26 @@
 {
-    "siteCount": 122123,
+    "siteCount": 122135,
     "recentlyMoved": [
+        {
+            "domain_name": "layingafoundation.com",
+            "destination": "Hostinger",
+            "date": "2026-02-26 01:16:29"
+        },
+        {
+            "domain_name": "tep.global",
+            "destination": "Namecheap",
+            "date": "2026-02-26 01:08:14"
+        },
+        {
+            "domain_name": "www.summittheatre.org",
+            "destination": "Kinsta",
+            "date": "2026-02-26 00:54:07"
+        },
+        {
+            "domain_name": "snyderhearingcenter.com",
+            "destination": "Bluehost",
+            "date": "2026-02-26 00:43:29"
+        },
         {
             "domain_name": "gellisconsulting.com",
             "destination": "A2 Hosting",
@@ -480,26 +500,6 @@
             "domain_name": "www.thehutyork.co.uk",
             "destination": "HostGator",
             "date": "2026-02-24 16:36:31"
-        },
-        {
-            "domain_name": "ifgtoday.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-24 16:31:33"
-        },
-        {
-            "domain_name": "lakesidemilam.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-24 16:27:52"
-        },
-        {
-            "domain_name": "lakesidemilam.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-24 16:27:52"
-        },
-        {
-            "domain_name": "hvac.sempersolaris.com",
-            "destination": "Kinsta",
-            "date": "2026-02-24 15:55:06"
         }
     ],
     "dailyMovedStat": {
@@ -1029,11 +1029,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 12094,
-        "Kinsta": 8355,
+        "Kinsta": 8356,
         "Digital Ocean": 6002,
         "SiteGround": 5696,
-        "Hostinger": 4624,
-        "Bluehost": 4478,
+        "Hostinger": 4625,
+        "Bluehost": 4479,
         "GoDaddy": 1594,
         "Liquid Web": 811,
         "BigScoots": 776,
