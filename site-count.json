@@ -1,6 +1,11 @@
 {
-    "siteCount": 122117,
+    "siteCount": 122123,
     "recentlyMoved": [
+        {
+            "domain_name": "gellisconsulting.com",
+            "destination": "A2 Hosting",
+            "date": "2026-02-26 00:00:56"
+        },
         {
             "domain_name": "thebrandleader.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "hvac.sempersolaris.com",
             "destination": "Kinsta",
             "date": "2026-02-24 15:55:06"
-        },
-        {
-            "domain_name": "hcma.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-02-24 15:40:21"
         }
     ],
     "dailyMovedStat": {
@@ -1044,7 +1044,7 @@
         "Elementor Hosting": 491,
         "Namecheap": 477,
         "IONOS": 447,
-        "A2 Hosting": 438,
+        "A2 Hosting": 439,
         "DreamHost": 424,
         "Hetzner Online": 363,
         "HostGator": 274
