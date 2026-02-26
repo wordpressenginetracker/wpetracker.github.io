@@ -1,6 +1,16 @@
 {
-    "siteCount": 122361,
+    "siteCount": 122407,
     "recentlyMoved": [
+        {
+            "domain_name": "atlantarecoveryplace.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-26 20:04:25"
+        },
+        {
+            "domain_name": "90who10.com",
+            "destination": "GoDaddy",
+            "date": "2026-02-26 19:53:00"
+        },
         {
             "domain_name": "massotherapiejeanne.ca",
             "destination": "OVH",
@@ -490,16 +500,6 @@
             "domain_name": "dandhfixings.com",
             "destination": "Pressable",
             "date": "2026-02-25 12:49:53"
-        },
-        {
-            "domain_name": "cliservice.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-25 12:39:54"
-        },
-        {
-            "domain_name": "cligroup.ca",
-            "destination": "Kinsta",
-            "date": "2026-02-25 12:39:54"
         }
     ],
     "dailyMovedStat": {
@@ -1030,12 +1030,12 @@
     "topDestinationHosts": {
         "Pressable": 12100,
         "Kinsta": 8366,
-        "Digital Ocean": 6007,
+        "Digital Ocean": 6009,
         "SiteGround": 5696,
         "Hostinger": 4632,
         "Bluehost": 4483,
-        "GoDaddy": 1596,
-        "Liquid Web": 811,
+        "GoDaddy": 1598,
+        "Liquid Web": 812,
         "BigScoots": 776,
         "WordPress.com": 623,
         "OVH": 564,
