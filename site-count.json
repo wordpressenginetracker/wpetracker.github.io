@@ -1,6 +1,11 @@
 {
-    "siteCount": 122144,
+    "siteCount": 122169,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blog.freehitapp.org",
+            "destination": "Hetzner Online",
+            "date": "2026-02-26 04:21:47"
+        },
         {
             "domain_name": "tveltbuild.com",
             "destination": "HostGator",
@@ -490,11 +495,6 @@
             "domain_name": "museumsenses.org",
             "destination": "Hostinger",
             "date": "2026-02-24 17:40:54"
-        },
-        {
-            "domain_name": "deancallan.com",
-            "destination": "Kinsta",
-            "date": "2026-02-24 17:37:33"
         },
         {
             "domain_name": "eaglepestcontrolak.com",
@@ -1046,7 +1046,7 @@
         "IONOS": 447,
         "A2 Hosting": 439,
         "DreamHost": 424,
-        "Hetzner Online": 363,
+        "Hetzner Online": 364,
         "HostGator": 275
     },
     "dailyTotalStat": {
