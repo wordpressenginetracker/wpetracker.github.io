@@ -1,6 +1,11 @@
 {
-    "siteCount": 122614,
+    "siteCount": 122617,
     "recentlyMoved": [
+        {
+            "domain_name": "wallbedsnmore.com",
+            "destination": "Pressable",
+            "date": "2026-02-27 14:00:39"
+        },
         {
             "domain_name": "digitalsummitphoenix.com",
             "destination": "Namecheap",
@@ -485,11 +490,6 @@
             "domain_name": "thewernerlawgroup.com",
             "destination": "Hostinger",
             "date": "2026-02-26 01:42:54"
-        },
-        {
-            "domain_name": "layingafoundation.com",
-            "destination": "Hostinger",
-            "date": "2026-02-26 01:16:29"
         },
         {
             "domain_name": "tep.global",
@@ -1029,7 +1029,7 @@
         "2026-02-26": "122436"
     },
     "topDestinationHosts": {
-        "Pressable": 12109,
+        "Pressable": 12110,
         "Kinsta": 8379,
         "Digital Ocean": 6012,
         "SiteGround": 5696,
@@ -1040,10 +1040,10 @@
         "BigScoots": 778,
         "WordPress.com": 623,
         "GridPane": 565,
-        "OVH": 564,
+        "OVH": 565,
         "InMotion Hosting": 544,
         "Elementor Hosting": 499,
-        "Namecheap": 479,
+        "Namecheap": 480,
         "IONOS": 447,
         "A2 Hosting": 439,
         "DreamHost": 424,
