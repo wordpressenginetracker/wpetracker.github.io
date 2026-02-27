@@ -1,6 +1,16 @@
 {
-    "siteCount": 122747,
+    "siteCount": 122771,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rentmax.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-02-27 20:56:51"
+        },
+        {
+            "domain_name": "contrabandcoffeetraders.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-27 20:38:38"
+        },
         {
             "domain_name": "righty-roo.com",
             "destination": "Hostinger",
@@ -485,16 +495,6 @@
             "domain_name": "springhousehotel.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-26 13:05:50"
-        },
-        {
-            "domain_name": "southamptoninn.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-26 12:59:42"
-        },
-        {
-            "domain_name": "kirue.ch",
-            "destination": "Kinsta",
-            "date": "2026-02-26 12:52:43"
         },
         {
             "domain_name": "www.skurupsdackservice.se",
@@ -1031,7 +1031,7 @@
     "topDestinationHosts": {
         "Pressable": 12119,
         "Kinsta": 8381,
-        "Digital Ocean": 6018,
+        "Digital Ocean": 6020,
         "SiteGround": 5697,
         "Hostinger": 4643,
         "Bluehost": 4487,
