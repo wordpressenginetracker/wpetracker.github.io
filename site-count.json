@@ -1,6 +1,11 @@
 {
-    "siteCount": 122436,
+    "siteCount": 122443,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cantonnc.com",
+            "destination": "GridPane",
+            "date": "2026-02-27 00:21:09"
+        },
         {
             "domain_name": "unitenet.com.au",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "johnsecho.org",
             "destination": "Hostinger",
             "date": "2026-02-25 16:37:56"
-        },
-        {
-            "domain_name": "hexcorpllc.com",
-            "destination": "Hostinger",
-            "date": "2026-02-25 16:21:15"
         },
         {
             "domain_name": "www.historynet.com",
@@ -1039,7 +1039,7 @@
         "Liquid Web": 812,
         "BigScoots": 777,
         "WordPress.com": 623,
-        "GridPane": 564,
+        "GridPane": 565,
         "OVH": 564,
         "InMotion Hosting": 544,
         "Elementor Hosting": 497,
