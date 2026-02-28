@@ -1,6 +1,21 @@
 {
-    "siteCount": 122913,
+    "siteCount": 122926,
     "recentlyMoved": [
+        {
+            "domain_name": "www.essentialindustrial.co.uk",
+            "destination": "IONOS",
+            "date": "2026-02-28 12:38:35"
+        },
+        {
+            "domain_name": "www.quincyparkdistrict.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-28 12:17:43"
+        },
+        {
+            "domain_name": "www.derbydentists.co.uk",
+            "destination": "BigScoots",
+            "date": "2026-02-28 11:54:29"
+        },
         {
             "domain_name": "entitleland.com",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "90who10.com",
             "destination": "GoDaddy",
             "date": "2026-02-26 19:53:00"
-        },
-        {
-            "domain_name": "massotherapiejeanne.ca",
-            "destination": "OVH",
-            "date": "2026-02-26 17:24:36"
-        },
-        {
-            "domain_name": "danindante.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-26 17:22:09"
-        },
-        {
-            "domain_name": "kleenmark.com",
-            "destination": "Bluehost",
-            "date": "2026-02-26 16:23:01"
         }
     ],
     "dailyMovedStat": {
@@ -1032,20 +1032,20 @@
     "topDestinationHosts": {
         "Pressable": 12122,
         "Kinsta": 8383,
-        "Digital Ocean": 6025,
+        "Digital Ocean": 6026,
         "SiteGround": 5697,
         "Hostinger": 4646,
         "Bluehost": 4487,
         "GoDaddy": 1601,
         "Liquid Web": 812,
-        "BigScoots": 781,
+        "BigScoots": 782,
         "WordPress.com": 626,
         "GridPane": 566,
         "OVH": 566,
         "InMotion Hosting": 545,
         "Elementor Hosting": 503,
         "Namecheap": 480,
-        "IONOS": 447,
+        "IONOS": 448,
         "A2 Hosting": 439,
         "DreamHost": 424,
         "Hetzner Online": 366,
