@@ -1,6 +1,11 @@
 {
-    "siteCount": 123053,
+    "siteCount": 123070,
     "recentlyMoved": [
+        {
+            "domain_name": "cj-lawn-care.com",
+            "destination": "Bluehost",
+            "date": "2026-02-28 20:39:38"
+        },
         {
             "domain_name": "growmag.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "yorkharborinn.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-27 09:38:43"
-        },
-        {
-            "domain_name": "davebofill.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-27 09:01:25"
         }
     ],
     "dailyMovedStat": {
@@ -1035,7 +1035,7 @@
         "Digital Ocean": 6032,
         "SiteGround": 5697,
         "Hostinger": 4651,
-        "Bluehost": 4487,
+        "Bluehost": 4488,
         "GoDaddy": 1601,
         "Liquid Web": 812,
         "BigScoots": 783,
