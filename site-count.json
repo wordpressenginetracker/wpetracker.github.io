@@ -1,6 +1,11 @@
 {
-    "siteCount": 122878,
+    "siteCount": 122882,
     "recentlyMoved": [
+        {
+            "domain_name": "mochasandmarkbooks.com",
+            "destination": "WordPress.com",
+            "date": "2026-02-28 05:28:29"
+        },
         {
             "domain_name": "collins-control.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rawelementssalon.com",
             "destination": "WordPress.com",
             "date": "2026-02-26 16:02:37"
-        },
-        {
-            "domain_name": "www.charlestonoutdooradventures.com",
-            "destination": "GridPane",
-            "date": "2026-02-26 15:33:05"
         }
     ],
     "dailyMovedStat": {
@@ -1039,7 +1039,7 @@
         "GoDaddy": 1601,
         "Liquid Web": 812,
         "BigScoots": 780,
-        "WordPress.com": 625,
+        "WordPress.com": 626,
         "GridPane": 566,
         "OVH": 566,
         "InMotion Hosting": 545,
