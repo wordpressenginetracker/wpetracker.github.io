@@ -1,6 +1,16 @@
 {
-    "siteCount": 123006,
+    "siteCount": 123053,
     "recentlyMoved": [
+        {
+            "domain_name": "growmag.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-28 20:25:16"
+        },
+        {
+            "domain_name": "andywins.com",
+            "destination": "BigScoots",
+            "date": "2026-02-28 19:40:12"
+        },
         {
             "domain_name": "morenoranches.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "davebofill.com",
             "destination": "Elementor Hosting",
             "date": "2026-02-27 09:01:25"
-        },
-        {
-            "domain_name": "centaurtt.com",
-            "destination": "Hostinger",
-            "date": "2026-02-27 08:31:37"
-        },
-        {
-            "domain_name": "www.peninsula360.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 08:16:14"
         }
     ],
     "dailyMovedStat": {
@@ -1032,14 +1032,14 @@
     "topDestinationHosts": {
         "Pressable": 12124,
         "Kinsta": 8388,
-        "Digital Ocean": 6031,
+        "Digital Ocean": 6032,
         "SiteGround": 5697,
-        "Hostinger": 4650,
+        "Hostinger": 4651,
         "Bluehost": 4487,
         "GoDaddy": 1601,
         "Liquid Web": 812,
-        "BigScoots": 782,
-        "WordPress.com": 627,
+        "BigScoots": 783,
+        "WordPress.com": 628,
         "GridPane": 569,
         "OVH": 566,
         "InMotion Hosting": 545,
