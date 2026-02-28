@@ -1,6 +1,11 @@
 {
-    "siteCount": 122825,
+    "siteCount": 122837,
     "recentlyMoved": [
+        {
+            "domain_name": "midstateorthodontics.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-28 01:18:03"
+        },
         {
             "domain_name": "www.novaeqc.com",
             "destination": "Pressable",
@@ -470,11 +475,6 @@
             "domain_name": "rawelementssalon.com",
             "destination": "WordPress.com",
             "date": "2026-02-26 16:02:37"
-        },
-        {
-            "domain_name": "figarodigital.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-02-26 16:02:04"
         },
         {
             "domain_name": "www.jacksonlegalteam.com",
@@ -1032,7 +1032,7 @@
     "topDestinationHosts": {
         "Pressable": 12121,
         "Kinsta": 8382,
-        "Digital Ocean": 6021,
+        "Digital Ocean": 6022,
         "SiteGround": 5697,
         "Hostinger": 4646,
         "Bluehost": 4487,
