@@ -1,6 +1,36 @@
 {
-    "siteCount": 122954,
+    "siteCount": 122976,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hickmanplumbingservices.com",
+            "destination": "GridPane",
+            "date": "2026-02-28 16:13:47"
+        },
+        {
+            "domain_name": "rocketlevel.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-28 16:05:26"
+        },
+        {
+            "domain_name": "orientexpressnyc.com",
+            "destination": "Hostinger",
+            "date": "2026-02-28 16:05:00"
+        },
+        {
+            "domain_name": "aabc.us",
+            "destination": "Hostinger",
+            "date": "2026-02-28 15:59:44"
+        },
+        {
+            "domain_name": "fortysixtenstudios.com",
+            "destination": "HostGator",
+            "date": "2026-02-28 15:41:56"
+        },
+        {
+            "domain_name": "www.gainesvilleinsurancecoverage.com",
+            "destination": "Digital Ocean",
+            "date": "2026-02-28 15:30:07"
+        },
         {
             "domain_name": "unitedjoinforces.com",
             "destination": "IONOS",
@@ -470,36 +500,6 @@
             "domain_name": "bluecollaroptics.com",
             "destination": "Hostinger",
             "date": "2026-02-27 00:30:32"
-        },
-        {
-            "domain_name": "www.cantonnc.com",
-            "destination": "GridPane",
-            "date": "2026-02-27 00:21:09"
-        },
-        {
-            "domain_name": "unitenet.com.au",
-            "destination": "Kinsta",
-            "date": "2026-02-26 22:01:20"
-        },
-        {
-            "domain_name": "luckydogfilms.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-26 21:32:32"
-        },
-        {
-            "domain_name": "zoesameth.com",
-            "destination": "Hostinger",
-            "date": "2026-02-26 21:28:57"
-        },
-        {
-            "domain_name": "destinationpediatricdentistry.com",
-            "destination": "Kinsta",
-            "date": "2026-02-26 21:19:17"
-        },
-        {
-            "domain_name": "companytheatre.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-02-26 20:45:45"
         }
     ],
     "dailyMovedStat": {
@@ -1032,9 +1032,9 @@
     "topDestinationHosts": {
         "Pressable": 12124,
         "Kinsta": 8388,
-        "Digital Ocean": 6026,
+        "Digital Ocean": 6027,
         "SiteGround": 5697,
-        "Hostinger": 4646,
+        "Hostinger": 4648,
         "Bluehost": 4487,
         "GoDaddy": 1601,
         "Liquid Web": 812,
@@ -1049,7 +1049,7 @@
         "A2 Hosting": 439,
         "DreamHost": 424,
         "Hetzner Online": 366,
-        "HostGator": 277
+        "HostGator": 278
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
