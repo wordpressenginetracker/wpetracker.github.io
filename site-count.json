@@ -1,6 +1,11 @@
 {
-    "siteCount": 122898,
+    "siteCount": 122909,
     "recentlyMoved": [
+        {
+            "domain_name": "sebastiansbvi.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-02-28 08:31:55"
+        },
         {
             "domain_name": "growgrounds.org",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "kleenmark.com",
             "destination": "Bluehost",
             "date": "2026-02-26 16:23:01"
-        },
-        {
-            "domain_name": "www.hsaction.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-26 16:12:10"
         }
     ],
     "dailyMovedStat": {
@@ -1043,7 +1043,7 @@
         "GridPane": 566,
         "OVH": 566,
         "InMotion Hosting": 545,
-        "Elementor Hosting": 502,
+        "Elementor Hosting": 503,
         "Namecheap": 480,
         "IONOS": 447,
         "A2 Hosting": 439,
