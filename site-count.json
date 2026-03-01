@@ -1,6 +1,11 @@
 {
-    "siteCount": 123096,
+    "siteCount": 123111,
     "recentlyMoved": [
+        {
+            "domain_name": "shdd.com.au",
+            "destination": "Namecheap",
+            "date": "2026-03-01 04:08:16"
+        },
         {
             "domain_name": "www.ggoffice.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "hartlaw.com",
             "destination": "BigScoots",
             "date": "2026-02-27 11:56:43"
-        },
-        {
-            "domain_name": "www.auburnbookkeeping.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 11:22:44"
         }
     ],
     "dailyMovedStat": {
@@ -1045,7 +1045,7 @@
         "OVH": 566,
         "InMotion Hosting": 545,
         "Elementor Hosting": 503,
-        "Namecheap": 480,
+        "Namecheap": 481,
         "IONOS": 450,
         "A2 Hosting": 439,
         "DreamHost": 424,
