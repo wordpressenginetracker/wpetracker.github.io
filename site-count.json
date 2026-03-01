@@ -1,6 +1,11 @@
 {
-    "siteCount": 123132,
+    "siteCount": 123140,
     "recentlyMoved": [
+        {
+            "domain_name": "323plumber.com",
+            "destination": "GridPane",
+            "date": "2026-03-01 12:01:27"
+        },
         {
             "domain_name": "mendoncba.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "jcmcllc.com",
             "destination": "Bluehost",
             "date": "2026-02-27 12:08:02"
-        },
-        {
-            "domain_name": "hartlaw.com",
-            "destination": "BigScoots",
-            "date": "2026-02-27 11:56:43"
         }
     ],
     "dailyMovedStat": {
@@ -1041,7 +1041,7 @@
         "Liquid Web": 813,
         "BigScoots": 783,
         "WordPress.com": 629,
-        "GridPane": 571,
+        "GridPane": 572,
         "OVH": 566,
         "InMotion Hosting": 545,
         "Elementor Hosting": 503,
