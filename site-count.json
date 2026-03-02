@@ -1,6 +1,21 @@
 {
-    "siteCount": 123205,
+    "siteCount": 123220,
     "recentlyMoved": [
+        {
+            "domain_name": "hisherssalon.com",
+            "destination": "Bluehost",
+            "date": "2026-03-01 23:43:35"
+        },
+        {
+            "domain_name": "www.karnolaw.com",
+            "destination": "Liquid Web",
+            "date": "2026-03-01 23:42:40"
+        },
+        {
+            "domain_name": "perfectiongroup.com",
+            "destination": "Kinsta",
+            "date": "2026-03-01 23:19:08"
+        },
         {
             "domain_name": "imsdigitalfl.com",
             "destination": "HostGator",
@@ -485,21 +500,6 @@
             "domain_name": "www.aethyrium.org",
             "destination": "Pressable",
             "date": "2026-02-27 15:25:04"
-        },
-        {
-            "domain_name": "wallbedsnmore.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 14:00:39"
-        },
-        {
-            "domain_name": "digitalsummitphoenix.com",
-            "destination": "Namecheap",
-            "date": "2026-02-27 13:34:52"
-        },
-        {
-            "domain_name": "dialedlabs.com",
-            "destination": "OVH",
-            "date": "2026-02-27 13:18:45"
         }
     ],
     "dailyMovedStat": {
@@ -1033,13 +1033,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 12126,
-        "Kinsta": 8388,
+        "Kinsta": 8389,
         "Digital Ocean": 6037,
         "SiteGround": 5697,
         "Hostinger": 4653,
-        "Bluehost": 4489,
+        "Bluehost": 4490,
         "GoDaddy": 1601,
-        "Liquid Web": 813,
+        "Liquid Web": 814,
         "BigScoots": 783,
         "WordPress.com": 629,
         "GridPane": 572,
