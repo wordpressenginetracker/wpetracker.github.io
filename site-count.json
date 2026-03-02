@@ -1,6 +1,11 @@
 {
-    "siteCount": 123319,
+    "siteCount": 123322,
     "recentlyMoved": [
+        {
+            "domain_name": "martachacon.com",
+            "destination": "Hostinger",
+            "date": "2026-03-02 20:52:51"
+        },
         {
             "domain_name": "www.gostocklenses.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "hhctx.co",
             "destination": "WordPress.com",
             "date": "2026-02-27 19:48:36"
-        },
-        {
-            "domain_name": "mikefullerrealty.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-02-27 17:22:12"
         },
         {
             "domain_name": "uffcorp.com",
@@ -1036,7 +1036,7 @@
         "Kinsta": 8393,
         "Digital Ocean": 6038,
         "SiteGround": 5697,
-        "Hostinger": 4658,
+        "Hostinger": 4659,
         "Bluehost": 4490,
         "GoDaddy": 1601,
         "Liquid Web": 814,
