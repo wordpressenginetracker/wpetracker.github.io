@@ -1,6 +1,11 @@
 {
-    "siteCount": 123234,
+    "siteCount": 123238,
     "recentlyMoved": [
+        {
+            "domain_name": "fitzharrisconsulting.com",
+            "destination": "Hostinger",
+            "date": "2026-03-02 03:09:49"
+        },
         {
             "domain_name": "tulipalooza.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.palmyracemetery.com",
             "destination": "Digital Ocean",
             "date": "2026-02-27 15:45:20"
-        },
-        {
-            "domain_name": "www.braunambulances.com",
-            "destination": "SiteGround",
-            "date": "2026-02-27 15:33:16"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
         "Kinsta": 8390,
         "Digital Ocean": 6037,
         "SiteGround": 5697,
-        "Hostinger": 4654,
+        "Hostinger": 4655,
         "Bluehost": 4490,
         "GoDaddy": 1601,
         "Liquid Web": 814,
