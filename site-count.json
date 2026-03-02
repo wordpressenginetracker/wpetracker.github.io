@@ -1,6 +1,16 @@
 {
-    "siteCount": 123278,
+    "siteCount": 123285,
     "recentlyMoved": [
+        {
+            "domain_name": "staywandery.com",
+            "destination": "Kinsta",
+            "date": "2026-03-02 16:36:30"
+        },
+        {
+            "domain_name": "imswebresults.com",
+            "destination": "HostGator",
+            "date": "2026-03-02 16:33:06"
+        },
         {
             "domain_name": "pro-fab.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2026-02-27 16:58:15"
         },
         {
-            "domain_name": "www.pianotunercentralillinois.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 16:35:47"
-        },
-        {
             "domain_name": "koldinghavn.dk",
             "destination": "Elementor Hosting",
             "date": "2026-02-27 16:34:01"
-        },
-        {
-            "domain_name": "www.meolasbookkeeping.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 16:26:29"
         }
     ],
     "dailyMovedStat": {
@@ -1033,7 +1033,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12127,
-        "Kinsta": 8391,
+        "Kinsta": 8392,
         "Digital Ocean": 6037,
         "SiteGround": 5697,
         "Hostinger": 4658,
@@ -1051,7 +1051,7 @@
         "A2 Hosting": 439,
         "DreamHost": 425,
         "Hetzner Online": 366,
-        "HostGator": 280
+        "HostGator": 281
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
