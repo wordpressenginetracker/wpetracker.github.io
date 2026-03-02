@@ -1,6 +1,11 @@
 {
-    "siteCount": 123231,
+    "siteCount": 123234,
     "recentlyMoved": [
+        {
+            "domain_name": "tulipalooza.org",
+            "destination": "Pressable",
+            "date": "2026-03-02 01:48:09"
+        },
         {
             "domain_name": "supportstjoes.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.braunambulances.com",
             "destination": "SiteGround",
             "date": "2026-02-27 15:33:16"
-        },
-        {
-            "domain_name": "www.artificermedia.com",
-            "destination": "Pressable",
-            "date": "2026-02-27 15:28:28"
         }
     ],
     "dailyMovedStat": {
@@ -1032,7 +1032,7 @@
         "2026-03-01": "123205"
     },
     "topDestinationHosts": {
-        "Pressable": 12126,
+        "Pressable": 12127,
         "Kinsta": 8390,
         "Digital Ocean": 6037,
         "SiteGround": 5697,
