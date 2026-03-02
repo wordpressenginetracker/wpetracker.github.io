@@ -1,6 +1,16 @@
 {
-    "siteCount": 123285,
+    "siteCount": 123288,
     "recentlyMoved": [
+        {
+            "domain_name": "mowmanagers.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-02 17:38:52"
+        },
+        {
+            "domain_name": "trufitathleticclubs.com",
+            "destination": "Kinsta",
+            "date": "2026-03-02 17:17:25"
+        },
         {
             "domain_name": "staywandery.com",
             "destination": "Kinsta",
@@ -467,11 +477,6 @@
             "date": "2026-02-27 19:48:36"
         },
         {
-            "domain_name": "commit.data2x.org",
-            "destination": "Digital Ocean",
-            "date": "2026-02-27 17:24:56"
-        },
-        {
             "domain_name": "ctrinvestors.com",
             "destination": "Bluehost",
             "date": "2026-02-27 17:22:18"
@@ -495,11 +500,6 @@
             "domain_name": "crosscleaningspecialist.co.uk",
             "destination": "Digital Ocean",
             "date": "2026-02-27 16:58:15"
-        },
-        {
-            "domain_name": "koldinghavn.dk",
-            "destination": "Elementor Hosting",
-            "date": "2026-02-27 16:34:01"
         }
     ],
     "dailyMovedStat": {
@@ -1033,8 +1033,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12127,
-        "Kinsta": 8392,
-        "Digital Ocean": 6037,
+        "Kinsta": 8393,
+        "Digital Ocean": 6038,
         "SiteGround": 5697,
         "Hostinger": 4658,
         "Bluehost": 4490,
