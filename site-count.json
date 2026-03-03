@@ -1,6 +1,11 @@
 {
-    "siteCount": 123360,
+    "siteCount": 123364,
     "recentlyMoved": [
+        {
+            "domain_name": "voidstudios.uk",
+            "destination": "WordPress.com",
+            "date": "2026-03-03 05:31:39"
+        },
         {
             "domain_name": "cphlabs.dk",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "righty-roo.com",
             "destination": "Hostinger",
             "date": "2026-02-27 20:24:16"
-        },
-        {
-            "domain_name": "heritagemanorbossier.com",
-            "destination": "OVH",
-            "date": "2026-02-27 20:02:17"
         },
         {
             "domain_name": "hhctx.co",
@@ -1042,7 +1042,7 @@
         "GoDaddy": 1601,
         "Liquid Web": 814,
         "BigScoots": 784,
-        "WordPress.com": 630,
+        "WordPress.com": 631,
         "GridPane": 572,
         "OVH": 566,
         "InMotion Hosting": 546,
