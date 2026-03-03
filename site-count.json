@@ -1,6 +1,41 @@
 {
-    "siteCount": 123403,
+    "siteCount": 123420,
     "recentlyMoved": [
+        {
+            "domain_name": "thebargainbusters.com",
+            "destination": "Liquid Web",
+            "date": "2026-03-03 13:40:44"
+        },
+        {
+            "domain_name": "customerattuned.com",
+            "destination": "IONOS",
+            "date": "2026-03-03 13:36:59"
+        },
+        {
+            "domain_name": "level9hvac.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-03 13:27:34"
+        },
+        {
+            "domain_name": "credenceandco.com",
+            "destination": "Hostinger",
+            "date": "2026-03-03 12:55:37"
+        },
+        {
+            "domain_name": "craftcottagebuilders.com",
+            "destination": "Pressable",
+            "date": "2026-03-03 12:52:21"
+        },
+        {
+            "domain_name": "www.madisonexteriorsandremodeling.com",
+            "destination": "Pressable",
+            "date": "2026-03-03 12:27:29"
+        },
+        {
+            "domain_name": "integra-turflawncare.com",
+            "destination": "A2 Hosting",
+            "date": "2026-03-03 12:20:16"
+        },
         {
             "domain_name": "archsolteam.com",
             "destination": "Kinsta",
@@ -447,11 +482,6 @@
             "date": "2026-02-28 04:32:59"
         },
         {
-            "domain_name": "pallas.ai",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 04:04:51"
-        },
-        {
             "domain_name": "futurefeednews.com",
             "destination": "Digital Ocean",
             "date": "2026-02-28 03:52:07"
@@ -470,36 +500,6 @@
             "domain_name": "greenbearllc.com",
             "destination": "BigScoots",
             "date": "2026-02-28 03:31:40"
-        },
-        {
-            "domain_name": "midstateorthodontics.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 01:18:03"
-        },
-        {
-            "domain_name": "www.novaeqc.com",
-            "destination": "Pressable",
-            "date": "2026-02-28 00:57:05"
-        },
-        {
-            "domain_name": "kalgerwoodworking.com",
-            "destination": "GoDaddy",
-            "date": "2026-02-28 00:21:54"
-        },
-        {
-            "domain_name": "alianzacolomboinglesa.com",
-            "destination": "Hostinger",
-            "date": "2026-02-28 00:02:25"
-        },
-        {
-            "domain_name": "prcno.org",
-            "destination": "Kinsta",
-            "date": "2026-02-27 23:30:28"
-        },
-        {
-            "domain_name": "www.capitalhearingcare.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-27 23:30:23"
         }
     ],
     "dailyMovedStat": {
@@ -1033,11 +1033,11 @@
         "2026-03-02": "123322"
     },
     "topDestinationHosts": {
-        "Pressable": 12128,
+        "Pressable": 12130,
         "Kinsta": 8395,
-        "Digital Ocean": 6041,
+        "Digital Ocean": 6042,
         "SiteGround": 5697,
-        "Hostinger": 4661,
+        "Hostinger": 4662,
         "Bluehost": 4490,
         "GoDaddy": 1601,
         "Liquid Web": 814,
@@ -1049,7 +1049,7 @@
         "Elementor Hosting": 504,
         "Namecheap": 481,
         "IONOS": 451,
-        "A2 Hosting": 439,
+        "A2 Hosting": 440,
         "DreamHost": 427,
         "Hetzner Online": 367,
         "HostGator": 281
