@@ -1,6 +1,16 @@
 {
-    "siteCount": 123355,
+    "siteCount": 123360,
     "recentlyMoved": [
+        {
+            "domain_name": "cphlabs.dk",
+            "destination": "Digital Ocean",
+            "date": "2026-03-03 05:03:55"
+        },
+        {
+            "domain_name": "cafirma.com",
+            "destination": "Kinsta",
+            "date": "2026-03-03 04:53:03"
+        },
         {
             "domain_name": "nyweekly.com",
             "destination": "Hostinger",
@@ -482,19 +492,9 @@
             "date": "2026-02-27 20:24:16"
         },
         {
-            "domain_name": "hawthornhockeyclub.asn.au",
-            "destination": "WordPress.com",
-            "date": "2026-02-27 20:10:06"
-        },
-        {
             "domain_name": "heritagemanorbossier.com",
             "destination": "OVH",
             "date": "2026-02-27 20:02:17"
-        },
-        {
-            "domain_name": "greatwording.com",
-            "destination": "Hostinger",
-            "date": "2026-02-27 19:56:54"
         },
         {
             "domain_name": "hhctx.co",
@@ -1034,8 +1034,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12128,
-        "Kinsta": 8393,
-        "Digital Ocean": 6038,
+        "Kinsta": 8394,
+        "Digital Ocean": 6039,
         "SiteGround": 5697,
         "Hostinger": 4660,
         "Bluehost": 4490,
