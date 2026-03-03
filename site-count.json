@@ -1,6 +1,11 @@
 {
-    "siteCount": 123373,
+    "siteCount": 123385,
     "recentlyMoved": [
+        {
+            "domain_name": "carrcarepros.com",
+            "destination": "Hostinger",
+            "date": "2026-03-03 08:57:31"
+        },
         {
             "domain_name": "voidstudios.uk",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "righty-roo.com",
             "destination": "Hostinger",
             "date": "2026-02-27 20:24:16"
-        },
-        {
-            "domain_name": "hhctx.co",
-            "destination": "WordPress.com",
-            "date": "2026-02-27 19:48:36"
         }
     ],
     "dailyMovedStat": {
@@ -1037,7 +1037,7 @@
         "Kinsta": 8394,
         "Digital Ocean": 6039,
         "SiteGround": 5697,
-        "Hostinger": 4660,
+        "Hostinger": 4661,
         "Bluehost": 4490,
         "GoDaddy": 1601,
         "Liquid Web": 814,
