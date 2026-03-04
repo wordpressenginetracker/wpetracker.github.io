@@ -1,6 +1,11 @@
 {
-    "siteCount": 123735,
+    "siteCount": 123742,
     "recentlyMoved": [
+        {
+            "domain_name": "my.auntminnie.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 22:05:59"
+        },
         {
             "domain_name": "thecodelab.ie",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "nyweekly.com",
             "destination": "Hostinger",
             "date": "2026-03-03 02:09:47"
-        },
-        {
-            "domain_name": "martachacon.com",
-            "destination": "Hostinger",
-            "date": "2026-03-02 20:52:51"
         }
     ],
     "dailyMovedStat": {
@@ -1035,7 +1035,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12140,
-        "Kinsta": 8425,
+        "Kinsta": 8427,
         "Digital Ocean": 6059,
         "SiteGround": 5697,
         "Hostinger": 4672,
