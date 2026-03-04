@@ -1,6 +1,11 @@
 {
-    "siteCount": 123550,
+    "siteCount": 123555,
     "recentlyMoved": [
+        {
+            "domain_name": "members.aquaponicsinindia.com",
+            "destination": "Hostinger",
+            "date": "2026-03-04 05:38:09"
+        },
         {
             "domain_name": "lwpconsulting.com",
             "destination": "DreamHost",
@@ -485,11 +490,6 @@
             "domain_name": "rocketlevel.com",
             "destination": "Digital Ocean",
             "date": "2026-02-28 16:05:26"
-        },
-        {
-            "domain_name": "aabc.us",
-            "destination": "Hostinger",
-            "date": "2026-02-28 15:59:44"
         },
         {
             "domain_name": "fortysixtenstudios.com",
@@ -1038,7 +1038,7 @@
         "Kinsta": 8399,
         "Digital Ocean": 6050,
         "SiteGround": 5697,
-        "Hostinger": 4665,
+        "Hostinger": 4666,
         "Bluehost": 4490,
         "GoDaddy": 1602,
         "Liquid Web": 816,
