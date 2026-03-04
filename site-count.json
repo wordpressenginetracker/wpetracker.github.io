@@ -1,6 +1,11 @@
 {
-    "siteCount": 123537,
+    "siteCount": 123541,
     "recentlyMoved": [
+        {
+            "domain_name": "lwpconsulting.com",
+            "destination": "DreamHost",
+            "date": "2026-03-04 01:22:12"
+        },
         {
             "domain_name": "goodgrazing.org",
             "destination": "DreamHost",
@@ -480,11 +485,6 @@
             "domain_name": "rocketlevel.com",
             "destination": "Digital Ocean",
             "date": "2026-02-28 16:05:26"
-        },
-        {
-            "domain_name": "orientexpressnyc.com",
-            "destination": "Hostinger",
-            "date": "2026-02-28 16:05:00"
         },
         {
             "domain_name": "aabc.us",
@@ -1051,7 +1051,7 @@
         "Namecheap": 482,
         "IONOS": 453,
         "A2 Hosting": 440,
-        "DreamHost": 429,
+        "DreamHost": 430,
         "Hetzner Online": 367,
         "HostGator": 281
     },
