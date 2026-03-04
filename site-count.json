@@ -1,6 +1,21 @@
 {
-    "siteCount": 123664,
+    "siteCount": 123676,
     "recentlyMoved": [
+        {
+            "domain_name": "munichhauspinetopaz.com",
+            "destination": "HostGator",
+            "date": "2026-03-04 17:57:57"
+        },
+        {
+            "domain_name": "thomasroneyllc.com",
+            "destination": "Liquid Web",
+            "date": "2026-03-04 17:36:14"
+        },
+        {
+            "domain_name": "uncomn.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-04 17:32:38"
+        },
         {
             "domain_name": "shopltv.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "tulipalooza.org",
             "destination": "Pressable",
             "date": "2026-03-02 01:48:09"
-        },
-        {
-            "domain_name": "supportstjoes.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-02 01:29:36"
-        },
-        {
-            "domain_name": "www.vancamplaw.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-03-02 00:46:33"
-        },
-        {
-            "domain_name": "www.nurturekidsdentistry.com",
-            "destination": "Hostinger",
-            "date": "2026-03-02 00:33:11"
         }
     ],
     "dailyMovedStat": {
@@ -1036,12 +1036,12 @@
     "topDestinationHosts": {
         "Pressable": 12137,
         "Kinsta": 8417,
-        "Digital Ocean": 6057,
+        "Digital Ocean": 6058,
         "SiteGround": 5697,
         "Hostinger": 4671,
         "Bluehost": 4490,
         "GoDaddy": 1603,
-        "Liquid Web": 816,
+        "Liquid Web": 817,
         "BigScoots": 784,
         "WordPress.com": 631,
         "GridPane": 576,
@@ -1053,7 +1053,7 @@
         "A2 Hosting": 440,
         "DreamHost": 431,
         "Hetzner Online": 368,
-        "HostGator": 281
+        "HostGator": 282
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
