@@ -1,10 +1,25 @@
 {
-    "siteCount": 123604,
+    "siteCount": 123614,
     "recentlyMoved": [
+        {
+            "domain_name": "vineyardtownecenter.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 13:49:51"
+        },
+        {
+            "domain_name": "naturespiritsltd.com",
+            "destination": "Krystal Hosting",
+            "date": "2026-03-04 13:40:09"
+        },
         {
             "domain_name": "cravecupcakes.com",
             "destination": "Digital Ocean",
             "date": "2026-03-04 13:33:24"
+        },
+        {
+            "domain_name": "shopcanyontrails.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 13:26:03"
         },
         {
             "domain_name": "surprisetcmp.com",
@@ -485,21 +500,6 @@
             "domain_name": "trumelabs.com",
             "destination": "Hostinger",
             "date": "2026-02-28 21:32:56"
-        },
-        {
-            "domain_name": "cj-lawn-care.com",
-            "destination": "Bluehost",
-            "date": "2026-02-28 20:39:38"
-        },
-        {
-            "domain_name": "growmag.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 20:25:16"
-        },
-        {
-            "domain_name": "andywins.com",
-            "destination": "BigScoots",
-            "date": "2026-02-28 19:40:12"
         }
     ],
     "dailyMovedStat": {
@@ -1035,7 +1035,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12133,
-        "Kinsta": 8404,
+        "Kinsta": 8406,
         "Digital Ocean": 6052,
         "SiteGround": 5697,
         "Hostinger": 4670,
