@@ -1,6 +1,26 @@
 {
-    "siteCount": 123575,
+    "siteCount": 123589,
     "recentlyMoved": [
+        {
+            "domain_name": "herrmannorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 12:18:06"
+        },
+        {
+            "domain_name": "beartoothbeemers.org",
+            "destination": "DreamHost",
+            "date": "2026-03-04 12:12:47"
+        },
+        {
+            "domain_name": "rafdent.no",
+            "destination": "Hostinger",
+            "date": "2026-03-04 12:11:50"
+        },
+        {
+            "domain_name": "revivalheal.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 12:01:49"
+        },
         {
             "domain_name": "yorkshirecricketfoundation.com",
             "destination": "IONOS",
@@ -472,11 +492,6 @@
             "date": "2026-02-28 17:25:49"
         },
         {
-            "domain_name": "kitchenexpressions.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 17:00:48"
-        },
-        {
             "domain_name": "cihdesign.com",
             "destination": "GridPane",
             "date": "2026-02-28 16:49:32"
@@ -485,21 +500,6 @@
             "domain_name": "cmws.org",
             "destination": "Hostinger",
             "date": "2026-02-28 16:41:08"
-        },
-        {
-            "domain_name": "www.roadtripsforfamilies.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 16:31:22"
-        },
-        {
-            "domain_name": "www.hickmanplumbingservices.com",
-            "destination": "GridPane",
-            "date": "2026-02-28 16:13:47"
-        },
-        {
-            "domain_name": "rocketlevel.com",
-            "destination": "Digital Ocean",
-            "date": "2026-02-28 16:05:26"
         }
     ],
     "dailyMovedStat": {
@@ -1035,10 +1035,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12133,
-        "Kinsta": 8399,
+        "Kinsta": 8401,
         "Digital Ocean": 6050,
         "SiteGround": 5697,
-        "Hostinger": 4669,
+        "Hostinger": 4670,
         "Bluehost": 4490,
         "GoDaddy": 1602,
         "Liquid Web": 816,
@@ -1051,7 +1051,7 @@
         "Namecheap": 482,
         "IONOS": 454,
         "A2 Hosting": 440,
-        "DreamHost": 430,
+        "DreamHost": 431,
         "Hetzner Online": 368,
         "HostGator": 281
     },
