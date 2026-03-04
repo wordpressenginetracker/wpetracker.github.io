@@ -1,6 +1,26 @@
 {
-    "siteCount": 123719,
+    "siteCount": 123735,
     "recentlyMoved": [
+        {
+            "domain_name": "thecodelab.ie",
+            "destination": "Hostinger",
+            "date": "2026-03-04 21:09:44"
+        },
+        {
+            "domain_name": "marioscoffee.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 21:08:34"
+        },
+        {
+            "domain_name": "www.pascomachine.com",
+            "destination": "Kinsta",
+            "date": "2026-03-04 21:06:22"
+        },
+        {
+            "domain_name": "chrisdixonfilms.com",
+            "destination": "BigScoots",
+            "date": "2026-03-04 20:41:47"
+        },
         {
             "domain_name": "hellofromseattle.com",
             "destination": "Pressable",
@@ -17,9 +37,19 @@
             "date": "2026-03-04 20:18:35"
         },
         {
+            "domain_name": "jcwelding.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-04 20:13:02"
+        },
+        {
             "domain_name": "robinhanover.com",
             "destination": "Digital Ocean",
             "date": "2026-03-04 20:10:48"
+        },
+        {
+            "domain_name": "jeffreysmithart.com",
+            "destination": "Pressable",
+            "date": "2026-03-04 20:06:07"
         },
         {
             "domain_name": "premieronsiteconcrete.com",
@@ -470,36 +500,6 @@
             "domain_name": "martachacon.com",
             "destination": "Hostinger",
             "date": "2026-03-02 20:52:51"
-        },
-        {
-            "domain_name": "www.gostocklenses.com",
-            "destination": "Pressable",
-            "date": "2026-03-02 20:18:45"
-        },
-        {
-            "domain_name": "greaterpineygrove.church",
-            "destination": "DreamHost",
-            "date": "2026-03-02 20:03:49"
-        },
-        {
-            "domain_name": "harrishf.org",
-            "destination": "DreamHost",
-            "date": "2026-03-02 20:00:38"
-        },
-        {
-            "domain_name": "mowmanagers.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-02 17:38:52"
-        },
-        {
-            "domain_name": "trufitathleticclubs.com",
-            "destination": "Kinsta",
-            "date": "2026-03-02 17:17:25"
-        },
-        {
-            "domain_name": "staywandery.com",
-            "destination": "Kinsta",
-            "date": "2026-03-02 16:36:30"
         }
     ],
     "dailyMovedStat": {
@@ -1034,15 +1034,15 @@
         "2026-03-03": "123527"
     },
     "topDestinationHosts": {
-        "Pressable": 12139,
-        "Kinsta": 8422,
-        "Digital Ocean": 6058,
+        "Pressable": 12140,
+        "Kinsta": 8425,
+        "Digital Ocean": 6059,
         "SiteGround": 5697,
-        "Hostinger": 4671,
+        "Hostinger": 4672,
         "Bluehost": 4490,
         "GoDaddy": 1603,
         "Liquid Web": 817,
-        "BigScoots": 784,
+        "BigScoots": 785,
         "WordPress.com": 631,
         "GridPane": 576,
         "OVH": 567,
