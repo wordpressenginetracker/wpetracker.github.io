@@ -1,6 +1,26 @@
 {
-    "siteCount": 123959,
+    "siteCount": 123971,
     "recentlyMoved": [
+        {
+            "domain_name": "juliethall.com",
+            "destination": "DreamHost",
+            "date": "2026-03-05 21:10:33"
+        },
+        {
+            "domain_name": "www.verduzcolaw.com",
+            "destination": "WordPress.com",
+            "date": "2026-03-05 20:55:51"
+        },
+        {
+            "domain_name": "staceybroder.com",
+            "destination": "Bluehost",
+            "date": "2026-03-05 20:37:30"
+        },
+        {
+            "domain_name": "jwpracticeadvisory.com",
+            "destination": "Bluehost",
+            "date": "2026-03-05 20:15:33"
+        },
         {
             "domain_name": "regencyfictionwriters.org",
             "destination": "Pressable",
@@ -467,19 +487,9 @@
             "date": "2026-03-04 12:58:33"
         },
         {
-            "domain_name": "herrmannorthodontics.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 12:18:06"
-        },
-        {
             "domain_name": "beartoothbeemers.org",
             "destination": "DreamHost",
             "date": "2026-03-04 12:12:47"
-        },
-        {
-            "domain_name": "rafdent.no",
-            "destination": "Hostinger",
-            "date": "2026-03-04 12:11:50"
         },
         {
             "domain_name": "www.jhlincoln.com",
@@ -490,16 +500,6 @@
             "domain_name": "revivalheal.com",
             "destination": "Kinsta",
             "date": "2026-03-04 12:01:49"
-        },
-        {
-            "domain_name": "yorkshirecricketfoundation.com",
-            "destination": "IONOS",
-            "date": "2026-03-04 09:25:17"
-        },
-        {
-            "domain_name": "shop.rknexe.hr",
-            "destination": "Hetzner Online",
-            "date": "2026-03-04 08:59:19"
         }
     ],
     "dailyMovedStat": {
@@ -1040,11 +1040,11 @@
         "Digital Ocean": 6066,
         "SiteGround": 5697,
         "Hostinger": 4674,
-        "Bluehost": 4490,
+        "Bluehost": 4492,
         "GoDaddy": 1603,
         "Liquid Web": 819,
         "BigScoots": 786,
-        "WordPress.com": 632,
+        "WordPress.com": 633,
         "GridPane": 577,
         "OVH": 567,
         "InMotion Hosting": 546,
@@ -1052,7 +1052,7 @@
         "Namecheap": 482,
         "IONOS": 457,
         "A2 Hosting": 440,
-        "DreamHost": 431,
+        "DreamHost": 432,
         "Hetzner Online": 370,
         "HostGator": 283
     },
