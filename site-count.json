@@ -1,6 +1,11 @@
 {
-    "siteCount": 123779,
+    "siteCount": 123785,
     "recentlyMoved": [
+        {
+            "domain_name": "synallergy.com",
+            "destination": "HostGator",
+            "date": "2026-03-05 08:50:54"
+        },
         {
             "domain_name": "righteye.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.anidjarlevine.com",
             "destination": "Digital Ocean",
             "date": "2026-03-03 11:28:57"
-        },
-        {
-            "domain_name": "mobilhouse.dk",
-            "destination": "Digital Ocean",
-            "date": "2026-03-03 09:31:02"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12140,
-        "Kinsta": 8430,
+        "Kinsta": 8431,
         "Digital Ocean": 6059,
         "SiteGround": 5697,
         "Hostinger": 4672,
@@ -1054,7 +1054,7 @@
         "A2 Hosting": 440,
         "DreamHost": 431,
         "Hetzner Online": 369,
-        "HostGator": 282
+        "HostGator": 283
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
