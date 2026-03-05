@@ -1,6 +1,21 @@
 {
-    "siteCount": 123765,
+    "siteCount": 123779,
     "recentlyMoved": [
+        {
+            "domain_name": "righteye.com",
+            "destination": "Kinsta",
+            "date": "2026-03-05 08:39:27"
+        },
+        {
+            "domain_name": "pawsomevets.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-03-05 07:58:22"
+        },
+        {
+            "domain_name": "www.alliai.com",
+            "destination": "Kinsta",
+            "date": "2026-03-05 07:08:23"
+        },
         {
             "domain_name": "mnshamsipc.com",
             "destination": "IONOS",
@@ -485,21 +500,6 @@
             "domain_name": "mobilhouse.dk",
             "destination": "Digital Ocean",
             "date": "2026-03-03 09:31:02"
-        },
-        {
-            "domain_name": "bauernwinter.at",
-            "destination": "Hetzner Online",
-            "date": "2026-03-03 09:10:09"
-        },
-        {
-            "domain_name": "carrcarepros.com",
-            "destination": "Hostinger",
-            "date": "2026-03-03 08:57:31"
-        },
-        {
-            "domain_name": "voidstudios.uk",
-            "destination": "WordPress.com",
-            "date": "2026-03-03 05:31:39"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12140,
-        "Kinsta": 8429,
+        "Kinsta": 8430,
         "Digital Ocean": 6059,
         "SiteGround": 5697,
         "Hostinger": 4672,
@@ -1053,7 +1053,7 @@
         "IONOS": 455,
         "A2 Hosting": 440,
         "DreamHost": 431,
-        "Hetzner Online": 368,
+        "Hetzner Online": 369,
         "HostGator": 282
     },
     "dailyTotalStat": {
