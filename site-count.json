@@ -1,6 +1,11 @@
 {
-    "siteCount": 123742,
+    "siteCount": 123748,
     "recentlyMoved": [
+        {
+            "domain_name": "artbybridgette.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-04 23:35:39"
+        },
         {
             "domain_name": "my.auntminnie.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "cafirma.com",
             "destination": "Kinsta",
             "date": "2026-03-03 04:53:03"
-        },
-        {
-            "domain_name": "nyweekly.com",
-            "destination": "Hostinger",
-            "date": "2026-03-03 02:09:47"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12140,
-        "Kinsta": 8427,
+        "Kinsta": 8428,
         "Digital Ocean": 6059,
         "SiteGround": 5697,
         "Hostinger": 4672,
