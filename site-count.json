@@ -1,6 +1,16 @@
 {
-    "siteCount": 123971,
+    "siteCount": 123981,
     "recentlyMoved": [
+        {
+            "domain_name": "waggadrivesmart.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-05 22:17:41"
+        },
+        {
+            "domain_name": "diamondkid.com",
+            "destination": "Pressable",
+            "date": "2026-03-05 21:37:17"
+        },
         {
             "domain_name": "juliethall.com",
             "destination": "DreamHost",
@@ -487,19 +497,9 @@
             "date": "2026-03-04 12:58:33"
         },
         {
-            "domain_name": "beartoothbeemers.org",
-            "destination": "DreamHost",
-            "date": "2026-03-04 12:12:47"
-        },
-        {
             "domain_name": "www.jhlincoln.com",
             "destination": "Kinsta",
             "date": "2026-03-04 12:02:51"
-        },
-        {
-            "domain_name": "revivalheal.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 12:01:49"
         }
     ],
     "dailyMovedStat": {
@@ -1035,8 +1035,8 @@
         "2026-03-04": "123742"
     },
     "topDestinationHosts": {
-        "Pressable": 12163,
-        "Kinsta": 8435,
+        "Pressable": 12164,
+        "Kinsta": 8436,
         "Digital Ocean": 6066,
         "SiteGround": 5697,
         "Hostinger": 4674,
