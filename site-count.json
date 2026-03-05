@@ -1,6 +1,11 @@
 {
-    "siteCount": 123762,
+    "siteCount": 123765,
     "recentlyMoved": [
+        {
+            "domain_name": "mnshamsipc.com",
+            "destination": "IONOS",
+            "date": "2026-03-05 05:22:33"
+        },
         {
             "domain_name": "riverinahypnotherapy.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "voidstudios.uk",
             "destination": "WordPress.com",
             "date": "2026-03-03 05:31:39"
-        },
-        {
-            "domain_name": "cphlabs.dk",
-            "destination": "Digital Ocean",
-            "date": "2026-03-03 05:03:55"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
         "InMotion Hosting": 546,
         "Elementor Hosting": 504,
         "Namecheap": 482,
-        "IONOS": 454,
+        "IONOS": 455,
         "A2 Hosting": 440,
         "DreamHost": 431,
         "Hetzner Online": 368,
