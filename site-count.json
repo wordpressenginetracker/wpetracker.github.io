@@ -1,6 +1,11 @@
 {
-    "siteCount": 124154,
+    "siteCount": 124160,
     "recentlyMoved": [
+        {
+            "domain_name": "newalbanydogtrainers.com",
+            "destination": "Hostinger",
+            "date": "2026-03-06 18:21:17"
+        },
         {
             "domain_name": "magpiesnestwagga.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "synallergy.com",
             "destination": "HostGator",
             "date": "2026-03-05 08:50:54"
-        },
-        {
-            "domain_name": "righteye.com",
-            "destination": "Kinsta",
-            "date": "2026-03-05 08:39:27"
         }
     ],
     "dailyMovedStat": {
@@ -1037,10 +1037,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12173,
-        "Kinsta": 8448,
-        "Digital Ocean": 6082,
+        "Kinsta": 8449,
+        "Digital Ocean": 6083,
         "SiteGround": 5698,
-        "Hostinger": 4679,
+        "Hostinger": 4680,
         "Bluehost": 4492,
         "GoDaddy": 1603,
         "Liquid Web": 819,
