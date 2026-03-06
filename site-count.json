@@ -1,6 +1,26 @@
 {
-    "siteCount": 124056,
+    "siteCount": 124066,
     "recentlyMoved": [
+        {
+            "domain_name": "thecarbongroup.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-03-06 09:45:52"
+        },
+        {
+            "domain_name": "thefutureworksslough.com",
+            "destination": "A2 Hosting",
+            "date": "2026-03-06 09:44:29"
+        },
+        {
+            "domain_name": "madramps.com",
+            "destination": "Kinsta",
+            "date": "2026-03-06 09:16:45"
+        },
+        {
+            "domain_name": "sophiascomo.com",
+            "destination": "Kinsta",
+            "date": "2026-03-06 08:46:55"
+        },
         {
             "domain_name": "oraclewelbeckpartners.com",
             "destination": "Digital Ocean",
@@ -452,16 +472,6 @@
             "date": "2026-03-04 17:01:15"
         },
         {
-            "domain_name": "shopggtc.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 17:01:15"
-        },
-        {
-            "domain_name": "shopcrossroadstc.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 17:01:15"
-        },
-        {
             "domain_name": "www.panorama-consulting.com",
             "destination": "Pressable",
             "date": "2026-03-04 16:55:16"
@@ -490,16 +500,6 @@
             "domain_name": "joshmoodyloans.com",
             "destination": "Digital Ocean",
             "date": "2026-03-04 16:17:45"
-        },
-        {
-            "domain_name": "jesusandrose.org",
-            "destination": "Digital Ocean",
-            "date": "2026-03-04 16:09:31"
-        },
-        {
-            "domain_name": "scottsdalepromenade.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 16:06:34"
         }
     ],
     "dailyMovedStat": {
@@ -1037,7 +1037,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12166,
-        "Kinsta": 8437,
+        "Kinsta": 8439,
         "Digital Ocean": 6072,
         "SiteGround": 5698,
         "Hostinger": 4677,
