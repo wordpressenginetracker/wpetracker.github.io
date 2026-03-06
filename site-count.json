@@ -1,10 +1,15 @@
 {
-    "siteCount": 123997,
+    "siteCount": 124004,
     "recentlyMoved": [
         {
             "domain_name": "www.pokercheat8.com",
             "destination": "SiteGround",
             "date": "2026-03-06 01:20:14"
+        },
+        {
+            "domain_name": "yellowwooddressage.com",
+            "destination": "Pressable",
+            "date": "2026-03-06 01:10:38"
         },
         {
             "domain_name": "standardroofingllc.com",
@@ -495,11 +500,6 @@
             "domain_name": "naturespiritsltd.com",
             "destination": "Krystal Hosting",
             "date": "2026-03-04 13:40:09"
-        },
-        {
-            "domain_name": "shopcanyontrails.com",
-            "destination": "Kinsta",
-            "date": "2026-03-04 13:26:03"
         }
     ],
     "dailyMovedStat": {
@@ -1036,7 +1036,7 @@
         "2026-03-05": "123981"
     },
     "topDestinationHosts": {
-        "Pressable": 12164,
+        "Pressable": 12165,
         "Kinsta": 8437,
         "Digital Ocean": 6066,
         "SiteGround": 5698,
