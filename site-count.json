@@ -1,6 +1,11 @@
 {
-    "siteCount": 124456,
+    "siteCount": 124462,
     "recentlyMoved": [
+        {
+            "domain_name": "elitebaseballmd.com",
+            "destination": "Kinsta",
+            "date": "2026-03-07 22:05:04"
+        },
         {
             "domain_name": "www.tullisinc.com",
             "destination": "Pressable",
@@ -10,6 +15,11 @@
             "domain_name": "www.reddinggaragedoors.com",
             "destination": "Pressable",
             "date": "2026-03-07 21:20:47"
+        },
+        {
+            "domain_name": "eatdrinkbend.com",
+            "destination": "BigScoots",
+            "date": "2026-03-07 21:10:38"
         },
         {
             "domain_name": "www.palocedrofeed.com",
@@ -487,19 +497,9 @@
             "date": "2026-03-06 12:37:19"
         },
         {
-            "domain_name": "highmindedcannabisco.com",
-            "destination": "Kinsta",
-            "date": "2026-03-06 12:30:30"
-        },
-        {
             "domain_name": "www.lmlocomotive.com",
             "destination": "IONOS",
             "date": "2026-03-06 12:29:59"
-        },
-        {
-            "domain_name": "pridemovingdenver.com",
-            "destination": "Pressable",
-            "date": "2026-03-06 11:37:06"
         }
     ],
     "dailyMovedStat": {
@@ -1038,14 +1038,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 12185,
-        "Kinsta": 8471,
+        "Kinsta": 8472,
         "Digital Ocean": 6094,
         "SiteGround": 5698,
         "Hostinger": 4688,
         "Bluehost": 4495,
         "GoDaddy": 1605,
         "Liquid Web": 822,
-        "BigScoots": 789,
+        "BigScoots": 790,
         "WordPress.com": 635,
         "GridPane": 580,
         "OVH": 569,
