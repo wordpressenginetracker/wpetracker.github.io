@@ -1,6 +1,16 @@
 {
-    "siteCount": 124341,
+    "siteCount": 124355,
     "recentlyMoved": [
+        {
+            "domain_name": "rhphf.org",
+            "destination": "Digital Ocean",
+            "date": "2026-03-07 16:32:48"
+        },
+        {
+            "domain_name": "studentreview.hks.harvard.edu",
+            "destination": "Kinsta",
+            "date": "2026-03-07 16:09:52"
+        },
         {
             "domain_name": "vinnydphotography.com",
             "destination": "BigScoots",
@@ -490,16 +500,6 @@
             "domain_name": "www.verduzcolaw.com",
             "destination": "WordPress.com",
             "date": "2026-03-05 20:55:51"
-        },
-        {
-            "domain_name": "staceybroder.com",
-            "destination": "Bluehost",
-            "date": "2026-03-05 20:37:30"
-        },
-        {
-            "domain_name": "jwpracticeadvisory.com",
-            "destination": "Bluehost",
-            "date": "2026-03-05 20:15:33"
         }
     ],
     "dailyMovedStat": {
@@ -1038,7 +1038,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12175,
-        "Kinsta": 8463,
+        "Kinsta": 8464,
         "Digital Ocean": 6090,
         "SiteGround": 5698,
         "Hostinger": 4681,
