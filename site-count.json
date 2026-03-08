@@ -1,6 +1,11 @@
 {
-    "siteCount": 124548,
+    "siteCount": 124554,
     "recentlyMoved": [
+        {
+            "domain_name": "shandeez.com",
+            "destination": "GoDaddy",
+            "date": "2026-03-08 21:05:30"
+        },
         {
             "domain_name": "thedesignavenue.net",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "bosonacortho.com",
             "destination": "Kinsta",
             "date": "2026-03-06 16:01:36"
-        },
-        {
-            "domain_name": "parkplacefinance.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-06 15:14:07"
         }
     ],
     "dailyMovedStat": {
@@ -1044,7 +1044,7 @@
         "SiteGround": 5698,
         "Hostinger": 4692,
         "Bluehost": 4495,
-        "GoDaddy": 1605,
+        "GoDaddy": 1606,
         "Liquid Web": 822,
         "BigScoots": 790,
         "WordPress.com": 635,
