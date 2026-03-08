@@ -1,6 +1,11 @@
 {
-    "siteCount": 124503,
+    "siteCount": 124511,
     "recentlyMoved": [
+        {
+            "domain_name": "solsidenstavern.no",
+            "destination": "Hostinger",
+            "date": "2026-03-08 12:31:46"
+        },
         {
             "domain_name": "brightviewhealthjobs.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "parkplacefinance.com",
             "destination": "Digital Ocean",
             "date": "2026-03-06 15:14:07"
-        },
-        {
-            "domain_name": "vendormanagementappreciationday.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-06 13:44:27"
         }
     ],
     "dailyMovedStat": {
@@ -1042,7 +1042,7 @@
         "Kinsta": 8480,
         "Digital Ocean": 6096,
         "SiteGround": 5698,
-        "Hostinger": 4690,
+        "Hostinger": 4691,
         "Bluehost": 4495,
         "GoDaddy": 1605,
         "Liquid Web": 822,
