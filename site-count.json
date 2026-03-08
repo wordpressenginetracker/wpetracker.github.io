@@ -1,6 +1,16 @@
 {
-    "siteCount": 124462,
+    "siteCount": 124468,
     "recentlyMoved": [
+        {
+            "domain_name": "holycomm.org",
+            "destination": "Kinsta",
+            "date": "2026-03-08 00:27:58"
+        },
+        {
+            "domain_name": "www.fortunegreen.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-08 00:11:31"
+        },
         {
             "domain_name": "elitebaseballmd.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.scienceandmedicinegroup.com",
             "destination": "Kinsta",
             "date": "2026-03-06 12:38:01"
-        },
-        {
-            "domain_name": "www.gbsm.com",
-            "destination": "Kinsta",
-            "date": "2026-03-06 12:37:19"
-        },
-        {
-            "domain_name": "www.lmlocomotive.com",
-            "destination": "IONOS",
-            "date": "2026-03-06 12:29:59"
         }
     ],
     "dailyMovedStat": {
@@ -1039,7 +1039,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12185,
-        "Kinsta": 8472,
+        "Kinsta": 8474,
         "Digital Ocean": 6094,
         "SiteGround": 5698,
         "Hostinger": 4688,
