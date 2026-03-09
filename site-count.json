@@ -1,6 +1,11 @@
 {
-    "siteCount": 124673,
+    "siteCount": 124679,
     "recentlyMoved": [
+        {
+            "domain_name": "slrvstorage.com",
+            "destination": "HostGator",
+            "date": "2026-03-09 20:25:48"
+        },
         {
             "domain_name": "thedouglaslee.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rosalux.nyc",
             "destination": "Kinsta",
             "date": "2026-03-06 19:58:46"
-        },
-        {
-            "domain_name": "www.thespermbankofca.org",
-            "destination": "Kinsta",
-            "date": "2026-03-06 19:40:15"
         }
     ],
     "dailyMovedStat": {
@@ -1058,7 +1058,7 @@
         "A2 Hosting": 441,
         "DreamHost": 433,
         "Hetzner Online": 374,
-        "HostGator": 284
+        "HostGator": 285
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
