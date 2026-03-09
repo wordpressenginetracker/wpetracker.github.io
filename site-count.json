@@ -1,6 +1,11 @@
 {
-    "siteCount": 124556,
+    "siteCount": 124568,
     "recentlyMoved": [
+        {
+            "domain_name": "acomplistech.com",
+            "destination": "Hostinger",
+            "date": "2026-03-08 23:29:01"
+        },
         {
             "domain_name": "shandeez.com",
             "destination": "GoDaddy",
@@ -485,11 +490,6 @@
             "domain_name": "www.ccicom.com",
             "destination": "Pressable",
             "date": "2026-03-06 16:10:24"
-        },
-        {
-            "domain_name": "arch-fab.com",
-            "destination": "Kinsta",
-            "date": "2026-03-06 16:05:53"
         },
         {
             "domain_name": "www.kratisinow.gr",
@@ -1043,7 +1043,7 @@
         "Kinsta": 8480,
         "Digital Ocean": 6096,
         "SiteGround": 5698,
-        "Hostinger": 4692,
+        "Hostinger": 4693,
         "Bluehost": 4495,
         "GoDaddy": 1606,
         "Liquid Web": 822,
