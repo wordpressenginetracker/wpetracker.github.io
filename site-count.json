@@ -1,6 +1,11 @@
 {
-    "siteCount": 124589,
+    "siteCount": 124591,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theresaamato.com",
+            "destination": "GoDaddy",
+            "date": "2026-03-09 04:55:41"
+        },
         {
             "domain_name": "thehighroadmanufacturing.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "www.kratisinow.gr",
             "destination": "Hetzner Online",
             "date": "2026-03-06 16:02:13"
-        },
-        {
-            "domain_name": "bosonacortho.com",
-            "destination": "Kinsta",
-            "date": "2026-03-06 16:01:36"
         }
     ],
     "dailyMovedStat": {
