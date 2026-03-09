@@ -1,6 +1,16 @@
 {
-    "siteCount": 124598,
+    "siteCount": 124602,
     "recentlyMoved": [
+        {
+            "domain_name": "southernskeptic.com",
+            "destination": "Kinsta",
+            "date": "2026-03-09 09:15:20"
+        },
+        {
+            "domain_name": "builderssiding.com",
+            "destination": "Hetzner Online",
+            "date": "2026-03-09 08:53:42"
+        },
         {
             "domain_name": "www.theresaamato.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "magpiesnestwagga.com",
             "destination": "Kinsta",
             "date": "2026-03-06 17:27:29"
-        },
-        {
-            "domain_name": "culliganhhi.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-06 17:11:33"
-        },
-        {
-            "domain_name": "www.kratisinow.gr",
-            "destination": "Hetzner Online",
-            "date": "2026-03-06 16:02:13"
         }
     ],
     "dailyMovedStat": {
@@ -1040,7 +1040,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12186,
-        "Kinsta": 8480,
+        "Kinsta": 8481,
         "Digital Ocean": 6097,
         "SiteGround": 5698,
         "Hostinger": 4694,
@@ -1057,7 +1057,7 @@
         "IONOS": 459,
         "A2 Hosting": 441,
         "DreamHost": 433,
-        "Hetzner Online": 373,
+        "Hetzner Online": 374,
         "HostGator": 284
     },
     "dailyTotalStat": {
