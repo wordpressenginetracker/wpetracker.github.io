@@ -1,6 +1,11 @@
 {
-    "siteCount": 124602,
+    "siteCount": 124604,
     "recentlyMoved": [
+        {
+            "domain_name": "zornesmarketing.com",
+            "destination": "Kinsta",
+            "date": "2026-03-09 09:21:49"
+        },
         {
             "domain_name": "southernskeptic.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "newalbanydogtrainers.com",
             "destination": "Hostinger",
             "date": "2026-03-06 18:21:17"
-        },
-        {
-            "domain_name": "magpiesnestwagga.com",
-            "destination": "Kinsta",
-            "date": "2026-03-06 17:27:29"
         }
     ],
     "dailyMovedStat": {
@@ -1040,7 +1040,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12186,
-        "Kinsta": 8481,
+        "Kinsta": 8482,
         "Digital Ocean": 6097,
         "SiteGround": 5698,
         "Hostinger": 4694,
