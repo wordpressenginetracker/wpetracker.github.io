@@ -1,6 +1,11 @@
 {
-    "siteCount": 124813,
+    "siteCount": 124820,
     "recentlyMoved": [
+        {
+            "domain_name": "dianeviola.com",
+            "destination": "Kinsta",
+            "date": "2026-03-10 17:49:10"
+        },
         {
             "domain_name": "mamzelle-k.com",
             "destination": "OVH",
@@ -490,11 +495,6 @@
             "domain_name": "drsiggie.com",
             "destination": "Kinsta",
             "date": "2026-03-07 17:47:21"
-        },
-        {
-            "domain_name": "www.sundialdesign.com",
-            "destination": "Pressable",
-            "date": "2026-03-07 17:13:49"
         },
         {
             "domain_name": "mirarinne.co",
@@ -1040,11 +1040,11 @@
         "2026-03-09": "124681"
     },
     "topDestinationHosts": {
-        "Pressable": 12195,
-        "Kinsta": 8498,
+        "Pressable": 12196,
+        "Kinsta": 8499,
         "Digital Ocean": 6105,
         "SiteGround": 5698,
-        "Hostinger": 4699,
+        "Hostinger": 4700,
         "Bluehost": 4495,
         "GoDaddy": 1607,
         "Liquid Web": 823,
