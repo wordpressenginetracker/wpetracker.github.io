@@ -1,6 +1,21 @@
 {
-    "siteCount": 124920,
+    "siteCount": 124925,
     "recentlyMoved": [
+        {
+            "domain_name": "debtlaw.ca",
+            "destination": "Hostinger",
+            "date": "2026-03-11 05:02:35"
+        },
+        {
+            "domain_name": "www.neilhopley.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-11 04:24:07"
+        },
+        {
+            "domain_name": "www.kalamundachamber.com",
+            "destination": "Kinsta",
+            "date": "2026-03-11 04:06:43"
+        },
         {
             "domain_name": "patriotchassis.com",
             "destination": "Hetzner Online",
@@ -485,21 +500,6 @@
             "domain_name": "www.terrarosahaven.com.au",
             "destination": "Kinsta",
             "date": "2026-03-08 00:47:04"
-        },
-        {
-            "domain_name": "carolinelord.com",
-            "destination": "Kinsta",
-            "date": "2026-03-08 00:42:07"
-        },
-        {
-            "domain_name": "carolinawrecking.com",
-            "destination": "Kinsta",
-            "date": "2026-03-08 00:42:07"
-        },
-        {
-            "domain_name": "www.fortunegreen.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-08 00:11:31"
         }
     ],
     "dailyMovedStat": {
@@ -1042,10 +1042,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12199,
-        "Kinsta": 8516,
+        "Kinsta": 8518,
         "Digital Ocean": 6108,
         "SiteGround": 5698,
-        "Hostinger": 4701,
+        "Hostinger": 4702,
         "Bluehost": 4495,
         "GoDaddy": 1607,
         "Liquid Web": 823,
