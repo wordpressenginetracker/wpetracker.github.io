@@ -1,6 +1,11 @@
 {
-    "siteCount": 124912,
+    "siteCount": 124920,
     "recentlyMoved": [
+        {
+            "domain_name": "patriotchassis.com",
+            "destination": "Hetzner Online",
+            "date": "2026-03-11 03:59:11"
+        },
         {
             "domain_name": "mauiopenstudios.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "carolinawrecking.com",
             "destination": "Kinsta",
             "date": "2026-03-08 00:42:07"
-        },
-        {
-            "domain_name": "holycomm.org",
-            "destination": "Kinsta",
-            "date": "2026-03-08 00:27:58"
         },
         {
             "domain_name": "www.fortunegreen.com.au",
@@ -1059,7 +1059,7 @@
         "IONOS": 461,
         "A2 Hosting": 442,
         "DreamHost": 434,
-        "Hetzner Online": 374,
+        "Hetzner Online": 375,
         "HostGator": 286
     },
     "dailyTotalStat": {
