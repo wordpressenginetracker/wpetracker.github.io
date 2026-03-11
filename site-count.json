@@ -1,6 +1,21 @@
 {
-    "siteCount": 124892,
+    "siteCount": 124903,
     "recentlyMoved": [
+        {
+            "domain_name": "www.desborough.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-11 00:24:09"
+        },
+        {
+            "domain_name": "www.daacs.org",
+            "destination": "Kinsta",
+            "date": "2026-03-10 23:56:14"
+        },
+        {
+            "domain_name": "www.chaylataylor.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-10 23:55:07"
+        },
         {
             "domain_name": "warontherocks.com",
             "destination": "Kinsta",
@@ -472,24 +487,9 @@
             "date": "2026-03-07 21:34:01"
         },
         {
-            "domain_name": "www.reddinggaragedoors.com",
-            "destination": "Pressable",
-            "date": "2026-03-07 21:20:47"
-        },
-        {
             "domain_name": "eatdrinkbend.com",
             "destination": "BigScoots",
             "date": "2026-03-07 21:10:38"
-        },
-        {
-            "domain_name": "columbiahypnosis.com",
-            "destination": "Kinsta",
-            "date": "2026-03-07 20:52:36"
-        },
-        {
-            "domain_name": "columbiagastro.com",
-            "destination": "Kinsta",
-            "date": "2026-03-07 20:52:36"
         },
         {
             "domain_name": "luminate.coop",
@@ -1042,7 +1042,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12199,
-        "Kinsta": 8508,
+        "Kinsta": 8511,
         "Digital Ocean": 6108,
         "SiteGround": 5698,
         "Hostinger": 4701,
