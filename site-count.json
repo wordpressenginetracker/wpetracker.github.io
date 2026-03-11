@@ -1,6 +1,11 @@
 {
-    "siteCount": 124925,
+    "siteCount": 124930,
     "recentlyMoved": [
+        {
+            "domain_name": "bubbles-bites.nl",
+            "destination": "Hetzner Online",
+            "date": "2026-03-11 05:51:06"
+        },
         {
             "domain_name": "debtlaw.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "tryonfamilydentistry.com",
             "destination": "Digital Ocean",
             "date": "2026-03-08 01:16:09"
-        },
-        {
-            "domain_name": "www.terrarosahaven.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-08 00:47:04"
         }
     ],
     "dailyMovedStat": {
@@ -1059,7 +1059,7 @@
         "IONOS": 461,
         "A2 Hosting": 442,
         "DreamHost": 434,
-        "Hetzner Online": 375,
+        "Hetzner Online": 376,
         "HostGator": 286
     },
     "dailyTotalStat": {
