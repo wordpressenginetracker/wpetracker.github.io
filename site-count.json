@@ -1,6 +1,11 @@
 {
-    "siteCount": 125109,
+    "siteCount": 125117,
     "recentlyMoved": [
+        {
+            "domain_name": "radius25.dk",
+            "destination": "Hetzner Online",
+            "date": "2026-03-12 00:15:25"
+        },
         {
             "domain_name": "ohioroofingsolutions.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "vanessajoyphotographyblog.com",
             "destination": "Hostinger",
             "date": "2026-03-10 10:15:03"
-        },
-        {
-            "domain_name": "elsprepaid.com",
-            "destination": "Kinsta",
-            "date": "2026-03-10 10:08:05"
         }
     ],
     "dailyMovedStat": {
@@ -1043,7 +1043,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12210,
-        "Kinsta": 8528,
+        "Kinsta": 8529,
         "Digital Ocean": 6112,
         "SiteGround": 5698,
         "Hostinger": 4707,
@@ -1060,7 +1060,7 @@
         "IONOS": 461,
         "A2 Hosting": 443,
         "DreamHost": 434,
-        "Hetzner Online": 376,
+        "Hetzner Online": 377,
         "HostGator": 286
     },
     "dailyTotalStat": {
