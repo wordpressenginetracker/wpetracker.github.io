@@ -1,6 +1,16 @@
 {
-    "siteCount": 125145,
+    "siteCount": 125155,
     "recentlyMoved": [
+        {
+            "domain_name": "www.caribjournal.com",
+            "destination": "Kinsta",
+            "date": "2026-03-12 07:54:22"
+        },
+        {
+            "domain_name": "parklandssurgery.nhs.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-03-12 07:50:46"
+        },
         {
             "domain_name": "motivecivil.com.au",
             "destination": "Digital Ocean",
@@ -487,18 +497,8 @@
             "date": "2026-03-10 13:20:02"
         },
         {
-            "domain_name": "the48group.com",
-            "destination": "Liquid Web",
-            "date": "2026-03-10 13:18:53"
-        },
-        {
             "domain_name": "dbscript.com",
             "destination": "Kinsta",
-            "date": "2026-03-10 12:47:34"
-        },
-        {
-            "domain_name": "davisseasonal.com",
-            "destination": "WordPress.com",
             "date": "2026-03-10 12:47:34"
         }
     ],
@@ -1043,8 +1043,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12212,
-        "Kinsta": 8533,
-        "Digital Ocean": 6114,
+        "Kinsta": 8534,
+        "Digital Ocean": 6115,
         "SiteGround": 5698,
         "Hostinger": 4707,
         "Bluehost": 4496,
