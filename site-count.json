@@ -1,6 +1,21 @@
 {
-    "siteCount": 125224,
+    "siteCount": 125229,
     "recentlyMoved": [
+        {
+            "domain_name": "eatonplumbing.com",
+            "destination": "Pressable",
+            "date": "2026-03-12 13:58:20"
+        },
+        {
+            "domain_name": "mybeachrentals.com",
+            "destination": "Kinsta",
+            "date": "2026-03-12 13:29:26"
+        },
+        {
+            "domain_name": "nelasante.com",
+            "destination": "GoDaddy",
+            "date": "2026-03-12 13:27:40"
+        },
         {
             "domain_name": "www.ohiofarmlaw.com",
             "destination": "Pressable",
@@ -472,11 +487,6 @@
             "date": "2026-03-10 21:44:01"
         },
         {
-            "domain_name": "www.shermandunn.com",
-            "destination": "Kinsta",
-            "date": "2026-03-10 21:17:11"
-        },
-        {
             "domain_name": "tiffwilson.com",
             "destination": "Pressable",
             "date": "2026-03-10 21:13:53"
@@ -490,16 +500,6 @@
             "domain_name": "sunnysidemedicare.com",
             "destination": "Elementor Hosting",
             "date": "2026-03-10 21:00:13"
-        },
-        {
-            "domain_name": "cep-gymnastique.com",
-            "destination": "OVH",
-            "date": "2026-03-10 20:49:13"
-        },
-        {
-            "domain_name": "sralawfirm.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-10 20:42:06"
         }
     ],
     "dailyMovedStat": {
@@ -1042,13 +1042,13 @@
         "2026-03-11": "125109"
     },
     "topDestinationHosts": {
-        "Pressable": 12224,
-        "Kinsta": 8535,
+        "Pressable": 12225,
+        "Kinsta": 8536,
         "Digital Ocean": 6118,
         "SiteGround": 5699,
         "Hostinger": 4708,
         "Bluehost": 4496,
-        "GoDaddy": 1610,
+        "GoDaddy": 1611,
         "Liquid Web": 825,
         "BigScoots": 794,
         "WordPress.com": 641,
