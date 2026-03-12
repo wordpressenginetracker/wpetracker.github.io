@@ -1,6 +1,36 @@
 {
-    "siteCount": 125273,
+    "siteCount": 125323,
     "recentlyMoved": [
+        {
+            "domain_name": "betterbodymemphis.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-12 20:24:26"
+        },
+        {
+            "domain_name": "hen-dev.com",
+            "destination": "Pressable",
+            "date": "2026-03-12 20:19:04"
+        },
+        {
+            "domain_name": "www.advancedphysicalmedicinecenter.com",
+            "destination": "Hostinger",
+            "date": "2026-03-12 20:06:41"
+        },
+        {
+            "domain_name": "www.drleanateston.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-03-12 20:02:55"
+        },
+        {
+            "domain_name": "hafezlaw.com",
+            "destination": "Pressable",
+            "date": "2026-03-12 19:52:39"
+        },
+        {
+            "domain_name": "www.convergint.com",
+            "destination": "Kinsta",
+            "date": "2026-03-12 19:50:13"
+        },
         {
             "domain_name": "nationwideimaging.com",
             "destination": "Kinsta",
@@ -470,36 +500,6 @@
             "domain_name": "bubbles-bites.nl",
             "destination": "Hetzner Online",
             "date": "2026-03-11 05:51:06"
-        },
-        {
-            "domain_name": "debtlaw.ca",
-            "destination": "Hostinger",
-            "date": "2026-03-11 05:02:35"
-        },
-        {
-            "domain_name": "www.neilhopley.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-11 04:24:07"
-        },
-        {
-            "domain_name": "www.kalamundachamber.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 04:06:43"
-        },
-        {
-            "domain_name": "patriotchassis.com",
-            "destination": "Hetzner Online",
-            "date": "2026-03-11 03:59:11"
-        },
-        {
-            "domain_name": "mauiopenstudios.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 01:32:02"
-        },
-        {
-            "domain_name": "zigzagcommunityarts.org.au",
-            "destination": "Kinsta",
-            "date": "2026-03-11 01:01:15"
         }
     ],
     "dailyMovedStat": {
@@ -1042,11 +1042,11 @@
         "2026-03-11": "125109"
     },
     "topDestinationHosts": {
-        "Pressable": 12228,
-        "Kinsta": 8541,
-        "Digital Ocean": 6119,
+        "Pressable": 12230,
+        "Kinsta": 8542,
+        "Digital Ocean": 6122,
         "SiteGround": 5699,
-        "Hostinger": 4709,
+        "Hostinger": 4710,
         "Bluehost": 4496,
         "GoDaddy": 1612,
         "Liquid Web": 825,
@@ -1058,8 +1058,8 @@
         "Elementor Hosting": 505,
         "Namecheap": 484,
         "IONOS": 461,
-        "A2 Hosting": 443,
-        "DreamHost": 434,
+        "A2 Hosting": 444,
+        "DreamHost": 435,
         "Hetzner Online": 380,
         "HostGator": 286
     },
