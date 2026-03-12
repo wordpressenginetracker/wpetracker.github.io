@@ -1,6 +1,16 @@
 {
-    "siteCount": 125267,
+    "siteCount": 125273,
     "recentlyMoved": [
+        {
+            "domain_name": "nationwideimaging.com",
+            "destination": "Kinsta",
+            "date": "2026-03-12 17:48:21"
+        },
+        {
+            "domain_name": "tomorrowmoney.co",
+            "destination": "Kinsta",
+            "date": "2026-03-12 17:33:18"
+        },
         {
             "domain_name": "cultureandmoney.com.au",
             "destination": "Kinsta",
@@ -10,6 +20,11 @@
             "domain_name": "cred-eg.com",
             "destination": "Pressable",
             "date": "2026-03-12 17:19:24"
+        },
+        {
+            "domain_name": "midlandjc.com",
+            "destination": "Kinsta",
+            "date": "2026-03-12 17:12:07"
         },
         {
             "domain_name": "d3studio.com",
@@ -485,21 +500,6 @@
             "domain_name": "zigzagcommunityarts.org.au",
             "destination": "Kinsta",
             "date": "2026-03-11 01:01:15"
-        },
-        {
-            "domain_name": "www.kalamundanightmarket.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-11 00:29:54"
-        },
-        {
-            "domain_name": "www.nowbusinessmastery.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 00:19:40"
-        },
-        {
-            "domain_name": "www.kcr-fm.org.au",
-            "destination": "Kinsta",
-            "date": "2026-03-11 00:05:40"
         }
     ],
     "dailyMovedStat": {
@@ -1043,7 +1043,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12228,
-        "Kinsta": 8538,
+        "Kinsta": 8541,
         "Digital Ocean": 6119,
         "SiteGround": 5699,
         "Hostinger": 4709,
