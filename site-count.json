@@ -1,6 +1,21 @@
 {
-    "siteCount": 125512,
+    "siteCount": 125560,
     "recentlyMoved": [
+        {
+            "domain_name": "hughes-realestate.com",
+            "destination": "DreamHost",
+            "date": "2026-03-13 19:49:49"
+        },
+        {
+            "domain_name": "fuelforward.ca",
+            "destination": "Kinsta",
+            "date": "2026-03-13 19:48:52"
+        },
+        {
+            "domain_name": "riverinaorthopaedics.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-13 19:48:34"
+        },
         {
             "domain_name": "drgsvet.com",
             "destination": "GridPane",
@@ -485,21 +500,6 @@
             "domain_name": "radius25.dk",
             "destination": "Hetzner Online",
             "date": "2026-03-12 00:15:25"
-        },
-        {
-            "domain_name": "ohioroofingsolutions.com",
-            "destination": "GoDaddy",
-            "date": "2026-03-11 22:14:25"
-        },
-        {
-            "domain_name": "melaniehaledietitian.com",
-            "destination": "Hostinger",
-            "date": "2026-03-11 21:32:51"
-        },
-        {
-            "domain_name": "www.txprosthetics.com",
-            "destination": "Pressable",
-            "date": "2026-03-11 21:25:58"
         }
     ],
     "dailyMovedStat": {
@@ -1044,13 +1044,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 12235,
-        "Kinsta": 8548,
+        "Kinsta": 8551,
         "Digital Ocean": 6132,
         "SiteGround": 5700,
         "Hostinger": 4715,
         "Bluehost": 4496,
-        "GoDaddy": 1615,
-        "Liquid Web": 826,
+        "GoDaddy": 1616,
+        "Liquid Web": 828,
         "BigScoots": 796,
         "WordPress.com": 643,
         "GridPane": 586,
@@ -1060,7 +1060,7 @@
         "Namecheap": 485,
         "IONOS": 461,
         "A2 Hosting": 445,
-        "DreamHost": 435,
+        "DreamHost": 437,
         "Hetzner Online": 382,
         "HostGator": 287
     },
