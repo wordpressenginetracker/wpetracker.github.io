@@ -1,6 +1,11 @@
 {
-    "siteCount": 125356,
+    "siteCount": 125374,
     "recentlyMoved": [
+        {
+            "domain_name": "juneecommunitycentre.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-13 01:02:33"
+        },
         {
             "domain_name": "hawaiileewardplanning.org",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "luxdestination.net",
             "destination": "Hostinger",
             "date": "2026-03-11 12:51:48"
-        },
-        {
-            "domain_name": "www.shingletechllc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-11 12:46:59"
         }
     ],
     "dailyMovedStat": {
@@ -1043,8 +1043,8 @@
         "2026-03-12": "125342"
     },
     "topDestinationHosts": {
-        "Pressable": 12231,
-        "Kinsta": 8543,
+        "Pressable": 12232,
+        "Kinsta": 8544,
         "Digital Ocean": 6124,
         "SiteGround": 5699,
         "Hostinger": 4711,
@@ -1053,7 +1053,7 @@
         "Liquid Web": 825,
         "BigScoots": 795,
         "WordPress.com": 642,
-        "GridPane": 584,
+        "GridPane": 585,
         "OVH": 574,
         "InMotion Hosting": 548,
         "Elementor Hosting": 505,
