@@ -1,6 +1,21 @@
 {
-    "siteCount": 125437,
+    "siteCount": 125456,
     "recentlyMoved": [
+        {
+            "domain_name": "authenticx.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-13 11:54:32"
+        },
+        {
+            "domain_name": "riverinaendovascular.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-13 11:50:51"
+        },
+        {
+            "domain_name": "absolutefloorsandmore.com",
+            "destination": "Namecheap",
+            "date": "2026-03-13 11:26:15"
+        },
         {
             "domain_name": "news.mikecallicrate.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "companioncarekc.com",
             "destination": "GridPane",
             "date": "2026-03-11 16:35:45"
-        },
-        {
-            "domain_name": "bioinfoinc.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 16:12:31"
-        },
-        {
-            "domain_name": "imvinfo.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 15:59:47"
-        },
-        {
-            "domain_name": "ilovettdesign.com",
-            "destination": "Hostinger",
-            "date": "2026-03-11 15:52:17"
         }
     ],
     "dailyMovedStat": {
@@ -1043,9 +1043,9 @@
         "2026-03-12": "125342"
     },
     "topDestinationHosts": {
-        "Pressable": 12233,
-        "Kinsta": 8546,
-        "Digital Ocean": 6128,
+        "Pressable": 12234,
+        "Kinsta": 8547,
+        "Digital Ocean": 6129,
         "SiteGround": 5699,
         "Hostinger": 4713,
         "Bluehost": 4496,
@@ -1057,7 +1057,7 @@
         "OVH": 574,
         "InMotion Hosting": 548,
         "Elementor Hosting": 505,
-        "Namecheap": 484,
+        "Namecheap": 485,
         "IONOS": 461,
         "A2 Hosting": 444,
         "DreamHost": 435,
