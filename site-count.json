@@ -1,6 +1,16 @@
 {
-    "siteCount": 125404,
+    "siteCount": 125410,
     "recentlyMoved": [
+        {
+            "domain_name": "mybusinessdream.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-13 05:52:49"
+        },
+        {
+            "domain_name": "naismithvets.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-03-13 05:50:04"
+        },
         {
             "domain_name": "citadelrealty.in",
             "destination": "Hetzner Online",
@@ -487,17 +497,7 @@
             "date": "2026-03-11 15:20:58"
         },
         {
-            "domain_name": "marketingdigital.university",
-            "destination": "Hostinger",
-            "date": "2026-03-11 13:17:29"
-        },
-        {
             "domain_name": "improvementgallery.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-11 13:16:57"
-        },
-        {
-            "domain_name": "artisanstonegallery.com",
             "destination": "Digital Ocean",
             "date": "2026-03-11 13:16:57"
         }
@@ -1044,7 +1044,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12232,
-        "Kinsta": 8545,
+        "Kinsta": 8546,
         "Digital Ocean": 6125,
         "SiteGround": 5699,
         "Hostinger": 4711,
@@ -1061,7 +1061,7 @@
         "IONOS": 461,
         "A2 Hosting": 444,
         "DreamHost": 435,
-        "Hetzner Online": 381,
+        "Hetzner Online": 382,
         "HostGator": 287
     },
     "dailyTotalStat": {
