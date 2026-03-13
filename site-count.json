@@ -1,6 +1,21 @@
 {
-    "siteCount": 125476,
+    "siteCount": 125488,
     "recentlyMoved": [
+        {
+            "domain_name": "radianthomes.co",
+            "destination": "GoDaddy",
+            "date": "2026-03-13 16:28:42"
+        },
+        {
+            "domain_name": "rethinkability.ca",
+            "destination": "Liquid Web",
+            "date": "2026-03-13 16:20:17"
+        },
+        {
+            "domain_name": "planetofthepaul.com",
+            "destination": "Hostinger",
+            "date": "2026-03-13 16:13:17"
+        },
         {
             "domain_name": "trendliving.ca",
             "destination": "OVH",
@@ -485,21 +500,6 @@
             "domain_name": "northlandfdn.org",
             "destination": "Kinsta",
             "date": "2026-03-11 17:37:19"
-        },
-        {
-            "domain_name": "libertystl.com",
-            "destination": "Kinsta",
-            "date": "2026-03-11 17:31:08"
-        },
-        {
-            "domain_name": "www.westcoasttraveller.com",
-            "destination": "WordPress VIP",
-            "date": "2026-03-11 16:54:01"
-        },
-        {
-            "domain_name": "companioncarekc.com",
-            "destination": "GridPane",
-            "date": "2026-03-11 16:35:45"
         }
     ],
     "dailyMovedStat": {
@@ -1047,10 +1047,10 @@
         "Kinsta": 8548,
         "Digital Ocean": 6130,
         "SiteGround": 5700,
-        "Hostinger": 4713,
+        "Hostinger": 4714,
         "Bluehost": 4496,
-        "GoDaddy": 1613,
-        "Liquid Web": 825,
+        "GoDaddy": 1614,
+        "Liquid Web": 826,
         "BigScoots": 795,
         "WordPress.com": 643,
         "GridPane": 585,
