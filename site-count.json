@@ -1,6 +1,11 @@
 {
-    "siteCount": 125395,
+    "siteCount": 125404,
     "recentlyMoved": [
+        {
+            "domain_name": "citadelrealty.in",
+            "destination": "Hetzner Online",
+            "date": "2026-03-13 05:14:41"
+        },
         {
             "domain_name": "nobull.mikecallicrate.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "artisanstonegallery.com",
             "destination": "Digital Ocean",
             "date": "2026-03-11 13:16:57"
-        },
-        {
-            "domain_name": "luxdestination.net",
-            "destination": "Hostinger",
-            "date": "2026-03-11 12:51:48"
         }
     ],
     "dailyMovedStat": {
@@ -1061,7 +1061,7 @@
         "IONOS": 461,
         "A2 Hosting": 444,
         "DreamHost": 435,
-        "Hetzner Online": 380,
+        "Hetzner Online": 381,
         "HostGator": 287
     },
     "dailyTotalStat": {
