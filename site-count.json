@@ -1,6 +1,16 @@
 {
-    "siteCount": 125684,
+    "siteCount": 125690,
     "recentlyMoved": [
+        {
+            "domain_name": "norfolkdevelopment.com",
+            "destination": "Kinsta",
+            "date": "2026-03-14 13:32:36"
+        },
+        {
+            "domain_name": "ducksteinrestoration.com",
+            "destination": "Pressable",
+            "date": "2026-03-14 13:30:32"
+        },
         {
             "domain_name": "itonline.no",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "www.mygenefood.com",
             "destination": "BigScoots",
             "date": "2026-03-12 16:37:54"
-        },
-        {
-            "domain_name": "www.cpareddingca.com",
-            "destination": "Pressable",
-            "date": "2026-03-12 16:04:59"
-        },
-        {
-            "domain_name": "alumination-ap.com",
-            "destination": "Kinsta",
-            "date": "2026-03-12 15:50:22"
         }
     ],
     "dailyMovedStat": {
@@ -1044,8 +1044,8 @@
         "2026-03-13": "125578"
     },
     "topDestinationHosts": {
-        "Pressable": 12242,
-        "Kinsta": 8561,
+        "Pressable": 12243,
+        "Kinsta": 8562,
         "Digital Ocean": 6142,
         "SiteGround": 5700,
         "Hostinger": 4720,
