@@ -1,6 +1,11 @@
 {
-    "siteCount": 125901,
+    "siteCount": 125905,
     "recentlyMoved": [
+        {
+            "domain_name": "drmonicatadros.com",
+            "destination": "Kinsta",
+            "date": "2026-03-15 21:31:09"
+        },
         {
             "domain_name": "crmexpert.io",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "absolutefloorsandmore.com",
             "destination": "Namecheap",
             "date": "2026-03-13 11:26:15"
-        },
-        {
-            "domain_name": "vonmeppen.net",
-            "destination": "Hostinger",
-            "date": "2026-03-13 09:57:42"
         }
     ],
     "dailyMovedStat": {
@@ -1046,7 +1046,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12254,
-        "Kinsta": 8571,
+        "Kinsta": 8572,
         "Digital Ocean": 6147,
         "SiteGround": 5700,
         "Hostinger": 4725,
