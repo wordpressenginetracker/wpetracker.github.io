@@ -1,6 +1,11 @@
 {
-    "siteCount": 125828,
+    "siteCount": 125843,
     "recentlyMoved": [
+        {
+            "domain_name": "www.aheadbenefits.com",
+            "destination": "Bluehost",
+            "date": "2026-03-15 03:40:05"
+        },
         {
             "domain_name": "torontoskishow.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "1on1implantology.com",
             "destination": "GoDaddy",
             "date": "2026-03-13 07:16:57"
-        },
-        {
-            "domain_name": "naismithvets.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-03-13 05:50:04"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
         "Digital Ocean": 6145,
         "SiteGround": 5700,
         "Hostinger": 4722,
-        "Bluehost": 4496,
+        "Bluehost": 4497,
         "GoDaddy": 1617,
         "Liquid Web": 828,
         "BigScoots": 797,
