@@ -1,6 +1,16 @@
 {
-    "siteCount": 125822,
+    "siteCount": 125828,
     "recentlyMoved": [
+        {
+            "domain_name": "torontoskishow.ca",
+            "destination": "Kinsta",
+            "date": "2026-03-15 01:49:10"
+        },
+        {
+            "domain_name": "oklahomahousingfoundation.com",
+            "destination": "Hostinger",
+            "date": "2026-03-15 01:39:03"
+        },
         {
             "domain_name": "foxwoodmusicstudio.com",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2026-03-13 07:16:57"
         },
         {
-            "domain_name": "mybusinessdream.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-13 05:52:49"
-        },
-        {
             "domain_name": "naismithvets.co.uk",
             "destination": "Hetzner Online",
             "date": "2026-03-13 05:50:04"
-        },
-        {
-            "domain_name": "citadelrealty.in",
-            "destination": "Hetzner Online",
-            "date": "2026-03-13 05:14:41"
         }
     ],
     "dailyMovedStat": {
@@ -1046,10 +1046,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12254,
-        "Kinsta": 8568,
+        "Kinsta": 8569,
         "Digital Ocean": 6145,
         "SiteGround": 5700,
-        "Hostinger": 4721,
+        "Hostinger": 4722,
         "Bluehost": 4496,
         "GoDaddy": 1617,
         "Liquid Web": 828,
