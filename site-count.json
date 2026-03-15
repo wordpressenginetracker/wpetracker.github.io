@@ -1,6 +1,16 @@
 {
-    "siteCount": 125804,
+    "siteCount": 125815,
     "recentlyMoved": [
+        {
+            "domain_name": "foxwoodmusicstudio.com",
+            "destination": "Pressable",
+            "date": "2026-03-14 23:56:48"
+        },
+        {
+            "domain_name": "phonenumberplus.com",
+            "destination": "Pressable",
+            "date": "2026-03-14 23:28:44"
+        },
         {
             "domain_name": "nivtopcreations.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "citadelrealty.in",
             "destination": "Hetzner Online",
             "date": "2026-03-13 05:14:41"
-        },
-        {
-            "domain_name": "nobull.mikecallicrate.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-13 01:32:17"
-        },
-        {
-            "domain_name": "juneecommunitycentre.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-13 01:02:33"
         }
     ],
     "dailyMovedStat": {
@@ -1045,7 +1045,7 @@
         "2026-03-14": "125804"
     },
     "topDestinationHosts": {
-        "Pressable": 12252,
+        "Pressable": 12254,
         "Kinsta": 8568,
         "Digital Ocean": 6145,
         "SiteGround": 5700,
