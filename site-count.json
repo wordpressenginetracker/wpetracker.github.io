@@ -1,6 +1,11 @@
 {
-    "siteCount": 126033,
+    "siteCount": 126038,
     "recentlyMoved": [
+        {
+            "domain_name": "wearemakedo.com.au",
+            "destination": "Hostinger",
+            "date": "2026-03-16 21:31:00"
+        },
         {
             "domain_name": "thecoopbronte.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "riverinaorthopaedics.com.au",
             "destination": "Kinsta",
             "date": "2026-03-13 19:48:34"
-        },
-        {
-            "domain_name": "monarchconsultinghr.com",
-            "destination": "Hostinger",
-            "date": "2026-03-13 17:27:18"
         }
     ],
     "dailyMovedStat": {
@@ -1048,9 +1048,9 @@
     "topDestinationHosts": {
         "Pressable": 12257,
         "Kinsta": 8578,
-        "Digital Ocean": 6149,
+        "Digital Ocean": 6150,
         "SiteGround": 5700,
-        "Hostinger": 4729,
+        "Hostinger": 4730,
         "Bluehost": 4499,
         "GoDaddy": 1618,
         "Liquid Web": 828,
