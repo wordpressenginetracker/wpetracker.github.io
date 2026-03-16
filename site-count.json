@@ -1,6 +1,16 @@
 {
-    "siteCount": 125989,
+    "siteCount": 125994,
     "recentlyMoved": [
+        {
+            "domain_name": "liamgrist.com",
+            "destination": "Hostinger",
+            "date": "2026-03-16 17:05:47"
+        },
+        {
+            "domain_name": "thecomedystore.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-16 16:58:34"
+        },
         {
             "domain_name": "dpsdave.com",
             "destination": "Bluehost",
@@ -482,11 +492,6 @@
             "date": "2026-03-13 19:48:34"
         },
         {
-            "domain_name": "drgsvet.com",
-            "destination": "GridPane",
-            "date": "2026-03-13 17:50:23"
-        },
-        {
             "domain_name": "toothbar.com",
             "destination": "Digital Ocean",
             "date": "2026-03-13 17:37:01"
@@ -495,11 +500,6 @@
             "domain_name": "monarchconsultinghr.com",
             "destination": "Hostinger",
             "date": "2026-03-13 17:27:18"
-        },
-        {
-            "domain_name": "strongbox.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-13 17:05:06"
         }
     ],
     "dailyMovedStat": {
@@ -1048,9 +1048,9 @@
     "topDestinationHosts": {
         "Pressable": 12257,
         "Kinsta": 8577,
-        "Digital Ocean": 6148,
+        "Digital Ocean": 6149,
         "SiteGround": 5700,
-        "Hostinger": 4727,
+        "Hostinger": 4728,
         "Bluehost": 4499,
         "GoDaddy": 1617,
         "Liquid Web": 828,
