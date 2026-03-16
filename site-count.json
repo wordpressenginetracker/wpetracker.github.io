@@ -1,6 +1,11 @@
 {
-    "siteCount": 125972,
+    "siteCount": 125974,
     "recentlyMoved": [
+        {
+            "domain_name": "firstrentalcarshawaii.com",
+            "destination": "Hostinger",
+            "date": "2026-03-16 11:58:12"
+        },
         {
             "domain_name": "ekspresvikar.dk",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "www.lnvlaw.com",
             "destination": "GoDaddy",
             "date": "2026-03-13 16:38:50"
-        },
-        {
-            "domain_name": "rethinkability.ca",
-            "destination": "Liquid Web",
-            "date": "2026-03-13 16:20:17"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
         "Kinsta": 8577,
         "Digital Ocean": 6147,
         "SiteGround": 5700,
-        "Hostinger": 4726,
+        "Hostinger": 4727,
         "Bluehost": 4498,
         "GoDaddy": 1617,
         "Liquid Web": 828,
