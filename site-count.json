@@ -1,6 +1,16 @@
 {
-    "siteCount": 125981,
+    "siteCount": 125984,
     "recentlyMoved": [
+        {
+            "domain_name": "dpsdave.com",
+            "destination": "Bluehost",
+            "date": "2026-03-16 13:50:44"
+        },
+        {
+            "domain_name": "misrcementgroup.com",
+            "destination": "Pressable",
+            "date": "2026-03-16 13:35:29"
+        },
         {
             "domain_name": "www.mulberrycarehomes.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "strongbox.com",
             "destination": "Digital Ocean",
             "date": "2026-03-13 17:05:06"
-        },
-        {
-            "domain_name": "jaydehaus.co",
-            "destination": "BigScoots",
-            "date": "2026-03-13 17:00:38"
-        },
-        {
-            "domain_name": "stoalife.com",
-            "destination": "Pressable",
-            "date": "2026-03-13 16:48:13"
         }
     ],
     "dailyMovedStat": {
@@ -1046,12 +1046,12 @@
         "2026-03-15": "125905"
     },
     "topDestinationHosts": {
-        "Pressable": 12256,
+        "Pressable": 12257,
         "Kinsta": 8577,
         "Digital Ocean": 6148,
         "SiteGround": 5700,
         "Hostinger": 4727,
-        "Bluehost": 4498,
+        "Bluehost": 4499,
         "GoDaddy": 1617,
         "Liquid Web": 828,
         "BigScoots": 799,
