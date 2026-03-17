@@ -1,6 +1,11 @@
 {
-    "siteCount": 126088,
+    "siteCount": 126091,
     "recentlyMoved": [
+        {
+            "domain_name": "embassyloans.com",
+            "destination": "Kinsta",
+            "date": "2026-03-17 09:36:42"
+        },
         {
             "domain_name": "mahrousco.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "www.yourdefenseteam.com",
             "destination": "GoDaddy",
             "date": "2026-03-13 23:58:07"
-        },
-        {
-            "domain_name": "westpointcentre.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-03-13 23:55:26"
         },
         {
             "domain_name": "franklinskinstudio.com",
@@ -1048,7 +1048,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12259,
-        "Kinsta": 8580,
+        "Kinsta": 8581,
         "Digital Ocean": 6154,
         "SiteGround": 5700,
         "Hostinger": 4733,
