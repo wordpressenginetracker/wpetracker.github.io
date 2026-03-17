@@ -1,6 +1,11 @@
 {
-    "siteCount": 126058,
+    "siteCount": 126064,
     "recentlyMoved": [
+        {
+            "domain_name": "cpmgsandiego.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-17 05:19:52"
+        },
         {
             "domain_name": "beaconofchangecounseling.com",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "mickcaine.com.au",
             "destination": "Digital Ocean",
             "date": "2026-03-13 21:05:08"
-        },
-        {
-            "domain_name": "www.mymoneydream.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-13 20:48:06"
         },
         {
             "domain_name": "carburantpourlavenir.ca",
@@ -1049,7 +1049,7 @@
     "topDestinationHosts": {
         "Pressable": 12258,
         "Kinsta": 8579,
-        "Digital Ocean": 6152,
+        "Digital Ocean": 6153,
         "SiteGround": 5700,
         "Hostinger": 4731,
         "Bluehost": 4500,
