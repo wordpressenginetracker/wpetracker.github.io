@@ -1,6 +1,11 @@
 {
-    "siteCount": 126070,
+    "siteCount": 126073,
     "recentlyMoved": [
+        {
+            "domain_name": "www.coastiescommercialcleaning.com.au",
+            "destination": "Hostinger",
+            "date": "2026-03-17 07:53:56"
+        },
         {
             "domain_name": "naturbakst.no",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "mickcaine.com.au",
             "destination": "Digital Ocean",
             "date": "2026-03-13 21:05:08"
-        },
-        {
-            "domain_name": "centralwestsmokealarms.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-03-13 20:23:55"
         }
     ],
     "dailyMovedStat": {
@@ -1051,7 +1051,7 @@
         "Kinsta": 8579,
         "Digital Ocean": 6153,
         "SiteGround": 5700,
-        "Hostinger": 4732,
+        "Hostinger": 4733,
         "Bluehost": 4500,
         "GoDaddy": 1618,
         "Liquid Web": 828,
