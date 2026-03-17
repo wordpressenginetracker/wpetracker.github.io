@@ -1,6 +1,11 @@
 {
-    "siteCount": 126064,
+    "siteCount": 126070,
     "recentlyMoved": [
+        {
+            "domain_name": "naturbakst.no",
+            "destination": "Hostinger",
+            "date": "2026-03-17 05:43:33"
+        },
         {
             "domain_name": "cpmgsandiego.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "mickcaine.com.au",
             "destination": "Digital Ocean",
             "date": "2026-03-13 21:05:08"
-        },
-        {
-            "domain_name": "carburantpourlavenir.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-13 20:28:03"
         },
         {
             "domain_name": "centralwestsmokealarms.com.au",
@@ -1051,7 +1051,7 @@
         "Kinsta": 8579,
         "Digital Ocean": 6153,
         "SiteGround": 5700,
-        "Hostinger": 4731,
+        "Hostinger": 4732,
         "Bluehost": 4500,
         "GoDaddy": 1618,
         "Liquid Web": 828,
