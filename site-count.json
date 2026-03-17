@@ -1,6 +1,16 @@
 {
-    "siteCount": 126038,
+    "siteCount": 126043,
     "recentlyMoved": [
+        {
+            "domain_name": "aha-gs.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-03-16 23:53:18"
+        },
+        {
+            "domain_name": "afrobeating.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-16 23:52:32"
+        },
         {
             "domain_name": "wearemakedo.com.au",
             "destination": "Hostinger",
@@ -485,16 +495,6 @@
             "domain_name": "saddlecreekortho.com",
             "destination": "Kinsta",
             "date": "2026-03-13 20:01:31"
-        },
-        {
-            "domain_name": "hughes-realestate.com",
-            "destination": "DreamHost",
-            "date": "2026-03-13 19:49:49"
-        },
-        {
-            "domain_name": "fuelforward.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-13 19:48:52"
         },
         {
             "domain_name": "riverinaorthopaedics.com.au",
@@ -1049,7 +1049,7 @@
     "topDestinationHosts": {
         "Pressable": 12257,
         "Kinsta": 8578,
-        "Digital Ocean": 6150,
+        "Digital Ocean": 6152,
         "SiteGround": 5700,
         "Hostinger": 4730,
         "Bluehost": 4499,
