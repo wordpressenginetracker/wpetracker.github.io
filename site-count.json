@@ -1,6 +1,16 @@
 {
-    "siteCount": 126315,
+    "siteCount": 126321,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hhequestrian.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-18 04:45:46"
+        },
+        {
+            "domain_name": "heisthefranchiseguy.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-18 04:16:07"
+        },
         {
             "domain_name": "coachwithrhonda.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "arkansasdivorcemediation.com",
             "destination": "Digital Ocean",
             "date": "2026-03-15 19:37:15"
-        },
-        {
-            "domain_name": "vanrophotography.com",
-            "destination": "BigScoots",
-            "date": "2026-03-15 18:03:58"
-        },
-        {
-            "domain_name": "transparent.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-15 17:39:07"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
     "topDestinationHosts": {
         "Pressable": 12268,
         "Kinsta": 8589,
-        "Digital Ocean": 6174,
+        "Digital Ocean": 6175,
         "SiteGround": 5700,
         "Hostinger": 4743,
         "Bluehost": 4504,
