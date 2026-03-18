@@ -1,6 +1,11 @@
 {
-    "siteCount": 126535,
+    "siteCount": 126539,
     "recentlyMoved": [
+        {
+            "domain_name": "mtsmilesortho.com",
+            "destination": "Kinsta",
+            "date": "2026-03-18 21:33:51"
+        },
         {
             "domain_name": "www.thebitterbar.com",
             "destination": "Pressable",
@@ -485,11 +490,6 @@
             "domain_name": "www.seattleweekly.com",
             "destination": "WordPress VIP",
             "date": "2026-03-17 12:47:44"
-        },
-        {
-            "domain_name": "solidsteelstructures.us",
-            "destination": "Digital Ocean",
-            "date": "2026-03-17 12:44:13"
         },
         {
             "domain_name": "startrightlaw.co",
@@ -1049,7 +1049,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12279,
-        "Kinsta": 8602,
+        "Kinsta": 8603,
         "Digital Ocean": 6183,
         "SiteGround": 5700,
         "Hostinger": 4748,
@@ -1067,7 +1067,7 @@
         "A2 Hosting": 447,
         "DreamHost": 439,
         "Hetzner Online": 383,
-        "HostGator": 287
+        "HostGator": 288
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
