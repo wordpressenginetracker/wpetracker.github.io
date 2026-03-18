@@ -1,6 +1,31 @@
 {
-    "siteCount": 126376,
+    "siteCount": 126386,
     "recentlyMoved": [
+        {
+            "domain_name": "physio-logical.net",
+            "destination": "IONOS",
+            "date": "2026-03-18 11:59:05"
+        },
+        {
+            "domain_name": "hailo.ai",
+            "destination": "Pressable",
+            "date": "2026-03-18 11:34:17"
+        },
+        {
+            "domain_name": "alpinecanadamasters.racing",
+            "destination": "Kinsta",
+            "date": "2026-03-18 11:26:46"
+        },
+        {
+            "domain_name": "wholesale.realgrowers.com",
+            "destination": "Kinsta",
+            "date": "2026-03-18 11:12:46"
+        },
+        {
+            "domain_name": "fountainpays.com",
+            "destination": "GoDaddy",
+            "date": "2026-03-18 11:12:21"
+        },
         {
             "domain_name": "natureplayqld.org.au",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "firstrentalcarshawaii.com",
             "destination": "Hostinger",
             "date": "2026-03-16 11:58:12"
-        },
-        {
-            "domain_name": "ekspresvikar.dk",
-            "destination": "Elementor Hosting",
-            "date": "2026-03-16 09:17:52"
-        },
-        {
-            "domain_name": "ocochem.com",
-            "destination": "Kinsta",
-            "date": "2026-03-16 02:19:38"
-        },
-        {
-            "domain_name": "urbansurvivalsite.com",
-            "destination": "Kinsta",
-            "date": "2026-03-16 02:02:53"
-        },
-        {
-            "domain_name": "thebrandid.com",
-            "destination": "Pressable",
-            "date": "2026-03-16 00:59:29"
-        },
-        {
-            "domain_name": "www.thewordfromguatemala.com",
-            "destination": "Pressable",
-            "date": "2026-03-16 00:53:07"
         }
     ],
     "dailyMovedStat": {
@@ -1048,13 +1048,13 @@
         "2026-03-17": "126286"
     },
     "topDestinationHosts": {
-        "Pressable": 12268,
-        "Kinsta": 8590,
+        "Pressable": 12269,
+        "Kinsta": 8592,
         "Digital Ocean": 6179,
         "SiteGround": 5700,
         "Hostinger": 4745,
         "Bluehost": 4505,
-        "GoDaddy": 1619,
+        "GoDaddy": 1620,
         "Liquid Web": 828,
         "BigScoots": 800,
         "WordPress.com": 647,
@@ -1063,7 +1063,7 @@
         "InMotion Hosting": 550,
         "Elementor Hosting": 507,
         "Namecheap": 487,
-        "IONOS": 462,
+        "IONOS": 463,
         "A2 Hosting": 447,
         "DreamHost": 439,
         "Hetzner Online": 383,
