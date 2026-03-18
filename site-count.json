@@ -1,6 +1,16 @@
 {
-    "siteCount": 126372,
+    "siteCount": 126376,
     "recentlyMoved": [
+        {
+            "domain_name": "natureplayqld.org.au",
+            "destination": "Hostinger",
+            "date": "2026-03-18 10:12:27"
+        },
+        {
+            "domain_name": "upi.com.kw",
+            "destination": "Bluehost",
+            "date": "2026-03-18 10:08:49"
+        },
         {
             "domain_name": "hreski.com",
             "destination": "Digital Ocean",
@@ -487,19 +497,9 @@
             "date": "2026-03-16 00:59:29"
         },
         {
-            "domain_name": "www.pinecrestortho.com",
-            "destination": "Bluehost",
-            "date": "2026-03-16 00:58:38"
-        },
-        {
             "domain_name": "www.thewordfromguatemala.com",
             "destination": "Pressable",
             "date": "2026-03-16 00:53:07"
-        },
-        {
-            "domain_name": "homesteadsurvivalsite.com",
-            "destination": "Kinsta",
-            "date": "2026-03-16 00:12:39"
         }
     ],
     "dailyMovedStat": {
@@ -1052,8 +1052,8 @@
         "Kinsta": 8590,
         "Digital Ocean": 6179,
         "SiteGround": 5700,
-        "Hostinger": 4744,
-        "Bluehost": 4504,
+        "Hostinger": 4745,
+        "Bluehost": 4505,
         "GoDaddy": 1619,
         "Liquid Web": 828,
         "BigScoots": 800,
