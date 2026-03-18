@@ -1,6 +1,16 @@
 {
-    "siteCount": 126331,
+    "siteCount": 126337,
     "recentlyMoved": [
+        {
+            "domain_name": "eaglemarketing.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-18 05:34:43"
+        },
+        {
+            "domain_name": "udoitautogarage.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-18 05:11:57"
+        },
         {
             "domain_name": "ladylovepattaya.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "ppresourcestx.com",
             "destination": "Hostinger",
             "date": "2026-03-15 23:40:04"
-        },
-        {
-            "domain_name": "drmonicatadros.com",
-            "destination": "Kinsta",
-            "date": "2026-03-15 21:31:09"
-        },
-        {
-            "domain_name": "crmexpert.io",
-            "destination": "Hostinger",
-            "date": "2026-03-15 20:45:01"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
     "topDestinationHosts": {
         "Pressable": 12268,
         "Kinsta": 8590,
-        "Digital Ocean": 6176,
+        "Digital Ocean": 6178,
         "SiteGround": 5700,
         "Hostinger": 4743,
         "Bluehost": 4504,
