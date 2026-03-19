@@ -1,6 +1,11 @@
 {
-    "siteCount": 126558,
+    "siteCount": 126568,
     "recentlyMoved": [
+        {
+            "domain_name": "tegan.io",
+            "destination": "Kinsta",
+            "date": "2026-03-19 01:08:33"
+        },
         {
             "domain_name": "audits.com.au",
             "destination": "Digital Ocean",
@@ -480,11 +485,6 @@
             "domain_name": "oakandemberfarms.com",
             "destination": "Kinsta",
             "date": "2026-03-17 13:32:59"
-        },
-        {
-            "domain_name": "collingwoodliving.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-17 13:22:06"
         },
         {
             "domain_name": "fabioandco.com",
@@ -1050,7 +1050,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12279,
-        "Kinsta": 8603,
+        "Kinsta": 8604,
         "Digital Ocean": 6184,
         "SiteGround": 5700,
         "Hostinger": 4749,
