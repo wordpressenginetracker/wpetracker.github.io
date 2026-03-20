@@ -1,6 +1,21 @@
 {
-    "siteCount": 126936,
+    "siteCount": 126945,
     "recentlyMoved": [
+        {
+            "domain_name": "warehouseselfstorage.ca",
+            "destination": "GoDaddy",
+            "date": "2026-03-20 18:15:32"
+        },
+        {
+            "domain_name": "trysilhytte.com",
+            "destination": "Hostinger",
+            "date": "2026-03-20 17:53:06"
+        },
+        {
+            "domain_name": "natashianicolephotography.com",
+            "destination": "Bluehost",
+            "date": "2026-03-20 17:35:21"
+        },
         {
             "domain_name": "www.northstateexcavating.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "freakyads.com.au",
             "destination": "Pressable",
             "date": "2026-03-19 07:28:11"
-        },
-        {
-            "domain_name": "viggoeriksen.no",
-            "destination": "Hetzner Online",
-            "date": "2026-03-19 06:01:09"
-        },
-        {
-            "domain_name": "emergecounsel.com",
-            "destination": "Kinsta",
-            "date": "2026-03-19 05:25:47"
-        },
-        {
-            "domain_name": "matr.store",
-            "destination": "Hostinger",
-            "date": "2026-03-19 05:04:19"
         }
     ],
     "dailyMovedStat": {
@@ -1054,9 +1054,9 @@
         "Kinsta": 8633,
         "Digital Ocean": 6198,
         "SiteGround": 5700,
-        "Hostinger": 4771,
-        "Bluehost": 4507,
-        "GoDaddy": 1625,
+        "Hostinger": 4772,
+        "Bluehost": 4508,
+        "GoDaddy": 1626,
         "Liquid Web": 830,
         "BigScoots": 802,
         "WordPress.com": 648,
