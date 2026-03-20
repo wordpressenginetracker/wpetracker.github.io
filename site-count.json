@@ -1,6 +1,16 @@
 {
-    "siteCount": 126822,
+    "siteCount": 126828,
     "recentlyMoved": [
+        {
+            "domain_name": "benedictinetutors.com",
+            "destination": "Pressable",
+            "date": "2026-03-20 03:59:06"
+        },
+        {
+            "domain_name": "fjmsc.com",
+            "destination": "DreamHost",
+            "date": "2026-03-20 03:23:40"
+        },
         {
             "domain_name": "fairwave.com",
             "destination": "WordPress.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.leaderscode.com",
             "destination": "Pressable",
             "date": "2026-03-18 20:03:43"
-        },
-        {
-            "domain_name": "ondefend.com",
-            "destination": "Kinsta",
-            "date": "2026-03-18 19:07:04"
-        },
-        {
-            "domain_name": "weatherizationpro.net",
-            "destination": "Pressable",
-            "date": "2026-03-18 18:12:25"
         }
     ],
     "dailyMovedStat": {
@@ -1050,7 +1050,7 @@
         "2026-03-19": "126800"
     },
     "topDestinationHosts": {
-        "Pressable": 12297,
+        "Pressable": 12298,
         "Kinsta": 8630,
         "Digital Ocean": 6191,
         "SiteGround": 5700,
@@ -1067,7 +1067,7 @@
         "Namecheap": 488,
         "IONOS": 465,
         "A2 Hosting": 449,
-        "DreamHost": 440,
+        "DreamHost": 441,
         "Hetzner Online": 384,
         "HostGator": 288
     },
