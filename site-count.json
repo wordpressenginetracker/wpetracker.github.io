@@ -1,6 +1,36 @@
 {
-    "siteCount": 126841,
+    "siteCount": 126858,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fire-tecaero.com",
+            "destination": "Krystal Hosting",
+            "date": "2026-03-20 08:35:26"
+        },
+        {
+            "domain_name": "renva.se",
+            "destination": "Kinsta",
+            "date": "2026-03-20 08:24:29"
+        },
+        {
+            "domain_name": "www.bmediting.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-20 08:10:59"
+        },
+        {
+            "domain_name": "homerentalcompliance.com.au",
+            "destination": "Pressable",
+            "date": "2026-03-20 08:00:54"
+        },
+        {
+            "domain_name": "www.enzel.com.au",
+            "destination": "Pressable",
+            "date": "2026-03-20 07:49:20"
+        },
+        {
+            "domain_name": "anghelhotel.com",
+            "destination": "OVH",
+            "date": "2026-03-20 07:44:25"
+        },
         {
             "domain_name": "crowleyfl.org",
             "destination": "Digital Ocean",
@@ -462,21 +492,6 @@
             "date": "2026-03-18 21:27:17"
         },
         {
-            "domain_name": "claremontschool.com",
-            "destination": "Hostinger",
-            "date": "2026-03-18 21:15:18"
-        },
-        {
-            "domain_name": "www.reboundmh.org",
-            "destination": "Pressable",
-            "date": "2026-03-18 21:12:07"
-        },
-        {
-            "domain_name": "chartrandortho.com",
-            "destination": "Kinsta",
-            "date": "2026-03-18 21:04:01"
-        },
-        {
             "domain_name": "destinfloridadeepseafishing.com",
             "destination": "HostGator",
             "date": "2026-03-18 20:59:02"
@@ -485,21 +500,6 @@
             "domain_name": "thatdamnlawyer.com",
             "destination": "Pressable",
             "date": "2026-03-18 20:57:15"
-        },
-        {
-            "domain_name": "completedentalstudio.com",
-            "destination": "Kinsta",
-            "date": "2026-03-18 20:34:26"
-        },
-        {
-            "domain_name": "www.puravidaglobaltravel.com",
-            "destination": "Pressable",
-            "date": "2026-03-18 20:30:47"
-        },
-        {
-            "domain_name": "knappsmiles.com",
-            "destination": "Kinsta",
-            "date": "2026-03-18 20:20:22"
         }
     ],
     "dailyMovedStat": {
@@ -1050,9 +1050,9 @@
         "2026-03-19": "126800"
     },
     "topDestinationHosts": {
-        "Pressable": 12299,
-        "Kinsta": 8631,
-        "Digital Ocean": 6193,
+        "Pressable": 12301,
+        "Kinsta": 8632,
+        "Digital Ocean": 6194,
         "SiteGround": 5700,
         "Hostinger": 4766,
         "Bluehost": 4507,
@@ -1060,7 +1060,7 @@
         "Liquid Web": 830,
         "BigScoots": 802,
         "WordPress.com": 648,
-        "OVH": 589,
+        "OVH": 590,
         "GridPane": 587,
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
