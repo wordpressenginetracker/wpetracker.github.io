@@ -1,6 +1,16 @@
 {
-    "siteCount": 126828,
+    "siteCount": 126838,
     "recentlyMoved": [
+        {
+            "domain_name": "crowleyfl.org",
+            "destination": "Digital Ocean",
+            "date": "2026-03-20 05:21:20"
+        },
+        {
+            "domain_name": "safeharborrentals.com",
+            "destination": "Kinsta",
+            "date": "2026-03-20 04:04:27"
+        },
         {
             "domain_name": "benedictinetutors.com",
             "destination": "Pressable",
@@ -485,16 +495,6 @@
             "domain_name": "knappsmiles.com",
             "destination": "Kinsta",
             "date": "2026-03-18 20:20:22"
-        },
-        {
-            "domain_name": "pedersenorthodontics.com",
-            "destination": "Kinsta",
-            "date": "2026-03-18 20:09:51"
-        },
-        {
-            "domain_name": "paradigmshiftinteractive.com",
-            "destination": "Pressable",
-            "date": "2026-03-18 20:07:18"
         },
         {
             "domain_name": "www.leaderscode.com",
@@ -1051,8 +1051,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12298,
-        "Kinsta": 8630,
-        "Digital Ocean": 6191,
+        "Kinsta": 8631,
+        "Digital Ocean": 6192,
         "SiteGround": 5700,
         "Hostinger": 4766,
         "Bluehost": 4507,
