@@ -1,10 +1,20 @@
 {
-    "siteCount": 126886,
+    "siteCount": 126893,
     "recentlyMoved": [
+        {
+            "domain_name": "monkeyjumpersdoggrooming.com",
+            "destination": "Hostinger",
+            "date": "2026-03-20 13:28:13"
+        },
         {
             "domain_name": "stonetrix.com",
             "destination": "Hostinger",
             "date": "2026-03-20 13:10:57"
+        },
+        {
+            "domain_name": "mycecu.com",
+            "destination": "Hostinger",
+            "date": "2026-03-20 13:09:21"
         },
         {
             "domain_name": "www.missoulapartnership.com",
@@ -490,16 +500,6 @@
             "domain_name": "tegan.io",
             "destination": "Kinsta",
             "date": "2026-03-19 01:08:33"
-        },
-        {
-            "domain_name": "audits.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-03-18 23:57:57"
-        },
-        {
-            "domain_name": "perfectimpressionsinc.com",
-            "destination": "Hostinger",
-            "date": "2026-03-18 23:34:51"
         }
     ],
     "dailyMovedStat": {
@@ -1054,7 +1054,7 @@
         "Kinsta": 8632,
         "Digital Ocean": 6194,
         "SiteGround": 5700,
-        "Hostinger": 4769,
+        "Hostinger": 4771,
         "Bluehost": 4507,
         "GoDaddy": 1625,
         "Liquid Web": 830,
