@@ -1,6 +1,11 @@
 {
-    "siteCount": 127200,
+    "siteCount": 127205,
     "recentlyMoved": [
+        {
+            "domain_name": "waterstep.org",
+            "destination": "GoDaddy",
+            "date": "2026-03-21 21:27:17"
+        },
         {
             "domain_name": "masteryourmessage.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "momtomomnutrition.com",
             "destination": "Hostinger",
             "date": "2026-03-20 01:12:43"
-        },
-        {
-            "domain_name": "springforestcounseling.com",
-            "destination": "Pressable",
-            "date": "2026-03-20 00:36:21"
         }
     ],
     "dailyMovedStat": {
@@ -1057,7 +1057,7 @@
         "SiteGround": 5700,
         "Hostinger": 4781,
         "Bluehost": 4513,
-        "GoDaddy": 1629,
+        "GoDaddy": 1630,
         "Liquid Web": 830,
         "BigScoots": 804,
         "WordPress.com": 648,
