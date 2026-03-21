@@ -1,5 +1,5 @@
 {
-    "siteCount": 127149,
+    "siteCount": 127150,
     "recentlyMoved": [
         {
             "domain_name": "cybertheory.io",
@@ -10,6 +10,11 @@
             "domain_name": "lifelineaed.defibtech.com",
             "destination": "GoDaddy",
             "date": "2026-03-21 17:11:45"
+        },
+        {
+            "domain_name": "vevaydental.ie",
+            "destination": "IONOS",
+            "date": "2026-03-21 17:09:12"
         },
         {
             "domain_name": "thestafford.net",
@@ -495,11 +500,6 @@
             "domain_name": "cheyennelee-photography.com",
             "destination": "BigScoots",
             "date": "2026-03-19 20:36:44"
-        },
-        {
-            "domain_name": "scrappingclearly.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-19 20:19:19"
         }
     ],
     "dailyMovedStat": {
@@ -1066,9 +1066,9 @@
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
         "Namecheap": 489,
-        "IONOS": 465,
+        "IONOS": 466,
         "A2 Hosting": 450,
-        "DreamHost": 442,
+        "DreamHost": 443,
         "Hetzner Online": 387,
         "HostGator": 288
     },
