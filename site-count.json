@@ -1,6 +1,16 @@
 {
-    "siteCount": 127026,
+    "siteCount": 127036,
     "recentlyMoved": [
+        {
+            "domain_name": "day8solutions.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-21 01:10:27"
+        },
+        {
+            "domain_name": "jennycookies.com",
+            "destination": "BigScoots",
+            "date": "2026-03-21 00:34:14"
+        },
         {
             "domain_name": "avamereatriorancho.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "blackcherrynails.com",
             "destination": "Kinsta",
             "date": "2026-03-19 15:54:41"
-        },
-        {
-            "domain_name": "alysarenephotography.com",
-            "destination": "BigScoots",
-            "date": "2026-03-19 15:23:24"
-        },
-        {
-            "domain_name": "filioexecutivehomes.com",
-            "destination": "Kinsta",
-            "date": "2026-03-19 15:13:12"
         }
     ],
     "dailyMovedStat": {
@@ -1053,13 +1053,13 @@
     "topDestinationHosts": {
         "Pressable": 12309,
         "Kinsta": 8645,
-        "Digital Ocean": 6200,
+        "Digital Ocean": 6201,
         "SiteGround": 5700,
         "Hostinger": 4777,
         "Bluehost": 4510,
         "GoDaddy": 1627,
         "Liquid Web": 830,
-        "BigScoots": 802,
+        "BigScoots": 803,
         "WordPress.com": 648,
         "OVH": 590,
         "GridPane": 587,
