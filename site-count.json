@@ -1,6 +1,21 @@
 {
-    "siteCount": 127295,
+    "siteCount": 127322,
     "recentlyMoved": [
+        {
+            "domain_name": "azmetromix.com",
+            "destination": "Pressable",
+            "date": "2026-03-22 20:08:48"
+        },
+        {
+            "domain_name": "www.europort.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-22 19:47:12"
+        },
+        {
+            "domain_name": "hyperfocal.pr",
+            "destination": "Hostinger",
+            "date": "2026-03-22 19:46:56"
+        },
         {
             "domain_name": "ncieee.ca",
             "destination": "OVH",
@@ -477,11 +492,6 @@
             "date": "2026-03-20 17:35:21"
         },
         {
-            "domain_name": "www.northstateexcavating.com",
-            "destination": "Pressable",
-            "date": "2026-03-20 16:59:09"
-        },
-        {
             "domain_name": "christopherwallace.org",
             "destination": "Digital Ocean",
             "date": "2026-03-20 16:51:14"
@@ -490,16 +500,6 @@
             "domain_name": "www.reddingnba.com",
             "destination": "Pressable",
             "date": "2026-03-20 16:47:52"
-        },
-        {
-            "domain_name": "www.k12construction.org",
-            "destination": "Pressable",
-            "date": "2026-03-20 16:21:12"
-        },
-        {
-            "domain_name": "preferred-ins.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-20 16:20:02"
         }
     ],
     "dailyMovedStat": {
@@ -1052,11 +1052,11 @@
         "2026-03-21": "127205"
     },
     "topDestinationHosts": {
-        "Pressable": 12318,
-        "Kinsta": 8667,
+        "Pressable": 12319,
+        "Kinsta": 8668,
         "Digital Ocean": 6212,
         "SiteGround": 5701,
-        "Hostinger": 4782,
+        "Hostinger": 4784,
         "Bluehost": 4513,
         "GoDaddy": 1630,
         "Liquid Web": 831,
@@ -1071,7 +1071,7 @@
         "A2 Hosting": 450,
         "DreamHost": 444,
         "Hetzner Online": 387,
-        "HostGator": 288
+        "HostGator": 289
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
