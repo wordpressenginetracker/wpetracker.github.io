@@ -1,6 +1,11 @@
 {
-    "siteCount": 127253,
+    "siteCount": 127258,
     "recentlyMoved": [
+        {
+            "domain_name": "c3newsmag.com",
+            "destination": "Kinsta",
+            "date": "2026-03-22 08:12:07"
+        },
         {
             "domain_name": "patentbusinesslawyer.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.actioncustompools.com",
             "destination": "Hostinger",
             "date": "2026-03-20 11:24:37"
-        },
-        {
-            "domain_name": "www.fire-tecaero.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-03-20 08:35:26"
         }
     ],
     "dailyMovedStat": {
@@ -1053,7 +1053,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12315,
-        "Kinsta": 8663,
+        "Kinsta": 8664,
         "Digital Ocean": 6210,
         "SiteGround": 5700,
         "Hostinger": 4782,
