@@ -1,6 +1,11 @@
 {
-    "siteCount": 127414,
+    "siteCount": 127422,
     "recentlyMoved": [
+        {
+            "domain_name": "stillforesthoa.org",
+            "destination": "Bluehost",
+            "date": "2026-03-23 17:09:53"
+        },
         {
             "domain_name": "blazingtrailsk9.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "zynexplumbinghvac.com",
             "destination": "Hetzner Online",
             "date": "2026-03-21 09:01:51"
-        },
-        {
-            "domain_name": "horizonseniorbenefits.com",
-            "destination": "Hostinger",
-            "date": "2026-03-21 08:09:48"
         }
     ],
     "dailyMovedStat": {
@@ -1058,11 +1058,11 @@
         "Digital Ocean": 6216,
         "SiteGround": 5701,
         "Hostinger": 4789,
-        "Bluehost": 4514,
+        "Bluehost": 4515,
         "GoDaddy": 1630,
         "Liquid Web": 832,
         "BigScoots": 805,
-        "WordPress.com": 650,
+        "WordPress.com": 651,
         "GridPane": 599,
         "OVH": 591,
         "InMotion Hosting": 551,
