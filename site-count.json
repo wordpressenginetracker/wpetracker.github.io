@@ -1,10 +1,40 @@
 {
-    "siteCount": 127340,
+    "siteCount": 127359,
     "recentlyMoved": [
+        {
+            "domain_name": "cityofpalmscharter.com",
+            "destination": "Hostinger",
+            "date": "2026-03-23 00:55:39"
+        },
+        {
+            "domain_name": "bouldervalleytransfer.com",
+            "destination": "Pressable",
+            "date": "2026-03-23 00:50:31"
+        },
+        {
+            "domain_name": "lullwaterco.com",
+            "destination": "Digital Ocean",
+            "date": "2026-03-23 00:46:32"
+        },
+        {
+            "domain_name": "sunedhigh.com",
+            "destination": "Hostinger",
+            "date": "2026-03-23 00:39:18"
+        },
         {
             "domain_name": "www.designsbyvictoria.com.au",
             "destination": "GridPane",
             "date": "2026-03-23 00:29:44"
+        },
+        {
+            "domain_name": "capstonewealthpartners.com",
+            "destination": "Bluehost",
+            "date": "2026-03-23 00:28:50"
+        },
+        {
+            "domain_name": "jacocontracting.com",
+            "destination": "Liquid Web",
+            "date": "2026-03-23 00:13:38"
         },
         {
             "domain_name": "beehiveinsurance.com",
@@ -468,36 +498,6 @@
         },
         {
             "domain_name": "avamereshoreline.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereparkwest.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereissaquah.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereburien.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereatsthelens.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereatsherwood.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
-        },
-        {
-            "domain_name": "avamereatseaside.com",
             "destination": "Kinsta",
             "date": "2026-03-20 20:26:46"
         }
@@ -1053,14 +1053,14 @@
         "2026-03-22": "127327"
     },
     "topDestinationHosts": {
-        "Pressable": 12320,
+        "Pressable": 12321,
         "Kinsta": 8669,
-        "Digital Ocean": 6213,
+        "Digital Ocean": 6214,
         "SiteGround": 5701,
-        "Hostinger": 4786,
-        "Bluehost": 4513,
+        "Hostinger": 4788,
+        "Bluehost": 4514,
         "GoDaddy": 1630,
-        "Liquid Web": 831,
+        "Liquid Web": 832,
         "BigScoots": 805,
         "WordPress.com": 649,
         "GridPane": 598,
