@@ -1,6 +1,16 @@
 {
-    "siteCount": 127426,
+    "siteCount": 127459,
     "recentlyMoved": [
+        {
+            "domain_name": "hey-tay.com",
+            "destination": "Pressable",
+            "date": "2026-03-23 20:23:11"
+        },
+        {
+            "domain_name": "amesburyquakers.org",
+            "destination": "IONOS",
+            "date": "2026-03-23 19:57:57"
+        },
         {
             "domain_name": "stillforesthoa.org",
             "destination": "Bluehost",
@@ -487,19 +497,9 @@
             "date": "2026-03-21 11:19:53"
         },
         {
-            "domain_name": "sterlingboos.com",
-            "destination": "Namecheap",
-            "date": "2026-03-21 09:20:14"
-        },
-        {
             "domain_name": "utoponomics.com",
             "destination": "Hostinger",
             "date": "2026-03-21 09:18:07"
-        },
-        {
-            "domain_name": "zynexplumbinghvac.com",
-            "destination": "Hetzner Online",
-            "date": "2026-03-21 09:01:51"
         }
     ],
     "dailyMovedStat": {
@@ -1053,24 +1053,24 @@
         "2026-03-22": "127327"
     },
     "topDestinationHosts": {
-        "Pressable": 12329,
+        "Pressable": 12330,
         "Kinsta": 8669,
-        "Digital Ocean": 6216,
+        "Digital Ocean": 6218,
         "SiteGround": 5701,
         "Hostinger": 4789,
         "Bluehost": 4515,
-        "GoDaddy": 1630,
+        "GoDaddy": 1632,
         "Liquid Web": 832,
         "BigScoots": 805,
-        "WordPress.com": 651,
+        "WordPress.com": 652,
         "GridPane": 599,
         "OVH": 591,
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
         "Namecheap": 490,
-        "IONOS": 468,
+        "IONOS": 469,
         "A2 Hosting": 450,
-        "DreamHost": 444,
+        "DreamHost": 445,
         "Hetzner Online": 387,
         "HostGator": 290
     },
