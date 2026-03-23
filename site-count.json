@@ -1,6 +1,21 @@
 {
-    "siteCount": 127359,
+    "siteCount": 127367,
     "recentlyMoved": [
+        {
+            "domain_name": "nikteplyrestorations.com.au",
+            "destination": "GridPane",
+            "date": "2026-03-23 02:12:54"
+        },
+        {
+            "domain_name": "npchs.com",
+            "destination": "Hostinger",
+            "date": "2026-03-23 01:45:10"
+        },
+        {
+            "domain_name": "nmtrophyhunts.com",
+            "destination": "HostGator",
+            "date": "2026-03-23 01:37:02"
+        },
         {
             "domain_name": "cityofpalmscharter.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "aurawell.com",
             "destination": "GoDaddy",
             "date": "2026-03-20 23:36:43"
-        },
-        {
-            "domain_name": "www.patientadvisors.ca",
-            "destination": "Hostinger",
-            "date": "2026-03-20 20:42:56"
-        },
-        {
-            "domain_name": "madisoncloud.com",
-            "destination": "Hostinger",
-            "date": "2026-03-20 20:41:16"
-        },
-        {
-            "domain_name": "avamereshoreline.com",
-            "destination": "Kinsta",
-            "date": "2026-03-20 20:26:46"
         }
     ],
     "dailyMovedStat": {
@@ -1057,13 +1057,13 @@
         "Kinsta": 8669,
         "Digital Ocean": 6214,
         "SiteGround": 5701,
-        "Hostinger": 4788,
+        "Hostinger": 4789,
         "Bluehost": 4514,
         "GoDaddy": 1630,
         "Liquid Web": 832,
         "BigScoots": 805,
         "WordPress.com": 649,
-        "GridPane": 598,
+        "GridPane": 599,
         "OVH": 591,
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
@@ -1072,7 +1072,7 @@
         "A2 Hosting": 450,
         "DreamHost": 444,
         "Hetzner Online": 387,
-        "HostGator": 289
+        "HostGator": 290
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
