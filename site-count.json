@@ -1,6 +1,11 @@
 {
-    "siteCount": 127459,
+    "siteCount": 127466,
     "recentlyMoved": [
+        {
+            "domain_name": "creekstone.sensed.com.au",
+            "destination": "Kinsta",
+            "date": "2026-03-23 21:09:48"
+        },
         {
             "domain_name": "hey-tay.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "ajm-eng.com",
             "destination": "Digital Ocean",
             "date": "2026-03-21 11:19:53"
-        },
-        {
-            "domain_name": "utoponomics.com",
-            "destination": "Hostinger",
-            "date": "2026-03-21 09:18:07"
         }
     ],
     "dailyMovedStat": {
@@ -1054,7 +1054,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12330,
-        "Kinsta": 8669,
+        "Kinsta": 8670,
         "Digital Ocean": 6218,
         "SiteGround": 5701,
         "Hostinger": 4789,
