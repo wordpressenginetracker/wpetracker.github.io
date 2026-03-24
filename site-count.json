@@ -1,6 +1,11 @@
 {
-    "siteCount": 127475,
+    "siteCount": 127478,
     "recentlyMoved": [
+        {
+            "domain_name": "newmarketbusiness.com",
+            "destination": "DreamHost",
+            "date": "2026-03-24 01:37:21"
+        },
         {
             "domain_name": "creekstone.sensed.com.au",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "betsypeters.com",
             "destination": "Hostinger",
             "date": "2026-03-21 11:47:21"
-        },
-        {
-            "domain_name": "fishingporthardy.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-21 11:47:13"
         },
         {
             "domain_name": "ajm-eng.com",
@@ -1071,7 +1071,7 @@
         "Namecheap": 490,
         "IONOS": 469,
         "A2 Hosting": 450,
-        "DreamHost": 445,
+        "DreamHost": 446,
         "Hetzner Online": 387,
         "HostGator": 290
     },
