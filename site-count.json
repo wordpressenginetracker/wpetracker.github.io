@@ -1,15 +1,30 @@
 {
-    "siteCount": 127685,
+    "siteCount": 127693,
     "recentlyMoved": [
+        {
+            "domain_name": "myhmb.com",
+            "destination": "Pressable",
+            "date": "2026-03-24 21:33:49"
+        },
         {
             "domain_name": "crespy.ca",
             "destination": "Kinsta",
             "date": "2026-03-24 21:29:09"
         },
         {
+            "domain_name": "nyeyevision.com",
+            "destination": "DreamHost",
+            "date": "2026-03-24 21:22:58"
+        },
+        {
             "domain_name": "clydecareers.com",
             "destination": "Pressable",
             "date": "2026-03-24 21:20:55"
+        },
+        {
+            "domain_name": "usapowerwashingplus.com",
+            "destination": "Hostinger",
+            "date": "2026-03-24 21:09:37"
         },
         {
             "domain_name": "leahbeltz.com",
@@ -485,21 +500,6 @@
             "domain_name": "switzerlanddanceschool.com",
             "destination": "Kinsta",
             "date": "2026-03-22 12:58:01"
-        },
-        {
-            "domain_name": "baldingfordollars.com",
-            "destination": "Kinsta",
-            "date": "2026-03-22 12:19:51"
-        },
-        {
-            "domain_name": "wearetilt.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-22 09:51:54"
-        },
-        {
-            "domain_name": "c3newsmag.com",
-            "destination": "Kinsta",
-            "date": "2026-03-22 08:12:07"
         }
     ],
     "dailyMovedStat": {
@@ -1054,11 +1054,11 @@
         "2026-03-23": "127467"
     },
     "topDestinationHosts": {
-        "Pressable": 12346,
+        "Pressable": 12347,
         "Kinsta": 8680,
         "Digital Ocean": 6226,
         "SiteGround": 5701,
-        "Hostinger": 4793,
+        "Hostinger": 4794,
         "Bluehost": 4515,
         "GoDaddy": 1635,
         "Liquid Web": 833,
@@ -1071,7 +1071,7 @@
         "Namecheap": 490,
         "IONOS": 471,
         "A2 Hosting": 450,
-        "DreamHost": 446,
+        "DreamHost": 447,
         "Hetzner Online": 388,
         "HostGator": 292
     },
