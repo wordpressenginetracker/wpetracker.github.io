@@ -1,6 +1,11 @@
 {
-    "siteCount": 127742,
+    "siteCount": 127753,
     "recentlyMoved": [
+        {
+            "domain_name": "wantfinance.com.au",
+            "destination": "Pressable",
+            "date": "2026-03-25 05:55:09"
+        },
         {
             "domain_name": "thenetworkchefs.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "dettmannhomes.com.au",
             "destination": "GridPane",
             "date": "2026-03-22 21:35:06"
-        },
-        {
-            "domain_name": "laminationking.com",
-            "destination": "BigScoots",
-            "date": "2026-03-22 20:26:11"
         }
     ],
     "dailyMovedStat": {
@@ -1055,13 +1055,13 @@
         "2026-03-24": "127693"
     },
     "topDestinationHosts": {
-        "Pressable": 12354,
+        "Pressable": 12356,
         "Kinsta": 8681,
         "Digital Ocean": 6228,
         "SiteGround": 5701,
         "Hostinger": 4794,
         "Bluehost": 4516,
-        "GoDaddy": 1635,
+        "GoDaddy": 1636,
         "Liquid Web": 833,
         "BigScoots": 806,
         "WordPress.com": 652,
