@@ -1,6 +1,11 @@
 {
-    "siteCount": 127703,
+    "siteCount": 127711,
     "recentlyMoved": [
+        {
+            "domain_name": "comarproperties.com",
+            "destination": "A2 Hosting",
+            "date": "2026-03-25 01:28:19"
+        },
         {
             "domain_name": "www.goodenconstruction.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "thebountifuldentist.com",
             "destination": "Pressable",
             "date": "2026-03-22 16:44:57"
-        },
-        {
-            "domain_name": "autismwellnesscenter.org",
-            "destination": "Pressable",
-            "date": "2026-03-22 15:37:34"
         }
     ],
     "dailyMovedStat": {
@@ -1055,7 +1055,7 @@
         "2026-03-24": "127693"
     },
     "topDestinationHosts": {
-        "Pressable": 12348,
+        "Pressable": 12349,
         "Kinsta": 8680,
         "Digital Ocean": 6226,
         "SiteGround": 5701,
@@ -1071,7 +1071,7 @@
         "Elementor Hosting": 507,
         "Namecheap": 490,
         "IONOS": 471,
-        "A2 Hosting": 450,
+        "A2 Hosting": 451,
         "DreamHost": 447,
         "Hetzner Online": 388,
         "HostGator": 292
