@@ -1,6 +1,21 @@
 {
-    "siteCount": 128013,
+    "siteCount": 128024,
     "recentlyMoved": [
+        {
+            "domain_name": "historichomesinvirginia.com",
+            "destination": "SiteGround",
+            "date": "2026-03-26 08:24:46"
+        },
+        {
+            "domain_name": "freesiteslike.com",
+            "destination": "Namecheap",
+            "date": "2026-03-26 07:51:07"
+        },
+        {
+            "domain_name": "flysurfer-uk.com",
+            "destination": "Hostinger",
+            "date": "2026-03-26 07:08:02"
+        },
         {
             "domain_name": "aspace.com.au",
             "destination": "Kinsta",
@@ -472,19 +487,9 @@
             "date": "2026-03-24 16:46:15"
         },
         {
-            "domain_name": "redroofstorage.com",
-            "destination": "HostGator",
-            "date": "2026-03-24 16:39:08"
-        },
-        {
             "domain_name": "www.mddermsolutions.com",
             "destination": "GoDaddy",
             "date": "2026-03-24 16:31:50"
-        },
-        {
-            "domain_name": "www.footloosemontana.org",
-            "destination": "Pressable",
-            "date": "2026-03-24 16:29:53"
         },
         {
             "domain_name": "www.montarbolaw.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.montanawaterlaw.com",
             "destination": "Pressable",
             "date": "2026-03-24 16:16:55"
-        },
-        {
-            "domain_name": "bcsrc.ca",
-            "destination": "Kinsta",
-            "date": "2026-03-24 15:55:37"
         }
     ],
     "dailyMovedStat": {
@@ -1058,9 +1058,9 @@
     "topDestinationHosts": {
         "Pressable": 12381,
         "Kinsta": 8689,
-        "Digital Ocean": 6240,
-        "SiteGround": 5701,
-        "Hostinger": 4798,
+        "Digital Ocean": 6241,
+        "SiteGround": 5702,
+        "Hostinger": 4800,
         "Bluehost": 4516,
         "GoDaddy": 1638,
         "Liquid Web": 836,
@@ -1070,7 +1070,7 @@
         "OVH": 594,
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
-        "Namecheap": 491,
+        "Namecheap": 492,
         "IONOS": 471,
         "A2 Hosting": 451,
         "DreamHost": 447,
