@@ -1,6 +1,11 @@
 {
-    "siteCount": 128029,
+    "siteCount": 128030,
     "recentlyMoved": [
+        {
+            "domain_name": "tombeaton.com",
+            "destination": "Hostinger",
+            "date": "2026-03-26 09:43:59"
+        },
         {
             "domain_name": "maxtrack.com",
             "destination": "Hostinger",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "www.montarbolaw.com",
-            "destination": "Pressable",
-            "date": "2026-03-24 16:16:55"
-        },
-        {
-            "domain_name": "www.montanawaterlaw.com",
             "destination": "Pressable",
             "date": "2026-03-24 16:16:55"
         }
@@ -1060,7 +1060,7 @@
         "Kinsta": 8689,
         "Digital Ocean": 6242,
         "SiteGround": 5702,
-        "Hostinger": 4801,
+        "Hostinger": 4802,
         "Bluehost": 4516,
         "GoDaddy": 1638,
         "Liquid Web": 836,
