@@ -1,6 +1,26 @@
 {
-    "siteCount": 128075,
+    "siteCount": 128095,
     "recentlyMoved": [
+        {
+            "domain_name": "www.divisionsevenroofing.com",
+            "destination": "Pressable",
+            "date": "2026-03-26 16:17:36"
+        },
+        {
+            "domain_name": "www.cmm-inc.com",
+            "destination": "Pressable",
+            "date": "2026-03-26 15:56:13"
+        },
+        {
+            "domain_name": "plparkerlaw.com",
+            "destination": "HostGator",
+            "date": "2026-03-26 15:29:11"
+        },
+        {
+            "domain_name": "www.abettersolutionins.com",
+            "destination": "OVH",
+            "date": "2026-03-26 15:27:45"
+        },
         {
             "domain_name": "mytek.net",
             "destination": "Digital Ocean",
@@ -480,26 +500,6 @@
             "domain_name": "usapowerwashingplus.com",
             "destination": "Hostinger",
             "date": "2026-03-24 21:09:37"
-        },
-        {
-            "domain_name": "leahbeltz.com",
-            "destination": "Pressable",
-            "date": "2026-03-24 20:42:23"
-        },
-        {
-            "domain_name": "rickygracing.com",
-            "destination": "GoDaddy",
-            "date": "2026-03-24 20:31:38"
-        },
-        {
-            "domain_name": "boivinkofoed.com",
-            "destination": "Kinsta",
-            "date": "2026-03-24 20:27:19"
-        },
-        {
-            "domain_name": "bridgesource.com",
-            "destination": "Pressable",
-            "date": "2026-03-24 20:06:10"
         }
     ],
     "dailyMovedStat": {
@@ -1056,7 +1056,7 @@
         "2026-03-25": "127971"
     },
     "topDestinationHosts": {
-        "Pressable": 12386,
+        "Pressable": 12388,
         "Kinsta": 8689,
         "Digital Ocean": 6245,
         "SiteGround": 5702,
@@ -1067,7 +1067,7 @@
         "BigScoots": 806,
         "WordPress.com": 653,
         "GridPane": 604,
-        "OVH": 596,
+        "OVH": 597,
         "InMotion Hosting": 551,
         "Elementor Hosting": 507,
         "Namecheap": 492,
@@ -1075,7 +1075,7 @@
         "A2 Hosting": 451,
         "DreamHost": 447,
         "Hetzner Online": 389,
-        "HostGator": 292
+        "HostGator": 293
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
