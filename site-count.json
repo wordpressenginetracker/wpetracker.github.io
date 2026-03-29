@@ -1,6 +1,16 @@
 {
-    "siteCount": 128755,
+    "siteCount": 128765,
     "recentlyMoved": [
+        {
+            "domain_name": "lamar-holding.com",
+            "destination": "Hostinger",
+            "date": "2026-03-29 17:19:46"
+        },
+        {
+            "domain_name": "crematiamortem.com",
+            "destination": "Pressable",
+            "date": "2026-03-29 17:05:09"
+        },
         {
             "domain_name": "allcreaturesanimalcare.com",
             "destination": "GridPane",
@@ -472,11 +482,6 @@
             "date": "2026-03-28 12:04:55"
         },
         {
-            "domain_name": "accidentlawyerhenderson.com",
-            "destination": "Pressable",
-            "date": "2026-03-28 11:58:07"
-        },
-        {
             "domain_name": "instamedia.com",
             "destination": "Kinsta",
             "date": "2026-03-28 11:56:14"
@@ -490,11 +495,6 @@
             "domain_name": "homechunk.com",
             "destination": "Kinsta",
             "date": "2026-03-28 11:46:03"
-        },
-        {
-            "domain_name": "floridainfluencersociety.com",
-            "destination": "Pressable",
-            "date": "2026-03-28 11:41:27"
         },
         {
             "domain_name": "powerbreather.co.uk",
@@ -1059,11 +1059,11 @@
         "2026-03-28": "128699"
     },
     "topDestinationHosts": {
-        "Pressable": 12455,
+        "Pressable": 12456,
         "Kinsta": 8759,
         "Digital Ocean": 6272,
         "SiteGround": 5702,
-        "Hostinger": 4820,
+        "Hostinger": 4821,
         "Bluehost": 4519,
         "GoDaddy": 1644,
         "Liquid Web": 842,
