@@ -1,6 +1,11 @@
 {
-    "siteCount": 128863,
+    "siteCount": 128867,
     "recentlyMoved": [
+        {
+            "domain_name": "ecofriend.com",
+            "destination": "Kinsta",
+            "date": "2026-03-30 05:40:28"
+        },
         {
             "domain_name": "sonorainsbrokers.com",
             "destination": "Pressable",
@@ -485,11 +490,6 @@
             "domain_name": "capitalcoinandbullion.com",
             "destination": "Hostinger",
             "date": "2026-03-28 16:35:31"
-        },
-        {
-            "domain_name": "rockstarsslopestabilization.com",
-            "destination": "Kinsta",
-            "date": "2026-03-28 16:31:11"
         },
         {
             "domain_name": "solvangretirementliving.com",
@@ -1061,7 +1061,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12477,
-        "Kinsta": 8760,
+        "Kinsta": 8761,
         "Digital Ocean": 6275,
         "SiteGround": 5703,
         "Hostinger": 4824,
