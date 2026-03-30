@@ -1,6 +1,11 @@
 {
-    "siteCount": 128867,
+    "siteCount": 128870,
     "recentlyMoved": [
+        {
+            "domain_name": "www.a1concretepumpinginc.com",
+            "destination": "HostGator",
+            "date": "2026-03-30 08:14:23"
+        },
         {
             "domain_name": "ecofriend.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "solvangretirementliving.com",
             "destination": "Kinsta",
             "date": "2026-03-28 16:24:29"
-        },
-        {
-            "domain_name": "ruportpt.com",
-            "destination": "Kinsta",
-            "date": "2026-03-28 16:07:26"
         }
     ],
     "dailyMovedStat": {
@@ -1079,7 +1079,7 @@
         "A2 Hosting": 451,
         "DreamHost": 448,
         "Hetzner Online": 391,
-        "HostGator": 297
+        "HostGator": 298
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
