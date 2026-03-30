@@ -1,6 +1,21 @@
 {
-    "siteCount": 128870,
+    "siteCount": 128877,
     "recentlyMoved": [
+        {
+            "domain_name": "miradorenterprises.com",
+            "destination": "Pressable",
+            "date": "2026-03-30 10:29:30"
+        },
+        {
+            "domain_name": "coldtap.com",
+            "destination": "Pressable",
+            "date": "2026-03-30 09:44:42"
+        },
+        {
+            "domain_name": "www.veteransinc.org",
+            "destination": "Kinsta",
+            "date": "2026-03-30 09:37:14"
+        },
         {
             "domain_name": "www.a1concretepumpinginc.com",
             "destination": "HostGator",
@@ -477,24 +492,9 @@
             "date": "2026-03-28 17:01:47"
         },
         {
-            "domain_name": "juarezlegal.com",
-            "destination": "Pressable",
-            "date": "2026-03-28 16:54:31"
-        },
-        {
-            "domain_name": "j-fell.com",
-            "destination": "Kinsta",
-            "date": "2026-03-28 16:53:46"
-        },
-        {
             "domain_name": "surgewellness.com",
             "destination": "Kinsta",
             "date": "2026-03-28 16:35:51"
-        },
-        {
-            "domain_name": "capitalcoinandbullion.com",
-            "destination": "Hostinger",
-            "date": "2026-03-28 16:35:31"
         },
         {
             "domain_name": "solvangretirementliving.com",
@@ -1060,8 +1060,8 @@
         "2026-03-29": "128820"
     },
     "topDestinationHosts": {
-        "Pressable": 12477,
-        "Kinsta": 8761,
+        "Pressable": 12479,
+        "Kinsta": 8762,
         "Digital Ocean": 6275,
         "SiteGround": 5703,
         "Hostinger": 4824,
