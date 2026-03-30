@@ -1,6 +1,16 @@
 {
-    "siteCount": 128882,
+    "siteCount": 128889,
     "recentlyMoved": [
+        {
+            "domain_name": "sarrisinger.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-03-30 13:05:59"
+        },
+        {
+            "domain_name": "kmwellnesscenter.com",
+            "destination": "Pressable",
+            "date": "2026-03-30 12:45:40"
+        },
         {
             "domain_name": "professionalrooferssite.com",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "mattwatkinslaw.com",
             "destination": "Pressable",
             "date": "2026-03-28 17:31:38"
-        },
-        {
-            "domain_name": "livewellcontractors.com",
-            "destination": "Kinsta",
-            "date": "2026-03-28 17:15:47"
-        },
-        {
-            "domain_name": "customstrut.com",
-            "destination": "Pressable",
-            "date": "2026-03-28 17:14:31"
         }
     ],
     "dailyMovedStat": {
@@ -1060,7 +1060,7 @@
         "2026-03-29": "128820"
     },
     "topDestinationHosts": {
-        "Pressable": 12481,
+        "Pressable": 12482,
         "Kinsta": 8762,
         "Digital Ocean": 6275,
         "SiteGround": 5703,
@@ -1073,7 +1073,7 @@
         "GridPane": 614,
         "OVH": 611,
         "InMotion Hosting": 552,
-        "Elementor Hosting": 513,
+        "Elementor Hosting": 514,
         "Namecheap": 496,
         "IONOS": 472,
         "A2 Hosting": 451,
