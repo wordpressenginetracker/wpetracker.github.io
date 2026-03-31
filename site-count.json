@@ -1,6 +1,21 @@
 {
-    "siteCount": 128957,
+    "siteCount": 128967,
     "recentlyMoved": [
+        {
+            "domain_name": "altiusnxt.com",
+            "destination": "Hostinger",
+            "date": "2026-03-31 04:16:09"
+        },
+        {
+            "domain_name": "windowdoctorsf.com",
+            "destination": "Bluehost",
+            "date": "2026-03-31 03:55:11"
+        },
+        {
+            "domain_name": "agilycom.com",
+            "destination": "Hetzner Online",
+            "date": "2026-03-31 03:55:07"
+        },
         {
             "domain_name": "lumabuilt.com",
             "destination": "Digital Ocean",
@@ -477,11 +492,6 @@
             "date": "2026-03-28 21:26:47"
         },
         {
-            "domain_name": "crandonrocks.com",
-            "destination": "Kinsta",
-            "date": "2026-03-28 21:13:25"
-        },
-        {
             "domain_name": "drclunes.com",
             "destination": "Kinsta",
             "date": "2026-03-28 21:12:18"
@@ -490,16 +500,6 @@
             "domain_name": "thecadre.com",
             "destination": "Pressable",
             "date": "2026-03-28 21:10:13"
-        },
-        {
-            "domain_name": "languageplusmadrid.com.es",
-            "destination": "Pressable",
-            "date": "2026-03-28 20:59:38"
-        },
-        {
-            "domain_name": "languageplusmadrid.com",
-            "destination": "Pressable",
-            "date": "2026-03-28 20:59:38"
         }
     ],
     "dailyMovedStat": {
@@ -1065,8 +1065,8 @@
         "Kinsta": 8769,
         "Digital Ocean": 6277,
         "SiteGround": 5703,
-        "Hostinger": 4827,
-        "Bluehost": 4522,
+        "Hostinger": 4828,
+        "Bluehost": 4523,
         "GoDaddy": 1646,
         "Liquid Web": 843,
         "BigScoots": 806,
@@ -1079,7 +1079,7 @@
         "IONOS": 472,
         "A2 Hosting": 451,
         "DreamHost": 448,
-        "Hetzner Online": 391,
+        "Hetzner Online": 392,
         "HostGator": 298
     },
     "dailyTotalStat": {
