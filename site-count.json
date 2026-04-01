@@ -1,6 +1,41 @@
 {
-    "siteCount": 129219,
+    "siteCount": 129231,
     "recentlyMoved": [
+        {
+            "domain_name": "www.madisoncorporategroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-01 04:50:56"
+        },
+        {
+            "domain_name": "skinspaceclinic.com",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:46:19"
+        },
+        {
+            "domain_name": "sakalalife.com",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:44:58"
+        },
+        {
+            "domain_name": "cellphonebeat.com",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:43:51"
+        },
+        {
+            "domain_name": "celebguru.com",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:40:27"
+        },
+        {
+            "domain_name": "www.tcnvending.com.au",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:33:56"
+        },
+        {
+            "domain_name": "kitchenclan.com",
+            "destination": "Kinsta",
+            "date": "2026-04-01 04:20:21"
+        },
         {
             "domain_name": "auroraproservices.com",
             "destination": "Hostinger",
@@ -462,44 +497,9 @@
             "date": "2026-03-31 03:55:07"
         },
         {
-            "domain_name": "lumabuilt.com",
-            "destination": "Digital Ocean",
-            "date": "2026-03-31 01:23:32"
-        },
-        {
             "domain_name": "montgomerywhitewater.com",
             "destination": "Liquid Web",
             "date": "2026-03-31 01:16:53"
-        },
-        {
-            "domain_name": "coolectrics.com.au",
-            "destination": "Kinsta",
-            "date": "2026-03-31 00:56:08"
-        },
-        {
-            "domain_name": "heliosinstallations.com",
-            "destination": "Pressable",
-            "date": "2026-03-31 00:21:31"
-        },
-        {
-            "domain_name": "captionsunlimited.com",
-            "destination": "Pressable",
-            "date": "2026-03-31 00:15:01"
-        },
-        {
-            "domain_name": "weddingclan.com",
-            "destination": "Kinsta",
-            "date": "2026-03-30 21:42:48"
-        },
-        {
-            "domain_name": "divinedentalspa.com",
-            "destination": "Pressable",
-            "date": "2026-03-30 21:28:05"
-        },
-        {
-            "domain_name": "ncphotostories.com",
-            "destination": "WordPress.com",
-            "date": "2026-03-30 21:16:25"
         }
     ],
     "dailyMovedStat": {
@@ -1063,8 +1063,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12516,
-        "Kinsta": 8802,
-        "Digital Ocean": 6288,
+        "Kinsta": 8808,
+        "Digital Ocean": 6289,
         "SiteGround": 5703,
         "Hostinger": 4836,
         "Bluehost": 4527,
