@@ -1,6 +1,11 @@
 {
-    "siteCount": 129231,
+    "siteCount": 129236,
     "recentlyMoved": [
+        {
+            "domain_name": "waltuchandcallanortho.com",
+            "destination": "WordPress.com",
+            "date": "2026-04-01 05:31:42"
+        },
         {
             "domain_name": "www.madisoncorporategroup.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "agilycom.com",
             "destination": "Hetzner Online",
             "date": "2026-03-31 03:55:07"
-        },
-        {
-            "domain_name": "montgomerywhitewater.com",
-            "destination": "Liquid Web",
-            "date": "2026-03-31 01:16:53"
         }
     ],
     "dailyMovedStat": {
@@ -1071,7 +1071,7 @@
         "GoDaddy": 1648,
         "Liquid Web": 847,
         "BigScoots": 806,
-        "WordPress.com": 659,
+        "WordPress.com": 660,
         "GridPane": 616,
         "OVH": 611,
         "InMotion Hosting": 552,
