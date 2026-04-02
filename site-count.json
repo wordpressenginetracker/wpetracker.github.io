@@ -1,6 +1,11 @@
 {
-    "siteCount": 129529,
+    "siteCount": 129536,
     "recentlyMoved": [
+        {
+            "domain_name": "lilasjewelrycollection.com",
+            "destination": "Pressable",
+            "date": "2026-04-02 05:17:19"
+        },
         {
             "domain_name": "premierdentalrefining.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "quigginequinevets.co.uk",
             "destination": "Hetzner Online",
             "date": "2026-04-01 08:08:18"
-        },
-        {
-            "domain_name": "ppc.animalbehaviorcollege.com",
-            "destination": "Kinsta",
-            "date": "2026-04-01 08:04:15"
         },
         {
             "domain_name": "autochunk.com",
@@ -1063,7 +1063,7 @@
         "2026-04-01": "129487"
     },
     "topDestinationHosts": {
-        "Pressable": 12545,
+        "Pressable": 12546,
         "Kinsta": 8851,
         "Digital Ocean": 6302,
         "SiteGround": 5704,
