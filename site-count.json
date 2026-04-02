@@ -1,6 +1,11 @@
 {
-    "siteCount": 129537,
+    "siteCount": 129546,
     "recentlyMoved": [
+        {
+            "domain_name": "propanagroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-02 07:54:22"
+        },
         {
             "domain_name": "lilasjewelrycollection.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "helenaanrather.com",
             "destination": "GoDaddy",
             "date": "2026-04-01 08:09:39"
-        },
-        {
-            "domain_name": "quigginequinevets.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-04-01 08:08:18"
         },
         {
             "domain_name": "autochunk.com",
@@ -1065,7 +1065,7 @@
     "topDestinationHosts": {
         "Pressable": 12546,
         "Kinsta": 8851,
-        "Digital Ocean": 6302,
+        "Digital Ocean": 6303,
         "SiteGround": 5704,
         "Hostinger": 4845,
         "Bluehost": 4528,
