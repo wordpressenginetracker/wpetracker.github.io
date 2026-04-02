@@ -1,6 +1,11 @@
 {
-    "siteCount": 129657,
+    "siteCount": 129663,
     "recentlyMoved": [
+        {
+            "domain_name": "vansad.ca",
+            "destination": "Hostinger",
+            "date": "2026-04-02 17:26:57"
+        },
         {
             "domain_name": "sunrolloff.com",
             "destination": "Hostinger",
@@ -480,11 +485,6 @@
             "domain_name": "utahconcretepro.com",
             "destination": "Pressable",
             "date": "2026-04-01 17:30:52"
-        },
-        {
-            "domain_name": "www.tribunetx.com",
-            "destination": "Kinsta",
-            "date": "2026-04-01 17:29:04"
         },
         {
             "domain_name": "theyardfoodpark.com",
@@ -1067,8 +1067,8 @@
         "Kinsta": 8855,
         "Digital Ocean": 6315,
         "SiteGround": 5704,
-        "Hostinger": 4851,
-        "Bluehost": 4528,
+        "Hostinger": 4852,
+        "Bluehost": 4529,
         "GoDaddy": 1653,
         "Liquid Web": 849,
         "BigScoots": 808,
