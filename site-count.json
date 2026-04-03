@@ -1,6 +1,11 @@
 {
-    "siteCount": 129771,
+    "siteCount": 129776,
     "recentlyMoved": [
+        {
+            "domain_name": "visionrealestate.com",
+            "destination": "Pressable",
+            "date": "2026-04-03 01:47:07"
+        },
         {
             "domain_name": "join.directoryofillustration.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "kanatatech.com",
             "destination": "OVH",
             "date": "2026-04-01 20:24:38"
-        },
-        {
-            "domain_name": "brantfoodcentre.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-01 20:12:02"
         }
     ],
     "dailyMovedStat": {
@@ -1064,7 +1064,7 @@
         "2026-04-02": "129760"
     },
     "topDestinationHosts": {
-        "Pressable": 12568,
+        "Pressable": 12569,
         "Kinsta": 8864,
         "Digital Ocean": 6318,
         "SiteGround": 5704,
