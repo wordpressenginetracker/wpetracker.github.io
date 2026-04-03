@@ -1,6 +1,16 @@
 {
-    "siteCount": 129776,
+    "siteCount": 129782,
     "recentlyMoved": [
+        {
+            "domain_name": "www.buburesort.com",
+            "destination": "Hostinger",
+            "date": "2026-04-03 04:13:58"
+        },
+        {
+            "domain_name": "www.accredit-solutions.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-03 03:55:24"
+        },
         {
             "domain_name": "visionrealestate.com",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2026-04-01 21:01:11"
         },
         {
-            "domain_name": "kresslawoffice.com",
-            "destination": "Kinsta",
-            "date": "2026-04-01 20:52:13"
-        },
-        {
             "domain_name": "leonardleonard.com",
             "destination": "Pressable",
             "date": "2026-04-01 20:39:58"
@@ -495,11 +500,6 @@
             "domain_name": "stream.org",
             "destination": "Kinsta",
             "date": "2026-04-01 20:35:07"
-        },
-        {
-            "domain_name": "kanatatech.com",
-            "destination": "OVH",
-            "date": "2026-04-01 20:24:38"
         }
     ],
     "dailyMovedStat": {
@@ -1066,9 +1066,9 @@
     "topDestinationHosts": {
         "Pressable": 12569,
         "Kinsta": 8864,
-        "Digital Ocean": 6318,
+        "Digital Ocean": 6319,
         "SiteGround": 5704,
-        "Hostinger": 4853,
+        "Hostinger": 4854,
         "Bluehost": 4529,
         "GoDaddy": 1654,
         "Liquid Web": 849,
