@@ -1,6 +1,21 @@
 {
-    "siteCount": 129804,
+    "siteCount": 129812,
     "recentlyMoved": [
+        {
+            "domain_name": "makablind.com",
+            "destination": "Kinsta",
+            "date": "2026-04-03 09:36:30"
+        },
+        {
+            "domain_name": "www.southoverbs.com",
+            "destination": "Hostinger",
+            "date": "2026-04-03 09:22:40"
+        },
+        {
+            "domain_name": "steak954.com",
+            "destination": "Kinsta",
+            "date": "2026-04-03 09:01:24"
+        },
         {
             "domain_name": "www.hlegal.co.uk",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "searchrescue.com.au",
             "destination": "Hostinger",
             "date": "2026-04-02 00:23:09"
-        },
-        {
-            "domain_name": "incrediblediary.com",
-            "destination": "Kinsta",
-            "date": "2026-04-02 00:12:53"
-        },
-        {
-            "domain_name": "rexiusorchidbark.com",
-            "destination": "Pressable",
-            "date": "2026-04-01 23:56:14"
-        },
-        {
-            "domain_name": "www.developmentguild.com",
-            "destination": "Pressable",
-            "date": "2026-04-01 23:37:14"
         }
     ],
     "dailyMovedStat": {
@@ -1065,10 +1065,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12569,
-        "Kinsta": 8866,
-        "Digital Ocean": 6320,
+        "Kinsta": 8868,
+        "Digital Ocean": 6321,
         "SiteGround": 5704,
-        "Hostinger": 4855,
+        "Hostinger": 4856,
         "Bluehost": 4529,
         "GoDaddy": 1654,
         "Liquid Web": 849,
