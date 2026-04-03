@@ -1,6 +1,21 @@
 {
-    "siteCount": 129761,
+    "siteCount": 129771,
     "recentlyMoved": [
+        {
+            "domain_name": "join.directoryofillustration.com",
+            "destination": "Hostinger",
+            "date": "2026-04-03 00:57:55"
+        },
+        {
+            "domain_name": "syncworks.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-03 00:49:07"
+        },
+        {
+            "domain_name": "splashlaundrette.au",
+            "destination": "Kinsta",
+            "date": "2026-04-03 00:20:37"
+        },
         {
             "domain_name": "veirsenterprises.com",
             "destination": "Kinsta",
@@ -472,11 +487,6 @@
             "date": "2026-04-01 20:38:43"
         },
         {
-            "domain_name": "brabers.com",
-            "destination": "Digital Ocean",
-            "date": "2026-04-01 20:38:07"
-        },
-        {
             "domain_name": "stream.org",
             "destination": "Kinsta",
             "date": "2026-04-01 20:35:07"
@@ -487,19 +497,9 @@
             "date": "2026-04-01 20:24:38"
         },
         {
-            "domain_name": "barianioliveoil.com",
-            "destination": "Pressable",
-            "date": "2026-04-01 20:12:15"
-        },
-        {
             "domain_name": "brantfoodcentre.com",
             "destination": "Elementor Hosting",
             "date": "2026-04-01 20:12:02"
-        },
-        {
-            "domain_name": "homehealthsupplyshop.ca",
-            "destination": "Kinsta",
-            "date": "2026-04-01 19:44:49"
         }
     ],
     "dailyMovedStat": {
@@ -1065,10 +1065,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12568,
-        "Kinsta": 8863,
-        "Digital Ocean": 6317,
+        "Kinsta": 8864,
+        "Digital Ocean": 6318,
         "SiteGround": 5704,
-        "Hostinger": 4852,
+        "Hostinger": 4853,
         "Bluehost": 4529,
         "GoDaddy": 1654,
         "Liquid Web": 849,
