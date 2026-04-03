@@ -1,10 +1,30 @@
 {
-    "siteCount": 130027,
+    "siteCount": 130033,
     "recentlyMoved": [
+        {
+            "domain_name": "nlaclive.org",
+            "destination": "Elementor Hosting",
+            "date": "2026-04-03 21:47:09"
+        },
         {
             "domain_name": "dalemcbroom.com",
             "destination": "Elementor Hosting",
             "date": "2026-04-03 21:36:09"
+        },
+        {
+            "domain_name": "occupationalhc.com",
+            "destination": "Hostinger",
+            "date": "2026-04-03 21:23:00"
+        },
+        {
+            "domain_name": "fabisquarry.com",
+            "destination": "IONOS",
+            "date": "2026-04-03 21:21:54"
+        },
+        {
+            "domain_name": "morgansmission.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-04-03 21:19:08"
         },
         {
             "domain_name": "skipio.com",
@@ -477,29 +497,9 @@
             "date": "2026-04-02 16:30:26"
         },
         {
-            "domain_name": "www.clydeinc.com",
-            "destination": "Pressable",
-            "date": "2026-04-02 16:16:35"
-        },
-        {
-            "domain_name": "roaringforkseniorliving.com",
-            "destination": "OVH",
-            "date": "2026-04-02 16:14:53"
-        },
-        {
-            "domain_name": "ronchristophercompany.com",
-            "destination": "Pressable",
-            "date": "2026-04-02 16:12:42"
-        },
-        {
             "domain_name": "buyinfinity.com",
             "destination": "Pressable",
             "date": "2026-04-02 16:06:02"
-        },
-        {
-            "domain_name": "hilltopreserve.com",
-            "destination": "OVH",
-            "date": "2026-04-02 15:44:24"
         }
     ],
     "dailyMovedStat": {
@@ -1068,7 +1068,7 @@
         "Kinsta": 8877,
         "Digital Ocean": 6323,
         "SiteGround": 5704,
-        "Hostinger": 4866,
+        "Hostinger": 4867,
         "Bluehost": 4532,
         "GoDaddy": 1655,
         "Liquid Web": 850,
@@ -1077,9 +1077,9 @@
         "GridPane": 626,
         "OVH": 618,
         "InMotion Hosting": 555,
-        "Elementor Hosting": 529,
+        "Elementor Hosting": 531,
         "Namecheap": 499,
-        "IONOS": 478,
+        "IONOS": 479,
         "A2 Hosting": 452,
         "DreamHost": 449,
         "Hetzner Online": 397,
