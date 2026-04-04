@@ -1,6 +1,11 @@
 {
-    "siteCount": 130072,
+    "siteCount": 130076,
     "recentlyMoved": [
+        {
+            "domain_name": "morganmoorecustombuilders.com",
+            "destination": "Pressable",
+            "date": "2026-04-04 05:20:29"
+        },
         {
             "domain_name": "summervp.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "www.fusionsoundmix.com",
             "destination": "Pressable",
             "date": "2026-04-02 19:49:29"
-        },
-        {
-            "domain_name": "advhearingaid.com",
-            "destination": "Pressable",
-            "date": "2026-04-02 19:28:41"
         }
     ],
     "dailyMovedStat": {
@@ -1065,7 +1065,7 @@
         "2026-04-03": "130033"
     },
     "topDestinationHosts": {
-        "Pressable": 12577,
+        "Pressable": 12578,
         "Kinsta": 8877,
         "Digital Ocean": 6323,
         "SiteGround": 5704,
