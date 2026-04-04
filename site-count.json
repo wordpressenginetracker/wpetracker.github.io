@@ -1,6 +1,16 @@
 {
-    "siteCount": 130053,
+    "siteCount": 130062,
     "recentlyMoved": [
+        {
+            "domain_name": "folkstonestringband.com",
+            "destination": "Hostinger",
+            "date": "2026-04-04 04:01:38"
+        },
+        {
+            "domain_name": "ghhomeinspections.com",
+            "destination": "HostGator",
+            "date": "2026-04-04 03:37:53"
+        },
         {
             "domain_name": "dorightinsurance.com",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2026-04-02 16:54:32"
         },
         {
-            "domain_name": "syromalabardetroit.org",
-            "destination": "Hostinger",
-            "date": "2026-04-02 16:53:42"
-        },
-        {
             "domain_name": "tejontreating.com",
             "destination": "Pressable",
             "date": "2026-04-02 16:45:22"
-        },
-        {
-            "domain_name": "swerveautomotive.com",
-            "destination": "Hostinger",
-            "date": "2026-04-02 16:33:35"
         }
     ],
     "dailyMovedStat": {
@@ -1069,7 +1069,7 @@
         "Kinsta": 8877,
         "Digital Ocean": 6323,
         "SiteGround": 5704,
-        "Hostinger": 4867,
+        "Hostinger": 4868,
         "Bluehost": 4532,
         "GoDaddy": 1655,
         "Liquid Web": 850,
@@ -1084,7 +1084,7 @@
         "A2 Hosting": 452,
         "DreamHost": 449,
         "Hetzner Online": 397,
-        "HostGator": 298
+        "HostGator": 299
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
