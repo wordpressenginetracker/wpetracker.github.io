@@ -1,6 +1,26 @@
 {
-    "siteCount": 130062,
+    "siteCount": 130072,
     "recentlyMoved": [
+        {
+            "domain_name": "summervp.com",
+            "destination": "HostGator",
+            "date": "2026-04-04 05:18:00"
+        },
+        {
+            "domain_name": "shelleylevine.com",
+            "destination": "Pressable",
+            "date": "2026-04-04 04:36:51"
+        },
+        {
+            "domain_name": "spamyblendtoronto.com",
+            "destination": "HostGator",
+            "date": "2026-04-04 04:33:26"
+        },
+        {
+            "domain_name": "www.stgis.at",
+            "destination": "Hetzner Online",
+            "date": "2026-04-04 04:28:33"
+        },
         {
             "domain_name": "folkstonestringband.com",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "advhearingaid.com",
             "destination": "Pressable",
             "date": "2026-04-02 19:28:41"
-        },
-        {
-            "domain_name": "westernwaterarchives.org",
-            "destination": "Pressable",
-            "date": "2026-04-02 19:04:50"
-        },
-        {
-            "domain_name": "vansad.ca",
-            "destination": "Hostinger",
-            "date": "2026-04-02 17:26:57"
-        },
-        {
-            "domain_name": "theplayers.org",
-            "destination": "Bluehost",
-            "date": "2026-04-02 16:54:32"
-        },
-        {
-            "domain_name": "tejontreating.com",
-            "destination": "Pressable",
-            "date": "2026-04-02 16:45:22"
         }
     ],
     "dailyMovedStat": {
@@ -1065,7 +1065,7 @@
         "2026-04-03": "130033"
     },
     "topDestinationHosts": {
-        "Pressable": 12576,
+        "Pressable": 12577,
         "Kinsta": 8877,
         "Digital Ocean": 6323,
         "SiteGround": 5704,
@@ -1083,8 +1083,8 @@
         "IONOS": 480,
         "A2 Hosting": 452,
         "DreamHost": 449,
-        "Hetzner Online": 397,
-        "HostGator": 299
+        "Hetzner Online": 398,
+        "HostGator": 301
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
