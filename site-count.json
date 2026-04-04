@@ -1,6 +1,11 @@
 {
-    "siteCount": 130050,
+    "siteCount": 130053,
     "recentlyMoved": [
+        {
+            "domain_name": "dorightinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-04-04 01:30:32"
+        },
         {
             "domain_name": "studentministries.org",
             "destination": "Elementor Hosting",
@@ -475,11 +480,6 @@
             "domain_name": "vansad.ca",
             "destination": "Hostinger",
             "date": "2026-04-02 17:26:57"
-        },
-        {
-            "domain_name": "sunrolloff.com",
-            "destination": "Hostinger",
-            "date": "2026-04-02 17:24:05"
         },
         {
             "domain_name": "theplayers.org",
@@ -1065,7 +1065,7 @@
         "2026-04-03": "130033"
     },
     "topDestinationHosts": {
-        "Pressable": 12575,
+        "Pressable": 12576,
         "Kinsta": 8877,
         "Digital Ocean": 6323,
         "SiteGround": 5704,
