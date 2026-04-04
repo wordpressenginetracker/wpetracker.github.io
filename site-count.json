@@ -1,6 +1,11 @@
 {
-    "siteCount": 130211,
+    "siteCount": 130212,
     "recentlyMoved": [
+        {
+            "domain_name": "nuveauhomes.com",
+            "destination": "Pressable",
+            "date": "2026-04-04 21:44:05"
+        },
         {
             "domain_name": "tgthemogul.com",
             "destination": "BigScoots",
@@ -490,11 +495,6 @@
             "domain_name": "guap.co",
             "destination": "IONOS",
             "date": "2026-04-03 11:30:11"
-        },
-        {
-            "domain_name": "elvezftlauderdale.com",
-            "destination": "Kinsta",
-            "date": "2026-04-03 09:41:03"
         },
         {
             "domain_name": "nakymatonvoima.fi",
@@ -1065,8 +1065,8 @@
         "2026-04-03": "130033"
     },
     "topDestinationHosts": {
-        "Pressable": 12579,
-        "Kinsta": 8881,
+        "Pressable": 12580,
+        "Kinsta": 8882,
         "Digital Ocean": 6325,
         "SiteGround": 5704,
         "Hostinger": 4870,
