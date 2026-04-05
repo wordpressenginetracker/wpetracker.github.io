@@ -1,6 +1,11 @@
 {
-    "siteCount": 130243,
+    "siteCount": 130250,
     "recentlyMoved": [
+        {
+            "domain_name": "www.whetstonedesigns.com",
+            "destination": "BigScoots",
+            "date": "2026-04-05 12:57:47"
+        },
         {
             "domain_name": "www.jessicacats.com",
             "destination": "DreamHost",
@@ -460,11 +465,6 @@
             "domain_name": "rollashield.com",
             "destination": "Pressable",
             "date": "2026-04-03 12:26:49"
-        },
-        {
-            "domain_name": "www.gcweightloss.com",
-            "destination": "Hostinger",
-            "date": "2026-04-03 12:05:25"
         },
         {
             "domain_name": "www.cometclassics.co.uk",
@@ -1074,7 +1074,7 @@
         "Bluehost": 4532,
         "GoDaddy": 1656,
         "Liquid Web": 851,
-        "BigScoots": 813,
+        "BigScoots": 814,
         "WordPress.com": 662,
         "GridPane": 630,
         "OVH": 620,
