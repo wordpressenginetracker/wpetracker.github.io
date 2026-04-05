@@ -1,6 +1,11 @@
 {
-    "siteCount": 130212,
+    "siteCount": 130220,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fusion-ems.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-05 00:08:53"
+        },
         {
             "domain_name": "nuveauhomes.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "guap.co",
             "destination": "IONOS",
             "date": "2026-04-03 11:30:11"
-        },
-        {
-            "domain_name": "nakymatonvoima.fi",
-            "destination": "Hetzner Online",
-            "date": "2026-04-03 09:17:24"
         }
     ],
     "dailyMovedStat": {
@@ -1068,7 +1068,7 @@
     "topDestinationHosts": {
         "Pressable": 12580,
         "Kinsta": 8882,
-        "Digital Ocean": 6325,
+        "Digital Ocean": 6326,
         "SiteGround": 5704,
         "Hostinger": 4870,
         "Bluehost": 4532,
