@@ -1,6 +1,11 @@
 {
-    "siteCount": 130232,
+    "siteCount": 130236,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jessicacats.com",
+            "destination": "DreamHost",
+            "date": "2026-04-05 07:56:47"
+        },
         {
             "domain_name": "www.fusion-ems.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "algargeothermal.com",
             "destination": "Bluehost",
             "date": "2026-04-03 11:34:02"
-        },
-        {
-            "domain_name": "franklyn-k.com",
-            "destination": "Hostinger",
-            "date": "2026-04-03 11:32:26"
         },
         {
             "domain_name": "guap.co",
@@ -1083,7 +1083,7 @@
         "Namecheap": 503,
         "IONOS": 480,
         "A2 Hosting": 452,
-        "DreamHost": 450,
+        "DreamHost": 451,
         "Hetzner Online": 398,
         "HostGator": 304
     },
