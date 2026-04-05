@@ -1,6 +1,16 @@
 {
-    "siteCount": 130288,
+    "siteCount": 130299,
     "recentlyMoved": [
+        {
+            "domain_name": "www.newtonproject.eu",
+            "destination": "Hetzner Online",
+            "date": "2026-04-05 20:54:44"
+        },
+        {
+            "domain_name": "brandonhouston.com",
+            "destination": "Hostinger",
+            "date": "2026-04-05 20:22:48"
+        },
         {
             "domain_name": "www.outpatientportal.ch",
             "destination": "Digital Ocean",
@@ -482,19 +492,9 @@
             "date": "2026-04-03 11:49:54"
         },
         {
-            "domain_name": "ammsco.com",
-            "destination": "Hostinger",
-            "date": "2026-04-03 11:48:34"
-        },
-        {
             "domain_name": "www.absinthe.fr",
             "destination": "Hostinger",
             "date": "2026-04-03 11:45:27"
-        },
-        {
-            "domain_name": "algargeothermal.com",
-            "destination": "Bluehost",
-            "date": "2026-04-03 11:34:02"
         },
         {
             "domain_name": "guap.co",
@@ -1070,7 +1070,7 @@
         "Kinsta": 8882,
         "Digital Ocean": 6327,
         "SiteGround": 5704,
-        "Hostinger": 4870,
+        "Hostinger": 4871,
         "Bluehost": 4532,
         "GoDaddy": 1657,
         "Liquid Web": 851,
@@ -1082,9 +1082,9 @@
         "Elementor Hosting": 536,
         "Namecheap": 503,
         "IONOS": 481,
-        "A2 Hosting": 452,
         "DreamHost": 452,
-        "Hetzner Online": 398,
+        "A2 Hosting": 452,
+        "Hetzner Online": 399,
         "HostGator": 304
     },
     "dailyTotalStat": {
