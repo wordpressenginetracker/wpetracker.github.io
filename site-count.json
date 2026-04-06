@@ -1,5 +1,5 @@
 {
-    "siteCount": 130341,
+    "siteCount": 130346,
     "recentlyMoved": [
         {
             "domain_name": "redstateroundup.com",
@@ -10,6 +10,11 @@
             "domain_name": "bernardrealestategroup.com",
             "destination": "SiteGround",
             "date": "2026-04-06 04:28:10"
+        },
+        {
+            "domain_name": "juicyjournaling.com",
+            "destination": "Hostinger",
+            "date": "2026-04-06 04:26:03"
         },
         {
             "domain_name": "andrewadavis.com",
@@ -495,11 +500,6 @@
             "domain_name": "honorflightah.org",
             "destination": "Namecheap",
             "date": "2026-04-03 16:17:56"
-        },
-        {
-            "domain_name": "halloranlawoffices.com",
-            "destination": "Pressable",
-            "date": "2026-04-03 16:15:22"
         }
     ],
     "dailyMovedStat": {
@@ -1071,7 +1071,7 @@
         "Kinsta": 8883,
         "Digital Ocean": 6333,
         "SiteGround": 5705,
-        "Hostinger": 4873,
+        "Hostinger": 4874,
         "Bluehost": 4533,
         "GoDaddy": 1660,
         "Liquid Web": 851,
