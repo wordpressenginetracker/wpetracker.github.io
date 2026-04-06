@@ -1,6 +1,11 @@
 {
-    "siteCount": 130365,
+    "siteCount": 130372,
     "recentlyMoved": [
+        {
+            "domain_name": "claytrader.com",
+            "destination": "Hostinger",
+            "date": "2026-04-06 12:28:04"
+        },
         {
             "domain_name": "whenyoudie.org",
             "destination": "OVH",
@@ -480,11 +485,6 @@
             "domain_name": "socialsparkmedia.com",
             "destination": "Kinsta",
             "date": "2026-04-03 17:01:25"
-        },
-        {
-            "domain_name": "hvhspecialtygrowers.com",
-            "destination": "Wordify",
-            "date": "2026-04-03 16:40:55"
         },
         {
             "domain_name": "creekspa.com",
@@ -1071,7 +1071,7 @@
         "Kinsta": 8883,
         "Digital Ocean": 6333,
         "SiteGround": 5705,
-        "Hostinger": 4874,
+        "Hostinger": 4875,
         "Bluehost": 4533,
         "GoDaddy": 1660,
         "Liquid Web": 851,
