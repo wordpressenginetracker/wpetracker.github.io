@@ -1,6 +1,11 @@
 {
-    "siteCount": 130408,
+    "siteCount": 130412,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mailmanagerinc.com",
+            "destination": "A2 Hosting",
+            "date": "2026-04-06 21:11:42"
+        },
         {
             "domain_name": "houseofpacheco.com",
             "destination": "BigScoots",
@@ -490,11 +495,6 @@
             "domain_name": "menistry.aljc.org",
             "destination": "Elementor Hosting",
             "date": "2026-04-03 17:05:25"
-        },
-        {
-            "domain_name": "kidzquest.aljc.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-03 17:02:07"
         },
         {
             "domain_name": "creekspa.com",
@@ -1083,8 +1083,8 @@
         "Elementor Hosting": 536,
         "Namecheap": 503,
         "IONOS": 483,
+        "A2 Hosting": 453,
         "DreamHost": 452,
-        "A2 Hosting": 452,
         "Hetzner Online": 400,
         "HostGator": 304
     },
