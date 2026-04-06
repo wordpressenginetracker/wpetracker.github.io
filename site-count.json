@@ -1,6 +1,21 @@
 {
-    "siteCount": 130332,
+    "siteCount": 130341,
     "recentlyMoved": [
+        {
+            "domain_name": "redstateroundup.com",
+            "destination": "IONOS",
+            "date": "2026-04-06 04:36:48"
+        },
+        {
+            "domain_name": "bernardrealestategroup.com",
+            "destination": "SiteGround",
+            "date": "2026-04-06 04:28:10"
+        },
+        {
+            "domain_name": "andrewadavis.com",
+            "destination": "Hetzner Online",
+            "date": "2026-04-06 03:47:55"
+        },
         {
             "domain_name": "ultimateassetprotection.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "halloranlawoffices.com",
             "destination": "Pressable",
             "date": "2026-04-03 16:15:22"
-        },
-        {
-            "domain_name": "www.mcrlabour.org.uk",
-            "destination": "IONOS",
-            "date": "2026-04-03 15:56:12"
-        },
-        {
-            "domain_name": "worldmissions.aljc.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-03 15:33:18"
-        },
-        {
-            "domain_name": "education.aljc.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-03 13:23:02"
         }
     ],
     "dailyMovedStat": {
@@ -1070,7 +1070,7 @@
         "Pressable": 12580,
         "Kinsta": 8883,
         "Digital Ocean": 6333,
-        "SiteGround": 5704,
+        "SiteGround": 5705,
         "Hostinger": 4873,
         "Bluehost": 4533,
         "GoDaddy": 1660,
@@ -1082,10 +1082,10 @@
         "InMotion Hosting": 555,
         "Elementor Hosting": 536,
         "Namecheap": 503,
-        "IONOS": 481,
+        "IONOS": 482,
         "DreamHost": 452,
         "A2 Hosting": 452,
-        "Hetzner Online": 399,
+        "Hetzner Online": 400,
         "HostGator": 304
     },
     "dailyTotalStat": {
