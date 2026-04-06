@@ -1,6 +1,11 @@
 {
-    "siteCount": 130381,
+    "siteCount": 130385,
     "recentlyMoved": [
+        {
+            "domain_name": "theblackpantslegion.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-06 17:28:20"
+        },
         {
             "domain_name": "claytrader.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "catalinaseacamp.org",
             "destination": "Digital Ocean",
             "date": "2026-04-03 16:26:44"
-        },
-        {
-            "domain_name": "roofingpros7.com",
-            "destination": "Hostinger",
-            "date": "2026-04-03 16:25:12"
         }
     ],
     "dailyMovedStat": {
@@ -1069,7 +1069,7 @@
     "topDestinationHosts": {
         "Pressable": 12580,
         "Kinsta": 8883,
-        "Digital Ocean": 6333,
+        "Digital Ocean": 6334,
         "SiteGround": 5705,
         "Hostinger": 4875,
         "Bluehost": 4533,
