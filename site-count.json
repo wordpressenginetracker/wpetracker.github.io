@@ -1,6 +1,11 @@
 {
-    "siteCount": 130525,
+    "siteCount": 130528,
     "recentlyMoved": [
+        {
+            "domain_name": "facsusa.com",
+            "destination": "Hostinger",
+            "date": "2026-04-07 17:28:02"
+        },
         {
             "domain_name": "yentis.com",
             "destination": "InMotion Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "mblhelp.org",
             "destination": "Elementor Hosting",
             "date": "2026-04-04 13:30:10"
-        },
-        {
-            "domain_name": "www.qualitywindowanddoorinc.com",
-            "destination": "GoDaddy",
-            "date": "2026-04-04 13:10:47"
         }
     ],
     "dailyMovedStat": {
@@ -1072,7 +1072,7 @@
         "Kinsta": 8890,
         "Digital Ocean": 6337,
         "SiteGround": 5706,
-        "Hostinger": 4880,
+        "Hostinger": 4881,
         "Bluehost": 4535,
         "GoDaddy": 1662,
         "Liquid Web": 851,
