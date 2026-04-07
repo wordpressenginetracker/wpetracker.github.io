@@ -1,6 +1,11 @@
 {
-    "siteCount": 130412,
+    "siteCount": 130414,
     "recentlyMoved": [
+        {
+            "domain_name": "www.edthena.com",
+            "destination": "SiteGround",
+            "date": "2026-04-06 23:52:40"
+        },
         {
             "domain_name": "www.mailmanagerinc.com",
             "destination": "A2 Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "menistry.aljc.org",
             "destination": "Elementor Hosting",
             "date": "2026-04-03 17:05:25"
-        },
-        {
-            "domain_name": "creekspa.com",
-            "destination": "Hostinger",
-            "date": "2026-04-03 16:39:21"
         }
     ],
     "dailyMovedStat": {
@@ -1071,7 +1071,7 @@
         "Pressable": 12580,
         "Kinsta": 8883,
         "Digital Ocean": 6334,
-        "SiteGround": 5705,
+        "SiteGround": 5706,
         "Hostinger": 4875,
         "Bluehost": 4533,
         "GoDaddy": 1662,
