@@ -1,6 +1,11 @@
 {
-    "siteCount": 130416,
+    "siteCount": 130418,
     "recentlyMoved": [
+        {
+            "domain_name": "elevatedcheck.com",
+            "destination": "Hostinger",
+            "date": "2026-04-07 01:09:43"
+        },
         {
             "domain_name": "sprocketpower.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "erblockplumbing.com",
             "destination": "GridPane",
             "date": "2026-04-03 17:17:51"
-        },
-        {
-            "domain_name": "menistry.aljc.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-03 17:05:25"
         }
     ],
     "dailyMovedStat": {
@@ -1072,7 +1072,7 @@
         "Kinsta": 8884,
         "Digital Ocean": 6334,
         "SiteGround": 5706,
-        "Hostinger": 4875,
+        "Hostinger": 4876,
         "Bluehost": 4533,
         "GoDaddy": 1662,
         "Liquid Web": 851,
