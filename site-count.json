@@ -1,6 +1,11 @@
 {
-    "siteCount": 130414,
+    "siteCount": 130416,
     "recentlyMoved": [
+        {
+            "domain_name": "sprocketpower.com",
+            "destination": "Kinsta",
+            "date": "2026-04-07 00:49:06"
+        },
         {
             "domain_name": "www.edthena.com",
             "destination": "SiteGround",
@@ -485,11 +490,6 @@
             "domain_name": "missionsamerica.aljc.org",
             "destination": "Elementor Hosting",
             "date": "2026-04-03 17:25:17"
-        },
-        {
-            "domain_name": "www.nnens.org",
-            "destination": "WordPress.com",
-            "date": "2026-04-03 17:24:51"
         },
         {
             "domain_name": "erblockplumbing.com",
@@ -1069,7 +1069,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12580,
-        "Kinsta": 8883,
+        "Kinsta": 8884,
         "Digital Ocean": 6334,
         "SiteGround": 5706,
         "Hostinger": 4875,
