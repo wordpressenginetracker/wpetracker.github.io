@@ -1,6 +1,11 @@
 {
-    "siteCount": 130764,
+    "siteCount": 130772,
     "recentlyMoved": [
+        {
+            "domain_name": "weareilluminaughty.com",
+            "destination": "BigScoots",
+            "date": "2026-04-08 17:37:18"
+        },
         {
             "domain_name": "illuminateforward.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "franklinfumc.org",
             "destination": "WordPress.com",
             "date": "2026-04-07 15:41:31"
-        },
-        {
-            "domain_name": "christmanperiodontics.com",
-            "destination": "Kinsta",
-            "date": "2026-04-07 13:17:27"
         }
     ],
     "dailyMovedStat": {
@@ -1077,7 +1077,7 @@
         "Bluehost": 4544,
         "GoDaddy": 1663,
         "Liquid Web": 852,
-        "BigScoots": 817,
+        "BigScoots": 818,
         "WordPress.com": 665,
         "GridPane": 637,
         "OVH": 621,
