@@ -1,6 +1,16 @@
 {
-    "siteCount": 130632,
+    "siteCount": 130636,
     "recentlyMoved": [
+        {
+            "domain_name": "dinamobcn.com",
+            "destination": "GridPane",
+            "date": "2026-04-08 09:35:01"
+        },
+        {
+            "domain_name": "creativecoraldesign.com",
+            "destination": "SiteGround",
+            "date": "2026-04-08 08:54:44"
+        },
         {
             "domain_name": "www.amsc-usa.com",
             "destination": "Bluehost",
@@ -490,16 +500,6 @@
             "domain_name": "www.newtonproject.eu",
             "destination": "Hetzner Online",
             "date": "2026-04-05 20:54:44"
-        },
-        {
-            "domain_name": "brandonhouston.com",
-            "destination": "Hostinger",
-            "date": "2026-04-05 20:22:48"
-        },
-        {
-            "domain_name": "www.outpatientportal.ch",
-            "destination": "Digital Ocean",
-            "date": "2026-04-05 16:00:02"
         }
     ],
     "dailyMovedStat": {
@@ -1072,7 +1072,7 @@
         "Pressable": 12610,
         "Kinsta": 8896,
         "Digital Ocean": 6340,
-        "SiteGround": 5706,
+        "SiteGround": 5707,
         "Hostinger": 4881,
         "Bluehost": 4539,
         "GoDaddy": 1663,
