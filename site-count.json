@@ -1,6 +1,11 @@
 {
-    "siteCount": 130593,
+    "siteCount": 130597,
     "recentlyMoved": [
+        {
+            "domain_name": "cma.ismgcorp.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-08 01:07:40"
+        },
         {
             "domain_name": "lrlconstruction.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.paulcalvoschool.net",
             "destination": "Kinsta",
             "date": "2026-04-04 16:10:56"
-        },
-        {
-            "domain_name": "inocacapital.com",
-            "destination": "Digital Ocean",
-            "date": "2026-04-04 15:54:29"
         }
     ],
     "dailyMovedStat": {
@@ -1071,7 +1071,7 @@
     "topDestinationHosts": {
         "Pressable": 12607,
         "Kinsta": 8892,
-        "Digital Ocean": 6337,
+        "Digital Ocean": 6338,
         "SiteGround": 5706,
         "Hostinger": 4881,
         "Bluehost": 4536,
