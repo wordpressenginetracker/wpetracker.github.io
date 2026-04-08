@@ -1,6 +1,16 @@
 {
-    "siteCount": 130615,
+    "siteCount": 130622,
     "recentlyMoved": [
+        {
+            "domain_name": "vpn-browser.com",
+            "destination": "Kinsta",
+            "date": "2026-04-08 06:05:08"
+        },
+        {
+            "domain_name": "mypeakmobile.com",
+            "destination": "Pressable",
+            "date": "2026-04-08 05:55:13"
+        },
         {
             "domain_name": "lloydsteere.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "nuveauhomes.com",
             "destination": "Pressable",
             "date": "2026-04-04 21:44:05"
-        },
-        {
-            "domain_name": "tgthemogul.com",
-            "destination": "BigScoots",
-            "date": "2026-04-04 21:22:13"
-        },
-        {
-            "domain_name": "miitek.net",
-            "destination": "Kinsta",
-            "date": "2026-04-04 20:59:04"
         }
     ],
     "dailyMovedStat": {
@@ -1069,8 +1069,8 @@
         "2026-04-07": "130586"
     },
     "topDestinationHosts": {
-        "Pressable": 12609,
-        "Kinsta": 8895,
+        "Pressable": 12610,
+        "Kinsta": 8896,
         "Digital Ocean": 6340,
         "SiteGround": 5706,
         "Hostinger": 4881,
