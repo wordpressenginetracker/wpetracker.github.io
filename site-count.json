@@ -1,10 +1,20 @@
 {
-    "siteCount": 130611,
+    "siteCount": 130615,
     "recentlyMoved": [
+        {
+            "domain_name": "lloydsteere.com",
+            "destination": "Kinsta",
+            "date": "2026-04-08 04:44:37"
+        },
         {
             "domain_name": "rococo.ie",
             "destination": "GridPane",
             "date": "2026-04-08 04:40:46"
+        },
+        {
+            "domain_name": "bostonlitdistrict.org",
+            "destination": "HostGator",
+            "date": "2026-04-08 04:17:42"
         },
         {
             "domain_name": "bccan.org.au",
@@ -485,16 +495,6 @@
             "domain_name": "tgthemogul.com",
             "destination": "BigScoots",
             "date": "2026-04-04 21:22:13"
-        },
-        {
-            "domain_name": "www.thelonghammer.com",
-            "destination": "GridPane",
-            "date": "2026-04-04 21:13:47"
-        },
-        {
-            "domain_name": "livethemovement.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-04-04 21:07:17"
         },
         {
             "domain_name": "miitek.net",
@@ -1070,7 +1070,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12609,
-        "Kinsta": 8894,
+        "Kinsta": 8895,
         "Digital Ocean": 6340,
         "SiteGround": 5706,
         "Hostinger": 4881,
@@ -1088,7 +1088,7 @@
         "A2 Hosting": 454,
         "DreamHost": 453,
         "Hetzner Online": 400,
-        "HostGator": 304
+        "HostGator": 305
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
