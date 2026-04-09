@@ -1,5 +1,5 @@
 {
-    "siteCount": 130913,
+    "siteCount": 130917,
     "recentlyMoved": [
         {
             "domain_name": "cprpool.com",
@@ -10,6 +10,11 @@
             "domain_name": "supermarketdesign.com.au",
             "destination": "Hostinger",
             "date": "2026-04-09 05:20:19"
+        },
+        {
+            "domain_name": "fairiesandfeatherstutus.com",
+            "destination": "Kinsta",
+            "date": "2026-04-09 05:16:10"
         },
         {
             "domain_name": "thebrickdoctorwa.com",
@@ -495,11 +500,6 @@
             "domain_name": "garymcdonaldhomes.com",
             "destination": "GoDaddy",
             "date": "2026-04-07 19:53:07"
-        },
-        {
-            "domain_name": "foxwaterway.com",
-            "destination": "Pressable",
-            "date": "2026-04-07 19:17:18"
         }
     ],
     "dailyMovedStat": {
@@ -1071,7 +1071,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12636,
-        "Kinsta": 8908,
+        "Kinsta": 8909,
         "Digital Ocean": 6353,
         "SiteGround": 5707,
         "Hostinger": 4889,
