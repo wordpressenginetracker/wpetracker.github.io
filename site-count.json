@@ -1,6 +1,11 @@
 {
-    "siteCount": 130880,
+    "siteCount": 130884,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wardventures.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-09 00:44:17"
+        },
         {
             "domain_name": "www.fronteracp.com",
             "destination": "WordPress.com",
@@ -485,11 +490,6 @@
             "domain_name": "creationequity.com",
             "destination": "Digital Ocean",
             "date": "2026-04-07 16:54:33"
-        },
-        {
-            "domain_name": "www.lumenwines.com",
-            "destination": "GridPane",
-            "date": "2026-04-07 16:30:32"
         },
         {
             "domain_name": "sentrimax.com",
@@ -1072,7 +1072,7 @@
     "topDestinationHosts": {
         "Pressable": 12636,
         "Kinsta": 8908,
-        "Digital Ocean": 6347,
+        "Digital Ocean": 6348,
         "SiteGround": 5707,
         "Hostinger": 4887,
         "Bluehost": 4546,
