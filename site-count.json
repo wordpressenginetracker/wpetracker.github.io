@@ -1,6 +1,11 @@
 {
-    "siteCount": 131059,
+    "siteCount": 131066,
     "recentlyMoved": [
+        {
+            "domain_name": "familyhearing.net",
+            "destination": "Pressable",
+            "date": "2026-04-09 18:01:06"
+        },
         {
             "domain_name": "densho.org",
             "destination": "Kinsta",
@@ -475,11 +480,6 @@
             "domain_name": "bollersolutions.com",
             "destination": "Bluehost",
             "date": "2026-04-08 16:21:45"
-        },
-        {
-            "domain_name": "www.waddellfamilylaw.com",
-            "destination": "DreamHost",
-            "date": "2026-04-08 16:07:23"
         },
         {
             "domain_name": "www.jandwmusic.ca",
@@ -1070,7 +1070,7 @@
         "2026-04-08": "130869"
     },
     "topDestinationHosts": {
-        "Pressable": 12676,
+        "Pressable": 12677,
         "Kinsta": 8919,
         "Digital Ocean": 6361,
         "SiteGround": 5707,
