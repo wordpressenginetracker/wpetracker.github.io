@@ -1,6 +1,11 @@
 {
-    "siteCount": 131139,
+    "siteCount": 131143,
     "recentlyMoved": [
+        {
+            "domain_name": "etisupply.com",
+            "destination": "HostGator",
+            "date": "2026-04-09 21:18:59"
+        },
         {
             "domain_name": "chenangosupplycompany.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.michellecarlahandel.com",
             "destination": "Digital Ocean",
             "date": "2026-04-08 20:04:36"
-        },
-        {
-            "domain_name": "www.jacobhensley.com",
-            "destination": "BigScoots",
-            "date": "2026-04-08 19:58:05"
         }
     ],
     "dailyMovedStat": {
@@ -1089,7 +1089,7 @@
         "DreamHost": 455,
         "A2 Hosting": 454,
         "Hetzner Online": 401,
-        "HostGator": 305
+        "HostGator": 306
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
