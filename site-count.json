@@ -1,6 +1,16 @@
 {
-    "siteCount": 130884,
+    "siteCount": 130888,
     "recentlyMoved": [
+        {
+            "domain_name": "tulsatackleoutdoors.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-09 01:43:33"
+        },
+        {
+            "domain_name": "dpgperforms.com",
+            "destination": "DreamHost",
+            "date": "2026-04-09 01:26:22"
+        },
         {
             "domain_name": "www.wardventures.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "creationequity.com",
             "destination": "Digital Ocean",
             "date": "2026-04-07 16:54:33"
-        },
-        {
-            "domain_name": "sentrimax.com",
-            "destination": "A2 Hosting",
-            "date": "2026-04-07 16:30:17"
-        },
-        {
-            "domain_name": "keystonetm.com",
-            "destination": "Kinsta",
-            "date": "2026-04-07 16:27:33"
         }
     ],
     "dailyMovedStat": {
@@ -1072,7 +1072,7 @@
     "topDestinationHosts": {
         "Pressable": 12636,
         "Kinsta": 8908,
-        "Digital Ocean": 6348,
+        "Digital Ocean": 6349,
         "SiteGround": 5707,
         "Hostinger": 4887,
         "Bluehost": 4546,
@@ -1086,7 +1086,7 @@
         "Elementor Hosting": 536,
         "Namecheap": 505,
         "IONOS": 484,
-        "DreamHost": 454,
+        "DreamHost": 455,
         "A2 Hosting": 454,
         "Hetzner Online": 400,
         "HostGator": 305
