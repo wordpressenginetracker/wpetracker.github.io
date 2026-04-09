@@ -1,6 +1,21 @@
 {
-    "siteCount": 130900,
+    "siteCount": 130913,
     "recentlyMoved": [
+        {
+            "domain_name": "cprpool.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-09 05:29:07"
+        },
+        {
+            "domain_name": "supermarketdesign.com.au",
+            "destination": "Hostinger",
+            "date": "2026-04-09 05:20:19"
+        },
+        {
+            "domain_name": "thebrickdoctorwa.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-09 05:10:11"
+        },
         {
             "domain_name": "b2b.audioengine.com",
             "destination": "Digital Ocean",
@@ -482,24 +497,9 @@
             "date": "2026-04-07 19:53:07"
         },
         {
-            "domain_name": "folio.aiaseattle.org",
-            "destination": "Kinsta",
-            "date": "2026-04-07 19:19:04"
-        },
-        {
             "domain_name": "foxwaterway.com",
             "destination": "Pressable",
             "date": "2026-04-07 19:17:18"
-        },
-        {
-            "domain_name": "facsusa.com",
-            "destination": "Hostinger",
-            "date": "2026-04-07 17:28:02"
-        },
-        {
-            "domain_name": "yentis.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-04-07 17:15:33"
         }
     ],
     "dailyMovedStat": {
@@ -1072,9 +1072,9 @@
     "topDestinationHosts": {
         "Pressable": 12636,
         "Kinsta": 8908,
-        "Digital Ocean": 6351,
+        "Digital Ocean": 6353,
         "SiteGround": 5707,
-        "Hostinger": 4888,
+        "Hostinger": 4889,
         "Bluehost": 4546,
         "GoDaddy": 1663,
         "Liquid Web": 853,
