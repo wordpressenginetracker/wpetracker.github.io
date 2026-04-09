@@ -1,6 +1,16 @@
 {
-    "siteCount": 130869,
+    "siteCount": 130880,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fronteracp.com",
+            "destination": "WordPress.com",
+            "date": "2026-04-09 00:29:07"
+        },
+        {
+            "domain_name": "harvardcourt.net",
+            "destination": "Hostinger",
+            "date": "2026-04-08 23:38:26"
+        },
         {
             "domain_name": "thefileroom.com",
             "destination": "Kinsta",
@@ -477,11 +487,6 @@
             "date": "2026-04-07 16:54:33"
         },
         {
-            "domain_name": "betterlifehearing.net",
-            "destination": "Pressable",
-            "date": "2026-04-07 16:42:22"
-        },
-        {
             "domain_name": "www.lumenwines.com",
             "destination": "GridPane",
             "date": "2026-04-07 16:30:32"
@@ -495,11 +500,6 @@
             "domain_name": "keystonetm.com",
             "destination": "Kinsta",
             "date": "2026-04-07 16:27:33"
-        },
-        {
-            "domain_name": "innovativeresearchhub.com",
-            "destination": "Hostinger",
-            "date": "2026-04-07 16:11:16"
         }
     ],
     "dailyMovedStat": {
@@ -1074,12 +1074,12 @@
         "Kinsta": 8908,
         "Digital Ocean": 6347,
         "SiteGround": 5707,
-        "Hostinger": 4886,
+        "Hostinger": 4887,
         "Bluehost": 4546,
         "GoDaddy": 1663,
         "Liquid Web": 853,
         "BigScoots": 819,
-        "WordPress.com": 665,
+        "WordPress.com": 666,
         "GridPane": 639,
         "OVH": 621,
         "InMotion Hosting": 557,
