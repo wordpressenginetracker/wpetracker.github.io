@@ -1,10 +1,35 @@
 {
-    "siteCount": 131266,
+    "siteCount": 131288,
     "recentlyMoved": [
+        {
+            "domain_name": "thelastgreenvalley.org",
+            "destination": "Digital Ocean",
+            "date": "2026-04-10 17:37:05"
+        },
+        {
+            "domain_name": "thefenway.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-10 17:23:46"
+        },
+        {
+            "domain_name": "ceasefirevirginia.org",
+            "destination": "Digital Ocean",
+            "date": "2026-04-10 16:53:58"
+        },
+        {
+            "domain_name": "studiodentalcentres.ca",
+            "destination": "Liquid Web",
+            "date": "2026-04-10 16:41:52"
+        },
         {
             "domain_name": "barthelbarthel.com",
             "destination": "Digital Ocean",
             "date": "2026-04-10 16:25:08"
+        },
+        {
+            "domain_name": "www.lawofficecab.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-10 16:08:43"
         },
         {
             "domain_name": "www.impactws.com",
@@ -457,11 +482,6 @@
             "date": "2026-04-09 12:52:47"
         },
         {
-            "domain_name": "instamart.ai",
-            "destination": "Digital Ocean",
-            "date": "2026-04-09 12:49:01"
-        },
-        {
             "domain_name": "swscollections.com",
             "destination": "Pressable",
             "date": "2026-04-09 12:47:14"
@@ -477,29 +497,9 @@
             "date": "2026-04-09 12:30:04"
         },
         {
-            "domain_name": "hvacso.com",
-            "destination": "Pressable",
-            "date": "2026-04-09 12:23:32"
-        },
-        {
-            "domain_name": "schiffre.com",
-            "destination": "Pressable",
-            "date": "2026-04-09 12:20:09"
-        },
-        {
             "domain_name": "scottschiff.com",
             "destination": "Pressable",
             "date": "2026-04-09 12:10:14"
-        },
-        {
-            "domain_name": "www.eliteproperty.co",
-            "destination": "Hetzner Online",
-            "date": "2026-04-09 11:44:32"
-        },
-        {
-            "domain_name": "www.sanctuary.net",
-            "destination": "Kinsta",
-            "date": "2026-04-09 11:24:06"
         }
     ],
     "dailyMovedStat": {
@@ -1073,12 +1073,12 @@
     "topDestinationHosts": {
         "Pressable": 12681,
         "Kinsta": 8941,
-        "Digital Ocean": 6367,
+        "Digital Ocean": 6371,
         "SiteGround": 5707,
         "Hostinger": 4894,
         "Bluehost": 4547,
-        "GoDaddy": 1665,
-        "Liquid Web": 853,
+        "GoDaddy": 1666,
+        "Liquid Web": 854,
         "BigScoots": 821,
         "WordPress.com": 666,
         "GridPane": 640,
