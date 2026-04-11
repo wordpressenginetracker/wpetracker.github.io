@@ -1,6 +1,11 @@
 {
-    "siteCount": 131408,
+    "siteCount": 131411,
     "recentlyMoved": [
+        {
+            "domain_name": "nobelcr.com",
+            "destination": "Hostinger",
+            "date": "2026-04-11 01:28:24"
+        },
         {
             "domain_name": "thefarmerlawfirm.com",
             "destination": "HostGator",
@@ -483,11 +488,6 @@
         },
         {
             "domain_name": "hearlifewell.com",
-            "destination": "Pressable",
-            "date": "2026-04-09 16:20:19"
-        },
-        {
-            "domain_name": "hearlife.org",
             "destination": "Pressable",
             "date": "2026-04-09 16:20:19"
         },
@@ -1076,7 +1076,7 @@
         "Kinsta": 8944,
         "Digital Ocean": 6373,
         "SiteGround": 5707,
-        "Hostinger": 4896,
+        "Hostinger": 4897,
         "Bluehost": 4548,
         "GoDaddy": 1667,
         "Liquid Web": 854,
