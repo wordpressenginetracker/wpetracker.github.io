@@ -1,6 +1,16 @@
 {
-    "siteCount": 131399,
+    "siteCount": 131408,
     "recentlyMoved": [
+        {
+            "domain_name": "thefarmerlawfirm.com",
+            "destination": "HostGator",
+            "date": "2026-04-11 01:19:06"
+        },
+        {
+            "domain_name": "cleanvents.ca",
+            "destination": "Hostinger",
+            "date": "2026-04-11 00:21:03"
+        },
         {
             "domain_name": "20knottravel.com",
             "destination": "Hostinger",
@@ -478,16 +488,6 @@
         },
         {
             "domain_name": "hearlife.org",
-            "destination": "Pressable",
-            "date": "2026-04-09 16:20:19"
-        },
-        {
-            "domain_name": "hearjoyaudiology.com",
-            "destination": "Pressable",
-            "date": "2026-04-09 16:20:19"
-        },
-        {
-            "domain_name": "hearitenj.com",
             "destination": "Pressable",
             "date": "2026-04-09 16:20:19"
         },
@@ -1076,7 +1076,7 @@
         "Kinsta": 8944,
         "Digital Ocean": 6373,
         "SiteGround": 5707,
-        "Hostinger": 4895,
+        "Hostinger": 4896,
         "Bluehost": 4548,
         "GoDaddy": 1667,
         "Liquid Web": 854,
@@ -1091,7 +1091,7 @@
         "DreamHost": 455,
         "A2 Hosting": 454,
         "Hetzner Online": 403,
-        "HostGator": 306
+        "HostGator": 307
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
