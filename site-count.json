@@ -1,6 +1,11 @@
 {
-    "siteCount": 131672,
+    "siteCount": 131674,
     "recentlyMoved": [
+        {
+            "domain_name": "avemariaphysicalmedicine.com",
+            "destination": "Pressable",
+            "date": "2026-04-12 16:19:50"
+        },
         {
             "domain_name": "t4spartners.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "dentalassistinginstitute.com",
             "destination": "Kinsta",
             "date": "2026-04-10 20:46:08"
-        },
-        {
-            "domain_name": "localexpertsus.com",
-            "destination": "Pressable",
-            "date": "2026-04-10 20:45:23"
         }
     ],
     "dailyMovedStat": {
@@ -1073,7 +1073,7 @@
         "2026-04-11": "131597"
     },
     "topDestinationHosts": {
-        "Pressable": 12719,
+        "Pressable": 12720,
         "Kinsta": 8966,
         "Digital Ocean": 6389,
         "SiteGround": 5707,
