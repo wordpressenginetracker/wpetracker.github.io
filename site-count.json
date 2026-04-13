@@ -1,6 +1,11 @@
 {
-    "siteCount": 131826,
+    "siteCount": 131829,
     "recentlyMoved": [
+        {
+            "domain_name": "feiliao.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-04-13 22:04:47"
+        },
         {
             "domain_name": "www.skinboutiquexperts.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "nobelcr.com",
             "destination": "Hostinger",
             "date": "2026-04-11 01:28:24"
-        },
-        {
-            "domain_name": "thefarmerlawfirm.com",
-            "destination": "HostGator",
-            "date": "2026-04-11 01:19:06"
         }
     ],
     "dailyMovedStat": {
@@ -1078,7 +1078,7 @@
         "Kinsta": 8971,
         "Digital Ocean": 6391,
         "SiteGround": 5707,
-        "Hostinger": 4910,
+        "Hostinger": 4911,
         "Bluehost": 4552,
         "GoDaddy": 1672,
         "Liquid Web": 856,
