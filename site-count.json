@@ -1,6 +1,11 @@
 {
-    "siteCount": 131772,
+    "siteCount": 131775,
     "recentlyMoved": [
+        {
+            "domain_name": "upwithmontana.com",
+            "destination": "Pressable",
+            "date": "2026-04-13 09:50:49"
+        },
         {
             "domain_name": "straenenergy.no",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "20knottravel.com",
             "destination": "Hostinger",
             "date": "2026-04-10 23:46:55"
-        },
-        {
-            "domain_name": "northeastaudiology.com",
-            "destination": "Pressable",
-            "date": "2026-04-10 22:07:19"
         },
         {
             "domain_name": "northwesthearing.com",
@@ -1074,7 +1074,7 @@
         "2026-04-12": "131712"
     },
     "topDestinationHosts": {
-        "Pressable": 12722,
+        "Pressable": 12723,
         "Kinsta": 8969,
         "Digital Ocean": 6391,
         "SiteGround": 5707,
