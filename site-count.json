@@ -1,6 +1,11 @@
 {
-    "siteCount": 131763,
+    "siteCount": 131772,
     "recentlyMoved": [
+        {
+            "domain_name": "straenenergy.no",
+            "destination": "Kinsta",
+            "date": "2026-04-13 08:49:54"
+        },
         {
             "domain_name": "jaspergoodman.com",
             "destination": "Namecheap",
@@ -483,11 +488,6 @@
         },
         {
             "domain_name": "northeastaudiology.com",
-            "destination": "Pressable",
-            "date": "2026-04-10 22:07:19"
-        },
-        {
-            "domain_name": "northcoaudiology.com",
             "destination": "Pressable",
             "date": "2026-04-10 22:07:19"
         },
@@ -1075,7 +1075,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12722,
-        "Kinsta": 8968,
+        "Kinsta": 8969,
         "Digital Ocean": 6391,
         "SiteGround": 5707,
         "Hostinger": 4909,
