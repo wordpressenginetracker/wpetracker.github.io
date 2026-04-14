@@ -1,6 +1,26 @@
 {
-    "siteCount": 131990,
+    "siteCount": 131999,
     "recentlyMoved": [
+        {
+            "domain_name": "nowetcarpet.com",
+            "destination": "Pressable",
+            "date": "2026-04-14 17:57:29"
+        },
+        {
+            "domain_name": "venueten.com",
+            "destination": "IONOS",
+            "date": "2026-04-14 17:37:55"
+        },
+        {
+            "domain_name": "mysuperiorproperty.com",
+            "destination": "WordPress.com",
+            "date": "2026-04-14 17:28:04"
+        },
+        {
+            "domain_name": "dreyfuss.com",
+            "destination": "Pressable",
+            "date": "2026-04-14 17:20:07"
+        },
         {
             "domain_name": "luciaeames.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "rialehoteis.com.br",
             "destination": "Hostinger",
             "date": "2026-04-12 00:03:23"
-        },
-        {
-            "domain_name": "phillyinstitute.org",
-            "destination": "Hostinger",
-            "date": "2026-04-12 00:01:24"
-        },
-        {
-            "domain_name": "26journal.com",
-            "destination": "Bluehost",
-            "date": "2026-04-11 23:32:35"
-        },
-        {
-            "domain_name": "thewoodsnj.com",
-            "destination": "Bluehost",
-            "date": "2026-04-11 21:10:29"
-        },
-        {
-            "domain_name": "artsandpowerhousebuilding.com",
-            "destination": "Bluehost",
-            "date": "2026-04-11 20:48:45"
         }
     ],
     "dailyMovedStat": {
@@ -1075,7 +1075,7 @@
         "2026-04-13": "131829"
     },
     "topDestinationHosts": {
-        "Pressable": 12744,
+        "Pressable": 12746,
         "Kinsta": 8988,
         "Digital Ocean": 6404,
         "SiteGround": 5707,
@@ -1084,13 +1084,13 @@
         "GoDaddy": 1675,
         "Liquid Web": 857,
         "BigScoots": 821,
-        "WordPress.com": 670,
+        "WordPress.com": 671,
         "GridPane": 643,
         "OVH": 625,
         "InMotion Hosting": 563,
         "Elementor Hosting": 536,
         "Namecheap": 509,
-        "IONOS": 486,
+        "IONOS": 487,
         "DreamHost": 458,
         "A2 Hosting": 456,
         "Hetzner Online": 404,
