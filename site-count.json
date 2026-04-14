@@ -1,6 +1,11 @@
 {
-    "siteCount": 131829,
+    "siteCount": 131837,
     "recentlyMoved": [
+        {
+            "domain_name": "highviewltd.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-04-13 23:57:53"
+        },
         {
             "domain_name": "feiliao.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "australianallografts.com.au",
             "destination": "Digital Ocean",
             "date": "2026-04-11 03:43:37"
-        },
-        {
-            "domain_name": "nobelcr.com",
-            "destination": "Hostinger",
-            "date": "2026-04-11 01:28:24"
         }
     ],
     "dailyMovedStat": {
@@ -1077,7 +1077,7 @@
     "topDestinationHosts": {
         "Pressable": 12724,
         "Kinsta": 8971,
-        "Digital Ocean": 6391,
+        "Digital Ocean": 6392,
         "SiteGround": 5707,
         "Hostinger": 4911,
         "Bluehost": 4552,
