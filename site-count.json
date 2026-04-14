@@ -1,10 +1,15 @@
 {
-    "siteCount": 131871,
+    "siteCount": 131879,
     "recentlyMoved": [
         {
             "domain_name": "batc-compacts.com",
             "destination": "Kinsta",
             "date": "2026-04-14 08:25:56"
+        },
+        {
+            "domain_name": "sgw-kultur.ch",
+            "destination": "Kinsta",
+            "date": "2026-04-14 08:19:33"
         },
         {
             "domain_name": "www.womenssportsfoundation.org",
@@ -495,11 +500,6 @@
             "domain_name": "endologix.com",
             "destination": "Pressable",
             "date": "2026-04-11 09:53:24"
-        },
-        {
-            "domain_name": "465columbus.com",
-            "destination": "Bluehost",
-            "date": "2026-04-11 08:49:42"
         }
     ],
     "dailyMovedStat": {
@@ -1076,7 +1076,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12724,
-        "Kinsta": 8978,
+        "Kinsta": 8979,
         "Digital Ocean": 6392,
         "SiteGround": 5707,
         "Hostinger": 4912,
