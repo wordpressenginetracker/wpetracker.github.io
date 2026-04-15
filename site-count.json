@@ -1,6 +1,11 @@
 {
-    "siteCount": 132120,
+    "siteCount": 132128,
     "recentlyMoved": [
+        {
+            "domain_name": "erkendduurzaam.nl",
+            "destination": "Digital Ocean",
+            "date": "2026-04-15 05:53:41"
+        },
         {
             "domain_name": "kuenzitag.ch",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "sportswomanoftheyear.com",
             "destination": "Kinsta",
             "date": "2026-04-14 04:54:26"
-        },
-        {
-            "domain_name": "brobypadel.se",
-            "destination": "Kinsta",
-            "date": "2026-04-14 04:32:16"
         }
     ],
     "dailyMovedStat": {
@@ -1078,7 +1078,7 @@
     "topDestinationHosts": {
         "Pressable": 12758,
         "Kinsta": 8998,
-        "Digital Ocean": 6406,
+        "Digital Ocean": 6407,
         "SiteGround": 5708,
         "Hostinger": 4926,
         "Bluehost": 4552,
