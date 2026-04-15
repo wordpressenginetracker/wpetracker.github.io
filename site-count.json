@@ -1,6 +1,21 @@
 {
-    "siteCount": 132099,
+    "siteCount": 132112,
     "recentlyMoved": [
+        {
+            "domain_name": "auraspasauna.com",
+            "destination": "GoDaddy",
+            "date": "2026-04-15 04:15:24"
+        },
+        {
+            "domain_name": "www.dalhousiecastle.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-04-15 03:59:05"
+        },
+        {
+            "domain_name": "awesome.tech",
+            "destination": "GridPane",
+            "date": "2026-04-15 03:37:22"
+        },
         {
             "domain_name": "sunshineveinclinic.com.au",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "1333montroseplace.com",
             "destination": "Kinsta",
             "date": "2026-04-14 03:18:57"
-        },
-        {
-            "domain_name": "highviewltd.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-04-13 23:57:53"
-        },
-        {
-            "domain_name": "feiliao.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-04-13 22:04:47"
-        },
-        {
-            "domain_name": "laurastannardtherapy.com",
-            "destination": "Kinsta",
-            "date": "2026-04-13 20:22:28"
         }
     ],
     "dailyMovedStat": {
@@ -1082,11 +1082,11 @@
         "SiteGround": 5707,
         "Hostinger": 4926,
         "Bluehost": 4552,
-        "GoDaddy": 1676,
+        "GoDaddy": 1678,
         "Liquid Web": 857,
         "BigScoots": 821,
         "WordPress.com": 672,
-        "GridPane": 643,
+        "GridPane": 644,
         "OVH": 625,
         "InMotion Hosting": 563,
         "Elementor Hosting": 536,
@@ -1094,7 +1094,7 @@
         "IONOS": 488,
         "DreamHost": 458,
         "A2 Hosting": 456,
-        "Hetzner Online": 405,
+        "Hetzner Online": 406,
         "HostGator": 308
     },
     "dailyTotalStat": {
