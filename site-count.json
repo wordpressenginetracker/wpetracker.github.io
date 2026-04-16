@@ -1,6 +1,16 @@
 {
-    "siteCount": 132343,
+    "siteCount": 132349,
     "recentlyMoved": [
+        {
+            "domain_name": "digerati-inc.com",
+            "destination": "Namecheap",
+            "date": "2026-04-16 01:10:48"
+        },
+        {
+            "domain_name": "jandrblinds.net",
+            "destination": "Pressable",
+            "date": "2026-04-16 00:36:36"
+        },
         {
             "domain_name": "www.gregdawson.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "nowetcarpet.com",
             "destination": "Pressable",
             "date": "2026-04-14 17:57:29"
-        },
-        {
-            "domain_name": "venueten.com",
-            "destination": "IONOS",
-            "date": "2026-04-14 17:37:55"
-        },
-        {
-            "domain_name": "mysuperiorproperty.com",
-            "destination": "WordPress.com",
-            "date": "2026-04-14 17:28:04"
         }
     ],
     "dailyMovedStat": {
@@ -1077,7 +1077,7 @@
         "2026-04-15": "132333"
     },
     "topDestinationHosts": {
-        "Pressable": 12771,
+        "Pressable": 12772,
         "Kinsta": 9014,
         "Digital Ocean": 6419,
         "SiteGround": 5709,
