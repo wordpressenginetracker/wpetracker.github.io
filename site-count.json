@@ -1,6 +1,16 @@
 {
-    "siteCount": 132560,
+    "siteCount": 132568,
     "recentlyMoved": [
+        {
+            "domain_name": "themavingroupwest.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-16 21:22:15"
+        },
+        {
+            "domain_name": "www.mindfood.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-16 21:00:30"
+        },
         {
             "domain_name": "www.edgematepoolchair.com",
             "destination": "BigScoots",
@@ -490,16 +500,6 @@
             "domain_name": "paupackanlake.com",
             "destination": "IONOS",
             "date": "2026-04-15 15:20:28"
-        },
-        {
-            "domain_name": "vtlocators.com",
-            "destination": "Pressable",
-            "date": "2026-04-15 13:52:37"
-        },
-        {
-            "domain_name": "envision3dprinting.com",
-            "destination": "IONOS",
-            "date": "2026-04-15 13:49:15"
         }
     ],
     "dailyMovedStat": {
@@ -1079,7 +1079,7 @@
     "topDestinationHosts": {
         "Pressable": 12808,
         "Kinsta": 9033,
-        "Digital Ocean": 6426,
+        "Digital Ocean": 6428,
         "SiteGround": 5709,
         "Hostinger": 4938,
         "Bluehost": 4553,
