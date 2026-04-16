@@ -1,10 +1,25 @@
 {
-    "siteCount": 132432,
+    "siteCount": 132443,
     "recentlyMoved": [
+        {
+            "domain_name": "urpadvisors.com",
+            "destination": "Pressable",
+            "date": "2026-04-16 13:44:20"
+        },
+        {
+            "domain_name": "event.ruetli.ch",
+            "destination": "Kinsta",
+            "date": "2026-04-16 13:29:46"
+        },
         {
             "domain_name": "therockworships.com",
             "destination": "Pressable",
             "date": "2026-04-16 13:25:01"
+        },
+        {
+            "domain_name": "doerrer.ch",
+            "destination": "Kinsta",
+            "date": "2026-04-16 13:15:11"
         },
         {
             "domain_name": "sosagranite.com",
@@ -485,21 +500,6 @@
             "domain_name": "sunshineveinclinic.com.au",
             "destination": "GoDaddy",
             "date": "2026-04-15 00:57:13"
-        },
-        {
-            "domain_name": "gyrofri.no",
-            "destination": "Hostinger",
-            "date": "2026-04-15 00:21:43"
-        },
-        {
-            "domain_name": "hudsontruckinginsurance.com",
-            "destination": "Hostinger",
-            "date": "2026-04-15 00:19:11"
-        },
-        {
-            "domain_name": "www.craftedpaperdesigns.com",
-            "destination": "Digital Ocean",
-            "date": "2026-04-14 23:52:49"
         }
     ],
     "dailyMovedStat": {
@@ -1077,8 +1077,8 @@
         "2026-04-15": "132333"
     },
     "topDestinationHosts": {
-        "Pressable": 12780,
-        "Kinsta": 9027,
+        "Pressable": 12781,
+        "Kinsta": 9029,
         "Digital Ocean": 6423,
         "SiteGround": 5709,
         "Hostinger": 4935,
