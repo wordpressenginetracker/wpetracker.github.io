@@ -1,6 +1,16 @@
 {
-    "siteCount": 132629,
+    "siteCount": 132644,
     "recentlyMoved": [
+        {
+            "domain_name": "www.watsonsuperheroes.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-04-17 08:59:03"
+        },
+        {
+            "domain_name": "choralworks.fi",
+            "destination": "Hetzner Online",
+            "date": "2026-04-17 08:28:41"
+        },
         {
             "domain_name": "559rail.com",
             "destination": "IONOS",
@@ -482,11 +492,6 @@
             "date": "2026-04-15 20:49:18"
         },
         {
-            "domain_name": "arboratavamerecourt.com",
-            "destination": "Kinsta",
-            "date": "2026-04-15 20:18:39"
-        },
-        {
             "domain_name": "southsideadulted.org",
             "destination": "Digital Ocean",
             "date": "2026-04-15 20:15:33"
@@ -495,11 +500,6 @@
             "domain_name": "richmondadagency.com",
             "destination": "Digital Ocean",
             "date": "2026-04-15 19:53:21"
-        },
-        {
-            "domain_name": "approachms.com",
-            "destination": "Kinsta",
-            "date": "2026-04-15 19:52:07"
         }
     ],
     "dailyMovedStat": {
@@ -1080,7 +1080,7 @@
     "topDestinationHosts": {
         "Pressable": 12813,
         "Kinsta": 9035,
-        "Digital Ocean": 6431,
+        "Digital Ocean": 6432,
         "SiteGround": 5709,
         "Hostinger": 4940,
         "Bluehost": 4554,
@@ -1096,7 +1096,7 @@
         "IONOS": 495,
         "DreamHost": 460,
         "A2 Hosting": 458,
-        "Hetzner Online": 406,
+        "Hetzner Online": 407,
         "HostGator": 308
     },
     "dailyTotalStat": {
