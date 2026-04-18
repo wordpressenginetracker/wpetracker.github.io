@@ -1,6 +1,16 @@
 {
-    "siteCount": 132861,
+    "siteCount": 132866,
     "recentlyMoved": [
+        {
+            "domain_name": "clearskiesit.com.au",
+            "destination": "Kinsta",
+            "date": "2026-04-18 00:37:33"
+        },
+        {
+            "domain_name": "coachad.com",
+            "destination": "DreamHost",
+            "date": "2026-04-18 00:30:14"
+        },
         {
             "domain_name": "aligntechnology.com.au",
             "destination": "Kinsta",
@@ -437,11 +447,6 @@
             "date": "2026-04-16 17:40:57"
         },
         {
-            "domain_name": "thebeaufortsound.com",
-            "destination": "Pressable",
-            "date": "2026-04-16 17:31:35"
-        },
-        {
             "domain_name": "tinnitus-philadelphia.com",
             "destination": "Pressable",
             "date": "2026-04-16 17:30:33"
@@ -455,11 +460,6 @@
             "domain_name": "theblueguitars.com",
             "destination": "IONOS",
             "date": "2026-04-16 17:29:34"
-        },
-        {
-            "domain_name": "terra-re.com",
-            "destination": "Pressable",
-            "date": "2026-04-16 17:27:18"
         },
         {
             "domain_name": "thehearingexperiences.com",
@@ -1080,7 +1080,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12832,
-        "Kinsta": 9054,
+        "Kinsta": 9055,
         "Digital Ocean": 6439,
         "SiteGround": 5709,
         "Hostinger": 4945,
@@ -1095,7 +1095,7 @@
         "Elementor Hosting": 537,
         "Namecheap": 512,
         "IONOS": 495,
-        "DreamHost": 460,
+        "DreamHost": 461,
         "A2 Hosting": 458,
         "Hetzner Online": 407,
         "HostGator": 309
