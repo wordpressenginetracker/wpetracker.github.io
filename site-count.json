@@ -1,6 +1,11 @@
 {
-    "siteCount": 132941,
+    "siteCount": 132947,
     "recentlyMoved": [
+        {
+            "domain_name": "northsidehearingcare.com",
+            "destination": "Pressable",
+            "date": "2026-04-18 13:42:57"
+        },
         {
             "domain_name": "theultimategirlmom.com",
             "destination": "Pressable",
@@ -17,14 +22,34 @@
             "date": "2026-04-18 13:19:29"
         },
         {
+            "domain_name": "truclarityhearing.com",
+            "destination": "Pressable",
+            "date": "2026-04-18 13:19:27"
+        },
+        {
             "domain_name": "thermalimagingtexas.com",
             "destination": "Pressable",
             "date": "2026-04-18 13:14:27"
         },
         {
+            "domain_name": "mycloudkeeper.ca",
+            "destination": "Kinsta",
+            "date": "2026-04-18 13:09:30"
+        },
+        {
+            "domain_name": "myrestoredfloor.com",
+            "destination": "Pressable",
+            "date": "2026-04-18 13:08:21"
+        },
+        {
             "domain_name": "zafu.net",
             "destination": "Kinsta",
             "date": "2026-04-18 12:59:30"
+        },
+        {
+            "domain_name": "trinketvault.com",
+            "destination": "Hostinger",
+            "date": "2026-04-18 12:59:03"
         },
         {
             "domain_name": "chocandcheeseyorkshire.co.uk",
@@ -472,34 +497,9 @@
             "date": "2026-04-17 04:40:55"
         },
         {
-            "domain_name": "giftshopmag.com",
-            "destination": "DreamHost",
-            "date": "2026-04-17 04:10:44"
-        },
-        {
             "domain_name": "www.floral-art-school.com.au",
             "destination": "GridPane",
             "date": "2026-04-17 04:02:02"
-        },
-        {
-            "domain_name": "balancepointindy.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 03:52:26"
-        },
-        {
-            "domain_name": "503motoring.com",
-            "destination": "Kinsta",
-            "date": "2026-04-17 03:38:07"
-        },
-        {
-            "domain_name": "whisperhearingcenters.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 03:11:39"
-        },
-        {
-            "domain_name": "cushionandsquab.co.nz",
-            "destination": "Hostinger",
-            "date": "2026-04-17 01:28:23"
         }
     ],
     "dailyMovedStat": {
@@ -1079,11 +1079,11 @@
         "2026-04-17": "132852"
     },
     "topDestinationHosts": {
-        "Pressable": 12840,
-        "Kinsta": 9065,
+        "Pressable": 12843,
+        "Kinsta": 9066,
         "Digital Ocean": 6442,
         "SiteGround": 5710,
-        "Hostinger": 4945,
+        "Hostinger": 4946,
         "Bluehost": 4554,
         "GoDaddy": 1681,
         "Liquid Web": 857,
