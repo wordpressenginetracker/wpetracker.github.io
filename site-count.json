@@ -1,6 +1,11 @@
 {
-    "siteCount": 132899,
+    "siteCount": 132902,
     "recentlyMoved": [
+        {
+            "domain_name": "nowlan.com",
+            "destination": "Pressable",
+            "date": "2026-04-18 09:28:24"
+        },
         {
             "domain_name": "kuchu.co.in",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "watsoninsurance.com",
             "destination": "Kinsta",
             "date": "2026-04-16 17:44:28"
-        },
-        {
-            "domain_name": "valleyent.org",
-            "destination": "Pressable",
-            "date": "2026-04-16 17:40:57"
         },
         {
             "domain_name": "voguecleanerswi.com",
@@ -1079,7 +1079,7 @@
         "2026-04-17": "132852"
     },
     "topDestinationHosts": {
-        "Pressable": 12833,
+        "Pressable": 12834,
         "Kinsta": 9061,
         "Digital Ocean": 6441,
         "SiteGround": 5710,
