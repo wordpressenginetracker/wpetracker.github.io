@@ -1,10 +1,15 @@
 {
-    "siteCount": 133055,
+    "siteCount": 133059,
     "recentlyMoved": [
         {
             "domain_name": "www.frugalfarmwife.com",
             "destination": "Kinsta",
             "date": "2026-04-19 00:11:43"
+        },
+        {
+            "domain_name": "jimplumbinginc.com",
+            "destination": "Kinsta",
+            "date": "2026-04-19 00:03:29"
         },
         {
             "domain_name": "rewildcounselling.com",
@@ -480,11 +485,6 @@
             "domain_name": "cloud9glutenfree.com",
             "destination": "Kinsta",
             "date": "2026-04-17 12:47:48"
-        },
-        {
-            "domain_name": "jfcsteel.ca",
-            "destination": "Kinsta",
-            "date": "2026-04-17 12:44:39"
         },
         {
             "domain_name": "coaudiology.org",
@@ -1081,7 +1081,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12848,
-        "Kinsta": 9081,
+        "Kinsta": 9082,
         "Digital Ocean": 6442,
         "SiteGround": 5710,
         "Hostinger": 4947,
