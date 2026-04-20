@@ -1,10 +1,20 @@
 {
-    "siteCount": 133202,
+    "siteCount": 133209,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wearelatte.com",
+            "destination": "Hostinger",
+            "date": "2026-04-20 13:04:13"
+        },
         {
             "domain_name": "www.greenleafgroup.ie",
             "destination": "Kinsta",
             "date": "2026-04-20 12:38:23"
+        },
+        {
+            "domain_name": "www.luckytortoise.ie",
+            "destination": "Kinsta",
+            "date": "2026-04-20 12:04:08"
         },
         {
             "domain_name": "mindfulnessbox.com",
@@ -482,11 +492,6 @@
             "date": "2026-04-17 17:08:25"
         },
         {
-            "domain_name": "www.myhearingdoc.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 16:52:15"
-        },
-        {
             "domain_name": "www.rockriversteel.com",
             "destination": "Pressable",
             "date": "2026-04-17 16:46:41"
@@ -495,11 +500,6 @@
             "domain_name": "sullivansignsinc.com",
             "destination": "Pressable",
             "date": "2026-04-17 16:29:10"
-        },
-        {
-            "domain_name": "shrc-law.com",
-            "destination": "Namecheap",
-            "date": "2026-04-17 16:14:32"
         }
     ],
     "dailyMovedStat": {
@@ -1082,10 +1082,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12851,
-        "Kinsta": 9088,
+        "Kinsta": 9089,
         "Digital Ocean": 6447,
         "SiteGround": 5710,
-        "Hostinger": 4950,
+        "Hostinger": 4951,
         "Bluehost": 4556,
         "GoDaddy": 1682,
         "Liquid Web": 859,
