@@ -1,6 +1,21 @@
 {
-    "siteCount": 133162,
+    "siteCount": 133172,
     "recentlyMoved": [
+        {
+            "domain_name": "theclocktowernyc.com",
+            "destination": "Kinsta",
+            "date": "2026-04-20 01:13:25"
+        },
+        {
+            "domain_name": "kult.mx",
+            "destination": "Namecheap",
+            "date": "2026-04-20 00:21:56"
+        },
+        {
+            "domain_name": "buddakannyc.com",
+            "destination": "Kinsta",
+            "date": "2026-04-20 00:10:10"
+        },
         {
             "domain_name": "hessair.com",
             "destination": "DreamHost",
@@ -477,29 +492,14 @@
             "date": "2026-04-17 15:56:35"
         },
         {
-            "domain_name": "www.freshbakedboulder.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 15:55:17"
-        },
-        {
             "domain_name": "rosevillediagnostichearingcenter.com",
             "destination": "Pressable",
             "date": "2026-04-17 15:50:31"
         },
         {
-            "domain_name": "giulianopatane.ca",
-            "destination": "Kinsta",
-            "date": "2026-04-17 15:44:26"
-        },
-        {
             "domain_name": "avamereridgemont.com",
             "destination": "Kinsta",
             "date": "2026-04-17 15:44:21"
-        },
-        {
-            "domain_name": "natalieparkinsdesign.com",
-            "destination": "Kinsta",
-            "date": "2026-04-17 13:51:14"
         }
     ],
     "dailyMovedStat": {
@@ -1082,7 +1082,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12850,
-        "Kinsta": 9084,
+        "Kinsta": 9086,
         "Digital Ocean": 6447,
         "SiteGround": 5710,
         "Hostinger": 4948,
@@ -1095,7 +1095,7 @@
         "OVH": 627,
         "InMotion Hosting": 563,
         "Elementor Hosting": 538,
-        "Namecheap": 514,
+        "Namecheap": 515,
         "IONOS": 495,
         "DreamHost": 462,
         "A2 Hosting": 458,
