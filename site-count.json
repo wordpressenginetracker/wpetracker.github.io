@@ -1,6 +1,16 @@
 {
-    "siteCount": 133189,
+    "siteCount": 133195,
     "recentlyMoved": [
+        {
+            "domain_name": "mindfulnessbox.com",
+            "destination": "Hostinger",
+            "date": "2026-04-20 09:45:40"
+        },
+        {
+            "domain_name": "tcvegypt.com",
+            "destination": "Pressable",
+            "date": "2026-04-20 08:37:34"
+        },
         {
             "domain_name": "amomentspeace.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "shrc-law.com",
             "destination": "Namecheap",
             "date": "2026-04-17 16:14:32"
-        },
-        {
-            "domain_name": "ridgemontvillas.com",
-            "destination": "Kinsta",
-            "date": "2026-04-17 16:12:31"
-        },
-        {
-            "domain_name": "rosevillediagnostichearingcenter.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 15:50:31"
         }
     ],
     "dailyMovedStat": {
@@ -1081,7 +1081,7 @@
         "2026-04-19": "133145"
     },
     "topDestinationHosts": {
-        "Pressable": 12850,
+        "Pressable": 12851,
         "Kinsta": 9087,
         "Digital Ocean": 6447,
         "SiteGround": 5710,
