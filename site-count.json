@@ -1,6 +1,11 @@
 {
-    "siteCount": 133172,
+    "siteCount": 133176,
     "recentlyMoved": [
+        {
+            "domain_name": "elveznyc.com",
+            "destination": "Kinsta",
+            "date": "2026-04-20 01:15:21"
+        },
         {
             "domain_name": "theclocktowernyc.com",
             "destination": "Kinsta",
@@ -470,11 +475,6 @@
             "domain_name": "shrc-law.com",
             "destination": "Namecheap",
             "date": "2026-04-17 16:14:32"
-        },
-        {
-            "domain_name": "www.comprehensiveearandhearing.com",
-            "destination": "Pressable",
-            "date": "2026-04-17 16:13:58"
         },
         {
             "domain_name": "rhdbp.rhdproofs.com",
@@ -1082,7 +1082,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12850,
-        "Kinsta": 9086,
+        "Kinsta": 9087,
         "Digital Ocean": 6447,
         "SiteGround": 5710,
         "Hostinger": 4948,
