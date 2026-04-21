@@ -1,6 +1,26 @@
 {
-    "siteCount": 133427,
+    "siteCount": 133455,
     "recentlyMoved": [
+        {
+            "domain_name": "kristalapp.com",
+            "destination": "Kinsta",
+            "date": "2026-04-21 17:00:54"
+        },
+        {
+            "domain_name": "lindseyhomes.com",
+            "destination": "Kinsta",
+            "date": "2026-04-21 16:52:00"
+        },
+        {
+            "domain_name": "brittonrooflights.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-04-21 16:47:20"
+        },
+        {
+            "domain_name": "www.theacevedoteam.com",
+            "destination": "Pressable",
+            "date": "2026-04-21 16:43:54"
+        },
         {
             "domain_name": "bestigeholdings.com",
             "destination": "Kinsta",
@@ -472,21 +492,6 @@
             "date": "2026-04-18 13:42:57"
         },
         {
-            "domain_name": "theultimategirlmom.com",
-            "destination": "Pressable",
-            "date": "2026-04-18 13:40:14"
-        },
-        {
-            "domain_name": "truclarityhearing.com",
-            "destination": "Pressable",
-            "date": "2026-04-18 13:19:27"
-        },
-        {
-            "domain_name": "thermalimagingtexas.com",
-            "destination": "Pressable",
-            "date": "2026-04-18 13:14:27"
-        },
-        {
             "domain_name": "mycloudkeeper.ca",
             "destination": "Kinsta",
             "date": "2026-04-18 13:09:30"
@@ -495,11 +500,6 @@
             "domain_name": "myrestoredfloor.com",
             "destination": "Pressable",
             "date": "2026-04-18 13:08:21"
-        },
-        {
-            "domain_name": "trinketvault.com",
-            "destination": "Hostinger",
-            "date": "2026-04-18 12:59:03"
         }
     ],
     "dailyMovedStat": {
@@ -1082,8 +1082,8 @@
         "2026-04-20": "133273"
     },
     "topDestinationHosts": {
-        "Pressable": 12855,
-        "Kinsta": 9098,
+        "Pressable": 12856,
+        "Kinsta": 9101,
         "Digital Ocean": 6455,
         "SiteGround": 5710,
         "Hostinger": 4956,
@@ -1100,7 +1100,7 @@
         "IONOS": 497,
         "DreamHost": 463,
         "A2 Hosting": 458,
-        "Hetzner Online": 411,
+        "Hetzner Online": 412,
         "HostGator": 310
     },
     "dailyTotalStat": {
