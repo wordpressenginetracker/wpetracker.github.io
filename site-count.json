@@ -1,6 +1,46 @@
 {
-    "siteCount": 133462,
+    "siteCount": 133517,
     "recentlyMoved": [
+        {
+            "domain_name": "infinityrehab.com",
+            "destination": "Kinsta",
+            "date": "2026-04-21 20:26:27"
+        },
+        {
+            "domain_name": "harefest.com",
+            "destination": "Kinsta",
+            "date": "2026-04-21 20:14:21"
+        },
+        {
+            "domain_name": "barkingzebratreks.com",
+            "destination": "Bluehost",
+            "date": "2026-04-21 20:03:27"
+        },
+        {
+            "domain_name": "barkingzebratours.com",
+            "destination": "Bluehost",
+            "date": "2026-04-21 20:03:27"
+        },
+        {
+            "domain_name": "90sflannelfest.com",
+            "destination": "Kinsta",
+            "date": "2026-04-21 20:00:52"
+        },
+        {
+            "domain_name": "www.hitsshows.com",
+            "destination": "Pressable",
+            "date": "2026-04-21 19:58:40"
+        },
+        {
+            "domain_name": "ozarkhillsinsurance.com",
+            "destination": "GoDaddy",
+            "date": "2026-04-21 19:43:52"
+        },
+        {
+            "domain_name": "worldsbestcorndogs.com",
+            "destination": "Pressable",
+            "date": "2026-04-21 19:20:19"
+        },
         {
             "domain_name": "tropicterraceresort.com",
             "destination": "Namecheap",
@@ -447,11 +487,6 @@
             "date": "2026-04-18 20:22:12"
         },
         {
-            "domain_name": "portlandcrawlspaceservices.com",
-            "destination": "Kinsta",
-            "date": "2026-04-18 20:21:54"
-        },
-        {
             "domain_name": "brentchoferpainting.com",
             "destination": "Kinsta",
             "date": "2026-04-18 20:05:26"
@@ -462,44 +497,9 @@
             "date": "2026-04-18 20:02:51"
         },
         {
-            "domain_name": "wrkhrs.co",
-            "destination": "Hetzner Online",
-            "date": "2026-04-18 19:54:30"
-        },
-        {
             "domain_name": "www.carolinaprecisiongrading.com",
             "destination": "Namecheap",
             "date": "2026-04-18 19:36:13"
-        },
-        {
-            "domain_name": "www.duckettmgmt.com",
-            "destination": "Bluehost",
-            "date": "2026-04-18 19:28:14"
-        },
-        {
-            "domain_name": "ablechurch.us",
-            "destination": "Pressable",
-            "date": "2026-04-18 19:20:45"
-        },
-        {
-            "domain_name": "utahsplumber.com",
-            "destination": "Liquid Web",
-            "date": "2026-04-18 17:16:18"
-        },
-        {
-            "domain_name": "www.rtfhsd.org",
-            "destination": "Kinsta",
-            "date": "2026-04-18 17:05:16"
-        },
-        {
-            "domain_name": "bulhed.com",
-            "destination": "Pressable",
-            "date": "2026-04-18 16:04:56"
-        },
-        {
-            "domain_name": "pivothearing.com",
-            "destination": "Pressable",
-            "date": "2026-04-18 15:47:11"
         }
     ],
     "dailyMovedStat": {
@@ -1082,13 +1082,13 @@
         "2026-04-20": "133273"
     },
     "topDestinationHosts": {
-        "Pressable": 12858,
-        "Kinsta": 9101,
+        "Pressable": 12859,
+        "Kinsta": 9103,
         "Digital Ocean": 6455,
         "SiteGround": 5710,
         "Hostinger": 4956,
-        "Bluehost": 4558,
-        "GoDaddy": 1683,
+        "Bluehost": 4560,
+        "GoDaddy": 1684,
         "Liquid Web": 860,
         "BigScoots": 827,
         "WordPress.com": 675,
