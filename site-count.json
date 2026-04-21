@@ -1,6 +1,16 @@
 {
-    "siteCount": 133282,
+    "siteCount": 133289,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ovenfreshbaking.ca",
+            "destination": "Hetzner Online",
+            "date": "2026-04-21 00:38:54"
+        },
+        {
+            "domain_name": "communityhighered.org",
+            "destination": "Kinsta",
+            "date": "2026-04-21 00:27:21"
+        },
         {
             "domain_name": "www.fusionpeopleit.com.au",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "bradovka.com",
             "destination": "Kinsta",
             "date": "2026-04-17 20:39:51"
-        },
-        {
-            "domain_name": "raynorservices.com",
-            "destination": "GoDaddy",
-            "date": "2026-04-17 20:16:01"
-        },
-        {
-            "domain_name": "pmz.one",
-            "destination": "Pressable",
-            "date": "2026-04-17 19:29:38"
         }
     ],
     "dailyMovedStat": {
@@ -1083,7 +1083,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12852,
-        "Kinsta": 9090,
+        "Kinsta": 9091,
         "Digital Ocean": 6451,
         "SiteGround": 5710,
         "Hostinger": 4951,
@@ -1100,7 +1100,7 @@
         "IONOS": 495,
         "DreamHost": 463,
         "A2 Hosting": 458,
-        "Hetzner Online": 409,
+        "Hetzner Online": 410,
         "HostGator": 309
     },
     "dailyTotalStat": {
