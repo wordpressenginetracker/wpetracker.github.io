@@ -1,6 +1,21 @@
 {
-    "siteCount": 133298,
+    "siteCount": 133313,
     "recentlyMoved": [
+        {
+            "domain_name": "www.tunturitec.com",
+            "destination": "Hetzner Online",
+            "date": "2026-04-21 05:26:25"
+        },
+        {
+            "domain_name": "kayakjudge.com",
+            "destination": "Namecheap",
+            "date": "2026-04-21 05:07:28"
+        },
+        {
+            "domain_name": "luxefifthwheel.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-04-21 04:58:55"
+        },
         {
             "domain_name": "www.ovenfreshbaking.ca",
             "destination": "Hetzner Online",
@@ -485,21 +500,6 @@
             "domain_name": "absolutescaffolding.nz",
             "destination": "Hostinger",
             "date": "2026-04-17 23:11:52"
-        },
-        {
-            "domain_name": "nationalparkfloattrips.com",
-            "destination": "Digital Ocean",
-            "date": "2026-04-17 21:12:34"
-        },
-        {
-            "domain_name": "coreawareness.com",
-            "destination": "Hostinger",
-            "date": "2026-04-17 20:53:17"
-        },
-        {
-            "domain_name": "bradovka.com",
-            "destination": "Kinsta",
-            "date": "2026-04-17 20:39:51"
         }
     ],
     "dailyMovedStat": {
@@ -1094,13 +1094,13 @@
         "WordPress.com": 673,
         "GridPane": 656,
         "OVH": 627,
-        "InMotion Hosting": 563,
+        "InMotion Hosting": 564,
         "Elementor Hosting": 538,
-        "Namecheap": 516,
+        "Namecheap": 517,
         "IONOS": 495,
         "DreamHost": 463,
         "A2 Hosting": 458,
-        "Hetzner Online": 410,
+        "Hetzner Online": 411,
         "HostGator": 309
     },
     "dailyTotalStat": {
