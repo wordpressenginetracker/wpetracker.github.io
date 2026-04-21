@@ -1,6 +1,16 @@
 {
-    "siteCount": 133315,
+    "siteCount": 133326,
     "recentlyMoved": [
+        {
+            "domain_name": "rsconstructiongroup.ca",
+            "destination": "IONOS",
+            "date": "2026-04-21 08:41:05"
+        },
+        {
+            "domain_name": "bbaffl.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-21 08:27:35"
+        },
         {
             "domain_name": "www.tunturitec.com",
             "destination": "Hetzner Online",
@@ -490,16 +500,6 @@
             "domain_name": "coachad.com",
             "destination": "DreamHost",
             "date": "2026-04-18 00:30:14"
-        },
-        {
-            "domain_name": "aligntechnology.com.au",
-            "destination": "Kinsta",
-            "date": "2026-04-18 00:15:38"
-        },
-        {
-            "domain_name": "absolutescaffolding.nz",
-            "destination": "Hostinger",
-            "date": "2026-04-17 23:11:52"
         }
     ],
     "dailyMovedStat": {
@@ -1084,7 +1084,7 @@
     "topDestinationHosts": {
         "Pressable": 12852,
         "Kinsta": 9091,
-        "Digital Ocean": 6451,
+        "Digital Ocean": 6452,
         "SiteGround": 5710,
         "Hostinger": 4951,
         "Bluehost": 4557,
