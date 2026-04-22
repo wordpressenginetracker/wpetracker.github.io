@@ -1,6 +1,21 @@
 {
-    "siteCount": 133702,
+    "siteCount": 133717,
     "recentlyMoved": [
+        {
+            "domain_name": "davesgaragedoors.com",
+            "destination": "Kinsta",
+            "date": "2026-04-22 17:24:45"
+        },
+        {
+            "domain_name": "keystonenewsroom.com",
+            "destination": "WordPress VIP",
+            "date": "2026-04-22 16:43:08"
+        },
+        {
+            "domain_name": "julesschroeder.com",
+            "destination": "Namecheap",
+            "date": "2026-04-22 16:32:36"
+        },
         {
             "domain_name": "www.fidimt.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.eternalhealth.com",
             "destination": "Kinsta",
             "date": "2026-04-21 11:45:15"
-        },
-        {
-            "domain_name": "globalipaction.ch",
-            "destination": "Kinsta",
-            "date": "2026-04-21 11:45:04"
-        },
-        {
-            "domain_name": "prosafetyco.com",
-            "destination": "WordPress.com",
-            "date": "2026-04-21 11:40:23"
-        },
-        {
-            "domain_name": "www.eastepplaw.com",
-            "destination": "IONOS",
-            "date": "2026-04-21 11:32:47"
         }
     ],
     "dailyMovedStat": {
@@ -1084,7 +1084,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12877,
-        "Kinsta": 9128,
+        "Kinsta": 9130,
         "Digital Ocean": 6460,
         "SiteGround": 5710,
         "Hostinger": 4959,
@@ -1097,7 +1097,7 @@
         "OVH": 627,
         "InMotion Hosting": 566,
         "Elementor Hosting": 539,
-        "Namecheap": 518,
+        "Namecheap": 519,
         "IONOS": 497,
         "DreamHost": 463,
         "A2 Hosting": 458,
