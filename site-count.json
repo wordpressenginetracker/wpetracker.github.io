@@ -1,6 +1,26 @@
 {
-    "siteCount": 133901,
+    "siteCount": 133916,
     "recentlyMoved": [
+        {
+            "domain_name": "continentalmidtown.com",
+            "destination": "Kinsta",
+            "date": "2026-04-23 09:25:04"
+        },
+        {
+            "domain_name": "lasermasterclass.de",
+            "destination": "IONOS",
+            "date": "2026-04-23 08:46:22"
+        },
+        {
+            "domain_name": "buddakan.com",
+            "destination": "Kinsta",
+            "date": "2026-04-23 08:43:17"
+        },
+        {
+            "domain_name": "www.laundryone.com",
+            "destination": "Pressable",
+            "date": "2026-04-23 08:33:30"
+        },
         {
             "domain_name": "releye.se",
             "destination": "Kinsta",
@@ -472,34 +492,14 @@
             "date": "2026-04-21 20:42:22"
         },
         {
-            "domain_name": "infinityrehab.com",
-            "destination": "Kinsta",
-            "date": "2026-04-21 20:26:27"
-        },
-        {
             "domain_name": "skyislandalliance.org",
             "destination": "WordPress.com",
             "date": "2026-04-21 20:13:18"
         },
         {
-            "domain_name": "barkingzebratreks.com",
-            "destination": "Bluehost",
-            "date": "2026-04-21 20:03:27"
-        },
-        {
-            "domain_name": "barkingzebratours.com",
-            "destination": "Bluehost",
-            "date": "2026-04-21 20:03:27"
-        },
-        {
             "domain_name": "sarahlewiscounselling.com",
             "destination": "Kinsta",
             "date": "2026-04-21 19:59:47"
-        },
-        {
-            "domain_name": "www.hitsshows.com",
-            "destination": "Pressable",
-            "date": "2026-04-21 19:58:40"
         }
     ],
     "dailyMovedStat": {
@@ -1084,8 +1084,8 @@
         "2026-04-22": "133849"
     },
     "topDestinationHosts": {
-        "Pressable": 12885,
-        "Kinsta": 9144,
+        "Pressable": 12886,
+        "Kinsta": 9146,
         "Digital Ocean": 6461,
         "SiteGround": 5710,
         "Hostinger": 4963,
@@ -1099,7 +1099,7 @@
         "InMotion Hosting": 566,
         "Elementor Hosting": 539,
         "Namecheap": 519,
-        "IONOS": 497,
+        "IONOS": 498,
         "DreamHost": 464,
         "A2 Hosting": 458,
         "Hetzner Online": 416,
