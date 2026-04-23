@@ -1,6 +1,11 @@
 {
-    "siteCount": 133849,
+    "siteCount": 133856,
     "recentlyMoved": [
+        {
+            "domain_name": "www.americaswindowanddoorstore.com",
+            "destination": "Kinsta",
+            "date": "2026-04-22 23:45:55"
+        },
         {
             "domain_name": "maijourneys.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "blakeharrislaw.com",
             "destination": "Hetzner Online",
             "date": "2026-04-21 15:49:35"
-        },
-        {
-            "domain_name": "www.krystineedwards.com",
-            "destination": "HostGator",
-            "date": "2026-04-21 15:26:28"
         },
         {
             "domain_name": "gatewayproperty.net",
@@ -1085,7 +1085,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12883,
-        "Kinsta": 9135,
+        "Kinsta": 9136,
         "Digital Ocean": 6460,
         "SiteGround": 5710,
         "Hostinger": 4960,
