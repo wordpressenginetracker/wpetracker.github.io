@@ -1,5 +1,5 @@
 {
-    "siteCount": 134181,
+    "siteCount": 134187,
     "recentlyMoved": [
         {
             "domain_name": "thecaliforniainjuryfirm.com",
@@ -12,9 +12,19 @@
             "date": "2026-04-24 09:28:06"
         },
         {
+            "domain_name": "expressrecyclingandsanitation.com",
+            "destination": "Pressable",
+            "date": "2026-04-24 09:18:15"
+        },
+        {
             "domain_name": "sqroots.com",
             "destination": "Hostinger",
             "date": "2026-04-24 09:12:27"
+        },
+        {
+            "domain_name": "tripatlas.com",
+            "destination": "Kinsta",
+            "date": "2026-04-24 09:09:16"
         },
         {
             "domain_name": "skillevatejobs.com",
@@ -487,19 +497,9 @@
             "date": "2026-04-23 11:44:12"
         },
         {
-            "domain_name": "agrigainsumagrow.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 11:37:12"
-        },
-        {
             "domain_name": "hearinghealthmatters.org",
             "destination": "Pressable",
             "date": "2026-04-23 11:35:54"
-        },
-        {
-            "domain_name": "www.animalbehaviorcollege.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 11:21:10"
         }
     ],
     "dailyMovedStat": {
@@ -1085,8 +1085,8 @@
         "2026-04-23": "134135"
     },
     "topDestinationHosts": {
-        "Pressable": 12921,
-        "Kinsta": 9197,
+        "Pressable": 12922,
+        "Kinsta": 9198,
         "Digital Ocean": 6468,
         "SiteGround": 5710,
         "Hostinger": 4970,
