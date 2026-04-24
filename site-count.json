@@ -1,6 +1,16 @@
 {
-    "siteCount": 134153,
+    "siteCount": 134159,
     "recentlyMoved": [
+        {
+            "domain_name": "astrolaserllc.com",
+            "destination": "Pressable",
+            "date": "2026-04-24 03:49:55"
+        },
+        {
+            "domain_name": "www.accentblindsqld.com.au",
+            "destination": "GridPane",
+            "date": "2026-04-24 03:13:54"
+        },
         {
             "domain_name": "medfa.com",
             "destination": "Kinsta",
@@ -482,19 +492,9 @@
             "date": "2026-04-23 11:13:42"
         },
         {
-            "domain_name": "elreyrestaurant.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 09:49:21"
-        },
-        {
             "domain_name": "nutritionandwellnesssolutions.com",
             "destination": "Pressable",
             "date": "2026-04-23 09:40:15"
-        },
-        {
-            "domain_name": "continentalmidtown.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 09:25:04"
         },
         {
             "domain_name": "ensleyxteriors.com",
@@ -1085,7 +1085,7 @@
         "2026-04-23": "134135"
     },
     "topDestinationHosts": {
-        "Pressable": 12917,
+        "Pressable": 12918,
         "Kinsta": 9195,
         "Digital Ocean": 6467,
         "SiteGround": 5710,
@@ -1095,7 +1095,7 @@
         "Liquid Web": 861,
         "BigScoots": 831,
         "WordPress.com": 678,
-        "GridPane": 658,
+        "GridPane": 659,
         "OVH": 628,
         "InMotion Hosting": 567,
         "Elementor Hosting": 539,
