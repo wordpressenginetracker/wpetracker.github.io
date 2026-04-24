@@ -1,6 +1,31 @@
 {
-    "siteCount": 134172,
+    "siteCount": 134181,
     "recentlyMoved": [
+        {
+            "domain_name": "thecaliforniainjuryfirm.com",
+            "destination": "Digital Ocean",
+            "date": "2026-04-24 09:34:12"
+        },
+        {
+            "domain_name": "majorcapital.com",
+            "destination": "Hetzner Online",
+            "date": "2026-04-24 09:28:06"
+        },
+        {
+            "domain_name": "sqroots.com",
+            "destination": "Hostinger",
+            "date": "2026-04-24 09:12:27"
+        },
+        {
+            "domain_name": "skillevatejobs.com",
+            "destination": "Pressable",
+            "date": "2026-04-24 08:41:02"
+        },
+        {
+            "domain_name": "simplykeyhole.com",
+            "destination": "Hetzner Online",
+            "date": "2026-04-24 08:31:17"
+        },
         {
             "domain_name": "fokus.haus",
             "destination": "Kinsta",
@@ -457,32 +482,12 @@
             "date": "2026-04-23 12:15:55"
         },
         {
-            "domain_name": "aegertermarketing.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 12:11:15"
-        },
-        {
-            "domain_name": "accessstoragetexas.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 12:03:07"
-        },
-        {
             "domain_name": "www.ariseapps.com",
             "destination": "Hostinger",
             "date": "2026-04-23 11:44:12"
         },
         {
-            "domain_name": "7hnutrients.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 11:42:09"
-        },
-        {
             "domain_name": "agrigainsumagrow.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 11:37:12"
-        },
-        {
-            "domain_name": "agriculturemediation.org",
             "destination": "Kinsta",
             "date": "2026-04-23 11:37:12"
         },
@@ -495,11 +500,6 @@
             "domain_name": "www.animalbehaviorcollege.com",
             "destination": "Kinsta",
             "date": "2026-04-23 11:21:10"
-        },
-        {
-            "domain_name": "www.1880hospitality.com",
-            "destination": "Pressable",
-            "date": "2026-04-23 11:13:42"
         }
     ],
     "dailyMovedStat": {
@@ -1085,11 +1085,11 @@
         "2026-04-23": "134135"
     },
     "topDestinationHosts": {
-        "Pressable": 12920,
-        "Kinsta": 9196,
-        "Digital Ocean": 6467,
+        "Pressable": 12921,
+        "Kinsta": 9197,
+        "Digital Ocean": 6468,
         "SiteGround": 5710,
-        "Hostinger": 4969,
+        "Hostinger": 4970,
         "Bluehost": 4564,
         "GoDaddy": 1685,
         "Liquid Web": 861,
@@ -1103,7 +1103,7 @@
         "IONOS": 500,
         "DreamHost": 464,
         "A2 Hosting": 458,
-        "Hetzner Online": 417,
+        "Hetzner Online": 419,
         "HostGator": 312
     },
     "dailyTotalStat": {
