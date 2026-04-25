@@ -1,6 +1,16 @@
 {
-    "siteCount": 134405,
+    "siteCount": 134414,
     "recentlyMoved": [
+        {
+            "domain_name": "kateclanchy.com",
+            "destination": "Hostinger",
+            "date": "2026-04-25 04:38:27"
+        },
+        {
+            "domain_name": "sol-os.ch",
+            "destination": "Kinsta",
+            "date": "2026-04-25 04:23:52"
+        },
         {
             "domain_name": "saintstreetcreative.ca",
             "destination": "Namecheap",
@@ -490,16 +500,6 @@
             "domain_name": "windowslip.com",
             "destination": "Kinsta",
             "date": "2026-04-23 19:48:45"
-        },
-        {
-            "domain_name": "flintavenue.com",
-            "destination": "Hostinger",
-            "date": "2026-04-23 19:20:28"
-        },
-        {
-            "domain_name": "newtonsmilecentre.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 18:00:12"
         }
     ],
     "dailyMovedStat": {
@@ -1087,10 +1087,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 12937,
-        "Kinsta": 9220,
+        "Kinsta": 9221,
         "Digital Ocean": 6473,
         "SiteGround": 5710,
-        "Hostinger": 4976,
+        "Hostinger": 4977,
         "Bluehost": 4564,
         "GoDaddy": 1685,
         "Liquid Web": 862,
@@ -1100,7 +1100,7 @@
         "OVH": 629,
         "InMotion Hosting": 567,
         "Elementor Hosting": 539,
-        "Namecheap": 521,
+        "Namecheap": 522,
         "IONOS": 500,
         "DreamHost": 464,
         "A2 Hosting": 458,
