@@ -1,6 +1,11 @@
 {
-    "siteCount": 134393,
+    "siteCount": 134397,
     "recentlyMoved": [
+        {
+            "domain_name": "farhanasifkhan.com",
+            "destination": "Kinsta",
+            "date": "2026-04-25 02:05:34"
+        },
         {
             "domain_name": "www.spotfreesystem.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "uvlinemarking.ie",
             "destination": "Hostinger",
             "date": "2026-04-23 18:00:03"
-        },
-        {
-            "domain_name": "everclearhearing.com",
-            "destination": "Pressable",
-            "date": "2026-04-23 17:21:06"
         }
     ],
     "dailyMovedStat": {
@@ -1087,7 +1087,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12937,
-        "Kinsta": 9219,
+        "Kinsta": 9220,
         "Digital Ocean": 6473,
         "SiteGround": 5710,
         "Hostinger": 4976,
