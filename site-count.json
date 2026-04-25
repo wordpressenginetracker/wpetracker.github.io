@@ -1,6 +1,11 @@
 {
-    "siteCount": 134414,
+    "siteCount": 134419,
     "recentlyMoved": [
+        {
+            "domain_name": "newluxebathglass.com",
+            "destination": "Pressable",
+            "date": "2026-04-25 05:45:31"
+        },
         {
             "domain_name": "kateclanchy.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "franco-fagioli.info",
             "destination": "IONOS",
             "date": "2026-04-23 20:01:50"
-        },
-        {
-            "domain_name": "windowslip.com",
-            "destination": "Kinsta",
-            "date": "2026-04-23 19:48:45"
         }
     ],
     "dailyMovedStat": {
@@ -1086,7 +1086,7 @@
         "2026-04-24": "134378"
     },
     "topDestinationHosts": {
-        "Pressable": 12937,
+        "Pressable": 12938,
         "Kinsta": 9221,
         "Digital Ocean": 6473,
         "SiteGround": 5710,
