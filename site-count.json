@@ -1,6 +1,26 @@
 {
-    "siteCount": 134698,
+    "siteCount": 134725,
     "recentlyMoved": [
+        {
+            "domain_name": "heartlandged.com",
+            "destination": "Pressable",
+            "date": "2026-04-26 20:25:26"
+        },
+        {
+            "domain_name": "greaterfortknox.com",
+            "destination": "Pressable",
+            "date": "2026-04-26 20:09:01"
+        },
+        {
+            "domain_name": "growgrayson.com",
+            "destination": "Pressable",
+            "date": "2026-04-26 19:57:52"
+        },
+        {
+            "domain_name": "halldevelopmentsolutions.com",
+            "destination": "Pressable",
+            "date": "2026-04-26 19:52:25"
+        },
         {
             "domain_name": "rogercoryell.com",
             "destination": "Digital Ocean",
@@ -467,11 +487,6 @@
             "date": "2026-04-24 23:53:15"
         },
         {
-            "domain_name": "idxbrands.com",
-            "destination": "Pressable",
-            "date": "2026-04-24 20:40:33"
-        },
-        {
             "domain_name": "summitsalesintl.com",
             "destination": "Kinsta",
             "date": "2026-04-24 20:36:23"
@@ -485,21 +500,6 @@
             "domain_name": "kryptoswiss.io",
             "destination": "Hetzner Online",
             "date": "2026-04-24 20:22:22"
-        },
-        {
-            "domain_name": "image-depot.com",
-            "destination": "Pressable",
-            "date": "2026-04-24 20:15:27"
-        },
-        {
-            "domain_name": "bronxvillehearing.com",
-            "destination": "Pressable",
-            "date": "2026-04-24 20:14:10"
-        },
-        {
-            "domain_name": "hearingcenterofjackson.com",
-            "destination": "Pressable",
-            "date": "2026-04-24 19:59:33"
         }
     ],
     "dailyMovedStat": {
@@ -1087,7 +1087,7 @@
         "2026-04-25": "134618"
     },
     "topDestinationHosts": {
-        "Pressable": 12967,
+        "Pressable": 12971,
         "Kinsta": 9260,
         "Digital Ocean": 6478,
         "SiteGround": 5711,
@@ -1095,7 +1095,7 @@
         "Bluehost": 4564,
         "GoDaddy": 1687,
         "Liquid Web": 864,
-        "BigScoots": 831,
+        "BigScoots": 832,
         "WordPress.com": 681,
         "GridPane": 662,
         "OVH": 630,
@@ -1103,7 +1103,7 @@
         "Elementor Hosting": 539,
         "Namecheap": 524,
         "IONOS": 501,
-        "DreamHost": 464,
+        "DreamHost": 465,
         "A2 Hosting": 458,
         "Hetzner Online": 423,
         "HostGator": 312
