@@ -1,6 +1,11 @@
 {
-    "siteCount": 134680,
+    "siteCount": 134684,
     "recentlyMoved": [
+        {
+            "domain_name": "tisonbuilders.com",
+            "destination": "Pressable",
+            "date": "2026-04-26 13:41:39"
+        },
         {
             "domain_name": "www.montanacancerspecialists.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "hearingcenterofjackson.com",
             "destination": "Pressable",
             "date": "2026-04-24 19:59:33"
-        },
-        {
-            "domain_name": "princetongroupsports.com",
-            "destination": "Kinsta",
-            "date": "2026-04-24 19:54:38"
         },
         {
             "domain_name": "www.davesupstateservices.com",
@@ -1087,7 +1087,7 @@
         "2026-04-25": "134618"
     },
     "topDestinationHosts": {
-        "Pressable": 12966,
+        "Pressable": 12967,
         "Kinsta": 9260,
         "Digital Ocean": 6477,
         "SiteGround": 5711,
