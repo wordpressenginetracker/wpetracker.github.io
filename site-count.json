@@ -1,6 +1,11 @@
 {
-    "siteCount": 134851,
+    "siteCount": 134853,
     "recentlyMoved": [
+        {
+            "domain_name": "wearestorybook.be",
+            "destination": "Digital Ocean",
+            "date": "2026-04-27 17:52:44"
+        },
         {
             "domain_name": "www.uponarriving.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "interstateapplianceservice.com",
             "destination": "Digital Ocean",
             "date": "2026-04-25 15:55:04"
-        },
-        {
-            "domain_name": "homecomfortoptions.com",
-            "destination": "Pressable",
-            "date": "2026-04-25 15:41:01"
         }
     ],
     "dailyMovedStat": {
@@ -1089,8 +1089,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 12988,
-        "Kinsta": 9281,
-        "Digital Ocean": 6484,
+        "Kinsta": 9282,
+        "Digital Ocean": 6485,
         "SiteGround": 5711,
         "Hostinger": 4983,
         "Bluehost": 4566,
