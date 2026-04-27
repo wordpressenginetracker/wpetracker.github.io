@@ -1,6 +1,11 @@
 {
-    "siteCount": 134778,
+    "siteCount": 134784,
     "recentlyMoved": [
+        {
+            "domain_name": "elvezrestaurant.com",
+            "destination": "Kinsta",
+            "date": "2026-04-27 01:52:32"
+        },
         {
             "domain_name": "theloverestaurant.com",
             "destination": "Kinsta",
@@ -470,11 +475,6 @@
             "domain_name": "smith-equipment.com",
             "destination": "Pressable",
             "date": "2026-04-25 12:32:52"
-        },
-        {
-            "domain_name": "barberranch.com",
-            "destination": "Kinsta",
-            "date": "2026-04-25 12:27:23"
         },
         {
             "domain_name": "bcyla.net",
@@ -1089,7 +1089,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 12979,
-        "Kinsta": 9280,
+        "Kinsta": 9281,
         "Digital Ocean": 6479,
         "SiteGround": 5711,
         "Hostinger": 4983,
