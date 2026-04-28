@@ -1,6 +1,21 @@
 {
-    "siteCount": 135008,
+    "siteCount": 135020,
     "recentlyMoved": [
+        {
+            "domain_name": "vaynerspeakers.com",
+            "destination": "Hetzner Online",
+            "date": "2026-04-28 14:08:52"
+        },
+        {
+            "domain_name": "newmansown.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-04-28 13:27:55"
+        },
+        {
+            "domain_name": "medspafm.com",
+            "destination": "Hostinger",
+            "date": "2026-04-28 13:11:19"
+        },
         {
             "domain_name": "southplacehotel.com",
             "destination": "Digital Ocean",
@@ -452,11 +467,6 @@
             "date": "2026-04-27 00:11:11"
         },
         {
-            "domain_name": "fxbrokercheck.com",
-            "destination": "Hostinger",
-            "date": "2026-04-27 00:09:50"
-        },
-        {
             "domain_name": "brcranchtours.com",
             "destination": "Kinsta",
             "date": "2026-04-26 23:58:55"
@@ -482,11 +492,6 @@
             "date": "2026-04-26 23:53:58"
         },
         {
-            "domain_name": "parc-restaurant.com",
-            "destination": "Kinsta",
-            "date": "2026-04-26 23:48:16"
-        },
-        {
             "domain_name": "anthonyprofeta.com",
             "destination": "Pressable",
             "date": "2026-04-26 23:41:16"
@@ -495,11 +500,6 @@
             "domain_name": "www.wekeepyoudry.com",
             "destination": "Kinsta",
             "date": "2026-04-26 23:35:22"
-        },
-        {
-            "domain_name": "newpioneers.org",
-            "destination": "Pressable",
-            "date": "2026-04-26 21:39:02"
         }
     ],
     "dailyMovedStat": {
@@ -1093,7 +1093,7 @@
         "Kinsta": 9289,
         "Digital Ocean": 6499,
         "SiteGround": 5712,
-        "Hostinger": 4992,
+        "Hostinger": 4993,
         "Bluehost": 4567,
         "GoDaddy": 1687,
         "Liquid Web": 864,
@@ -1107,7 +1107,7 @@
         "IONOS": 502,
         "DreamHost": 467,
         "A2 Hosting": 458,
-        "Hetzner Online": 424,
+        "Hetzner Online": 425,
         "HostGator": 313
     },
     "dailyTotalStat": {
