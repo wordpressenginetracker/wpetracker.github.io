@@ -1,10 +1,20 @@
 {
-    "siteCount": 135132,
+    "siteCount": 135141,
     "recentlyMoved": [
+        {
+            "domain_name": "estradaholdingsllc.com",
+            "destination": "Pressable",
+            "date": "2026-04-28 21:27:36"
+        },
         {
             "domain_name": "lowcarbonalliance.co.uk",
             "destination": "Kinsta",
             "date": "2026-04-28 21:17:28"
+        },
+        {
+            "domain_name": "utahpoolguy.com",
+            "destination": "Pressable",
+            "date": "2026-04-28 21:14:56"
         },
         {
             "domain_name": "curatedsolutions-sifarish.com",
@@ -490,16 +500,6 @@
             "domain_name": "cellfish.fr",
             "destination": "Hetzner Online",
             "date": "2026-04-27 09:10:09"
-        },
-        {
-            "domain_name": "www.mtfiretesting.org",
-            "destination": "Pressable",
-            "date": "2026-04-27 08:45:11"
-        },
-        {
-            "domain_name": "www.mooveagency.com",
-            "destination": "Pressable",
-            "date": "2026-04-27 04:38:02"
         }
     ],
     "dailyMovedStat": {
@@ -1089,7 +1089,7 @@
         "2026-04-27": "134893"
     },
     "topDestinationHosts": {
-        "Pressable": 13008,
+        "Pressable": 13010,
         "Kinsta": 9296,
         "Digital Ocean": 6504,
         "SiteGround": 5712,
