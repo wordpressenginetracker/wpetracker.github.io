@@ -1,6 +1,11 @@
 {
-    "siteCount": 135260,
+    "siteCount": 135263,
     "recentlyMoved": [
+        {
+            "domain_name": "waldoflats.com",
+            "destination": "Kinsta",
+            "date": "2026-04-29 05:29:38"
+        },
         {
             "domain_name": "intelligentdesignz.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.ezdryflooddamage.com",
             "destination": "GridPane",
             "date": "2026-04-27 20:07:39"
-        },
-        {
-            "domain_name": "www.5starwaterheaters.com",
-            "destination": "GridPane",
-            "date": "2026-04-27 19:16:44"
         }
     ],
     "dailyMovedStat": {
@@ -1091,7 +1091,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13021,
-        "Kinsta": 9299,
+        "Kinsta": 9300,
         "Digital Ocean": 6505,
         "SiteGround": 5712,
         "Hostinger": 4999,
