@@ -1,6 +1,21 @@
 {
-    "siteCount": 136165,
+    "siteCount": 136170,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jdservicenow.com",
+            "destination": "GoDaddy",
+            "date": "2026-05-02 08:21:09"
+        },
+        {
+            "domain_name": "whitehillhousecare.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-05-02 07:56:08"
+        },
+        {
+            "domain_name": "georgiapecan.org",
+            "destination": "Kinsta",
+            "date": "2026-05-02 07:21:52"
+        },
         {
             "domain_name": "nuhx.health",
             "destination": "Pressable",
@@ -477,16 +492,6 @@
             "date": "2026-05-01 08:30:13"
         },
         {
-            "domain_name": "gdglangley.ca",
-            "destination": "Hostinger",
-            "date": "2026-05-01 08:11:24"
-        },
-        {
-            "domain_name": "hargrovetravel.net",
-            "destination": "Pressable",
-            "date": "2026-05-01 08:06:42"
-        },
-        {
             "domain_name": "hsburnettcty.org",
             "destination": "Pressable",
             "date": "2026-05-01 08:00:52"
@@ -495,11 +500,6 @@
             "domain_name": "honsvallcpa.com",
             "destination": "Pressable",
             "date": "2026-05-01 07:48:08"
-        },
-        {
-            "domain_name": "herrickresearch.com",
-            "destination": "Pressable",
-            "date": "2026-05-01 07:41:05"
         }
     ],
     "dailyMovedStat": {
@@ -1094,7 +1094,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13104,
-        "Kinsta": 9392,
+        "Kinsta": 9394,
         "Digital Ocean": 6548,
         "SiteGround": 5715,
         "Hostinger": 5027,
