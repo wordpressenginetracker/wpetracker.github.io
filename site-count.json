@@ -1,6 +1,16 @@
 {
-    "siteCount": 136170,
+    "siteCount": 136179,
     "recentlyMoved": [
+        {
+            "domain_name": "drlizhale.com",
+            "destination": "Hostinger",
+            "date": "2026-05-02 09:14:57"
+        },
+        {
+            "domain_name": "calculatorapp.ch",
+            "destination": "Kinsta",
+            "date": "2026-05-02 08:43:30"
+        },
         {
             "domain_name": "www.jdservicenow.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "screens.beresfords.co.uk",
             "destination": "IONOS",
             "date": "2026-05-01 08:30:13"
-        },
-        {
-            "domain_name": "hsburnettcty.org",
-            "destination": "Pressable",
-            "date": "2026-05-01 08:00:52"
-        },
-        {
-            "domain_name": "honsvallcpa.com",
-            "destination": "Pressable",
-            "date": "2026-05-01 07:48:08"
         }
     ],
     "dailyMovedStat": {
@@ -1094,12 +1094,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 13104,
-        "Kinsta": 9394,
+        "Kinsta": 9395,
         "Digital Ocean": 6548,
         "SiteGround": 5715,
         "Hostinger": 5027,
         "Bluehost": 4573,
-        "GoDaddy": 1695,
+        "GoDaddy": 1696,
         "Liquid Web": 865,
         "BigScoots": 837,
         "WordPress.com": 685,
