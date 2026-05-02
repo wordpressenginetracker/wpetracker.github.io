@@ -1,6 +1,11 @@
 {
-    "siteCount": 136142,
+    "siteCount": 136147,
     "recentlyMoved": [
+        {
+            "domain_name": "hillsvets.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-05-02 03:41:28"
+        },
         {
             "domain_name": "magazine.nwhorsesource.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "extrugroup.com",
             "destination": "Digital Ocean",
             "date": "2026-05-01 05:36:31"
-        },
-        {
-            "domain_name": "meaningfulmemories.org",
-            "destination": "Digital Ocean",
-            "date": "2026-05-01 05:28:16"
         },
         {
             "domain_name": "fairmontcustomhomes.com",
@@ -1111,7 +1111,7 @@
         "IONOS": 503,
         "DreamHost": 469,
         "A2 Hosting": 460,
-        "Hetzner Online": 425,
+        "Hetzner Online": 426,
         "HostGator": 314
     },
     "dailyTotalStat": {
