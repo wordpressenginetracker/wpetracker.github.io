@@ -1,6 +1,11 @@
 {
-    "siteCount": 136441,
+    "siteCount": 136448,
     "recentlyMoved": [
+        {
+            "domain_name": "superllama.com",
+            "destination": "Hostinger",
+            "date": "2026-05-03 17:06:38"
+        },
         {
             "domain_name": "fairviewlivestock.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.jdservicenow.com",
             "destination": "GoDaddy",
             "date": "2026-05-02 08:21:09"
-        },
-        {
-            "domain_name": "georgiapecan.org",
-            "destination": "Kinsta",
-            "date": "2026-05-02 07:21:52"
         }
     ],
     "dailyMovedStat": {
@@ -1098,7 +1098,7 @@
         "Kinsta": 9447,
         "Digital Ocean": 6557,
         "SiteGround": 5715,
-        "Hostinger": 5038,
+        "Hostinger": 5039,
         "Bluehost": 4578,
         "GoDaddy": 1697,
         "Liquid Web": 866,
