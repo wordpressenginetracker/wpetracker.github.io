@@ -1,6 +1,11 @@
 {
-    "siteCount": 136479,
+    "siteCount": 136487,
     "recentlyMoved": [
+        {
+            "domain_name": "leoandsongarage.com",
+            "destination": "Hostinger",
+            "date": "2026-05-03 21:14:54"
+        },
         {
             "domain_name": "icatexas.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "hanseenorthodontics.com",
             "destination": "Kinsta",
             "date": "2026-05-02 12:04:44"
-        },
-        {
-            "domain_name": "drlizhale.com",
-            "destination": "Hostinger",
-            "date": "2026-05-02 09:14:57"
         }
     ],
     "dailyMovedStat": {
@@ -1098,7 +1098,7 @@
         "Kinsta": 9448,
         "Digital Ocean": 6558,
         "SiteGround": 5715,
-        "Hostinger": 5040,
+        "Hostinger": 5041,
         "Bluehost": 4578,
         "GoDaddy": 1697,
         "Liquid Web": 866,
