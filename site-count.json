@@ -1,6 +1,11 @@
 {
-    "siteCount": 136598,
+    "siteCount": 136604,
     "recentlyMoved": [
+        {
+            "domain_name": "brandmerce.com",
+            "destination": "Digital Ocean",
+            "date": "2026-05-04 20:31:35"
+        },
         {
             "domain_name": "toby.bio",
             "destination": "GoDaddy",
@@ -480,11 +485,6 @@
             "domain_name": "smalltowntexas.kut.org",
             "destination": "Pressable",
             "date": "2026-05-02 16:15:12"
-        },
-        {
-            "domain_name": "robertberganza.com",
-            "destination": "Pressable",
-            "date": "2026-05-02 16:14:00"
         },
         {
             "domain_name": "sanramon.org",
@@ -1097,7 +1097,7 @@
     "topDestinationHosts": {
         "Pressable": 13121,
         "Kinsta": 9467,
-        "Digital Ocean": 6564,
+        "Digital Ocean": 6565,
         "SiteGround": 5715,
         "Hostinger": 5043,
         "Bluehost": 4581,
