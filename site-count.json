@@ -1,6 +1,11 @@
 {
-    "siteCount": 136568,
+    "siteCount": 136570,
     "recentlyMoved": [
+        {
+            "domain_name": "toby.bio",
+            "destination": "GoDaddy",
+            "date": "2026-05-04 17:37:31"
+        },
         {
             "domain_name": "deathvalleyinnmotel.com",
             "destination": "Kinsta",
@@ -465,11 +470,6 @@
             "domain_name": "kaitlinhaines.com",
             "destination": "BigScoots",
             "date": "2026-05-02 16:38:58"
-        },
-        {
-            "domain_name": "returnnow.info",
-            "destination": "Hostinger",
-            "date": "2026-05-02 16:38:21"
         },
         {
             "domain_name": "bookurtravel.com",
@@ -1101,7 +1101,7 @@
         "SiteGround": 5715,
         "Hostinger": 5043,
         "Bluehost": 4580,
-        "GoDaddy": 1697,
+        "GoDaddy": 1698,
         "Liquid Web": 866,
         "BigScoots": 838,
         "WordPress.com": 685,
