@@ -1,6 +1,11 @@
 {
-    "siteCount": 136488,
+    "siteCount": 136496,
     "recentlyMoved": [
+        {
+            "domain_name": "onthestage.com",
+            "destination": "Kinsta",
+            "date": "2026-05-03 23:15:39"
+        },
         {
             "domain_name": "leoandsongarage.com",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "haus820.com",
             "destination": "Pressable",
             "date": "2026-05-02 12:11:30"
-        },
-        {
-            "domain_name": "fryelder.com",
-            "destination": "Pressable",
-            "date": "2026-05-02 12:06:46"
         },
         {
             "domain_name": "amx.fm",
@@ -1096,7 +1096,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13120,
-        "Kinsta": 9448,
+        "Kinsta": 9449,
         "Digital Ocean": 6558,
         "SiteGround": 5715,
         "Hostinger": 5041,
