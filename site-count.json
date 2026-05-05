@@ -1,6 +1,11 @@
 {
-    "siteCount": 136630,
+    "siteCount": 136634,
     "recentlyMoved": [
+        {
+            "domain_name": "coyotemanager.com",
+            "destination": "HostGator",
+            "date": "2026-05-05 05:01:26"
+        },
         {
             "domain_name": "quantummicrogreens.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "consumerlawyer.mn",
             "destination": "Hostinger",
             "date": "2026-05-02 17:05:49"
-        },
-        {
-            "domain_name": "www.skidiscovery.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-05-02 16:51:19"
         }
     ],
     "dailyMovedStat": {
@@ -1115,7 +1115,7 @@
         "DreamHost": 473,
         "A2 Hosting": 460,
         "Hetzner Online": 426,
-        "HostGator": 315
+        "HostGator": 316
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
