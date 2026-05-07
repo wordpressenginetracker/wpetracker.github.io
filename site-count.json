@@ -1,6 +1,11 @@
 {
-    "siteCount": 137295,
+    "siteCount": 137306,
     "recentlyMoved": [
+        {
+            "domain_name": "abelialadyfunerals.com.au",
+            "destination": "Kinsta",
+            "date": "2026-05-06 23:47:57"
+        },
         {
             "domain_name": "majortalent.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "professionalbroncriders.com",
             "destination": "Kinsta",
             "date": "2026-05-06 15:31:43"
-        },
-        {
-            "domain_name": "osagevetservices.com",
-            "destination": "Kinsta",
-            "date": "2026-05-06 15:28:08"
         }
     ],
     "dailyMovedStat": {
@@ -1099,7 +1099,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13176,
-        "Kinsta": 9717,
+        "Kinsta": 9718,
         "Digital Ocean": 6593,
         "SiteGround": 5715,
         "Hostinger": 5065,
