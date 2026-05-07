@@ -1,6 +1,16 @@
 {
-    "siteCount": 137566,
+    "siteCount": 137574,
     "recentlyMoved": [
+        {
+            "domain_name": "neatdata.com",
+            "destination": "Hostinger",
+            "date": "2026-05-07 21:58:26"
+        },
+        {
+            "domain_name": "newsbriefs.kut.org",
+            "destination": "Pressable",
+            "date": "2026-05-07 21:20:40"
+        },
         {
             "domain_name": "springcreektexasbeef.com",
             "destination": "Kinsta",
@@ -447,11 +457,6 @@
             "date": "2026-05-07 12:38:35"
         },
         {
-            "domain_name": "idealmountainproperty.com",
-            "destination": "Kinsta",
-            "date": "2026-05-07 12:37:25"
-        },
-        {
             "domain_name": "www.sonomaortho.com",
             "destination": "Kinsta",
             "date": "2026-05-07 12:35:44"
@@ -495,11 +500,6 @@
             "domain_name": "brittonroofing.co.uk",
             "destination": "Kinsta",
             "date": "2026-05-07 12:06:18"
-        },
-        {
-            "domain_name": "beautystrokes.com",
-            "destination": "Kinsta",
-            "date": "2026-05-07 12:01:34"
         }
     ],
     "dailyMovedStat": {
@@ -1098,11 +1098,11 @@
         "2026-05-06": "137295"
     },
     "topDestinationHosts": {
-        "Pressable": 13211,
+        "Pressable": 13212,
         "Kinsta": 9786,
         "Digital Ocean": 6603,
         "SiteGround": 5715,
-        "Hostinger": 5073,
+        "Hostinger": 5074,
         "Bluehost": 4585,
         "GoDaddy": 1706,
         "Liquid Web": 867,
