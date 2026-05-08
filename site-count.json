@@ -1,6 +1,11 @@
 {
-    "siteCount": 137634,
+    "siteCount": 137635,
     "recentlyMoved": [
+        {
+            "domain_name": "thewindowexperts.com",
+            "destination": "Pressable",
+            "date": "2026-05-08 05:24:16"
+        },
         {
             "domain_name": "qldvanstorage.com.au",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "mwortho.com",
             "destination": "Kinsta",
             "date": "2026-05-07 13:36:46"
-        },
-        {
-            "domain_name": "moonsignaturedentistry.com",
-            "destination": "Kinsta",
-            "date": "2026-05-07 13:21:45"
         }
     ],
     "dailyMovedStat": {
@@ -1099,7 +1099,7 @@
         "2026-05-07": "137574"
     },
     "topDestinationHosts": {
-        "Pressable": 13213,
+        "Pressable": 13214,
         "Kinsta": 9794,
         "Digital Ocean": 6604,
         "SiteGround": 5715,
