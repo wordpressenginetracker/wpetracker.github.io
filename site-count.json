@@ -1,6 +1,16 @@
 {
-    "siteCount": 137624,
+    "siteCount": 137629,
     "recentlyMoved": [
+        {
+            "domain_name": "qldvanstorage.com.au",
+            "destination": "GridPane",
+            "date": "2026-05-08 04:11:05"
+        },
+        {
+            "domain_name": "www.coredevusa.com",
+            "destination": "Digital Ocean",
+            "date": "2026-05-08 03:38:51"
+        },
         {
             "domain_name": "yellowberri.com",
             "destination": "Hostinger",
@@ -477,11 +487,6 @@
             "date": "2026-05-07 13:55:53"
         },
         {
-            "domain_name": "dynastybrush.com",
-            "destination": "Kinsta",
-            "date": "2026-05-07 13:47:58"
-        },
-        {
             "domain_name": "mulberryohio.com",
             "destination": "Pressable",
             "date": "2026-05-07 13:38:46"
@@ -495,11 +500,6 @@
             "domain_name": "moonsignaturedentistry.com",
             "destination": "Kinsta",
             "date": "2026-05-07 13:21:45"
-        },
-        {
-            "domain_name": "modernsi.com",
-            "destination": "Pressable",
-            "date": "2026-05-07 13:03:10"
         }
     ],
     "dailyMovedStat": {
@@ -1101,7 +1101,7 @@
     "topDestinationHosts": {
         "Pressable": 13213,
         "Kinsta": 9794,
-        "Digital Ocean": 6603,
+        "Digital Ocean": 6604,
         "SiteGround": 5715,
         "Hostinger": 5088,
         "Bluehost": 4585,
@@ -1109,7 +1109,7 @@
         "Liquid Web": 868,
         "BigScoots": 844,
         "WordPress.com": 689,
-        "GridPane": 675,
+        "GridPane": 676,
         "OVH": 650,
         "InMotion Hosting": 570,
         "Elementor Hosting": 540,
