@@ -1,6 +1,11 @@
 {
-    "siteCount": 138190,
+    "siteCount": 138195,
     "recentlyMoved": [
+        {
+            "domain_name": "7785laguna.com",
+            "destination": "Kinsta",
+            "date": "2026-05-10 16:02:38"
+        },
         {
             "domain_name": "nature-to-nurture.co.uk",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "sparkaccountants.com.au",
             "destination": "Kinsta",
             "date": "2026-05-08 20:42:42"
-        },
-        {
-            "domain_name": "www.fivebyfive.com.au",
-            "destination": "Kinsta",
-            "date": "2026-05-08 20:25:52"
         },
         {
             "domain_name": "www.redcliffedental.com.au",
@@ -1102,7 +1102,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13269,
-        "Kinsta": 9954,
+        "Kinsta": 9955,
         "Digital Ocean": 6617,
         "SiteGround": 5716,
         "Hostinger": 5103,
