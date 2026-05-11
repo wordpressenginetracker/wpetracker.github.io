@@ -1,6 +1,11 @@
 {
-    "siteCount": 138262,
+    "siteCount": 138275,
     "recentlyMoved": [
+        {
+            "domain_name": "botsfordfamilyortho.com",
+            "destination": "Kinsta",
+            "date": "2026-05-11 12:50:50"
+        },
         {
             "domain_name": "lifestyleincabo.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "midlandsurgentcare.com",
             "destination": "Hostinger",
             "date": "2026-05-09 05:32:03"
-        },
-        {
-            "domain_name": "abdullahfoundation.org",
-            "destination": "GoDaddy",
-            "date": "2026-05-09 04:06:07"
         },
         {
             "domain_name": "owners.idealmountainproperty.com",
@@ -1103,7 +1103,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13273,
-        "Kinsta": 9959,
+        "Kinsta": 9960,
         "Digital Ocean": 6618,
         "SiteGround": 5716,
         "Hostinger": 5104,
