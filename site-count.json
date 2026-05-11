@@ -1,6 +1,11 @@
 {
-    "siteCount": 138243,
+    "siteCount": 138244,
     "recentlyMoved": [
+        {
+            "domain_name": "miveins.com",
+            "destination": "GoDaddy",
+            "date": "2026-05-11 01:20:47"
+        },
         {
             "domain_name": "limostarny.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "newsmatch.inn.org",
             "destination": "Kinsta",
             "date": "2026-05-09 01:35:49"
-        },
-        {
-            "domain_name": "karltondennis.com",
-            "destination": "Pressable",
-            "date": "2026-05-09 00:48:01"
         },
         {
             "domain_name": "kenvox.com",
@@ -1108,7 +1108,7 @@
         "SiteGround": 5716,
         "Hostinger": 5104,
         "Bluehost": 4590,
-        "GoDaddy": 1714,
+        "GoDaddy": 1715,
         "Liquid Web": 869,
         "BigScoots": 845,
         "WordPress.com": 689,
