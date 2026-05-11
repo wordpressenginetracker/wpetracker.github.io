@@ -1,6 +1,11 @@
 {
-    "siteCount": 138286,
+    "siteCount": 138319,
     "recentlyMoved": [
+        {
+            "domain_name": "progressforpatients.org",
+            "destination": "Digital Ocean",
+            "date": "2026-05-11 19:35:53"
+        },
         {
             "domain_name": "motorcavesuites.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "xalisko.com",
             "destination": "GoDaddy",
             "date": "2026-05-09 09:04:47"
-        },
-        {
-            "domain_name": "rainwateresthetics.com",
-            "destination": "Namecheap",
-            "date": "2026-05-09 07:38:02"
         }
     ],
     "dailyMovedStat": {
@@ -1102,16 +1102,16 @@
         "2026-05-10": "138224"
     },
     "topDestinationHosts": {
-        "Pressable": 13273,
-        "Kinsta": 9961,
-        "Digital Ocean": 6619,
+        "Pressable": 13274,
+        "Kinsta": 9962,
+        "Digital Ocean": 6621,
         "SiteGround": 5716,
         "Hostinger": 5104,
-        "Bluehost": 4591,
+        "Bluehost": 4592,
         "GoDaddy": 1716,
         "Liquid Web": 869,
         "BigScoots": 845,
-        "WordPress.com": 689,
+        "WordPress.com": 690,
         "GridPane": 678,
         "OVH": 657,
         "InMotion Hosting": 571,
