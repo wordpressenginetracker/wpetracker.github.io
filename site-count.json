@@ -1,6 +1,11 @@
 {
-    "siteCount": 138275,
+    "siteCount": 138277,
     "recentlyMoved": [
+        {
+            "domain_name": "moostersmeadows.com",
+            "destination": "Kinsta",
+            "date": "2026-05-11 13:29:52"
+        },
         {
             "domain_name": "botsfordfamilyortho.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "midlandsurgentcare.com",
             "destination": "Hostinger",
             "date": "2026-05-09 05:32:03"
-        },
-        {
-            "domain_name": "owners.idealmountainproperty.com",
-            "destination": "Kinsta",
-            "date": "2026-05-09 03:43:46"
         }
     ],
     "dailyMovedStat": {
@@ -1103,7 +1103,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13273,
-        "Kinsta": 9960,
+        "Kinsta": 9961,
         "Digital Ocean": 6618,
         "SiteGround": 5716,
         "Hostinger": 5104,
