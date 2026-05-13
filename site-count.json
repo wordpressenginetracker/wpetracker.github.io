@@ -1,6 +1,11 @@
 {
-    "siteCount": 138619,
+    "siteCount": 138622,
     "recentlyMoved": [
+        {
+            "domain_name": "duewestgroup.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-05-13 01:06:05"
+        },
         {
             "domain_name": "yonfamilyfarms.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "skipthebank.ca",
             "destination": "OVH",
             "date": "2026-05-12 08:24:34"
-        },
-        {
-            "domain_name": "www.stmarysdyouville.org",
-            "destination": "Kinsta",
-            "date": "2026-05-12 07:51:43"
         }
     ],
     "dailyMovedStat": {
@@ -1106,7 +1106,7 @@
     "topDestinationHosts": {
         "Pressable": 13292,
         "Kinsta": 10017,
-        "Digital Ocean": 6643,
+        "Digital Ocean": 6644,
         "SiteGround": 5716,
         "Hostinger": 5113,
         "Bluehost": 4594,
