@@ -1,6 +1,11 @@
 {
-    "siteCount": 138792,
+    "siteCount": 138796,
     "recentlyMoved": [
+        {
+            "domain_name": "nc4braces.com",
+            "destination": "Kinsta",
+            "date": "2026-05-13 17:36:52"
+        },
         {
             "domain_name": "tlcfalun.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.mzclaw.com",
             "destination": "Pressable",
             "date": "2026-05-12 19:15:57"
-        },
-        {
-            "domain_name": "trailstreetmc.com.au",
-            "destination": "Kinsta",
-            "date": "2026-05-12 17:07:20"
         }
     ],
     "dailyMovedStat": {
@@ -1104,8 +1104,8 @@
         "2026-05-12": "138593"
     },
     "topDestinationHosts": {
-        "Pressable": 13321,
-        "Kinsta": 10042,
+        "Pressable": 13322,
+        "Kinsta": 10044,
         "Digital Ocean": 6654,
         "SiteGround": 5716,
         "Hostinger": 5115,
