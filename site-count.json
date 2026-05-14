@@ -1,15 +1,45 @@
 {
-    "siteCount": 138989,
+    "siteCount": 139002,
     "recentlyMoved": [
+        {
+            "domain_name": "mwaca.org",
+            "destination": "Elementor Hosting",
+            "date": "2026-05-14 13:42:23"
+        },
         {
             "domain_name": "diamonddesignkitchenandbath.com",
             "destination": "Pressable",
             "date": "2026-05-14 13:38:55"
         },
         {
+            "domain_name": "elysianlaw.com.au",
+            "destination": "Kinsta",
+            "date": "2026-05-14 13:30:39"
+        },
+        {
+            "domain_name": "energyworksmfr.com",
+            "destination": "Pressable",
+            "date": "2026-05-14 13:27:44"
+        },
+        {
+            "domain_name": "duluthbuilder.com",
+            "destination": "Pressable",
+            "date": "2026-05-14 13:19:43"
+        },
+        {
             "domain_name": "www.thedentalboutique.com.au",
             "destination": "Kinsta",
             "date": "2026-05-14 13:17:32"
+        },
+        {
+            "domain_name": "visagebg.com.au",
+            "destination": "Kinsta",
+            "date": "2026-05-14 13:13:46"
+        },
+        {
+            "domain_name": "elmtreeorthodontics.com",
+            "destination": "Kinsta",
+            "date": "2026-05-14 13:11:21"
         },
         {
             "domain_name": "www.swagcampertrailers.com.au",
@@ -25,6 +55,11 @@
             "domain_name": "countrycottagecreations.net",
             "destination": "Pressable",
             "date": "2026-05-14 13:05:55"
+        },
+        {
+            "domain_name": "moneymattersradio.com",
+            "destination": "Kinsta",
+            "date": "2026-05-14 13:02:39"
         },
         {
             "domain_name": "shoprootedremedies.com",
@@ -412,11 +447,6 @@
             "date": "2026-05-13 16:44:42"
         },
         {
-            "domain_name": "www.immigate.com.au",
-            "destination": "Kinsta",
-            "date": "2026-05-13 16:38:51"
-        },
-        {
             "domain_name": "www.indexfence.com",
             "destination": "Digital Ocean",
             "date": "2026-05-13 16:37:47"
@@ -430,16 +460,6 @@
             "domain_name": "kwongortho.com",
             "destination": "Kinsta",
             "date": "2026-05-13 16:31:55"
-        },
-        {
-            "domain_name": "auto-trust.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-05-13 16:30:53"
-        },
-        {
-            "domain_name": "ilovedoingtaxes.com",
-            "destination": "Pressable",
-            "date": "2026-05-13 16:30:32"
         },
         {
             "domain_name": "sunshinegenetics.com",
@@ -467,24 +487,9 @@
             "date": "2026-05-13 16:18:52"
         },
         {
-            "domain_name": "pureballroomdancestudio.com",
-            "destination": "Pressable",
-            "date": "2026-05-13 16:13:57"
-        },
-        {
-            "domain_name": "www.doningtonauctions.com.au",
-            "destination": "Kinsta",
-            "date": "2026-05-13 16:13:37"
-        },
-        {
             "domain_name": "siskiwitbaylodge.com",
             "destination": "Pressable",
             "date": "2026-05-13 16:11:19"
-        },
-        {
-            "domain_name": "reservecattlecompany.com",
-            "destination": "Kinsta",
-            "date": "2026-05-13 16:03:46"
         },
         {
             "domain_name": "setaaad.org",
@@ -495,11 +500,6 @@
             "domain_name": "secareercenter.org",
             "destination": "Wordify",
             "date": "2026-05-13 15:59:13"
-        },
-        {
-            "domain_name": "harvilleorthodontics.com",
-            "destination": "Kinsta",
-            "date": "2026-05-13 15:54:27"
         }
     ],
     "dailyMovedStat": {
@@ -1105,8 +1105,8 @@
         "2026-05-13": "138859"
     },
     "topDestinationHosts": {
-        "Pressable": 13338,
-        "Kinsta": 10075,
+        "Pressable": 13340,
+        "Kinsta": 10080,
         "Digital Ocean": 6661,
         "SiteGround": 5716,
         "Hostinger": 5119,
@@ -1118,7 +1118,7 @@
         "GridPane": 683,
         "OVH": 662,
         "InMotion Hosting": 573,
-        "Elementor Hosting": 543,
+        "Elementor Hosting": 544,
         "Namecheap": 533,
         "IONOS": 508,
         "DreamHost": 477,
