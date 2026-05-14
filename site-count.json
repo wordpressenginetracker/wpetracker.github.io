@@ -1,6 +1,11 @@
 {
-    "siteCount": 138906,
+    "siteCount": 138908,
     "recentlyMoved": [
+        {
+            "domain_name": "nubioage.com",
+            "destination": "Pressable",
+            "date": "2026-05-14 06:03:00"
+        },
         {
             "domain_name": "dentalartistryorlando.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "beverangus.com",
             "destination": "Kinsta",
             "date": "2026-05-13 07:55:11"
-        },
-        {
-            "domain_name": "afccarstx.com",
-            "destination": "GoDaddy",
-            "date": "2026-05-13 07:40:11"
         }
     ],
     "dailyMovedStat": {
@@ -1105,7 +1105,7 @@
         "2026-05-13": "138859"
     },
     "topDestinationHosts": {
-        "Pressable": 13325,
+        "Pressable": 13326,
         "Kinsta": 10052,
         "Digital Ocean": 6658,
         "SiteGround": 5716,
