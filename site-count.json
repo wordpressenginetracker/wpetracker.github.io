@@ -1,6 +1,21 @@
 {
-    "siteCount": 139343,
+    "siteCount": 139358,
     "recentlyMoved": [
+        {
+            "domain_name": "thespotmagazine.com",
+            "destination": "Hostinger",
+            "date": "2026-05-15 12:53:20"
+        },
+        {
+            "domain_name": "www.sedev.org",
+            "destination": "Wordify",
+            "date": "2026-05-15 12:45:52"
+        },
+        {
+            "domain_name": "ccplastering.com",
+            "destination": "GoDaddy",
+            "date": "2026-05-15 12:27:04"
+        },
         {
             "domain_name": "www.icja.org",
             "destination": "Pressable",
@@ -447,11 +462,6 @@
             "date": "2026-05-14 13:10:24"
         },
         {
-            "domain_name": "www.suitesixmedspa.com",
-            "destination": "Liquid Web",
-            "date": "2026-05-14 13:10:24"
-        },
-        {
             "domain_name": "countrycottagecreations.net",
             "destination": "Pressable",
             "date": "2026-05-14 13:05:55"
@@ -472,11 +482,6 @@
             "date": "2026-05-14 12:59:13"
         },
         {
-            "domain_name": "lasolas.ca",
-            "destination": "Kinsta",
-            "date": "2026-05-14 12:55:47"
-        },
-        {
             "domain_name": "lifepuzzle.com.au",
             "destination": "Kinsta",
             "date": "2026-05-14 12:51:31"
@@ -495,11 +500,6 @@
             "domain_name": "copperdogfarms.com",
             "destination": "Pressable",
             "date": "2026-05-14 12:35:08"
-        },
-        {
-            "domain_name": "cloverlandbiblebaptist.org",
-            "destination": "Pressable",
-            "date": "2026-05-14 12:30:01"
         }
     ],
     "dailyMovedStat": {
@@ -1106,13 +1106,13 @@
         "2026-05-14": "139234"
     },
     "topDestinationHosts": {
-        "Pressable": 13353,
+        "Pressable": 13354,
         "Kinsta": 10117,
         "Digital Ocean": 6671,
         "SiteGround": 5716,
-        "Hostinger": 5129,
+        "Hostinger": 5130,
         "Bluehost": 4599,
-        "GoDaddy": 1723,
+        "GoDaddy": 1724,
         "Liquid Web": 871,
         "BigScoots": 850,
         "WordPress.com": 693,
