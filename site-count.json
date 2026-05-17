@@ -1,6 +1,16 @@
 {
-    "siteCount": 143371,
+    "siteCount": 143376,
     "recentlyMoved": [
+        {
+            "domain_name": "nineisfinepub.com",
+            "destination": "Digital Ocean",
+            "date": "2026-05-17 09:52:51"
+        },
+        {
+            "domain_name": "mixacademy.org",
+            "destination": "Kinsta",
+            "date": "2026-05-17 09:40:04"
+        },
         {
             "domain_name": "lodgeongreen.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "thespotmagazine.com",
             "destination": "Hostinger",
             "date": "2026-05-15 12:53:20"
-        },
-        {
-            "domain_name": "www.sedev.org",
-            "destination": "Wordify",
-            "date": "2026-05-15 12:45:52"
-        },
-        {
-            "domain_name": "ccplastering.com",
-            "destination": "GoDaddy",
-            "date": "2026-05-15 12:27:04"
         }
     ],
     "dailyMovedStat": {
@@ -1109,8 +1109,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 13400,
-        "Kinsta": 10132,
-        "Digital Ocean": 6684,
+        "Kinsta": 10133,
+        "Digital Ocean": 6685,
         "SiteGround": 5717,
         "Hostinger": 5141,
         "Bluehost": 4599,
