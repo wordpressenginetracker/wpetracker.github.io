@@ -1,6 +1,11 @@
 {
-    "siteCount": 143500,
+    "siteCount": 143506,
     "recentlyMoved": [
+        {
+            "domain_name": "munden.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-05-18 01:21:19"
+        },
         {
             "domain_name": "logchurch.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "beheshtiaccounting.com",
             "destination": "Hostinger",
             "date": "2026-05-16 00:20:04"
-        },
-        {
-            "domain_name": "wavelandliquor.com",
-            "destination": "Hostinger",
-            "date": "2026-05-15 21:40:41"
         }
     ],
     "dailyMovedStat": {
@@ -1110,7 +1110,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13411,
-        "Kinsta": 10138,
+        "Kinsta": 10140,
         "Digital Ocean": 6694,
         "SiteGround": 5717,
         "Hostinger": 5141,
