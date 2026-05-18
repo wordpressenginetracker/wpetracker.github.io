@@ -1,6 +1,11 @@
 {
-    "siteCount": 143514,
+    "siteCount": 143521,
     "recentlyMoved": [
+        {
+            "domain_name": "powermoves.elearningsamples.com",
+            "destination": "HostGator",
+            "date": "2026-05-18 07:52:03"
+        },
         {
             "domain_name": "valonline.org.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "doug-machine.com",
             "destination": "SiteGround",
             "date": "2026-05-16 01:05:04"
-        },
-        {
-            "domain_name": "www.miracleplumbingllc.com",
-            "destination": "GridPane",
-            "date": "2026-05-16 00:53:46"
         }
     ],
     "dailyMovedStat": {
@@ -1128,7 +1128,7 @@
         "DreamHost": 481,
         "A2 Hosting": 463,
         "Hetzner Online": 433,
-        "HostGator": 319
+        "HostGator": 320
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
