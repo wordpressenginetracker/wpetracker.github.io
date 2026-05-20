@@ -1,5 +1,5 @@
 {
-    "siteCount": 143952,
+    "siteCount": 143960,
     "recentlyMoved": [
         {
             "domain_name": "instonemarble.com",
@@ -10,6 +10,11 @@
             "domain_name": "hoeyconstruction.com",
             "destination": "Liquid Web",
             "date": "2026-05-20 04:34:36"
+        },
+        {
+            "domain_name": "camphorror.org",
+            "destination": "Pressable",
+            "date": "2026-05-20 04:32:03"
         },
         {
             "domain_name": "sbiproducts.co.uk",
@@ -495,11 +500,6 @@
             "domain_name": "www.envisiondurango.com",
             "destination": "Pressable",
             "date": "2026-05-19 03:42:32"
-        },
-        {
-            "domain_name": "www.sundaysbeachclub.com",
-            "destination": "Kinsta",
-            "date": "2026-05-19 00:48:45"
         }
     ],
     "dailyMovedStat": {
@@ -1111,8 +1111,8 @@
         "2026-05-19": "143913"
     },
     "topDestinationHosts": {
-        "Pressable": 13441,
-        "Kinsta": 10187,
+        "Pressable": 13442,
+        "Kinsta": 10188,
         "Digital Ocean": 6705,
         "SiteGround": 5719,
         "Hostinger": 5151,
