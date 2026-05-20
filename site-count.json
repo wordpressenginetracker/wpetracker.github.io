@@ -1,6 +1,21 @@
 {
-    "siteCount": 143962,
+    "siteCount": 143973,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cpg.com.eg",
+            "destination": "Hostinger",
+            "date": "2026-05-20 08:06:52"
+        },
+        {
+            "domain_name": "indianapolisrealestateguide.com",
+            "destination": "SiteGround",
+            "date": "2026-05-20 07:52:19"
+        },
+        {
+            "domain_name": "pelagonius.co.uk",
+            "destination": "Hetzner Online",
+            "date": "2026-05-20 07:24:11"
+        },
         {
             "domain_name": "newsmilefoundation.org",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "golvet.de",
             "destination": "IONOS",
             "date": "2026-05-19 07:57:58"
-        },
-        {
-            "domain_name": "makecoralgableshome.com",
-            "destination": "SiteGround",
-            "date": "2026-05-19 05:29:35"
-        },
-        {
-            "domain_name": "digitallawgroup.com",
-            "destination": "Hostinger",
-            "date": "2026-05-19 05:19:38"
-        },
-        {
-            "domain_name": "www.zcardna.com",
-            "destination": "DreamHost",
-            "date": "2026-05-19 05:06:01"
         }
     ],
     "dailyMovedStat": {
@@ -1115,7 +1115,7 @@
         "Kinsta": 10188,
         "Digital Ocean": 6705,
         "SiteGround": 5719,
-        "Hostinger": 5151,
+        "Hostinger": 5152,
         "Bluehost": 4603,
         "GoDaddy": 1730,
         "Liquid Web": 875,
@@ -1129,7 +1129,7 @@
         "IONOS": 518,
         "DreamHost": 483,
         "A2 Hosting": 463,
-        "Hetzner Online": 434,
+        "Hetzner Online": 435,
         "HostGator": 320
     },
     "dailyTotalStat": {
