@@ -1,6 +1,11 @@
 {
-    "siteCount": 143960,
+    "siteCount": 143962,
     "recentlyMoved": [
+        {
+            "domain_name": "newsmilefoundation.org",
+            "destination": "GoDaddy",
+            "date": "2026-05-20 05:20:49"
+        },
         {
             "domain_name": "instonemarble.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.zcardna.com",
             "destination": "DreamHost",
             "date": "2026-05-19 05:06:01"
-        },
-        {
-            "domain_name": "www.envisiondurango.com",
-            "destination": "Pressable",
-            "date": "2026-05-19 03:42:32"
         }
     ],
     "dailyMovedStat": {
@@ -1117,7 +1117,7 @@
         "SiteGround": 5719,
         "Hostinger": 5151,
         "Bluehost": 4603,
-        "GoDaddy": 1729,
+        "GoDaddy": 1730,
         "Liquid Web": 875,
         "BigScoots": 853,
         "WordPress.com": 693,
