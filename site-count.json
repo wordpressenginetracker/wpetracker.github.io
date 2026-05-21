@@ -1,6 +1,11 @@
 {
-    "siteCount": 144305,
+    "siteCount": 144315,
     "recentlyMoved": [
+        {
+            "domain_name": "adlerroofinginc.com",
+            "destination": "Kinsta",
+            "date": "2026-05-21 07:47:20"
+        },
         {
             "domain_name": "store.bayswatercitysc.com.au",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "indianapolisrealestateguide.com",
             "destination": "SiteGround",
             "date": "2026-05-20 07:52:19"
-        },
-        {
-            "domain_name": "pelagonius.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-05-20 07:24:11"
         }
     ],
     "dailyMovedStat": {
@@ -1113,7 +1113,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13454,
-        "Kinsta": 10239,
+        "Kinsta": 10240,
         "Digital Ocean": 6717,
         "SiteGround": 5721,
         "Hostinger": 5158,
