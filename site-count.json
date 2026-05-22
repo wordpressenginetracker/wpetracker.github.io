@@ -1,6 +1,11 @@
 {
-    "siteCount": 144566,
+    "siteCount": 144569,
     "recentlyMoved": [
+        {
+            "domain_name": "deladirt.com",
+            "destination": "BigScoots",
+            "date": "2026-05-22 01:15:03"
+        },
         {
             "domain_name": "www.santa-fe-products.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "underwoodranch.com",
             "destination": "Kinsta",
             "date": "2026-05-20 21:02:19"
-        },
-        {
-            "domain_name": "momentumforhealth.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-05-20 20:57:35"
         }
     ],
     "dailyMovedStat": {
@@ -1121,7 +1121,7 @@
         "Bluehost": 4614,
         "GoDaddy": 1732,
         "Liquid Web": 878,
-        "BigScoots": 857,
+        "BigScoots": 858,
         "WordPress.com": 694,
         "GridPane": 685,
         "OVH": 669,
