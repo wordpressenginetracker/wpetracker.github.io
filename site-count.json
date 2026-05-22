@@ -1,6 +1,11 @@
 {
-    "siteCount": 144584,
+    "siteCount": 144588,
     "recentlyMoved": [
+        {
+            "domain_name": "didgeroo.london",
+            "destination": "Kinsta",
+            "date": "2026-05-22 05:33:48"
+        },
         {
             "domain_name": "cindyras.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "incharged.com",
             "destination": "Bluehost",
             "date": "2026-05-20 23:49:58"
-        },
-        {
-            "domain_name": "www.buildingbridgesinc.net",
-            "destination": "Pressable",
-            "date": "2026-05-20 23:37:32"
         }
     ],
     "dailyMovedStat": {
@@ -1114,7 +1114,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13463,
-        "Kinsta": 10291,
+        "Kinsta": 10292,
         "Digital Ocean": 6728,
         "SiteGround": 5721,
         "Hostinger": 5160,
