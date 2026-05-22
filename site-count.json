@@ -1,6 +1,11 @@
 {
-    "siteCount": 144792,
+    "siteCount": 144801,
     "recentlyMoved": [
+        {
+            "domain_name": "kellyb-cpa.com",
+            "destination": "Kinsta",
+            "date": "2026-05-22 21:05:27"
+        },
         {
             "domain_name": "www.glauberberenson.com",
             "destination": "Kinsta",
@@ -475,11 +480,6 @@
             "domain_name": "mitchclarin.com",
             "destination": "Kinsta",
             "date": "2026-05-21 17:36:26"
-        },
-        {
-            "domain_name": "thegardengallery.com",
-            "destination": "Kinsta",
-            "date": "2026-05-21 17:32:06"
         },
         {
             "domain_name": "martsonlaw.com",
@@ -1114,7 +1114,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13473,
-        "Kinsta": 10322,
+        "Kinsta": 10323,
         "Digital Ocean": 6740,
         "SiteGround": 5721,
         "Hostinger": 5163,
