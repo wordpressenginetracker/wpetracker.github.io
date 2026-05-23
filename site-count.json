@@ -1,6 +1,11 @@
 {
-    "siteCount": 145041,
+    "siteCount": 145047,
     "recentlyMoved": [
+        {
+            "domain_name": "nabaco.com",
+            "destination": "Hostinger",
+            "date": "2026-05-23 21:41:36"
+        },
         {
             "domain_name": "cybertechpolynesie.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "thackerortho.com",
             "destination": "Kinsta",
             "date": "2026-05-22 12:36:32"
-        },
-        {
-            "domain_name": "sgv.ascm.org",
-            "destination": "Kinsta",
-            "date": "2026-05-22 12:35:37"
         },
         {
             "domain_name": "cfa.ca",
@@ -1118,7 +1118,7 @@
         "Kinsta": 10343,
         "Digital Ocean": 6749,
         "SiteGround": 5722,
-        "Hostinger": 5168,
+        "Hostinger": 5169,
         "Bluehost": 4617,
         "GoDaddy": 1732,
         "Liquid Web": 880,
