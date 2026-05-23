@@ -1,6 +1,11 @@
 {
-    "siteCount": 144853,
+    "siteCount": 144862,
     "recentlyMoved": [
+        {
+            "domain_name": "guitarranches.com",
+            "destination": "Kinsta",
+            "date": "2026-05-23 08:20:41"
+        },
         {
             "domain_name": "schoolpsychcompact.org",
             "destination": "Kinsta",
@@ -480,11 +485,6 @@
             "domain_name": "tvma.net",
             "destination": "Kinsta",
             "date": "2026-05-21 21:12:46"
-        },
-        {
-            "domain_name": "lifeplan.lifeguidefa.com",
-            "destination": "Kinsta",
-            "date": "2026-05-21 21:09:44"
         },
         {
             "domain_name": "merrimacpolice.org",
@@ -1115,7 +1115,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13473,
-        "Kinsta": 10329,
+        "Kinsta": 10330,
         "Digital Ocean": 6742,
         "SiteGround": 5722,
         "Hostinger": 5166,
