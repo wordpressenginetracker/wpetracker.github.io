@@ -1,6 +1,11 @@
 {
-    "siteCount": 144973,
+    "siteCount": 145025,
     "recentlyMoved": [
+        {
+            "domain_name": "www.chicagosewerexperts.com",
+            "destination": "GridPane",
+            "date": "2026-05-23 19:44:16"
+        },
         {
             "domain_name": "nellieforstcroix.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "rockportwealth.com",
             "destination": "Kinsta",
             "date": "2026-05-22 11:58:50"
-        },
-        {
-            "domain_name": "bellezzamodernaaesthetics.com",
-            "destination": "Pressable",
-            "date": "2026-05-22 11:57:43"
         },
         {
             "domain_name": "www.hoffmanforde.com",
@@ -1114,17 +1114,17 @@
         "2026-05-22": "144804"
     },
     "topDestinationHosts": {
-        "Pressable": 13485,
+        "Pressable": 13486,
         "Kinsta": 10339,
         "Digital Ocean": 6749,
         "SiteGround": 5722,
-        "Hostinger": 5167,
-        "Bluehost": 4616,
+        "Hostinger": 5168,
+        "Bluehost": 4617,
         "GoDaddy": 1732,
         "Liquid Web": 880,
         "BigScoots": 860,
         "WordPress.com": 695,
-        "GridPane": 687,
+        "GridPane": 688,
         "OVH": 670,
         "InMotion Hosting": 576,
         "Elementor Hosting": 547,
