@@ -1,6 +1,11 @@
 {
-    "siteCount": 145058,
+    "siteCount": 145063,
     "recentlyMoved": [
+        {
+            "domain_name": "king-ranch.com",
+            "destination": "Kinsta",
+            "date": "2026-05-24 00:37:08"
+        },
         {
             "domain_name": "nabaco.com",
             "destination": "Hostinger",
@@ -480,11 +485,6 @@
             "domain_name": "southfloridabrahmans.com",
             "destination": "Kinsta",
             "date": "2026-05-22 12:47:49"
-        },
-        {
-            "domain_name": "skylinerecyclingny.com",
-            "destination": "Digital Ocean",
-            "date": "2026-05-22 12:37:30"
         },
         {
             "domain_name": "theauerbachfirm.com",
@@ -1116,7 +1116,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13486,
-        "Kinsta": 10343,
+        "Kinsta": 10344,
         "Digital Ocean": 6749,
         "SiteGround": 5722,
         "Hostinger": 5169,
