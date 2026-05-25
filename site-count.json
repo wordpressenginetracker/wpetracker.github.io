@@ -1,6 +1,11 @@
 {
-    "siteCount": 145291,
+    "siteCount": 145307,
     "recentlyMoved": [
+        {
+            "domain_name": "leslanternes-hotel.com",
+            "destination": "Hostinger",
+            "date": "2026-05-25 12:40:01"
+        },
         {
             "domain_name": "board-handbook.sara-tx.org",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "personalhearingcare.com",
             "destination": "Pressable",
             "date": "2026-05-22 19:15:36"
-        },
-        {
-            "domain_name": "emergeprofessionals.com",
-            "destination": "Liquid Web",
-            "date": "2026-05-22 17:48:32"
         },
         {
             "domain_name": "nutralix.com",
@@ -1117,10 +1117,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13498,
-        "Kinsta": 10348,
+        "Kinsta": 10349,
         "Digital Ocean": 6754,
         "SiteGround": 5722,
-        "Hostinger": 5176,
+        "Hostinger": 5177,
         "Bluehost": 4618,
         "GoDaddy": 1733,
         "Liquid Web": 880,
