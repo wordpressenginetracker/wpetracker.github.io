@@ -1,6 +1,11 @@
 {
-    "siteCount": 145245,
+    "siteCount": 145256,
     "recentlyMoved": [
+        {
+            "domain_name": "redwoodcentredentistry.ca",
+            "destination": "Hostinger",
+            "date": "2026-05-25 03:55:30"
+        },
         {
             "domain_name": "dailydelight.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "trademarktooldesigns.com",
             "destination": "Pressable",
             "date": "2026-05-22 17:30:22"
-        },
-        {
-            "domain_name": "ddhcompact.org",
-            "destination": "Kinsta",
-            "date": "2026-05-22 16:59:04"
         }
     ],
     "dailyMovedStat": {
@@ -1120,7 +1120,7 @@
         "Kinsta": 10348,
         "Digital Ocean": 6754,
         "SiteGround": 5722,
-        "Hostinger": 5175,
+        "Hostinger": 5176,
         "Bluehost": 4618,
         "GoDaddy": 1733,
         "Liquid Web": 880,
