@@ -1,6 +1,11 @@
 {
-    "siteCount": 145307,
+    "siteCount": 145312,
     "recentlyMoved": [
+        {
+            "domain_name": "nouveautesdumonde.com",
+            "destination": "Hostinger",
+            "date": "2026-05-25 14:00:04"
+        },
         {
             "domain_name": "leslanternes-hotel.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "personalhearingcare.com",
             "destination": "Pressable",
             "date": "2026-05-22 19:15:36"
-        },
-        {
-            "domain_name": "nutralix.com",
-            "destination": "Kinsta",
-            "date": "2026-05-22 17:44:49"
         }
     ],
     "dailyMovedStat": {
@@ -1120,7 +1120,7 @@
         "Kinsta": 10349,
         "Digital Ocean": 6754,
         "SiteGround": 5722,
-        "Hostinger": 5177,
+        "Hostinger": 5178,
         "Bluehost": 4618,
         "GoDaddy": 1733,
         "Liquid Web": 880,
