@@ -1,6 +1,11 @@
 {
-    "siteCount": 145382,
+    "siteCount": 145383,
     "recentlyMoved": [
+        {
+            "domain_name": "egohairsalons.com",
+            "destination": "Hostinger",
+            "date": "2026-05-25 21:25:49"
+        },
         {
             "domain_name": "mentoringmen.net",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "huntsvilleortho.com",
             "destination": "Kinsta",
             "date": "2026-05-22 23:47:43"
-        },
-        {
-            "domain_name": "www.agedcareinsite.com.au",
-            "destination": "WordPress VIP",
-            "date": "2026-05-22 23:24:31"
         },
         {
             "domain_name": "aivres.com",
@@ -1120,7 +1120,7 @@
         "Kinsta": 10350,
         "Digital Ocean": 6756,
         "SiteGround": 5722,
-        "Hostinger": 5179,
+        "Hostinger": 5180,
         "Bluehost": 4618,
         "GoDaddy": 1733,
         "Liquid Web": 880,
