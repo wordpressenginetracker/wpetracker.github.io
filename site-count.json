@@ -1,6 +1,11 @@
 {
-    "siteCount": 145340,
+    "siteCount": 145342,
     "recentlyMoved": [
+        {
+            "domain_name": "northhardinwineandspirits.com",
+            "destination": "Pressable",
+            "date": "2026-05-25 17:27:53"
+        },
         {
             "domain_name": "stmarypayneville.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "kellyb-cpa.com",
             "destination": "Kinsta",
             "date": "2026-05-22 21:05:27"
-        },
-        {
-            "domain_name": "www.glauberberenson.com",
-            "destination": "Kinsta",
-            "date": "2026-05-22 20:27:41"
         }
     ],
     "dailyMovedStat": {
@@ -1116,7 +1116,7 @@
         "2026-05-24": "145217"
     },
     "topDestinationHosts": {
-        "Pressable": 13502,
+        "Pressable": 13503,
         "Kinsta": 10349,
         "Digital Ocean": 6754,
         "SiteGround": 5722,
