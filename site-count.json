@@ -1,10 +1,15 @@
 {
-    "siteCount": 145413,
+    "siteCount": 145415,
     "recentlyMoved": [
         {
             "domain_name": "dcps.com",
             "destination": "Pressable",
             "date": "2026-05-26 05:37:00"
+        },
+        {
+            "domain_name": "norisma.se",
+            "destination": "Kinsta",
+            "date": "2026-05-26 05:32:12"
         },
         {
             "domain_name": "csat.lowitja.org.au",
@@ -495,11 +500,6 @@
             "domain_name": "leisuredentalva.com",
             "destination": "Hostinger",
             "date": "2026-05-23 04:35:12"
-        },
-        {
-            "domain_name": "qualitygenetics.us",
-            "destination": "Kinsta",
-            "date": "2026-05-23 03:59:29"
         }
     ],
     "dailyMovedStat": {
@@ -1118,7 +1118,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13505,
-        "Kinsta": 10353,
+        "Kinsta": 10354,
         "Digital Ocean": 6757,
         "SiteGround": 5723,
         "Hostinger": 5181,
