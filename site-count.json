@@ -1,6 +1,11 @@
 {
-    "siteCount": 145499,
+    "siteCount": 145505,
     "recentlyMoved": [
+        {
+            "domain_name": "ellersliept.ca",
+            "destination": "Namecheap",
+            "date": "2026-05-26 17:39:35"
+        },
         {
             "domain_name": "babasgrocery.com",
             "destination": "Kinsta",
@@ -483,11 +488,6 @@
         },
         {
             "domain_name": "townofgingles.org",
-            "destination": "Pressable",
-            "date": "2026-05-23 13:12:44"
-        },
-        {
-            "domain_name": "townofeureka.org",
             "destination": "Pressable",
             "date": "2026-05-23 13:12:44"
         },
@@ -1131,7 +1131,7 @@
         "OVH": 671,
         "InMotion Hosting": 577,
         "Elementor Hosting": 547,
-        "Namecheap": 545,
+        "Namecheap": 546,
         "IONOS": 521,
         "DreamHost": 487,
         "A2 Hosting": 464,
