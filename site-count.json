@@ -1,10 +1,20 @@
 {
-    "siteCount": 145842,
+    "siteCount": 145847,
     "recentlyMoved": [
         {
             "domain_name": "dodsonmc.com",
             "destination": "Hostinger",
             "date": "2026-05-27 21:41:07"
+        },
+        {
+            "domain_name": "expmatters.com",
+            "destination": "A2 Hosting",
+            "date": "2026-05-27 21:25:56"
+        },
+        {
+            "domain_name": "tyranceorthopedics.com",
+            "destination": "Hostinger",
+            "date": "2026-05-27 21:24:53"
         },
         {
             "domain_name": "crottsaircraft.com",
@@ -485,16 +495,6 @@
             "domain_name": "educateuganda.org",
             "destination": "GoDaddy",
             "date": "2026-05-26 13:27:37"
-        },
-        {
-            "domain_name": "draftrmedia.com",
-            "destination": "Digital Ocean",
-            "date": "2026-05-26 13:16:15"
-        },
-        {
-            "domain_name": "members.extendeddisc.org",
-            "destination": "Digital Ocean",
-            "date": "2026-05-26 13:13:01"
         },
         {
             "domain_name": "villailias.gr",
@@ -1122,7 +1122,7 @@
         "Kinsta": 10382,
         "Digital Ocean": 6775,
         "SiteGround": 5723,
-        "Hostinger": 5194,
+        "Hostinger": 5196,
         "Bluehost": 4622,
         "GoDaddy": 1735,
         "Liquid Web": 880,
@@ -1135,7 +1135,7 @@
         "Elementor Hosting": 548,
         "IONOS": 522,
         "DreamHost": 488,
-        "A2 Hosting": 464,
+        "A2 Hosting": 465,
         "Hetzner Online": 437,
         "HostGator": 324
     },
