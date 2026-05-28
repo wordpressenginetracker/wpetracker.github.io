@@ -1,6 +1,11 @@
 {
-    "siteCount": 145935,
+    "siteCount": 145941,
     "recentlyMoved": [
+        {
+            "domain_name": "vanpeursemcpa.com",
+            "destination": "Digital Ocean",
+            "date": "2026-05-28 09:23:41"
+        },
         {
             "domain_name": "tonerhp.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "foundationsfamilycounseling.com",
             "destination": "Kinsta",
             "date": "2026-05-27 08:01:46"
-        },
-        {
-            "domain_name": "wigtownbaycoastalrowing.org",
-            "destination": "Hostinger",
-            "date": "2026-05-27 07:10:20"
         }
     ],
     "dailyMovedStat": {
@@ -1121,7 +1121,7 @@
     "topDestinationHosts": {
         "Pressable": 13538,
         "Kinsta": 10384,
-        "Digital Ocean": 6778,
+        "Digital Ocean": 6780,
         "SiteGround": 5723,
         "Hostinger": 5199,
         "Bluehost": 4622,
