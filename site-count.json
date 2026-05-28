@@ -1,6 +1,36 @@
 {
-    "siteCount": 145854,
+    "siteCount": 145865,
     "recentlyMoved": [
+        {
+            "domain_name": "dakariworld.com",
+            "destination": "Hostinger",
+            "date": "2026-05-28 01:31:09"
+        },
+        {
+            "domain_name": "the-lost-art.com",
+            "destination": "Namecheap",
+            "date": "2026-05-28 01:30:51"
+        },
+        {
+            "domain_name": "www.silverfort.com",
+            "destination": "WordPress VIP",
+            "date": "2026-05-28 00:50:09"
+        },
+        {
+            "domain_name": "burgtec.com",
+            "destination": "Hostinger",
+            "date": "2026-05-28 00:20:41"
+        },
+        {
+            "domain_name": "www.lfnp.com",
+            "destination": "Pressable",
+            "date": "2026-05-28 00:12:16"
+        },
+        {
+            "domain_name": "www.macipa.com",
+            "destination": "Kinsta",
+            "date": "2026-05-28 00:07:54"
+        },
         {
             "domain_name": "www.fredwissink.com",
             "destination": "Namecheap",
@@ -470,36 +500,6 @@
             "domain_name": "korinanaturals.com",
             "destination": "DreamHost",
             "date": "2026-05-26 20:16:13"
-        },
-        {
-            "domain_name": "www.microdivorce.com",
-            "destination": "Kinsta",
-            "date": "2026-05-26 20:06:40"
-        },
-        {
-            "domain_name": "ellersliept.ca",
-            "destination": "Namecheap",
-            "date": "2026-05-26 17:39:35"
-        },
-        {
-            "domain_name": "babasgrocery.com",
-            "destination": "Kinsta",
-            "date": "2026-05-26 16:11:07"
-        },
-        {
-            "domain_name": "bertsautoandtire.com",
-            "destination": "Digital Ocean",
-            "date": "2026-05-26 16:07:06"
-        },
-        {
-            "domain_name": "ramon.space",
-            "destination": "A2 Hosting",
-            "date": "2026-05-26 16:02:45"
-        },
-        {
-            "domain_name": "p5electronics.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-05-26 16:02:43"
         }
     ],
     "dailyMovedStat": {
@@ -1119,11 +1119,11 @@
         "2026-05-27": "145847"
     },
     "topDestinationHosts": {
-        "Pressable": 13530,
-        "Kinsta": 10382,
+        "Pressable": 13531,
+        "Kinsta": 10383,
         "Digital Ocean": 6775,
         "SiteGround": 5723,
-        "Hostinger": 5197,
+        "Hostinger": 5199,
         "Bluehost": 4622,
         "GoDaddy": 1735,
         "Liquid Web": 880,
@@ -1132,7 +1132,7 @@
         "GridPane": 689,
         "OVH": 673,
         "InMotion Hosting": 578,
-        "Namecheap": 549,
+        "Namecheap": 550,
         "Elementor Hosting": 548,
         "IONOS": 522,
         "DreamHost": 488,
