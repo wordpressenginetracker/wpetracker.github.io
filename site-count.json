@@ -1,10 +1,20 @@
 {
-    "siteCount": 146209,
+    "siteCount": 146220,
     "recentlyMoved": [
+        {
+            "domain_name": "bodylogicspa.com",
+            "destination": "HostGator",
+            "date": "2026-05-29 00:32:08"
+        },
         {
             "domain_name": "www.doubledollarsmt.com",
             "destination": "Pressable",
             "date": "2026-05-29 00:23:31"
+        },
+        {
+            "domain_name": "chapterkeys.com",
+            "destination": "GridPane",
+            "date": "2026-05-29 00:19:40"
         },
         {
             "domain_name": "www.crowncolorsalon.com",
@@ -477,19 +487,9 @@
             "date": "2026-05-27 18:14:21"
         },
         {
-            "domain_name": "dreamhavenguestranch.com",
-            "destination": "WordPress.com",
-            "date": "2026-05-27 17:36:35"
-        },
-        {
             "domain_name": "enginuityglobal.com",
             "destination": "Hostinger",
             "date": "2026-05-27 17:36:27"
-        },
-        {
-            "domain_name": "dustyspaintingplus.com",
-            "destination": "Wordify",
-            "date": "2026-05-27 17:30:46"
         },
         {
             "domain_name": "villanointeriors.com",
@@ -1121,7 +1121,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13559,
-        "Kinsta": 10403,
+        "Kinsta": 10404,
         "Digital Ocean": 6788,
         "SiteGround": 5723,
         "Hostinger": 5201,
@@ -1130,7 +1130,7 @@
         "Liquid Web": 880,
         "BigScoots": 865,
         "WordPress.com": 699,
-        "GridPane": 691,
+        "GridPane": 692,
         "OVH": 673,
         "InMotion Hosting": 578,
         "Namecheap": 550,
@@ -1139,7 +1139,7 @@
         "DreamHost": 488,
         "A2 Hosting": 465,
         "Hetzner Online": 438,
-        "HostGator": 324
+        "HostGator": 325
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
