@@ -1,6 +1,11 @@
 {
-    "siteCount": 146497,
+    "siteCount": 146501,
     "recentlyMoved": [
+        {
+            "domain_name": "ebadimd.com",
+            "destination": "Pressable",
+            "date": "2026-05-29 21:22:16"
+        },
         {
             "domain_name": "secondchanceapartments.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "www.carpentermediagroup.com",
             "destination": "WordPress VIP",
             "date": "2026-05-28 19:39:34"
-        },
-        {
-            "domain_name": "meadowcreektitle.com",
-            "destination": "Pressable",
-            "date": "2026-05-28 17:29:19"
         },
         {
             "domain_name": "warriorpsychotherapyservices.com",
@@ -1120,7 +1120,7 @@
         "2026-05-28": "146188"
     },
     "topDestinationHosts": {
-        "Pressable": 13584,
+        "Pressable": 13585,
         "Kinsta": 10433,
         "Digital Ocean": 6792,
         "SiteGround": 5723,
