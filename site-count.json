@@ -1,5 +1,5 @@
 {
-    "siteCount": 146635,
+    "siteCount": 146638,
     "recentlyMoved": [
         {
             "domain_name": "www.fountainmedicalspa.com",
@@ -15,6 +15,11 @@
             "domain_name": "thelondonseason.org",
             "destination": "Namecheap",
             "date": "2026-05-30 13:24:45"
+        },
+        {
+            "domain_name": "montecruzranch.com",
+            "destination": "Kinsta",
+            "date": "2026-05-30 13:16:21"
         },
         {
             "domain_name": "marvistafarmandcottages.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.somersault.agency",
             "destination": "Kinsta",
             "date": "2026-05-29 08:32:09"
-        },
-        {
-            "domain_name": "habitatstcharles.org",
-            "destination": "Hostinger",
-            "date": "2026-05-29 08:09:40"
         }
     ],
     "dailyMovedStat": {
@@ -1122,7 +1122,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13597,
-        "Kinsta": 10443,
+        "Kinsta": 10444,
         "Digital Ocean": 6795,
         "SiteGround": 5723,
         "Hostinger": 5207,
