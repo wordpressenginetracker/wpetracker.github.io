@@ -1,6 +1,16 @@
 {
-    "siteCount": 146600,
+    "siteCount": 146615,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ridgepcre.com",
+            "destination": "Kinsta",
+            "date": "2026-05-30 11:51:39"
+        },
+        {
+            "domain_name": "frvfiredistrict.org",
+            "destination": "Pressable",
+            "date": "2026-05-30 11:35:18"
+        },
         {
             "domain_name": "epoxyflooringtx.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "tysonstriallaw.com",
             "destination": "BigScoots",
             "date": "2026-05-29 01:05:27"
-        },
-        {
-            "domain_name": "bodylogicspa.com",
-            "destination": "HostGator",
-            "date": "2026-05-29 00:32:08"
-        },
-        {
-            "domain_name": "chapterkeys.com",
-            "destination": "GridPane",
-            "date": "2026-05-29 00:19:40"
         }
     ],
     "dailyMovedStat": {
@@ -1121,8 +1121,8 @@
         "2026-05-29": "146501"
     },
     "topDestinationHosts": {
-        "Pressable": 13593,
-        "Kinsta": 10439,
+        "Pressable": 13594,
+        "Kinsta": 10440,
         "Digital Ocean": 6795,
         "SiteGround": 5723,
         "Hostinger": 5207,
