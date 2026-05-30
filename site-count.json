@@ -1,6 +1,11 @@
 {
-    "siteCount": 146515,
+    "siteCount": 146525,
     "recentlyMoved": [
+        {
+            "domain_name": "thewoofhaus.com",
+            "destination": "WordPress.com",
+            "date": "2026-05-30 01:16:50"
+        },
         {
             "domain_name": "www.igbir.com",
             "destination": "Digital Ocean",
@@ -470,11 +475,6 @@
             "domain_name": "www.designeffectevents.com",
             "destination": "Pressable",
             "date": "2026-05-28 20:25:33"
-        },
-        {
-            "domain_name": "goodshepherdberwick.org",
-            "destination": "Digital Ocean",
-            "date": "2026-05-28 20:17:01"
         },
         {
             "domain_name": "www.cookbookspecialists.com",
@@ -1130,7 +1130,7 @@
         "GoDaddy": 1737,
         "Liquid Web": 880,
         "BigScoots": 866,
-        "WordPress.com": 702,
+        "WordPress.com": 703,
         "GridPane": 693,
         "OVH": 674,
         "InMotion Hosting": 578,
