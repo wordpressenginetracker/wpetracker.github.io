@@ -1,6 +1,16 @@
 {
-    "siteCount": 146560,
+    "siteCount": 146565,
     "recentlyMoved": [
+        {
+            "domain_name": "neurologicallygifted.com",
+            "destination": "Pressable",
+            "date": "2026-05-30 05:57:48"
+        },
+        {
+            "domain_name": "wellmedtrip.com",
+            "destination": "Kinsta",
+            "date": "2026-05-30 05:15:51"
+        },
         {
             "domain_name": "drsuperfoods.com.au",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "whitebarkfound.org",
             "destination": "Pressable",
             "date": "2026-05-28 23:39:12"
-        },
-        {
-            "domain_name": "coxconcrete.com",
-            "destination": "Kinsta",
-            "date": "2026-05-28 21:20:10"
-        },
-        {
-            "domain_name": "davisonheating.com",
-            "destination": "Kinsta",
-            "date": "2026-05-28 20:48:03"
         }
     ],
     "dailyMovedStat": {
@@ -1121,8 +1121,8 @@
         "2026-05-29": "146501"
     },
     "topDestinationHosts": {
-        "Pressable": 13589,
-        "Kinsta": 10437,
+        "Pressable": 13591,
+        "Kinsta": 10438,
         "Digital Ocean": 6794,
         "SiteGround": 5723,
         "Hostinger": 5205,
