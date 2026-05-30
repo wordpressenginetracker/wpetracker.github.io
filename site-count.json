@@ -1,6 +1,11 @@
 {
-    "siteCount": 146525,
+    "siteCount": 146529,
     "recentlyMoved": [
+        {
+            "domain_name": "nassco.com",
+            "destination": "Kinsta",
+            "date": "2026-05-30 01:55:08"
+        },
         {
             "domain_name": "thewoofhaus.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "biltmorelivestock.com",
             "destination": "Kinsta",
             "date": "2026-05-28 19:45:54"
-        },
-        {
-            "domain_name": "www.carpentermediagroup.com",
-            "destination": "WordPress VIP",
-            "date": "2026-05-28 19:39:34"
         }
     ],
     "dailyMovedStat": {
@@ -1122,7 +1122,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13586,
-        "Kinsta": 10433,
+        "Kinsta": 10434,
         "Digital Ocean": 6793,
         "SiteGround": 5723,
         "Hostinger": 5205,
