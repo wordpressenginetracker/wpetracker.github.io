@@ -1,6 +1,11 @@
 {
-    "siteCount": 146922,
+    "siteCount": 146932,
     "recentlyMoved": [
+        {
+            "domain_name": "tommypicard.com",
+            "destination": "Hostinger",
+            "date": "2026-05-31 20:52:56"
+        },
         {
             "domain_name": "www.rivercityrootsfestival.com",
             "destination": "Pressable",
@@ -485,11 +490,6 @@
             "domain_name": "slconsultingfirm.com",
             "destination": "Pressable",
             "date": "2026-05-29 16:20:28"
-        },
-        {
-            "domain_name": "independencewool.com",
-            "destination": "Kinsta",
-            "date": "2026-05-29 16:18:22"
         },
         {
             "domain_name": "scharffenbergercellars.com",
@@ -1126,7 +1126,7 @@
         "Kinsta": 10449,
         "Digital Ocean": 6798,
         "SiteGround": 5724,
-        "Hostinger": 5213,
+        "Hostinger": 5214,
         "Bluehost": 4627,
         "GoDaddy": 1739,
         "Liquid Web": 883,
