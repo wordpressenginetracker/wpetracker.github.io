@@ -1,6 +1,26 @@
 {
-    "siteCount": 147000,
+    "siteCount": 147021,
     "recentlyMoved": [
+        {
+            "domain_name": "dailiespods.com",
+            "destination": "Hostinger",
+            "date": "2026-06-01 13:32:54"
+        },
+        {
+            "domain_name": "dailiesfoundation.org",
+            "destination": "Hostinger",
+            "date": "2026-06-01 13:32:54"
+        },
+        {
+            "domain_name": "launchfamily.com",
+            "destination": "Hostinger",
+            "date": "2026-06-01 12:54:05"
+        },
+        {
+            "domain_name": "www.nickstellino.com",
+            "destination": "Bluehost",
+            "date": "2026-06-01 12:27:16"
+        },
         {
             "domain_name": "www.westernmontanadrillingcompany.com",
             "destination": "Pressable",
@@ -457,11 +477,6 @@
             "date": "2026-05-29 17:18:59"
         },
         {
-            "domain_name": "srhsf.org",
-            "destination": "Pressable",
-            "date": "2026-05-29 17:10:41"
-        },
-        {
             "domain_name": "www.silvermanbros.com",
             "destination": "Pressable",
             "date": "2026-05-29 17:04:10"
@@ -477,24 +492,9 @@
             "date": "2026-05-29 16:46:02"
         },
         {
-            "domain_name": "smithbonsmara.com",
-            "destination": "Kinsta",
-            "date": "2026-05-29 16:43:47"
-        },
-        {
-            "domain_name": "kellerembroidery.com",
-            "destination": "WordPress.com",
-            "date": "2026-05-29 16:42:40"
-        },
-        {
             "domain_name": "www.speedgoat.io",
             "destination": "Pressable",
             "date": "2026-05-29 16:37:34"
-        },
-        {
-            "domain_name": "knowforte.com",
-            "destination": "Kinsta",
-            "date": "2026-05-29 16:32:12"
         },
         {
             "domain_name": "claritashotel.com",
@@ -1127,8 +1127,8 @@
         "Kinsta": 10449,
         "Digital Ocean": 6798,
         "SiteGround": 5724,
-        "Hostinger": 5214,
-        "Bluehost": 4627,
+        "Hostinger": 5217,
+        "Bluehost": 4628,
         "GoDaddy": 1739,
         "Liquid Web": 884,
         "BigScoots": 868,
