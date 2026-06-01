@@ -1,6 +1,11 @@
 {
-    "siteCount": 146960,
+    "siteCount": 146963,
     "recentlyMoved": [
+        {
+            "domain_name": "mtplanners.org",
+            "destination": "Pressable",
+            "date": "2026-06-01 01:29:32"
+        },
         {
             "domain_name": "habitatmissoula.org",
             "destination": "Pressable",
@@ -470,11 +475,6 @@
             "domain_name": "kellerembroidery.com",
             "destination": "WordPress.com",
             "date": "2026-05-29 16:42:40"
-        },
-        {
-            "domain_name": "jacoroofing.com",
-            "destination": "Kinsta",
-            "date": "2026-05-29 16:38:58"
         },
         {
             "domain_name": "www.speedgoat.io",
@@ -1123,7 +1123,7 @@
         "2026-05-31": "146932"
     },
     "topDestinationHosts": {
-        "Pressable": 13615,
+        "Pressable": 13616,
         "Kinsta": 10449,
         "Digital Ocean": 6798,
         "SiteGround": 5724,
