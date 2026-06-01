@@ -1,6 +1,21 @@
 {
-    "siteCount": 147083,
+    "siteCount": 147096,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wyndhurstaesthetics.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-01 21:30:02"
+        },
+        {
+            "domain_name": "www.thinkots.com",
+            "destination": "Kinsta",
+            "date": "2026-06-01 20:46:31"
+        },
+        {
+            "domain_name": "www.missoulafootandankle.com",
+            "destination": "Pressable",
+            "date": "2026-06-01 20:22:02"
+        },
         {
             "domain_name": "reviveandshineaesthetics.com",
             "destination": "Namecheap",
@@ -477,29 +492,14 @@
             "date": "2026-05-29 17:50:00"
         },
         {
-            "domain_name": "modernroofing.com",
-            "destination": "Pressable",
-            "date": "2026-05-29 17:40:51"
-        },
-        {
             "domain_name": "uscattlemen.org",
             "destination": "Kinsta",
             "date": "2026-05-29 17:40:15"
         },
         {
-            "domain_name": "murphyfamilyranchandwinery.com",
-            "destination": "Kinsta",
-            "date": "2026-05-29 17:33:10"
-        },
-        {
             "domain_name": "wealthyroads.com",
             "destination": "Digital Ocean",
             "date": "2026-05-29 17:19:16"
-        },
-        {
-            "domain_name": "mrdsbar.com",
-            "destination": "Pressable",
-            "date": "2026-05-29 17:18:59"
         }
     ],
     "dailyMovedStat": {
@@ -1123,8 +1123,8 @@
         "2026-05-31": "146932"
     },
     "topDestinationHosts": {
-        "Pressable": 13617,
-        "Kinsta": 10449,
+        "Pressable": 13618,
+        "Kinsta": 10450,
         "Digital Ocean": 6799,
         "SiteGround": 5724,
         "Hostinger": 5220,
@@ -1132,7 +1132,7 @@
         "GoDaddy": 1739,
         "Liquid Web": 884,
         "BigScoots": 869,
-        "WordPress.com": 703,
+        "WordPress.com": 704,
         "GridPane": 694,
         "OVH": 676,
         "InMotion Hosting": 580,
