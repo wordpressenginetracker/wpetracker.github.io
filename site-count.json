@@ -1,6 +1,16 @@
 {
-    "siteCount": 146977,
+    "siteCount": 146990,
     "recentlyMoved": [
+        {
+            "domain_name": "www.westernmontanadrillingcompany.com",
+            "destination": "Pressable",
+            "date": "2026-06-01 09:09:01"
+        },
+        {
+            "domain_name": "koeppelconcrete.com",
+            "destination": "Liquid Web",
+            "date": "2026-06-01 08:31:44"
+        },
         {
             "domain_name": "mtplanners.org",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "claritashotel.com",
             "destination": "Bluehost",
             "date": "2026-05-29 16:22:46"
-        },
-        {
-            "domain_name": "slconsultingfirm.com",
-            "destination": "Pressable",
-            "date": "2026-05-29 16:20:28"
-        },
-        {
-            "domain_name": "jocouw.org",
-            "destination": "Hostinger",
-            "date": "2026-05-29 16:02:20"
         }
     ],
     "dailyMovedStat": {
@@ -1123,14 +1123,14 @@
         "2026-05-31": "146932"
     },
     "topDestinationHosts": {
-        "Pressable": 13616,
+        "Pressable": 13617,
         "Kinsta": 10449,
         "Digital Ocean": 6798,
         "SiteGround": 5724,
         "Hostinger": 5214,
         "Bluehost": 4627,
         "GoDaddy": 1739,
-        "Liquid Web": 883,
+        "Liquid Web": 884,
         "BigScoots": 868,
         "WordPress.com": 703,
         "GridPane": 694,
