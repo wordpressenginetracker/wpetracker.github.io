@@ -1,6 +1,11 @@
 {
-    "siteCount": 146932,
+    "siteCount": 146947,
     "recentlyMoved": [
+        {
+            "domain_name": "habitatmissoula.org",
+            "destination": "Pressable",
+            "date": "2026-06-01 00:25:11"
+        },
         {
             "domain_name": "tommypicard.com",
             "destination": "Hostinger",
@@ -470,11 +475,6 @@
             "domain_name": "www.speedgoat.io",
             "destination": "Pressable",
             "date": "2026-05-29 16:37:34"
-        },
-        {
-            "domain_name": "boisterouslabs.com",
-            "destination": "Pressable",
-            "date": "2026-05-29 16:36:29"
         },
         {
             "domain_name": "knowforte.com",
@@ -1123,7 +1123,7 @@
         "2026-05-31": "146932"
     },
     "topDestinationHosts": {
-        "Pressable": 13613,
+        "Pressable": 13614,
         "Kinsta": 10449,
         "Digital Ocean": 6798,
         "SiteGround": 5724,
