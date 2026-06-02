@@ -1,6 +1,11 @@
 {
-    "siteCount": 147100,
+    "siteCount": 147115,
     "recentlyMoved": [
+        {
+            "domain_name": "beachcommute.com",
+            "destination": "Bluehost",
+            "date": "2026-06-02 00:12:30"
+        },
         {
             "domain_name": "www.wyndhurstaesthetics.com",
             "destination": "WordPress.com",
@@ -490,11 +495,6 @@
             "domain_name": "phoenixots.com",
             "destination": "Pressable",
             "date": "2026-05-29 19:44:32"
-        },
-        {
-            "domain_name": "vytalassets.com",
-            "destination": "GridPane",
-            "date": "2026-05-29 17:50:00"
         },
         {
             "domain_name": "wealthyroads.com",
@@ -1126,10 +1126,10 @@
     "topDestinationHosts": {
         "Pressable": 13619,
         "Kinsta": 10450,
-        "Digital Ocean": 6799,
+        "Digital Ocean": 6800,
         "SiteGround": 5724,
         "Hostinger": 5220,
-        "Bluehost": 4628,
+        "Bluehost": 4629,
         "GoDaddy": 1739,
         "Liquid Web": 884,
         "BigScoots": 869,
