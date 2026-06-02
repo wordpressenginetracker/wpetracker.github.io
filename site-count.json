@@ -1,6 +1,16 @@
 {
-    "siteCount": 147379,
+    "siteCount": 147382,
     "recentlyMoved": [
+        {
+            "domain_name": "vuka.co",
+            "destination": "Hostinger",
+            "date": "2026-06-02 21:30:01"
+        },
+        {
+            "domain_name": "truesdellfamilyfarm.com",
+            "destination": "Kinsta",
+            "date": "2026-06-02 21:15:48"
+        },
         {
             "domain_name": "claymaker.tv",
             "destination": "Pressable",
@@ -485,16 +495,6 @@
             "domain_name": "www.tspaevansville.com",
             "destination": "Kinsta",
             "date": "2026-05-30 19:43:41"
-        },
-        {
-            "domain_name": "medicarehelp4u.org",
-            "destination": "Hostinger",
-            "date": "2026-05-30 17:19:53"
-        },
-        {
-            "domain_name": "thesunflowerschool.ca",
-            "destination": "Pressable",
-            "date": "2026-05-30 16:57:57"
         },
         {
             "domain_name": "downhomelife.com",
@@ -1125,10 +1125,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13637,
-        "Kinsta": 10462,
+        "Kinsta": 10463,
         "Digital Ocean": 6806,
         "SiteGround": 5724,
-        "Hostinger": 5225,
+        "Hostinger": 5226,
         "Bluehost": 4631,
         "GoDaddy": 1739,
         "Liquid Web": 886,
