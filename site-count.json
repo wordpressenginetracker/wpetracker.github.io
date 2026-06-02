@@ -1,6 +1,11 @@
 {
-    "siteCount": 147165,
+    "siteCount": 147176,
     "recentlyMoved": [
+        {
+            "domain_name": "lasvegasdentistry.com",
+            "destination": "Pressable",
+            "date": "2026-06-02 08:49:24"
+        },
         {
             "domain_name": "www.hairandmakeuppros.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.skyhighsecurity.com",
             "destination": "Kinsta",
             "date": "2026-05-30 04:28:33"
-        },
-        {
-            "domain_name": "stepsts.com",
-            "destination": "OVH",
-            "date": "2026-05-30 04:23:28"
         }
     ],
     "dailyMovedStat": {
@@ -1124,7 +1124,7 @@
         "2026-06-01": "147100"
     },
     "topDestinationHosts": {
-        "Pressable": 13630,
+        "Pressable": 13631,
         "Kinsta": 10452,
         "Digital Ocean": 6800,
         "SiteGround": 5724,
