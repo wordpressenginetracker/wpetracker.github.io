@@ -1,6 +1,31 @@
 {
-    "siteCount": 147180,
+    "siteCount": 147200,
     "recentlyMoved": [
+        {
+            "domain_name": "boatrentalmn.com",
+            "destination": "Pressable",
+            "date": "2026-06-02 12:12:24"
+        },
+        {
+            "domain_name": "sandersteads.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-02 12:10:40"
+        },
+        {
+            "domain_name": "www.ellisjones.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-06-02 11:57:55"
+        },
+        {
+            "domain_name": "bigbearguideservice.com",
+            "destination": "Pressable",
+            "date": "2026-06-02 11:51:27"
+        },
+        {
+            "domain_name": "hermannins.com",
+            "destination": "Pressable",
+            "date": "2026-06-02 11:44:23"
+        },
         {
             "domain_name": "lasvegasdentistry.com",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "julitapatildds.com",
             "destination": "Pressable",
             "date": "2026-05-30 08:11:59"
-        },
-        {
-            "domain_name": "flight.passionevino.co.uk",
-            "destination": "IONOS",
-            "date": "2026-05-30 07:56:10"
-        },
-        {
-            "domain_name": "neurologicallygifted.com",
-            "destination": "Pressable",
-            "date": "2026-05-30 05:57:48"
-        },
-        {
-            "domain_name": "wellmedtrip.com",
-            "destination": "Kinsta",
-            "date": "2026-05-30 05:15:51"
-        },
-        {
-            "domain_name": "drsuperfoods.com.au",
-            "destination": "Pressable",
-            "date": "2026-05-30 05:04:24"
-        },
-        {
-            "domain_name": "www.skyhighsecurity.com",
-            "destination": "Kinsta",
-            "date": "2026-05-30 04:28:33"
         }
     ],
     "dailyMovedStat": {
@@ -1124,11 +1124,11 @@
         "2026-06-01": "147100"
     },
     "topDestinationHosts": {
-        "Pressable": 13631,
+        "Pressable": 13633,
         "Kinsta": 10452,
         "Digital Ocean": 6800,
         "SiteGround": 5724,
-        "Hostinger": 5221,
+        "Hostinger": 5222,
         "Bluehost": 4630,
         "GoDaddy": 1739,
         "Liquid Web": 884,
