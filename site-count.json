@@ -1,6 +1,11 @@
 {
-    "siteCount": 147693,
+    "siteCount": 147700,
     "recentlyMoved": [
+        {
+            "domain_name": "music.saconnects.org",
+            "destination": "Pressable",
+            "date": "2026-06-03 17:54:39"
+        },
         {
             "domain_name": "magazine.saconnects.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "regencylanding.com",
             "destination": "Bluehost",
             "date": "2026-06-02 04:16:53"
-        },
-        {
-            "domain_name": "www.bescograin.ca",
-            "destination": "Pressable",
-            "date": "2026-06-02 03:36:33"
         }
     ],
     "dailyMovedStat": {
@@ -1125,7 +1125,7 @@
         "2026-06-02": "147382"
     },
     "topDestinationHosts": {
-        "Pressable": 13656,
+        "Pressable": 13657,
         "Kinsta": 10477,
         "Digital Ocean": 6811,
         "SiteGround": 5724,
