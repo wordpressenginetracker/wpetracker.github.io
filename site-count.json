@@ -1,6 +1,21 @@
 {
-    "siteCount": 147392,
+    "siteCount": 147404,
     "recentlyMoved": [
+        {
+            "domain_name": "www.phase3ecom.com",
+            "destination": "Pressable",
+            "date": "2026-06-03 01:03:16"
+        },
+        {
+            "domain_name": "www.mofi.org",
+            "destination": "Pressable",
+            "date": "2026-06-03 00:25:21"
+        },
+        {
+            "domain_name": "branchrcattle.com",
+            "destination": "Kinsta",
+            "date": "2026-06-02 23:59:59"
+        },
         {
             "domain_name": "www.hawaiiislandmidweek.com",
             "destination": "WordPress VIP",
@@ -485,21 +500,6 @@
             "domain_name": "standbyguardian.org",
             "destination": "Kinsta",
             "date": "2026-05-30 20:23:35"
-        },
-        {
-            "domain_name": "www.darlinghomeforkids.ca",
-            "destination": "Pressable",
-            "date": "2026-05-30 20:21:04"
-        },
-        {
-            "domain_name": "callnettel.com",
-            "destination": "Hostinger",
-            "date": "2026-05-30 20:16:43"
-        },
-        {
-            "domain_name": "www.tspaevansville.com",
-            "destination": "Kinsta",
-            "date": "2026-05-30 19:43:41"
         }
     ],
     "dailyMovedStat": {
@@ -1125,8 +1125,8 @@
         "2026-06-02": "147382"
     },
     "topDestinationHosts": {
-        "Pressable": 13639,
-        "Kinsta": 10463,
+        "Pressable": 13641,
+        "Kinsta": 10464,
         "Digital Ocean": 6806,
         "SiteGround": 5724,
         "Hostinger": 5226,
