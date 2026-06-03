@@ -1,6 +1,21 @@
 {
-    "siteCount": 147382,
+    "siteCount": 147392,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hawaiiislandmidweek.com",
+            "destination": "WordPress VIP",
+            "date": "2026-06-02 23:50:09"
+        },
+        {
+            "domain_name": "absol.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-02 23:26:19"
+        },
+        {
+            "domain_name": "131tag.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-02 23:24:34"
+        },
         {
             "domain_name": "vuka.co",
             "destination": "Hostinger",
@@ -482,24 +497,9 @@
             "date": "2026-05-30 20:16:43"
         },
         {
-            "domain_name": "www.moaarch.com",
-            "destination": "Liquid Web",
-            "date": "2026-05-30 20:15:24"
-        },
-        {
-            "domain_name": "www.hodgefirm.com",
-            "destination": "GoDaddy",
-            "date": "2026-05-30 19:46:39"
-        },
-        {
             "domain_name": "www.tspaevansville.com",
             "destination": "Kinsta",
             "date": "2026-05-30 19:43:41"
-        },
-        {
-            "domain_name": "downhomelife.com",
-            "destination": "OVH",
-            "date": "2026-05-30 16:55:06"
         }
     ],
     "dailyMovedStat": {
@@ -1125,7 +1125,7 @@
         "2026-06-02": "147382"
     },
     "topDestinationHosts": {
-        "Pressable": 13637,
+        "Pressable": 13639,
         "Kinsta": 10463,
         "Digital Ocean": 6806,
         "SiteGround": 5724,
