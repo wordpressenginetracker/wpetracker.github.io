@@ -1,6 +1,21 @@
 {
-    "siteCount": 147819,
+    "siteCount": 147830,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dm-rec.com",
+            "destination": "IONOS",
+            "date": "2026-06-04 04:28:06"
+        },
+        {
+            "domain_name": "arts.saconnects.org",
+            "destination": "Pressable",
+            "date": "2026-06-04 04:19:54"
+        },
+        {
+            "domain_name": "www.ayurveda-awareness.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-04 03:36:26"
+        },
         {
             "domain_name": "thebranchcoffeehouse.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "mobilearq.com",
             "destination": "Hostinger",
             "date": "2026-06-02 17:36:28"
-        },
-        {
-            "domain_name": "mcshowcattle.com",
-            "destination": "Kinsta",
-            "date": "2026-06-02 17:35:36"
-        },
-        {
-            "domain_name": "mcminiherefords.com",
-            "destination": "Kinsta",
-            "date": "2026-06-02 17:35:36"
-        },
-        {
-            "domain_name": "mckenzieranch.com",
-            "destination": "Kinsta",
-            "date": "2026-06-02 17:35:36"
         }
     ],
     "dailyMovedStat": {
@@ -1126,7 +1126,7 @@
         "2026-06-03": "147785"
     },
     "topDestinationHosts": {
-        "Pressable": 13667,
+        "Pressable": 13670,
         "Kinsta": 10486,
         "Digital Ocean": 6816,
         "SiteGround": 5724,
@@ -1141,7 +1141,7 @@
         "InMotion Hosting": 581,
         "Namecheap": 554,
         "Elementor Hosting": 549,
-        "IONOS": 525,
+        "IONOS": 526,
         "DreamHost": 490,
         "A2 Hosting": 465,
         "Hetzner Online": 440,
