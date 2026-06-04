@@ -1,5 +1,5 @@
 {
-    "siteCount": 147861,
+    "siteCount": 147865,
     "recentlyMoved": [
         {
             "domain_name": "tierarzt-bertschinger.ch",
@@ -17,9 +17,24 @@
             "date": "2026-06-04 09:12:22"
         },
         {
+            "domain_name": "torontohomeshows.com",
+            "destination": "Bluehost",
+            "date": "2026-06-04 09:11:28"
+        },
+        {
             "domain_name": "marketermedley.com",
             "destination": "Hostinger",
             "date": "2026-06-04 09:06:07"
+        },
+        {
+            "domain_name": "mwp.ae.ag",
+            "destination": "Hetzner Online",
+            "date": "2026-06-04 09:01:51"
+        },
+        {
+            "domain_name": "umbrellaclub.org",
+            "destination": "Kinsta",
+            "date": "2026-06-04 09:01:19"
         },
         {
             "domain_name": "sportfever.nl",
@@ -485,21 +500,6 @@
             "domain_name": "www.hawaiiislandmidweek.com",
             "destination": "WordPress VIP",
             "date": "2026-06-02 23:50:09"
-        },
-        {
-            "domain_name": "absol.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-02 23:26:19"
-        },
-        {
-            "domain_name": "131tag.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-02 23:24:34"
-        },
-        {
-            "domain_name": "vuka.co",
-            "destination": "Hostinger",
-            "date": "2026-06-02 21:30:01"
         }
     ],
     "dailyMovedStat": {
@@ -1127,11 +1127,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 13671,
-        "Kinsta": 10488,
+        "Kinsta": 10490,
         "Digital Ocean": 6820,
         "SiteGround": 5724,
         "Hostinger": 5244,
-        "Bluehost": 4633,
+        "Bluehost": 4634,
         "GoDaddy": 1741,
         "Liquid Web": 887,
         "BigScoots": 876,
@@ -1144,7 +1144,7 @@
         "IONOS": 526,
         "DreamHost": 490,
         "A2 Hosting": 465,
-        "Hetzner Online": 440,
+        "Hetzner Online": 441,
         "HostGator": 326
     },
     "dailyTotalStat": {
