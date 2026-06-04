@@ -1,6 +1,11 @@
 {
-    "siteCount": 147905,
+    "siteCount": 147908,
     "recentlyMoved": [
+        {
+            "domain_name": "nysb.org",
+            "destination": "Pressable",
+            "date": "2026-06-04 14:04:07"
+        },
         {
             "domain_name": "totalresearchgroup.com",
             "destination": "IONOS",
@@ -490,11 +495,6 @@
             "domain_name": "greatlakesalarm.com",
             "destination": "Pressable",
             "date": "2026-06-03 11:39:57"
-        },
-        {
-            "domain_name": "www.familylawpleasanton.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-03 11:30:11"
         },
         {
             "domain_name": "www.bakeru.edu",
@@ -1126,9 +1126,9 @@
         "2026-06-03": "147785"
     },
     "topDestinationHosts": {
-        "Pressable": 13676,
+        "Pressable": 13677,
         "Kinsta": 10492,
-        "Digital Ocean": 6823,
+        "Digital Ocean": 6824,
         "SiteGround": 5724,
         "Hostinger": 5245,
         "Bluehost": 4636,
@@ -1141,7 +1141,7 @@
         "InMotion Hosting": 581,
         "Namecheap": 554,
         "Elementor Hosting": 549,
-        "IONOS": 526,
+        "IONOS": 527,
         "DreamHost": 490,
         "A2 Hosting": 465,
         "Hetzner Online": 441,
