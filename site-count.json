@@ -1,6 +1,41 @@
 {
-    "siteCount": 147908,
+    "siteCount": 147935,
     "recentlyMoved": [
+        {
+            "domain_name": "www.joniscuts.com",
+            "destination": "DreamHost",
+            "date": "2026-06-04 16:45:42"
+        },
+        {
+            "domain_name": "www.hwfpc.org",
+            "destination": "Digital Ocean",
+            "date": "2026-06-04 16:41:42"
+        },
+        {
+            "domain_name": "bigfoottrailers.ph",
+            "destination": "Digital Ocean",
+            "date": "2026-06-04 16:38:45"
+        },
+        {
+            "domain_name": "sapelofoundation.org",
+            "destination": "Pressable",
+            "date": "2026-06-04 16:17:26"
+        },
+        {
+            "domain_name": "alfafarmers.org",
+            "destination": "Digital Ocean",
+            "date": "2026-06-04 16:02:57"
+        },
+        {
+            "domain_name": "www.egenanstallning.org",
+            "destination": "Hetzner Online",
+            "date": "2026-06-04 16:00:52"
+        },
+        {
+            "domain_name": "hbqualitytool.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-04 15:40:23"
+        },
         {
             "domain_name": "nysb.org",
             "destination": "Pressable",
@@ -465,41 +500,6 @@
             "domain_name": "techmedicsduluth.com",
             "destination": "Pressable",
             "date": "2026-06-03 13:12:07"
-        },
-        {
-            "domain_name": "talk-strategy.com",
-            "destination": "Bluehost",
-            "date": "2026-06-03 13:10:26"
-        },
-        {
-            "domain_name": "stratasfr.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-03 12:40:24"
-        },
-        {
-            "domain_name": "calverapartners.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-03 12:22:25"
-        },
-        {
-            "domain_name": "www.petermandi.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-03 12:12:39"
-        },
-        {
-            "domain_name": "garrettfarms.com",
-            "destination": "Kinsta",
-            "date": "2026-06-03 11:53:46"
-        },
-        {
-            "domain_name": "greatlakesalarm.com",
-            "destination": "Pressable",
-            "date": "2026-06-03 11:39:57"
-        },
-        {
-            "domain_name": "www.bakeru.edu",
-            "destination": "Digital Ocean",
-            "date": "2026-06-03 11:18:53"
         }
     ],
     "dailyMovedStat": {
@@ -1128,7 +1128,7 @@
     "topDestinationHosts": {
         "Pressable": 13677,
         "Kinsta": 10492,
-        "Digital Ocean": 6824,
+        "Digital Ocean": 6828,
         "SiteGround": 5724,
         "Hostinger": 5245,
         "Bluehost": 4636,
@@ -1144,7 +1144,7 @@
         "IONOS": 527,
         "DreamHost": 490,
         "A2 Hosting": 465,
-        "Hetzner Online": 441,
+        "Hetzner Online": 442,
         "HostGator": 326
     },
     "dailyTotalStat": {
