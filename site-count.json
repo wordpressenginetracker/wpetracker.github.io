@@ -1,6 +1,11 @@
 {
-    "siteCount": 148033,
+    "siteCount": 148037,
     "recentlyMoved": [
+        {
+            "domain_name": "expresselectricalservices.com",
+            "destination": "Kinsta",
+            "date": "2026-06-04 21:47:07"
+        },
         {
             "domain_name": "communitas-health.org",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "magazine.saconnects.org",
             "destination": "Pressable",
             "date": "2026-06-03 17:14:22"
-        },
-        {
-            "domain_name": "klussenmetgemak.nl",
-            "destination": "Hostinger",
-            "date": "2026-06-03 16:46:43"
         },
         {
             "domain_name": "youth.saconnects.org",
@@ -1127,7 +1127,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13681,
-        "Kinsta": 10499,
+        "Kinsta": 10500,
         "Digital Ocean": 6829,
         "SiteGround": 5724,
         "Hostinger": 5247,
