@@ -1,6 +1,11 @@
 {
-    "siteCount": 148037,
+    "siteCount": 148044,
     "recentlyMoved": [
+        {
+            "domain_name": "fivestarheating.com",
+            "destination": "Kinsta",
+            "date": "2026-06-04 23:41:43"
+        },
         {
             "domain_name": "expresselectricalservices.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "youth.saconnects.org",
             "destination": "Pressable",
             "date": "2026-06-03 16:45:50"
-        },
-        {
-            "domain_name": "southtexasshowdown.com",
-            "destination": "Kinsta",
-            "date": "2026-06-03 16:35:51"
         }
     ],
     "dailyMovedStat": {
@@ -1128,7 +1128,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13681,
-        "Kinsta": 10500,
+        "Kinsta": 10501,
         "Digital Ocean": 6829,
         "SiteGround": 5724,
         "Hostinger": 5247,
