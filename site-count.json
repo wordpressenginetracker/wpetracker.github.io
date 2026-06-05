@@ -1,5 +1,5 @@
 {
-    "siteCount": 148335,
+    "siteCount": 148340,
     "recentlyMoved": [
         {
             "domain_name": "threestickswines.com",
@@ -10,6 +10,11 @@
             "domain_name": "thirstmissions.org",
             "destination": "Kinsta",
             "date": "2026-06-05 21:14:21"
+        },
+        {
+            "domain_name": "midweekkauai.com",
+            "destination": "WordPress VIP",
+            "date": "2026-06-05 21:09:14"
         },
         {
             "domain_name": "crossbowgroup.com",
@@ -495,11 +500,6 @@
             "domain_name": "nysb.org",
             "destination": "Pressable",
             "date": "2026-06-04 14:04:07"
-        },
-        {
-            "domain_name": "totalresearchgroup.com",
-            "destination": "IONOS",
-            "date": "2026-06-04 13:49:40"
         }
     ],
     "dailyMovedStat": {
@@ -1128,7 +1128,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13695,
-        "Kinsta": 10521,
+        "Kinsta": 10523,
         "Digital Ocean": 6849,
         "SiteGround": 5724,
         "Hostinger": 5253,
