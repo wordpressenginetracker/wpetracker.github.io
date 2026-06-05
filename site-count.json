@@ -1,6 +1,11 @@
 {
-    "siteCount": 148057,
+    "siteCount": 148060,
     "recentlyMoved": [
+        {
+            "domain_name": "duplex.com.bo",
+            "destination": "Hostinger",
+            "date": "2026-06-05 01:22:00"
+        },
         {
             "domain_name": "dilleredangus.com",
             "destination": "Kinsta",
@@ -455,11 +460,6 @@
             "domain_name": "saconnects.org",
             "destination": "Pressable",
             "date": "2026-06-03 19:59:52"
-        },
-        {
-            "domain_name": "actioncoachiberoamerica.com",
-            "destination": "Hostinger",
-            "date": "2026-06-03 19:56:47"
         },
         {
             "domain_name": "salonblvd.com",
@@ -1131,7 +1131,7 @@
         "Kinsta": 10504,
         "Digital Ocean": 6829,
         "SiteGround": 5724,
-        "Hostinger": 5247,
+        "Hostinger": 5248,
         "Bluehost": 4637,
         "GoDaddy": 1742,
         "Liquid Web": 888,
