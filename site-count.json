@@ -1,6 +1,11 @@
 {
-    "siteCount": 148263,
+    "siteCount": 148271,
     "recentlyMoved": [
+        {
+            "domain_name": "mudrickzucker.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-05 17:51:59"
+        },
         {
             "domain_name": "thehawkeyegroup.com",
             "destination": "Pressable",
@@ -15,6 +20,11 @@
             "domain_name": "www.tennessee-glamping.com",
             "destination": "Kinsta",
             "date": "2026-06-05 17:20:55"
+        },
+        {
+            "domain_name": "nextstepfcu.org",
+            "destination": "Kinsta",
+            "date": "2026-06-05 17:11:39"
         },
         {
             "domain_name": "dsj.ch",
@@ -490,16 +500,6 @@
             "domain_name": "www.tastedesigninc.com",
             "destination": "Kinsta",
             "date": "2026-06-04 12:47:45"
-        },
-        {
-            "domain_name": "capitalglasscourtenay.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-04 12:32:55"
-        },
-        {
-            "domain_name": "blueantplus.com",
-            "destination": "Bluehost",
-            "date": "2026-06-04 12:10:34"
         }
     ],
     "dailyMovedStat": {
@@ -1128,8 +1128,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 13695,
-        "Kinsta": 10517,
-        "Digital Ocean": 6846,
+        "Kinsta": 10519,
+        "Digital Ocean": 6847,
         "SiteGround": 5724,
         "Hostinger": 5253,
         "Bluehost": 4637,
