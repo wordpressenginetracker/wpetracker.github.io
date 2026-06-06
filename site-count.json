@@ -1,6 +1,16 @@
 {
-    "siteCount": 148549,
+    "siteCount": 148556,
     "recentlyMoved": [
+        {
+            "domain_name": "evriaesthetics.com",
+            "destination": "GridPane",
+            "date": "2026-06-06 17:35:44"
+        },
+        {
+            "domain_name": "nerdtechdad.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-06 17:24:55"
+        },
         {
             "domain_name": "julianleaver.com",
             "destination": "BigScoots",
@@ -485,16 +495,6 @@
             "domain_name": "alkmaarsekaasfondue.nl",
             "destination": "Digital Ocean",
             "date": "2026-06-05 07:29:55"
-        },
-        {
-            "domain_name": "www.waterviewresort.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-05 05:23:06"
-        },
-        {
-            "domain_name": "www.waterama.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-05 05:23:06"
         },
         {
             "domain_name": "zeitagency.com",
@@ -1130,7 +1130,7 @@
     "topDestinationHosts": {
         "Pressable": 13712,
         "Kinsta": 10529,
-        "Digital Ocean": 6854,
+        "Digital Ocean": 6855,
         "SiteGround": 5724,
         "Hostinger": 5258,
         "Bluehost": 4637,
@@ -1138,7 +1138,7 @@
         "Liquid Web": 889,
         "BigScoots": 881,
         "WordPress.com": 712,
-        "GridPane": 697,
+        "GridPane": 698,
         "OVH": 680,
         "InMotion Hosting": 581,
         "Namecheap": 555,
