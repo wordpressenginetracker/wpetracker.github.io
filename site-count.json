@@ -1,6 +1,21 @@
 {
-    "siteCount": 148401,
+    "siteCount": 148413,
     "recentlyMoved": [
+        {
+            "domain_name": "cptaxpro.com",
+            "destination": "DreamHost",
+            "date": "2026-06-06 05:02:33"
+        },
+        {
+            "domain_name": "californiagymnasticsacademy.com",
+            "destination": "Kinsta",
+            "date": "2026-06-06 04:44:47"
+        },
+        {
+            "domain_name": "krelitehomes.com",
+            "destination": "DreamHost",
+            "date": "2026-06-06 04:30:03"
+        },
         {
             "domain_name": "www.marker-law.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "carolinapaintingcompany.com",
             "destination": "Bluehost",
             "date": "2026-06-04 16:27:54"
-        },
-        {
-            "domain_name": "joniscuts.com",
-            "destination": "DreamHost",
-            "date": "2026-06-04 16:17:03"
-        },
-        {
-            "domain_name": "brandflour.com",
-            "destination": "BigScoots",
-            "date": "2026-06-04 16:13:14"
-        },
-        {
-            "domain_name": "campaignforamericasfuture.org",
-            "destination": "Kinsta",
-            "date": "2026-06-04 16:11:07"
         }
     ],
     "dailyMovedStat": {
@@ -1129,7 +1129,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13698,
-        "Kinsta": 10524,
+        "Kinsta": 10525,
         "Digital Ocean": 6849,
         "SiteGround": 5724,
         "Hostinger": 5256,
@@ -1144,7 +1144,7 @@
         "Namecheap": 555,
         "Elementor Hosting": 550,
         "IONOS": 528,
-        "DreamHost": 493,
+        "DreamHost": 495,
         "A2 Hosting": 466,
         "Hetzner Online": 443,
         "HostGator": 326
