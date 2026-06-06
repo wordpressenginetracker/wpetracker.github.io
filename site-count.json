@@ -1,6 +1,11 @@
 {
-    "siteCount": 148413,
+    "siteCount": 148416,
     "recentlyMoved": [
+        {
+            "domain_name": "tuxedofirewood.com",
+            "destination": "DreamHost",
+            "date": "2026-06-06 05:09:41"
+        },
         {
             "domain_name": "cptaxpro.com",
             "destination": "DreamHost",
@@ -495,11 +500,6 @@
             "domain_name": "localyte.com",
             "destination": "Digital Ocean",
             "date": "2026-06-04 16:46:12"
-        },
-        {
-            "domain_name": "carolinapaintingcompany.com",
-            "destination": "Bluehost",
-            "date": "2026-06-04 16:27:54"
         }
     ],
     "dailyMovedStat": {
@@ -1144,7 +1144,7 @@
         "Namecheap": 555,
         "Elementor Hosting": 550,
         "IONOS": 528,
-        "DreamHost": 495,
+        "DreamHost": 496,
         "A2 Hosting": 466,
         "Hetzner Online": 443,
         "HostGator": 326
