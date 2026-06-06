@@ -1,6 +1,11 @@
 {
-    "siteCount": 148481,
+    "siteCount": 148486,
     "recentlyMoved": [
+        {
+            "domain_name": "motherwit.earth",
+            "destination": "Kinsta",
+            "date": "2026-06-06 13:34:38"
+        },
         {
             "domain_name": "www.rutlishfoundation.org.uk",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.naturalimageoc.com",
             "destination": "GridPane",
             "date": "2026-06-05 00:13:38"
-        },
-        {
-            "domain_name": "brokenboxranch.com",
-            "destination": "Kinsta",
-            "date": "2026-06-05 00:07:36"
         }
     ],
     "dailyMovedStat": {
@@ -1129,7 +1129,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13708,
-        "Kinsta": 10526,
+        "Kinsta": 10527,
         "Digital Ocean": 6852,
         "SiteGround": 5724,
         "Hostinger": 5258,
