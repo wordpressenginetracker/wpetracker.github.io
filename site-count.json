@@ -1,6 +1,26 @@
 {
-    "siteCount": 148647,
+    "siteCount": 148661,
     "recentlyMoved": [
+        {
+            "domain_name": "grupochronos.com",
+            "destination": "HostGator",
+            "date": "2026-06-07 00:21:05"
+        },
+        {
+            "domain_name": "beaconacademy.org",
+            "destination": "Elementor Hosting",
+            "date": "2026-06-07 00:12:51"
+        },
+        {
+            "domain_name": "bayviewbark.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-07 00:09:37"
+        },
+        {
+            "domain_name": "www.bottleunderground.org",
+            "destination": "Kinsta",
+            "date": "2026-06-06 23:45:29"
+        },
         {
             "domain_name": "www.rivkinradler.com",
             "destination": "Pressable",
@@ -477,29 +497,9 @@
             "date": "2026-06-05 11:20:39"
         },
         {
-            "domain_name": "www.trocknetsehrschnell.com",
-            "destination": "Hostinger",
-            "date": "2026-06-05 09:11:31"
-        },
-        {
             "domain_name": "eastcoastcraftsoda.ca",
             "destination": "Namecheap",
             "date": "2026-06-05 09:02:46"
-        },
-        {
-            "domain_name": "www.vassallogroupmalta.com",
-            "destination": "Pressable",
-            "date": "2026-06-05 09:01:10"
-        },
-        {
-            "domain_name": "lahautsurlacollinerestaurant.fr",
-            "destination": "Hostinger",
-            "date": "2026-06-05 08:35:09"
-        },
-        {
-            "domain_name": "www.psi-solutions.org",
-            "destination": "Kinsta",
-            "date": "2026-06-05 08:16:08"
         }
     ],
     "dailyMovedStat": {
@@ -1130,8 +1130,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 13714,
-        "Kinsta": 10530,
-        "Digital Ocean": 6858,
+        "Kinsta": 10531,
+        "Digital Ocean": 6859,
         "SiteGround": 5724,
         "Hostinger": 5259,
         "Bluehost": 4638,
@@ -1143,12 +1143,12 @@
         "OVH": 680,
         "InMotion Hosting": 581,
         "Namecheap": 555,
-        "Elementor Hosting": 550,
+        "Elementor Hosting": 551,
         "IONOS": 528,
         "DreamHost": 497,
         "A2 Hosting": 466,
         "Hetzner Online": 443,
-        "HostGator": 326
+        "HostGator": 327
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
