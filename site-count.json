@@ -1,5 +1,5 @@
 {
-    "siteCount": 148756,
+    "siteCount": 148759,
     "recentlyMoved": [
         {
             "domain_name": "majesticvalleyarena.com",
@@ -10,6 +10,11 @@
             "domain_name": "diespekerliving.com",
             "destination": "Pressable",
             "date": "2026-06-07 17:18:07"
+        },
+        {
+            "domain_name": "emmersive.us",
+            "destination": "Hostinger",
+            "date": "2026-06-07 17:02:37"
         },
         {
             "domain_name": "www.forbiddenislandalameda.com",
@@ -495,11 +500,6 @@
             "domain_name": "native-bees-of-georgia.ggc.edu",
             "destination": "OVH",
             "date": "2026-06-05 13:16:54"
-        },
-        {
-            "domain_name": "dhlab.ggc.edu",
-            "destination": "OVH",
-            "date": "2026-06-05 12:53:07"
         }
     ],
     "dailyMovedStat": {
@@ -1133,7 +1133,7 @@
         "Kinsta": 10542,
         "Digital Ocean": 6860,
         "SiteGround": 5724,
-        "Hostinger": 5260,
+        "Hostinger": 5261,
         "Bluehost": 4638,
         "GoDaddy": 1746,
         "Liquid Web": 890,
