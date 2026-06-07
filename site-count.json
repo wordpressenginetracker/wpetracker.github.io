@@ -1,6 +1,11 @@
 {
-    "siteCount": 148716,
+    "siteCount": 148721,
     "recentlyMoved": [
+        {
+            "domain_name": "wellnesswisecrm.com",
+            "destination": "Hostinger",
+            "date": "2026-06-07 13:50:50"
+        },
         {
             "domain_name": "soora.co.uk",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "brookewintersolicitors.com.au",
             "destination": "Kinsta",
             "date": "2026-06-05 12:03:51"
-        },
-        {
-            "domain_name": "www.classicpackagingcorp.com",
-            "destination": "Hostinger",
-            "date": "2026-06-05 11:44:40"
         }
     ],
     "dailyMovedStat": {
@@ -1133,7 +1133,7 @@
         "Kinsta": 10535,
         "Digital Ocean": 6859,
         "SiteGround": 5724,
-        "Hostinger": 5259,
+        "Hostinger": 5260,
         "Bluehost": 4638,
         "GoDaddy": 1745,
         "Liquid Web": 890,
