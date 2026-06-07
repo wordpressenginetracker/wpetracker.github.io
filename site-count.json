@@ -1,6 +1,16 @@
 {
-    "siteCount": 148667,
+    "siteCount": 148673,
     "recentlyMoved": [
+        {
+            "domain_name": "lennonlawyers.com.au",
+            "destination": "Namecheap",
+            "date": "2026-06-07 03:40:12"
+        },
+        {
+            "domain_name": "murphysfireplace.com",
+            "destination": "Kinsta",
+            "date": "2026-06-07 03:30:00"
+        },
         {
             "domain_name": "grupochronos.com",
             "destination": "HostGator",
@@ -490,16 +500,6 @@
             "domain_name": "fspg.ch",
             "destination": "Kinsta",
             "date": "2026-06-05 11:29:29"
-        },
-        {
-            "domain_name": "wunder-raum.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-05 11:20:39"
-        },
-        {
-            "domain_name": "eastcoastcraftsoda.ca",
-            "destination": "Namecheap",
-            "date": "2026-06-05 09:02:46"
         }
     ],
     "dailyMovedStat": {
@@ -1130,7 +1130,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13714,
-        "Kinsta": 10531,
+        "Kinsta": 10532,
         "Digital Ocean": 6859,
         "SiteGround": 5724,
         "Hostinger": 5259,
@@ -1142,7 +1142,7 @@
         "GridPane": 698,
         "OVH": 680,
         "InMotion Hosting": 581,
-        "Namecheap": 555,
+        "Namecheap": 556,
         "Elementor Hosting": 551,
         "IONOS": 528,
         "DreamHost": 497,
