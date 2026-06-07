@@ -1,6 +1,11 @@
 {
-    "siteCount": 148687,
+    "siteCount": 148705,
     "recentlyMoved": [
+        {
+            "domain_name": "anticapitalistresistance.org",
+            "destination": "Hetzner Online",
+            "date": "2026-06-07 11:33:26"
+        },
         {
             "domain_name": "lennonlawyers.com.au",
             "destination": "Namecheap",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "fspj.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-05 11:29:29"
-        },
-        {
-            "domain_name": "fspg.ch",
             "destination": "Kinsta",
             "date": "2026-06-05 11:29:29"
         }
@@ -1147,7 +1147,7 @@
         "IONOS": 528,
         "DreamHost": 497,
         "A2 Hosting": 466,
-        "Hetzner Online": 443,
+        "Hetzner Online": 444,
         "HostGator": 327
     },
     "dailyTotalStat": {
