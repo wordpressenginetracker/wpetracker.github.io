@@ -1,6 +1,21 @@
 {
-    "siteCount": 148705,
+    "siteCount": 148716,
     "recentlyMoved": [
+        {
+            "domain_name": "soora.co.uk",
+            "destination": "Pressable",
+            "date": "2026-06-07 12:44:11"
+        },
+        {
+            "domain_name": "www.nortec.com",
+            "destination": "Kinsta",
+            "date": "2026-06-07 12:26:43"
+        },
+        {
+            "domain_name": "www.meadowbrookdesign.com",
+            "destination": "Kinsta",
+            "date": "2026-06-07 12:20:41"
+        },
         {
             "domain_name": "anticapitalistresistance.org",
             "destination": "Hetzner Online",
@@ -482,24 +497,9 @@
             "date": "2026-06-05 12:03:51"
         },
         {
-            "domain_name": "amitabulvegan.com",
-            "destination": "Kinsta",
-            "date": "2026-06-05 12:01:01"
-        },
-        {
-            "domain_name": "www.lifeatvassallogroup.com",
-            "destination": "Pressable",
-            "date": "2026-06-05 11:48:42"
-        },
-        {
             "domain_name": "www.classicpackagingcorp.com",
             "destination": "Hostinger",
             "date": "2026-06-05 11:44:40"
-        },
-        {
-            "domain_name": "fspj.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-05 11:29:29"
         }
     ],
     "dailyMovedStat": {
@@ -1129,8 +1129,8 @@
         "2026-06-06": "148647"
     },
     "topDestinationHosts": {
-        "Pressable": 13714,
-        "Kinsta": 10533,
+        "Pressable": 13715,
+        "Kinsta": 10535,
         "Digital Ocean": 6859,
         "SiteGround": 5724,
         "Hostinger": 5259,
