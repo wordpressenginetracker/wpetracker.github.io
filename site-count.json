@@ -1,6 +1,16 @@
 {
-    "siteCount": 148898,
+    "siteCount": 148906,
     "recentlyMoved": [
+        {
+            "domain_name": "webfmd.com",
+            "destination": "DreamHost",
+            "date": "2026-06-08 17:50:46"
+        },
+        {
+            "domain_name": "egolessdiaries.com",
+            "destination": "DreamHost",
+            "date": "2026-06-08 17:31:22"
+        },
         {
             "domain_name": "diespeker.fr",
             "destination": "Pressable",
@@ -480,16 +490,6 @@
             "domain_name": "thehawkeyegroup.com",
             "destination": "Pressable",
             "date": "2026-06-05 17:36:59"
-        },
-        {
-            "domain_name": "www.visitnorthcentral.com",
-            "destination": "Kinsta",
-            "date": "2026-06-05 17:28:07"
-        },
-        {
-            "domain_name": "www.tennessee-glamping.com",
-            "destination": "Kinsta",
-            "date": "2026-06-05 17:20:55"
         },
         {
             "domain_name": "nextstepfcu.org",
@@ -1146,7 +1146,7 @@
         "Namecheap": 557,
         "Elementor Hosting": 551,
         "IONOS": 528,
-        "DreamHost": 497,
+        "DreamHost": 499,
         "A2 Hosting": 466,
         "Hetzner Online": 444,
         "HostGator": 327
