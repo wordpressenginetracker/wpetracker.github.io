@@ -1,6 +1,11 @@
 {
-    "siteCount": 148867,
+    "siteCount": 148872,
     "recentlyMoved": [
+        {
+            "domain_name": "www.toppcompany.com",
+            "destination": "Pressable",
+            "date": "2026-06-08 12:52:03"
+        },
         {
             "domain_name": "www.annholm.net",
             "destination": "SiteGround",
@@ -485,11 +490,6 @@
             "domain_name": "dsj.ch",
             "destination": "Kinsta",
             "date": "2026-06-05 17:06:43"
-        },
-        {
-            "domain_name": "www.montanamedialab.com",
-            "destination": "Pressable",
-            "date": "2026-06-05 16:57:34"
         },
         {
             "domain_name": "circlekfurniture.com",
@@ -1130,7 +1130,7 @@
         "2026-06-07": "148802"
     },
     "topDestinationHosts": {
-        "Pressable": 13719,
+        "Pressable": 13720,
         "Kinsta": 10542,
         "Digital Ocean": 6860,
         "SiteGround": 5725,
