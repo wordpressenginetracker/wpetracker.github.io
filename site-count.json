@@ -1,6 +1,16 @@
 {
-    "siteCount": 148986,
+    "siteCount": 148989,
     "recentlyMoved": [
+        {
+            "domain_name": "engineaction.com",
+            "destination": "Pressable",
+            "date": "2026-06-09 05:41:03"
+        },
+        {
+            "domain_name": "mindmission.io",
+            "destination": "Hetzner Online",
+            "date": "2026-06-09 05:38:37"
+        },
         {
             "domain_name": "cosmeticsurgeryqld.com.au",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2026-06-06 04:30:03"
         },
         {
-            "domain_name": "www.marker-law.com",
-            "destination": "Hostinger",
-            "date": "2026-06-06 03:46:20"
-        },
-        {
             "domain_name": "heliumservices.com",
             "destination": "DreamHost",
             "date": "2026-06-06 03:36:22"
-        },
-        {
-            "domain_name": "sterlingrand.com",
-            "destination": "Pressable",
-            "date": "2026-06-06 01:04:09"
         }
     ],
     "dailyMovedStat": {
@@ -1131,7 +1131,7 @@
         "2026-06-08": "148946"
     },
     "topDestinationHosts": {
-        "Pressable": 13732,
+        "Pressable": 13733,
         "Kinsta": 10542,
         "Digital Ocean": 6864,
         "SiteGround": 5725,
@@ -1149,7 +1149,7 @@
         "IONOS": 529,
         "DreamHost": 501,
         "A2 Hosting": 466,
-        "Hetzner Online": 444,
+        "Hetzner Online": 445,
         "HostGator": 327
     },
     "dailyTotalStat": {
