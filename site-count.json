@@ -1,6 +1,11 @@
 {
-    "siteCount": 148959,
+    "siteCount": 148964,
     "recentlyMoved": [
+        {
+            "domain_name": "virtuallycalmus.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-09 01:38:08"
+        },
         {
             "domain_name": "mecox.com",
             "destination": "IONOS",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "birthcontrolpharmacist.com",
-            "destination": "Kinsta",
-            "date": "2026-06-05 20:09:23"
-        },
-        {
-            "domain_name": "birthcontrolpharmacies.com",
             "destination": "Kinsta",
             "date": "2026-06-05 20:09:23"
         }
@@ -1133,7 +1133,7 @@
     "topDestinationHosts": {
         "Pressable": 13724,
         "Kinsta": 10542,
-        "Digital Ocean": 6862,
+        "Digital Ocean": 6863,
         "SiteGround": 5725,
         "Hostinger": 5267,
         "Bluehost": 4638,
@@ -1146,7 +1146,7 @@
         "InMotion Hosting": 581,
         "Namecheap": 557,
         "Elementor Hosting": 551,
-        "IONOS": 528,
+        "IONOS": 529,
         "DreamHost": 501,
         "A2 Hosting": 466,
         "Hetzner Online": 444,
