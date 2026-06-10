@@ -1,6 +1,21 @@
 {
-    "siteCount": 149464,
+    "siteCount": 149480,
     "recentlyMoved": [
+        {
+            "domain_name": "metrolittlerockalliance.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-10 21:39:16"
+        },
+        {
+            "domain_name": "www.roxmulti.org",
+            "destination": "Kinsta",
+            "date": "2026-06-10 20:41:58"
+        },
+        {
+            "domain_name": "www.qldbottlers.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 20:27:00"
+        },
         {
             "domain_name": "renshawsfuneralservices.com.au",
             "destination": "Kinsta",
@@ -462,11 +477,6 @@
             "date": "2026-06-09 16:51:27"
         },
         {
-            "domain_name": "ies365.com",
-            "destination": "OVH",
-            "date": "2026-06-09 16:43:05"
-        },
-        {
             "domain_name": "stonesteel.net",
             "destination": "GoDaddy",
             "date": "2026-06-09 16:37:42"
@@ -475,11 +485,6 @@
             "domain_name": "www.spark-point.com",
             "destination": "Pressable",
             "date": "2026-06-09 16:26:32"
-        },
-        {
-            "domain_name": "hiddenfromthenet.com",
-            "destination": "IONOS",
-            "date": "2026-06-09 16:18:55"
         },
         {
             "domain_name": "bookyourbillboard.com",
@@ -495,11 +500,6 @@
             "domain_name": "rwacenter.com",
             "destination": "GoDaddy",
             "date": "2026-06-09 15:59:14"
-        },
-        {
-            "domain_name": "honads.com",
-            "destination": "WordPress VIP",
-            "date": "2026-06-09 15:50:01"
         }
     ],
     "dailyMovedStat": {
@@ -1132,8 +1132,8 @@
         "2026-06-09": "149212"
     },
     "topDestinationHosts": {
-        "Pressable": 13779,
-        "Kinsta": 10567,
+        "Pressable": 13780,
+        "Kinsta": 10568,
         "Digital Ocean": 6875,
         "SiteGround": 5726,
         "Hostinger": 5282,
