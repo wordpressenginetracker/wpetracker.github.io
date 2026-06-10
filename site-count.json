@@ -1,6 +1,31 @@
 {
-    "siteCount": 149355,
+    "siteCount": 149383,
     "recentlyMoved": [
+        {
+            "domain_name": "hytera-dealer-content-portal.com",
+            "destination": "DreamHost",
+            "date": "2026-06-10 16:37:25"
+        },
+        {
+            "domain_name": "infusion5.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-10 16:23:38"
+        },
+        {
+            "domain_name": "foodbanksj.org",
+            "destination": "Kinsta",
+            "date": "2026-06-10 15:54:41"
+        },
+        {
+            "domain_name": "grabngrowsoil.com",
+            "destination": "Pressable",
+            "date": "2026-06-10 15:44:49"
+        },
+        {
+            "domain_name": "airsource1.net",
+            "destination": "Kinsta",
+            "date": "2026-06-10 15:43:51"
+        },
         {
             "domain_name": "northcountybounty.com",
             "destination": "Pressable",
@@ -467,34 +492,9 @@
             "date": "2026-06-09 12:53:15"
         },
         {
-            "domain_name": "www.progressivedentalmarketing.com",
-            "destination": "Kinsta",
-            "date": "2026-06-09 12:18:31"
-        },
-        {
-            "domain_name": "anumedicalspa.com",
-            "destination": "Kinsta",
-            "date": "2026-06-09 12:04:00"
-        },
-        {
             "domain_name": "www.founderfriendsofnewwimbledontheatre.co.uk",
             "destination": "Pressable",
             "date": "2026-06-09 12:03:53"
-        },
-        {
-            "domain_name": "www.equicise.co.uk",
-            "destination": "Pressable",
-            "date": "2026-06-09 12:00:43"
-        },
-        {
-            "domain_name": "groundedwellness.co",
-            "destination": "Digital Ocean",
-            "date": "2026-06-09 11:54:15"
-        },
-        {
-            "domain_name": "awakenlv.org",
-            "destination": "Hostinger",
-            "date": "2026-06-09 11:47:32"
         },
         {
             "domain_name": "bappharma.com",
@@ -1132,9 +1132,9 @@
         "2026-06-09": "149212"
     },
     "topDestinationHosts": {
-        "Pressable": 13776,
-        "Kinsta": 10558,
-        "Digital Ocean": 6873,
+        "Pressable": 13777,
+        "Kinsta": 10560,
+        "Digital Ocean": 6874,
         "SiteGround": 5726,
         "Hostinger": 5281,
         "Bluehost": 4643,
@@ -1148,7 +1148,7 @@
         "Namecheap": 559,
         "Elementor Hosting": 552,
         "IONOS": 530,
-        "DreamHost": 503,
+        "DreamHost": 504,
         "A2 Hosting": 466,
         "Hetzner Online": 446,
         "HostGator": 327
