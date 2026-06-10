@@ -1,6 +1,11 @@
 {
-    "siteCount": 149278,
+    "siteCount": 149289,
     "recentlyMoved": [
+        {
+            "domain_name": "pro.naturopathicpediatrics.com",
+            "destination": "Pressable",
+            "date": "2026-06-10 08:23:58"
+        },
         {
             "domain_name": "mysakrealty.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "webfmd.com",
             "destination": "DreamHost",
             "date": "2026-06-08 17:50:46"
-        },
-        {
-            "domain_name": "egolessdiaries.com",
-            "destination": "DreamHost",
-            "date": "2026-06-08 17:31:22"
         }
     ],
     "dailyMovedStat": {
@@ -1132,7 +1132,7 @@
         "2026-06-09": "149212"
     },
     "topDestinationHosts": {
-        "Pressable": 13769,
+        "Pressable": 13770,
         "Kinsta": 10552,
         "Digital Ocean": 6869,
         "SiteGround": 5725,
@@ -1140,7 +1140,7 @@
         "Bluehost": 4642,
         "GoDaddy": 1751,
         "Liquid Web": 890,
-        "BigScoots": 882,
+        "BigScoots": 883,
         "WordPress.com": 715,
         "GridPane": 699,
         "OVH": 682,
