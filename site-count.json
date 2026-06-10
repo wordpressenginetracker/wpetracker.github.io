@@ -1,6 +1,21 @@
 {
-    "siteCount": 149264,
+    "siteCount": 149273,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ruralresources.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:55:32"
+        },
+        {
+            "domain_name": "surftocity.com",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:42:20"
+        },
+        {
+            "domain_name": "www.redmo.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:41:49"
+        },
         {
             "domain_name": "www.heartwood.net.au",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "diespeker.fr",
             "destination": "Pressable",
             "date": "2026-06-08 16:58:49"
-        },
-        {
-            "domain_name": "diespeker.de",
-            "destination": "Pressable",
-            "date": "2026-06-08 16:58:49"
-        },
-        {
-            "domain_name": "www.toppcompany.com",
-            "destination": "Pressable",
-            "date": "2026-06-08 12:52:03"
-        },
-        {
-            "domain_name": "www.annholm.net",
-            "destination": "SiteGround",
-            "date": "2026-06-08 07:31:11"
         }
     ],
     "dailyMovedStat": {
@@ -1132,7 +1132,7 @@
         "2026-06-09": "149212"
     },
     "topDestinationHosts": {
-        "Pressable": 13765,
+        "Pressable": 13769,
         "Kinsta": 10552,
         "Digital Ocean": 6869,
         "SiteGround": 5725,
