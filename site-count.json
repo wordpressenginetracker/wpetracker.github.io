@@ -1,6 +1,11 @@
 {
-    "siteCount": 149273,
+    "siteCount": 149278,
     "recentlyMoved": [
+        {
+            "domain_name": "mysakrealty.com",
+            "destination": "Bluehost",
+            "date": "2026-06-10 05:59:27"
+        },
         {
             "domain_name": "www.ruralresources.com.au",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "egolessdiaries.com",
             "destination": "DreamHost",
             "date": "2026-06-08 17:31:22"
-        },
-        {
-            "domain_name": "diespeker.fr",
-            "destination": "Pressable",
-            "date": "2026-06-08 16:58:49"
         }
     ],
     "dailyMovedStat": {
@@ -1137,7 +1137,7 @@
         "Digital Ocean": 6869,
         "SiteGround": 5725,
         "Hostinger": 5276,
-        "Bluehost": 4641,
+        "Bluehost": 4642,
         "GoDaddy": 1751,
         "Liquid Web": 890,
         "BigScoots": 882,
