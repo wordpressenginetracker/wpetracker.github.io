@@ -1,6 +1,31 @@
 {
-    "siteCount": 149254,
+    "siteCount": 149264,
     "recentlyMoved": [
+        {
+            "domain_name": "www.heartwood.net.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:25:20"
+        },
+        {
+            "domain_name": "www.insightbuildinginspections.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:13:16"
+        },
+        {
+            "domain_name": "reynoldsplumbing.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 04:11:35"
+        },
+        {
+            "domain_name": "roadbikerescue.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-10 03:56:25"
+        },
+        {
+            "domain_name": "gboverlandpark.com",
+            "destination": "Hostinger",
+            "date": "2026-06-10 03:15:08"
+        },
         {
             "domain_name": "suncoastroadmarking.com.au",
             "destination": "Pressable",
@@ -475,31 +500,6 @@
             "domain_name": "www.annholm.net",
             "destination": "SiteGround",
             "date": "2026-06-08 07:31:11"
-        },
-        {
-            "domain_name": "americastruckrvwash.com",
-            "destination": "Hostinger",
-            "date": "2026-06-08 04:13:34"
-        },
-        {
-            "domain_name": "garycrumpler.com",
-            "destination": "Hostinger",
-            "date": "2026-06-08 03:24:37"
-        },
-        {
-            "domain_name": "turnthecircle.com",
-            "destination": "Hostinger",
-            "date": "2026-06-08 01:42:41"
-        },
-        {
-            "domain_name": "brokengroundpermaculture.com",
-            "destination": "Namecheap",
-            "date": "2026-06-08 00:18:42"
-        },
-        {
-            "domain_name": "jemcoreglazers.com",
-            "destination": "Hostinger",
-            "date": "2026-06-08 00:09:42"
         }
     ],
     "dailyMovedStat": {
@@ -1132,11 +1132,11 @@
         "2026-06-09": "149212"
     },
     "topDestinationHosts": {
-        "Pressable": 13762,
+        "Pressable": 13765,
         "Kinsta": 10552,
         "Digital Ocean": 6869,
         "SiteGround": 5725,
-        "Hostinger": 5275,
+        "Hostinger": 5276,
         "Bluehost": 4641,
         "GoDaddy": 1751,
         "Liquid Web": 890,
