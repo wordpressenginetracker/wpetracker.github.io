@@ -1,10 +1,25 @@
 {
-    "siteCount": 149702,
+    "siteCount": 149715,
     "recentlyMoved": [
+        {
+            "domain_name": "edisonlandscapelighting.com",
+            "destination": "A2 Hosting",
+            "date": "2026-06-11 17:50:06"
+        },
         {
             "domain_name": "tninspro.com",
             "destination": "Pressable",
             "date": "2026-06-11 17:49:07"
+        },
+        {
+            "domain_name": "njsme.org",
+            "destination": "Kinsta",
+            "date": "2026-06-11 17:24:42"
+        },
+        {
+            "domain_name": "tv.cottagelife.com",
+            "destination": "Bluehost",
+            "date": "2026-06-11 17:16:49"
         },
         {
             "domain_name": "theerwinlawfirm.com",
@@ -485,21 +500,6 @@
             "domain_name": "airsource1.net",
             "destination": "Kinsta",
             "date": "2026-06-10 15:43:51"
-        },
-        {
-            "domain_name": "northcountybounty.com",
-            "destination": "Pressable",
-            "date": "2026-06-10 14:08:01"
-        },
-        {
-            "domain_name": "oakmanresidences.com.au",
-            "destination": "Namecheap",
-            "date": "2026-06-10 13:51:51"
-        },
-        {
-            "domain_name": "njaslaconference.com",
-            "destination": "Kinsta",
-            "date": "2026-06-10 13:38:29"
         }
     ],
     "dailyMovedStat": {
@@ -1133,12 +1133,12 @@
         "2026-06-10": "149482"
     },
     "topDestinationHosts": {
-        "Pressable": 13800,
-        "Kinsta": 10590,
+        "Pressable": 13801,
+        "Kinsta": 10591,
         "Digital Ocean": 6883,
         "SiteGround": 5726,
         "Hostinger": 5294,
-        "Bluehost": 4648,
+        "Bluehost": 4649,
         "GoDaddy": 1754,
         "Liquid Web": 890,
         "BigScoots": 884,
@@ -1150,7 +1150,7 @@
         "Elementor Hosting": 553,
         "IONOS": 532,
         "DreamHost": 506,
-        "A2 Hosting": 466,
+        "A2 Hosting": 467,
         "Hetzner Online": 446,
         "HostGator": 327
     },
