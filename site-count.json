@@ -1,6 +1,31 @@
 {
-    "siteCount": 149563,
+    "siteCount": 149585,
     "recentlyMoved": [
+        {
+            "domain_name": "riversideservco.com",
+            "destination": "Pressable",
+            "date": "2026-06-11 12:36:29"
+        },
+        {
+            "domain_name": "www.dyna-mist.com",
+            "destination": "Pressable",
+            "date": "2026-06-11 12:08:34"
+        },
+        {
+            "domain_name": "www.bayareaescrow.com",
+            "destination": "Kinsta",
+            "date": "2026-06-11 12:07:04"
+        },
+        {
+            "domain_name": "groundspro.com",
+            "destination": "Pressable",
+            "date": "2026-06-11 11:47:18"
+        },
+        {
+            "domain_name": "rafaelsgardens.com",
+            "destination": "Kinsta",
+            "date": "2026-06-11 11:34:59"
+        },
         {
             "domain_name": "cottagelifephotocontest.com",
             "destination": "Bluehost",
@@ -472,34 +497,9 @@
             "date": "2026-06-09 23:45:56"
         },
         {
-            "domain_name": "5oaks.farm",
-            "destination": "Kinsta",
-            "date": "2026-06-09 23:38:03"
-        },
-        {
             "domain_name": "girringunartcentre.com",
             "destination": "WordPress.com",
             "date": "2026-06-09 23:28:16"
-        },
-        {
-            "domain_name": "gardenmaintenance.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-09 23:22:58"
-        },
-        {
-            "domain_name": "theproduct.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-09 21:28:02"
-        },
-        {
-            "domain_name": "yippa.com",
-            "destination": "Kinsta",
-            "date": "2026-06-09 21:21:04"
-        },
-        {
-            "domain_name": "thegumsanchorage.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-09 20:42:41"
         }
     ],
     "dailyMovedStat": {
@@ -1133,8 +1133,8 @@
         "2026-06-10": "149482"
     },
     "topDestinationHosts": {
-        "Pressable": 13785,
-        "Kinsta": 10572,
+        "Pressable": 13788,
+        "Kinsta": 10574,
         "Digital Ocean": 6878,
         "SiteGround": 5726,
         "Hostinger": 5282,
