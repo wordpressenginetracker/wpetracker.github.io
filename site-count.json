@@ -1,6 +1,16 @@
 {
-    "siteCount": 149829,
+    "siteCount": 149840,
     "recentlyMoved": [
+        {
+            "domain_name": "combinedminds.stem4.org.uk",
+            "destination": "Pressable",
+            "date": "2026-06-12 05:03:49"
+        },
+        {
+            "domain_name": "www.swanepoel.com",
+            "destination": "Hostinger",
+            "date": "2026-06-12 04:38:48"
+        },
         {
             "domain_name": "ohssafetyadvisor.com.au",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2026-06-11 08:33:29"
         },
         {
-            "domain_name": "www.harriswatermainandsewers.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-06-11 08:33:01"
-        },
-        {
             "domain_name": "scottishlabour.org.uk",
             "destination": "Kinsta",
             "date": "2026-06-11 08:23:32"
-        },
-        {
-            "domain_name": "mammothmechanicaltc.com",
-            "destination": "Pressable",
-            "date": "2026-06-11 05:21:47"
         }
     ],
     "dailyMovedStat": {
@@ -1134,11 +1134,11 @@
         "2026-06-11": "149797"
     },
     "topDestinationHosts": {
-        "Pressable": 13809,
+        "Pressable": 13810,
         "Kinsta": 10603,
         "Digital Ocean": 6892,
         "SiteGround": 5726,
-        "Hostinger": 5294,
+        "Hostinger": 5295,
         "Bluehost": 4650,
         "GoDaddy": 1755,
         "Liquid Web": 890,
