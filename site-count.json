@@ -1,6 +1,41 @@
 {
-    "siteCount": 150037,
+    "siteCount": 150052,
     "recentlyMoved": [
+        {
+            "domain_name": "mogamd.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 21:47:22"
+        },
+        {
+            "domain_name": "www.vancouvereyecare.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 20:57:30"
+        },
+        {
+            "domain_name": "copefirm.com",
+            "destination": "Pressable",
+            "date": "2026-06-12 20:52:00"
+        },
+        {
+            "domain_name": "clearlymd.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 20:41:05"
+        },
+        {
+            "domain_name": "cleanful.ca",
+            "destination": "Namecheap",
+            "date": "2026-06-12 20:41:05"
+        },
+        {
+            "domain_name": "www.njpsi.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 20:32:04"
+        },
+        {
+            "domain_name": "www.lowannabeachresort.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-12 20:12:05"
+        },
         {
             "domain_name": "groundworkusa.org",
             "destination": "Kinsta",
@@ -457,49 +492,14 @@
             "date": "2026-06-11 16:41:50"
         },
         {
-            "domain_name": "bgoodpresents.com",
-            "destination": "Hostinger",
-            "date": "2026-06-11 16:40:46"
-        },
-        {
-            "domain_name": "kevinmichaelreed.com",
-            "destination": "Bluehost",
-            "date": "2026-06-11 16:40:43"
-        },
-        {
-            "domain_name": "shawplumbing.com",
-            "destination": "Hostinger",
-            "date": "2026-06-11 16:39:07"
-        },
-        {
             "domain_name": "lovewaterphoto.com",
             "destination": "Bluehost",
             "date": "2026-06-11 16:37:57"
         },
         {
-            "domain_name": "bransonpodcastnetwork.com",
-            "destination": "Hostinger",
-            "date": "2026-06-11 16:30:14"
-        },
-        {
             "domain_name": "chelanvogue.com",
             "destination": "Hostinger",
             "date": "2026-06-11 16:23:10"
-        },
-        {
-            "domain_name": "joeharrisbasketball.com",
-            "destination": "Hostinger",
-            "date": "2026-06-11 16:05:46"
-        },
-        {
-            "domain_name": "biotalandscapes.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-06-11 15:51:24"
-        },
-        {
-            "domain_name": "hostofinancial.com",
-            "destination": "Pressable",
-            "date": "2026-06-11 15:48:10"
         }
     ],
     "dailyMovedStat": {
@@ -1134,8 +1134,8 @@
         "2026-06-11": "149797"
     },
     "topDestinationHosts": {
-        "Pressable": 13816,
-        "Kinsta": 10621,
+        "Pressable": 13818,
+        "Kinsta": 10624,
         "Digital Ocean": 6897,
         "SiteGround": 5726,
         "Hostinger": 5298,
@@ -1147,7 +1147,7 @@
         "GridPane": 701,
         "OVH": 683,
         "InMotion Hosting": 582,
-        "Namecheap": 562,
+        "Namecheap": 563,
         "Elementor Hosting": 553,
         "IONOS": 533,
         "DreamHost": 507,
