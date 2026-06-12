@@ -1,10 +1,15 @@
 {
-    "siteCount": 149976,
+    "siteCount": 149985,
     "recentlyMoved": [
         {
             "domain_name": "thebusinessyogi.com",
             "destination": "HostGator",
             "date": "2026-06-12 17:24:22"
+        },
+        {
+            "domain_name": "msmfm.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 17:09:38"
         },
         {
             "domain_name": "www.rotarycolumbiamo.org",
@@ -485,11 +490,6 @@
             "domain_name": "joeharrisbasketball.com",
             "destination": "Hostinger",
             "date": "2026-06-11 16:05:46"
-        },
-        {
-            "domain_name": "powellbrothersquincy.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-11 15:56:09"
         },
         {
             "domain_name": "biotalandscapes.com",
@@ -1135,7 +1135,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13815,
-        "Kinsta": 10617,
+        "Kinsta": 10618,
         "Digital Ocean": 6896,
         "SiteGround": 5726,
         "Hostinger": 5298,
@@ -1143,7 +1143,7 @@
         "GoDaddy": 1755,
         "Liquid Web": 891,
         "BigScoots": 887,
-        "WordPress.com": 720,
+        "WordPress.com": 721,
         "GridPane": 701,
         "OVH": 683,
         "InMotion Hosting": 582,
