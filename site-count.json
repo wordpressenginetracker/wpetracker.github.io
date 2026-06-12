@@ -1,5 +1,5 @@
 {
-    "siteCount": 150052,
+    "siteCount": 150057,
     "recentlyMoved": [
         {
             "domain_name": "mogamd.com",
@@ -10,6 +10,11 @@
             "domain_name": "www.vancouvereyecare.com",
             "destination": "Kinsta",
             "date": "2026-06-12 20:57:30"
+        },
+        {
+            "domain_name": "mothlight.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2026-06-12 20:57:05"
         },
         {
             "domain_name": "copefirm.com",
@@ -495,11 +500,6 @@
             "domain_name": "lovewaterphoto.com",
             "destination": "Bluehost",
             "date": "2026-06-11 16:37:57"
-        },
-        {
-            "domain_name": "chelanvogue.com",
-            "destination": "Hostinger",
-            "date": "2026-06-11 16:23:10"
         }
     ],
     "dailyMovedStat": {
@@ -1135,8 +1135,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 13818,
-        "Kinsta": 10624,
-        "Digital Ocean": 6897,
+        "Kinsta": 10625,
+        "Digital Ocean": 6898,
         "SiteGround": 5726,
         "Hostinger": 5298,
         "Bluehost": 4653,
