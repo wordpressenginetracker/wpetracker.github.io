@@ -1,6 +1,16 @@
 {
-    "siteCount": 149808,
+    "siteCount": 149818,
     "recentlyMoved": [
+        {
+            "domain_name": "www.normansauctions.com",
+            "destination": "Pressable",
+            "date": "2026-06-12 00:51:11"
+        },
+        {
+            "domain_name": "www.tritonair.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 00:32:46"
+        },
         {
             "domain_name": "healthscripts.com",
             "destination": "GoDaddy",
@@ -490,16 +500,6 @@
             "domain_name": "stevenkawasumi.ai",
             "destination": "Namecheap",
             "date": "2026-06-11 05:14:54"
-        },
-        {
-            "domain_name": "leannewatson.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-11 05:13:01"
-        },
-        {
-            "domain_name": "metalworkshail.com",
-            "destination": "WordPress.com",
-            "date": "2026-06-11 01:03:53"
         }
     ],
     "dailyMovedStat": {
@@ -1134,8 +1134,8 @@
         "2026-06-11": "149797"
     },
     "topDestinationHosts": {
-        "Pressable": 13807,
-        "Kinsta": 10602,
+        "Pressable": 13808,
+        "Kinsta": 10603,
         "Digital Ocean": 6892,
         "SiteGround": 5726,
         "Hostinger": 5294,
