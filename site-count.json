@@ -1,6 +1,11 @@
 {
-    "siteCount": 149818,
+    "siteCount": 149821,
     "recentlyMoved": [
+        {
+            "domain_name": "ohssafetyadvisor.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-12 01:51:48"
+        },
         {
             "domain_name": "www.normansauctions.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "mammothmechanicaltc.com",
             "destination": "Pressable",
             "date": "2026-06-11 05:21:47"
-        },
-        {
-            "domain_name": "stevenkawasumi.ai",
-            "destination": "Namecheap",
-            "date": "2026-06-11 05:14:54"
         }
     ],
     "dailyMovedStat": {
@@ -1134,7 +1134,7 @@
         "2026-06-11": "149797"
     },
     "topDestinationHosts": {
-        "Pressable": 13808,
+        "Pressable": 13809,
         "Kinsta": 10603,
         "Digital Ocean": 6892,
         "SiteGround": 5726,
