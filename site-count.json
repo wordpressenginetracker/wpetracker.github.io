@@ -1,6 +1,41 @@
 {
-    "siteCount": 149797,
+    "siteCount": 149808,
     "recentlyMoved": [
+        {
+            "domain_name": "healthscripts.com",
+            "destination": "GoDaddy",
+            "date": "2026-06-12 00:17:51"
+        },
+        {
+            "domain_name": "airamericaac.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 00:09:20"
+        },
+        {
+            "domain_name": "ba-hvac.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 00:01:56"
+        },
+        {
+            "domain_name": "pipewerxqld.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-11 23:55:56"
+        },
+        {
+            "domain_name": "blakesleeandson.com",
+            "destination": "Kinsta",
+            "date": "2026-06-11 23:47:12"
+        },
+        {
+            "domain_name": "www.airtechofpasadena.com",
+            "destination": "Kinsta",
+            "date": "2026-06-11 23:30:34"
+        },
+        {
+            "domain_name": "www.attackstylewrestling.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-11 23:11:07"
+        },
         {
             "domain_name": "update.managedclientservice.com",
             "destination": "Digital Ocean",
@@ -462,44 +497,9 @@
             "date": "2026-06-11 05:13:01"
         },
         {
-            "domain_name": "teriehrlich.com",
-            "destination": "DreamHost",
-            "date": "2026-06-11 01:13:13"
-        },
-        {
             "domain_name": "metalworkshail.com",
             "destination": "WordPress.com",
             "date": "2026-06-11 01:03:53"
-        },
-        {
-            "domain_name": "theksateam.com",
-            "destination": "DreamHost",
-            "date": "2026-06-11 01:03:19"
-        },
-        {
-            "domain_name": "strudwickpropertyagents.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-11 00:50:40"
-        },
-        {
-            "domain_name": "sterlingscreenprinting.com",
-            "destination": "Bluehost",
-            "date": "2026-06-11 00:50:38"
-        },
-        {
-            "domain_name": "seokorea.org",
-            "destination": "WordPress.com",
-            "date": "2026-06-11 00:48:17"
-        },
-        {
-            "domain_name": "specialtypolymers.indoramaventures.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-11 00:41:26"
-        },
-        {
-            "domain_name": "metrolittlerockalliance.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-10 21:39:16"
         }
     ],
     "dailyMovedStat": {
@@ -1134,13 +1134,13 @@
         "2026-06-11": "149797"
     },
     "topDestinationHosts": {
-        "Pressable": 13806,
-        "Kinsta": 10598,
-        "Digital Ocean": 6891,
+        "Pressable": 13807,
+        "Kinsta": 10602,
+        "Digital Ocean": 6892,
         "SiteGround": 5726,
         "Hostinger": 5294,
         "Bluehost": 4650,
-        "GoDaddy": 1754,
+        "GoDaddy": 1755,
         "Liquid Web": 890,
         "BigScoots": 884,
         "WordPress.com": 719,
