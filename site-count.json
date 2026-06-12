@@ -1,6 +1,11 @@
 {
-    "siteCount": 149916,
+    "siteCount": 149922,
     "recentlyMoved": [
+        {
+            "domain_name": "njhla.com",
+            "destination": "Kinsta",
+            "date": "2026-06-12 13:37:16"
+        },
         {
             "domain_name": "thomasjwalter.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "crowconstruction.net",
             "destination": "Hostinger",
             "date": "2026-06-11 13:03:29"
-        },
-        {
-            "domain_name": "complyradar.com",
-            "destination": "Kinsta",
-            "date": "2026-06-11 12:37:45"
         }
     ],
     "dailyMovedStat": {
@@ -1135,7 +1135,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13812,
-        "Kinsta": 10610,
+        "Kinsta": 10612,
         "Digital Ocean": 6894,
         "SiteGround": 5726,
         "Hostinger": 5296,
