@@ -1,6 +1,11 @@
 {
-    "siteCount": 149840,
+    "siteCount": 149845,
     "recentlyMoved": [
+        {
+            "domain_name": "tiny-houses.de",
+            "destination": "Hetzner Online",
+            "date": "2026-06-12 05:30:14"
+        },
         {
             "domain_name": "combinedminds.stem4.org.uk",
             "destination": "Pressable",
@@ -475,11 +480,6 @@
             "domain_name": "step-inc.com",
             "destination": "Kinsta",
             "date": "2026-06-11 08:52:08"
-        },
-        {
-            "domain_name": "www.itcmarkets.com",
-            "destination": "Pressable",
-            "date": "2026-06-11 08:37:53"
         },
         {
             "domain_name": "www.nordicnutritionist.com",
@@ -1152,7 +1152,7 @@
         "IONOS": 532,
         "DreamHost": 506,
         "A2 Hosting": 467,
-        "Hetzner Online": 446,
+        "Hetzner Online": 447,
         "HostGator": 327
     },
     "dailyTotalStat": {
