@@ -1,6 +1,16 @@
 {
-    "siteCount": 149845,
+    "siteCount": 149855,
     "recentlyMoved": [
+        {
+            "domain_name": "investors.tekmar.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-06-12 08:43:31"
+        },
+        {
+            "domain_name": "greatwhitemedia.agency",
+            "destination": "Bluehost",
+            "date": "2026-06-12 07:34:50"
+        },
         {
             "domain_name": "tiny-houses.de",
             "destination": "Hetzner Online",
@@ -490,16 +500,6 @@
             "domain_name": "www.theirishsweep.com",
             "destination": "Kinsta",
             "date": "2026-06-11 08:36:15"
-        },
-        {
-            "domain_name": "bluefoxadvisors.com",
-            "destination": "Kinsta",
-            "date": "2026-06-11 08:33:29"
-        },
-        {
-            "domain_name": "scottishlabour.org.uk",
-            "destination": "Kinsta",
-            "date": "2026-06-11 08:23:32"
         }
     ],
     "dailyMovedStat": {
@@ -1139,7 +1139,7 @@
         "Digital Ocean": 6892,
         "SiteGround": 5726,
         "Hostinger": 5295,
-        "Bluehost": 4650,
+        "Bluehost": 4651,
         "GoDaddy": 1755,
         "Liquid Web": 890,
         "BigScoots": 884,
