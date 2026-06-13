@@ -1,10 +1,35 @@
 {
-    "siteCount": 150135,
+    "siteCount": 150145,
     "recentlyMoved": [
+        {
+            "domain_name": "theundergroundsydney.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-13 05:09:37"
+        },
+        {
+            "domain_name": "www.perceptionsystem.com",
+            "destination": "HostGator",
+            "date": "2026-06-13 04:57:39"
+        },
+        {
+            "domain_name": "theloftonbroadway.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-13 04:56:22"
+        },
         {
             "domain_name": "www.drivingwell.com.au",
             "destination": "Kinsta",
             "date": "2026-06-13 04:26:56"
+        },
+        {
+            "domain_name": "www.newmansappliance.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-13 04:10:41"
+        },
+        {
+            "domain_name": "www.needaplumber.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-13 04:10:41"
         },
         {
             "domain_name": "aerialfunctioncentre.com.au",
@@ -467,16 +492,6 @@
             "date": "2026-06-11 19:15:08"
         },
         {
-            "domain_name": "edisonlandscapelighting.com",
-            "destination": "A2 Hosting",
-            "date": "2026-06-11 17:50:06"
-        },
-        {
-            "domain_name": "tninspro.com",
-            "destination": "Pressable",
-            "date": "2026-06-11 17:49:07"
-        },
-        {
             "domain_name": "njsme.org",
             "destination": "Kinsta",
             "date": "2026-06-11 17:24:42"
@@ -485,21 +500,6 @@
             "domain_name": "tv.cottagelife.com",
             "destination": "Bluehost",
             "date": "2026-06-11 17:16:49"
-        },
-        {
-            "domain_name": "theerwinlawfirm.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-11 17:14:01"
-        },
-        {
-            "domain_name": "maikeetsang.com",
-            "destination": "Bluehost",
-            "date": "2026-06-11 17:05:33"
-        },
-        {
-            "domain_name": "thelvlupacademy.com",
-            "destination": "Kinsta",
-            "date": "2026-06-11 16:44:36"
         }
     ],
     "dailyMovedStat": {
@@ -1135,8 +1135,8 @@
         "2026-06-12": "150057"
     },
     "topDestinationHosts": {
-        "Pressable": 13821,
-        "Kinsta": 10628,
+        "Pressable": 13823,
+        "Kinsta": 10629,
         "Digital Ocean": 6898,
         "SiteGround": 5726,
         "Hostinger": 5298,
@@ -1154,7 +1154,7 @@
         "DreamHost": 507,
         "A2 Hosting": 467,
         "Hetzner Online": 448,
-        "HostGator": 329
+        "HostGator": 330
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
