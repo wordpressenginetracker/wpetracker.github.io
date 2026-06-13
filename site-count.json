@@ -1,10 +1,15 @@
 {
-    "siteCount": 150145,
+    "siteCount": 150150,
     "recentlyMoved": [
         {
             "domain_name": "theundergroundsydney.com.au",
             "destination": "Kinsta",
             "date": "2026-06-13 05:09:37"
+        },
+        {
+            "domain_name": "musclemats.com",
+            "destination": "Hetzner Online",
+            "date": "2026-06-13 05:07:56"
         },
         {
             "domain_name": "www.perceptionsystem.com",
@@ -495,11 +500,6 @@
             "domain_name": "njsme.org",
             "destination": "Kinsta",
             "date": "2026-06-11 17:24:42"
-        },
-        {
-            "domain_name": "tv.cottagelife.com",
-            "destination": "Bluehost",
-            "date": "2026-06-11 17:16:49"
         }
     ],
     "dailyMovedStat": {
@@ -1136,7 +1136,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13823,
-        "Kinsta": 10629,
+        "Kinsta": 10630,
         "Digital Ocean": 6898,
         "SiteGround": 5726,
         "Hostinger": 5298,
@@ -1153,7 +1153,7 @@
         "IONOS": 533,
         "DreamHost": 507,
         "A2 Hosting": 467,
-        "Hetzner Online": 448,
+        "Hetzner Online": 449,
         "HostGator": 330
     },
     "dailyTotalStat": {
