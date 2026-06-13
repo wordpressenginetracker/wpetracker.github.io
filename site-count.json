@@ -1,6 +1,21 @@
 {
-    "siteCount": 150267,
+    "siteCount": 150277,
     "recentlyMoved": [
+        {
+            "domain_name": "northwesternlawreview.org",
+            "destination": "Liquid Web",
+            "date": "2026-06-13 17:48:40"
+        },
+        {
+            "domain_name": "neolynx.com",
+            "destination": "HostGator",
+            "date": "2026-06-13 17:39:20"
+        },
+        {
+            "domain_name": "ejj.co",
+            "destination": "GoDaddy",
+            "date": "2026-06-13 17:23:42"
+        },
         {
             "domain_name": "marl.org",
             "destination": "Digital Ocean",
@@ -477,24 +492,9 @@
             "date": "2026-06-12 00:32:46"
         },
         {
-            "domain_name": "healthscripts.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-12 00:17:51"
-        },
-        {
-            "domain_name": "airamericaac.com",
-            "destination": "Kinsta",
-            "date": "2026-06-12 00:09:20"
-        },
-        {
             "domain_name": "ba-hvac.com",
             "destination": "Kinsta",
             "date": "2026-06-12 00:01:56"
-        },
-        {
-            "domain_name": "pipewerxqld.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-11 23:55:56"
         },
         {
             "domain_name": "blakesleeandson.com",
@@ -1141,8 +1141,8 @@
         "SiteGround": 5726,
         "Hostinger": 5299,
         "Bluehost": 4654,
-        "GoDaddy": 1756,
-        "Liquid Web": 893,
+        "GoDaddy": 1757,
+        "Liquid Web": 894,
         "BigScoots": 887,
         "WordPress.com": 721,
         "GridPane": 701,
@@ -1154,7 +1154,7 @@
         "DreamHost": 508,
         "A2 Hosting": 467,
         "Hetzner Online": 449,
-        "HostGator": 334
+        "HostGator": 335
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
