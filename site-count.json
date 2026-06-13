@@ -1,6 +1,11 @@
 {
-    "siteCount": 150326,
+    "siteCount": 150335,
     "recentlyMoved": [
+        {
+            "domain_name": "digikaimarketing.com",
+            "destination": "Kinsta",
+            "date": "2026-06-13 20:59:22"
+        },
         {
             "domain_name": "imagerybymarianne.com",
             "destination": "Bluehost",
@@ -490,11 +495,6 @@
             "domain_name": "ctwomanagement.com",
             "destination": "Kinsta",
             "date": "2026-06-12 09:01:50"
-        },
-        {
-            "domain_name": "casonlatimer.com",
-            "destination": "Hostinger",
-            "date": "2026-06-12 08:23:43"
         },
         {
             "domain_name": "lagooncarrental.is",
@@ -1136,7 +1136,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13826,
-        "Kinsta": 10637,
+        "Kinsta": 10638,
         "Digital Ocean": 6905,
         "SiteGround": 5726,
         "Hostinger": 5301,
