@@ -1,6 +1,21 @@
 {
-    "siteCount": 150226,
+    "siteCount": 150247,
     "recentlyMoved": [
+        {
+            "domain_name": "r3es.com",
+            "destination": "HostGator",
+            "date": "2026-06-13 16:15:27"
+        },
+        {
+            "domain_name": "blog.northwesternlaw.review",
+            "destination": "Liquid Web",
+            "date": "2026-06-13 16:01:30"
+        },
+        {
+            "domain_name": "www.foursquaremissions.org",
+            "destination": "Digital Ocean",
+            "date": "2026-06-13 15:59:09"
+        },
         {
             "domain_name": "thomashueblonline.com",
             "destination": "Digital Ocean",
@@ -477,11 +492,6 @@
             "date": "2026-06-11 23:11:07"
         },
         {
-            "domain_name": "update.managedclientservice.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-11 21:56:03"
-        },
-        {
             "domain_name": "northtahoerec.org",
             "destination": "Kinsta",
             "date": "2026-06-11 21:43:08"
@@ -490,16 +500,6 @@
             "domain_name": "northtahoeevents.com",
             "destination": "Kinsta",
             "date": "2026-06-11 21:43:08"
-        },
-        {
-            "domain_name": "www.vierbicher.com",
-            "destination": "Pressable",
-            "date": "2026-06-11 21:19:32"
-        },
-        {
-            "domain_name": "youthathlete.training",
-            "destination": "Digital Ocean",
-            "date": "2026-06-11 20:50:39"
         }
     ],
     "dailyMovedStat": {
@@ -1137,7 +1137,7 @@
     "topDestinationHosts": {
         "Pressable": 13825,
         "Kinsta": 10632,
-        "Digital Ocean": 6902,
+        "Digital Ocean": 6903,
         "SiteGround": 5726,
         "Hostinger": 5299,
         "Bluehost": 4654,
@@ -1154,7 +1154,7 @@
         "DreamHost": 507,
         "A2 Hosting": 467,
         "Hetzner Online": 449,
-        "HostGator": 333
+        "HostGator": 334
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
