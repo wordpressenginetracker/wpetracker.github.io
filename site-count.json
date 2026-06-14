@@ -1,6 +1,11 @@
 {
-    "siteCount": 150337,
+    "siteCount": 150346,
     "recentlyMoved": [
+        {
+            "domain_name": "www.davidmshore.com",
+            "destination": "OVH",
+            "date": "2026-06-13 23:47:40"
+        },
         {
             "domain_name": "digikaimarketing.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "ctwomanagement.com",
             "destination": "Kinsta",
             "date": "2026-06-12 09:01:50"
-        },
-        {
-            "domain_name": "lagooncarrental.is",
-            "destination": "Hetzner Online",
-            "date": "2026-06-12 08:22:36"
         }
     ],
     "dailyMovedStat": {
@@ -1147,7 +1147,7 @@
         "BigScoots": 887,
         "WordPress.com": 721,
         "GridPane": 701,
-        "OVH": 683,
+        "OVH": 684,
         "InMotion Hosting": 582,
         "Namecheap": 565,
         "Elementor Hosting": 553,
