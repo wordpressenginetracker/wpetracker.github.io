@@ -1,6 +1,11 @@
 {
-    "siteCount": 150558,
+    "siteCount": 150581,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bppinspections.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-15 19:27:53"
+        },
         {
             "domain_name": "milliganhiggins.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "awmotors.co",
             "destination": "Hostinger",
             "date": "2026-06-12 16:04:06"
-        },
-        {
-            "domain_name": "gracesummersphoto.com",
-            "destination": "BigScoots",
-            "date": "2026-06-12 15:39:06"
         },
         {
             "domain_name": "www.cbhv.com",
@@ -1137,9 +1137,9 @@
         "2026-06-14": "150450"
     },
     "topDestinationHosts": {
-        "Pressable": 13834,
+        "Pressable": 13837,
         "Kinsta": 10642,
-        "Digital Ocean": 6907,
+        "Digital Ocean": 6908,
         "SiteGround": 5726,
         "Hostinger": 5305,
         "Bluehost": 4656,
@@ -1148,7 +1148,7 @@
         "BigScoots": 887,
         "WordPress.com": 722,
         "GridPane": 701,
-        "OVH": 685,
+        "OVH": 686,
         "InMotion Hosting": 582,
         "Namecheap": 565,
         "Elementor Hosting": 553,
