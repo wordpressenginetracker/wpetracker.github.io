@@ -1,5 +1,5 @@
 {
-    "siteCount": 150485,
+    "siteCount": 150492,
     "recentlyMoved": [
         {
             "domain_name": "dorriantraining.ie",
@@ -10,6 +10,11 @@
             "domain_name": "crownfamilyjewellers.com.au",
             "destination": "Kinsta",
             "date": "2026-06-15 01:29:07"
+        },
+        {
+            "domain_name": "movemood.stem4.org.uk",
+            "destination": "Pressable",
+            "date": "2026-06-15 01:12:30"
         },
         {
             "domain_name": "hyetert.org",
@@ -495,11 +500,6 @@
             "domain_name": "njhla.com",
             "destination": "Kinsta",
             "date": "2026-06-12 13:37:16"
-        },
-        {
-            "domain_name": "thomasjwalter.com",
-            "destination": "Kinsta",
-            "date": "2026-06-12 13:28:10"
         }
     ],
     "dailyMovedStat": {
@@ -1137,11 +1137,11 @@
         "2026-06-14": "150450"
     },
     "topDestinationHosts": {
-        "Pressable": 13831,
+        "Pressable": 13832,
         "Kinsta": 10641,
         "Digital Ocean": 6907,
         "SiteGround": 5726,
-        "Hostinger": 5302,
+        "Hostinger": 5303,
         "Bluehost": 4655,
         "GoDaddy": 1758,
         "Liquid Web": 894,
