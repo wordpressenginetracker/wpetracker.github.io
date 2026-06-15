@@ -1,6 +1,21 @@
 {
-    "siteCount": 150581,
+    "siteCount": 150592,
     "recentlyMoved": [
+        {
+            "domain_name": "draftingconcepts.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-15 21:22:40"
+        },
+        {
+            "domain_name": "soaphub.com",
+            "destination": "Kinsta",
+            "date": "2026-06-15 20:54:02"
+        },
+        {
+            "domain_name": "kingdomcometraining.com",
+            "destination": "Kinsta",
+            "date": "2026-06-15 20:13:12"
+        },
         {
             "domain_name": "www.bppinspections.com.au",
             "destination": "Pressable",
@@ -477,29 +492,14 @@
             "date": "2026-06-12 16:30:30"
         },
         {
-            "domain_name": "rachelhupp.com",
-            "destination": "WordPress.com",
-            "date": "2026-06-12 16:30:24"
-        },
-        {
             "domain_name": "www.discoveryctr.net",
             "destination": "Kinsta",
             "date": "2026-06-12 16:17:00"
         },
         {
-            "domain_name": "annualreport.neighborworks.org",
-            "destination": "Kinsta",
-            "date": "2026-06-12 16:06:51"
-        },
-        {
             "domain_name": "awmotors.co",
             "destination": "Hostinger",
             "date": "2026-06-12 16:04:06"
-        },
-        {
-            "domain_name": "www.cbhv.com",
-            "destination": "Pressable",
-            "date": "2026-06-12 15:35:32"
         }
     ],
     "dailyMovedStat": {
@@ -1138,7 +1138,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13837,
-        "Kinsta": 10642,
+        "Kinsta": 10644,
         "Digital Ocean": 6908,
         "SiteGround": 5726,
         "Hostinger": 5305,
