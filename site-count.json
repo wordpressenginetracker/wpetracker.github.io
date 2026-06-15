@@ -1,6 +1,11 @@
 {
-    "siteCount": 150542,
+    "siteCount": 150554,
     "recentlyMoved": [
+        {
+            "domain_name": "milliganhiggins.com",
+            "destination": "Hostinger",
+            "date": "2026-06-15 16:56:14"
+        },
         {
             "domain_name": "www.hjbusinesslaw.com",
             "destination": "Pressable",
@@ -485,11 +490,6 @@
             "domain_name": "awmotors.co",
             "destination": "Hostinger",
             "date": "2026-06-12 16:04:06"
-        },
-        {
-            "domain_name": "plumtreefinancialplanning.com",
-            "destination": "Kinsta",
-            "date": "2026-06-12 16:00:04"
         },
         {
             "domain_name": "gracesummersphoto.com",
@@ -1137,7 +1137,7 @@
         "2026-06-14": "150450"
     },
     "topDestinationHosts": {
-        "Pressable": 13833,
+        "Pressable": 13834,
         "Kinsta": 10642,
         "Digital Ocean": 6907,
         "SiteGround": 5726,
