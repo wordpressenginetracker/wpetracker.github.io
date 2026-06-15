@@ -1,6 +1,16 @@
 {
-    "siteCount": 150467,
+    "siteCount": 150485,
     "recentlyMoved": [
+        {
+            "domain_name": "dorriantraining.ie",
+            "destination": "Hostinger",
+            "date": "2026-06-15 01:31:00"
+        },
+        {
+            "domain_name": "crownfamilyjewellers.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-15 01:29:07"
+        },
         {
             "domain_name": "hyetert.org",
             "destination": "WordPress.com",
@@ -490,16 +500,6 @@
             "domain_name": "thomasjwalter.com",
             "destination": "Kinsta",
             "date": "2026-06-12 13:28:10"
-        },
-        {
-            "domain_name": "leoraarmstrong.com",
-            "destination": "Pressable",
-            "date": "2026-06-12 12:37:42"
-        },
-        {
-            "domain_name": "terivphotography.co.uk",
-            "destination": "BigScoots",
-            "date": "2026-06-12 12:37:35"
         }
     ],
     "dailyMovedStat": {
@@ -1137,8 +1137,8 @@
         "2026-06-14": "150450"
     },
     "topDestinationHosts": {
-        "Pressable": 13830,
-        "Kinsta": 10640,
+        "Pressable": 13831,
+        "Kinsta": 10641,
         "Digital Ocean": 6907,
         "SiteGround": 5726,
         "Hostinger": 5302,
