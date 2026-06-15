@@ -1,6 +1,11 @@
 {
-    "siteCount": 150500,
+    "siteCount": 150501,
     "recentlyMoved": [
+        {
+            "domain_name": "emmonsbeefmasters.com",
+            "destination": "Kinsta",
+            "date": "2026-06-15 05:03:47"
+        },
         {
             "domain_name": "ikbinc.net",
             "destination": "Bluehost",
@@ -475,11 +480,6 @@
             "domain_name": "plumtreefinancialplanning.com",
             "destination": "Kinsta",
             "date": "2026-06-12 16:00:04"
-        },
-        {
-            "domain_name": "www.gabletrained.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-12 15:56:27"
         },
         {
             "domain_name": "frcnca.org",
@@ -1138,7 +1138,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13832,
-        "Kinsta": 10641,
+        "Kinsta": 10642,
         "Digital Ocean": 6907,
         "SiteGround": 5726,
         "Hostinger": 5303,
