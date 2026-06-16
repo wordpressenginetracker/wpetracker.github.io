@@ -1,6 +1,21 @@
 {
-    "siteCount": 150602,
+    "siteCount": 150620,
     "recentlyMoved": [
+        {
+            "domain_name": "livingbook.alaskanessences.com",
+            "destination": "Pressable",
+            "date": "2026-06-16 01:01:20"
+        },
+        {
+            "domain_name": "www.spaceholidayapartments.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-16 01:00:41"
+        },
+        {
+            "domain_name": "www.tropicalbeachcaravanparkbowen.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-16 00:38:51"
+        },
         {
             "domain_name": "gearjunkie.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "tidewaterhokies.com",
             "destination": "WordPress.com",
             "date": "2026-06-12 16:50:36"
-        },
-        {
-            "domain_name": "kidsdentalgrouphanford.com",
-            "destination": "Liquid Web",
-            "date": "2026-06-12 16:47:29"
-        },
-        {
-            "domain_name": "rbretailandservicesolutions.com",
-            "destination": "GridPane",
-            "date": "2026-06-12 16:30:30"
-        },
-        {
-            "domain_name": "awmotors.co",
-            "destination": "Hostinger",
-            "date": "2026-06-12 16:04:06"
         }
     ],
     "dailyMovedStat": {
@@ -1138,7 +1138,7 @@
         "2026-06-15": "150594"
     },
     "topDestinationHosts": {
-        "Pressable": 13838,
+        "Pressable": 13841,
         "Kinsta": 10645,
         "Digital Ocean": 6908,
         "SiteGround": 5726,
