@@ -1,6 +1,11 @@
 {
-    "siteCount": 150639,
+    "siteCount": 150648,
     "recentlyMoved": [
+        {
+            "domain_name": "riponcathedral.org.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-06-16 08:27:36"
+        },
         {
             "domain_name": "dingmans.com",
             "destination": "A2 Hosting",
@@ -490,11 +495,6 @@
             "domain_name": "msmfm.com",
             "destination": "Kinsta",
             "date": "2026-06-12 17:09:38"
-        },
-        {
-            "domain_name": "tastycatering.com",
-            "destination": "Kinsta",
-            "date": "2026-06-12 17:06:35"
         },
         {
             "domain_name": "tidewaterhokies.com",
@@ -1140,7 +1140,7 @@
     "topDestinationHosts": {
         "Pressable": 13842,
         "Kinsta": 10645,
-        "Digital Ocean": 6908,
+        "Digital Ocean": 6909,
         "SiteGround": 5726,
         "Hostinger": 5305,
         "Bluehost": 4656,
