@@ -1,6 +1,21 @@
 {
-    "siteCount": 150670,
+    "siteCount": 150694,
     "recentlyMoved": [
+        {
+            "domain_name": "promotionab.se",
+            "destination": "Kinsta",
+            "date": "2026-06-16 12:17:16"
+        },
+        {
+            "domain_name": "www.broughtoncornermedical.nhs.uk",
+            "destination": "Pressable",
+            "date": "2026-06-16 11:50:21"
+        },
+        {
+            "domain_name": "ovi.csg.org",
+            "destination": "Kinsta",
+            "date": "2026-06-16 11:31:14"
+        },
         {
             "domain_name": "lvrehab.co.uk",
             "destination": "WordPress.com",
@@ -485,21 +500,6 @@
             "domain_name": "clearlymd.com",
             "destination": "Kinsta",
             "date": "2026-06-12 20:41:05"
-        },
-        {
-            "domain_name": "cleanful.ca",
-            "destination": "Namecheap",
-            "date": "2026-06-12 20:41:05"
-        },
-        {
-            "domain_name": "www.njpsi.com",
-            "destination": "Kinsta",
-            "date": "2026-06-12 20:32:04"
-        },
-        {
-            "domain_name": "www.lowannabeachresort.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-12 20:12:05"
         }
     ],
     "dailyMovedStat": {
@@ -1138,8 +1138,8 @@
         "2026-06-15": "150594"
     },
     "topDestinationHosts": {
-        "Pressable": 13842,
-        "Kinsta": 10648,
+        "Pressable": 13844,
+        "Kinsta": 10650,
         "Digital Ocean": 6910,
         "SiteGround": 5726,
         "Hostinger": 5305,
