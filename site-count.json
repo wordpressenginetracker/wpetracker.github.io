@@ -1,6 +1,11 @@
 {
-    "siteCount": 150594,
+    "siteCount": 150602,
     "recentlyMoved": [
+        {
+            "domain_name": "gearjunkie.com",
+            "destination": "Kinsta",
+            "date": "2026-06-15 23:54:47"
+        },
         {
             "domain_name": "draftingconcepts.com.au",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "rbretailandservicesolutions.com",
             "destination": "GridPane",
             "date": "2026-06-12 16:30:30"
-        },
-        {
-            "domain_name": "www.discoveryctr.net",
-            "destination": "Kinsta",
-            "date": "2026-06-12 16:17:00"
         },
         {
             "domain_name": "awmotors.co",
@@ -1139,7 +1139,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13838,
-        "Kinsta": 10644,
+        "Kinsta": 10645,
         "Digital Ocean": 6908,
         "SiteGround": 5726,
         "Hostinger": 5305,
