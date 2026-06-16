@@ -1,6 +1,36 @@
 {
-    "siteCount": 150734,
+    "siteCount": 150762,
     "recentlyMoved": [
+        {
+            "domain_name": "www.tnjburger.com",
+            "destination": "GridPane",
+            "date": "2026-06-16 16:25:37"
+        },
+        {
+            "domain_name": "www.bih-us.com",
+            "destination": "GridPane",
+            "date": "2026-06-16 16:08:29"
+        },
+        {
+            "domain_name": "www.partypackbeefpatties.com",
+            "destination": "GridPane",
+            "date": "2026-06-16 16:08:29"
+        },
+        {
+            "domain_name": "www.generalconverting.com",
+            "destination": "Kinsta",
+            "date": "2026-06-16 15:59:07"
+        },
+        {
+            "domain_name": "www.extravaluemeats.com",
+            "destination": "GridPane",
+            "date": "2026-06-16 15:57:00"
+        },
+        {
+            "domain_name": "www.aladon.com",
+            "destination": "Pressable",
+            "date": "2026-06-16 15:43:49"
+        },
         {
             "domain_name": "medinadentalsleepsolutions.com",
             "destination": "Kinsta",
@@ -470,36 +500,6 @@
             "domain_name": "theloftonbroadway.com.au",
             "destination": "Kinsta",
             "date": "2026-06-13 04:56:22"
-        },
-        {
-            "domain_name": "www.drivingwell.com.au",
-            "destination": "Kinsta",
-            "date": "2026-06-13 04:26:56"
-        },
-        {
-            "domain_name": "www.newmansappliance.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-13 04:10:41"
-        },
-        {
-            "domain_name": "www.needaplumber.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-13 04:10:41"
-        },
-        {
-            "domain_name": "aerialfunctioncentre.com.au",
-            "destination": "Kinsta",
-            "date": "2026-06-13 03:42:29"
-        },
-        {
-            "domain_name": "mercymedtampa.com",
-            "destination": "Namecheap",
-            "date": "2026-06-13 00:49:42"
-        },
-        {
-            "domain_name": "www.nwyas.org.au",
-            "destination": "Pressable",
-            "date": "2026-06-13 00:35:20"
         }
     ],
     "dailyMovedStat": {
@@ -1138,8 +1138,8 @@
         "2026-06-15": "150594"
     },
     "topDestinationHosts": {
-        "Pressable": 13844,
-        "Kinsta": 10655,
+        "Pressable": 13845,
+        "Kinsta": 10656,
         "Digital Ocean": 6911,
         "SiteGround": 5726,
         "Hostinger": 5307,
@@ -1148,7 +1148,7 @@
         "Liquid Web": 894,
         "BigScoots": 887,
         "WordPress.com": 723,
-        "GridPane": 701,
+        "GridPane": 706,
         "OVH": 686,
         "InMotion Hosting": 582,
         "Namecheap": 566,
