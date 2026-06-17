@@ -1,6 +1,11 @@
 {
-    "siteCount": 150955,
+    "siteCount": 150960,
     "recentlyMoved": [
+        {
+            "domain_name": "nomads.az.pt",
+            "destination": "Hetzner Online",
+            "date": "2026-06-17 10:05:00"
+        },
         {
             "domain_name": "taxclever.it",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "imagerybymarianne.com",
             "destination": "Bluehost",
             "date": "2026-06-13 20:33:03"
-        },
-        {
-            "domain_name": "behaviorhealthny.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-13 19:51:31"
         }
     ],
     "dailyMovedStat": {
@@ -1157,7 +1157,7 @@
         "IONOS": 534,
         "DreamHost": 510,
         "A2 Hosting": 468,
-        "Hetzner Online": 454,
+        "Hetzner Online": 455,
         "HostGator": 336
     },
     "dailyTotalStat": {
