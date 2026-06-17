@@ -1,6 +1,11 @@
 {
-    "siteCount": 150927,
+    "siteCount": 150936,
     "recentlyMoved": [
+        {
+            "domain_name": "transanimalcargo.com",
+            "destination": "Hostinger",
+            "date": "2026-06-17 05:36:27"
+        },
         {
             "domain_name": "cityscapegaragedoors.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.aaarfg.com",
             "destination": "Pressable",
             "date": "2026-06-13 19:21:12"
-        },
-        {
-            "domain_name": "freedomequineperformance.com",
-            "destination": "Kinsta",
-            "date": "2026-06-13 19:14:48"
         }
     ],
     "dailyMovedStat": {
@@ -1143,7 +1143,7 @@
         "Kinsta": 10665,
         "Digital Ocean": 6913,
         "SiteGround": 5726,
-        "Hostinger": 5310,
+        "Hostinger": 5311,
         "Bluehost": 4658,
         "GoDaddy": 1759,
         "Liquid Web": 895,
