@@ -1,6 +1,11 @@
 {
-    "siteCount": 150936,
+    "siteCount": 150944,
     "recentlyMoved": [
+        {
+            "domain_name": "planix.io",
+            "destination": "Hetzner Online",
+            "date": "2026-06-17 07:20:33"
+        },
         {
             "domain_name": "transanimalcargo.com",
             "destination": "Hostinger",
@@ -475,11 +480,6 @@
             "domain_name": "grizzlylodge.com",
             "destination": "Kinsta",
             "date": "2026-06-13 19:57:36"
-        },
-        {
-            "domain_name": "www.frischhertzlaw.com",
-            "destination": "HostGator",
-            "date": "2026-06-13 19:54:00"
         },
         {
             "domain_name": "www.conval.com",
@@ -1157,7 +1157,7 @@
         "IONOS": 533,
         "DreamHost": 510,
         "A2 Hosting": 468,
-        "Hetzner Online": 450,
+        "Hetzner Online": 451,
         "HostGator": 336
     },
     "dailyTotalStat": {
