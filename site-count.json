@@ -1,10 +1,30 @@
 {
-    "siteCount": 151110,
+    "siteCount": 151122,
     "recentlyMoved": [
+        {
+            "domain_name": "emove.az.pt",
+            "destination": "Hetzner Online",
+            "date": "2026-06-17 17:59:02"
+        },
+        {
+            "domain_name": "expresshsp.com",
+            "destination": "Pressable",
+            "date": "2026-06-17 17:57:55"
+        },
+        {
+            "domain_name": "wellnesswithpriyanka.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-17 17:35:17"
+        },
         {
             "domain_name": "donrollerstudios.com",
             "destination": "Pressable",
             "date": "2026-06-17 17:17:10"
+        },
+        {
+            "domain_name": "elevationescapetahoe.com",
+            "destination": "Kinsta",
+            "date": "2026-06-17 17:16:47"
         },
         {
             "domain_name": "terrazzocarerestoration.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.pollarddental.com",
             "destination": "Kinsta",
             "date": "2026-06-16 12:41:17"
-        },
-        {
-            "domain_name": "saundershvac.com",
-            "destination": "Hostinger",
-            "date": "2026-06-16 12:17:52"
-        },
-        {
-            "domain_name": "promotionab.se",
-            "destination": "Kinsta",
-            "date": "2026-06-16 12:17:16"
-        },
-        {
-            "domain_name": "www.broughtoncornermedical.nhs.uk",
-            "destination": "Pressable",
-            "date": "2026-06-16 11:50:21"
-        },
-        {
-            "domain_name": "ovi.csg.org",
-            "destination": "Kinsta",
-            "date": "2026-06-16 11:31:14"
         }
     ],
     "dailyMovedStat": {
@@ -1139,8 +1139,8 @@
         "2026-06-16": "150849"
     },
     "topDestinationHosts": {
-        "Pressable": 13864,
-        "Kinsta": 10678,
+        "Pressable": 13866,
+        "Kinsta": 10679,
         "Digital Ocean": 6917,
         "SiteGround": 5726,
         "Hostinger": 5315,
@@ -1148,7 +1148,7 @@
         "GoDaddy": 1760,
         "Liquid Web": 895,
         "BigScoots": 888,
-        "WordPress.com": 725,
+        "WordPress.com": 726,
         "GridPane": 707,
         "OVH": 687,
         "InMotion Hosting": 582,
@@ -1157,7 +1157,7 @@
         "IONOS": 534,
         "DreamHost": 513,
         "A2 Hosting": 468,
-        "Hetzner Online": 458,
+        "Hetzner Online": 459,
         "HostGator": 336
     },
     "dailyTotalStat": {
