@@ -1,6 +1,31 @@
 {
-    "siteCount": 151429,
+    "siteCount": 151476,
     "recentlyMoved": [
+        {
+            "domain_name": "houseofcomedy.net",
+            "destination": "DreamHost",
+            "date": "2026-06-18 20:17:11"
+        },
+        {
+            "domain_name": "www.datathatmakesadifference.com",
+            "destination": "Hostinger",
+            "date": "2026-06-18 20:16:45"
+        },
+        {
+            "domain_name": "raven2.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-18 20:14:26"
+        },
+        {
+            "domain_name": "bayshorerealty.cc",
+            "destination": "Digital Ocean",
+            "date": "2026-06-18 20:03:45"
+        },
+        {
+            "domain_name": "attorneysofchicago.com",
+            "destination": "Hostinger",
+            "date": "2026-06-18 19:54:27"
+        },
         {
             "domain_name": "usalifeinsure.com",
             "destination": "Bluehost",
@@ -452,11 +477,6 @@
             "date": "2026-06-17 12:28:56"
         },
         {
-            "domain_name": "ausit.org",
-            "destination": "Kinsta",
-            "date": "2026-06-17 12:24:48"
-        },
-        {
             "domain_name": "sfbayareawinetours.net",
             "destination": "Kinsta",
             "date": "2026-06-17 12:19:14"
@@ -472,21 +492,6 @@
             "date": "2026-06-17 12:15:14"
         },
         {
-            "domain_name": "www.yellowandblackgivingback.org",
-            "destination": "Kinsta",
-            "date": "2026-06-17 12:14:58"
-        },
-        {
-            "domain_name": "www.golferen.no",
-            "destination": "Hostinger",
-            "date": "2026-06-17 12:03:53"
-        },
-        {
-            "domain_name": "revolverhotel.co.uk",
-            "destination": "Elementor Hosting",
-            "date": "2026-06-17 11:55:39"
-        },
-        {
             "domain_name": "boring.insure",
             "destination": "Pressable",
             "date": "2026-06-17 11:52:24"
@@ -495,11 +500,6 @@
             "domain_name": "iamluca.co.uk",
             "destination": "Krystal Hosting",
             "date": "2026-06-17 11:43:50"
-        },
-        {
-            "domain_name": "auxenergy.com",
-            "destination": "Hostinger",
-            "date": "2026-06-17 11:43:14"
         }
     ],
     "dailyMovedStat": {
@@ -1142,9 +1142,9 @@
     "topDestinationHosts": {
         "Pressable": 13884,
         "Kinsta": 10700,
-        "Digital Ocean": 6925,
+        "Digital Ocean": 6928,
         "SiteGround": 5726,
-        "Hostinger": 5320,
+        "Hostinger": 5322,
         "Bluehost": 4662,
         "GoDaddy": 1761,
         "Liquid Web": 895,
@@ -1156,7 +1156,7 @@
         "Namecheap": 567,
         "Elementor Hosting": 554,
         "IONOS": 534,
-        "DreamHost": 513,
+        "DreamHost": 514,
         "A2 Hosting": 468,
         "Hetzner Online": 459,
         "HostGator": 337
