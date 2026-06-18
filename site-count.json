@@ -1,6 +1,11 @@
 {
-    "siteCount": 151346,
+    "siteCount": 151355,
     "recentlyMoved": [
+        {
+            "domain_name": "eatoeb.com",
+            "destination": "Kinsta",
+            "date": "2026-06-18 13:47:30"
+        },
         {
             "domain_name": "dnptclinic.ie",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "kerstloopdronten.nl",
             "destination": "Kinsta",
             "date": "2026-06-17 04:57:44"
-        },
-        {
-            "domain_name": "best-salon-and-day-spa-franchise.com",
-            "destination": "Hostinger",
-            "date": "2026-06-17 03:55:51"
         }
     ],
     "dailyMovedStat": {
@@ -1141,10 +1141,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13878,
-        "Kinsta": 10694,
+        "Kinsta": 10695,
         "Digital Ocean": 6923,
         "SiteGround": 5726,
-        "Hostinger": 5318,
+        "Hostinger": 5319,
         "Bluehost": 4660,
         "GoDaddy": 1761,
         "Liquid Web": 895,
