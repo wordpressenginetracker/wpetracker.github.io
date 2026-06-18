@@ -1,6 +1,26 @@
 {
-    "siteCount": 151257,
+    "siteCount": 151270,
     "recentlyMoved": [
+        {
+            "domain_name": "rickwilcox.com",
+            "destination": "Pressable",
+            "date": "2026-06-18 08:34:20"
+        },
+        {
+            "domain_name": "www.thehollimonfirm.com",
+            "destination": "OVH",
+            "date": "2026-06-18 08:16:09"
+        },
+        {
+            "domain_name": "www.chowasiankitchen.co.uk",
+            "destination": "Pressable",
+            "date": "2026-06-18 08:12:44"
+        },
+        {
+            "domain_name": "gesundheitszone.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-18 07:36:12"
+        },
         {
             "domain_name": "dietersaner.ch",
             "destination": "Kinsta",
@@ -477,29 +497,9 @@
             "date": "2026-06-16 23:26:16"
         },
         {
-            "domain_name": "tamissalon.com",
-            "destination": "Hostinger",
-            "date": "2026-06-16 21:05:34"
-        },
-        {
             "domain_name": "www.woodshield.com.au",
             "destination": "Pressable",
             "date": "2026-06-16 20:59:49"
-        },
-        {
-            "domain_name": "horsecanlisten.com",
-            "destination": "WordPress.com",
-            "date": "2026-06-16 20:30:40"
-        },
-        {
-            "domain_name": "www.durational.com",
-            "destination": "Pressable",
-            "date": "2026-06-16 20:00:28"
-        },
-        {
-            "domain_name": "globalriskinsights.com",
-            "destination": "Kinsta",
-            "date": "2026-06-16 19:25:12"
         }
     ],
     "dailyMovedStat": {
@@ -1140,8 +1140,8 @@
         "2026-06-17": "151196"
     },
     "topDestinationHosts": {
-        "Pressable": 13872,
-        "Kinsta": 10690,
+        "Pressable": 13874,
+        "Kinsta": 10691,
         "Digital Ocean": 6920,
         "SiteGround": 5726,
         "Hostinger": 5318,
@@ -1151,7 +1151,7 @@
         "BigScoots": 889,
         "WordPress.com": 726,
         "GridPane": 707,
-        "OVH": 688,
+        "OVH": 689,
         "InMotion Hosting": 582,
         "Namecheap": 567,
         "Elementor Hosting": 554,
