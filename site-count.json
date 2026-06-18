@@ -1,6 +1,16 @@
 {
-    "siteCount": 151248,
+    "siteCount": 151257,
     "recentlyMoved": [
+        {
+            "domain_name": "dietersaner.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-18 06:08:03"
+        },
+        {
+            "domain_name": "diamondairtaxis.com",
+            "destination": "Kinsta",
+            "date": "2026-06-18 06:08:03"
+        },
         {
             "domain_name": "www.syte.ai",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "globalriskinsights.com",
             "destination": "Kinsta",
             "date": "2026-06-16 19:25:12"
-        },
-        {
-            "domain_name": "3strong.com",
-            "destination": "Kinsta",
-            "date": "2026-06-16 19:15:59"
-        },
-        {
-            "domain_name": "newburghlibrary.org",
-            "destination": "Pressable",
-            "date": "2026-06-16 17:25:23"
         }
     ],
     "dailyMovedStat": {
@@ -1141,7 +1141,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13872,
-        "Kinsta": 10688,
+        "Kinsta": 10690,
         "Digital Ocean": 6920,
         "SiteGround": 5726,
         "Hostinger": 5318,
