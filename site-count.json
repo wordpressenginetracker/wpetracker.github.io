@@ -1,6 +1,26 @@
 {
-    "siteCount": 151564,
+    "siteCount": 151574,
     "recentlyMoved": [
+        {
+            "domain_name": "rim-gu.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-19 08:25:53"
+        },
+        {
+            "domain_name": "salmonhealth.com",
+            "destination": "Kinsta",
+            "date": "2026-06-19 08:23:14"
+        },
+        {
+            "domain_name": "www.immunodeficiencyuk.org",
+            "destination": "Pressable",
+            "date": "2026-06-19 08:17:12"
+        },
+        {
+            "domain_name": "www.criticalio.com",
+            "destination": "Pressable",
+            "date": "2026-06-19 07:46:35"
+        },
         {
             "domain_name": "yogarei.ch",
             "destination": "Kinsta",
@@ -477,29 +497,9 @@
             "date": "2026-06-17 17:16:47"
         },
         {
-            "domain_name": "terrazzocarerestoration.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-17 17:07:52"
-        },
-        {
             "domain_name": "theselfmademama.com",
             "destination": "DreamHost",
             "date": "2026-06-17 17:03:05"
-        },
-        {
-            "domain_name": "madfactorytech.com",
-            "destination": "Kinsta",
-            "date": "2026-06-17 16:52:09"
-        },
-        {
-            "domain_name": "www.thinkdifferently.net",
-            "destination": "Pressable",
-            "date": "2026-06-17 16:28:36"
-        },
-        {
-            "domain_name": "statelegals.staradvertiser.com",
-            "destination": "WordPress VIP",
-            "date": "2026-06-17 16:22:32"
         }
     ],
     "dailyMovedStat": {
@@ -1141,8 +1141,8 @@
         "2026-06-18": "151494"
     },
     "topDestinationHosts": {
-        "Pressable": 13893,
-        "Kinsta": 10706,
+        "Pressable": 13894,
+        "Kinsta": 10707,
         "Digital Ocean": 6930,
         "SiteGround": 5726,
         "Hostinger": 5323,
