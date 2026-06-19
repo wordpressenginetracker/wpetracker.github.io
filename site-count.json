@@ -1,6 +1,11 @@
 {
-    "siteCount": 151645,
+    "siteCount": 151661,
     "recentlyMoved": [
+        {
+            "domain_name": "www.blackout.fr",
+            "destination": "Pressable",
+            "date": "2026-06-19 16:05:23"
+        },
         {
             "domain_name": "naturopathicpediatrics.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.pawling.com",
             "destination": "Pressable",
             "date": "2026-06-17 20:28:13"
-        },
-        {
-            "domain_name": "www.ops-stars.com",
-            "destination": "Kinsta",
-            "date": "2026-06-17 20:18:46"
         }
     ],
     "dailyMovedStat": {
@@ -1141,12 +1141,12 @@
         "2026-06-18": "151494"
     },
     "topDestinationHosts": {
-        "Pressable": 13899,
+        "Pressable": 13900,
         "Kinsta": 10711,
         "Digital Ocean": 6933,
         "SiteGround": 5726,
         "Hostinger": 5325,
-        "Bluehost": 4664,
+        "Bluehost": 4665,
         "GoDaddy": 1762,
         "Liquid Web": 895,
         "BigScoots": 891,
