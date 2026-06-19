@@ -1,6 +1,21 @@
 {
-    "siteCount": 151550,
+    "siteCount": 151562,
     "recentlyMoved": [
+        {
+            "domain_name": "yogarei.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-19 05:19:27"
+        },
+        {
+            "domain_name": "ltcwc.com",
+            "destination": "Kinsta",
+            "date": "2026-06-19 05:13:46"
+        },
+        {
+            "domain_name": "www.qcyc.com.au",
+            "destination": "Pressable",
+            "date": "2026-06-19 04:57:07"
+        },
         {
             "domain_name": "rusticcentral.com",
             "destination": "Namecheap",
@@ -477,11 +492,6 @@
             "date": "2026-06-17 16:52:09"
         },
         {
-            "domain_name": "keypercorp.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-17 16:35:49"
-        },
-        {
             "domain_name": "www.thinkdifferently.net",
             "destination": "Pressable",
             "date": "2026-06-17 16:28:36"
@@ -490,16 +500,6 @@
             "domain_name": "statelegals.staradvertiser.com",
             "destination": "WordPress VIP",
             "date": "2026-06-17 16:22:32"
-        },
-        {
-            "domain_name": "www.gunbarreldental.com",
-            "destination": "Kinsta",
-            "date": "2026-06-17 15:57:34"
-        },
-        {
-            "domain_name": "www.chehalisleadentity.org",
-            "destination": "WordPress.com",
-            "date": "2026-06-17 15:43:25"
         }
     ],
     "dailyMovedStat": {
@@ -1141,8 +1141,8 @@
         "2026-06-18": "151494"
     },
     "topDestinationHosts": {
-        "Pressable": 13892,
-        "Kinsta": 10703,
+        "Pressable": 13893,
+        "Kinsta": 10706,
         "Digital Ocean": 6930,
         "SiteGround": 5726,
         "Hostinger": 5323,
@@ -1154,7 +1154,7 @@
         "GridPane": 707,
         "OVH": 690,
         "InMotion Hosting": 584,
-        "Namecheap": 568,
+        "Namecheap": 569,
         "Elementor Hosting": 554,
         "IONOS": 534,
         "DreamHost": 514,
