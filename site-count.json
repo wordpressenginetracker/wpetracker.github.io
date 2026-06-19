@@ -1,6 +1,26 @@
 {
-    "siteCount": 151574,
+    "siteCount": 151587,
     "recentlyMoved": [
+        {
+            "domain_name": "teehus.com",
+            "destination": "Kinsta",
+            "date": "2026-06-19 08:51:25"
+        },
+        {
+            "domain_name": "zenithspeechdebate.com",
+            "destination": "Bluehost",
+            "date": "2026-06-19 08:50:01"
+        },
+        {
+            "domain_name": "simplycupcakes.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-19 08:43:45"
+        },
+        {
+            "domain_name": "thenextinnings.com",
+            "destination": "Bluehost",
+            "date": "2026-06-19 08:43:09"
+        },
         {
             "domain_name": "rim-gu.ch",
             "destination": "Kinsta",
@@ -472,11 +492,6 @@
             "date": "2026-06-17 19:26:24"
         },
         {
-            "domain_name": "emove.az.pt",
-            "destination": "Hetzner Online",
-            "date": "2026-06-17 17:59:02"
-        },
-        {
             "domain_name": "expresshsp.com",
             "destination": "Pressable",
             "date": "2026-06-17 17:57:55"
@@ -485,21 +500,6 @@
             "domain_name": "wellnesswithpriyanka.com",
             "destination": "WordPress.com",
             "date": "2026-06-17 17:35:17"
-        },
-        {
-            "domain_name": "donrollerstudios.com",
-            "destination": "Pressable",
-            "date": "2026-06-17 17:17:10"
-        },
-        {
-            "domain_name": "elevationescapetahoe.com",
-            "destination": "Kinsta",
-            "date": "2026-06-17 17:16:47"
-        },
-        {
-            "domain_name": "theselfmademama.com",
-            "destination": "DreamHost",
-            "date": "2026-06-17 17:03:05"
         }
     ],
     "dailyMovedStat": {
@@ -1141,12 +1141,12 @@
         "2026-06-18": "151494"
     },
     "topDestinationHosts": {
-        "Pressable": 13894,
-        "Kinsta": 10707,
+        "Pressable": 13895,
+        "Kinsta": 10710,
         "Digital Ocean": 6930,
         "SiteGround": 5726,
         "Hostinger": 5323,
-        "Bluehost": 4662,
+        "Bluehost": 4664,
         "GoDaddy": 1761,
         "Liquid Web": 895,
         "BigScoots": 891,
