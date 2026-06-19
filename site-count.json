@@ -1,10 +1,15 @@
 {
-    "siteCount": 151746,
+    "siteCount": 151751,
     "recentlyMoved": [
         {
             "domain_name": "mindfulharlem.com",
             "destination": "DreamHost",
             "date": "2026-06-19 21:41:28"
+        },
+        {
+            "domain_name": "mollard.com.au",
+            "destination": "Hostinger",
+            "date": "2026-06-19 21:32:31"
         },
         {
             "domain_name": "coolclassics.es",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "dietersaner.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-18 06:08:03"
-        },
-        {
-            "domain_name": "diamondairtaxis.com",
             "destination": "Kinsta",
             "date": "2026-06-18 06:08:03"
         }
@@ -1145,7 +1145,7 @@
         "Kinsta": 10714,
         "Digital Ocean": 6938,
         "SiteGround": 5726,
-        "Hostinger": 5326,
+        "Hostinger": 5327,
         "Bluehost": 4666,
         "GoDaddy": 1762,
         "Liquid Web": 896,
@@ -1157,7 +1157,7 @@
         "Namecheap": 570,
         "Elementor Hosting": 554,
         "IONOS": 535,
-        "DreamHost": 514,
+        "DreamHost": 515,
         "A2 Hosting": 468,
         "Hetzner Online": 459,
         "HostGator": 338
