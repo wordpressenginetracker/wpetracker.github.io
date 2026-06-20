@@ -1,6 +1,11 @@
 {
-    "siteCount": 151885,
+    "siteCount": 151888,
     "recentlyMoved": [
+        {
+            "domain_name": "nsconstructs.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-20 17:19:27"
+        },
         {
             "domain_name": "kpidirect.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "attorneysofchicago.com",
             "destination": "Hostinger",
             "date": "2026-06-18 19:54:27"
-        },
-        {
-            "domain_name": "usalifeinsure.com",
-            "destination": "Bluehost",
-            "date": "2026-06-18 17:55:07"
         },
         {
             "domain_name": "epuchildren.org",
@@ -1142,7 +1142,7 @@
         "2026-06-19": "151751"
     },
     "topDestinationHosts": {
-        "Pressable": 13911,
+        "Pressable": 13912,
         "Kinsta": 10721,
         "Digital Ocean": 6946,
         "SiteGround": 5726,
@@ -1151,7 +1151,7 @@
         "GoDaddy": 1763,
         "Liquid Web": 896,
         "BigScoots": 892,
-        "WordPress.com": 726,
+        "WordPress.com": 727,
         "GridPane": 707,
         "OVH": 691,
         "InMotion Hosting": 585,
