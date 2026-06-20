@@ -1,5 +1,5 @@
 {
-    "siteCount": 151929,
+    "siteCount": 151935,
     "recentlyMoved": [
         {
             "domain_name": "playonapp.com",
@@ -10,6 +10,11 @@
             "domain_name": "saintpatrickacademy.org",
             "destination": "Liquid Web",
             "date": "2026-06-20 19:59:45"
+        },
+        {
+            "domain_name": "jahdropping.com",
+            "destination": "BigScoots",
+            "date": "2026-06-20 19:58:22"
         },
         {
             "domain_name": "greatwardens.org",
@@ -495,11 +500,6 @@
             "domain_name": "www.melodymagicmusic.com",
             "destination": "Digital Ocean",
             "date": "2026-06-18 20:27:12"
-        },
-        {
-            "domain_name": "houseofcomedy.net",
-            "destination": "DreamHost",
-            "date": "2026-06-18 20:17:11"
         }
     ],
     "dailyMovedStat": {
@@ -1149,8 +1149,8 @@
         "Hostinger": 5332,
         "Bluehost": 4667,
         "GoDaddy": 1763,
-        "Liquid Web": 896,
-        "BigScoots": 893,
+        "Liquid Web": 897,
+        "BigScoots": 894,
         "WordPress.com": 727,
         "GridPane": 707,
         "OVH": 691,
