@@ -1,6 +1,21 @@
 {
-    "siteCount": 151751,
+    "siteCount": 151762,
     "recentlyMoved": [
+        {
+            "domain_name": "astrahealthandwellness.com",
+            "destination": "Hostinger",
+            "date": "2026-06-20 00:08:17"
+        },
+        {
+            "domain_name": "www.bressmanlaw.com",
+            "destination": "Pressable",
+            "date": "2026-06-20 00:06:58"
+        },
+        {
+            "domain_name": "flywheelbrewing.com",
+            "destination": "Pressable",
+            "date": "2026-06-19 23:33:16"
+        },
         {
             "domain_name": "mindfulharlem.com",
             "destination": "DreamHost",
@@ -477,11 +492,6 @@
             "date": "2026-06-18 08:34:20"
         },
         {
-            "domain_name": "www.thehollimonfirm.com",
-            "destination": "OVH",
-            "date": "2026-06-18 08:16:09"
-        },
-        {
             "domain_name": "www.chowasiankitchen.co.uk",
             "destination": "Pressable",
             "date": "2026-06-18 08:12:44"
@@ -490,16 +500,6 @@
             "domain_name": "www.mjscpataxprep.com",
             "destination": "Bluehost",
             "date": "2026-06-18 08:04:38"
-        },
-        {
-            "domain_name": "gesundheitszone.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-18 07:36:12"
-        },
-        {
-            "domain_name": "dietersaner.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-18 06:08:03"
         }
     ],
     "dailyMovedStat": {
@@ -1142,11 +1142,11 @@
         "2026-06-19": "151751"
     },
     "topDestinationHosts": {
-        "Pressable": 13902,
+        "Pressable": 13904,
         "Kinsta": 10714,
         "Digital Ocean": 6938,
         "SiteGround": 5726,
-        "Hostinger": 5327,
+        "Hostinger": 5328,
         "Bluehost": 4666,
         "GoDaddy": 1762,
         "Liquid Web": 896,
