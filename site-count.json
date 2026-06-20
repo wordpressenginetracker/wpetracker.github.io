@@ -1,6 +1,11 @@
 {
-    "siteCount": 151775,
+    "siteCount": 151781,
     "recentlyMoved": [
+        {
+            "domain_name": "padelmateclub.nl",
+            "destination": "Digital Ocean",
+            "date": "2026-06-20 04:05:31"
+        },
         {
             "domain_name": "nittygrittyjunkremoval.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "heffler.cpa",
             "destination": "Kinsta",
             "date": "2026-06-18 11:38:30"
-        },
-        {
-            "domain_name": "www.concentric.com.au",
-            "destination": "Kinsta",
-            "date": "2026-06-18 11:35:22"
         }
     ],
     "dailyMovedStat": {
@@ -1144,7 +1144,7 @@
     "topDestinationHosts": {
         "Pressable": 13906,
         "Kinsta": 10716,
-        "Digital Ocean": 6939,
+        "Digital Ocean": 6940,
         "SiteGround": 5726,
         "Hostinger": 5329,
         "Bluehost": 4666,
