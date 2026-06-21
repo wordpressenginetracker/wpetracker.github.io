@@ -1,6 +1,11 @@
 {
-    "siteCount": 152107,
+    "siteCount": 152118,
     "recentlyMoved": [
+        {
+            "domain_name": "lptdesigns.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-21 20:59:45"
+        },
         {
             "domain_name": "www.clermontsun.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "ltcwc.com",
             "destination": "Kinsta",
             "date": "2026-06-19 05:13:46"
-        },
-        {
-            "domain_name": "www.qcyc.com.au",
-            "destination": "Pressable",
-            "date": "2026-06-19 04:57:07"
         }
     ],
     "dailyMovedStat": {
@@ -1152,7 +1152,7 @@
         "GoDaddy": 1763,
         "Liquid Web": 898,
         "BigScoots": 894,
-        "WordPress.com": 727,
+        "WordPress.com": 728,
         "GridPane": 707,
         "OVH": 691,
         "InMotion Hosting": 585,
