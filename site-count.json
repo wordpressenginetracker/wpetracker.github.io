@@ -1,6 +1,16 @@
 {
-    "siteCount": 152011,
+    "siteCount": 152023,
     "recentlyMoved": [
+        {
+            "domain_name": "thurmanlanding.com",
+            "destination": "Pressable",
+            "date": "2026-06-21 13:22:18"
+        },
+        {
+            "domain_name": "southafrica.justdetention.org",
+            "destination": "Kinsta",
+            "date": "2026-06-21 12:18:56"
+        },
         {
             "domain_name": "e2e.au",
             "destination": "Hostinger",
@@ -480,16 +490,6 @@
             "domain_name": "thelighthouseportal.com",
             "destination": "InMotion Hosting",
             "date": "2026-06-19 01:37:59"
-        },
-        {
-            "domain_name": "mappedforms.au",
-            "destination": "Pressable",
-            "date": "2026-06-19 01:25:34"
-        },
-        {
-            "domain_name": "mandlappliancerepair.com",
-            "destination": "HostGator",
-            "date": "2026-06-19 01:25:34"
         },
         {
             "domain_name": "midcirc.midtc.com",
@@ -1144,7 +1144,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13912,
-        "Kinsta": 10726,
+        "Kinsta": 10727,
         "Digital Ocean": 6954,
         "SiteGround": 5726,
         "Hostinger": 5334,
