@@ -1,6 +1,11 @@
 {
-    "siteCount": 152212,
+    "siteCount": 152221,
     "recentlyMoved": [
+        {
+            "domain_name": "publicadvocates.org",
+            "destination": "Kinsta",
+            "date": "2026-06-22 15:53:49"
+        },
         {
             "domain_name": "www.luxjewels.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "unidos2give.org",
             "destination": "GoDaddy",
             "date": "2026-06-19 09:00:12"
-        },
-        {
-            "domain_name": "zenithspeechdebate.com",
-            "destination": "Bluehost",
-            "date": "2026-06-19 08:50:01"
         }
     ],
     "dailyMovedStat": {
@@ -1145,7 +1145,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13915,
-        "Kinsta": 10728,
+        "Kinsta": 10729,
         "Digital Ocean": 6960,
         "SiteGround": 5726,
         "Hostinger": 5337,
