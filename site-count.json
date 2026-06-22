@@ -1,6 +1,11 @@
 {
-    "siteCount": 152178,
+    "siteCount": 152181,
     "recentlyMoved": [
+        {
+            "domain_name": "researchonresearch.org",
+            "destination": "IONOS",
+            "date": "2026-06-22 07:48:49"
+        },
         {
             "domain_name": "chatacademy.ai",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "unidos2give.org",
             "destination": "GoDaddy",
             "date": "2026-06-19 09:00:12"
-        },
-        {
-            "domain_name": "teehus.com",
-            "destination": "Kinsta",
-            "date": "2026-06-19 08:51:25"
         },
         {
             "domain_name": "zenithspeechdebate.com",
@@ -1159,7 +1159,7 @@
         "InMotion Hosting": 585,
         "Namecheap": 571,
         "Elementor Hosting": 554,
-        "IONOS": 535,
+        "IONOS": 536,
         "DreamHost": 515,
         "A2 Hosting": 468,
         "Hetzner Online": 460,
