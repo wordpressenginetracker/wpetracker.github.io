@@ -1,6 +1,11 @@
 {
-    "siteCount": 152241,
+    "siteCount": 152260,
     "recentlyMoved": [
+        {
+            "domain_name": "www.canaanfuels.com",
+            "destination": "Pressable",
+            "date": "2026-06-22 20:14:52"
+        },
         {
             "domain_name": "ymcaofthevirginiapeninsulas.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.cheamguitarlessons.co.uk",
             "destination": "Pressable",
             "date": "2026-06-19 11:38:25"
-        },
-        {
-            "domain_name": "unidos2give.org",
-            "destination": "GoDaddy",
-            "date": "2026-06-19 09:00:12"
         }
     ],
     "dailyMovedStat": {
@@ -1144,16 +1144,16 @@
         "2026-06-21": "152122"
     },
     "topDestinationHosts": {
-        "Pressable": 13915,
+        "Pressable": 13916,
         "Kinsta": 10729,
-        "Digital Ocean": 6960,
+        "Digital Ocean": 6962,
         "SiteGround": 5726,
         "Hostinger": 5337,
         "Bluehost": 4670,
         "GoDaddy": 1764,
         "Liquid Web": 898,
         "BigScoots": 895,
-        "WordPress.com": 729,
+        "WordPress.com": 730,
         "GridPane": 707,
         "OVH": 691,
         "InMotion Hosting": 585,
