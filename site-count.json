@@ -1,6 +1,11 @@
 {
-    "siteCount": 152181,
+    "siteCount": 152187,
     "recentlyMoved": [
+        {
+            "domain_name": "www.luxjewels.com",
+            "destination": "Hostinger",
+            "date": "2026-06-22 08:35:00"
+        },
         {
             "domain_name": "researchonresearch.org",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "zenithspeechdebate.com",
             "destination": "Bluehost",
             "date": "2026-06-19 08:50:01"
-        },
-        {
-            "domain_name": "thenextinnings.com",
-            "destination": "Bluehost",
-            "date": "2026-06-19 08:43:09"
         }
     ],
     "dailyMovedStat": {
@@ -1148,7 +1148,7 @@
         "Kinsta": 10728,
         "Digital Ocean": 6960,
         "SiteGround": 5726,
-        "Hostinger": 5336,
+        "Hostinger": 5337,
         "Bluehost": 4669,
         "GoDaddy": 1764,
         "Liquid Web": 898,
