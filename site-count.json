@@ -1,6 +1,11 @@
 {
-    "siteCount": 152429,
+    "siteCount": 152437,
     "recentlyMoved": [
+        {
+            "domain_name": "vbketamineandwellness.com",
+            "destination": "Hostinger",
+            "date": "2026-06-23 17:46:29"
+        },
         {
             "domain_name": "mic3training.net",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "mic3.net",
             "destination": "Kinsta",
             "date": "2026-06-23 17:24:27"
+        },
+        {
+            "domain_name": "eastsideprosthetics.com",
+            "destination": "Pressable",
+            "date": "2026-06-23 17:18:36"
         },
         {
             "domain_name": "theleaderstrust.org",
@@ -487,19 +497,9 @@
             "date": "2026-06-20 12:52:59"
         },
         {
-            "domain_name": "spinevision.net",
-            "destination": "OVH",
-            "date": "2026-06-20 12:46:02"
-        },
-        {
             "domain_name": "takecaretermite.com",
             "destination": "HostGator",
             "date": "2026-06-20 12:28:47"
-        },
-        {
-            "domain_name": "www.ncdriveline.com",
-            "destination": "Pressable",
-            "date": "2026-06-20 12:06:32"
         }
     ],
     "dailyMovedStat": {
@@ -1145,11 +1145,11 @@
         "2026-06-22": "152269"
     },
     "topDestinationHosts": {
-        "Pressable": 13931,
-        "Kinsta": 10741,
+        "Pressable": 13932,
+        "Kinsta": 10743,
         "Digital Ocean": 6962,
         "SiteGround": 5726,
-        "Hostinger": 5342,
+        "Hostinger": 5343,
         "Bluehost": 4671,
         "GoDaddy": 1768,
         "Liquid Web": 898,
