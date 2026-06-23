@@ -1,6 +1,11 @@
 {
-    "siteCount": 152279,
+    "siteCount": 152284,
     "recentlyMoved": [
+        {
+            "domain_name": "columbushospitality.com",
+            "destination": "Pressable",
+            "date": "2026-06-23 01:11:17"
+        },
         {
             "domain_name": "nclhomes.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "janeanastasialaw.com",
             "destination": "InMotion Hosting",
             "date": "2026-06-19 12:07:40"
-        },
-        {
-            "domain_name": "www.cheamguitarlessons.co.uk",
-            "destination": "Pressable",
-            "date": "2026-06-19 11:38:25"
         }
     ],
     "dailyMovedStat": {
@@ -1145,7 +1145,7 @@
         "2026-06-22": "152269"
     },
     "topDestinationHosts": {
-        "Pressable": 13917,
+        "Pressable": 13918,
         "Kinsta": 10730,
         "Digital Ocean": 6962,
         "SiteGround": 5726,
