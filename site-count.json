@@ -1,6 +1,21 @@
 {
-    "siteCount": 152340,
+    "siteCount": 152358,
     "recentlyMoved": [
+        {
+            "domain_name": "toing.io",
+            "destination": "Hostinger",
+            "date": "2026-06-23 13:26:25"
+        },
+        {
+            "domain_name": "clarkhulingsfoundation.org",
+            "destination": "Hostinger",
+            "date": "2026-06-23 12:22:13"
+        },
+        {
+            "domain_name": "keystonerecord.com",
+            "destination": "Kinsta",
+            "date": "2026-06-23 12:20:04"
+        },
         {
             "domain_name": "proformpm.com",
             "destination": "GoDaddy",
@@ -485,21 +500,6 @@
             "domain_name": "burnieandchloe.com",
             "destination": "Pressable",
             "date": "2026-06-20 00:32:23"
-        },
-        {
-            "domain_name": "astrahealthandwellness.com",
-            "destination": "Hostinger",
-            "date": "2026-06-20 00:08:17"
-        },
-        {
-            "domain_name": "www.bressmanlaw.com",
-            "destination": "Pressable",
-            "date": "2026-06-20 00:06:58"
-        },
-        {
-            "domain_name": "flywheelbrewing.com",
-            "destination": "Pressable",
-            "date": "2026-06-19 23:33:16"
         }
     ],
     "dailyMovedStat": {
@@ -1146,10 +1146,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13926,
-        "Kinsta": 10733,
+        "Kinsta": 10734,
         "Digital Ocean": 6962,
         "SiteGround": 5726,
-        "Hostinger": 5340,
+        "Hostinger": 5341,
         "Bluehost": 4670,
         "GoDaddy": 1765,
         "Liquid Web": 898,
