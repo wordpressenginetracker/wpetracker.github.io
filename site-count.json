@@ -1,6 +1,16 @@
 {
-    "siteCount": 152622,
+    "siteCount": 152631,
     "recentlyMoved": [
+        {
+            "domain_name": "vinegrove.org",
+            "destination": "Pressable",
+            "date": "2026-06-24 13:58:52"
+        },
+        {
+            "domain_name": "vastnetworks.com",
+            "destination": "Hostinger",
+            "date": "2026-06-24 13:31:34"
+        },
         {
             "domain_name": "talkaboutitmo.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "researchonresearch.org",
             "destination": "IONOS",
             "date": "2026-06-22 07:48:49"
-        },
-        {
-            "domain_name": "chatacademy.ai",
-            "destination": "Hostinger",
-            "date": "2026-06-22 05:06:14"
-        },
-        {
-            "domain_name": "justdetention.org",
-            "destination": "Kinsta",
-            "date": "2026-06-22 04:13:23"
         }
     ],
     "dailyMovedStat": {
@@ -1146,11 +1146,11 @@
         "2026-06-23": "152503"
     },
     "topDestinationHosts": {
-        "Pressable": 13941,
+        "Pressable": 13942,
         "Kinsta": 10758,
         "Digital Ocean": 6973,
         "SiteGround": 5726,
-        "Hostinger": 5349,
+        "Hostinger": 5350,
         "Bluehost": 4671,
         "GoDaddy": 1769,
         "Liquid Web": 898,
