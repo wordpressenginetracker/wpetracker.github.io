@@ -1,6 +1,31 @@
 {
-    "siteCount": 152582,
+    "siteCount": 152605,
     "recentlyMoved": [
+        {
+            "domain_name": "hathornbuysgold.com",
+            "destination": "Hostinger",
+            "date": "2026-06-24 12:23:39"
+        },
+        {
+            "domain_name": "aryunetworks.com",
+            "destination": "Kinsta",
+            "date": "2026-06-24 12:19:44"
+        },
+        {
+            "domain_name": "aryuadvertising.com",
+            "destination": "Kinsta",
+            "date": "2026-06-24 12:19:44"
+        },
+        {
+            "domain_name": "www.activateuts.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-24 12:03:26"
+        },
+        {
+            "domain_name": "www.barrettbarrera.com",
+            "destination": "DreamHost",
+            "date": "2026-06-24 11:56:33"
+        },
         {
             "domain_name": "ninadata.io",
             "destination": "Hostinger",
@@ -467,39 +492,14 @@
             "date": "2026-06-21 20:59:45"
         },
         {
-            "domain_name": "www.clermontsun.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-21 16:24:04"
-        },
-        {
             "domain_name": "hooleyandburch.com",
             "destination": "Hostinger",
             "date": "2026-06-21 16:15:10"
         },
         {
-            "domain_name": "penrosestudios.com",
-            "destination": "HostGator",
-            "date": "2026-06-21 16:10:15"
-        },
-        {
             "domain_name": "baleinsurancegroup.com",
             "destination": "Pressable",
             "date": "2026-06-21 16:04:05"
-        },
-        {
-            "domain_name": "hintonsorchard.com",
-            "destination": "Pressable",
-            "date": "2026-06-21 15:36:58"
-        },
-        {
-            "domain_name": "thurmanlanding.com",
-            "destination": "Pressable",
-            "date": "2026-06-21 13:22:18"
-        },
-        {
-            "domain_name": "southafrica.justdetention.org",
-            "destination": "Kinsta",
-            "date": "2026-06-21 12:18:56"
         }
     ],
     "dailyMovedStat": {
@@ -1147,10 +1147,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13939,
-        "Kinsta": 10753,
+        "Kinsta": 10756,
         "Digital Ocean": 6971,
         "SiteGround": 5726,
-        "Hostinger": 5347,
+        "Hostinger": 5348,
         "Bluehost": 4671,
         "GoDaddy": 1769,
         "Liquid Web": 898,
@@ -1162,7 +1162,7 @@
         "Namecheap": 572,
         "Elementor Hosting": 554,
         "IONOS": 536,
-        "DreamHost": 516,
+        "DreamHost": 517,
         "A2 Hosting": 468,
         "Hetzner Online": 462,
         "HostGator": 340
