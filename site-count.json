@@ -1,6 +1,36 @@
 {
-    "siteCount": 152693,
+    "siteCount": 152750,
     "recentlyMoved": [
+        {
+            "domain_name": "bflanlaw.com",
+            "destination": "Bluehost",
+            "date": "2026-06-24 20:37:31"
+        },
+        {
+            "domain_name": "babybuddy.com",
+            "destination": "Pressable",
+            "date": "2026-06-24 20:02:50"
+        },
+        {
+            "domain_name": "rhubarbetc.com",
+            "destination": "DreamHost",
+            "date": "2026-06-24 20:02:34"
+        },
+        {
+            "domain_name": "heartsinmexico.org",
+            "destination": "Kinsta",
+            "date": "2026-06-24 19:51:53"
+        },
+        {
+            "domain_name": "www.studiodesigner.com",
+            "destination": "Pressable",
+            "date": "2026-06-24 19:41:48"
+        },
+        {
+            "domain_name": "gailwilsey.com",
+            "destination": "SiteGround",
+            "date": "2026-06-24 19:39:35"
+        },
         {
             "domain_name": "nemiatx.com",
             "destination": "Kinsta",
@@ -462,16 +492,6 @@
             "date": "2026-06-23 11:36:06"
         },
         {
-            "domain_name": "yorubaforkidz.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 09:38:55"
-        },
-        {
-            "domain_name": "yorubaforadults.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 09:38:55"
-        },
-        {
             "domain_name": "unioncountyvotes.com",
             "destination": "InMotion Hosting",
             "date": "2026-06-23 09:32:02"
@@ -480,26 +500,6 @@
             "domain_name": "momentinrestaurants.com",
             "destination": "Hetzner Online",
             "date": "2026-06-23 09:04:32"
-        },
-        {
-            "domain_name": "momentingroup.com",
-            "destination": "Hetzner Online",
-            "date": "2026-06-23 09:04:32"
-        },
-        {
-            "domain_name": "ybofkc.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 09:00:13"
-        },
-        {
-            "domain_name": "www.romanolaw.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 08:45:28"
-        },
-        {
-            "domain_name": "libertyandfrank.com.au",
-            "destination": "Hostinger",
-            "date": "2026-06-23 08:33:32"
         }
     ],
     "dailyMovedStat": {
@@ -1146,12 +1146,12 @@
         "2026-06-23": "152503"
     },
     "topDestinationHosts": {
-        "Pressable": 13944,
-        "Kinsta": 10763,
-        "Digital Ocean": 6978,
-        "SiteGround": 5726,
+        "Pressable": 13946,
+        "Kinsta": 10765,
+        "Digital Ocean": 6979,
+        "SiteGround": 5727,
         "Hostinger": 5350,
-        "Bluehost": 4673,
+        "Bluehost": 4674,
         "GoDaddy": 1769,
         "Liquid Web": 899,
         "BigScoots": 897,
@@ -1162,9 +1162,9 @@
         "Namecheap": 572,
         "Elementor Hosting": 554,
         "IONOS": 536,
-        "DreamHost": 517,
+        "DreamHost": 518,
         "A2 Hosting": 468,
-        "Hetzner Online": 462,
+        "Hetzner Online": 463,
         "HostGator": 340
     },
     "dailyTotalStat": {
