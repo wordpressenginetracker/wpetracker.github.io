@@ -1,6 +1,21 @@
 {
-    "siteCount": 152514,
+    "siteCount": 152527,
     "recentlyMoved": [
+        {
+            "domain_name": "lowecol.com.au",
+            "destination": "WordPress.com",
+            "date": "2026-06-24 01:24:18"
+        },
+        {
+            "domain_name": "yamahasynth.com",
+            "destination": "Digital Ocean",
+            "date": "2026-06-24 01:20:12"
+        },
+        {
+            "domain_name": "currumbinvalleybusandcoach.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-24 01:14:15"
+        },
         {
             "domain_name": "estrellagardens.com",
             "destination": "Digital Ocean",
@@ -472,11 +487,6 @@
             "date": "2026-06-21 00:15:44"
         },
         {
-            "domain_name": "playonapp.com",
-            "destination": "Kinsta",
-            "date": "2026-06-20 20:04:34"
-        },
-        {
             "domain_name": "saintpatrickacademy.org",
             "destination": "Liquid Web",
             "date": "2026-06-20 19:59:45"
@@ -490,16 +500,6 @@
             "domain_name": "greatwardens.org",
             "destination": "Kinsta",
             "date": "2026-06-20 19:46:11"
-        },
-        {
-            "domain_name": "westcoastcontainer.com",
-            "destination": "Kinsta",
-            "date": "2026-06-20 19:29:51"
-        },
-        {
-            "domain_name": "orient-electric.com",
-            "destination": "Kinsta",
-            "date": "2026-06-20 19:17:03"
         }
     ],
     "dailyMovedStat": {
@@ -1147,15 +1147,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 13936,
-        "Kinsta": 10747,
-        "Digital Ocean": 6966,
+        "Kinsta": 10748,
+        "Digital Ocean": 6967,
         "SiteGround": 5726,
         "Hostinger": 5344,
         "Bluehost": 4671,
         "GoDaddy": 1768,
         "Liquid Web": 898,
         "BigScoots": 896,
-        "WordPress.com": 731,
+        "WordPress.com": 732,
         "GridPane": 708,
         "OVH": 692,
         "InMotion Hosting": 586,
