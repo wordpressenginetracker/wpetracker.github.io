@@ -1,6 +1,16 @@
 {
-    "siteCount": 152686,
+    "siteCount": 152693,
     "recentlyMoved": [
+        {
+            "domain_name": "nemiatx.com",
+            "destination": "Kinsta",
+            "date": "2026-06-24 18:01:22"
+        },
+        {
+            "domain_name": "victoriabayplus.com",
+            "destination": "GridPane",
+            "date": "2026-06-24 17:22:45"
+        },
         {
             "domain_name": "ssitennis.com",
             "destination": "Bluehost",
@@ -482,11 +492,6 @@
             "date": "2026-06-23 09:00:13"
         },
         {
-            "domain_name": "www.minervaneurosciences.com",
-            "destination": "Kinsta",
-            "date": "2026-06-23 08:58:05"
-        },
-        {
             "domain_name": "www.romanolaw.com",
             "destination": "Pressable",
             "date": "2026-06-23 08:45:28"
@@ -495,11 +500,6 @@
             "domain_name": "libertyandfrank.com.au",
             "destination": "Hostinger",
             "date": "2026-06-23 08:33:32"
-        },
-        {
-            "domain_name": "calltoactionllc.com",
-            "destination": "Namecheap",
-            "date": "2026-06-23 08:08:11"
         }
     ],
     "dailyMovedStat": {
@@ -1147,7 +1147,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13944,
-        "Kinsta": 10762,
+        "Kinsta": 10763,
         "Digital Ocean": 6978,
         "SiteGround": 5726,
         "Hostinger": 5350,
@@ -1156,7 +1156,7 @@
         "Liquid Web": 899,
         "BigScoots": 897,
         "WordPress.com": 733,
-        "GridPane": 708,
+        "GridPane": 709,
         "OVH": 692,
         "InMotion Hosting": 586,
         "Namecheap": 572,
