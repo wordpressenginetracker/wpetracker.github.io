@@ -1,6 +1,26 @@
 {
-    "siteCount": 152825,
+    "siteCount": 152847,
     "recentlyMoved": [
+        {
+            "domain_name": "garage-bucher.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-25 08:02:03"
+        },
+        {
+            "domain_name": "healthathome.care",
+            "destination": "BigScoots",
+            "date": "2026-06-25 07:56:01"
+        },
+        {
+            "domain_name": "blechtech.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-25 07:49:26"
+        },
+        {
+            "domain_name": "allbridge.com",
+            "destination": "Kinsta",
+            "date": "2026-06-25 07:27:09"
+        },
         {
             "domain_name": "northstarrecycling.com",
             "destination": "GoDaddy",
@@ -480,26 +500,6 @@
             "domain_name": "asamanagementservices.com",
             "destination": "Kinsta",
             "date": "2026-06-23 16:22:27"
-        },
-        {
-            "domain_name": "www.maysinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 16:12:15"
-        },
-        {
-            "domain_name": "physicaltherapyway.com",
-            "destination": "Pressable",
-            "date": "2026-06-23 16:03:47"
-        },
-        {
-            "domain_name": "www.acclaimip.com",
-            "destination": "Kinsta",
-            "date": "2026-06-23 15:45:40"
-        },
-        {
-            "domain_name": "womeningovernment.org",
-            "destination": "Kinsta",
-            "date": "2026-06-23 15:13:37"
         }
     ],
     "dailyMovedStat": {
@@ -1148,14 +1148,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 13948,
-        "Kinsta": 10767,
+        "Kinsta": 10769,
         "Digital Ocean": 6983,
         "SiteGround": 5727,
         "Hostinger": 5353,
-        "Bluehost": 4674,
+        "Bluehost": 4675,
         "GoDaddy": 1770,
         "Liquid Web": 900,
-        "BigScoots": 897,
+        "BigScoots": 898,
         "WordPress.com": 733,
         "GridPane": 709,
         "OVH": 693,
