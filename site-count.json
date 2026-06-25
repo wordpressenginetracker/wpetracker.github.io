@@ -1,6 +1,11 @@
 {
-    "siteCount": 152911,
+    "siteCount": 152919,
     "recentlyMoved": [
+        {
+            "domain_name": "nuwaycarcenter.com",
+            "destination": "Kinsta",
+            "date": "2026-06-25 14:03:08"
+        },
         {
             "domain_name": "completehealthcc.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "currumbinvalleybusandcoach.com.au",
             "destination": "Kinsta",
             "date": "2026-06-24 01:14:15"
-        },
-        {
-            "domain_name": "nwmechanicalgroup.com",
-            "destination": "Kinsta",
-            "date": "2026-06-23 21:37:06"
         }
     ],
     "dailyMovedStat": {
@@ -1147,8 +1147,8 @@
         "2026-06-24": "152777"
     },
     "topDestinationHosts": {
-        "Pressable": 13956,
-        "Kinsta": 10778,
+        "Pressable": 13957,
+        "Kinsta": 10779,
         "Digital Ocean": 6983,
         "SiteGround": 5727,
         "Hostinger": 5356,
