@@ -1,6 +1,11 @@
 {
-    "siteCount": 152777,
+    "siteCount": 152788,
     "recentlyMoved": [
+        {
+            "domain_name": "www.broadviewheating.com",
+            "destination": "Pressable",
+            "date": "2026-06-24 23:55:54"
+        },
         {
             "domain_name": "meierswine.com",
             "destination": "Digital Ocean",
@@ -485,11 +490,6 @@
             "domain_name": "niblockelectrical.co.uk",
             "destination": "Krystal Hosting",
             "date": "2026-06-23 13:35:34"
-        },
-        {
-            "domain_name": "toing.io",
-            "destination": "Hostinger",
-            "date": "2026-06-23 13:26:25"
         },
         {
             "domain_name": "nolinrecc.com",
@@ -1147,7 +1147,7 @@
         "2026-06-24": "152777"
     },
     "topDestinationHosts": {
-        "Pressable": 13947,
+        "Pressable": 13948,
         "Kinsta": 10766,
         "Digital Ocean": 6982,
         "SiteGround": 5727,
