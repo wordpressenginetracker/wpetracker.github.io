@@ -1,6 +1,11 @@
 {
-    "siteCount": 152806,
+    "siteCount": 152812,
     "recentlyMoved": [
+        {
+            "domain_name": "hostsafetytraining.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-06-25 03:59:37"
+        },
         {
             "domain_name": "shootlocationsuccess.com",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "womeningovernment.org",
             "destination": "Kinsta",
             "date": "2026-06-23 15:13:37"
-        },
-        {
-            "domain_name": "mppinnovation.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-23 13:48:32"
         },
         {
             "domain_name": "niblockelectrical.co.uk",
@@ -1149,7 +1149,7 @@
     "topDestinationHosts": {
         "Pressable": 13948,
         "Kinsta": 10766,
-        "Digital Ocean": 6982,
+        "Digital Ocean": 6983,
         "SiteGround": 5727,
         "Hostinger": 5353,
         "Bluehost": 4674,
