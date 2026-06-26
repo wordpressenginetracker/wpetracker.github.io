@@ -1,6 +1,11 @@
 {
-    "siteCount": 153120,
+    "siteCount": 153128,
     "recentlyMoved": [
+        {
+            "domain_name": "factoryourload.com",
+            "destination": "Kinsta",
+            "date": "2026-06-26 01:52:29"
+        },
         {
             "domain_name": "thewalktuscaloosa.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "bunburymiami.com",
             "destination": "Bluehost",
             "date": "2026-06-24 16:00:35"
-        },
-        {
-            "domain_name": "www.streetscapepartners.com",
-            "destination": "Digital Ocean",
-            "date": "2026-06-24 15:57:33"
         },
         {
             "domain_name": "bergmanporretta.com",
@@ -1149,7 +1149,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13959,
-        "Kinsta": 10799,
+        "Kinsta": 10801,
         "Digital Ocean": 6989,
         "SiteGround": 5727,
         "Hostinger": 5360,
