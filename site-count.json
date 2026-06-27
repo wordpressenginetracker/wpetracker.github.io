@@ -1,6 +1,11 @@
 {
-    "siteCount": 153596,
+    "siteCount": 153607,
     "recentlyMoved": [
+        {
+            "domain_name": "nycfirewire.net",
+            "destination": "Hostinger",
+            "date": "2026-06-27 17:46:31"
+        },
         {
             "domain_name": "thealvesgroup.ca",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "herz-rj.ch",
             "destination": "Kinsta",
             "date": "2026-06-26 08:10:00"
-        },
-        {
-            "domain_name": "pyrofires.co.nz",
-            "destination": "Kinsta",
-            "date": "2026-06-26 08:03:36"
         }
     ],
     "dailyMovedStat": {
@@ -1153,7 +1153,7 @@
         "Kinsta": 10850,
         "Digital Ocean": 6993,
         "SiteGround": 5727,
-        "Hostinger": 5372,
+        "Hostinger": 5373,
         "Bluehost": 4680,
         "GoDaddy": 1779,
         "Liquid Web": 901,
