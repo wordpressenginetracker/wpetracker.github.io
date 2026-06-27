@@ -1,10 +1,15 @@
 {
-    "siteCount": 153524,
+    "siteCount": 153540,
     "recentlyMoved": [
         {
             "domain_name": "www.inaraft.com",
             "destination": "Pressable",
             "date": "2026-06-27 12:47:39"
+        },
+        {
+            "domain_name": "telephonedoctor.com",
+            "destination": "Kinsta",
+            "date": "2026-06-27 12:33:06"
         },
         {
             "domain_name": "blueantmedia.com",
@@ -495,11 +500,6 @@
             "domain_name": "factoryourload.com",
             "destination": "Kinsta",
             "date": "2026-06-26 01:52:29"
-        },
-        {
-            "domain_name": "thewalktuscaloosa.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 01:18:52"
         }
     ],
     "dailyMovedStat": {
@@ -1149,12 +1149,12 @@
         "2026-06-26": "153394"
     },
     "topDestinationHosts": {
-        "Pressable": 13971,
-        "Kinsta": 10847,
+        "Pressable": 13972,
+        "Kinsta": 10848,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
         "Hostinger": 5371,
-        "Bluehost": 4679,
+        "Bluehost": 4680,
         "GoDaddy": 1777,
         "Liquid Web": 901,
         "BigScoots": 899,
