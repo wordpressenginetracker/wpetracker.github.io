@@ -1,6 +1,21 @@
 {
-    "siteCount": 153394,
+    "siteCount": 153409,
     "recentlyMoved": [
+        {
+            "domain_name": "repairmycrack.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-06-27 00:22:26"
+        },
+        {
+            "domain_name": "www.brenmarinc.com",
+            "destination": "Pressable",
+            "date": "2026-06-26 23:57:46"
+        },
+        {
+            "domain_name": "gendroncommunication.com",
+            "destination": "GoDaddy",
+            "date": "2026-06-26 23:42:46"
+        },
         {
             "domain_name": "eliteauctions.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "ajdanboise.com",
             "destination": "Kinsta",
             "date": "2026-06-25 19:46:20"
-        },
-        {
-            "domain_name": "fitness-nation.net",
-            "destination": "Kinsta",
-            "date": "2026-06-25 19:36:02"
-        },
-        {
-            "domain_name": "uniquehvac.com",
-            "destination": "Liquid Web",
-            "date": "2026-06-25 17:49:36"
-        },
-        {
-            "domain_name": "moneyinafrica.com",
-            "destination": "HostGator",
-            "date": "2026-06-25 17:30:44"
         }
     ],
     "dailyMovedStat": {
@@ -1149,13 +1149,13 @@
         "2026-06-26": "153394"
     },
     "topDestinationHosts": {
-        "Pressable": 13966,
-        "Kinsta": 10839,
+        "Pressable": 13967,
+        "Kinsta": 10840,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
         "Hostinger": 5367,
         "Bluehost": 4678,
-        "GoDaddy": 1776,
+        "GoDaddy": 1777,
         "Liquid Web": 901,
         "BigScoots": 899,
         "WordPress.com": 735,
