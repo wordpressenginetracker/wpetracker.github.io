@@ -1,6 +1,21 @@
 {
-    "siteCount": 153474,
+    "siteCount": 153485,
     "recentlyMoved": [
+        {
+            "domain_name": "photovoltaique.swissolar.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-27 07:53:02"
+        },
+        {
+            "domain_name": "www.cambridgecountrycottages.co.uk",
+            "destination": "Pressable",
+            "date": "2026-06-27 07:37:39"
+        },
+        {
+            "domain_name": "glendalemontessorischool.net",
+            "destination": "Kinsta",
+            "date": "2026-06-27 07:32:20"
+        },
         {
             "domain_name": "www.midt-troms.no",
             "destination": "Elementor Hosting",
@@ -482,24 +497,9 @@
             "date": "2026-06-26 00:39:28"
         },
         {
-            "domain_name": "www.foxph.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 00:33:41"
-        },
-        {
             "domain_name": "jimhohl.com",
             "destination": "Hostinger",
             "date": "2026-06-26 00:20:15"
-        },
-        {
-            "domain_name": "www.christianhvac.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 00:12:16"
-        },
-        {
-            "domain_name": "www.cpiplumbing.com",
-            "destination": "Kinsta",
-            "date": "2026-06-25 23:37:17"
         }
     ],
     "dailyMovedStat": {
@@ -1149,8 +1149,8 @@
         "2026-06-26": "153394"
     },
     "topDestinationHosts": {
-        "Pressable": 13969,
-        "Kinsta": 10843,
+        "Pressable": 13970,
+        "Kinsta": 10845,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
         "Hostinger": 5370,
