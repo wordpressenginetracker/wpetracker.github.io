@@ -1,6 +1,11 @@
 {
-    "siteCount": 153440,
+    "siteCount": 153453,
     "recentlyMoved": [
+        {
+            "domain_name": "www.eccustoms.com",
+            "destination": "Pressable",
+            "date": "2026-06-27 03:43:00"
+        },
         {
             "domain_name": "thesagaponackny.com",
             "destination": "Hostinger",
@@ -485,11 +490,6 @@
             "domain_name": "www.cpiplumbing.com",
             "destination": "Kinsta",
             "date": "2026-06-25 23:37:17"
-        },
-        {
-            "domain_name": "decoratrice-np.com",
-            "destination": "Kinsta",
-            "date": "2026-06-25 21:39:07"
         },
         {
             "domain_name": "movementinnovation.org",
@@ -1149,7 +1149,7 @@
         "2026-06-26": "153394"
     },
     "topDestinationHosts": {
-        "Pressable": 13968,
+        "Pressable": 13969,
         "Kinsta": 10842,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
