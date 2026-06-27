@@ -1,6 +1,11 @@
 {
-    "siteCount": 153668,
+    "siteCount": 153672,
     "recentlyMoved": [
+        {
+            "domain_name": "obins.com",
+            "destination": "Namecheap",
+            "date": "2026-06-27 21:48:59"
+        },
         {
             "domain_name": "scott-scott.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "everythingmobilelimited.com",
             "destination": "Kinsta",
             "date": "2026-06-26 09:45:36"
-        },
-        {
-            "domain_name": "multiservicechips.cl",
-            "destination": "Hostinger",
-            "date": "2026-06-26 09:41:26"
         }
     ],
     "dailyMovedStat": {
@@ -1162,7 +1162,7 @@
         "GridPane": 709,
         "OVH": 696,
         "InMotion Hosting": 588,
-        "Namecheap": 572,
+        "Namecheap": 573,
         "Elementor Hosting": 555,
         "IONOS": 538,
         "DreamHost": 520,
