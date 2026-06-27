@@ -1,6 +1,21 @@
 {
-    "siteCount": 153653,
+    "siteCount": 153668,
     "recentlyMoved": [
+        {
+            "domain_name": "scott-scott.com",
+            "destination": "Pressable",
+            "date": "2026-06-27 20:41:21"
+        },
+        {
+            "domain_name": "tecinquiries.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-27 20:40:08"
+        },
+        {
+            "domain_name": "colliertitle.com",
+            "destination": "Pressable",
+            "date": "2026-06-27 20:31:11"
+        },
         {
             "domain_name": "arizonaleader.org",
             "destination": "Pressable",
@@ -477,11 +492,6 @@
             "date": "2026-06-26 10:02:18"
         },
         {
-            "domain_name": "monceauxlaw.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 09:47:59"
-        },
-        {
             "domain_name": "everythingmobilelimited.com",
             "destination": "Kinsta",
             "date": "2026-06-26 09:45:36"
@@ -490,16 +500,6 @@
             "domain_name": "multiservicechips.cl",
             "destination": "Hostinger",
             "date": "2026-06-26 09:41:26"
-        },
-        {
-            "domain_name": "theericandjoeshow.com",
-            "destination": "Pressable",
-            "date": "2026-06-26 08:59:31"
-        },
-        {
-            "domain_name": "www.thebloodproject.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 08:29:00"
         }
     ],
     "dailyMovedStat": {
@@ -1149,7 +1149,7 @@
         "2026-06-26": "153394"
     },
     "topDestinationHosts": {
-        "Pressable": 13975,
+        "Pressable": 13978,
         "Kinsta": 10851,
         "Digital Ocean": 6993,
         "SiteGround": 5727,
@@ -1158,7 +1158,7 @@
         "GoDaddy": 1779,
         "Liquid Web": 901,
         "BigScoots": 900,
-        "WordPress.com": 736,
+        "WordPress.com": 737,
         "GridPane": 709,
         "OVH": 696,
         "InMotion Hosting": 588,
