@@ -1,6 +1,11 @@
 {
-    "siteCount": 153540,
+    "siteCount": 153546,
     "recentlyMoved": [
+        {
+            "domain_name": "nasawatch.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-27 13:04:50"
+        },
         {
             "domain_name": "www.inaraft.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.crewenterprises.com",
             "destination": "Kinsta",
             "date": "2026-06-26 03:55:19"
-        },
-        {
-            "domain_name": "factoryourload.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 01:52:29"
         }
     ],
     "dailyMovedStat": {
@@ -1158,7 +1158,7 @@
         "GoDaddy": 1777,
         "Liquid Web": 901,
         "BigScoots": 899,
-        "WordPress.com": 735,
+        "WordPress.com": 736,
         "GridPane": 709,
         "OVH": 695,
         "InMotion Hosting": 588,
