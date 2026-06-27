@@ -1,6 +1,21 @@
 {
-    "siteCount": 153485,
+    "siteCount": 153496,
     "recentlyMoved": [
+        {
+            "domain_name": "xn--bf-eka.se",
+            "destination": "Kinsta",
+            "date": "2026-06-27 09:24:46"
+        },
+        {
+            "domain_name": "lesvagabondages.com",
+            "destination": "OVH",
+            "date": "2026-06-27 08:42:16"
+        },
+        {
+            "domain_name": "solarstrom.swissolar.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-27 08:27:25"
+        },
         {
             "domain_name": "photovoltaique.swissolar.ch",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "thegreenwaco.com",
             "destination": "Kinsta",
             "date": "2026-06-26 01:03:05"
-        },
-        {
-            "domain_name": "beutofullness.com",
-            "destination": "Hostinger",
-            "date": "2026-06-26 00:42:07"
-        },
-        {
-            "domain_name": "innovativetoll.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 00:39:28"
-        },
-        {
-            "domain_name": "jimhohl.com",
-            "destination": "Hostinger",
-            "date": "2026-06-26 00:20:15"
         }
     ],
     "dailyMovedStat": {
@@ -1150,7 +1150,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13970,
-        "Kinsta": 10845,
+        "Kinsta": 10847,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
         "Hostinger": 5370,
@@ -1160,7 +1160,7 @@
         "BigScoots": 899,
         "WordPress.com": 735,
         "GridPane": 709,
-        "OVH": 694,
+        "OVH": 695,
         "InMotion Hosting": 588,
         "Namecheap": 572,
         "Elementor Hosting": 555,
