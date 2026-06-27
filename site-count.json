@@ -1,6 +1,21 @@
 {
-    "siteCount": 153453,
+    "siteCount": 153469,
     "recentlyMoved": [
+        {
+            "domain_name": "www.midt-troms.no",
+            "destination": "Elementor Hosting",
+            "date": "2026-06-27 04:54:46"
+        },
+        {
+            "domain_name": "lokaleswasser.ch",
+            "destination": "Kinsta",
+            "date": "2026-06-27 04:34:46"
+        },
+        {
+            "domain_name": "broker.ly",
+            "destination": "Bluehost",
+            "date": "2026-06-27 04:02:12"
+        },
         {
             "domain_name": "www.eccustoms.com",
             "destination": "Pressable",
@@ -482,24 +497,9 @@
             "date": "2026-06-26 00:12:16"
         },
         {
-            "domain_name": "apexsouthcreek.com",
-            "destination": "Kinsta",
-            "date": "2026-06-25 23:43:50"
-        },
-        {
             "domain_name": "www.cpiplumbing.com",
             "destination": "Kinsta",
             "date": "2026-06-25 23:37:17"
-        },
-        {
-            "domain_name": "movementinnovation.org",
-            "destination": "Kinsta",
-            "date": "2026-06-25 21:36:54"
-        },
-        {
-            "domain_name": "misterfoam.com",
-            "destination": "DreamHost",
-            "date": "2026-06-25 20:58:58"
         }
     ],
     "dailyMovedStat": {
@@ -1150,11 +1150,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 13969,
-        "Kinsta": 10842,
+        "Kinsta": 10843,
         "Digital Ocean": 6992,
         "SiteGround": 5727,
         "Hostinger": 5370,
-        "Bluehost": 4678,
+        "Bluehost": 4679,
         "GoDaddy": 1777,
         "Liquid Web": 901,
         "BigScoots": 899,
@@ -1163,7 +1163,7 @@
         "OVH": 694,
         "InMotion Hosting": 588,
         "Namecheap": 572,
-        "Elementor Hosting": 554,
+        "Elementor Hosting": 555,
         "IONOS": 538,
         "DreamHost": 520,
         "A2 Hosting": 469,
