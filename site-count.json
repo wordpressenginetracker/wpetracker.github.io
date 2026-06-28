@@ -1,6 +1,11 @@
 {
-    "siteCount": 153768,
+    "siteCount": 153780,
     "recentlyMoved": [
+        {
+            "domain_name": "centsofrelief.org",
+            "destination": "Digital Ocean",
+            "date": "2026-06-28 16:52:55"
+        },
         {
             "domain_name": "5-ranch.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "smoki.rs",
             "destination": "Hostinger",
             "date": "2026-06-26 12:12:47"
-        },
-        {
-            "domain_name": "ipswich.love",
-            "destination": "Hostinger",
-            "date": "2026-06-26 12:08:37"
         }
     ],
     "dailyMovedStat": {
@@ -1152,7 +1152,7 @@
     "topDestinationHosts": {
         "Pressable": 13979,
         "Kinsta": 10853,
-        "Digital Ocean": 6993,
+        "Digital Ocean": 6994,
         "SiteGround": 5727,
         "Hostinger": 5374,
         "Bluehost": 4680,
