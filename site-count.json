@@ -1,6 +1,11 @@
 {
-    "siteCount": 153681,
+    "siteCount": 153693,
     "recentlyMoved": [
+        {
+            "domain_name": "jpcp.org",
+            "destination": "Hostinger",
+            "date": "2026-06-28 00:15:21"
+        },
         {
             "domain_name": "obins.com",
             "destination": "Namecheap",
@@ -490,11 +495,6 @@
             "domain_name": "watermarcproductions.com",
             "destination": "Digital Ocean",
             "date": "2026-06-26 10:06:25"
-        },
-        {
-            "domain_name": "usedmobiles4u.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-06-26 10:02:18"
         },
         {
             "domain_name": "everythingmobilelimited.com",
@@ -1154,7 +1154,7 @@
         "Kinsta": 10851,
         "Digital Ocean": 6993,
         "SiteGround": 5727,
-        "Hostinger": 5373,
+        "Hostinger": 5374,
         "Bluehost": 4680,
         "GoDaddy": 1779,
         "Liquid Web": 901,
