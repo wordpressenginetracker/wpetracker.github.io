@@ -1,6 +1,11 @@
 {
-    "siteCount": 153753,
+    "siteCount": 153768,
     "recentlyMoved": [
+        {
+            "domain_name": "5-ranch.com",
+            "destination": "Kinsta",
+            "date": "2026-06-28 15:57:14"
+        },
         {
             "domain_name": "kristielentravel.com",
             "destination": "Hetzner Online",
@@ -485,11 +490,6 @@
             "domain_name": "conference.defensenews.com",
             "destination": "WordPress VIP",
             "date": "2026-06-26 12:31:06"
-        },
-        {
-            "domain_name": "installationguide.militarytimes.com",
-            "destination": "WordPress VIP",
-            "date": "2026-06-26 12:18:08"
         },
         {
             "domain_name": "smoki.rs",
@@ -1151,7 +1151,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13979,
-        "Kinsta": 10852,
+        "Kinsta": 10853,
         "Digital Ocean": 6993,
         "SiteGround": 5727,
         "Hostinger": 5374,
