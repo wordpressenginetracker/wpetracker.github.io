@@ -1,6 +1,11 @@
 {
-    "siteCount": 153898,
+    "siteCount": 153907,
     "recentlyMoved": [
+        {
+            "domain_name": "carbonquest.com",
+            "destination": "Pressable",
+            "date": "2026-06-29 16:35:42"
+        },
         {
             "domain_name": "www.acelawgroup.com",
             "destination": "Kinsta",
@@ -494,11 +499,6 @@
         {
             "domain_name": "militarytimesfoundation.org",
             "destination": "WordPress VIP",
-            "date": "2026-06-26 13:01:22"
-        },
-        {
-            "domain_name": "milestruckservices.com",
-            "destination": "Hostinger",
             "date": "2026-06-26 13:01:22"
         }
     ],
@@ -1151,7 +1151,7 @@
         "2026-06-28": "153812"
     },
     "topDestinationHosts": {
-        "Pressable": 13980,
+        "Pressable": 13981,
         "Kinsta": 10856,
         "Digital Ocean": 6995,
         "SiteGround": 5727,
