@@ -1,6 +1,11 @@
 {
-    "siteCount": 153867,
+    "siteCount": 153878,
     "recentlyMoved": [
+        {
+            "domain_name": "www.acelawgroup.com",
+            "destination": "Kinsta",
+            "date": "2026-06-29 11:14:59"
+        },
         {
             "domain_name": "madialaw.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "milestruckservices.com",
             "destination": "Hostinger",
             "date": "2026-06-26 13:01:22"
-        },
-        {
-            "domain_name": "meettheminnesotamakers.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 13:00:46"
         }
     ],
     "dailyMovedStat": {
@@ -1152,7 +1152,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13980,
-        "Kinsta": 10855,
+        "Kinsta": 10856,
         "Digital Ocean": 6995,
         "SiteGround": 5727,
         "Hostinger": 5378,
