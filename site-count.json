@@ -1,6 +1,11 @@
 {
-    "siteCount": 154206,
+    "siteCount": 154253,
     "recentlyMoved": [
+        {
+            "domain_name": "www.libertychoiceinsurance.com",
+            "destination": "WordPress.com",
+            "date": "2026-06-30 19:46:21"
+        },
         {
             "domain_name": "espyexperience.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "glendalemontessorischool.net",
             "destination": "Kinsta",
             "date": "2026-06-27 07:32:20"
-        },
-        {
-            "domain_name": "lokaleswasser.ch",
-            "destination": "Kinsta",
-            "date": "2026-06-27 04:34:46"
         }
     ],
     "dailyMovedStat": {
@@ -1153,15 +1153,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 13988,
-        "Kinsta": 10873,
-        "Digital Ocean": 7000,
+        "Kinsta": 10874,
+        "Digital Ocean": 7001,
         "SiteGround": 5727,
         "Hostinger": 5393,
         "Bluehost": 4683,
         "GoDaddy": 1783,
         "Liquid Web": 902,
-        "BigScoots": 900,
-        "WordPress.com": 738,
+        "BigScoots": 901,
+        "WordPress.com": 739,
         "GridPane": 709,
         "OVH": 697,
         "InMotion Hosting": 589,
