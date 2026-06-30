@@ -1,6 +1,11 @@
 {
-    "siteCount": 153974,
+    "siteCount": 153977,
     "recentlyMoved": [
+        {
+            "domain_name": "vnhappyluke.com",
+            "destination": "Hostinger",
+            "date": "2026-06-30 01:17:45"
+        },
         {
             "domain_name": "terraco2.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "happycampers.co.za",
             "destination": "Hetzner Online",
             "date": "2026-06-26 15:34:35"
-        },
-        {
-            "domain_name": "www.artpartners.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 15:22:29"
         }
     ],
     "dailyMovedStat": {
@@ -1156,7 +1156,7 @@
         "Kinsta": 10861,
         "Digital Ocean": 6997,
         "SiteGround": 5727,
-        "Hostinger": 5379,
+        "Hostinger": 5380,
         "Bluehost": 4682,
         "GoDaddy": 1781,
         "Liquid Web": 901,
