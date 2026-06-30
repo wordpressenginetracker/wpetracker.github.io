@@ -1,6 +1,21 @@
 {
-    "siteCount": 154171,
+    "siteCount": 154195,
     "recentlyMoved": [
+        {
+            "domain_name": "tambourunite.com",
+            "destination": "Kinsta",
+            "date": "2026-06-30 17:15:09"
+        },
+        {
+            "domain_name": "joncrozier.com",
+            "destination": "Hostinger",
+            "date": "2026-06-30 16:59:36"
+        },
+        {
+            "domain_name": "thecardinalnation.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-06-30 16:47:24"
+        },
         {
             "domain_name": "rosenbergfound.org",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "broker.ly",
             "destination": "Bluehost",
             "date": "2026-06-27 04:02:12"
-        },
-        {
-            "domain_name": "www.eccustoms.com",
-            "destination": "Pressable",
-            "date": "2026-06-27 03:43:00"
-        },
-        {
-            "domain_name": "eccustoms.com",
-            "destination": "Pressable",
-            "date": "2026-06-27 01:33:59"
-        },
-        {
-            "domain_name": "thewentworthrestaurants.com",
-            "destination": "Hostinger",
-            "date": "2026-06-27 01:21:45"
         }
     ],
     "dailyMovedStat": {
@@ -1153,10 +1153,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 13988,
-        "Kinsta": 10872,
+        "Kinsta": 10873,
         "Digital Ocean": 7000,
         "SiteGround": 5727,
-        "Hostinger": 5392,
+        "Hostinger": 5393,
         "Bluehost": 4683,
         "GoDaddy": 1782,
         "Liquid Web": 902,
@@ -1164,8 +1164,8 @@
         "WordPress.com": 738,
         "GridPane": 709,
         "OVH": 697,
-        "InMotion Hosting": 588,
-        "Namecheap": 573,
+        "InMotion Hosting": 589,
+        "Namecheap": 574,
         "Elementor Hosting": 555,
         "IONOS": 539,
         "DreamHost": 522,
