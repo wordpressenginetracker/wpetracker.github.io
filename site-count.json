@@ -1,6 +1,11 @@
 {
-    "siteCount": 154274,
+    "siteCount": 154280,
     "recentlyMoved": [
+        {
+            "domain_name": "true-keratin.com",
+            "destination": "GoDaddy",
+            "date": "2026-06-30 21:34:14"
+        },
         {
             "domain_name": "loyelmedia.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "winyourcase.friedlrichardson.com",
             "destination": "Pressable",
             "date": "2026-06-27 11:32:27"
-        },
-        {
-            "domain_name": "xn--bf-eka.se",
-            "destination": "Kinsta",
-            "date": "2026-06-27 09:24:46"
         }
     ],
     "dailyMovedStat": {
@@ -1158,10 +1158,10 @@
         "SiteGround": 5727,
         "Hostinger": 5394,
         "Bluehost": 4683,
-        "GoDaddy": 1783,
+        "GoDaddy": 1784,
         "BigScoots": 902,
         "Liquid Web": 902,
-        "WordPress.com": 739,
+        "WordPress.com": 740,
         "GridPane": 709,
         "OVH": 697,
         "InMotion Hosting": 590,
