@@ -1,6 +1,11 @@
 {
-    "siteCount": 154082,
+    "siteCount": 154085,
     "recentlyMoved": [
+        {
+            "domain_name": "next2vet.se",
+            "destination": "Kinsta",
+            "date": "2026-06-30 09:26:42"
+        },
         {
             "domain_name": "doy.org",
             "destination": "Liquid Web",
@@ -490,11 +495,6 @@
             "domain_name": "inspectca.com",
             "destination": "Kinsta",
             "date": "2026-06-26 20:14:38"
-        },
-        {
-            "domain_name": "www.drleerubin.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 20:04:04"
         },
         {
             "domain_name": "regaliacenter.com",
@@ -1153,13 +1153,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 13984,
-        "Kinsta": 10865,
+        "Kinsta": 10866,
         "Digital Ocean": 6999,
         "SiteGround": 5727,
-        "Hostinger": 5390,
+        "Hostinger": 5391,
         "Bluehost": 4682,
         "GoDaddy": 1781,
-        "Liquid Web": 901,
+        "Liquid Web": 902,
         "BigScoots": 900,
         "WordPress.com": 737,
         "GridPane": 709,
