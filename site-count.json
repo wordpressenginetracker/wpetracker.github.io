@@ -1,6 +1,36 @@
 {
-    "siteCount": 154085,
+    "siteCount": 154113,
     "recentlyMoved": [
+        {
+            "domain_name": "www.draltamira.com",
+            "destination": "Kinsta",
+            "date": "2026-06-30 12:31:52"
+        },
+        {
+            "domain_name": "pmlocating.com",
+            "destination": "Bluehost",
+            "date": "2026-06-30 12:13:00"
+        },
+        {
+            "domain_name": "www.herjournal.blog",
+            "destination": "WordPress.com",
+            "date": "2026-06-30 11:57:52"
+        },
+        {
+            "domain_name": "www.carterlandscape.com",
+            "destination": "Pressable",
+            "date": "2026-06-30 11:35:14"
+        },
+        {
+            "domain_name": "adoptionlawny.com",
+            "destination": "GoDaddy",
+            "date": "2026-06-30 11:31:31"
+        },
+        {
+            "domain_name": "www.georgefoxins.com",
+            "destination": "Pressable",
+            "date": "2026-06-30 11:30:51"
+        },
         {
             "domain_name": "next2vet.se",
             "destination": "Kinsta",
@@ -470,36 +500,6 @@
             "domain_name": "thoughtleaderagency.com",
             "destination": "Hostinger",
             "date": "2026-06-26 21:32:14"
-        },
-        {
-            "domain_name": "locusb.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-26 21:09:09"
-        },
-        {
-            "domain_name": "skinkdesign.com",
-            "destination": "WordPress.com",
-            "date": "2026-06-26 21:02:31"
-        },
-        {
-            "domain_name": "directright.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 20:49:04"
-        },
-        {
-            "domain_name": "manuflo.com",
-            "destination": "Pressable",
-            "date": "2026-06-26 20:47:34"
-        },
-        {
-            "domain_name": "inspectca.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 20:14:38"
-        },
-        {
-            "domain_name": "regaliacenter.com",
-            "destination": "Kinsta",
-            "date": "2026-06-26 19:50:49"
         }
     ],
     "dailyMovedStat": {
@@ -1152,16 +1152,16 @@
         "2026-06-29": "153953"
     },
     "topDestinationHosts": {
-        "Pressable": 13984,
-        "Kinsta": 10866,
+        "Pressable": 13986,
+        "Kinsta": 10867,
         "Digital Ocean": 6999,
         "SiteGround": 5727,
         "Hostinger": 5391,
-        "Bluehost": 4682,
-        "GoDaddy": 1781,
+        "Bluehost": 4683,
+        "GoDaddy": 1782,
         "Liquid Web": 902,
         "BigScoots": 900,
-        "WordPress.com": 737,
+        "WordPress.com": 738,
         "GridPane": 709,
         "OVH": 697,
         "InMotion Hosting": 588,
