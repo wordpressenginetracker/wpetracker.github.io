@@ -1,6 +1,16 @@
 {
-    "siteCount": 153953,
+    "siteCount": 153963,
     "recentlyMoved": [
+        {
+            "domain_name": "homecleanheroes.com",
+            "destination": "Kinsta",
+            "date": "2026-06-30 00:24:40"
+        },
+        {
+            "domain_name": "www.gallaghersolicitors.com.au",
+            "destination": "Kinsta",
+            "date": "2026-06-29 23:58:03"
+        },
         {
             "domain_name": "skipngofarm.com",
             "destination": "Digital Ocean",
@@ -480,16 +490,6 @@
             "domain_name": "www.artpartners.com",
             "destination": "Kinsta",
             "date": "2026-06-26 15:22:29"
-        },
-        {
-            "domain_name": "events.fifthdomain.com",
-            "destination": "WordPress VIP",
-            "date": "2026-06-26 13:59:10"
-        },
-        {
-            "domain_name": "events.federaltimes.com",
-            "destination": "WordPress VIP",
-            "date": "2026-06-26 13:59:10"
         },
         {
             "domain_name": "olgaluciatorres.com",
@@ -1153,7 +1153,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 13983,
-        "Kinsta": 10857,
+        "Kinsta": 10859,
         "Digital Ocean": 6997,
         "SiteGround": 5727,
         "Hostinger": 5378,
