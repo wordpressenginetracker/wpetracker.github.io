@@ -1,6 +1,11 @@
 {
-    "siteCount": 154314,
+    "siteCount": 154315,
     "recentlyMoved": [
+        {
+            "domain_name": "www.davenportaviation.com",
+            "destination": "Pressable",
+            "date": "2026-07-01 11:51:31"
+        },
         {
             "domain_name": "www.worldwebtechnology.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "1031rob.com",
             "destination": "OVH",
             "date": "2026-06-27 19:13:35"
-        },
-        {
-            "domain_name": "nycfirewire.net",
-            "destination": "Hostinger",
-            "date": "2026-06-27 17:46:31"
         }
     ],
     "dailyMovedStat": {
@@ -1153,7 +1153,7 @@
         "2026-06-30": "154280"
     },
     "topDestinationHosts": {
-        "Pressable": 13991,
+        "Pressable": 13992,
         "Kinsta": 10876,
         "Digital Ocean": 7001,
         "SiteGround": 5727,
