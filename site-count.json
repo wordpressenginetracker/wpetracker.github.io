@@ -1,5 +1,5 @@
 {
-    "siteCount": 154299,
+    "siteCount": 154308,
     "recentlyMoved": [
         {
             "domain_name": "vnhl84.com",
@@ -30,6 +30,11 @@
             "domain_name": "www.pmw-legal.com",
             "destination": "Pressable",
             "date": "2026-07-01 06:10:15"
+        },
+        {
+            "domain_name": "tha-hl.com",
+            "destination": "Hostinger",
+            "date": "2026-07-01 06:05:53"
         },
         {
             "domain_name": "www.helensandersonassociates.com",
@@ -495,11 +500,6 @@
             "domain_name": "thealvesgroup.ca",
             "destination": "GoDaddy",
             "date": "2026-06-27 17:26:42"
-        },
-        {
-            "domain_name": "www.thefifteencapitolhill.com",
-            "destination": "GoDaddy",
-            "date": "2026-06-27 17:00:11"
         }
     ],
     "dailyMovedStat": {
@@ -1157,7 +1157,7 @@
         "Kinsta": 10876,
         "Digital Ocean": 7001,
         "SiteGround": 5727,
-        "Hostinger": 5400,
+        "Hostinger": 5401,
         "Bluehost": 4683,
         "GoDaddy": 1784,
         "BigScoots": 902,
