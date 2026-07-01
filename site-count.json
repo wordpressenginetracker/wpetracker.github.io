@@ -1,6 +1,11 @@
 {
-    "siteCount": 154376,
+    "siteCount": 154377,
     "recentlyMoved": [
+        {
+            "domain_name": "www.friedlrichardson.com",
+            "destination": "Pressable",
+            "date": "2026-07-01 20:18:47"
+        },
         {
             "domain_name": "oaklandliteracycoalition.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.acelawgroup.com",
             "destination": "Kinsta",
             "date": "2026-06-29 11:14:59"
-        },
-        {
-            "domain_name": "madialaw.com",
-            "destination": "Kinsta",
-            "date": "2026-06-29 09:30:47"
         }
     ],
     "dailyMovedStat": {
@@ -1153,7 +1153,7 @@
         "2026-06-30": "154280"
     },
     "topDestinationHosts": {
-        "Pressable": 13999,
+        "Pressable": 14000,
         "Kinsta": 10886,
         "Digital Ocean": 7003,
         "SiteGround": 5727,
