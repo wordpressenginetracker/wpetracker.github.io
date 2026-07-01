@@ -1,6 +1,11 @@
 {
-    "siteCount": 154308,
+    "siteCount": 154313,
     "recentlyMoved": [
+        {
+            "domain_name": "www.worldwebtechnology.com",
+            "destination": "WordPress.com",
+            "date": "2026-07-01 09:07:27"
+        },
         {
             "domain_name": "vnhl84.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "nycfirewire.net",
             "destination": "Hostinger",
             "date": "2026-06-27 17:46:31"
-        },
-        {
-            "domain_name": "thealvesgroup.ca",
-            "destination": "GoDaddy",
-            "date": "2026-06-27 17:26:42"
         }
     ],
     "dailyMovedStat": {
@@ -1162,7 +1162,7 @@
         "GoDaddy": 1784,
         "BigScoots": 902,
         "Liquid Web": 902,
-        "WordPress.com": 741,
+        "WordPress.com": 742,
         "GridPane": 709,
         "OVH": 697,
         "InMotion Hosting": 590,
