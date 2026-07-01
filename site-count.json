@@ -1,10 +1,15 @@
 {
-    "siteCount": 154398,
+    "siteCount": 154406,
     "recentlyMoved": [
         {
             "domain_name": "www.vendittillc.com",
             "destination": "Kinsta",
             "date": "2026-07-01 21:33:29"
+        },
+        {
+            "domain_name": "mngators.com",
+            "destination": "OVH",
+            "date": "2026-07-01 21:13:22"
         },
         {
             "domain_name": "thomasdelauer.com",
@@ -495,11 +500,6 @@
             "domain_name": "daykinfamilylaw.com.au",
             "destination": "Kinsta",
             "date": "2026-06-30 01:01:07"
-        },
-        {
-            "domain_name": "bocasyrisas.com",
-            "destination": "Hostinger",
-            "date": "2026-06-30 00:03:24"
         }
     ],
     "dailyMovedStat": {
@@ -1160,11 +1160,11 @@
         "Hostinger": 5407,
         "Bluehost": 4683,
         "GoDaddy": 1785,
-        "BigScoots": 902,
+        "BigScoots": 903,
         "Liquid Web": 902,
         "WordPress.com": 742,
         "GridPane": 709,
-        "OVH": 698,
+        "OVH": 699,
         "InMotion Hosting": 590,
         "Namecheap": 575,
         "Elementor Hosting": 555,
