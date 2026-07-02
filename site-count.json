@@ -1,6 +1,16 @@
 {
-    "siteCount": 154617,
+    "siteCount": 154628,
     "recentlyMoved": [
+        {
+            "domain_name": "bailey-weiler.com",
+            "destination": "Pressable",
+            "date": "2026-07-02 07:56:14"
+        },
+        {
+            "domain_name": "globalgig.com",
+            "destination": "Kinsta",
+            "date": "2026-07-02 07:53:21"
+        },
         {
             "domain_name": "vietnamhl.com",
             "destination": "Hostinger",
@@ -485,16 +495,6 @@
             "domain_name": "vn-happyluke.com",
             "destination": "Hostinger",
             "date": "2026-07-01 06:38:56"
-        },
-        {
-            "domain_name": "vietnam-hl.com",
-            "destination": "Hostinger",
-            "date": "2026-07-01 06:29:12"
-        },
-        {
-            "domain_name": "www.reachtech.com",
-            "destination": "WordPress VIP",
-            "date": "2026-07-01 06:12:30"
         },
         {
             "domain_name": "tha-hl.com",
@@ -1154,8 +1154,8 @@
         "2026-07-01": "154406"
     },
     "topDestinationHosts": {
-        "Pressable": 14001,
-        "Kinsta": 10905,
+        "Pressable": 14002,
+        "Kinsta": 10906,
         "Digital Ocean": 7011,
         "SiteGround": 5727,
         "Hostinger": 5432,
