@@ -1,6 +1,31 @@
 {
-    "siteCount": 154714,
+    "siteCount": 154744,
     "recentlyMoved": [
+        {
+            "domain_name": "www.autoclaimsassist.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-07-02 16:09:39"
+        },
+        {
+            "domain_name": "bellistreitsmiles.com",
+            "destination": "Kinsta",
+            "date": "2026-07-02 16:05:06"
+        },
+        {
+            "domain_name": "rlwilsontraining.com",
+            "destination": "Pressable",
+            "date": "2026-07-02 15:45:50"
+        },
+        {
+            "domain_name": "www.appellate.net",
+            "destination": "Pressable",
+            "date": "2026-07-02 15:39:32"
+        },
+        {
+            "domain_name": "www.williamslumber.com",
+            "destination": "Pressable",
+            "date": "2026-07-02 15:34:14"
+        },
         {
             "domain_name": "oci-global.com",
             "destination": "Hostinger",
@@ -472,34 +497,9 @@
             "date": "2026-07-01 20:30:37"
         },
         {
-            "domain_name": "www.friedlrichardson.com",
-            "destination": "Pressable",
-            "date": "2026-07-01 20:18:47"
-        },
-        {
             "domain_name": "casinohlzhans.com",
             "destination": "Hostinger",
             "date": "2026-07-01 20:11:29"
-        },
-        {
-            "domain_name": "oaklandliteracycoalition.org",
-            "destination": "Kinsta",
-            "date": "2026-07-01 18:10:01"
-        },
-        {
-            "domain_name": "twslogistics.com",
-            "destination": "Hostinger",
-            "date": "2026-07-01 17:41:40"
-        },
-        {
-            "domain_name": "viiision.com",
-            "destination": "Hostinger",
-            "date": "2026-07-01 17:22:28"
-        },
-        {
-            "domain_name": "weissmanortho.com",
-            "destination": "Kinsta",
-            "date": "2026-07-01 17:14:41"
         }
     ],
     "dailyMovedStat": {
@@ -1154,8 +1154,8 @@
         "2026-07-01": "154406"
     },
     "topDestinationHosts": {
-        "Pressable": 14004,
-        "Kinsta": 10910,
+        "Pressable": 14007,
+        "Kinsta": 10912,
         "Digital Ocean": 7012,
         "SiteGround": 5727,
         "Hostinger": 5445,
