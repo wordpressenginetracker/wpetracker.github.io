@@ -1,6 +1,21 @@
 {
-    "siteCount": 154707,
+    "siteCount": 154714,
     "recentlyMoved": [
+        {
+            "domain_name": "oci-global.com",
+            "destination": "Hostinger",
+            "date": "2026-07-02 13:44:33"
+        },
+        {
+            "domain_name": "usgoldbuyers.com",
+            "destination": "Kinsta",
+            "date": "2026-07-02 13:26:53"
+        },
+        {
+            "domain_name": "nihonfreeporn.com",
+            "destination": "Hostinger",
+            "date": "2026-07-02 13:25:26"
+        },
         {
             "domain_name": "www.villaroyale.ca",
             "destination": "OVH",
@@ -485,21 +500,6 @@
             "domain_name": "weissmanortho.com",
             "destination": "Kinsta",
             "date": "2026-07-01 17:14:41"
-        },
-        {
-            "domain_name": "tapestry.aeoworks.org",
-            "destination": "Kinsta",
-            "date": "2026-07-01 17:07:56"
-        },
-        {
-            "domain_name": "motiontyres.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-01 17:06:45"
-        },
-        {
-            "domain_name": "linqtransport.com",
-            "destination": "Kinsta",
-            "date": "2026-07-01 16:50:31"
         }
     ],
     "dailyMovedStat": {
@@ -1155,10 +1155,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14004,
-        "Kinsta": 10909,
+        "Kinsta": 10910,
         "Digital Ocean": 7012,
         "SiteGround": 5727,
-        "Hostinger": 5443,
+        "Hostinger": 5445,
         "Bluehost": 4684,
         "GoDaddy": 1786,
         "BigScoots": 906,
