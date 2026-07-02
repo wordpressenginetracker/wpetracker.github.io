@@ -1,6 +1,11 @@
 {
-    "siteCount": 154550,
+    "siteCount": 154551,
     "recentlyMoved": [
+        {
+            "domain_name": "energieberatung-reinders.de",
+            "destination": "Hostinger",
+            "date": "2026-07-02 01:27:20"
+        },
         {
             "domain_name": "theq.net.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "azpetpantry.org",
             "destination": "Kinsta",
             "date": "2026-06-30 15:43:29"
-        },
-        {
-            "domain_name": "dfootecpa.com",
-            "destination": "Kinsta",
-            "date": "2026-06-30 13:41:39"
         }
     ],
     "dailyMovedStat": {
@@ -1158,7 +1158,7 @@
         "Kinsta": 10902,
         "Digital Ocean": 7008,
         "SiteGround": 5727,
-        "Hostinger": 5416,
+        "Hostinger": 5417,
         "Bluehost": 4684,
         "GoDaddy": 1785,
         "BigScoots": 905,
