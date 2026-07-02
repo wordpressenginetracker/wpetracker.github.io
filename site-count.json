@@ -1,6 +1,11 @@
 {
-    "siteCount": 154768,
+    "siteCount": 154832,
     "recentlyMoved": [
+        {
+            "domain_name": "podprint.com",
+            "destination": "Pressable",
+            "date": "2026-07-02 19:54:28"
+        },
         {
             "domain_name": "theunstoppablesinger.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "mngators.com",
             "destination": "OVH",
             "date": "2026-07-01 21:13:22"
-        },
-        {
-            "domain_name": "thomasdelauer.com",
-            "destination": "BigScoots",
-            "date": "2026-07-01 21:06:56"
         }
     ],
     "dailyMovedStat": {
@@ -1154,16 +1154,16 @@
         "2026-07-01": "154406"
     },
     "topDestinationHosts": {
-        "Pressable": 14011,
-        "Kinsta": 10912,
-        "Digital Ocean": 7012,
+        "Pressable": 14012,
+        "Kinsta": 10913,
+        "Digital Ocean": 7014,
         "SiteGround": 5727,
         "Hostinger": 5446,
         "Bluehost": 4684,
-        "GoDaddy": 1786,
-        "BigScoots": 906,
+        "GoDaddy": 1787,
+        "BigScoots": 908,
         "Liquid Web": 903,
-        "WordPress.com": 744,
+        "WordPress.com": 745,
         "GridPane": 710,
         "OVH": 703,
         "InMotion Hosting": 590,
