@@ -1,5 +1,5 @@
 {
-    "siteCount": 154941,
+    "siteCount": 154956,
     "recentlyMoved": [
         {
             "domain_name": "hlthailand66.com",
@@ -10,6 +10,11 @@
             "domain_name": "hl-vn.com",
             "destination": "Hostinger",
             "date": "2026-07-03 04:23:58"
+        },
+        {
+            "domain_name": "www.porterconsulting.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-03 04:16:51"
         },
         {
             "domain_name": "www.goodfellasac.com",
@@ -495,11 +500,6 @@
             "domain_name": "tpchealth.com",
             "destination": "Elementor Hosting",
             "date": "2026-07-02 05:51:43"
-        },
-        {
-            "domain_name": "maler-lippe.de",
-            "destination": "Hostinger",
-            "date": "2026-07-02 05:22:44"
         }
     ],
     "dailyMovedStat": {
@@ -1156,7 +1156,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14015,
-        "Kinsta": 10939,
+        "Kinsta": 10940,
         "Digital Ocean": 7018,
         "SiteGround": 5727,
         "Hostinger": 5468,
