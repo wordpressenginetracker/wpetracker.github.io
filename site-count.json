@@ -1,6 +1,16 @@
 {
-    "siteCount": 155181,
+    "siteCount": 155185,
     "recentlyMoved": [
+        {
+            "domain_name": "webk.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-03 21:53:04"
+        },
+        {
+            "domain_name": "extratech.ca",
+            "destination": "Digital Ocean",
+            "date": "2026-07-03 21:35:21"
+        },
         {
             "domain_name": "media.firearmsdepot.com",
             "destination": "Pressable",
@@ -25,6 +35,11 @@
             "domain_name": "www.suzukilawoffices.com",
             "destination": "Digital Ocean",
             "date": "2026-07-03 21:09:11"
+        },
+        {
+            "domain_name": "everettchristopher.com",
+            "destination": "BigScoots",
+            "date": "2026-07-03 21:07:26"
         },
         {
             "domain_name": "larryosborne.com",
@@ -422,11 +437,6 @@
             "date": "2026-07-03 00:29:52"
         },
         {
-            "domain_name": "queenswayltc.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:27:56"
-        },
-        {
             "domain_name": "sevenbabes.com",
             "destination": "Hostinger",
             "date": "2026-07-03 00:21:45"
@@ -490,16 +500,6 @@
             "domain_name": "indialivecasinohouse.com",
             "destination": "Hostinger",
             "date": "2026-07-02 23:59:23"
-        },
-        {
-            "domain_name": "hapylukecn.com",
-            "destination": "Hostinger",
-            "date": "2026-07-02 23:51:46"
-        },
-        {
-            "domain_name": "happyluck.info",
-            "destination": "Hostinger",
-            "date": "2026-07-02 23:51:46"
         }
     ],
     "dailyMovedStat": {
@@ -1156,13 +1156,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 14030,
-        "Kinsta": 10957,
-        "Digital Ocean": 7027,
+        "Kinsta": 10958,
+        "Digital Ocean": 7028,
         "SiteGround": 5728,
         "Hostinger": 5474,
         "Bluehost": 4686,
         "GoDaddy": 1788,
-        "BigScoots": 911,
+        "BigScoots": 912,
         "Liquid Web": 906,
         "WordPress.com": 745,
         "GridPane": 711,
