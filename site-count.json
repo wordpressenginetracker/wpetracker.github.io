@@ -1,6 +1,11 @@
 {
-    "siteCount": 154987,
+    "siteCount": 154994,
     "recentlyMoved": [
+        {
+            "domain_name": "vitacalm.it",
+            "destination": "Kinsta",
+            "date": "2026-07-03 09:21:43"
+        },
         {
             "domain_name": "tnapaccessforall.org",
             "destination": "Elementor Hosting",
@@ -495,11 +500,6 @@
             "domain_name": "fancyfoto.nl",
             "destination": "WordPress.com",
             "date": "2026-07-02 09:38:06"
-        },
-        {
-            "domain_name": "loldota88.com",
-            "destination": "Hostinger",
-            "date": "2026-07-02 09:15:03"
         }
     ],
     "dailyMovedStat": {
@@ -1156,7 +1156,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14018,
-        "Kinsta": 10941,
+        "Kinsta": 10942,
         "Digital Ocean": 7018,
         "SiteGround": 5727,
         "Hostinger": 5471,
@@ -1169,7 +1169,7 @@
         "OVH": 704,
         "InMotion Hosting": 590,
         "Namecheap": 575,
-        "Elementor Hosting": 557,
+        "Elementor Hosting": 558,
         "IONOS": 541,
         "DreamHost": 523,
         "A2 Hosting": 470,
