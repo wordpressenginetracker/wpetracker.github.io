@@ -1,6 +1,26 @@
 {
-    "siteCount": 155227,
+    "siteCount": 155237,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fagskolestudent.no",
+            "destination": "Digital Ocean",
+            "date": "2026-07-04 08:27:07"
+        },
+        {
+            "domain_name": "hlpromo-th.com",
+            "destination": "Hostinger",
+            "date": "2026-07-04 08:20:31"
+        },
+        {
+            "domain_name": "happy-lukecn.com",
+            "destination": "Hostinger",
+            "date": "2026-07-04 07:44:22"
+        },
+        {
+            "domain_name": "firerecycling.ie",
+            "destination": "Hostinger",
+            "date": "2026-07-04 07:09:10"
+        },
         {
             "domain_name": "upthegutter.com",
             "destination": "Hostinger",
@@ -417,11 +437,6 @@
             "date": "2026-07-03 00:40:22"
         },
         {
-            "domain_name": "hopestreetterrace.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:39:04"
-        },
-        {
             "domain_name": "www.insurancerevolution.es",
             "destination": "IONOS",
             "date": "2026-07-03 00:36:16"
@@ -440,11 +455,6 @@
             "domain_name": "casino888th.com",
             "destination": "Hostinger",
             "date": "2026-07-03 00:31:49"
-        },
-        {
-            "domain_name": "bayfieldmanorrh.com",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:30:03"
         },
         {
             "domain_name": "shelburnerh.ca",
@@ -477,19 +487,9 @@
             "date": "2026-07-03 00:17:28"
         },
         {
-            "domain_name": "hub.yamaha.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-03 00:10:34"
-        },
-        {
             "domain_name": "seaforthltc.ca",
             "destination": "Kinsta",
             "date": "2026-07-03 00:04:27"
-        },
-        {
-            "domain_name": "hlzhanscn.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:03:50"
         },
         {
             "domain_name": "jessiewalkerphoto.com",
@@ -1158,9 +1158,9 @@
     "topDestinationHosts": {
         "Pressable": 14031,
         "Kinsta": 10960,
-        "Digital Ocean": 7028,
+        "Digital Ocean": 7029,
         "SiteGround": 5728,
-        "Hostinger": 5476,
+        "Hostinger": 5479,
         "Bluehost": 4687,
         "GoDaddy": 1788,
         "BigScoots": 912,
