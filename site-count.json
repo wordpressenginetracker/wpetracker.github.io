@@ -1,6 +1,26 @@
 {
-    "siteCount": 155330,
+    "siteCount": 155372,
     "recentlyMoved": [
+        {
+            "domain_name": "autoniche.ca",
+            "destination": "Hostinger",
+            "date": "2026-07-04 20:30:23"
+        },
+        {
+            "domain_name": "akifkhan.com",
+            "destination": "Hostinger",
+            "date": "2026-07-04 20:10:07"
+        },
+        {
+            "domain_name": "guidinglightnow.com",
+            "destination": "Hostinger",
+            "date": "2026-07-04 19:53:55"
+        },
+        {
+            "domain_name": "patrickfagan.com",
+            "destination": "Hostinger",
+            "date": "2026-07-04 19:34:48"
+        },
         {
             "domain_name": "cssdtv.com",
             "destination": "GoDaddy",
@@ -477,29 +497,9 @@
             "date": "2026-07-03 00:55:34"
         },
         {
-            "domain_name": "loldotavn.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:52:35"
-        },
-        {
             "domain_name": "luxxlifetips.com",
             "destination": "Hostinger",
             "date": "2026-07-03 00:40:22"
-        },
-        {
-            "domain_name": "luxliga.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:40:22"
-        },
-        {
-            "domain_name": "livecasinoin77.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:35:52"
-        },
-        {
-            "domain_name": "www.thecanopyexperts.co.uk",
-            "destination": "OVH",
-            "date": "2026-07-03 00:33:29"
         }
     ],
     "dailyMovedStat": {
@@ -1157,17 +1157,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 14033,
-        "Kinsta": 10961,
+        "Kinsta": 10962,
         "Digital Ocean": 7032,
         "SiteGround": 5728,
-        "Hostinger": 5479,
+        "Hostinger": 5485,
         "Bluehost": 4687,
-        "GoDaddy": 1789,
+        "GoDaddy": 1790,
         "BigScoots": 913,
         "Liquid Web": 906,
         "WordPress.com": 746,
         "GridPane": 711,
-        "OVH": 704,
+        "OVH": 705,
         "InMotion Hosting": 590,
         "Namecheap": 575,
         "Elementor Hosting": 558,
