@@ -1,6 +1,16 @@
 {
-    "siteCount": 155209,
+    "siteCount": 155217,
     "recentlyMoved": [
+        {
+            "domain_name": "bauseitspartner.ch",
+            "destination": "Kinsta",
+            "date": "2026-07-04 03:59:17"
+        },
+        {
+            "domain_name": "patsitalian.com.au",
+            "destination": "Bluehost",
+            "date": "2026-07-04 03:21:55"
+        },
         {
             "domain_name": "www.fcpsychexperts.com",
             "destination": "Pressable",
@@ -478,16 +488,6 @@
         },
         {
             "domain_name": "hlroc.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:03:50"
-        },
-        {
-            "domain_name": "hlpromo-vn.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:03:50"
-        },
-        {
-            "domain_name": "hlpromo-my.com",
             "destination": "Hostinger",
             "date": "2026-07-03 00:03:50"
         },
@@ -1157,11 +1157,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 14031,
-        "Kinsta": 10959,
+        "Kinsta": 10960,
         "Digital Ocean": 7028,
         "SiteGround": 5728,
         "Hostinger": 5474,
-        "Bluehost": 4686,
+        "Bluehost": 4687,
         "GoDaddy": 1788,
         "BigScoots": 912,
         "Liquid Web": 906,
