@@ -1,6 +1,11 @@
 {
-    "siteCount": 155247,
+    "siteCount": 155250,
     "recentlyMoved": [
+        {
+            "domain_name": "fama.ventures",
+            "destination": "IONOS",
+            "date": "2026-07-04 09:11:48"
+        },
         {
             "domain_name": "macktownconstruction.com",
             "destination": "WordPress.com",
@@ -480,11 +485,6 @@
             "domain_name": "shelburneltc.ca",
             "destination": "Kinsta",
             "date": "2026-07-03 00:29:52"
-        },
-        {
-            "domain_name": "sevenbabes.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:21:45"
         },
         {
             "domain_name": "southbridgeroseview.ca",
@@ -1171,7 +1171,7 @@
         "InMotion Hosting": 590,
         "Namecheap": 575,
         "Elementor Hosting": 558,
-        "IONOS": 542,
+        "IONOS": 543,
         "DreamHost": 524,
         "A2 Hosting": 470,
         "Hetzner Online": 466,
