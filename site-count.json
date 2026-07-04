@@ -1,6 +1,11 @@
 {
-    "siteCount": 155384,
+    "siteCount": 155387,
     "recentlyMoved": [
+        {
+            "domain_name": "mimosacollection.com",
+            "destination": "Hetzner Online",
+            "date": "2026-07-04 21:28:59"
+        },
         {
             "domain_name": "autoniche.ca",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "thepalace-lepalais.ca",
             "destination": "Kinsta",
             "date": "2026-07-03 00:55:34"
-        },
-        {
-            "domain_name": "luxxlifetips.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:40:22"
         }
     ],
     "dailyMovedStat": {
@@ -1174,7 +1174,7 @@
         "IONOS": 543,
         "DreamHost": 525,
         "A2 Hosting": 470,
-        "Hetzner Online": 466,
+        "Hetzner Online": 467,
         "HostGator": 344
     },
     "dailyTotalStat": {
