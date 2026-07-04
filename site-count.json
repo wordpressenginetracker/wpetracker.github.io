@@ -1,10 +1,30 @@
 {
-    "siteCount": 155308,
+    "siteCount": 155327,
     "recentlyMoved": [
+        {
+            "domain_name": "cssdtv.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-04 17:17:38"
+        },
+        {
+            "domain_name": "kabbline.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-07-04 16:55:30"
+        },
+        {
+            "domain_name": "brookscustomcomfort.com",
+            "destination": "HostGator",
+            "date": "2026-07-04 16:54:02"
+        },
         {
             "domain_name": "relianceautomechanic.ca",
             "destination": "Digital Ocean",
             "date": "2026-07-04 16:29:26"
+        },
+        {
+            "domain_name": "churchequippers.com",
+            "destination": "DreamHost",
+            "date": "2026-07-04 16:27:53"
         },
         {
             "domain_name": "deals.firearmsdepot.com",
@@ -462,11 +482,6 @@
             "date": "2026-07-03 00:52:35"
         },
         {
-            "domain_name": "lchpromo-in.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 00:51:53"
-        },
-        {
             "domain_name": "luxxlifetips.com",
             "destination": "Hostinger",
             "date": "2026-07-03 00:40:22"
@@ -485,21 +500,6 @@
             "domain_name": "www.thecanopyexperts.co.uk",
             "destination": "OVH",
             "date": "2026-07-03 00:33:29"
-        },
-        {
-            "domain_name": "southbridgeroseview.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:17:28"
-        },
-        {
-            "domain_name": "southbridgepinewood.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:17:28"
-        },
-        {
-            "domain_name": "southbridgelakehead.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:17:28"
         }
     ],
     "dailyMovedStat": {
@@ -1158,11 +1158,11 @@
     "topDestinationHosts": {
         "Pressable": 14033,
         "Kinsta": 10961,
-        "Digital Ocean": 7031,
+        "Digital Ocean": 7032,
         "SiteGround": 5728,
         "Hostinger": 5479,
         "Bluehost": 4687,
-        "GoDaddy": 1788,
+        "GoDaddy": 1789,
         "BigScoots": 913,
         "Liquid Web": 906,
         "WordPress.com": 746,
@@ -1172,10 +1172,10 @@
         "Namecheap": 575,
         "Elementor Hosting": 558,
         "IONOS": 543,
-        "DreamHost": 524,
+        "DreamHost": 525,
         "A2 Hosting": 470,
         "Hetzner Online": 466,
-        "HostGator": 343
+        "HostGator": 344
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
