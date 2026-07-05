@@ -1,6 +1,11 @@
 {
-    "siteCount": 155448,
+    "siteCount": 155451,
     "recentlyMoved": [
+        {
+            "domain_name": "feringhee.com",
+            "destination": "Hostinger",
+            "date": "2026-07-05 09:14:43"
+        },
         {
             "domain_name": "browndogfurniture.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "gogreendrycarpet.com",
             "destination": "Bluehost",
             "date": "2026-07-03 03:25:08"
-        },
-        {
-            "domain_name": "warkworthplace.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 01:31:35"
         }
     ],
     "dailyMovedStat": {
@@ -1161,7 +1161,7 @@
         "Kinsta": 10962,
         "Digital Ocean": 7033,
         "SiteGround": 5728,
-        "Hostinger": 5487,
+        "Hostinger": 5488,
         "Bluehost": 4687,
         "GoDaddy": 1790,
         "BigScoots": 913,
