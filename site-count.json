@@ -1,6 +1,11 @@
 {
-    "siteCount": 155509,
+    "siteCount": 155514,
     "recentlyMoved": [
+        {
+            "domain_name": "elevatebaseball.io",
+            "destination": "Hostinger",
+            "date": "2026-07-05 17:49:20"
+        },
         {
             "domain_name": "hatcans.com",
             "destination": "Namecheap",
@@ -490,11 +495,6 @@
             "domain_name": "www.porterconsulting.com.au",
             "destination": "Kinsta",
             "date": "2026-07-03 04:16:51"
-        },
-        {
-            "domain_name": "www.goodfellasac.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-03 03:59:25"
         },
         {
             "domain_name": "hpsconstructionservices.com",
@@ -1161,7 +1161,7 @@
         "Kinsta": 10963,
         "Digital Ocean": 7033,
         "SiteGround": 5728,
-        "Hostinger": 5488,
+        "Hostinger": 5489,
         "Bluehost": 4687,
         "GoDaddy": 1790,
         "BigScoots": 913,
