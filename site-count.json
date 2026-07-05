@@ -1,6 +1,11 @@
 {
-    "siteCount": 155461,
+    "siteCount": 155482,
     "recentlyMoved": [
+        {
+            "domain_name": "spcculturepark.com",
+            "destination": "Kinsta",
+            "date": "2026-07-05 12:59:07"
+        },
         {
             "domain_name": "feringhee.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "hpsconstructionservices.com",
             "destination": "Hostinger",
             "date": "2026-07-03 03:48:37"
-        },
-        {
-            "domain_name": "gogreendrycarpet.com",
-            "destination": "Bluehost",
-            "date": "2026-07-03 03:25:08"
         }
     ],
     "dailyMovedStat": {
@@ -1158,7 +1158,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14033,
-        "Kinsta": 10962,
+        "Kinsta": 10963,
         "Digital Ocean": 7033,
         "SiteGround": 5728,
         "Hostinger": 5488,
