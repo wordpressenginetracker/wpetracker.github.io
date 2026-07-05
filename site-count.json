@@ -1,6 +1,16 @@
 {
-    "siteCount": 155424,
+    "siteCount": 155440,
     "recentlyMoved": [
+        {
+            "domain_name": "lchholidays.com",
+            "destination": "Hostinger",
+            "date": "2026-07-05 03:59:17"
+        },
+        {
+            "domain_name": "derada.it",
+            "destination": "Hostinger",
+            "date": "2026-07-05 03:40:44"
+        },
         {
             "domain_name": "mimosacollection.com",
             "destination": "Hetzner Online",
@@ -490,16 +500,6 @@
             "domain_name": "warkworthplace.ca",
             "destination": "Kinsta",
             "date": "2026-07-03 01:31:35"
-        },
-        {
-            "domain_name": "thepalaceretirement.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:55:34"
-        },
-        {
-            "domain_name": "thepalace-lepalais.ca",
-            "destination": "Kinsta",
-            "date": "2026-07-03 00:55:34"
         }
     ],
     "dailyMovedStat": {
@@ -1161,7 +1161,7 @@
         "Kinsta": 10962,
         "Digital Ocean": 7032,
         "SiteGround": 5728,
-        "Hostinger": 5485,
+        "Hostinger": 5487,
         "Bluehost": 4687,
         "GoDaddy": 1790,
         "BigScoots": 913,
