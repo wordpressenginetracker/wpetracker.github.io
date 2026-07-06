@@ -1,6 +1,16 @@
 {
-    "siteCount": 155682,
+    "siteCount": 155691,
     "recentlyMoved": [
+        {
+            "domain_name": "mahsas.me",
+            "destination": "GoDaddy",
+            "date": "2026-07-06 20:43:50"
+        },
+        {
+            "domain_name": "www.m3glass.com",
+            "destination": "Bluehost",
+            "date": "2026-07-06 20:38:51"
+        },
         {
             "domain_name": "www.robbinsinjurylaw.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "windycityortho.com",
             "destination": "Kinsta",
             "date": "2026-07-03 11:24:19"
-        },
-        {
-            "domain_name": "vitacalm.it",
-            "destination": "Kinsta",
-            "date": "2026-07-03 09:21:43"
-        },
-        {
-            "domain_name": "tnapaccessforall.org",
-            "destination": "Elementor Hosting",
-            "date": "2026-07-03 09:17:12"
         }
     ],
     "dailyMovedStat": {
@@ -1163,8 +1163,8 @@
         "Digital Ocean": 7035,
         "SiteGround": 5728,
         "Hostinger": 5490,
-        "Bluehost": 4687,
-        "GoDaddy": 1791,
+        "Bluehost": 4688,
+        "GoDaddy": 1792,
         "BigScoots": 913,
         "Liquid Web": 907,
         "WordPress.com": 750,
