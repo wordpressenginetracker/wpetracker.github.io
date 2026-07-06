@@ -1,6 +1,11 @@
 {
-    "siteCount": 155568,
+    "siteCount": 155574,
     "recentlyMoved": [
+        {
+            "domain_name": "poopatrolusa.com",
+            "destination": "WordPress.com",
+            "date": "2026-07-06 04:05:40"
+        },
         {
             "domain_name": "divorce.valemuslaw.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "wpaa.tv",
             "destination": "Hostinger",
             "date": "2026-07-03 08:08:53"
-        },
-        {
-            "domain_name": "foodandfibrecove.nz",
-            "destination": "Pressable",
-            "date": "2026-07-03 07:31:31"
         }
     ],
     "dailyMovedStat": {
@@ -1167,7 +1167,7 @@
         "GoDaddy": 1791,
         "BigScoots": 913,
         "Liquid Web": 906,
-        "WordPress.com": 749,
+        "WordPress.com": 750,
         "GridPane": 711,
         "OVH": 705,
         "InMotion Hosting": 590,
