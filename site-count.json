@@ -1,6 +1,21 @@
 {
-    "siteCount": 155585,
+    "siteCount": 155596,
     "recentlyMoved": [
+        {
+            "domain_name": "terralawfirm.com",
+            "destination": "Hostinger",
+            "date": "2026-07-06 09:29:06"
+        },
+        {
+            "domain_name": "centerforthehumanities.org",
+            "destination": "Kinsta",
+            "date": "2026-07-06 08:46:31"
+        },
+        {
+            "domain_name": "saskiaquirke.com",
+            "destination": "Namecheap",
+            "date": "2026-07-06 08:40:07"
+        },
         {
             "domain_name": "poopatrolusa.com",
             "destination": "WordPress.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.valemuslaw.com",
             "destination": "Pressable",
             "date": "2026-07-03 08:40:46"
-        },
-        {
-            "domain_name": "bitcoin-vietnam.com",
-            "destination": "Hostinger",
-            "date": "2026-07-03 08:12:58"
-        },
-        {
-            "domain_name": "www.intherightorder.co.uk",
-            "destination": "Pressable",
-            "date": "2026-07-03 08:12:19"
-        },
-        {
-            "domain_name": "wpaa.tv",
-            "destination": "Hostinger",
-            "date": "2026-07-03 08:08:53"
         }
     ],
     "dailyMovedStat": {
@@ -1159,10 +1159,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14034,
-        "Kinsta": 10963,
+        "Kinsta": 10964,
         "Digital Ocean": 7033,
         "SiteGround": 5728,
-        "Hostinger": 5489,
+        "Hostinger": 5490,
         "Bluehost": 4687,
         "GoDaddy": 1791,
         "BigScoots": 913,
@@ -1171,7 +1171,7 @@
         "GridPane": 711,
         "OVH": 705,
         "InMotion Hosting": 590,
-        "Namecheap": 576,
+        "Namecheap": 577,
         "Elementor Hosting": 558,
         "IONOS": 543,
         "DreamHost": 525,
