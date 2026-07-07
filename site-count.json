@@ -1,6 +1,36 @@
 {
-    "siteCount": 155779,
+    "siteCount": 155808,
     "recentlyMoved": [
+        {
+            "domain_name": "midnightsunmining.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-07 13:43:53"
+        },
+        {
+            "domain_name": "southbridgeowensound.com",
+            "destination": "Kinsta",
+            "date": "2026-07-07 12:54:33"
+        },
+        {
+            "domain_name": "southbridgelondon.com",
+            "destination": "Kinsta",
+            "date": "2026-07-07 12:54:33"
+        },
+        {
+            "domain_name": "southbridgecornwall.com",
+            "destination": "Kinsta",
+            "date": "2026-07-07 12:54:33"
+        },
+        {
+            "domain_name": "www.rothenberglawnj.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-07 12:48:43"
+        },
+        {
+            "domain_name": "www.tromblylaw.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-07 12:41:02"
+        },
         {
             "domain_name": "homestretchpropertymanagement.com",
             "destination": "Hostinger",
@@ -470,36 +500,6 @@
             "domain_name": "cleancooking.is",
             "destination": "Digital Ocean",
             "date": "2026-07-03 16:42:07"
-        },
-        {
-            "domain_name": "relianceautohamilton.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-07-03 16:34:51"
-        },
-        {
-            "domain_name": "anastasiaromanova.com",
-            "destination": "BigScoots",
-            "date": "2026-07-03 15:57:21"
-        },
-        {
-            "domain_name": "rsu.tv",
-            "destination": "Liquid Web",
-            "date": "2026-07-03 15:55:42"
-        },
-        {
-            "domain_name": "ghcscw.com",
-            "destination": "Pressable",
-            "date": "2026-07-03 15:42:13"
-        },
-        {
-            "domain_name": "gchealthcarefoundation.org",
-            "destination": "Pressable",
-            "date": "2026-07-03 15:40:25"
-        },
-        {
-            "domain_name": "potomaccompany.com",
-            "destination": "Kinsta",
-            "date": "2026-07-03 15:31:21"
         }
     ],
     "dailyMovedStat": {
@@ -1160,8 +1160,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14039,
-        "Kinsta": 10968,
-        "Digital Ocean": 7039,
+        "Kinsta": 10971,
+        "Digital Ocean": 7041,
         "SiteGround": 5728,
         "Hostinger": 5502,
         "Bluehost": 4688,
