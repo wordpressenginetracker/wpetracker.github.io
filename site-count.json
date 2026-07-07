@@ -1,6 +1,16 @@
 {
-    "siteCount": 155970,
+    "siteCount": 155974,
     "recentlyMoved": [
+        {
+            "domain_name": "waggarsl.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-07 21:56:03"
+        },
+        {
+            "domain_name": "waynewright.com",
+            "destination": "Hostinger",
+            "date": "2026-07-07 21:43:43"
+        },
         {
             "domain_name": "tintshoplincoln.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "charltonbodies.com",
             "destination": "Digital Ocean",
             "date": "2026-07-04 08:58:08"
-        },
-        {
-            "domain_name": "www.fagskolestudent.no",
-            "destination": "Digital Ocean",
-            "date": "2026-07-04 08:27:07"
-        },
-        {
-            "domain_name": "jayconlegal.co.uk",
-            "destination": "IONOS",
-            "date": "2026-07-04 08:10:05"
         }
     ],
     "dailyMovedStat": {
@@ -1160,10 +1160,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14045,
-        "Kinsta": 10979,
-        "Digital Ocean": 7050,
+        "Kinsta": 10980,
+        "Digital Ocean": 7051,
         "SiteGround": 5728,
-        "Hostinger": 5505,
+        "Hostinger": 5506,
         "Bluehost": 4689,
         "GoDaddy": 1792,
         "BigScoots": 914,
