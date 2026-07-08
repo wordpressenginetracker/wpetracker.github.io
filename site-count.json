@@ -1,10 +1,35 @@
 {
-    "siteCount": 155986,
+    "siteCount": 155999,
     "recentlyMoved": [
+        {
+            "domain_name": "livewager.net",
+            "destination": "Hostinger",
+            "date": "2026-07-08 01:22:46"
+        },
+        {
+            "domain_name": "thethaogoal.com",
+            "destination": "Hostinger",
+            "date": "2026-07-08 01:21:32"
+        },
+        {
+            "domain_name": "thaisnook.com",
+            "destination": "Hostinger",
+            "date": "2026-07-08 00:50:51"
+        },
         {
             "domain_name": "betonreels.com",
             "destination": "Hostinger",
             "date": "2026-07-08 00:34:55"
+        },
+        {
+            "domain_name": "ipasolutions.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-08 00:21:54"
+        },
+        {
+            "domain_name": "calientecabco.com",
+            "destination": "Bluehost",
+            "date": "2026-07-08 00:06:34"
         },
         {
             "domain_name": "www.capstjoe.org",
@@ -475,31 +500,6 @@
             "domain_name": "churchequippers.com",
             "destination": "DreamHost",
             "date": "2026-07-04 16:27:53"
-        },
-        {
-            "domain_name": "deals.firearmsdepot.com",
-            "destination": "Pressable",
-            "date": "2026-07-04 13:27:40"
-        },
-        {
-            "domain_name": "chialpha.com",
-            "destination": "Pressable",
-            "date": "2026-07-04 12:19:11"
-        },
-        {
-            "domain_name": "www.eim.com",
-            "destination": "Kinsta",
-            "date": "2026-07-04 11:38:30"
-        },
-        {
-            "domain_name": "fama.ventures",
-            "destination": "IONOS",
-            "date": "2026-07-04 09:11:48"
-        },
-        {
-            "domain_name": "dgtlhq.com",
-            "destination": "BigScoots",
-            "date": "2026-07-04 09:01:10"
         }
     ],
     "dailyMovedStat": {
@@ -1161,11 +1161,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 14045,
-        "Kinsta": 10980,
+        "Kinsta": 10981,
         "Digital Ocean": 7052,
         "SiteGround": 5728,
-        "Hostinger": 5507,
-        "Bluehost": 4689,
+        "Hostinger": 5510,
+        "Bluehost": 4690,
         "GoDaddy": 1792,
         "BigScoots": 914,
         "Liquid Web": 907,
