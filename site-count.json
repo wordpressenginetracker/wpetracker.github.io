@@ -1,6 +1,26 @@
 {
-    "siteCount": 156172,
+    "siteCount": 156182,
     "recentlyMoved": [
+        {
+            "domain_name": "vitexsystems.com",
+            "destination": "Liquid Web",
+            "date": "2026-07-08 18:03:11"
+        },
+        {
+            "domain_name": "uxari.com",
+            "destination": "Liquid Web",
+            "date": "2026-07-08 18:01:06"
+        },
+        {
+            "domain_name": "webaccessibilitystore.com",
+            "destination": "Pressable",
+            "date": "2026-07-08 17:52:42"
+        },
+        {
+            "domain_name": "nourishrx.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-08 17:42:25"
+        },
         {
             "domain_name": "sunstonephotography.co",
             "destination": "BigScoots",
@@ -20,6 +40,11 @@
             "domain_name": "learning.nuvancehealth.org",
             "destination": "Pressable",
             "date": "2026-07-08 17:12:07"
+        },
+        {
+            "domain_name": "encantadaliving.com",
+            "destination": "IONOS",
+            "date": "2026-07-08 17:11:27"
         },
         {
             "domain_name": "www.uplightpro.com",
@@ -475,31 +500,6 @@
             "domain_name": "homestretchpropertymanagement.com",
             "destination": "Hostinger",
             "date": "2026-07-07 12:26:23"
-        },
-        {
-            "domain_name": "chozen.co.uk",
-            "destination": "Pressable",
-            "date": "2026-07-07 08:55:24"
-        },
-        {
-            "domain_name": "bridgetowntravel.com",
-            "destination": "Hostinger",
-            "date": "2026-07-07 08:48:34"
-        },
-        {
-            "domain_name": "selwyns.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-07-07 08:36:08"
-        },
-        {
-            "domain_name": "sapcalculationsonline.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-07-07 08:34:31"
-        },
-        {
-            "domain_name": "www.hr-sanitaetshaus.de",
-            "destination": "Hostinger",
-            "date": "2026-07-07 08:12:11"
         }
     ],
     "dailyMovedStat": {
@@ -1160,22 +1160,22 @@
         "2026-07-07": "155974"
     },
     "topDestinationHosts": {
-        "Pressable": 14060,
+        "Pressable": 14061,
         "Kinsta": 10992,
         "Digital Ocean": 7058,
         "SiteGround": 5728,
         "Hostinger": 5519,
         "Bluehost": 4691,
-        "GoDaddy": 1792,
+        "GoDaddy": 1793,
         "BigScoots": 916,
-        "Liquid Web": 908,
+        "Liquid Web": 910,
         "WordPress.com": 754,
         "GridPane": 711,
         "OVH": 708,
         "InMotion Hosting": 590,
         "Namecheap": 577,
         "Elementor Hosting": 559,
-        "IONOS": 545,
+        "IONOS": 546,
         "DreamHost": 526,
         "A2 Hosting": 470,
         "Hetzner Online": 467,
