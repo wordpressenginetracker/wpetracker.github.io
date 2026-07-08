@@ -1,6 +1,11 @@
 {
-    "siteCount": 155999,
+    "siteCount": 156002,
     "recentlyMoved": [
+        {
+            "domain_name": "webcado360.com",
+            "destination": "Hostinger",
+            "date": "2026-07-08 01:57:40"
+        },
         {
             "domain_name": "livewager.net",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "brookscustomcomfort.com",
             "destination": "HostGator",
             "date": "2026-07-04 16:54:02"
-        },
-        {
-            "domain_name": "relianceautomechanic.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-07-04 16:29:26"
         },
         {
             "domain_name": "churchequippers.com",
@@ -1164,7 +1164,7 @@
         "Kinsta": 10981,
         "Digital Ocean": 7052,
         "SiteGround": 5728,
-        "Hostinger": 5510,
+        "Hostinger": 5511,
         "Bluehost": 4690,
         "GoDaddy": 1792,
         "BigScoots": 914,
