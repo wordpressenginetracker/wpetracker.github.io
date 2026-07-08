@@ -1,6 +1,11 @@
 {
-    "siteCount": 156015,
+    "siteCount": 156021,
     "recentlyMoved": [
+        {
+            "domain_name": "thegloweffect.com.au",
+            "destination": "BigScoots",
+            "date": "2026-07-08 05:40:29"
+        },
         {
             "domain_name": "hl-thailnd.com",
             "destination": "Hostinger",
@@ -15,6 +20,11 @@
             "domain_name": "happylukefreebet.com",
             "destination": "Hostinger",
             "date": "2026-07-08 04:17:34"
+        },
+        {
+            "domain_name": "investbundaberg.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-08 04:06:05"
         },
         {
             "domain_name": "playcasinoth.com",
@@ -490,16 +500,6 @@
             "domain_name": "mimosacollection.com",
             "destination": "Hetzner Online",
             "date": "2026-07-04 21:28:59"
-        },
-        {
-            "domain_name": "autoniche.ca",
-            "destination": "Hostinger",
-            "date": "2026-07-04 20:30:23"
-        },
-        {
-            "domain_name": "guidinglightnow.com",
-            "destination": "Hostinger",
-            "date": "2026-07-04 19:53:55"
         }
     ],
     "dailyMovedStat": {
@@ -1161,13 +1161,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 14045,
-        "Kinsta": 10981,
+        "Kinsta": 10983,
         "Digital Ocean": 7052,
         "SiteGround": 5728,
         "Hostinger": 5515,
         "Bluehost": 4691,
         "GoDaddy": 1792,
-        "BigScoots": 914,
+        "BigScoots": 915,
         "Liquid Web": 907,
         "WordPress.com": 754,
         "GridPane": 711,
