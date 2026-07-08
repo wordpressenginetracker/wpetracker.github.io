@@ -1,6 +1,21 @@
 {
-    "siteCount": 156225,
+    "siteCount": 156246,
     "recentlyMoved": [
+        {
+            "domain_name": "www.buobooks.com",
+            "destination": "Pressable",
+            "date": "2026-07-08 21:42:51"
+        },
+        {
+            "domain_name": "concordweeschool.net",
+            "destination": "WordPress.com",
+            "date": "2026-07-08 20:52:32"
+        },
+        {
+            "domain_name": "sedonabottling.com",
+            "destination": "DreamHost",
+            "date": "2026-07-08 20:51:57"
+        },
         {
             "domain_name": "hopefultherapies.com",
             "destination": "Kinsta",
@@ -10,6 +25,11 @@
             "domain_name": "homezena.com",
             "destination": "Hostinger",
             "date": "2026-07-08 20:37:13"
+        },
+        {
+            "domain_name": "slministries.org",
+            "destination": "Kinsta",
+            "date": "2026-07-08 20:20:18"
         },
         {
             "domain_name": "hwpence.com",
@@ -480,26 +500,6 @@
             "domain_name": "www.centurybox.com",
             "destination": "Kinsta",
             "date": "2026-07-07 15:33:07"
-        },
-        {
-            "domain_name": "aactionrestoration.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-07 15:09:17"
-        },
-        {
-            "domain_name": "midnightsunmining.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-07 13:43:53"
-        },
-        {
-            "domain_name": "www.rothenberglawnj.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-07 12:48:43"
-        },
-        {
-            "domain_name": "www.tromblylaw.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-07 12:41:02"
         }
     ],
     "dailyMovedStat": {
@@ -1160,8 +1160,8 @@
         "2026-07-07": "155974"
     },
     "topDestinationHosts": {
-        "Pressable": 14064,
-        "Kinsta": 10993,
+        "Pressable": 14065,
+        "Kinsta": 10994,
         "Digital Ocean": 7059,
         "SiteGround": 5728,
         "Hostinger": 5520,
@@ -1169,14 +1169,14 @@
         "GoDaddy": 1793,
         "BigScoots": 916,
         "Liquid Web": 910,
-        "WordPress.com": 754,
+        "WordPress.com": 755,
         "GridPane": 711,
         "OVH": 708,
         "InMotion Hosting": 590,
         "Namecheap": 577,
         "Elementor Hosting": 559,
         "IONOS": 546,
-        "DreamHost": 526,
+        "DreamHost": 527,
         "A2 Hosting": 470,
         "Hetzner Online": 467,
         "HostGator": 345
