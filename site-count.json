@@ -1,6 +1,11 @@
 {
-    "siteCount": 156053,
+    "siteCount": 156056,
     "recentlyMoved": [
+        {
+            "domain_name": "emergesupervision.nz",
+            "destination": "OVH",
+            "date": "2026-07-08 09:47:03"
+        },
         {
             "domain_name": "titaninsured.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "kittycarterdance.com",
             "destination": "WordPress.com",
             "date": "2026-07-05 20:52:33"
-        },
-        {
-            "domain_name": "elevatebaseball.io",
-            "destination": "Hostinger",
-            "date": "2026-07-05 17:49:20"
         }
     ],
     "dailyMovedStat": {
@@ -1160,7 +1160,7 @@
         "2026-07-07": "155974"
     },
     "topDestinationHosts": {
-        "Pressable": 14046,
+        "Pressable": 14047,
         "Kinsta": 10986,
         "Digital Ocean": 7053,
         "SiteGround": 5728,
@@ -1171,7 +1171,7 @@
         "Liquid Web": 907,
         "WordPress.com": 754,
         "GridPane": 711,
-        "OVH": 707,
+        "OVH": 708,
         "InMotion Hosting": 590,
         "Namecheap": 577,
         "Elementor Hosting": 559,
