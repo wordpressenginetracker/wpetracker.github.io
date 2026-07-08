@@ -1,6 +1,11 @@
 {
-    "siteCount": 156027,
+    "siteCount": 156042,
     "recentlyMoved": [
+        {
+            "domain_name": "greggsauto.net",
+            "destination": "Hostinger",
+            "date": "2026-07-08 08:17:38"
+        },
         {
             "domain_name": "thegloweffect.com.au",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "browndogfurniture.com",
             "destination": "WordPress.com",
             "date": "2026-07-05 08:54:18"
-        },
-        {
-            "domain_name": "findinglulyhomemaker.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-05 07:08:00"
         }
     ],
     "dailyMovedStat": {
@@ -1164,7 +1164,7 @@
         "Kinsta": 10986,
         "Digital Ocean": 7052,
         "SiteGround": 5728,
-        "Hostinger": 5515,
+        "Hostinger": 5516,
         "Bluehost": 4691,
         "GoDaddy": 1792,
         "BigScoots": 915,
