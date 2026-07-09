@@ -1,6 +1,11 @@
 {
-    "siteCount": 156443,
+    "siteCount": 156447,
     "recentlyMoved": [
+        {
+            "domain_name": "truebluepediatrictherapy.com",
+            "destination": "Kinsta",
+            "date": "2026-07-09 17:23:22"
+        },
         {
             "domain_name": "www.yummyfruit.co.nz",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "cbaalbany.org",
             "destination": "Kinsta",
             "date": "2026-07-08 12:32:42"
-        },
-        {
-            "domain_name": "www.coastalcoverageinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-07-08 12:19:54"
         },
         {
             "domain_name": "www.gonzalezlawgroup.net",
@@ -1162,7 +1162,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14080,
-        "Kinsta": 11007,
+        "Kinsta": 11008,
         "Digital Ocean": 7068,
         "SiteGround": 5728,
         "Hostinger": 5535,
