@@ -1,6 +1,11 @@
 {
-    "siteCount": 156522,
+    "siteCount": 156529,
     "recentlyMoved": [
+        {
+            "domain_name": "ethcargo.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-09 21:33:41"
+        },
         {
             "domain_name": "lochridgepriesthome.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "atlinjurylawgroup.com",
             "destination": "Kinsta",
             "date": "2026-07-08 15:40:19"
-        },
-        {
-            "domain_name": "princeofwalesdrive.districtslondon.com",
-            "destination": "Pressable",
-            "date": "2026-07-08 15:27:00"
         }
     ],
     "dailyMovedStat": {
@@ -1167,7 +1167,7 @@
         "SiteGround": 5729,
         "Hostinger": 5535,
         "Bluehost": 4691,
-        "GoDaddy": 1794,
+        "GoDaddy": 1795,
         "BigScoots": 917,
         "Liquid Web": 911,
         "WordPress.com": 755,
