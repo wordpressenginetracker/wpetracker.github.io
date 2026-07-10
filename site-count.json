@@ -1,6 +1,41 @@
 {
-    "siteCount": 156559,
+    "siteCount": 156574,
     "recentlyMoved": [
+        {
+            "domain_name": "hapylukeonlineth.com",
+            "destination": "Hostinger",
+            "date": "2026-07-10 04:14:37"
+        },
+        {
+            "domain_name": "ignitecity.church",
+            "destination": "Hostinger",
+            "date": "2026-07-10 04:07:02"
+        },
+        {
+            "domain_name": "av7.mt",
+            "destination": "Hetzner Online",
+            "date": "2026-07-10 04:05:40"
+        },
+        {
+            "domain_name": "hypestudio.net.au",
+            "destination": "Kinsta",
+            "date": "2026-07-10 04:02:37"
+        },
+        {
+            "domain_name": "forwal.com",
+            "destination": "Hostinger",
+            "date": "2026-07-10 03:44:05"
+        },
+        {
+            "domain_name": "713lawsuit.com",
+            "destination": "Kinsta",
+            "date": "2026-07-10 03:43:04"
+        },
+        {
+            "domain_name": "all-in-optics.de",
+            "destination": "Hostinger",
+            "date": "2026-07-10 03:28:10"
+        },
         {
             "domain_name": "exodushrgroup.com",
             "destination": "Hostinger",
@@ -457,11 +492,6 @@
             "date": "2026-07-08 18:03:11"
         },
         {
-            "domain_name": "uxari.com",
-            "destination": "Liquid Web",
-            "date": "2026-07-08 18:01:06"
-        },
-        {
             "domain_name": "webaccessibilitystore.com",
             "destination": "Pressable",
             "date": "2026-07-08 17:52:42"
@@ -470,36 +500,6 @@
             "domain_name": "nourishrx.com",
             "destination": "GoDaddy",
             "date": "2026-07-08 17:42:25"
-        },
-        {
-            "domain_name": "culliganescondido.com",
-            "destination": "Kinsta",
-            "date": "2026-07-08 17:14:50"
-        },
-        {
-            "domain_name": "encantadaliving.com",
-            "destination": "IONOS",
-            "date": "2026-07-08 17:11:27"
-        },
-        {
-            "domain_name": "www.uplightpro.com",
-            "destination": "Liquid Web",
-            "date": "2026-07-08 17:01:24"
-        },
-        {
-            "domain_name": "dennickfruitsource.com",
-            "destination": "DreamHost",
-            "date": "2026-07-08 16:55:12"
-        },
-        {
-            "domain_name": "membermedicaldpc.com",
-            "destination": "Pressable",
-            "date": "2026-07-08 16:49:40"
-        },
-        {
-            "domain_name": "www.sunsetseniorliving.org",
-            "destination": "Digital Ocean",
-            "date": "2026-07-08 16:29:29"
         }
     ],
     "dailyMovedStat": {
@@ -1163,10 +1163,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14084,
-        "Kinsta": 11010,
+        "Kinsta": 11012,
         "Digital Ocean": 7072,
         "SiteGround": 5729,
-        "Hostinger": 5541,
+        "Hostinger": 5544,
         "Bluehost": 4691,
         "GoDaddy": 1795,
         "BigScoots": 918,
@@ -1180,7 +1180,7 @@
         "IONOS": 546,
         "DreamHost": 535,
         "A2 Hosting": 470,
-        "Hetzner Online": 467,
+        "Hetzner Online": 468,
         "HostGator": 345
     },
     "dailyTotalStat": {
