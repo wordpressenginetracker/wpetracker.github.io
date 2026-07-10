@@ -1,6 +1,11 @@
 {
-    "siteCount": 156598,
+    "siteCount": 156606,
     "recentlyMoved": [
+        {
+            "domain_name": "www.nashvillepedaltavern.com",
+            "destination": "Pressable",
+            "date": "2026-07-10 08:47:57"
+        },
         {
             "domain_name": "hlthonlinecasino.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "afeusa.org",
             "destination": "Pressable",
             "date": "2026-07-08 19:19:05"
-        },
-        {
-            "domain_name": "webaccessibilitystore.com",
-            "destination": "Pressable",
-            "date": "2026-07-08 17:52:42"
         }
     ],
     "dailyMovedStat": {
@@ -1162,7 +1162,7 @@
         "2026-07-09": "156529"
     },
     "topDestinationHosts": {
-        "Pressable": 14085,
+        "Pressable": 14086,
         "Kinsta": 11012,
         "Digital Ocean": 7072,
         "SiteGround": 5729,
