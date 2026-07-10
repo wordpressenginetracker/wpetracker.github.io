@@ -1,6 +1,11 @@
 {
-    "siteCount": 156606,
+    "siteCount": 156609,
     "recentlyMoved": [
+        {
+            "domain_name": "weensureit.com",
+            "destination": "Pressable",
+            "date": "2026-07-10 09:26:10"
+        },
         {
             "domain_name": "www.nashvillepedaltavern.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "hwpence.com",
             "destination": "Pressable",
             "date": "2026-07-08 20:17:27"
-        },
-        {
-            "domain_name": "afeusa.org",
-            "destination": "Pressable",
-            "date": "2026-07-08 19:19:05"
         }
     ],
     "dailyMovedStat": {
@@ -1162,7 +1162,7 @@
         "2026-07-09": "156529"
     },
     "topDestinationHosts": {
-        "Pressable": 14086,
+        "Pressable": 14087,
         "Kinsta": 11012,
         "Digital Ocean": 7072,
         "SiteGround": 5729,
