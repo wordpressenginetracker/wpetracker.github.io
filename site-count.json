@@ -1,6 +1,11 @@
 {
-    "siteCount": 156860,
+    "siteCount": 156864,
     "recentlyMoved": [
+        {
+            "domain_name": "velocityfootball.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-07-11 09:50:50"
+        },
         {
             "domain_name": "hlthcasinolive.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "abtrailers.com",
             "destination": "Hostinger",
             "date": "2026-07-09 15:42:22"
-        },
-        {
-            "domain_name": "my2ndchance.org",
-            "destination": "Kinsta",
-            "date": "2026-07-09 13:25:50"
         },
         {
             "domain_name": "mydailyideas.com",
@@ -1167,7 +1167,7 @@
         "Kinsta": 11020,
         "Digital Ocean": 7079,
         "SiteGround": 5729,
-        "Hostinger": 5569,
+        "Hostinger": 5570,
         "Bluehost": 4692,
         "GoDaddy": 1796,
         "BigScoots": 919,
