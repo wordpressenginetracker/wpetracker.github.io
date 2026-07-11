@@ -1,6 +1,21 @@
 {
-    "siteCount": 156864,
+    "siteCount": 156876,
     "recentlyMoved": [
+        {
+            "domain_name": "www.beankinney.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-11 12:04:26"
+        },
+        {
+            "domain_name": "reapcreative.co",
+            "destination": "Hostinger",
+            "date": "2026-07-11 11:50:36"
+        },
+        {
+            "domain_name": "glasshouse.design",
+            "destination": "Digital Ocean",
+            "date": "2026-07-11 11:30:22"
+        },
         {
             "domain_name": "velocityfootball.co.uk",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "www.lalegalsolution.com",
             "destination": "Digital Ocean",
             "date": "2026-07-09 16:12:57"
-        },
-        {
-            "domain_name": "713abogado.com",
-            "destination": "Kinsta",
-            "date": "2026-07-09 15:57:03"
-        },
-        {
-            "domain_name": "abtrailers.com",
-            "destination": "Hostinger",
-            "date": "2026-07-09 15:42:22"
-        },
-        {
-            "domain_name": "mydailyideas.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-09 13:10:52"
         }
     ],
     "dailyMovedStat": {
@@ -1165,9 +1165,9 @@
     "topDestinationHosts": {
         "Pressable": 14100,
         "Kinsta": 11020,
-        "Digital Ocean": 7079,
+        "Digital Ocean": 7081,
         "SiteGround": 5729,
-        "Hostinger": 5570,
+        "Hostinger": 5571,
         "Bluehost": 4692,
         "GoDaddy": 1796,
         "BigScoots": 919,
