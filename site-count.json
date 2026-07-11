@@ -1,10 +1,15 @@
 {
-    "siteCount": 157026,
+    "siteCount": 157029,
     "recentlyMoved": [
         {
             "domain_name": "leahturney.com",
             "destination": "WordPress.com",
             "date": "2026-07-11 21:19:06"
+        },
+        {
+            "domain_name": "nearnorthcustoms.com",
+            "destination": "Kinsta",
+            "date": "2026-07-11 21:12:04"
         },
         {
             "domain_name": "manitoulingroup.com",
@@ -495,11 +500,6 @@
             "domain_name": "hypestudio.net.au",
             "destination": "Kinsta",
             "date": "2026-07-10 04:02:37"
-        },
-        {
-            "domain_name": "all-in-optics.de",
-            "destination": "Hostinger",
-            "date": "2026-07-10 03:28:10"
         }
     ],
     "dailyMovedStat": {
@@ -1164,7 +1164,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14108,
-        "Kinsta": 11037,
+        "Kinsta": 11038,
         "Digital Ocean": 7083,
         "SiteGround": 5730,
         "Hostinger": 5572,
