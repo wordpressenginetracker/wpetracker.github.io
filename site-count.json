@@ -1,6 +1,21 @@
 {
-    "siteCount": 157259,
+    "siteCount": 157271,
     "recentlyMoved": [
+        {
+            "domain_name": "lerner.co.il",
+            "destination": "Digital Ocean",
+            "date": "2026-07-13 05:08:03"
+        },
+        {
+            "domain_name": "jewishfreeware.org",
+            "destination": "Digital Ocean",
+            "date": "2026-07-13 04:12:15"
+        },
+        {
+            "domain_name": "businessoffreelancing.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-13 04:00:18"
+        },
         {
             "domain_name": "www.traviswalkerlaw.com",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "deservesmart.com",
             "destination": "Hostinger",
             "date": "2026-07-10 17:13:30"
-        },
-        {
-            "domain_name": "dawcg.com",
-            "destination": "Pressable",
-            "date": "2026-07-10 17:11:45"
-        },
-        {
-            "domain_name": "looksuited.com",
-            "destination": "Hostinger",
-            "date": "2026-07-10 16:57:36"
-        },
-        {
-            "domain_name": "www.statusaccessories.com",
-            "destination": "Pressable",
-            "date": "2026-07-10 16:52:32"
         }
     ],
     "dailyMovedStat": {
@@ -1167,7 +1167,7 @@
     "topDestinationHosts": {
         "Pressable": 14110,
         "Kinsta": 11050,
-        "Digital Ocean": 7084,
+        "Digital Ocean": 7087,
         "SiteGround": 5730,
         "Hostinger": 5591,
         "Bluehost": 4693,
