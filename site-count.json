@@ -1,6 +1,16 @@
 {
-    "siteCount": 157405,
+    "siteCount": 157434,
     "recentlyMoved": [
+        {
+            "domain_name": "www.stirlingmetalworkers.co.nz",
+            "destination": "Pressable",
+            "date": "2026-07-13 20:57:55"
+        },
+        {
+            "domain_name": "smartscaffolder.com",
+            "destination": "Hostinger",
+            "date": "2026-07-13 20:40:57"
+        },
         {
             "domain_name": "bartercard.co.nz",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "www.studiogival.it",
             "destination": "OVH",
             "date": "2026-07-11 04:41:59"
-        },
-        {
-            "domain_name": "raceland.com",
-            "destination": "Pressable",
-            "date": "2026-07-11 04:26:06"
-        },
-        {
-            "domain_name": "www.hylocchio.it",
-            "destination": "Kinsta",
-            "date": "2026-07-11 04:17:05"
         }
     ],
     "dailyMovedStat": {
@@ -1165,11 +1165,11 @@
         "2026-07-12": "157218"
     },
     "topDestinationHosts": {
-        "Pressable": 14114,
+        "Pressable": 14115,
         "Kinsta": 11051,
         "Digital Ocean": 7088,
         "SiteGround": 5730,
-        "Hostinger": 5601,
+        "Hostinger": 5602,
         "Bluehost": 4694,
         "GoDaddy": 1796,
         "BigScoots": 920,
