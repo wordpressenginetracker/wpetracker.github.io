@@ -1,6 +1,11 @@
 {
-    "siteCount": 157271,
+    "siteCount": 157273,
     "recentlyMoved": [
+        {
+            "domain_name": "drliliortho.com",
+            "destination": "Kinsta",
+            "date": "2026-07-13 05:17:02"
+        },
         {
             "domain_name": "lerner.co.il",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "drchowmd.com",
             "destination": "Kinsta",
             "date": "2026-07-10 17:40:20"
-        },
-        {
-            "domain_name": "deservesmart.com",
-            "destination": "Hostinger",
-            "date": "2026-07-10 17:13:30"
         }
     ],
     "dailyMovedStat": {
@@ -1166,7 +1166,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14110,
-        "Kinsta": 11050,
+        "Kinsta": 11051,
         "Digital Ocean": 7087,
         "SiteGround": 5730,
         "Hostinger": 5591,
