@@ -1,10 +1,35 @@
 {
-    "siteCount": 157627,
+    "siteCount": 157652,
     "recentlyMoved": [
+        {
+            "domain_name": "dillehayortho.com",
+            "destination": "Kinsta",
+            "date": "2026-07-14 17:36:15"
+        },
+        {
+            "domain_name": "denverpressurewashingpros.com",
+            "destination": "Hostinger",
+            "date": "2026-07-14 17:21:24"
+        },
+        {
+            "domain_name": "www.paonezaleski.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-14 16:43:50"
+        },
+        {
+            "domain_name": "coolrestaurantcatalog.com",
+            "destination": "Kinsta",
+            "date": "2026-07-14 16:30:10"
+        },
         {
             "domain_name": "hwcoftexas.com",
             "destination": "Pressable",
             "date": "2026-07-14 16:25:22"
+        },
+        {
+            "domain_name": "stansburybrownlaw.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-14 16:25:01"
         },
         {
             "domain_name": "rockstonenyc.com",
@@ -467,39 +492,14 @@
             "date": "2026-07-12 01:30:57"
         },
         {
-            "domain_name": "louisianaspeedingticket.com",
-            "destination": "A2 Hosting",
-            "date": "2026-07-12 01:10:56"
-        },
-        {
             "domain_name": "manitoulinwarehousing.com",
             "destination": "Kinsta",
             "date": "2026-07-12 01:10:14"
         },
         {
-            "domain_name": "manitoulintransport.com",
-            "destination": "Kinsta",
-            "date": "2026-07-12 01:10:14"
-        },
-        {
-            "domain_name": "cratexind.com",
-            "destination": "Kinsta",
-            "date": "2026-07-12 00:59:19"
-        },
-        {
-            "domain_name": "summitcustomsbrokers.com",
-            "destination": "Kinsta",
-            "date": "2026-07-12 00:56:07"
-        },
-        {
             "domain_name": "diamonddelivers.com",
             "destination": "Kinsta",
             "date": "2026-07-12 00:48:08"
-        },
-        {
-            "domain_name": "christmaslightinstallersindianapolis.com",
-            "destination": "Hostinger",
-            "date": "2026-07-12 00:34:36"
         }
     ],
     "dailyMovedStat": {
@@ -1167,10 +1167,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14119,
-        "Kinsta": 11068,
-        "Digital Ocean": 7094,
+        "Kinsta": 11070,
+        "Digital Ocean": 7096,
         "SiteGround": 5730,
-        "Hostinger": 5615,
+        "Hostinger": 5616,
         "Bluehost": 4694,
         "GoDaddy": 1796,
         "BigScoots": 920,
