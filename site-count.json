@@ -1,5 +1,5 @@
 {
-    "siteCount": 157652,
+    "siteCount": 157657,
     "recentlyMoved": [
         {
             "domain_name": "dillehayortho.com",
@@ -7,9 +7,19 @@
             "date": "2026-07-14 17:36:15"
         },
         {
+            "domain_name": "trial.com",
+            "destination": "Pressable",
+            "date": "2026-07-14 17:32:30"
+        },
+        {
             "domain_name": "denverpressurewashingpros.com",
             "destination": "Hostinger",
             "date": "2026-07-14 17:21:24"
+        },
+        {
+            "domain_name": "mpariselifecoach.com",
+            "destination": "WordPress.com",
+            "date": "2026-07-14 17:06:01"
         },
         {
             "domain_name": "www.paonezaleski.com",
@@ -490,16 +500,6 @@
             "domain_name": "expediteplus.com",
             "destination": "Kinsta",
             "date": "2026-07-12 01:30:57"
-        },
-        {
-            "domain_name": "manitoulinwarehousing.com",
-            "destination": "Kinsta",
-            "date": "2026-07-12 01:10:14"
-        },
-        {
-            "domain_name": "diamonddelivers.com",
-            "destination": "Kinsta",
-            "date": "2026-07-12 00:48:08"
         }
     ],
     "dailyMovedStat": {
@@ -1166,7 +1166,7 @@
         "2026-07-13": "157444"
     },
     "topDestinationHosts": {
-        "Pressable": 14119,
+        "Pressable": 14120,
         "Kinsta": 11070,
         "Digital Ocean": 7096,
         "SiteGround": 5730,
@@ -1175,7 +1175,7 @@
         "GoDaddy": 1796,
         "BigScoots": 920,
         "Liquid Web": 912,
-        "WordPress.com": 759,
+        "WordPress.com": 760,
         "GridPane": 713,
         "OVH": 710,
         "InMotion Hosting": 591,
