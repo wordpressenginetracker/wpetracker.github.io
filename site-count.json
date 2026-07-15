@@ -1,6 +1,11 @@
 {
-    "siteCount": 157754,
+    "siteCount": 157756,
     "recentlyMoved": [
+        {
+            "domain_name": "totswap.net",
+            "destination": "Kinsta",
+            "date": "2026-07-15 01:10:25"
+        },
         {
             "domain_name": "matlawyers.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "sparksellison.co.uk",
             "destination": "Hostinger",
             "date": "2026-07-12 16:29:07"
-        },
-        {
-            "domain_name": "cubie-education.com",
-            "destination": "Hostinger",
-            "date": "2026-07-12 13:27:31"
         }
     ],
     "dailyMovedStat": {
@@ -1168,7 +1168,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14123,
-        "Kinsta": 11074,
+        "Kinsta": 11075,
         "Digital Ocean": 7098,
         "SiteGround": 5730,
         "Hostinger": 5624,
