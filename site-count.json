@@ -1,6 +1,11 @@
 {
-    "siteCount": 157773,
+    "siteCount": 157779,
     "recentlyMoved": [
+        {
+            "domain_name": "nzittg.org.nz",
+            "destination": "Pressable",
+            "date": "2026-07-15 05:39:39"
+        },
         {
             "domain_name": "timber.org.nz",
             "destination": "Pressable",
@@ -485,11 +490,6 @@
             "domain_name": "www.leewintersagency.net",
             "destination": "Pressable",
             "date": "2026-07-13 00:14:33"
-        },
-        {
-            "domain_name": "gofarconsulting.com",
-            "destination": "Kinsta",
-            "date": "2026-07-13 00:11:19"
         },
         {
             "domain_name": "gregsheehy.com",
@@ -1167,7 +1167,7 @@
         "2026-07-14": "157725"
     },
     "topDestinationHosts": {
-        "Pressable": 14125,
+        "Pressable": 14127,
         "Kinsta": 11075,
         "Digital Ocean": 7098,
         "SiteGround": 5730,
