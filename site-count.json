@@ -1,6 +1,21 @@
 {
-    "siteCount": 157800,
+    "siteCount": 157806,
     "recentlyMoved": [
+        {
+            "domain_name": "unityinsurance.co",
+            "destination": "Pressable",
+            "date": "2026-07-15 09:53:11"
+        },
+        {
+            "domain_name": "mzinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-07-15 09:23:01"
+        },
+        {
+            "domain_name": "waldoagencies.com",
+            "destination": "Pressable",
+            "date": "2026-07-15 09:22:54"
+        },
         {
             "domain_name": "jadavisinjurylawyers.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "www.cadsindia.com",
             "destination": "Hostinger",
             "date": "2026-07-13 07:48:48"
-        },
-        {
-            "domain_name": "drliliortho.com",
-            "destination": "Kinsta",
-            "date": "2026-07-13 05:17:02"
-        },
-        {
-            "domain_name": "lerner.co.il",
-            "destination": "Digital Ocean",
-            "date": "2026-07-13 05:08:03"
-        },
-        {
-            "domain_name": "businessoffreelancing.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-13 04:00:18"
         }
     ],
     "dailyMovedStat": {
@@ -1167,7 +1167,7 @@
         "2026-07-14": "157725"
     },
     "topDestinationHosts": {
-        "Pressable": 14127,
+        "Pressable": 14130,
         "Kinsta": 11076,
         "Digital Ocean": 7098,
         "SiteGround": 5730,
