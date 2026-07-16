@@ -1,6 +1,16 @@
 {
-    "siteCount": 158235,
+    "siteCount": 158240,
     "recentlyMoved": [
+        {
+            "domain_name": "englishlounge.com.br",
+            "destination": "Hostinger",
+            "date": "2026-07-16 17:52:36"
+        },
+        {
+            "domain_name": "eco1sthauling.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-16 17:42:46"
+        },
         {
             "domain_name": "modelbaseboards.co.uk",
             "destination": "Pressable",
@@ -10,6 +20,11 @@
             "domain_name": "maverickbrushstrokes.com",
             "destination": "Pressable",
             "date": "2026-07-16 17:01:03"
+        },
+        {
+            "domain_name": "mustdobetter.org",
+            "destination": "Pressable",
+            "date": "2026-07-16 17:00:21"
         },
         {
             "domain_name": "cotyledonhealth.com",
@@ -467,11 +482,6 @@
             "date": "2026-07-15 13:31:11"
         },
         {
-            "domain_name": "massagetherapyschoolspringfieldmissouri.com",
-            "destination": "Kinsta",
-            "date": "2026-07-15 13:18:31"
-        },
-        {
             "domain_name": "millcraft.us",
             "destination": "Hostinger",
             "date": "2026-07-15 13:11:51"
@@ -490,16 +500,6 @@
             "domain_name": "mdmhotels.com",
             "destination": "Hostinger",
             "date": "2026-07-15 13:05:24"
-        },
-        {
-            "domain_name": "cytraining.works",
-            "destination": "IONOS",
-            "date": "2026-07-15 12:53:38"
-        },
-        {
-            "domain_name": "mackoul.com",
-            "destination": "Pressable",
-            "date": "2026-07-15 12:49:26"
         }
     ],
     "dailyMovedStat": {
@@ -1168,13 +1168,13 @@
         "2026-07-15": "158042"
     },
     "topDestinationHosts": {
-        "Pressable": 14171,
+        "Pressable": 14173,
         "Kinsta": 11109,
         "Digital Ocean": 7113,
         "SiteGround": 5730,
-        "Hostinger": 5640,
+        "Hostinger": 5641,
         "Bluehost": 4697,
-        "GoDaddy": 1799,
+        "GoDaddy": 1800,
         "BigScoots": 925,
         "Liquid Web": 912,
         "WordPress.com": 763,
