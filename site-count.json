@@ -1,6 +1,11 @@
 {
-    "siteCount": 158102,
+    "siteCount": 158109,
     "recentlyMoved": [
+        {
+            "domain_name": "newywithkids.com.au",
+            "destination": "BigScoots",
+            "date": "2026-07-16 05:20:29"
+        },
         {
             "domain_name": "arenastrength.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "floatspacetime.com",
             "destination": "Hostinger",
             "date": "2026-07-15 03:27:39"
-        },
-        {
-            "domain_name": "totswap.net",
-            "destination": "Kinsta",
-            "date": "2026-07-15 01:10:25"
         }
     ],
     "dailyMovedStat": {
@@ -1175,7 +1175,7 @@
         "Hostinger": 5638,
         "Bluehost": 4697,
         "GoDaddy": 1797,
-        "BigScoots": 922,
+        "BigScoots": 923,
         "Liquid Web": 912,
         "WordPress.com": 763,
         "GridPane": 714,
