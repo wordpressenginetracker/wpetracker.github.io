@@ -1,6 +1,11 @@
 {
-    "siteCount": 158447,
+    "siteCount": 158455,
     "recentlyMoved": [
+        {
+            "domain_name": "elitecell.com",
+            "destination": "Kinsta",
+            "date": "2026-07-17 13:41:38"
+        },
         {
             "domain_name": "thecollectorcarpodcast.com",
             "destination": "Digital Ocean",
@@ -480,11 +485,6 @@
             "domain_name": "daddyosmaine.com",
             "destination": "GoDaddy",
             "date": "2026-07-16 01:26:29"
-        },
-        {
-            "domain_name": "kingarthursknights.com",
-            "destination": "Kinsta",
-            "date": "2026-07-16 01:09:50"
         },
         {
             "domain_name": "designstudioby.acebuildingmaterials.com",
@@ -1170,7 +1170,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14193,
-        "Kinsta": 11124,
+        "Kinsta": 11125,
         "Digital Ocean": 7119,
         "SiteGround": 5730,
         "Hostinger": 5646,
