@@ -1,6 +1,11 @@
 {
-    "siteCount": 158356,
+    "siteCount": 158368,
     "recentlyMoved": [
+        {
+            "domain_name": "acrerigmats.com",
+            "destination": "Hostinger",
+            "date": "2026-07-17 07:27:07"
+        },
         {
             "domain_name": "shopgreentemple.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "theyrenotmine.com",
             "destination": "Kinsta",
             "date": "2026-07-15 17:01:44"
-        },
-        {
-            "domain_name": "www.us-africabridgebuilding.org",
-            "destination": "Kinsta",
-            "date": "2026-07-15 16:45:56"
         }
     ],
     "dailyMovedStat": {
@@ -1173,7 +1173,7 @@
         "Kinsta": 11121,
         "Digital Ocean": 7117,
         "SiteGround": 5730,
-        "Hostinger": 5643,
+        "Hostinger": 5644,
         "Bluehost": 4697,
         "GoDaddy": 1801,
         "BigScoots": 925,
