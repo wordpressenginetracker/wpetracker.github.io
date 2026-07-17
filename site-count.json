@@ -1,10 +1,50 @@
 {
-    "siteCount": 158414,
+    "siteCount": 158447,
     "recentlyMoved": [
+        {
+            "domain_name": "thecollectorcarpodcast.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-17 13:26:24"
+        },
+        {
+            "domain_name": "theaicgroup.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 13:22:58"
+        },
+        {
+            "domain_name": "meridianfinancialpartners.com",
+            "destination": "Kinsta",
+            "date": "2026-07-17 13:21:16"
+        },
+        {
+            "domain_name": "jambandnews.net",
+            "destination": "Bluehost",
+            "date": "2026-07-17 12:50:06"
+        },
+        {
+            "domain_name": "www.reatainsurance.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 12:35:11"
+        },
+        {
+            "domain_name": "www.reagancompanies.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 12:35:11"
+        },
         {
             "domain_name": "hriassociates.com",
             "destination": "Pressable",
             "date": "2026-07-17 12:34:08"
+        },
+        {
+            "domain_name": "cnrinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 12:32:44"
+        },
+        {
+            "domain_name": "labintegrity.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 12:20:03"
         },
         {
             "domain_name": "www.oberrymaninsurance.com",
@@ -12,9 +52,19 @@
             "date": "2026-07-17 12:19:23"
         },
         {
+            "domain_name": "www.mdpins.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 12:03:41"
+        },
+        {
             "domain_name": "ri-insurance.com",
             "destination": "Pressable",
             "date": "2026-07-17 12:00:37"
+        },
+        {
+            "domain_name": "secur-all.com",
+            "destination": "Pressable",
+            "date": "2026-07-17 11:59:23"
         },
         {
             "domain_name": "www.preferredmn.com",
@@ -437,16 +487,6 @@
             "date": "2026-07-16 01:09:50"
         },
         {
-            "domain_name": "sonaschildcare.com.au",
-            "destination": "Hostinger",
-            "date": "2026-07-16 01:04:02"
-        },
-        {
-            "domain_name": "jasonbuffingtonrealty.com",
-            "destination": "Kinsta",
-            "date": "2026-07-16 00:55:37"
-        },
-        {
             "domain_name": "designstudioby.acebuildingmaterials.com",
             "destination": "Pressable",
             "date": "2026-07-16 00:53:56"
@@ -460,46 +500,6 @@
             "domain_name": "longviewfinancialinc.com",
             "destination": "Kinsta",
             "date": "2026-07-16 00:45:52"
-        },
-        {
-            "domain_name": "www.natharrisentertainment.com",
-            "destination": "Kinsta",
-            "date": "2026-07-16 00:45:36"
-        },
-        {
-            "domain_name": "happyluke-cn.com",
-            "destination": "Hostinger",
-            "date": "2026-07-15 23:38:59"
-        },
-        {
-            "domain_name": "cplinc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-15 21:16:02"
-        },
-        {
-            "domain_name": "www.triumphcapitalmarkets.com",
-            "destination": "WordPress VIP",
-            "date": "2026-07-15 21:07:51"
-        },
-        {
-            "domain_name": "themetrofoundation.org",
-            "destination": "WordPress.com",
-            "date": "2026-07-15 20:58:30"
-        },
-        {
-            "domain_name": "www.rosenbergls.com",
-            "destination": "Pressable",
-            "date": "2026-07-15 20:51:43"
-        },
-        {
-            "domain_name": "test.novac.com",
-            "destination": "IONOS",
-            "date": "2026-07-15 20:48:49"
-        },
-        {
-            "domain_name": "www.landzberglearning.com",
-            "destination": "Pressable",
-            "date": "2026-07-15 20:13:07"
         }
     ],
     "dailyMovedStat": {
@@ -1169,12 +1169,12 @@
         "2026-07-16": "158300"
     },
     "topDestinationHosts": {
-        "Pressable": 14186,
-        "Kinsta": 11123,
-        "Digital Ocean": 7118,
+        "Pressable": 14193,
+        "Kinsta": 11124,
+        "Digital Ocean": 7119,
         "SiteGround": 5730,
         "Hostinger": 5646,
-        "Bluehost": 4697,
+        "Bluehost": 4698,
         "GoDaddy": 1801,
         "BigScoots": 925,
         "Liquid Web": 912,
