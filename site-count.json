@@ -1,6 +1,11 @@
 {
-    "siteCount": 158691,
+    "siteCount": 158699,
     "recentlyMoved": [
+        {
+            "domain_name": "norbys.com",
+            "destination": "Hostinger",
+            "date": "2026-07-18 13:34:24"
+        },
         {
             "domain_name": "localdesk.de",
             "destination": "BigScoots",
@@ -485,11 +490,6 @@
             "domain_name": "www.loker.law",
             "destination": "Digital Ocean",
             "date": "2026-07-16 16:06:23"
-        },
-        {
-            "domain_name": "www.chicagomag.com",
-            "destination": "WordPress VIP",
-            "date": "2026-07-16 16:04:24"
         },
         {
             "domain_name": "reuniontower.com",
@@ -1174,12 +1174,12 @@
         "Kinsta": 11133,
         "Digital Ocean": 7123,
         "SiteGround": 5730,
-        "Hostinger": 5650,
+        "Hostinger": 5651,
         "Bluehost": 4699,
         "GoDaddy": 1801,
         "BigScoots": 927,
         "Liquid Web": 913,
-        "WordPress.com": 770,
+        "WordPress.com": 771,
         "GridPane": 715,
         "OVH": 711,
         "InMotion Hosting": 592,
