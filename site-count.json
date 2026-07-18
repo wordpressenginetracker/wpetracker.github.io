@@ -1,6 +1,11 @@
 {
-    "siteCount": 158608,
+    "siteCount": 158615,
     "recentlyMoved": [
+        {
+            "domain_name": "aiia.com.au",
+            "destination": "WordPress.com",
+            "date": "2026-07-18 04:11:54"
+        },
         {
             "domain_name": "exhibitandtradeshow.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "certifiedrestorationinc.com",
             "destination": "Pressable",
             "date": "2026-07-16 12:30:01"
-        },
-        {
-            "domain_name": "calibratedigitalmarketing.com",
-            "destination": "Kinsta",
-            "date": "2026-07-16 12:03:44"
         }
     ],
     "dailyMovedStat": {
@@ -1179,7 +1179,7 @@
         "GoDaddy": 1801,
         "BigScoots": 926,
         "Liquid Web": 913,
-        "WordPress.com": 768,
+        "WordPress.com": 769,
         "GridPane": 715,
         "OVH": 711,
         "InMotion Hosting": 592,
