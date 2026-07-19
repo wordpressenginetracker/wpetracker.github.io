@@ -1,6 +1,11 @@
 {
-    "siteCount": 158900,
+    "siteCount": 158915,
     "recentlyMoved": [
+        {
+            "domain_name": "puresalonandspa.net",
+            "destination": "Kinsta",
+            "date": "2026-07-19 15:59:10"
+        },
         {
             "domain_name": "www.ritchie-uk.com",
             "destination": "Pressable",
@@ -480,11 +485,6 @@
             "domain_name": "sofareviewer.com",
             "destination": "Hostinger",
             "date": "2026-07-17 00:30:07"
-        },
-        {
-            "domain_name": "www.efficient-systems.com",
-            "destination": "Kinsta",
-            "date": "2026-07-17 00:24:27"
         },
         {
             "domain_name": "www.goarco.com",
@@ -1172,7 +1172,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14207,
-        "Kinsta": 11144,
+        "Kinsta": 11145,
         "Digital Ocean": 7128,
         "SiteGround": 5730,
         "Hostinger": 5653,
