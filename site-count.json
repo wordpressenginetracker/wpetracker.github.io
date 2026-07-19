@@ -1,6 +1,16 @@
 {
-    "siteCount": 158885,
+    "siteCount": 158897,
     "recentlyMoved": [
+        {
+            "domain_name": "www.ritchie-uk.com",
+            "destination": "Pressable",
+            "date": "2026-07-19 12:49:44"
+        },
+        {
+            "domain_name": "seniorrehab.com",
+            "destination": "Hostinger",
+            "date": "2026-07-19 12:37:30"
+        },
         {
             "domain_name": "fmes.org.uk",
             "destination": "Pressable",
@@ -490,16 +500,6 @@
             "domain_name": "icongolf.com",
             "destination": "Pressable",
             "date": "2026-07-17 00:07:31"
-        },
-        {
-            "domain_name": "www.afterburner.com",
-            "destination": "WordPress.com",
-            "date": "2026-07-16 23:40:51"
-        },
-        {
-            "domain_name": "apexservicepartners.com",
-            "destination": "Kinsta",
-            "date": "2026-07-16 23:28:15"
         }
     ],
     "dailyMovedStat": {
@@ -1171,11 +1171,11 @@
         "2026-07-18": "158817"
     },
     "topDestinationHosts": {
-        "Pressable": 14206,
+        "Pressable": 14207,
         "Kinsta": 11144,
         "Digital Ocean": 7128,
         "SiteGround": 5730,
-        "Hostinger": 5652,
+        "Hostinger": 5653,
         "Bluehost": 4699,
         "GoDaddy": 1803,
         "BigScoots": 929,
