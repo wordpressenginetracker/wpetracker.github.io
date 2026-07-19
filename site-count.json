@@ -1,6 +1,11 @@
 {
-    "siteCount": 158817,
+    "siteCount": 158829,
     "recentlyMoved": [
+        {
+            "domain_name": "www.dfwrenthouses.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-18 23:59:27"
+        },
         {
             "domain_name": "www.soundthinking.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "thealphaofrealestate.com",
             "destination": "WordPress.com",
             "date": "2026-07-16 21:24:02"
-        },
-        {
-            "domain_name": "clearsidebio.com",
-            "destination": "GoDaddy",
-            "date": "2026-07-16 21:16:08"
         }
     ],
     "dailyMovedStat": {
@@ -1177,7 +1177,7 @@
         "SiteGround": 5730,
         "Hostinger": 5652,
         "Bluehost": 4699,
-        "GoDaddy": 1802,
+        "GoDaddy": 1803,
         "BigScoots": 929,
         "Liquid Web": 913,
         "WordPress.com": 771,
