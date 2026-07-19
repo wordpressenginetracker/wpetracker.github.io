@@ -1,6 +1,11 @@
 {
-    "siteCount": 158915,
+    "siteCount": 158927,
     "recentlyMoved": [
+        {
+            "domain_name": "www.legacysolutions.org",
+            "destination": "Kinsta",
+            "date": "2026-07-19 16:33:06"
+        },
         {
             "domain_name": "puresalonandspa.net",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "www.goarco.com",
             "destination": "Kinsta",
             "date": "2026-07-17 00:11:04"
-        },
-        {
-            "domain_name": "homemaxmemphis.com",
-            "destination": "Kinsta",
-            "date": "2026-07-17 00:07:46"
         },
         {
             "domain_name": "icongolf.com",
@@ -1172,7 +1172,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14207,
-        "Kinsta": 11145,
+        "Kinsta": 11146,
         "Digital Ocean": 7128,
         "SiteGround": 5730,
         "Hostinger": 5653,
