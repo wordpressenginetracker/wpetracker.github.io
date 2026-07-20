@@ -1,6 +1,16 @@
 {
-    "siteCount": 159052,
+    "siteCount": 159087,
     "recentlyMoved": [
+        {
+            "domain_name": "www.guardianoffshore.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-20 20:17:46"
+        },
+        {
+            "domain_name": "growingpainsmarketing.com",
+            "destination": "Hostinger",
+            "date": "2026-07-20 19:53:02"
+        },
         {
             "domain_name": "www.storycatcherstheatre.org",
             "destination": "OVH",
@@ -489,16 +499,6 @@
         {
             "domain_name": "sterlingcols.com",
             "destination": "Pressable",
-            "date": "2026-07-17 08:53:06"
-        },
-        {
-            "domain_name": "steriadvance.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-07-17 08:53:06"
-        },
-        {
-            "domain_name": "stefankrasowski.com",
-            "destination": "Hetzner Online",
             "date": "2026-07-17 08:53:06"
         }
     ],
@@ -1172,11 +1172,11 @@
         "2026-07-19": "158954"
     },
     "topDestinationHosts": {
-        "Pressable": 14207,
-        "Kinsta": 11149,
-        "Digital Ocean": 7131,
+        "Pressable": 14208,
+        "Kinsta": 11151,
+        "Digital Ocean": 7132,
         "SiteGround": 5730,
-        "Hostinger": 5657,
+        "Hostinger": 5658,
         "Bluehost": 4699,
         "GoDaddy": 1803,
         "BigScoots": 929,
