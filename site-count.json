@@ -1,6 +1,11 @@
 {
-    "siteCount": 158986,
+    "siteCount": 158991,
     "recentlyMoved": [
+        {
+            "domain_name": "type2diabetesrevolution.com",
+            "destination": "Kinsta",
+            "date": "2026-07-20 01:54:05"
+        },
         {
             "domain_name": "briarcliffchurch.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "acrerigmats.com",
             "destination": "Hostinger",
             "date": "2026-07-17 07:27:07"
-        },
-        {
-            "domain_name": "shopgreentemple.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-17 04:46:37"
         }
     ],
     "dailyMovedStat": {
@@ -1173,7 +1173,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14207,
-        "Kinsta": 11148,
+        "Kinsta": 11149,
         "Digital Ocean": 7131,
         "SiteGround": 5730,
         "Hostinger": 5656,
