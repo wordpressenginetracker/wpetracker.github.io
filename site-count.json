@@ -1,6 +1,21 @@
 {
-    "siteCount": 159162,
+    "siteCount": 159178,
     "recentlyMoved": [
+        {
+            "domain_name": "heattecsolutions.com",
+            "destination": "Hostinger",
+            "date": "2026-07-21 12:10:28"
+        },
+        {
+            "domain_name": "havemy.info",
+            "destination": "Kinsta",
+            "date": "2026-07-21 12:10:03"
+        },
+        {
+            "domain_name": "americanbusinessdirectory.org",
+            "destination": "Kinsta",
+            "date": "2026-07-21 11:37:58"
+        },
         {
             "domain_name": "thisislondonwellness.com",
             "destination": "IONOS",
@@ -482,24 +497,9 @@
             "date": "2026-07-17 12:35:11"
         },
         {
-            "domain_name": "www.reagancompanies.com",
-            "destination": "Pressable",
-            "date": "2026-07-17 12:35:11"
-        },
-        {
             "domain_name": "cnrinsurance.com",
             "destination": "Pressable",
             "date": "2026-07-17 12:32:44"
-        },
-        {
-            "domain_name": "labintegrity.com",
-            "destination": "Pressable",
-            "date": "2026-07-17 12:20:03"
-        },
-        {
-            "domain_name": "www.mdpins.com",
-            "destination": "Pressable",
-            "date": "2026-07-17 12:03:41"
         }
     ],
     "dailyMovedStat": {
@@ -1174,10 +1174,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14210,
-        "Kinsta": 11156,
+        "Kinsta": 11158,
         "Digital Ocean": 7135,
         "SiteGround": 5730,
-        "Hostinger": 5661,
+        "Hostinger": 5662,
         "Bluehost": 4699,
         "GoDaddy": 1803,
         "BigScoots": 929,
