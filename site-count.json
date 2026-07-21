@@ -1,6 +1,16 @@
 {
-    "siteCount": 159138,
+    "siteCount": 159151,
     "recentlyMoved": [
+        {
+            "domain_name": "appartamentisulgarda.it",
+            "destination": "Digital Ocean",
+            "date": "2026-07-21 08:09:31"
+        },
+        {
+            "domain_name": "belizeanspices.com",
+            "destination": "Hostinger",
+            "date": "2026-07-21 07:49:51"
+        },
         {
             "domain_name": "mainenativeplants.org",
             "destination": "OVH",
@@ -462,11 +472,6 @@
             "date": "2026-07-17 12:35:11"
         },
         {
-            "domain_name": "hriassociates.com",
-            "destination": "Pressable",
-            "date": "2026-07-17 12:34:08"
-        },
-        {
             "domain_name": "cnrinsurance.com",
             "destination": "Pressable",
             "date": "2026-07-17 12:32:44"
@@ -490,11 +495,6 @@
             "domain_name": "secur-all.com",
             "destination": "Pressable",
             "date": "2026-07-17 11:59:23"
-        },
-        {
-            "domain_name": "redkooga.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-07-17 11:54:12"
         },
         {
             "domain_name": "rktongue.com",
@@ -1175,9 +1175,9 @@
     "topDestinationHosts": {
         "Pressable": 14209,
         "Kinsta": 11155,
-        "Digital Ocean": 7134,
+        "Digital Ocean": 7135,
         "SiteGround": 5730,
-        "Hostinger": 5660,
+        "Hostinger": 5661,
         "Bluehost": 4699,
         "GoDaddy": 1803,
         "BigScoots": 929,
