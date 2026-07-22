@@ -1,10 +1,15 @@
 {
-    "siteCount": 159487,
+    "siteCount": 159496,
     "recentlyMoved": [
         {
             "domain_name": "thatgoodcottage.com",
             "destination": "WordPress.com",
             "date": "2026-07-22 13:20:47"
+        },
+        {
+            "domain_name": "elcotenviro.com",
+            "destination": "Pressable",
+            "date": "2026-07-22 13:12:44"
         },
         {
             "domain_name": "crdfinancial.com",
@@ -22,9 +27,19 @@
             "date": "2026-07-22 13:06:56"
         },
         {
+            "domain_name": "network.apotecanatura.com",
+            "destination": "Kinsta",
+            "date": "2026-07-22 13:03:35"
+        },
+        {
             "domain_name": "midwestjrseries.com",
             "destination": "Pressable",
             "date": "2026-07-22 13:03:34"
+        },
+        {
+            "domain_name": "uig.net",
+            "destination": "Hostinger",
+            "date": "2026-07-22 13:01:59"
         },
         {
             "domain_name": "lung-map.org",
@@ -485,21 +500,6 @@
             "domain_name": "explorersweb.com",
             "destination": "Kinsta",
             "date": "2026-07-20 21:26:55"
-        },
-        {
-            "domain_name": "www.guardianoffshore.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-20 20:17:46"
-        },
-        {
-            "domain_name": "growingpainsmarketing.com",
-            "destination": "Hostinger",
-            "date": "2026-07-20 19:53:02"
-        },
-        {
-            "domain_name": "www.storycatcherstheatre.org",
-            "destination": "OVH",
-            "date": "2026-07-20 09:09:17"
         }
     ],
     "dailyMovedStat": {
@@ -1174,11 +1174,11 @@
         "2026-07-21": "159350"
     },
     "topDestinationHosts": {
-        "Pressable": 14225,
-        "Kinsta": 11191,
+        "Pressable": 14226,
+        "Kinsta": 11192,
         "Digital Ocean": 7143,
         "SiteGround": 5730,
-        "Hostinger": 5671,
+        "Hostinger": 5672,
         "Bluehost": 4700,
         "GoDaddy": 1804,
         "BigScoots": 931,
