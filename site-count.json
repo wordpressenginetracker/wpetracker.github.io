@@ -1,6 +1,16 @@
 {
-    "siteCount": 159780,
+    "siteCount": 159786,
     "recentlyMoved": [
+        {
+            "domain_name": "wdavies.com",
+            "destination": "Hostinger",
+            "date": "2026-07-23 14:10:11"
+        },
+        {
+            "domain_name": "wbdlawfirm.com",
+            "destination": "Kinsta",
+            "date": "2026-07-23 14:10:11"
+        },
         {
             "domain_name": "www.westcountrygrain.co.uk",
             "destination": "Pressable",
@@ -477,11 +487,6 @@
             "date": "2026-07-22 07:26:44"
         },
         {
-            "domain_name": "midcoast.maineaudubon.org",
-            "destination": "OVH",
-            "date": "2026-07-22 05:44:39"
-        },
-        {
             "domain_name": "drfredricmiller.com",
             "destination": "Pressable",
             "date": "2026-07-22 05:37:37"
@@ -495,11 +500,6 @@
             "domain_name": "drbarrydorf.com",
             "destination": "Pressable",
             "date": "2026-07-22 05:11:53"
-        },
-        {
-            "domain_name": "ddcofnj.com",
-            "destination": "Pressable",
-            "date": "2026-07-22 05:06:09"
         }
     ],
     "dailyMovedStat": {
@@ -1176,10 +1176,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14246,
-        "Kinsta": 11217,
+        "Kinsta": 11218,
         "Digital Ocean": 7151,
         "SiteGround": 5730,
-        "Hostinger": 5678,
+        "Hostinger": 5679,
         "Bluehost": 4701,
         "GoDaddy": 1805,
         "BigScoots": 932,
