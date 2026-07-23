@@ -1,6 +1,11 @@
 {
-    "siteCount": 159691,
+    "siteCount": 159693,
     "recentlyMoved": [
+        {
+            "domain_name": "waterfreaks.de",
+            "destination": "Hostinger",
+            "date": "2026-07-23 05:53:31"
+        },
         {
             "domain_name": "timelessfencesystem.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "theonesurgical.com",
             "destination": "Kinsta",
             "date": "2026-07-21 17:06:12"
-        },
-        {
-            "domain_name": "copperrockrealty.com",
-            "destination": "Kinsta",
-            "date": "2026-07-21 17:02:42"
         }
     ],
     "dailyMovedStat": {
@@ -1177,9 +1177,9 @@
     "topDestinationHosts": {
         "Pressable": 14234,
         "Kinsta": 11212,
-        "Digital Ocean": 7145,
+        "Digital Ocean": 7146,
         "SiteGround": 5730,
-        "Hostinger": 5675,
+        "Hostinger": 5676,
         "Bluehost": 4701,
         "GoDaddy": 1805,
         "BigScoots": 932,
