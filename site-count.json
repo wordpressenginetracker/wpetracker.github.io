@@ -1,6 +1,11 @@
 {
-    "siteCount": 159673,
+    "siteCount": 159679,
     "recentlyMoved": [
+        {
+            "domain_name": "www.bastionchambers.co.nz",
+            "destination": "Pressable",
+            "date": "2026-07-23 03:57:54"
+        },
         {
             "domain_name": "garrickvanburen.com",
             "destination": "Digital Ocean",
@@ -485,11 +490,6 @@
             "domain_name": "www.pixal.co.uk",
             "destination": "Kinsta",
             "date": "2026-07-21 16:30:22"
-        },
-        {
-            "domain_name": "www.kent-farm.co.uk",
-            "destination": "Pressable",
-            "date": "2026-07-21 16:27:03"
         },
         {
             "domain_name": "bucknerwestminster.org",
@@ -1175,7 +1175,7 @@
         "2026-07-22": "159640"
     },
     "topDestinationHosts": {
-        "Pressable": 14232,
+        "Pressable": 14233,
         "Kinsta": 11211,
         "Digital Ocean": 7145,
         "SiteGround": 5730,
