@@ -1,6 +1,16 @@
 {
-    "siteCount": 159693,
+    "siteCount": 159707,
     "recentlyMoved": [
+        {
+            "domain_name": "balmainvillagevet.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-23 08:31:48"
+        },
+        {
+            "domain_name": "radomski-builders.com",
+            "destination": "Kinsta",
+            "date": "2026-07-23 07:45:18"
+        },
         {
             "domain_name": "waterfreaks.de",
             "destination": "Hostinger",
@@ -477,11 +487,6 @@
             "date": "2026-07-21 17:33:47"
         },
         {
-            "domain_name": "maracabajiujitsu.com",
-            "destination": "Hostinger",
-            "date": "2026-07-21 17:33:43"
-        },
-        {
             "domain_name": "excelfutures.com",
             "destination": "Hostinger",
             "date": "2026-07-21 17:32:40"
@@ -495,11 +500,6 @@
             "domain_name": "thesensoryroom.com",
             "destination": "Kinsta",
             "date": "2026-07-21 17:07:40"
-        },
-        {
-            "domain_name": "theonesurgical.com",
-            "destination": "Kinsta",
-            "date": "2026-07-21 17:06:12"
         }
     ],
     "dailyMovedStat": {
@@ -1176,7 +1176,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14234,
-        "Kinsta": 11212,
+        "Kinsta": 11214,
         "Digital Ocean": 7146,
         "SiteGround": 5730,
         "Hostinger": 5676,
