@@ -1,5 +1,5 @@
 {
-    "siteCount": 160263,
+    "siteCount": 160278,
     "recentlyMoved": [
         {
             "domain_name": "beachandbayvet.com.au",
@@ -15,6 +15,16 @@
             "domain_name": "rosebayvet.com.au",
             "destination": "Kinsta",
             "date": "2026-07-24 20:20:35"
+        },
+        {
+            "domain_name": "cem-tec.com",
+            "destination": "Pressable",
+            "date": "2026-07-24 20:15:06"
+        },
+        {
+            "domain_name": "boondallvet.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-24 20:07:03"
         },
         {
             "domain_name": "hcd-gc.com",
@@ -482,11 +492,6 @@
             "date": "2026-07-24 12:05:11"
         },
         {
-            "domain_name": "www.bajanoutdoorliving.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-07-24 11:47:50"
-        },
-        {
             "domain_name": "arphysmed.com",
             "destination": "Hostinger",
             "date": "2026-07-24 11:37:47"
@@ -495,11 +500,6 @@
             "domain_name": "www.nolahotels.com",
             "destination": "Kinsta",
             "date": "2026-07-24 11:27:37"
-        },
-        {
-            "domain_name": "www.mgslawoffice.com",
-            "destination": "Bluehost",
-            "date": "2026-07-24 11:18:29"
         }
     ],
     "dailyMovedStat": {
@@ -1176,8 +1176,8 @@
         "2026-07-23": "159908"
     },
     "topDestinationHosts": {
-        "Pressable": 14337,
-        "Kinsta": 11249,
+        "Pressable": 14338,
+        "Kinsta": 11250,
         "Digital Ocean": 7160,
         "SiteGround": 5730,
         "Hostinger": 5684,
