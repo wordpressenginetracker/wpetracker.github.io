@@ -1,6 +1,16 @@
 {
-    "siteCount": 160342,
+    "siteCount": 160366,
     "recentlyMoved": [
+        {
+            "domain_name": "highemotionweddings.com",
+            "destination": "Hetzner Online",
+            "date": "2026-07-25 08:09:36"
+        },
+        {
+            "domain_name": "gennarose.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-07-25 07:38:49"
+        },
         {
             "domain_name": "ecklandfamilydentistry.com",
             "destination": "Kinsta",
@@ -488,16 +498,6 @@
         },
         {
             "domain_name": "photos.aaronleondar.com",
-            "destination": "Pressable",
-            "date": "2026-07-24 15:30:48"
-        },
-        {
-            "domain_name": "photography.vickifarmer.com",
-            "destination": "Pressable",
-            "date": "2026-07-24 15:30:48"
-        },
-        {
-            "domain_name": "photography.studioats.com",
             "destination": "Pressable",
             "date": "2026-07-24 15:30:48"
         }
@@ -1179,7 +1179,7 @@
     "topDestinationHosts": {
         "Pressable": 14347,
         "Kinsta": 11266,
-        "Digital Ocean": 7161,
+        "Digital Ocean": 7162,
         "SiteGround": 5731,
         "Hostinger": 5684,
         "Bluehost": 4712,
@@ -1195,7 +1195,7 @@
         "IONOS": 555,
         "DreamHost": 539,
         "A2 Hosting": 474,
-        "Hetzner Online": 471,
+        "Hetzner Online": 472,
         "HostGator": 350
     },
     "dailyTotalStat": {
