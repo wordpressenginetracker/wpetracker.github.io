@@ -1,6 +1,11 @@
 {
-    "siteCount": 160340,
+    "siteCount": 160342,
     "recentlyMoved": [
+        {
+            "domain_name": "ecklandfamilydentistry.com",
+            "destination": "Kinsta",
+            "date": "2026-07-25 05:45:31"
+        },
         {
             "domain_name": "thelumixgroup.com",
             "destination": "GridPane",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "photography.studioats.com",
-            "destination": "Pressable",
-            "date": "2026-07-24 15:30:48"
-        },
-        {
-            "domain_name": "photo.skulte.com",
             "destination": "Pressable",
             "date": "2026-07-24 15:30:48"
         }
@@ -1178,7 +1178,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14347,
-        "Kinsta": 11265,
+        "Kinsta": 11266,
         "Digital Ocean": 7161,
         "SiteGround": 5731,
         "Hostinger": 5684,
