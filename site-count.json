@@ -1,10 +1,20 @@
 {
-    "siteCount": 160366,
+    "siteCount": 160387,
     "recentlyMoved": [
+        {
+            "domain_name": "busawoodward.com",
+            "destination": "Hetzner Online",
+            "date": "2026-07-25 08:44:56"
+        },
         {
             "domain_name": "highemotionweddings.com",
             "destination": "Hetzner Online",
             "date": "2026-07-25 08:09:36"
+        },
+        {
+            "domain_name": "calvalleyinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-07-25 08:09:02"
         },
         {
             "domain_name": "gennarose.co.uk",
@@ -488,16 +498,6 @@
         },
         {
             "domain_name": "photos.alexboiko.com",
-            "destination": "Pressable",
-            "date": "2026-07-24 15:30:48"
-        },
-        {
-            "domain_name": "photos.adam-amber.com",
-            "destination": "Pressable",
-            "date": "2026-07-24 15:30:48"
-        },
-        {
-            "domain_name": "photos.aaronleondar.com",
             "destination": "Pressable",
             "date": "2026-07-24 15:30:48"
         }
@@ -1177,7 +1177,7 @@
         "2026-07-24": "160283"
     },
     "topDestinationHosts": {
-        "Pressable": 14347,
+        "Pressable": 14348,
         "Kinsta": 11266,
         "Digital Ocean": 7162,
         "SiteGround": 5731,
@@ -1195,7 +1195,7 @@
         "IONOS": 555,
         "DreamHost": 539,
         "A2 Hosting": 474,
-        "Hetzner Online": 472,
+        "Hetzner Online": 473,
         "HostGator": 350
     },
     "dailyTotalStat": {
