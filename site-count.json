@@ -1,6 +1,11 @@
 {
-    "siteCount": 161045,
+    "siteCount": 161088,
     "recentlyMoved": [
+        {
+            "domain_name": "frasercoveshoppingcentre.co.nz",
+            "destination": "Pressable",
+            "date": "2026-07-28 19:20:37"
+        },
         {
             "domain_name": "ericsautohamilton.ca",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "bedfordshirepermanentmakeup.co.uk",
             "destination": "Krystal Hosting",
             "date": "2026-07-25 11:50:48"
-        },
-        {
-            "domain_name": "americanconcealed.com",
-            "destination": "GridPane",
-            "date": "2026-07-25 11:26:59"
         }
     ],
     "dailyMovedStat": {
@@ -1180,7 +1180,7 @@
         "2026-07-27": "160845"
     },
     "topDestinationHosts": {
-        "Pressable": 14366,
+        "Pressable": 14367,
         "Kinsta": 11295,
         "Digital Ocean": 7176,
         "SiteGround": 5732,
@@ -1195,7 +1195,7 @@
         "InMotion Hosting": 597,
         "Namecheap": 583,
         "Elementor Hosting": 563,
-        "IONOS": 556,
+        "IONOS": 557,
         "DreamHost": 539,
         "Hetzner Online": 476,
         "A2 Hosting": 474,
