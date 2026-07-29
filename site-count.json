@@ -1,6 +1,11 @@
 {
-    "siteCount": 161196,
+    "siteCount": 161200,
     "recentlyMoved": [
+        {
+            "domain_name": "tipofthetailvilla.com",
+            "destination": "IONOS",
+            "date": "2026-07-29 09:44:20"
+        },
         {
             "domain_name": "crc1551.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "womanmade.org",
             "destination": "BigScoots",
             "date": "2026-07-25 23:34:47"
-        },
-        {
-            "domain_name": "moellerillustrations.com",
-            "destination": "GoDaddy",
-            "date": "2026-07-25 21:01:26"
         }
     ],
     "dailyMovedStat": {
@@ -1196,7 +1196,7 @@
         "InMotion Hosting": 597,
         "Namecheap": 583,
         "Elementor Hosting": 563,
-        "IONOS": 558,
+        "IONOS": 559,
         "DreamHost": 539,
         "Hetzner Online": 476,
         "A2 Hosting": 474,
