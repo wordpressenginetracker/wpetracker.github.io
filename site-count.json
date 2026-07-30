@@ -1,6 +1,21 @@
 {
-    "siteCount": 161412,
+    "siteCount": 161420,
     "recentlyMoved": [
+        {
+            "domain_name": "wisesustainability.com",
+            "destination": "Hetzner Online",
+            "date": "2026-07-30 04:05:00"
+        },
+        {
+            "domain_name": "www.datastub.us",
+            "destination": "Hostinger",
+            "date": "2026-07-30 03:43:56"
+        },
+        {
+            "domain_name": "wgvc.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-30 03:20:26"
+        },
         {
             "domain_name": "vpvh.com.au",
             "destination": "Kinsta",
@@ -477,29 +492,14 @@
             "date": "2026-07-28 07:44:49"
         },
         {
-            "domain_name": "lifecareplanningsolutions.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-07-28 05:23:59"
-        },
-        {
             "domain_name": "mtbullerfish.com.au",
             "destination": "Bluehost",
             "date": "2026-07-28 05:14:09"
         },
         {
-            "domain_name": "learninghub.futurethink.com",
-            "destination": "GoDaddy",
-            "date": "2026-07-28 05:13:38"
-        },
-        {
             "domain_name": "datapitch.eu",
             "destination": "Hetzner Online",
             "date": "2026-07-28 05:10:48"
-        },
-        {
-            "domain_name": "colinfisherfuneraldirectors.com",
-            "destination": "Kinsta",
-            "date": "2026-07-28 05:05:27"
         }
     ],
     "dailyMovedStat": {
@@ -1183,10 +1183,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 14381,
-        "Kinsta": 11308,
+        "Kinsta": 11309,
         "Digital Ocean": 7192,
         "SiteGround": 5732,
-        "Hostinger": 5703,
+        "Hostinger": 5705,
         "Bluehost": 4718,
         "GoDaddy": 1819,
         "BigScoots": 941,
@@ -1197,9 +1197,9 @@
         "InMotion Hosting": 597,
         "Namecheap": 583,
         "Elementor Hosting": 563,
-        "IONOS": 559,
+        "IONOS": 560,
         "DreamHost": 539,
-        "Hetzner Online": 476,
+        "Hetzner Online": 477,
         "A2 Hosting": 475,
         "HostGator": 352
     },
