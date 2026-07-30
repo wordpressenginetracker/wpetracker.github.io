@@ -1,6 +1,16 @@
 {
-    "siteCount": 161624,
+    "siteCount": 161627,
     "recentlyMoved": [
+        {
+            "domain_name": "vogellawyers.com",
+            "destination": "Digital Ocean",
+            "date": "2026-07-30 21:32:54"
+        },
+        {
+            "domain_name": "evergreencomfort.com",
+            "destination": "Kinsta",
+            "date": "2026-07-30 21:28:52"
+        },
         {
             "domain_name": "cookscomfortsystems.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.tablelandvet.com.au",
             "destination": "Kinsta",
             "date": "2026-07-29 04:34:26"
-        },
-        {
-            "domain_name": "bernadettebisseling.com",
-            "destination": "Hostinger",
-            "date": "2026-07-29 04:18:22"
-        },
-        {
-            "domain_name": "gastrospecialistsnj.com",
-            "destination": "Pressable",
-            "date": "2026-07-29 03:42:33"
         }
     ],
     "dailyMovedStat": {
@@ -1183,8 +1183,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14387,
-        "Kinsta": 11322,
-        "Digital Ocean": 7202,
+        "Kinsta": 11323,
+        "Digital Ocean": 7203,
         "SiteGround": 5732,
         "Hostinger": 5714,
         "Bluehost": 4720,
