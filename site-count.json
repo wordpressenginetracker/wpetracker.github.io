@@ -1,6 +1,16 @@
 {
-    "siteCount": 161410,
+    "siteCount": 161412,
     "recentlyMoved": [
+        {
+            "domain_name": "vpvh.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-30 02:08:13"
+        },
+        {
+            "domain_name": "ebxaz.com",
+            "destination": "Pressable",
+            "date": "2026-07-30 00:58:44"
+        },
         {
             "domain_name": "crisceliacostarealty.com",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "colinfisherfuneraldirectors.com",
             "destination": "Kinsta",
             "date": "2026-07-28 05:05:27"
-        },
-        {
-            "domain_name": "stacklaw.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-28 05:01:42"
-        },
-        {
-            "domain_name": "selsdonfuneraldirectors.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-07-28 04:03:13"
         }
     ],
     "dailyMovedStat": {
@@ -1182,8 +1182,8 @@
         "2026-07-29": "161392"
     },
     "topDestinationHosts": {
-        "Pressable": 14380,
-        "Kinsta": 11307,
+        "Pressable": 14381,
+        "Kinsta": 11308,
         "Digital Ocean": 7192,
         "SiteGround": 5732,
         "Hostinger": 5703,
