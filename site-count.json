@@ -1,6 +1,11 @@
 {
-    "siteCount": 161431,
+    "siteCount": 161435,
     "recentlyMoved": [
+        {
+            "domain_name": "mobilepro.com",
+            "destination": "Kinsta",
+            "date": "2026-07-30 05:37:23"
+        },
         {
             "domain_name": "www.rithwik.co.in",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "championshipdadsclub.org",
             "destination": "Pressable",
             "date": "2026-07-28 08:25:53"
-        },
-        {
-            "domain_name": "bespokemortgageandfinancecentre.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-07-28 08:08:35"
         }
     ],
     "dailyMovedStat": {
@@ -1183,7 +1183,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14381,
-        "Kinsta": 11309,
+        "Kinsta": 11310,
         "Digital Ocean": 7192,
         "SiteGround": 5732,
         "Hostinger": 5707,
