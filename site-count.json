@@ -1,10 +1,20 @@
 {
-    "siteCount": 161827,
+    "siteCount": 161833,
     "recentlyMoved": [
+        {
+            "domain_name": "eastcoast.ps.org.nz",
+            "destination": "Pressable",
+            "date": "2026-07-31 17:46:51"
+        },
         {
             "domain_name": "www.winnakee.org",
             "destination": "Pressable",
             "date": "2026-07-31 17:36:02"
+        },
+        {
+            "domain_name": "natura.health",
+            "destination": "Hostinger",
+            "date": "2026-07-31 17:28:13"
         },
         {
             "domain_name": "corbcoventures.com",
@@ -490,16 +500,6 @@
             "domain_name": "mobilepro.com",
             "destination": "Kinsta",
             "date": "2026-07-30 05:37:23"
-        },
-        {
-            "domain_name": "www.rithwik.co.in",
-            "destination": "Hostinger",
-            "date": "2026-07-30 04:58:50"
-        },
-        {
-            "domain_name": "stayelite.com.au",
-            "destination": "Hostinger",
-            "date": "2026-07-30 04:21:27"
         }
     ],
     "dailyMovedStat": {
@@ -1183,11 +1183,11 @@
         "2026-07-30": "161627"
     },
     "topDestinationHosts": {
-        "Pressable": 14395,
+        "Pressable": 14396,
         "Kinsta": 11341,
         "Digital Ocean": 7216,
         "SiteGround": 5732,
-        "Hostinger": 5718,
+        "Hostinger": 5719,
         "Bluehost": 4721,
         "GoDaddy": 1821,
         "BigScoots": 943,
