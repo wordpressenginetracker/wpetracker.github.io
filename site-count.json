@@ -1,6 +1,21 @@
 {
-    "siteCount": 161669,
+    "siteCount": 161682,
     "recentlyMoved": [
+        {
+            "domain_name": "ddvh.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-31 04:55:54"
+        },
+        {
+            "domain_name": "capehawkevet.com.au",
+            "destination": "Kinsta",
+            "date": "2026-07-31 04:54:38"
+        },
+        {
+            "domain_name": "zarmacbenefits.com",
+            "destination": "GoDaddy",
+            "date": "2026-07-31 04:42:51"
+        },
         {
             "domain_name": "www.freedomfastbail.com",
             "destination": "Bluehost",
@@ -485,21 +500,6 @@
             "domain_name": "idfactors.com",
             "destination": "Bluehost",
             "date": "2026-07-29 12:08:57"
-        },
-        {
-            "domain_name": "findersins.com",
-            "destination": "Pressable",
-            "date": "2026-07-29 11:55:51"
-        },
-        {
-            "domain_name": "oxcapanalytics.com",
-            "destination": "OVH",
-            "date": "2026-07-29 11:54:49"
-        },
-        {
-            "domain_name": "aldrichfoundation.org",
-            "destination": "A2 Hosting",
-            "date": "2026-07-29 11:38:27"
         }
     ],
     "dailyMovedStat": {
@@ -1184,12 +1184,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 14390,
-        "Kinsta": 11328,
+        "Kinsta": 11330,
         "Digital Ocean": 7203,
         "SiteGround": 5732,
         "Hostinger": 5715,
         "Bluehost": 4721,
-        "GoDaddy": 1819,
+        "GoDaddy": 1820,
         "BigScoots": 942,
         "Liquid Web": 922,
         "WordPress.com": 779,
