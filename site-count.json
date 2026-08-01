@@ -1,6 +1,11 @@
 {
-    "siteCount": 161978,
+    "siteCount": 161986,
     "recentlyMoved": [
+        {
+            "domain_name": "herronpalmer.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 08:13:51"
+        },
         {
             "domain_name": "motivatedprint.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "aspencommerciallending.com",
             "destination": "Hostinger",
             "date": "2026-07-30 15:35:05"
-        },
-        {
-            "domain_name": "gfxstudio.live",
-            "destination": "Hostinger",
-            "date": "2026-07-30 15:34:58"
         }
     ],
     "dailyMovedStat": {
@@ -1185,7 +1185,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14400,
-        "Kinsta": 11346,
+        "Kinsta": 11347,
         "Digital Ocean": 7218,
         "SiteGround": 5733,
         "Hostinger": 5722,
