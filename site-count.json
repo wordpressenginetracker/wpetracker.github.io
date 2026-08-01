@@ -1,6 +1,11 @@
 {
-    "siteCount": 161977,
+    "siteCount": 161978,
     "recentlyMoved": [
+        {
+            "domain_name": "motivatedprint.com",
+            "destination": "HostGator",
+            "date": "2026-08-01 05:40:07"
+        },
         {
             "domain_name": "dawsonelectric.com.au",
             "destination": "Hostinger",
@@ -494,11 +499,6 @@
         {
             "domain_name": "gfxstudio.live",
             "destination": "Hostinger",
-            "date": "2026-07-30 15:34:58"
-        },
-        {
-            "domain_name": "getmansweeny.com",
-            "destination": "Pressable",
             "date": "2026-07-30 15:34:58"
         }
     ],
@@ -1203,7 +1203,7 @@
         "DreamHost": 541,
         "Hetzner Online": 480,
         "A2 Hosting": 475,
-        "HostGator": 354
+        "HostGator": 355
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
