@@ -1,6 +1,16 @@
 {
-    "siteCount": 162074,
+    "siteCount": 162096,
     "recentlyMoved": [
+        {
+            "domain_name": "terracrestpm.com",
+            "destination": "Hostinger",
+            "date": "2026-08-01 17:11:40"
+        },
+        {
+            "domain_name": "www.petherinsure.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-01 16:56:59"
+        },
         {
             "domain_name": "aygfoods.com",
             "destination": "Hostinger",
@@ -10,6 +20,16 @@
             "domain_name": "recoverwell.net",
             "destination": "Hostinger",
             "date": "2026-08-01 16:31:17"
+        },
+        {
+            "domain_name": "larrettenergy.com",
+            "destination": "WordPress.com",
+            "date": "2026-08-01 16:27:38"
+        },
+        {
+            "domain_name": "www.pennlocksmith.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-01 16:18:54"
         },
         {
             "domain_name": "highlandroof.com",
@@ -472,34 +492,14 @@
             "date": "2026-07-31 00:21:25"
         },
         {
-            "domain_name": "www.dentinstruments.com",
-            "destination": "Liquid Web",
-            "date": "2026-07-31 00:20:28"
-        },
-        {
             "domain_name": "big3precision.com",
             "destination": "Hostinger",
             "date": "2026-07-30 23:58:39"
         },
         {
-            "domain_name": "www.grassrootsit.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-30 23:56:15"
-        },
-        {
             "domain_name": "brandonparkvet.com.au",
             "destination": "Kinsta",
             "date": "2026-07-30 23:55:03"
-        },
-        {
-            "domain_name": "www.airtechofconroe.com",
-            "destination": "Kinsta",
-            "date": "2026-07-30 23:37:10"
-        },
-        {
-            "domain_name": "vogellawyers.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-30 21:32:54"
         }
     ],
     "dailyMovedStat": {
@@ -1184,16 +1184,16 @@
         "2026-07-31": "161918"
     },
     "topDestinationHosts": {
-        "Pressable": 14402,
+        "Pressable": 14403,
         "Kinsta": 11351,
-        "Digital Ocean": 7224,
+        "Digital Ocean": 7226,
         "SiteGround": 5733,
-        "Hostinger": 5724,
+        "Hostinger": 5725,
         "Bluehost": 4723,
         "GoDaddy": 1823,
         "BigScoots": 945,
         "Liquid Web": 926,
-        "WordPress.com": 779,
+        "WordPress.com": 780,
         "OVH": 724,
         "GridPane": 718,
         "InMotion Hosting": 599,
