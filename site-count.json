@@ -1,6 +1,36 @@
 {
-    "siteCount": 162140,
+    "siteCount": 162153,
     "recentlyMoved": [
+        {
+            "domain_name": "culligannwohio.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
+        {
+            "domain_name": "culligannwa.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
+        {
+            "domain_name": "culligannorfolk.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
+        {
+            "domain_name": "culliganmcpherson.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
+        {
+            "domain_name": "culliganlawton.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
+        {
+            "domain_name": "culligancovina.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 21:23:58"
+        },
         {
             "domain_name": "www.honfleurnola.com",
             "destination": "Kinsta",
@@ -467,39 +497,9 @@
             "date": "2026-07-31 05:16:17"
         },
         {
-            "domain_name": "ddvh.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-31 04:55:54"
-        },
-        {
-            "domain_name": "capehawkevet.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-31 04:54:38"
-        },
-        {
             "domain_name": "zarmacbenefits.com",
             "destination": "GoDaddy",
             "date": "2026-07-31 04:42:51"
-        },
-        {
-            "domain_name": "www.freedomfastbail.com",
-            "destination": "Bluehost",
-            "date": "2026-07-31 04:05:51"
-        },
-        {
-            "domain_name": "forrestfieldvet.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-31 03:39:50"
-        },
-        {
-            "domain_name": "www.redback.co.nz",
-            "destination": "Pressable",
-            "date": "2026-07-31 03:39:45"
-        },
-        {
-            "domain_name": "www.redbackagri.com.au",
-            "destination": "Pressable",
-            "date": "2026-07-31 03:28:57"
         }
     ],
     "dailyMovedStat": {
@@ -1185,7 +1185,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14403,
-        "Kinsta": 11352,
+        "Kinsta": 11358,
         "Digital Ocean": 7226,
         "SiteGround": 5733,
         "Hostinger": 5727,
