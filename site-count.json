@@ -1,6 +1,11 @@
 {
-    "siteCount": 162153,
+    "siteCount": 162155,
     "recentlyMoved": [
+        {
+            "domain_name": "easimedics.com",
+            "destination": "WordPress.com",
+            "date": "2026-08-01 21:43:38"
+        },
         {
             "domain_name": "culligannwohio.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "enfieldvethospital.com.au",
             "destination": "Kinsta",
             "date": "2026-07-31 05:16:17"
-        },
-        {
-            "domain_name": "zarmacbenefits.com",
-            "destination": "GoDaddy",
-            "date": "2026-07-31 04:42:51"
         }
     ],
     "dailyMovedStat": {
@@ -1193,7 +1193,7 @@
         "GoDaddy": 1824,
         "BigScoots": 946,
         "Liquid Web": 926,
-        "WordPress.com": 780,
+        "WordPress.com": 781,
         "OVH": 724,
         "GridPane": 718,
         "InMotion Hosting": 599,
