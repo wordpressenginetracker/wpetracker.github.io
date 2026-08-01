@@ -1,6 +1,11 @@
 {
-    "siteCount": 162096,
+    "siteCount": 162100,
     "recentlyMoved": [
+        {
+            "domain_name": "newcenturyga.com",
+            "destination": "DreamHost",
+            "date": "2026-08-01 17:40:30"
+        },
         {
             "domain_name": "terracrestpm.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "www.redbackagri.com",
             "destination": "Pressable",
             "date": "2026-07-31 00:21:25"
-        },
-        {
-            "domain_name": "big3precision.com",
-            "destination": "Hostinger",
-            "date": "2026-07-30 23:58:39"
         },
         {
             "domain_name": "brandonparkvet.com.au",
@@ -1200,7 +1200,7 @@
         "Namecheap": 584,
         "Elementor Hosting": 563,
         "IONOS": 560,
-        "DreamHost": 541,
+        "DreamHost": 542,
         "Hetzner Online": 481,
         "A2 Hosting": 475,
         "HostGator": 355
