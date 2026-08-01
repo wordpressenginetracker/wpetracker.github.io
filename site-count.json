@@ -1,6 +1,16 @@
 {
-    "siteCount": 161951,
+    "siteCount": 161963,
     "recentlyMoved": [
+        {
+            "domain_name": "www.currentware.com",
+            "destination": "Kinsta",
+            "date": "2026-08-01 04:17:18"
+        },
+        {
+            "domain_name": "ptgolfs.com",
+            "destination": "Bluehost",
+            "date": "2026-08-01 03:32:35"
+        },
         {
             "domain_name": "mwtn.org",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "phillipsandtemro.com",
             "destination": "Liquid Web",
             "date": "2026-07-30 15:17:14"
-        },
-        {
-            "domain_name": "westcentralindianaedc.com",
-            "destination": "HostGator",
-            "date": "2026-07-30 14:05:10"
-        },
-        {
-            "domain_name": "ecandercheck.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-30 13:23:35"
         }
     ],
     "dailyMovedStat": {
@@ -1185,11 +1185,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 14400,
-        "Kinsta": 11345,
+        "Kinsta": 11346,
         "Digital Ocean": 7218,
         "SiteGround": 5733,
         "Hostinger": 5721,
-        "Bluehost": 4721,
+        "Bluehost": 4722,
         "GoDaddy": 1822,
         "BigScoots": 945,
         "Liquid Web": 926,
