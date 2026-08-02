@@ -1,6 +1,11 @@
 {
-    "siteCount": 162290,
+    "siteCount": 162292,
     "recentlyMoved": [
+        {
+            "domain_name": "nexttrillionsciences.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-02 21:28:21"
+        },
         {
             "domain_name": "selfhealjourney.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "www.jacobymeyersdothan.com",
             "destination": "Kinsta",
             "date": "2026-07-31 11:58:10"
-        },
-        {
-            "domain_name": "battleortho.com",
-            "destination": "Kinsta",
-            "date": "2026-07-31 11:39:11"
         }
     ],
     "dailyMovedStat": {
@@ -1187,7 +1187,7 @@
     "topDestinationHosts": {
         "Pressable": 14403,
         "Kinsta": 11363,
-        "Digital Ocean": 7229,
+        "Digital Ocean": 7230,
         "SiteGround": 5733,
         "Hostinger": 5730,
         "Bluehost": 4723,
