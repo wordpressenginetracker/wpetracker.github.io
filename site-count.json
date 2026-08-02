@@ -1,6 +1,11 @@
 {
-    "siteCount": 162223,
+    "siteCount": 162247,
     "recentlyMoved": [
+        {
+            "domain_name": "imagineitphotography.com",
+            "destination": "BigScoots",
+            "date": "2026-08-02 15:51:52"
+        },
         {
             "domain_name": "www.healingwitheamon.com",
             "destination": "Namecheap",
@@ -470,11 +475,6 @@
             "domain_name": "rezitt.co.uk",
             "destination": "Krystal Hosting",
             "date": "2026-07-31 12:18:35"
-        },
-        {
-            "domain_name": "www.delhitel.com",
-            "destination": "Kinsta",
-            "date": "2026-07-31 12:15:10"
         },
         {
             "domain_name": "www.mwmlawyers.com",
@@ -1187,12 +1187,12 @@
     "topDestinationHosts": {
         "Pressable": 14403,
         "Kinsta": 11363,
-        "Digital Ocean": 7228,
+        "Digital Ocean": 7229,
         "SiteGround": 5733,
         "Hostinger": 5728,
         "Bluehost": 4723,
         "GoDaddy": 1824,
-        "BigScoots": 946,
+        "BigScoots": 947,
         "Liquid Web": 926,
         "WordPress.com": 781,
         "OVH": 724,
