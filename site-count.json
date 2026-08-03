@@ -1,6 +1,21 @@
 {
-    "siteCount": 162292,
+    "siteCount": 162313,
     "recentlyMoved": [
+        {
+            "domain_name": "bigcreekgranite.com",
+            "destination": "IONOS",
+            "date": "2026-08-03 00:43:21"
+        },
+        {
+            "domain_name": "perryafrica.co.za",
+            "destination": "Pressable",
+            "date": "2026-08-03 00:04:46"
+        },
+        {
+            "domain_name": "ranalawyers.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-02 23:40:08"
+        },
         {
             "domain_name": "nexttrillionsciences.com",
             "destination": "Digital Ocean",
@@ -477,24 +492,9 @@
             "date": "2026-07-31 12:51:26"
         },
         {
-            "domain_name": "bibamedical.com",
-            "destination": "Kinsta",
-            "date": "2026-07-31 12:39:13"
-        },
-        {
-            "domain_name": "rezitt.co.uk",
-            "destination": "Krystal Hosting",
-            "date": "2026-07-31 12:18:35"
-        },
-        {
             "domain_name": "www.mwmlawyers.com",
             "destination": "Digital Ocean",
             "date": "2026-07-31 12:15:04"
-        },
-        {
-            "domain_name": "www.haberfamilylaw.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-31 12:13:24"
         },
         {
             "domain_name": "www.jacobymeyersdothan.com",
@@ -1186,8 +1186,8 @@
         "2026-08-02": "162292"
     },
     "topDestinationHosts": {
-        "Pressable": 14403,
-        "Kinsta": 11363,
+        "Pressable": 14404,
+        "Kinsta": 11364,
         "Digital Ocean": 7230,
         "SiteGround": 5733,
         "Hostinger": 5730,
@@ -1201,7 +1201,7 @@
         "InMotion Hosting": 599,
         "Namecheap": 586,
         "Elementor Hosting": 563,
-        "IONOS": 560,
+        "IONOS": 561,
         "DreamHost": 543,
         "Hetzner Online": 481,
         "A2 Hosting": 475,
