@@ -1,6 +1,11 @@
 {
-    "siteCount": 162356,
+    "siteCount": 162366,
     "recentlyMoved": [
+        {
+            "domain_name": "worldtradepetroleum.com",
+            "destination": "IONOS",
+            "date": "2026-08-03 12:01:28"
+        },
         {
             "domain_name": "www.completetreelandscape.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "raircapital.com",
             "destination": "Liquid Web",
             "date": "2026-07-31 15:55:33"
-        },
-        {
-            "domain_name": "primeretailsolution.com",
-            "destination": "Hostinger",
-            "date": "2026-07-31 15:42:48"
         }
     ],
     "dailyMovedStat": {
@@ -1201,7 +1201,7 @@
         "InMotion Hosting": 599,
         "Namecheap": 587,
         "Elementor Hosting": 563,
-        "IONOS": 561,
+        "IONOS": 562,
         "DreamHost": 543,
         "Hetzner Online": 481,
         "A2 Hosting": 475,
