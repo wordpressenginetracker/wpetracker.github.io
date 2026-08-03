@@ -1,10 +1,30 @@
 {
-    "siteCount": 162313,
+    "siteCount": 162330,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sonrisasdentalcenter.com",
+            "destination": "Hostinger",
+            "date": "2026-08-03 01:20:00"
+        },
+        {
+            "domain_name": "coastalgolfaway.com",
+            "destination": "Pressable",
+            "date": "2026-08-03 01:17:47"
+        },
+        {
+            "domain_name": "dryicecleaningireland.ie",
+            "destination": "Hostinger",
+            "date": "2026-08-03 01:16:49"
+        },
         {
             "domain_name": "bigcreekgranite.com",
             "destination": "IONOS",
             "date": "2026-08-03 00:43:21"
+        },
+        {
+            "domain_name": "cheshiredentalcentre.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-08-03 00:39:04"
         },
         {
             "domain_name": "perryafrica.co.za",
@@ -480,26 +500,6 @@
             "domain_name": "turnermining.com",
             "destination": "Digital Ocean",
             "date": "2026-07-31 13:08:15"
-        },
-        {
-            "domain_name": "briteroom.co",
-            "destination": "Kinsta",
-            "date": "2026-07-31 12:53:03"
-        },
-        {
-            "domain_name": "www.wadsbro.com",
-            "destination": "Pressable",
-            "date": "2026-07-31 12:51:26"
-        },
-        {
-            "domain_name": "www.mwmlawyers.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-31 12:15:04"
-        },
-        {
-            "domain_name": "www.jacobymeyersdothan.com",
-            "destination": "Kinsta",
-            "date": "2026-07-31 11:58:10"
         }
     ],
     "dailyMovedStat": {
@@ -1186,11 +1186,11 @@
         "2026-08-02": "162292"
     },
     "topDestinationHosts": {
-        "Pressable": 14404,
+        "Pressable": 14405,
         "Kinsta": 11364,
         "Digital Ocean": 7230,
         "SiteGround": 5733,
-        "Hostinger": 5730,
+        "Hostinger": 5732,
         "Bluehost": 4723,
         "GoDaddy": 1824,
         "BigScoots": 948,
