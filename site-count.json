@@ -1,6 +1,11 @@
 {
-    "siteCount": 162463,
+    "siteCount": 162467,
     "recentlyMoved": [
+        {
+            "domain_name": "essenvironmentalsacramento.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-03 21:20:07"
+        },
         {
             "domain_name": "www.ktoo.org",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "natura.health",
             "destination": "Hostinger",
             "date": "2026-07-31 17:28:13"
-        },
-        {
-            "domain_name": "wynnedowntowndental.com",
-            "destination": "Digital Ocean",
-            "date": "2026-07-31 17:15:05"
         }
     ],
     "dailyMovedStat": {
@@ -1188,7 +1188,7 @@
     "topDestinationHosts": {
         "Pressable": 14406,
         "Kinsta": 11365,
-        "Digital Ocean": 7234,
+        "Digital Ocean": 7235,
         "Hostinger": 5736,
         "SiteGround": 5733,
         "Bluehost": 4725,
