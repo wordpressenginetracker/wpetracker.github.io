@@ -1,6 +1,11 @@
 {
-    "siteCount": 162496,
+    "siteCount": 162499,
     "recentlyMoved": [
+        {
+            "domain_name": "murwillumbahvet.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-04 05:55:00"
+        },
         {
             "domain_name": "leichtathletik-nuetterden.de",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "dental-horizons.com",
             "destination": "DreamHost",
             "date": "2026-07-31 21:31:38"
-        },
-        {
-            "domain_name": "www.taitradioacademy.com",
-            "destination": "Pressable",
-            "date": "2026-07-31 21:23:06"
         }
     ],
     "dailyMovedStat": {
@@ -1188,7 +1188,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14407,
-        "Kinsta": 11371,
+        "Kinsta": 11372,
         "Digital Ocean": 7235,
         "Hostinger": 5737,
         "SiteGround": 5733,
