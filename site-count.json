@@ -1,6 +1,21 @@
 {
-    "siteCount": 162499,
+    "siteCount": 162506,
     "recentlyMoved": [
+        {
+            "domain_name": "sardjv.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-08-04 08:13:47"
+        },
+        {
+            "domain_name": "avanti.in",
+            "destination": "Hostinger",
+            "date": "2026-08-04 08:04:06"
+        },
+        {
+            "domain_name": "practicaljoybook.com",
+            "destination": "Hetzner Online",
+            "date": "2026-08-04 07:34:17"
+        },
         {
             "domain_name": "murwillumbahvet.com.au",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "artisanknitworks.com",
             "destination": "SiteGround",
             "date": "2026-07-31 23:46:16"
-        },
-        {
-            "domain_name": "www.aaronschool.org",
-            "destination": "Liquid Web",
-            "date": "2026-07-31 23:26:59"
-        },
-        {
-            "domain_name": "tullamarineanimalhospital.com.au",
-            "destination": "Kinsta",
-            "date": "2026-07-31 21:52:17"
-        },
-        {
-            "domain_name": "dental-horizons.com",
-            "destination": "DreamHost",
-            "date": "2026-07-31 21:31:38"
         }
     ],
     "dailyMovedStat": {
@@ -1190,7 +1190,7 @@
         "Pressable": 14407,
         "Kinsta": 11372,
         "Digital Ocean": 7235,
-        "Hostinger": 5737,
+        "Hostinger": 5738,
         "SiteGround": 5733,
         "Bluehost": 4725,
         "GoDaddy": 1824,
@@ -1204,7 +1204,7 @@
         "Elementor Hosting": 563,
         "IONOS": 562,
         "DreamHost": 543,
-        "Hetzner Online": 481,
+        "Hetzner Online": 482,
         "A2 Hosting": 475,
         "HostGator": 355
     },
