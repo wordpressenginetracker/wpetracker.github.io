@@ -1,6 +1,11 @@
 {
-    "siteCount": 162477,
+    "siteCount": 162480,
     "recentlyMoved": [
+        {
+            "domain_name": "normanwagyu.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-04 01:18:30"
+        },
         {
             "domain_name": "essenvironmentalsacramento.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "5thhousefarms.com",
             "destination": "Hostinger",
             "date": "2026-07-31 19:20:28"
-        },
-        {
-            "domain_name": "eastcoast.ps.org.nz",
-            "destination": "Pressable",
-            "date": "2026-07-31 17:46:51"
         },
         {
             "domain_name": "natura.health",
@@ -1188,7 +1188,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14406,
-        "Kinsta": 11365,
+        "Kinsta": 11366,
         "Digital Ocean": 7235,
         "Hostinger": 5736,
         "SiteGround": 5733,
