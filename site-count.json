@@ -1,6 +1,31 @@
 {
-    "siteCount": 162754,
+    "siteCount": 162765,
     "recentlyMoved": [
+        {
+            "domain_name": "vicc.company",
+            "destination": "Hostinger",
+            "date": "2026-08-05 05:56:57"
+        },
+        {
+            "domain_name": "northshoregastro.com",
+            "destination": "Pressable",
+            "date": "2026-08-05 05:45:19"
+        },
+        {
+            "domain_name": "mmgastro.com",
+            "destination": "Pressable",
+            "date": "2026-08-05 05:38:31"
+        },
+        {
+            "domain_name": "nbvc.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-05 05:16:42"
+        },
+        {
+            "domain_name": "monmouthgastro.com",
+            "destination": "Pressable",
+            "date": "2026-08-05 05:10:21"
+        },
         {
             "domain_name": "kmvs.com.au",
             "destination": "Kinsta",
@@ -467,21 +492,6 @@
             "date": "2026-08-03 01:20:21"
         },
         {
-            "domain_name": "www.sonrisasdentalcenter.com",
-            "destination": "Hostinger",
-            "date": "2026-08-03 01:20:00"
-        },
-        {
-            "domain_name": "coastalgolfaway.com",
-            "destination": "Pressable",
-            "date": "2026-08-03 01:17:47"
-        },
-        {
-            "domain_name": "dryicecleaningireland.ie",
-            "destination": "Hostinger",
-            "date": "2026-08-03 01:16:49"
-        },
-        {
             "domain_name": "trishaespinoza.com",
             "destination": "BigScoots",
             "date": "2026-08-03 01:13:17"
@@ -490,16 +500,6 @@
             "domain_name": "naples.contractors",
             "destination": "Namecheap",
             "date": "2026-08-03 01:11:15"
-        },
-        {
-            "domain_name": "bigcreekgranite.com",
-            "destination": "IONOS",
-            "date": "2026-08-03 00:43:21"
-        },
-        {
-            "domain_name": "cheshiredentalcentre.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-08-03 00:39:04"
         }
     ],
     "dailyMovedStat": {
@@ -1188,10 +1188,10 @@
         "2026-08-04": "162698"
     },
     "topDestinationHosts": {
-        "Pressable": 14417,
-        "Kinsta": 11405,
+        "Pressable": 14420,
+        "Kinsta": 11406,
         "Digital Ocean": 7244,
-        "Hostinger": 5743,
+        "Hostinger": 5744,
         "SiteGround": 5733,
         "Bluehost": 4725,
         "GoDaddy": 1824,
