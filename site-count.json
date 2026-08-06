@@ -1,6 +1,11 @@
 {
-    "siteCount": 163054,
+    "siteCount": 163064,
     "recentlyMoved": [
+        {
+            "domain_name": "noahinsurancegroup.com",
+            "destination": "Pressable",
+            "date": "2026-08-06 01:29:11"
+        },
         {
             "domain_name": "thebostondeli.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "michigangutterman.com",
             "destination": "WordPress.com",
             "date": "2026-08-04 17:09:47"
-        },
-        {
-            "domain_name": "sunvista.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 17:09:15"
         }
     ],
     "dailyMovedStat": {
@@ -1189,7 +1189,7 @@
         "2026-08-05": "162990"
     },
     "topDestinationHosts": {
-        "Pressable": 14440,
+        "Pressable": 14441,
         "Kinsta": 11415,
         "Digital Ocean": 7252,
         "Hostinger": 5753,
