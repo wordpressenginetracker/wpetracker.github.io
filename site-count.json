@@ -1,10 +1,40 @@
 {
-    "siteCount": 163121,
+    "siteCount": 163131,
     "recentlyMoved": [
+        {
+            "domain_name": "michelenathansalon.com",
+            "destination": "Kinsta",
+            "date": "2026-08-06 09:24:31"
+        },
+        {
+            "domain_name": "curranelec.ie",
+            "destination": "Hostinger",
+            "date": "2026-08-06 09:08:33"
+        },
+        {
+            "domain_name": "docksmd.com",
+            "destination": "Kinsta",
+            "date": "2026-08-06 09:06:02"
+        },
+        {
+            "domain_name": "bravetherapy.com",
+            "destination": "GridPane",
+            "date": "2026-08-06 08:35:26"
+        },
         {
             "domain_name": "www.emla.ae",
             "destination": "Kinsta",
             "date": "2026-08-06 08:30:17"
+        },
+        {
+            "domain_name": "chrisfrailey.com",
+            "destination": "Pressable",
+            "date": "2026-08-06 08:25:06"
+        },
+        {
+            "domain_name": "kiahorganics.com.au",
+            "destination": "Hostinger",
+            "date": "2026-08-06 08:22:55"
         },
         {
             "domain_name": "insuracube.com",
@@ -470,36 +500,6 @@
             "domain_name": "www.doughood.co.nz",
             "destination": "Pressable",
             "date": "2026-08-04 23:43:15"
-        },
-        {
-            "domain_name": "elementtxk.net",
-            "destination": "Hostinger",
-            "date": "2026-08-04 21:54:21"
-        },
-        {
-            "domain_name": "therepair.co",
-            "destination": "WordPress.com",
-            "date": "2026-08-04 21:15:30"
-        },
-        {
-            "domain_name": "www.sanantoniowesthc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 20:56:19"
-        },
-        {
-            "domain_name": "www.sanantonionorthhc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 20:56:19"
-        },
-        {
-            "domain_name": "www.silvercreeknursinghc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 20:47:01"
-        },
-        {
-            "domain_name": "www.pleasantonnorthhc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 20:35:46"
         }
     ],
     "dailyMovedStat": {
@@ -1189,10 +1189,10 @@
         "2026-08-05": "162990"
     },
     "topDestinationHosts": {
-        "Pressable": 14442,
-        "Kinsta": 11416,
-        "Digital Ocean": 7253,
-        "Hostinger": 5758,
+        "Pressable": 14443,
+        "Kinsta": 11418,
+        "Digital Ocean": 7254,
+        "Hostinger": 5760,
         "SiteGround": 5733,
         "Bluehost": 4727,
         "GoDaddy": 1825,
@@ -1200,7 +1200,7 @@
         "Liquid Web": 929,
         "WordPress.com": 785,
         "OVH": 727,
-        "GridPane": 723,
+        "GridPane": 724,
         "InMotion Hosting": 599,
         "Namecheap": 589,
         "Elementor Hosting": 564,
