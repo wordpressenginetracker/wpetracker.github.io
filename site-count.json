@@ -1,6 +1,11 @@
 {
-    "siteCount": 163064,
+    "siteCount": 163088,
     "recentlyMoved": [
+        {
+            "domain_name": "gaidephappyluke.com",
+            "destination": "Hostinger",
+            "date": "2026-08-06 03:44:20"
+        },
         {
             "domain_name": "noahinsurancegroup.com",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "emmro.com",
             "destination": "Digital Ocean",
             "date": "2026-08-04 17:24:49"
-        },
-        {
-            "domain_name": "dmdintl.org",
-            "destination": "Hostinger",
-            "date": "2026-08-04 17:14:11"
         },
         {
             "domain_name": "michigangutterman.com",
@@ -1192,7 +1192,7 @@
         "Pressable": 14441,
         "Kinsta": 11415,
         "Digital Ocean": 7252,
-        "Hostinger": 5753,
+        "Hostinger": 5754,
         "SiteGround": 5733,
         "Bluehost": 4726,
         "GoDaddy": 1825,
