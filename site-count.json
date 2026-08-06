@@ -1,6 +1,26 @@
 {
-    "siteCount": 163088,
+    "siteCount": 163106,
     "recentlyMoved": [
+        {
+            "domain_name": "magnoliacontentstudios.com",
+            "destination": "Hostinger",
+            "date": "2026-08-06 05:14:59"
+        },
+        {
+            "domain_name": "seetec.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-08-06 04:49:34"
+        },
+        {
+            "domain_name": "sprolesmemories.com",
+            "destination": "Bluehost",
+            "date": "2026-08-06 04:30:59"
+        },
+        {
+            "domain_name": "www.rugbyschool.co.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-08-06 04:30:47"
+        },
         {
             "domain_name": "gaidephappyluke.com",
             "destination": "Hostinger",
@@ -472,11 +492,6 @@
             "date": "2026-08-04 20:17:00"
         },
         {
-            "domain_name": "www.cypresswoodshc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-04 20:02:50"
-        },
-        {
             "domain_name": "www.lrconnell.com",
             "destination": "Kinsta",
             "date": "2026-08-04 20:00:55"
@@ -485,21 +500,6 @@
             "domain_name": "www.lakeshorevillagehc.com",
             "destination": "Kinsta",
             "date": "2026-08-04 19:59:09"
-        },
-        {
-            "domain_name": "voiceofthearcticinupiat.org",
-            "destination": "Kinsta",
-            "date": "2026-08-04 18:02:57"
-        },
-        {
-            "domain_name": "emmro.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-04 17:24:49"
-        },
-        {
-            "domain_name": "michigangutterman.com",
-            "destination": "WordPress.com",
-            "date": "2026-08-04 17:09:47"
         }
     ],
     "dailyMovedStat": {
@@ -1191,10 +1191,10 @@
     "topDestinationHosts": {
         "Pressable": 14441,
         "Kinsta": 11415,
-        "Digital Ocean": 7252,
-        "Hostinger": 5754,
+        "Digital Ocean": 7253,
+        "Hostinger": 5755,
         "SiteGround": 5733,
-        "Bluehost": 4726,
+        "Bluehost": 4727,
         "GoDaddy": 1825,
         "BigScoots": 957,
         "Liquid Web": 929,
