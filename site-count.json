@@ -1,6 +1,16 @@
 {
-    "siteCount": 163019,
+    "siteCount": 163054,
     "recentlyMoved": [
+        {
+            "domain_name": "thebostondeli.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-06 01:24:26"
+        },
+        {
+            "domain_name": "yarravillevet.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-06 01:19:57"
+        },
         {
             "domain_name": "internal.americanwastecontrol.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "sunvista.com",
             "destination": "Kinsta",
             "date": "2026-08-04 17:09:15"
-        },
-        {
-            "domain_name": "launchhollysprings.org",
-            "destination": "Kinsta",
-            "date": "2026-08-04 17:08:27"
-        },
-        {
-            "domain_name": "studiorose.eu",
-            "destination": "BigScoots",
-            "date": "2026-08-04 16:43:00"
         }
     ],
     "dailyMovedStat": {
@@ -1190,8 +1190,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14440,
-        "Kinsta": 11414,
-        "Digital Ocean": 7250,
+        "Kinsta": 11415,
+        "Digital Ocean": 7252,
         "Hostinger": 5753,
         "SiteGround": 5733,
         "Bluehost": 4726,
