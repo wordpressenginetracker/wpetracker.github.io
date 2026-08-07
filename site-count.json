@@ -1,6 +1,11 @@
 {
-    "siteCount": 163452,
+    "siteCount": 163461,
     "recentlyMoved": [
+        {
+            "domain_name": "nolansgroup.ie",
+            "destination": "Hostinger",
+            "date": "2026-08-07 09:36:03"
+        },
         {
             "domain_name": "www.italiaconti.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "gaidephappyluke.com",
             "destination": "Hostinger",
             "date": "2026-08-06 03:44:20"
-        },
-        {
-            "domain_name": "noahinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-08-06 01:29:11"
         }
     ],
     "dailyMovedStat": {
@@ -1193,7 +1193,7 @@
         "Pressable": 14462,
         "Kinsta": 11437,
         "Digital Ocean": 7277,
-        "Hostinger": 5768,
+        "Hostinger": 5769,
         "SiteGround": 5733,
         "Bluehost": 4727,
         "GoDaddy": 1826,
