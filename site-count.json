@@ -1,6 +1,11 @@
 {
-    "siteCount": 163401,
+    "siteCount": 163405,
     "recentlyMoved": [
+        {
+            "domain_name": "vetlifeinballarat.com.au",
+            "destination": "Kinsta",
+            "date": "2026-08-07 01:59:16"
+        },
         {
             "domain_name": "yates-usa.com",
             "destination": "Pressable",
@@ -15,6 +20,11 @@
             "domain_name": "thebeast.com.au",
             "destination": "Kinsta",
             "date": "2026-08-07 01:10:41"
+        },
+        {
+            "domain_name": "natchezheatingandcooling.com",
+            "destination": "Kinsta",
+            "date": "2026-08-07 01:06:39"
         },
         {
             "domain_name": "kathryndawe.com",
@@ -487,19 +497,9 @@
             "date": "2026-08-05 21:02:15"
         },
         {
-            "domain_name": "brimblerecruit.com",
-            "destination": "Hostinger",
-            "date": "2026-08-05 20:53:47"
-        },
-        {
             "domain_name": "www.restorefloorsanders.co.uk",
             "destination": "Kinsta",
             "date": "2026-08-05 20:13:38"
-        },
-        {
-            "domain_name": "shirazphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-08-05 20:03:35"
         }
     ],
     "dailyMovedStat": {
@@ -1191,9 +1191,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14461,
-        "Kinsta": 11434,
+        "Kinsta": 11436,
         "Digital Ocean": 7274,
-        "Hostinger": 5764,
+        "Hostinger": 5765,
         "SiteGround": 5733,
         "Bluehost": 4727,
         "GoDaddy": 1826,
