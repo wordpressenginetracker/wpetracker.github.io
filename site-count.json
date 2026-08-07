@@ -1,6 +1,11 @@
 {
-    "siteCount": 163405,
+    "siteCount": 163419,
     "recentlyMoved": [
+        {
+            "domain_name": "pointsnorthstrategies.net",
+            "destination": "Digital Ocean",
+            "date": "2026-08-07 04:15:44"
+        },
         {
             "domain_name": "vetlifeinballarat.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "epsomrdvet.com.au",
             "destination": "Kinsta",
             "date": "2026-08-05 21:02:15"
-        },
-        {
-            "domain_name": "www.restorefloorsanders.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-08-05 20:13:38"
         }
     ],
     "dailyMovedStat": {
@@ -1192,7 +1192,7 @@
     "topDestinationHosts": {
         "Pressable": 14461,
         "Kinsta": 11436,
-        "Digital Ocean": 7274,
+        "Digital Ocean": 7275,
         "Hostinger": 5765,
         "SiteGround": 5733,
         "Bluehost": 4727,
