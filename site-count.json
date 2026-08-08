@@ -1,6 +1,11 @@
 {
-    "siteCount": 163677,
+    "siteCount": 163679,
     "recentlyMoved": [
+        {
+            "domain_name": "mrphealth.com.au",
+            "destination": "Hostinger",
+            "date": "2026-08-08 01:40:24"
+        },
         {
             "domain_name": "eaglecrusher.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "tulsa-dumpster.com",
             "destination": "Digital Ocean",
             "date": "2026-08-06 17:21:59"
-        },
-        {
-            "domain_name": "www.saintfrancisborgia.org",
-            "destination": "BigScoots",
-            "date": "2026-08-06 16:27:53"
         }
     ],
     "dailyMovedStat": {
@@ -1191,10 +1191,10 @@
         "2026-08-07": "163659"
     },
     "topDestinationHosts": {
-        "Pressable": 14483,
+        "Pressable": 14484,
         "Kinsta": 11448,
         "Digital Ocean": 7282,
-        "Hostinger": 5774,
+        "Hostinger": 5775,
         "SiteGround": 5733,
         "Bluehost": 4728,
         "GoDaddy": 1828,
