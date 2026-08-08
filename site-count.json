@@ -1,6 +1,21 @@
 {
-    "siteCount": 163835,
+    "siteCount": 163876,
     "recentlyMoved": [
+        {
+            "domain_name": "beverlypolice.org",
+            "destination": "Kinsta",
+            "date": "2026-08-08 20:38:54"
+        },
+        {
+            "domain_name": "attleborofire.com",
+            "destination": "Kinsta",
+            "date": "2026-08-08 19:32:14"
+        },
+        {
+            "domain_name": "flaccreditation.org",
+            "destination": "Kinsta",
+            "date": "2026-08-08 19:15:39"
+        },
         {
             "domain_name": "nahant.org",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "nolansgroup.ie",
             "destination": "Hostinger",
             "date": "2026-08-07 09:36:03"
-        },
-        {
-            "domain_name": "www.italiaconti.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-07 08:42:56"
-        },
-        {
-            "domain_name": "centralpestcontrol.ie",
-            "destination": "Hostinger",
-            "date": "2026-08-07 08:18:01"
-        },
-        {
-            "domain_name": "bramblebayblinds.com.au",
-            "destination": "Hostinger",
-            "date": "2026-08-07 07:59:21"
         }
     ],
     "dailyMovedStat": {
@@ -1191,9 +1191,9 @@
         "2026-08-07": "163659"
     },
     "topDestinationHosts": {
-        "Pressable": 14488,
-        "Kinsta": 11463,
-        "Digital Ocean": 7291,
+        "Pressable": 14489,
+        "Kinsta": 11467,
+        "Digital Ocean": 7292,
         "Hostinger": 5778,
         "SiteGround": 5733,
         "Bluehost": 4729,
