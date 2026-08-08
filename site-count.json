@@ -1,6 +1,11 @@
 {
-    "siteCount": 163830,
+    "siteCount": 163835,
     "recentlyMoved": [
+        {
+            "domain_name": "nahant.org",
+            "destination": "Kinsta",
+            "date": "2026-08-08 17:49:17"
+        },
         {
             "domain_name": "destinyleaders.com",
             "destination": "BigScoots",
@@ -490,11 +495,6 @@
             "domain_name": "centralpestcontrol.ie",
             "destination": "Hostinger",
             "date": "2026-08-07 08:18:01"
-        },
-        {
-            "domain_name": "amsbuildingthefuture.com",
-            "destination": "Hetzner Online",
-            "date": "2026-08-07 08:17:41"
         },
         {
             "domain_name": "bramblebayblinds.com.au",
@@ -1192,7 +1192,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14488,
-        "Kinsta": 11462,
+        "Kinsta": 11463,
         "Digital Ocean": 7291,
         "Hostinger": 5778,
         "SiteGround": 5733,
