@@ -1,6 +1,11 @@
 {
-    "siteCount": 163945,
+    "siteCount": 163964,
     "recentlyMoved": [
+        {
+            "domain_name": "ourtownmonthly.com",
+            "destination": "DreamHost",
+            "date": "2026-08-09 11:25:33"
+        },
         {
             "domain_name": "delighted-designs.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "trade-electric.ie",
             "destination": "Hostinger",
             "date": "2026-08-07 13:09:01"
-        },
-        {
-            "domain_name": "thirddoormedia.com",
-            "destination": "Kinsta",
-            "date": "2026-08-07 12:44:40"
         }
     ],
     "dailyMovedStat": {
@@ -1208,7 +1208,7 @@
         "Namecheap": 594,
         "IONOS": 565,
         "Elementor Hosting": 564,
-        "DreamHost": 543,
+        "DreamHost": 544,
         "Hetzner Online": 487,
         "A2 Hosting": 475,
         "HostGator": 356
