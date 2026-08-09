@@ -1,6 +1,16 @@
 {
-    "siteCount": 163909,
+    "siteCount": 163915,
     "recentlyMoved": [
+        {
+            "domain_name": "katherinecamping.com",
+            "destination": "Hostinger",
+            "date": "2026-08-09 00:56:29"
+        },
+        {
+            "domain_name": "carvingpixels.com",
+            "destination": "IONOS",
+            "date": "2026-08-09 00:45:16"
+        },
         {
             "domain_name": "renex.com.au",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "www.shanephelpslaw.com",
             "destination": "Digital Ocean",
             "date": "2026-08-07 12:28:03"
-        },
-        {
-            "domain_name": "aspentreeshrooms.com",
-            "destination": "GoDaddy",
-            "date": "2026-08-07 11:56:13"
-        },
-        {
-            "domain_name": "grovedesign.london",
-            "destination": "Kinsta",
-            "date": "2026-08-07 11:30:00"
         }
     ],
     "dailyMovedStat": {
@@ -1195,7 +1195,7 @@
         "Pressable": 14489,
         "Kinsta": 11467,
         "Digital Ocean": 7292,
-        "Hostinger": 5780,
+        "Hostinger": 5781,
         "SiteGround": 5733,
         "Bluehost": 4729,
         "GoDaddy": 1832,
@@ -1206,8 +1206,8 @@
         "GridPane": 725,
         "InMotion Hosting": 600,
         "Namecheap": 594,
+        "IONOS": 565,
         "Elementor Hosting": 564,
-        "IONOS": 564,
         "DreamHost": 543,
         "Hetzner Online": 487,
         "A2 Hosting": 475,
