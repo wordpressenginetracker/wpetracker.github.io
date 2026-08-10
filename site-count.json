@@ -1,6 +1,11 @@
 {
-    "siteCount": 164151,
+    "siteCount": 164168,
     "recentlyMoved": [
+        {
+            "domain_name": "paperlessproductivity.com",
+            "destination": "Kinsta",
+            "date": "2026-08-10 03:10:23"
+        },
         {
             "domain_name": "streamlinekc.com",
             "destination": "Kinsta",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "brickinsurance.net",
-            "destination": "Pressable",
-            "date": "2026-08-07 16:09:29"
-        },
-        {
-            "domain_name": "brettinsurance.com",
             "destination": "Pressable",
             "date": "2026-08-07 16:09:29"
         }
@@ -1194,7 +1194,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14490,
-        "Kinsta": 11468,
+        "Kinsta": 11469,
         "Digital Ocean": 7296,
         "Hostinger": 5785,
         "SiteGround": 5733,
