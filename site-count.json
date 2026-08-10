@@ -1,6 +1,11 @@
 {
-    "siteCount": 164234,
+    "siteCount": 164244,
     "recentlyMoved": [
+        {
+            "domain_name": "orabelldentalimplants.com",
+            "destination": "Kinsta",
+            "date": "2026-08-10 11:32:47"
+        },
         {
             "domain_name": "drsymington.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "colliganandco.com",
             "destination": "Pressable",
             "date": "2026-08-07 16:51:42"
-        },
-        {
-            "domain_name": "build-insurance.com",
-            "destination": "Pressable",
-            "date": "2026-08-07 16:47:16"
         },
         {
             "domain_name": "www.raynercpa.com",
@@ -1194,7 +1194,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14490,
-        "Kinsta": 11469,
+        "Kinsta": 11470,
         "Digital Ocean": 7297,
         "Hostinger": 5785,
         "SiteGround": 5733,
