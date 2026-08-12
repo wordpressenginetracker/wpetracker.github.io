@@ -1,6 +1,11 @@
 {
-    "siteCount": 164861,
+    "siteCount": 164864,
     "recentlyMoved": [
+        {
+            "domain_name": "nebka.ma",
+            "destination": "Namecheap",
+            "date": "2026-08-12 09:48:09"
+        },
         {
             "domain_name": "thailandinsider.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "cartflame.com",
             "destination": "Namecheap",
             "date": "2026-08-11 16:09:26"
-        },
-        {
-            "domain_name": "cactuscreative.design",
-            "destination": "Namecheap",
-            "date": "2026-08-11 16:08:39"
         }
     ],
     "dailyMovedStat": {
@@ -1207,7 +1207,7 @@
         "WordPress.com": 790,
         "OVH": 731,
         "GridPane": 725,
-        "Namecheap": 682,
+        "Namecheap": 684,
         "InMotion Hosting": 600,
         "IONOS": 567,
         "Elementor Hosting": 564,
