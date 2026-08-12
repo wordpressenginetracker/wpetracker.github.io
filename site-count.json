@@ -1,6 +1,36 @@
 {
-    "siteCount": 164864,
+    "siteCount": 164890,
     "recentlyMoved": [
+        {
+            "domain_name": "sandbaram.com",
+            "destination": "Hetzner Online",
+            "date": "2026-08-12 12:10:42"
+        },
+        {
+            "domain_name": "hr.zamphr.com",
+            "destination": "Kinsta",
+            "date": "2026-08-12 12:00:12"
+        },
+        {
+            "domain_name": "windsordigestivehealth.com",
+            "destination": "Pressable",
+            "date": "2026-08-12 11:51:41"
+        },
+        {
+            "domain_name": "gocartfast.com",
+            "destination": "Namecheap",
+            "date": "2026-08-12 11:42:27"
+        },
+        {
+            "domain_name": "www.allenharrislaw.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-12 11:35:23"
+        },
+        {
+            "domain_name": "www.benefitsofcosmeticdentistry.com",
+            "destination": "Namecheap",
+            "date": "2026-08-12 11:22:14"
+        },
         {
             "domain_name": "nebka.ma",
             "destination": "Namecheap",
@@ -432,11 +462,6 @@
             "date": "2026-08-11 17:14:18"
         },
         {
-            "domain_name": "clinicakwan.com.br",
-            "destination": "Hostinger",
-            "date": "2026-08-11 17:13:45"
-        },
-        {
             "domain_name": "www.thecolorduchess.com",
             "destination": "Namecheap",
             "date": "2026-08-11 16:58:42"
@@ -445,11 +470,6 @@
             "domain_name": "themendcourse.com",
             "destination": "Namecheap",
             "date": "2026-08-11 16:55:57"
-        },
-        {
-            "domain_name": "silverspringfootandankle.com",
-            "destination": "IONOS",
-            "date": "2026-08-11 16:52:18"
         },
         {
             "domain_name": "medvue.ca",
@@ -467,16 +487,6 @@
             "date": "2026-08-11 16:48:02"
         },
         {
-            "domain_name": "smartbeatmaker.com",
-            "destination": "Namecheap",
-            "date": "2026-08-11 16:47:37"
-        },
-        {
-            "domain_name": "skylyftmyers.com",
-            "destination": "Namecheap",
-            "date": "2026-08-11 16:47:37"
-        },
-        {
             "domain_name": "sunshineinfusion.com",
             "destination": "Namecheap",
             "date": "2026-08-11 16:36:16"
@@ -490,16 +500,6 @@
             "domain_name": "sunbeampack.com",
             "destination": "Namecheap",
             "date": "2026-08-11 16:36:16"
-        },
-        {
-            "domain_name": "www.otlollc.com",
-            "destination": "Namecheap",
-            "date": "2026-08-11 16:34:44"
-        },
-        {
-            "domain_name": "cartflame.com",
-            "destination": "Namecheap",
-            "date": "2026-08-11 16:09:26"
         }
     ],
     "dailyMovedStat": {
@@ -1195,9 +1195,9 @@
         "2026-08-11": "164748"
     },
     "topDestinationHosts": {
-        "Pressable": 14503,
-        "Kinsta": 11504,
-        "Digital Ocean": 7311,
+        "Pressable": 14504,
+        "Kinsta": 11505,
+        "Digital Ocean": 7312,
         "Hostinger": 5804,
         "SiteGround": 5733,
         "Bluehost": 4733,
@@ -1207,7 +1207,7 @@
         "WordPress.com": 790,
         "OVH": 731,
         "GridPane": 725,
-        "Namecheap": 684,
+        "Namecheap": 686,
         "InMotion Hosting": 600,
         "IONOS": 567,
         "Elementor Hosting": 564,
