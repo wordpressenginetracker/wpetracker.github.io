@@ -1,6 +1,21 @@
 {
-    "siteCount": 165120,
+    "siteCount": 165132,
     "recentlyMoved": [
+        {
+            "domain_name": "blacksburgdelivers.com",
+            "destination": "Namecheap",
+            "date": "2026-08-13 08:13:51"
+        },
+        {
+            "domain_name": "bcpml.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-08-13 07:45:34"
+        },
+        {
+            "domain_name": "pixelweavecommerce.com",
+            "destination": "Namecheap",
+            "date": "2026-08-13 07:37:42"
+        },
         {
             "domain_name": "ocbouncers.com",
             "destination": "Namecheap",
@@ -462,19 +477,9 @@
             "date": "2026-08-12 08:44:35"
         },
         {
-            "domain_name": "riverdalegastro.com",
-            "destination": "Pressable",
-            "date": "2026-08-12 08:31:07"
-        },
-        {
             "domain_name": "sherlockwebdesign.com",
             "destination": "Namecheap",
             "date": "2026-08-12 08:30:41"
-        },
-        {
-            "domain_name": "rbgastro.com",
-            "destination": "Pressable",
-            "date": "2026-08-12 08:20:54"
         },
         {
             "domain_name": "www.hueston.com",
@@ -495,11 +500,6 @@
             "domain_name": "betgurublog.com",
             "destination": "Namecheap",
             "date": "2026-08-12 07:58:52"
-        },
-        {
-            "domain_name": "princetongi.com",
-            "destination": "Pressable",
-            "date": "2026-08-12 07:24:56"
         }
     ],
     "dailyMovedStat": {
@@ -1197,7 +1197,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14509,
-        "Kinsta": 11515,
+        "Kinsta": 11516,
         "Digital Ocean": 7320,
         "Hostinger": 5814,
         "SiteGround": 5733,
@@ -1207,7 +1207,7 @@
         "Liquid Web": 933,
         "WordPress.com": 791,
         "OVH": 731,
-        "Namecheap": 726,
+        "Namecheap": 728,
         "GridPane": 725,
         "InMotion Hosting": 601,
         "IONOS": 569,
