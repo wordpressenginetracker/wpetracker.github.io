@@ -1,10 +1,20 @@
 {
-    "siteCount": 165332,
+    "siteCount": 165335,
     "recentlyMoved": [
+        {
+            "domain_name": "vigilife.com",
+            "destination": "Kinsta",
+            "date": "2026-08-13 21:44:51"
+        },
         {
             "domain_name": "kneadedmassage.co",
             "destination": "Kinsta",
             "date": "2026-08-13 21:06:45"
+        },
+        {
+            "domain_name": "northerncomfortsystems.com",
+            "destination": "Kinsta",
+            "date": "2026-08-13 21:06:06"
         },
         {
             "domain_name": "skylyoc.com",
@@ -490,16 +500,6 @@
             "domain_name": "woodmark.ivmastery.com",
             "destination": "Pressable",
             "date": "2026-08-12 19:11:46"
-        },
-        {
-            "domain_name": "vanessarayphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-08-12 17:53:05"
-        },
-        {
-            "domain_name": "esthotel.ca",
-            "destination": "Hostinger",
-            "date": "2026-08-12 17:48:03"
         }
     ],
     "dailyMovedStat": {
@@ -1197,7 +1197,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14514,
-        "Kinsta": 11531,
+        "Kinsta": 11533,
         "Digital Ocean": 7329,
         "Hostinger": 5821,
         "SiteGround": 5733,
