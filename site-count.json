@@ -1,6 +1,36 @@
 {
-    "siteCount": 165239,
+    "siteCount": 165266,
     "recentlyMoved": [
+        {
+            "domain_name": "docnation.com",
+            "destination": "Pressable",
+            "date": "2026-08-13 17:28:54"
+        },
+        {
+            "domain_name": "zendatacare.com",
+            "destination": "Namecheap",
+            "date": "2026-08-13 17:17:41"
+        },
+        {
+            "domain_name": "consulthyperdrive.com",
+            "destination": "OVH",
+            "date": "2026-08-13 17:10:16"
+        },
+        {
+            "domain_name": "thecollegeexperience.org",
+            "destination": "Kinsta",
+            "date": "2026-08-13 17:07:20"
+        },
+        {
+            "domain_name": "sylvanconstruction.ca",
+            "destination": "Digital Ocean",
+            "date": "2026-08-13 16:36:10"
+        },
+        {
+            "domain_name": "carousels.com",
+            "destination": "Kinsta",
+            "date": "2026-08-13 16:21:44"
+        },
         {
             "domain_name": "openmatter.com",
             "destination": "Kinsta",
@@ -462,44 +492,14 @@
             "date": "2026-08-12 16:52:59"
         },
         {
-            "domain_name": "stratomat.ca",
-            "destination": "Pressable",
-            "date": "2026-08-12 16:39:14"
-        },
-        {
             "domain_name": "thegamemix24.com",
             "destination": "Namecheap",
             "date": "2026-08-12 16:38:12"
         },
         {
-            "domain_name": "bastroptexasapartments.com",
-            "destination": "IONOS",
-            "date": "2026-08-12 16:34:49"
-        },
-        {
             "domain_name": "leschaletsstcome.com",
             "destination": "Digital Ocean",
             "date": "2026-08-12 16:21:26"
-        },
-        {
-            "domain_name": "campjesaistout.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-12 16:18:42"
-        },
-        {
-            "domain_name": "join.gritfitnessnwi.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-12 16:14:29"
-        },
-        {
-            "domain_name": "shawnandlu.com",
-            "destination": "Namecheap",
-            "date": "2026-08-12 16:10:24"
-        },
-        {
-            "domain_name": "www.firedamagephoenix.com",
-            "destination": "Kinsta",
-            "date": "2026-08-12 15:54:17"
         }
     ],
     "dailyMovedStat": {
@@ -1196,9 +1196,9 @@
         "2026-08-12": "165075"
     },
     "topDestinationHosts": {
-        "Pressable": 14512,
-        "Kinsta": 11524,
-        "Digital Ocean": 7327,
+        "Pressable": 14513,
+        "Kinsta": 11526,
+        "Digital Ocean": 7328,
         "Hostinger": 5819,
         "SiteGround": 5733,
         "Bluehost": 4735,
@@ -1206,8 +1206,8 @@
         "BigScoots": 980,
         "Liquid Web": 933,
         "WordPress.com": 791,
-        "Namecheap": 734,
-        "OVH": 731,
+        "Namecheap": 735,
+        "OVH": 732,
         "GridPane": 725,
         "InMotion Hosting": 601,
         "IONOS": 569,
