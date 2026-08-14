@@ -1,5 +1,5 @@
 {
-    "siteCount": 165621,
+    "siteCount": 165636,
     "recentlyMoved": [
         {
             "domain_name": "yamamotoarchitecture.com",
@@ -15,6 +15,11 @@
             "domain_name": "discovermonadnock.com",
             "destination": "Digital Ocean",
             "date": "2026-08-14 21:20:29"
+        },
+        {
+            "domain_name": "walkermediaagency.com",
+            "destination": "Kinsta",
+            "date": "2026-08-14 21:11:33"
         },
         {
             "domain_name": "lafactory.ca",
@@ -490,11 +495,6 @@
             "domain_name": "balivipwedding.com",
             "destination": "Bluehost",
             "date": "2026-08-13 15:58:05"
-        },
-        {
-            "domain_name": "avectoi.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-08-13 15:55:32"
         },
         {
             "domain_name": "www.interserveusa.org",
@@ -1198,7 +1198,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14531,
-        "Kinsta": 11550,
+        "Kinsta": 11551,
         "Digital Ocean": 7359,
         "Hostinger": 5824,
         "SiteGround": 5733,
