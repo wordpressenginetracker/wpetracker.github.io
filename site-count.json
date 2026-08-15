@@ -1,6 +1,16 @@
 {
-    "siteCount": 165692,
+    "siteCount": 165701,
     "recentlyMoved": [
+        {
+            "domain_name": "lz-store.com",
+            "destination": "Hostinger",
+            "date": "2026-08-15 05:24:50"
+        },
+        {
+            "domain_name": "carpetcleaningperth.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-08-15 04:16:30"
+        },
         {
             "domain_name": "wptravelly.com",
             "destination": "Hostinger",
@@ -475,16 +485,6 @@
             "domain_name": "northerncomfortsystems.com",
             "destination": "Kinsta",
             "date": "2026-08-13 21:06:06"
-        },
-        {
-            "domain_name": "skylyoc.com",
-            "destination": "Namecheap",
-            "date": "2026-08-13 20:58:18"
-        },
-        {
-            "domain_name": "skylynova.com",
-            "destination": "Namecheap",
-            "date": "2026-08-13 20:58:18"
         },
         {
             "domain_name": "legacysportlighting.com",
@@ -1200,8 +1200,8 @@
     "topDestinationHosts": {
         "Pressable": 14531,
         "Kinsta": 11552,
-        "Digital Ocean": 7361,
-        "Hostinger": 5830,
+        "Digital Ocean": 7362,
+        "Hostinger": 5831,
         "SiteGround": 5733,
         "Bluehost": 4738,
         "GoDaddy": 1838,
