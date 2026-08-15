@@ -1,6 +1,16 @@
 {
-    "siteCount": 165673,
+    "siteCount": 165679,
     "recentlyMoved": [
+        {
+            "domain_name": "elementlandscape.us",
+            "destination": "Hostinger",
+            "date": "2026-08-15 01:38:55"
+        },
+        {
+            "domain_name": "utahorthodonticcare.com",
+            "destination": "A2 Hosting",
+            "date": "2026-08-15 01:34:00"
+        },
         {
             "domain_name": "firmoomontage.nl",
             "destination": "WordPress.com",
@@ -487,19 +497,9 @@
             "date": "2026-08-13 20:00:38"
         },
         {
-            "domain_name": "precisiontoday.com",
-            "destination": "Kinsta",
-            "date": "2026-08-13 19:57:30"
-        },
-        {
             "domain_name": "henrixpartners.com",
             "destination": "Hostinger",
             "date": "2026-08-13 19:33:04"
-        },
-        {
-            "domain_name": "docnation.com",
-            "destination": "Pressable",
-            "date": "2026-08-13 17:28:54"
         }
     ],
     "dailyMovedStat": {
@@ -1201,7 +1201,7 @@
         "Pressable": 14531,
         "Kinsta": 11552,
         "Digital Ocean": 7361,
-        "Hostinger": 5826,
+        "Hostinger": 5827,
         "SiteGround": 5733,
         "Bluehost": 4737,
         "GoDaddy": 1838,
@@ -1216,7 +1216,7 @@
         "Elementor Hosting": 564,
         "DreamHost": 546,
         "Hetzner Online": 492,
-        "A2 Hosting": 475,
+        "A2 Hosting": 476,
         "HostGator": 358
     },
     "dailyTotalStat": {
