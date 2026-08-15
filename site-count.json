@@ -1,6 +1,26 @@
 {
-    "siteCount": 165679,
+    "siteCount": 165692,
     "recentlyMoved": [
+        {
+            "domain_name": "wptravelly.com",
+            "destination": "Hostinger",
+            "date": "2026-08-15 04:03:30"
+        },
+        {
+            "domain_name": "wpevently.com",
+            "destination": "Hostinger",
+            "date": "2026-08-15 04:03:30"
+        },
+        {
+            "domain_name": "airosmedical.com",
+            "destination": "Bluehost",
+            "date": "2026-08-15 03:44:18"
+        },
+        {
+            "domain_name": "www.ansan.com.tr",
+            "destination": "Hostinger",
+            "date": "2026-08-15 03:29:47"
+        },
         {
             "domain_name": "elementlandscape.us",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "store.ivmastery.com",
             "destination": "Pressable",
             "date": "2026-08-13 20:26:34"
-        },
-        {
-            "domain_name": "revered-agency.com",
-            "destination": "Kinsta",
-            "date": "2026-08-13 20:10:57"
-        },
-        {
-            "domain_name": "www.cxsymposium.com",
-            "destination": "Kinsta",
-            "date": "2026-08-13 20:08:34"
-        },
-        {
-            "domain_name": "rally.digital",
-            "destination": "Kinsta",
-            "date": "2026-08-13 20:00:38"
-        },
-        {
-            "domain_name": "henrixpartners.com",
-            "destination": "Hostinger",
-            "date": "2026-08-13 19:33:04"
         }
     ],
     "dailyMovedStat": {
@@ -1201,9 +1201,9 @@
         "Pressable": 14531,
         "Kinsta": 11552,
         "Digital Ocean": 7361,
-        "Hostinger": 5827,
+        "Hostinger": 5830,
         "SiteGround": 5733,
-        "Bluehost": 4737,
+        "Bluehost": 4738,
         "GoDaddy": 1838,
         "BigScoots": 984,
         "Liquid Web": 935,
