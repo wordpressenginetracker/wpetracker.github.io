@@ -1,6 +1,11 @@
 {
-    "siteCount": 166087,
+    "siteCount": 166090,
     "recentlyMoved": [
+        {
+            "domain_name": "vacetraining.com",
+            "destination": "Kinsta",
+            "date": "2026-08-16 21:19:26"
+        },
         {
             "domain_name": "connections-behavior.com",
             "destination": "Digital Ocean",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "entretienmnsimard.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-14 17:02:35"
-        },
-        {
-            "domain_name": "entretienbrault.com",
             "destination": "Digital Ocean",
             "date": "2026-08-14 17:02:35"
         }
@@ -1200,7 +1200,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14555,
-        "Kinsta": 11563,
+        "Kinsta": 11564,
         "Digital Ocean": 7376,
         "Hostinger": 5834,
         "SiteGround": 5734,
