@@ -1,6 +1,11 @@
 {
-    "siteCount": 165989,
+    "siteCount": 165992,
     "recentlyMoved": [
+        {
+            "domain_name": "evcvaluation.com",
+            "destination": "Kinsta",
+            "date": "2026-08-16 09:19:37"
+        },
         {
             "domain_name": "capturedmomentsbyangela.com",
             "destination": "WordPress.com",
@@ -490,11 +495,6 @@
             "domain_name": "cidesco-canada.com",
             "destination": "Kinsta",
             "date": "2026-08-14 16:28:33"
-        },
-        {
-            "domain_name": "joaarts.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-14 16:24:54"
         },
         {
             "domain_name": "lacabanerie.com",
@@ -1200,7 +1200,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14553,
-        "Kinsta": 11560,
+        "Kinsta": 11561,
         "Digital Ocean": 7374,
         "Hostinger": 5832,
         "SiteGround": 5734,
