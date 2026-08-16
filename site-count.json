@@ -1,6 +1,11 @@
 {
-    "siteCount": 165940,
+    "siteCount": 165948,
     "recentlyMoved": [
+        {
+            "domain_name": "northwestfloridavacationguide.com",
+            "destination": "Kinsta",
+            "date": "2026-08-16 01:45:00"
+        },
         {
             "domain_name": "acrowlandconstruction.com",
             "destination": "WordPress.com",
@@ -495,11 +500,6 @@
             "domain_name": "famolcains.com",
             "destination": "Pressable",
             "date": "2026-08-14 13:44:10"
-        },
-        {
-            "domain_name": "www.womenseatingdisordertreatmentcenters.com",
-            "destination": "Namecheap",
-            "date": "2026-08-14 13:07:22"
         }
     ],
     "dailyMovedStat": {
@@ -1200,7 +1200,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14553,
-        "Kinsta": 11559,
+        "Kinsta": 11560,
         "Digital Ocean": 7373,
         "Hostinger": 5832,
         "SiteGround": 5734,
