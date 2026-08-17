@@ -1,6 +1,11 @@
 {
-    "siteCount": 166159,
+    "siteCount": 166165,
     "recentlyMoved": [
+        {
+            "domain_name": "encompassmd.com",
+            "destination": "GoDaddy",
+            "date": "2026-08-17 13:27:12"
+        },
         {
             "domain_name": "ivmastery.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "hubshape.com",
             "destination": "Namecheap",
             "date": "2026-08-15 00:13:50"
-        },
-        {
-            "domain_name": "gabbyrivera.com",
-            "destination": "Hostinger",
-            "date": "2026-08-14 23:51:30"
         }
     ],
     "dailyMovedStat": {
@@ -1206,7 +1206,7 @@
         "Hostinger": 5836,
         "SiteGround": 5734,
         "Bluehost": 4741,
-        "GoDaddy": 1841,
+        "GoDaddy": 1842,
         "BigScoots": 986,
         "Liquid Web": 937,
         "WordPress.com": 794,
