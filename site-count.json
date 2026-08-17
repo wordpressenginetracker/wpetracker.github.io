@@ -1,6 +1,11 @@
 {
-    "siteCount": 166209,
+    "siteCount": 166213,
     "recentlyMoved": [
+        {
+            "domain_name": "letsgetclicks.com",
+            "destination": "Namecheap",
+            "date": "2026-08-17 20:51:43"
+        },
         {
             "domain_name": "admin.ktoo.media",
             "destination": "GridPane",
@@ -495,11 +500,6 @@
             "domain_name": "firmoomontage.nl",
             "destination": "WordPress.com",
             "date": "2026-08-15 01:30:55"
-        },
-        {
-            "domain_name": "mc-bo.art",
-            "destination": "Digital Ocean",
-            "date": "2026-08-15 01:30:39"
         }
     ],
     "dailyMovedStat": {
@@ -1210,9 +1210,9 @@
         "BigScoots": 986,
         "Liquid Web": 937,
         "WordPress.com": 794,
-        "Namecheap": 762,
+        "Namecheap": 763,
         "OVH": 736,
-        "GridPane": 726,
+        "GridPane": 727,
         "InMotion Hosting": 602,
         "IONOS": 570,
         "Elementor Hosting": 564,
