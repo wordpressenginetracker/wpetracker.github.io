@@ -1,6 +1,11 @@
 {
-    "siteCount": 166515,
+    "siteCount": 166518,
     "recentlyMoved": [
+        {
+            "domain_name": "vapor42.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-18 21:31:13"
+        },
         {
             "domain_name": "metalroofer.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "rslcomputers.com",
             "destination": "Hostinger",
             "date": "2026-08-16 23:52:20"
-        },
-        {
-            "domain_name": "playfulsophisticate.com",
-            "destination": "Namecheap",
-            "date": "2026-08-16 23:36:47"
         }
     ],
     "dailyMovedStat": {
@@ -1203,7 +1203,7 @@
     "topDestinationHosts": {
         "Pressable": 14570,
         "Kinsta": 11593,
-        "Digital Ocean": 7394,
+        "Digital Ocean": 7395,
         "Hostinger": 5845,
         "SiteGround": 5734,
         "Bluehost": 4741,
