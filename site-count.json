@@ -1,6 +1,11 @@
 {
-    "siteCount": 166234,
+    "siteCount": 166239,
     "recentlyMoved": [
+        {
+            "domain_name": "enterpriseit.co",
+            "destination": "Pressable",
+            "date": "2026-08-18 01:49:16"
+        },
         {
             "domain_name": "thebigfishgrill.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "prairierivet.com",
             "destination": "Kinsta",
             "date": "2026-08-15 11:31:28"
-        },
-        {
-            "domain_name": "patrioticinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-08-15 11:22:16"
         }
     ],
     "dailyMovedStat": {
@@ -1201,7 +1201,7 @@
         "2026-08-17": "166215"
     },
     "topDestinationHosts": {
-        "Pressable": 14556,
+        "Pressable": 14557,
         "Kinsta": 11569,
         "Digital Ocean": 7377,
         "Hostinger": 5838,
@@ -1213,7 +1213,7 @@
         "WordPress.com": 794,
         "Namecheap": 766,
         "OVH": 736,
-        "GridPane": 729,
+        "GridPane": 730,
         "InMotion Hosting": 602,
         "IONOS": 570,
         "Elementor Hosting": 564,
