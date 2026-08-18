@@ -1,6 +1,21 @@
 {
-    "siteCount": 166269,
+    "siteCount": 166281,
     "recentlyMoved": [
+        {
+            "domain_name": "guinnerplumbing.com",
+            "destination": "Hostinger",
+            "date": "2026-08-18 08:08:49"
+        },
+        {
+            "domain_name": "www.greenparkhotelbrugge.com",
+            "destination": "Kinsta",
+            "date": "2026-08-18 07:58:06"
+        },
+        {
+            "domain_name": "investorsincommunity.org",
+            "destination": "IONOS",
+            "date": "2026-08-18 07:55:06"
+        },
         {
             "domain_name": "underdoglawyer.com",
             "destination": "Pressable",
@@ -462,16 +477,6 @@
             "date": "2026-08-15 16:40:38"
         },
         {
-            "domain_name": "sentinelinsure.com",
-            "destination": "Pressable",
-            "date": "2026-08-15 16:36:44"
-        },
-        {
-            "domain_name": "sesco.group",
-            "destination": "Pressable",
-            "date": "2026-08-15 16:32:38"
-        },
-        {
             "domain_name": "lademaninsurance.com",
             "destination": "Pressable",
             "date": "2026-08-15 16:30:52"
@@ -495,11 +500,6 @@
             "domain_name": "konen.com",
             "destination": "Pressable",
             "date": "2026-08-15 16:13:53"
-        },
-        {
-            "domain_name": "www.mjai.com",
-            "destination": "Pressable",
-            "date": "2026-08-15 16:06:02"
         }
     ],
     "dailyMovedStat": {
@@ -1202,9 +1202,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14563,
-        "Kinsta": 11575,
+        "Kinsta": 11576,
         "Digital Ocean": 7377,
-        "Hostinger": 5838,
+        "Hostinger": 5839,
         "SiteGround": 5734,
         "Bluehost": 4741,
         "GoDaddy": 1843,
