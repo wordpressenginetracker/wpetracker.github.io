@@ -1,15 +1,50 @@
 {
-    "siteCount": 166685,
+    "siteCount": 166710,
     "recentlyMoved": [
+        {
+            "domain_name": "mikezillgittart.com",
+            "destination": "WordPress.com",
+            "date": "2026-08-19 17:03:26"
+        },
+        {
+            "domain_name": "chicagoskinclinic.com",
+            "destination": "Kinsta",
+            "date": "2026-08-19 16:58:38"
+        },
+        {
+            "domain_name": "mbarrdesign.com",
+            "destination": "GoDaddy",
+            "date": "2026-08-19 16:56:53"
+        },
         {
             "domain_name": "boondocks.com",
             "destination": "DreamHost",
             "date": "2026-08-19 16:33:51"
         },
         {
+            "domain_name": "kerrhearingaid.com",
+            "destination": "Pressable",
+            "date": "2026-08-19 16:29:33"
+        },
+        {
+            "domain_name": "kadenrealty.nyc",
+            "destination": "Hostinger",
+            "date": "2026-08-19 16:26:00"
+        },
+        {
             "domain_name": "ponderosagaragedoors.com",
             "destination": "Kinsta",
             "date": "2026-08-19 16:08:02"
+        },
+        {
+            "domain_name": "carnm.realtor",
+            "destination": "Kinsta",
+            "date": "2026-08-19 16:07:24"
+        },
+        {
+            "domain_name": "sellerforce.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-19 16:06:07"
         },
         {
             "domain_name": "www.garageproskc.com",
@@ -462,44 +497,9 @@
             "date": "2026-08-18 09:30:47"
         },
         {
-            "domain_name": "zip-roll.com",
-            "destination": "Hostinger",
-            "date": "2026-08-18 09:19:12"
-        },
-        {
             "domain_name": "exploreamma.com",
             "destination": "Namecheap",
             "date": "2026-08-18 09:11:54"
-        },
-        {
-            "domain_name": "tarasol.love",
-            "destination": "Namecheap",
-            "date": "2026-08-18 09:11:04"
-        },
-        {
-            "domain_name": "guinnerplumbing.com",
-            "destination": "Hostinger",
-            "date": "2026-08-18 08:08:49"
-        },
-        {
-            "domain_name": "seohacker.ai",
-            "destination": "Namecheap",
-            "date": "2026-08-18 07:59:09"
-        },
-        {
-            "domain_name": "www.greenparkhotelbrugge.com",
-            "destination": "Kinsta",
-            "date": "2026-08-18 07:58:06"
-        },
-        {
-            "domain_name": "investorsincommunity.org",
-            "destination": "IONOS",
-            "date": "2026-08-18 07:55:06"
-        },
-        {
-            "domain_name": "weightlossnola.com",
-            "destination": "Namecheap",
-            "date": "2026-08-18 05:39:34"
         }
     ],
     "dailyMovedStat": {
@@ -1202,13 +1202,13 @@
         "2026-08-18": "166518"
     },
     "topDestinationHosts": {
-        "Pressable": 14571,
-        "Kinsta": 11618,
-        "Digital Ocean": 7400,
-        "Hostinger": 5853,
+        "Pressable": 14572,
+        "Kinsta": 11620,
+        "Digital Ocean": 7401,
+        "Hostinger": 5854,
         "SiteGround": 5734,
         "Bluehost": 4741,
-        "GoDaddy": 1845,
+        "GoDaddy": 1846,
         "BigScoots": 989,
         "Liquid Web": 937,
         "WordPress.com": 795,
@@ -1218,7 +1218,7 @@
         "InMotion Hosting": 604,
         "IONOS": 571,
         "Elementor Hosting": 564,
-        "DreamHost": 546,
+        "DreamHost": 547,
         "Hetzner Online": 493,
         "A2 Hosting": 476,
         "HostGator": 358
