@@ -1,6 +1,16 @@
 {
-    "siteCount": 166710,
+    "siteCount": 166722,
     "recentlyMoved": [
+        {
+            "domain_name": "omaiadventure.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-19 17:41:02"
+        },
+        {
+            "domain_name": "txt2give.co",
+            "destination": "Hostinger",
+            "date": "2026-08-19 17:21:02"
+        },
         {
             "domain_name": "mikezillgittart.com",
             "destination": "WordPress.com",
@@ -490,16 +500,6 @@
             "domain_name": "photo-immobilier.com",
             "destination": "Digital Ocean",
             "date": "2026-08-18 11:34:29"
-        },
-        {
-            "domain_name": "vjrproduce.com",
-            "destination": "Namecheap",
-            "date": "2026-08-18 09:30:47"
-        },
-        {
-            "domain_name": "exploreamma.com",
-            "destination": "Namecheap",
-            "date": "2026-08-18 09:11:54"
         }
     ],
     "dailyMovedStat": {
@@ -1204,14 +1204,14 @@
     "topDestinationHosts": {
         "Pressable": 14572,
         "Kinsta": 11620,
-        "Digital Ocean": 7401,
-        "Hostinger": 5854,
+        "Digital Ocean": 7402,
+        "Hostinger": 5855,
         "SiteGround": 5734,
         "Bluehost": 4741,
         "GoDaddy": 1846,
         "BigScoots": 989,
         "Liquid Web": 937,
-        "WordPress.com": 795,
+        "WordPress.com": 796,
         "Namecheap": 775,
         "OVH": 736,
         "GridPane": 730,
