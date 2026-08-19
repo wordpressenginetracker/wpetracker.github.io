@@ -1,6 +1,16 @@
 {
-    "siteCount": 166518,
+    "siteCount": 166528,
     "recentlyMoved": [
+        {
+            "domain_name": "aes-midwest.com",
+            "destination": "Kinsta",
+            "date": "2026-08-18 23:52:58"
+        },
+        {
+            "domain_name": "groupeshift.ca",
+            "destination": "Digital Ocean",
+            "date": "2026-08-18 23:34:40"
+        },
         {
             "domain_name": "vapor42.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "comitedesusagers.ca",
             "destination": "OVH",
             "date": "2026-08-17 00:44:02"
-        },
-        {
-            "domain_name": "raiconsulting.co",
-            "destination": "Namecheap",
-            "date": "2026-08-17 00:11:01"
-        },
-        {
-            "domain_name": "rslcomputers.com",
-            "destination": "Hostinger",
-            "date": "2026-08-16 23:52:20"
         }
     ],
     "dailyMovedStat": {
@@ -1203,8 +1203,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14570,
-        "Kinsta": 11593,
-        "Digital Ocean": 7395,
+        "Kinsta": 11594,
+        "Digital Ocean": 7396,
         "Hostinger": 5845,
         "SiteGround": 5734,
         "Bluehost": 4741,
