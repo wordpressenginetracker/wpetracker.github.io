@@ -1,6 +1,21 @@
 {
-    "siteCount": 166799,
+    "siteCount": 166811,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theanxietysummit.com",
+            "destination": "Bluehost",
+            "date": "2026-08-20 00:00:13"
+        },
+        {
+            "domain_name": "www.chemmalab.com",
+            "destination": "WordPress.com",
+            "date": "2026-08-19 23:55:36"
+        },
+        {
+            "domain_name": "www.anxietynutritionsolutions.com",
+            "destination": "Bluehost",
+            "date": "2026-08-19 23:34:56"
+        },
         {
             "domain_name": "crossfadr.com",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "unicio.ca",
             "destination": "Digital Ocean",
             "date": "2026-08-18 13:09:31"
-        },
-        {
-            "domain_name": "cms.digitalhothouse.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-08-18 12:57:24"
-        },
-        {
-            "domain_name": "lesgarsdeterrains.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-18 12:50:07"
-        },
-        {
-            "domain_name": "www.srsgroup.co.nz",
-            "destination": "Kinsta",
-            "date": "2026-08-18 12:31:58"
         }
     ],
     "dailyMovedStat": {
@@ -1208,11 +1208,11 @@
         "Digital Ocean": 7402,
         "Hostinger": 5856,
         "SiteGround": 5734,
-        "Bluehost": 4743,
+        "Bluehost": 4745,
         "GoDaddy": 1846,
         "BigScoots": 989,
         "Liquid Web": 937,
-        "WordPress.com": 796,
+        "WordPress.com": 797,
         "Namecheap": 775,
         "OVH": 736,
         "GridPane": 730,
