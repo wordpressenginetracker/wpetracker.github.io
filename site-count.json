@@ -1,6 +1,16 @@
 {
-    "siteCount": 167108,
+    "siteCount": 167114,
     "recentlyMoved": [
+        {
+            "domain_name": "revenueblastdigital.com",
+            "destination": "Hostinger",
+            "date": "2026-08-21 04:16:19"
+        },
+        {
+            "domain_name": "governingmajority.com",
+            "destination": "Kinsta",
+            "date": "2026-08-21 03:23:52"
+        },
         {
             "domain_name": "stormsortho.com",
             "destination": "Kinsta",
@@ -477,11 +487,6 @@
             "date": "2026-08-19 08:56:51"
         },
         {
-            "domain_name": "www.leopoldhotel.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-08-19 08:45:33"
-        },
-        {
             "domain_name": "www.rate-wise.com",
             "destination": "Kinsta",
             "date": "2026-08-19 08:40:56"
@@ -495,11 +500,6 @@
             "domain_name": "www.ospreyhotel.ie",
             "destination": "Kinsta",
             "date": "2026-08-19 08:07:59"
-        },
-        {
-            "domain_name": "www.meetindcu.com",
-            "destination": "Kinsta",
-            "date": "2026-08-19 08:02:54"
         }
     ],
     "dailyMovedStat": {
@@ -1205,9 +1205,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14579,
-        "Kinsta": 11648,
+        "Kinsta": 11649,
         "Digital Ocean": 7411,
-        "Hostinger": 5864,
+        "Hostinger": 5865,
         "SiteGround": 5735,
         "Bluehost": 4747,
         "GoDaddy": 1847,
