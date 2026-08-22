@@ -1,6 +1,11 @@
 {
-    "siteCount": 167430,
+    "siteCount": 167440,
     "recentlyMoved": [
+        {
+            "domain_name": "lascolinasspain.com",
+            "destination": "Hetzner Online",
+            "date": "2026-08-22 08:45:55"
+        },
         {
             "domain_name": "www.satrouen.fr",
             "destination": "OVH",
@@ -490,11 +495,6 @@
             "domain_name": "stephanieprickel.com",
             "destination": "Hostinger",
             "date": "2026-08-20 20:26:58"
-        },
-        {
-            "domain_name": "jamboree.scoutlife.org",
-            "destination": "WordPress.com",
-            "date": "2026-08-20 20:22:59"
         },
         {
             "domain_name": "cateringoutthebox.com",
@@ -1222,7 +1222,7 @@
         "IONOS": 571,
         "Elementor Hosting": 564,
         "DreamHost": 550,
-        "Hetzner Online": 493,
+        "Hetzner Online": 494,
         "A2 Hosting": 476,
         "HostGator": 359
     },
