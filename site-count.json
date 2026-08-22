@@ -1,6 +1,11 @@
 {
-    "siteCount": 167417,
+    "siteCount": 167419,
     "recentlyMoved": [
+        {
+            "domain_name": "jointhrive.juliagabriel.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-22 05:11:58"
+        },
         {
             "domain_name": "stroke.jonasr.app",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "guillaumegimenez.com",
             "destination": "Hostinger",
             "date": "2026-08-20 19:31:13"
-        },
-        {
-            "domain_name": "walkerfamilyfoundationwi.com",
-            "destination": "Kinsta",
-            "date": "2026-08-20 18:00:28"
         }
     ],
     "dailyMovedStat": {
@@ -1206,8 +1206,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14605,
-        "Kinsta": 11672,
-        "Digital Ocean": 7426,
+        "Kinsta": 11673,
+        "Digital Ocean": 7427,
         "Hostinger": 5869,
         "SiteGround": 5736,
         "Bluehost": 4750,
