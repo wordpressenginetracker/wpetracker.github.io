@@ -1,6 +1,16 @@
 {
-    "siteCount": 167580,
+    "siteCount": 167592,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mileslkavaller.com",
+            "destination": "BigScoots",
+            "date": "2026-08-22 20:15:12"
+        },
+        {
+            "domain_name": "brianscrogginsplumbing.com",
+            "destination": "Hostinger",
+            "date": "2026-08-22 20:15:09"
+        },
         {
             "domain_name": "www.gumbostop.com",
             "destination": "Kinsta",
@@ -472,11 +482,6 @@
             "date": "2026-08-21 12:21:31"
         },
         {
-            "domain_name": "pyrard.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-21 11:58:43"
-        },
-        {
             "domain_name": "sawgrassortho.com",
             "destination": "Kinsta",
             "date": "2026-08-21 11:57:25"
@@ -495,11 +500,6 @@
             "domain_name": "icaar.org",
             "destination": "Digital Ocean",
             "date": "2026-08-21 11:44:36"
-        },
-        {
-            "domain_name": "www.blankslate.partners",
-            "destination": "DreamHost",
-            "date": "2026-08-21 11:29:13"
         }
     ],
     "dailyMovedStat": {
@@ -1208,11 +1208,11 @@
         "Pressable": 14606,
         "Kinsta": 11692,
         "Digital Ocean": 7430,
-        "Hostinger": 5870,
+        "Hostinger": 5871,
         "SiteGround": 5736,
         "Bluehost": 4751,
         "GoDaddy": 1851,
-        "BigScoots": 992,
+        "BigScoots": 993,
         "Liquid Web": 937,
         "WordPress.com": 800,
         "Namecheap": 776,
