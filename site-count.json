@@ -1,6 +1,11 @@
 {
-    "siteCount": 167404,
+    "siteCount": 167407,
     "recentlyMoved": [
+        {
+            "domain_name": "www.first72.org.nz",
+            "destination": "Pressable",
+            "date": "2026-08-22 03:57:28"
+        },
         {
             "domain_name": "camlife.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "verdecorecycling.com",
             "destination": "Hostinger",
             "date": "2026-08-20 17:28:05"
-        },
-        {
-            "domain_name": "movilleuniforms.com",
-            "destination": "SiteGround",
-            "date": "2026-08-20 17:23:25"
         }
     ],
     "dailyMovedStat": {
@@ -1205,7 +1205,7 @@
         "2026-08-21": "167388"
     },
     "topDestinationHosts": {
-        "Pressable": 14604,
+        "Pressable": 14605,
         "Kinsta": 11672,
         "Digital Ocean": 7424,
         "Hostinger": 5869,
