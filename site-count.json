@@ -1,6 +1,21 @@
 {
-    "siteCount": 167599,
+    "siteCount": 167612,
     "recentlyMoved": [
+        {
+            "domain_name": "mittoni.com.au",
+            "destination": "GoDaddy",
+            "date": "2026-08-23 01:20:43"
+        },
+        {
+            "domain_name": "chelsealoren.co",
+            "destination": "BigScoots",
+            "date": "2026-08-23 00:17:29"
+        },
+        {
+            "domain_name": "katiejann.com",
+            "destination": "BigScoots",
+            "date": "2026-08-23 00:13:37"
+        },
         {
             "domain_name": "fetchxmlbuilder.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "kemptvillebusinesscoach.com",
             "destination": "Digital Ocean",
             "date": "2026-08-21 12:21:31"
-        },
-        {
-            "domain_name": "sawgrassortho.com",
-            "destination": "Kinsta",
-            "date": "2026-08-21 11:57:25"
-        },
-        {
-            "domain_name": "www.hotelprovincial.com",
-            "destination": "Kinsta",
-            "date": "2026-08-21 11:49:39"
-        },
-        {
-            "domain_name": "icaar.org",
-            "destination": "Digital Ocean",
-            "date": "2026-08-21 11:44:36"
         }
     ],
     "dailyMovedStat": {
@@ -1213,7 +1213,7 @@
         "SiteGround": 5736,
         "Bluehost": 4751,
         "GoDaddy": 1851,
-        "BigScoots": 993,
+        "BigScoots": 995,
         "Liquid Web": 937,
         "WordPress.com": 800,
         "Namecheap": 776,
