@@ -1,6 +1,11 @@
 {
-    "siteCount": 167819,
+    "siteCount": 167830,
     "recentlyMoved": [
+        {
+            "domain_name": "renecazares.com",
+            "destination": "SiteGround",
+            "date": "2026-08-24 11:41:39"
+        },
         {
             "domain_name": "emeraldenergysolutions.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "capital-ins.com",
             "destination": "Pressable",
             "date": "2026-08-21 16:15:19"
-        },
-        {
-            "domain_name": "signalinc.com",
-            "destination": "Kinsta",
-            "date": "2026-08-21 16:13:03"
         }
     ],
     "dailyMovedStat": {
@@ -1211,7 +1211,7 @@
         "Kinsta": 11695,
         "Digital Ocean": 7434,
         "Hostinger": 5875,
-        "SiteGround": 5736,
+        "SiteGround": 5737,
         "Bluehost": 4753,
         "GoDaddy": 1853,
         "BigScoots": 995,
