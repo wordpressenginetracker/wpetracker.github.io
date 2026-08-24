@@ -1,6 +1,11 @@
 {
-    "siteCount": 167830,
+    "siteCount": 167838,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rovere.com",
+            "destination": "DreamHost",
+            "date": "2026-08-24 12:52:50"
+        },
         {
             "domain_name": "renecazares.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "labouee.com",
             "destination": "Kinsta",
             "date": "2026-08-21 16:21:50"
-        },
-        {
-            "domain_name": "capital-ins.com",
-            "destination": "Pressable",
-            "date": "2026-08-21 16:15:19"
         }
     ],
     "dailyMovedStat": {
@@ -1223,7 +1223,7 @@
         "InMotion Hosting": 607,
         "IONOS": 571,
         "Elementor Hosting": 564,
-        "DreamHost": 551,
+        "DreamHost": 552,
         "Hetzner Online": 494,
         "A2 Hosting": 476,
         "HostGator": 361
