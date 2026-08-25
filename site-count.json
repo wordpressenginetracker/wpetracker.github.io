@@ -1,6 +1,11 @@
 {
-    "siteCount": 168072,
+    "siteCount": 168073,
     "recentlyMoved": [
+        {
+            "domain_name": "etonantiques.com",
+            "destination": "Kinsta",
+            "date": "2026-08-25 17:38:30"
+        },
         {
             "domain_name": "chaneybrooks.com",
             "destination": "Hostinger",
@@ -480,11 +485,6 @@
             "domain_name": "springtonmanorfarm.com",
             "destination": "Kinsta",
             "date": "2026-08-22 12:23:46"
-        },
-        {
-            "domain_name": "bibapublishing.com",
-            "destination": "Kinsta",
-            "date": "2026-08-22 12:12:56"
         },
         {
             "domain_name": "cardiovascularnews.com",
@@ -1209,12 +1209,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 14610,
-        "Kinsta": 11707,
+        "Kinsta": 11708,
         "Digital Ocean": 7437,
         "Hostinger": 5884,
         "SiteGround": 5737,
         "Bluehost": 4755,
-        "GoDaddy": 1854,
+        "GoDaddy": 1855,
         "BigScoots": 1000,
         "Liquid Web": 938,
         "WordPress.com": 803,
