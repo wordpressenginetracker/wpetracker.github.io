@@ -1,6 +1,11 @@
 {
-    "siteCount": 167919,
+    "siteCount": 167926,
     "recentlyMoved": [
+        {
+            "domain_name": "perfectsmilespa.com",
+            "destination": "Hostinger",
+            "date": "2026-08-25 03:41:05"
+        },
         {
             "domain_name": "nthf.org",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.compassinsgrp.com",
             "destination": "Pressable",
             "date": "2026-08-21 19:31:35"
-        },
-        {
-            "domain_name": "poleportland.com",
-            "destination": "Kinsta",
-            "date": "2026-08-21 19:29:59"
         }
     ],
     "dailyMovedStat": {
@@ -1211,7 +1211,7 @@
         "Pressable": 14608,
         "Kinsta": 11696,
         "Digital Ocean": 7434,
-        "Hostinger": 5879,
+        "Hostinger": 5880,
         "SiteGround": 5737,
         "Bluehost": 4754,
         "GoDaddy": 1854,
