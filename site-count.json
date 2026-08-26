@@ -1,6 +1,16 @@
 {
-    "siteCount": 168275,
+    "siteCount": 168288,
     "recentlyMoved": [
+        {
+            "domain_name": "ericcombs.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-08-26 13:53:57"
+        },
+        {
+            "domain_name": "mountainviewmortgage.ca",
+            "destination": "Hetzner Online",
+            "date": "2026-08-26 13:42:38"
+        },
         {
             "domain_name": "draftcade.com",
             "destination": "GridPane",
@@ -490,16 +500,6 @@
             "domain_name": "www.manhattanamerican.com",
             "destination": "Hostinger",
             "date": "2026-08-23 12:26:59"
-        },
-        {
-            "domain_name": "www.jmhtechnology.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-08-23 12:20:53"
-        },
-        {
-            "domain_name": "floydwatkinsassoc.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-23 11:58:38"
         }
     ],
     "dailyMovedStat": {
@@ -1221,12 +1221,12 @@
         "WordPress.com": 804,
         "Namecheap": 785,
         "OVH": 742,
-        "GridPane": 731,
-        "InMotion Hosting": 607,
+        "GridPane": 732,
+        "InMotion Hosting": 608,
         "IONOS": 572,
         "Elementor Hosting": 564,
         "DreamHost": 553,
-        "Hetzner Online": 495,
+        "Hetzner Online": 496,
         "A2 Hosting": 476,
         "HostGator": 363
     },
