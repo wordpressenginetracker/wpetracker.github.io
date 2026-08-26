@@ -1,10 +1,20 @@
 {
-    "siteCount": 168343,
+    "siteCount": 168354,
     "recentlyMoved": [
+        {
+            "domain_name": "westernroller.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-26 17:50:35"
+        },
         {
             "domain_name": "drdamonsmiles.com",
             "destination": "Kinsta",
             "date": "2026-08-26 17:39:57"
+        },
+        {
+            "domain_name": "normandycatering.com",
+            "destination": "Kinsta",
+            "date": "2026-08-26 17:29:23"
         },
         {
             "domain_name": "lazorrantas.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.mensaddictionstreatment.com",
             "destination": "Namecheap",
             "date": "2026-08-24 16:49:30"
-        },
-        {
-            "domain_name": "www.rovere.com",
-            "destination": "DreamHost",
-            "date": "2026-08-24 12:52:50"
-        },
-        {
-            "domain_name": "renecazares.com",
-            "destination": "SiteGround",
-            "date": "2026-08-24 11:41:39"
         }
     ],
     "dailyMovedStat": {
@@ -1210,8 +1210,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14617,
-        "Kinsta": 11726,
-        "Digital Ocean": 7441,
+        "Kinsta": 11728,
+        "Digital Ocean": 7442,
         "Hostinger": 5889,
         "SiteGround": 5737,
         "Bluehost": 4756,
