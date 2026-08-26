@@ -1,6 +1,11 @@
 {
-    "siteCount": 168225,
+    "siteCount": 168228,
     "recentlyMoved": [
+        {
+            "domain_name": "myutilities.co.nz",
+            "destination": "Kinsta",
+            "date": "2026-08-26 10:01:57"
+        },
         {
             "domain_name": "distefanolaser.com",
             "destination": "Wordify",
@@ -20,6 +25,11 @@
             "domain_name": "www.weathersaferoofing.net",
             "destination": "Kinsta",
             "date": "2026-08-26 09:05:39"
+        },
+        {
+            "domain_name": "drtimstauffer.com",
+            "destination": "BigScoots",
+            "date": "2026-08-26 09:05:01"
         },
         {
             "domain_name": "www.callfamilyroofing.com",
@@ -490,16 +500,6 @@
             "domain_name": "tadpolevillagepreschool.com",
             "destination": "Hostinger",
             "date": "2026-08-22 17:04:42"
-        },
-        {
-            "domain_name": "kellydiels.com",
-            "destination": "BigScoots",
-            "date": "2026-08-22 16:40:56"
-        },
-        {
-            "domain_name": "legacyhospiceaz.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-22 16:29:38"
         }
     ],
     "dailyMovedStat": {
@@ -1210,13 +1210,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 14612,
-        "Kinsta": 11713,
+        "Kinsta": 11715,
         "Digital Ocean": 7438,
         "Hostinger": 5885,
         "SiteGround": 5737,
         "Bluehost": 4756,
         "GoDaddy": 1855,
-        "BigScoots": 1005,
+        "BigScoots": 1006,
         "Liquid Web": 939,
         "WordPress.com": 804,
         "Namecheap": 785,
