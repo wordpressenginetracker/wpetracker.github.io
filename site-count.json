@@ -1,6 +1,16 @@
 {
-    "siteCount": 168404,
+    "siteCount": 168417,
     "recentlyMoved": [
+        {
+            "domain_name": "comparaya.es",
+            "destination": "Hostinger",
+            "date": "2026-08-26 21:02:28"
+        },
+        {
+            "domain_name": "siaffiliated.com",
+            "destination": "Pressable",
+            "date": "2026-08-26 20:51:35"
+        },
         {
             "domain_name": "greatnorthwestwine.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2026-08-25 00:32:03"
         },
         {
-            "domain_name": "sandiegowalks.net",
-            "destination": "Hostinger",
-            "date": "2026-08-25 00:21:05"
-        },
-        {
             "domain_name": "www.opioddetoxcenter.com",
             "destination": "Namecheap",
             "date": "2026-08-25 00:05:42"
-        },
-        {
-            "domain_name": "www.bdsc.school.nz",
-            "destination": "Kinsta",
-            "date": "2026-08-24 23:33:10"
         }
     ],
     "dailyMovedStat": {
@@ -1209,10 +1209,10 @@
         "2026-08-25": "168137"
     },
     "topDestinationHosts": {
-        "Pressable": 14618,
+        "Pressable": 14619,
         "Kinsta": 11729,
         "Digital Ocean": 7442,
-        "Hostinger": 5890,
+        "Hostinger": 5891,
         "SiteGround": 5737,
         "Bluehost": 4756,
         "GoDaddy": 1855,
