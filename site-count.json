@@ -1,6 +1,21 @@
 {
-    "siteCount": 168354,
+    "siteCount": 168404,
     "recentlyMoved": [
+        {
+            "domain_name": "greatnorthwestwine.com",
+            "destination": "Kinsta",
+            "date": "2026-08-26 19:33:27"
+        },
+        {
+            "domain_name": "precision-dentalcare.com",
+            "destination": "Hostinger",
+            "date": "2026-08-26 19:23:31"
+        },
+        {
+            "domain_name": "florabylaura.co",
+            "destination": "Pressable",
+            "date": "2026-08-26 19:09:16"
+        },
         {
             "domain_name": "westernroller.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "www.bdsc.school.nz",
             "destination": "Kinsta",
             "date": "2026-08-24 23:33:10"
-        },
-        {
-            "domain_name": "travelwithtropical.com",
-            "destination": "Namecheap",
-            "date": "2026-08-24 20:54:23"
-        },
-        {
-            "domain_name": "petsgoglobal.com",
-            "destination": "Hostinger",
-            "date": "2026-08-24 19:35:34"
-        },
-        {
-            "domain_name": "www.mensaddictionstreatment.com",
-            "destination": "Namecheap",
-            "date": "2026-08-24 16:49:30"
         }
     ],
     "dailyMovedStat": {
@@ -1209,10 +1209,10 @@
         "2026-08-25": "168137"
     },
     "topDestinationHosts": {
-        "Pressable": 14617,
-        "Kinsta": 11728,
+        "Pressable": 14618,
+        "Kinsta": 11729,
         "Digital Ocean": 7442,
-        "Hostinger": 5889,
+        "Hostinger": 5890,
         "SiteGround": 5737,
         "Bluehost": 4756,
         "GoDaddy": 1855,
@@ -1228,7 +1228,7 @@
         "DreamHost": 553,
         "Hetzner Online": 497,
         "A2 Hosting": 477,
-        "HostGator": 363
+        "HostGator": 364
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
