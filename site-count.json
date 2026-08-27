@@ -1,6 +1,11 @@
 {
-    "siteCount": 168455,
+    "siteCount": 168457,
     "recentlyMoved": [
+        {
+            "domain_name": "eurosexscene.com",
+            "destination": "Hostinger",
+            "date": "2026-08-27 05:59:41"
+        },
         {
             "domain_name": "e18innovation.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "hartbageri.com",
             "destination": "Hetzner Online",
             "date": "2026-08-25 11:39:29"
-        },
-        {
-            "domain_name": "fuelll.com",
-            "destination": "Kinsta",
-            "date": "2026-08-25 11:14:43"
         }
     ],
     "dailyMovedStat": {
@@ -1211,9 +1211,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14619,
-        "Kinsta": 11735,
+        "Kinsta": 11736,
         "Digital Ocean": 7443,
-        "Hostinger": 5892,
+        "Hostinger": 5893,
         "SiteGround": 5737,
         "Bluehost": 4756,
         "GoDaddy": 1855,
