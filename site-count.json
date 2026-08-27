@@ -1,6 +1,11 @@
 {
-    "siteCount": 168420,
+    "siteCount": 168431,
     "recentlyMoved": [
+        {
+            "domain_name": "gotoapollo.com",
+            "destination": "Kinsta",
+            "date": "2026-08-26 23:43:21"
+        },
         {
             "domain_name": "comparaya.es",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "nthf.org",
             "destination": "Hostinger",
             "date": "2026-08-25 01:40:01"
-        },
-        {
-            "domain_name": "brilliancedentistry.com",
-            "destination": "HostGator",
-            "date": "2026-08-25 00:32:03"
         },
         {
             "domain_name": "www.opioddetoxcenter.com",
@@ -1211,7 +1211,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14619,
-        "Kinsta": 11729,
+        "Kinsta": 11730,
         "Digital Ocean": 7442,
         "Hostinger": 5891,
         "SiteGround": 5737,
