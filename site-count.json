@@ -1,6 +1,36 @@
 {
-    "siteCount": 168623,
+    "siteCount": 168674,
     "recentlyMoved": [
+        {
+            "domain_name": "andersenplumbing.com",
+            "destination": "Kinsta",
+            "date": "2026-08-27 20:13:05"
+        },
+        {
+            "domain_name": "humorist-in-residence.com",
+            "destination": "Bluehost",
+            "date": "2026-08-27 20:06:39"
+        },
+        {
+            "domain_name": "www.honepropane.com",
+            "destination": "Kinsta",
+            "date": "2026-08-27 19:54:45"
+        },
+        {
+            "domain_name": "addtronics.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-27 19:51:50"
+        },
+        {
+            "domain_name": "www.dysmate.no",
+            "destination": "Elementor Hosting",
+            "date": "2026-08-27 19:47:55"
+        },
+        {
+            "domain_name": "www.dysmate.de",
+            "destination": "Elementor Hosting",
+            "date": "2026-08-27 19:47:55"
+        },
         {
             "domain_name": "wardamarketing.com",
             "destination": "Bluehost",
@@ -452,11 +482,6 @@
             "date": "2026-08-26 16:10:31"
         },
         {
-            "domain_name": "www.clearairutah.com",
-            "destination": "Kinsta",
-            "date": "2026-08-26 16:04:54"
-        },
-        {
             "domain_name": "www.gradyenterprises.biz",
             "destination": "Kinsta",
             "date": "2026-08-26 16:03:52"
@@ -467,11 +492,6 @@
             "date": "2026-08-26 15:54:45"
         },
         {
-            "domain_name": "www.ajillis.com",
-            "destination": "Kinsta",
-            "date": "2026-08-26 15:49:48"
-        },
-        {
             "domain_name": "www.goffplumbing.com",
             "destination": "Kinsta",
             "date": "2026-08-26 15:48:40"
@@ -480,26 +500,6 @@
             "domain_name": "www.harloff.com",
             "destination": "A2 Hosting",
             "date": "2026-08-26 15:47:29"
-        },
-        {
-            "domain_name": "www.apexut.com",
-            "destination": "Kinsta",
-            "date": "2026-08-26 15:27:16"
-        },
-        {
-            "domain_name": "plaincanadaclair.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-08-26 15:20:41"
-        },
-        {
-            "domain_name": "ericcombs.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-08-26 13:53:57"
-        },
-        {
-            "domain_name": "mountainviewmortgage.ca",
-            "destination": "Hetzner Online",
-            "date": "2026-08-26 13:42:38"
         }
     ],
     "dailyMovedStat": {
@@ -1211,21 +1211,21 @@
     },
     "topDestinationHosts": {
         "Pressable": 14628,
-        "Kinsta": 11770,
-        "Digital Ocean": 7445,
+        "Kinsta": 11773,
+        "Digital Ocean": 7447,
         "Hostinger": 5900,
         "SiteGround": 5737,
-        "Bluehost": 4758,
+        "Bluehost": 4760,
         "GoDaddy": 1857,
         "BigScoots": 1011,
         "Liquid Web": 940,
         "WordPress.com": 805,
         "Namecheap": 785,
         "OVH": 742,
-        "GridPane": 733,
+        "GridPane": 739,
         "InMotion Hosting": 609,
         "IONOS": 572,
-        "Elementor Hosting": 565,
+        "Elementor Hosting": 567,
         "DreamHost": 553,
         "Hetzner Online": 497,
         "A2 Hosting": 477,
