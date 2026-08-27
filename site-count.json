@@ -1,10 +1,15 @@
 {
-    "siteCount": 168692,
+    "siteCount": 168694,
     "recentlyMoved": [
         {
             "domain_name": "zoelarkin.com",
             "destination": "BigScoots",
             "date": "2026-08-27 21:37:54"
+        },
+        {
+            "domain_name": "elucid.com",
+            "destination": "Pressable",
+            "date": "2026-08-27 21:22:51"
         },
         {
             "domain_name": "reachfoundationwa.org",
@@ -485,11 +490,6 @@
             "domain_name": "capitalprimelansing.com",
             "destination": "Hostinger",
             "date": "2026-08-26 16:38:15"
-        },
-        {
-            "domain_name": "www.gradyenterprises.biz",
-            "destination": "Kinsta",
-            "date": "2026-08-26 16:03:52"
         },
         {
             "domain_name": "inntownstays.com",
@@ -1210,10 +1210,10 @@
         "2026-08-26": "168420"
     },
     "topDestinationHosts": {
-        "Pressable": 14628,
+        "Pressable": 14629,
         "Kinsta": 11776,
         "Digital Ocean": 7448,
-        "Hostinger": 5900,
+        "Hostinger": 5901,
         "SiteGround": 5737,
         "Bluehost": 4760,
         "GoDaddy": 1857,
