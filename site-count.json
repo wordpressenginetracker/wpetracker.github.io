@@ -1,6 +1,11 @@
 {
-    "siteCount": 168615,
+    "siteCount": 168623,
     "recentlyMoved": [
+        {
+            "domain_name": "wardamarketing.com",
+            "destination": "Bluehost",
+            "date": "2026-08-27 17:57:29"
+        },
         {
             "domain_name": "culliganwichita.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "mountainviewmortgage.ca",
             "destination": "Hetzner Online",
             "date": "2026-08-26 13:42:38"
-        },
-        {
-            "domain_name": "draftcade.com",
-            "destination": "GridPane",
-            "date": "2026-08-26 13:34:10"
         }
     ],
     "dailyMovedStat": {
@@ -1215,7 +1215,7 @@
         "Digital Ocean": 7445,
         "Hostinger": 5900,
         "SiteGround": 5737,
-        "Bluehost": 4757,
+        "Bluehost": 4758,
         "GoDaddy": 1857,
         "BigScoots": 1011,
         "Liquid Web": 940,
