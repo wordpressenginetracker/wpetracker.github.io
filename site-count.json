@@ -1,6 +1,11 @@
 {
-    "siteCount": 168441,
+    "siteCount": 168446,
     "recentlyMoved": [
+        {
+            "domain_name": "genpotential.com",
+            "destination": "Kinsta",
+            "date": "2026-08-27 04:10:41"
+        },
         {
             "domain_name": "www.northwoodscu.org",
             "destination": "Liquid Web",
@@ -495,11 +500,6 @@
             "domain_name": "betterathomecare.co.uk",
             "destination": "Hostinger",
             "date": "2026-08-25 07:55:05"
-        },
-        {
-            "domain_name": "gethomage.com",
-            "destination": "Namecheap",
-            "date": "2026-08-25 07:36:49"
         }
     ],
     "dailyMovedStat": {
@@ -1211,7 +1211,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14619,
-        "Kinsta": 11732,
+        "Kinsta": 11733,
         "Digital Ocean": 7443,
         "Hostinger": 5891,
         "SiteGround": 5737,
