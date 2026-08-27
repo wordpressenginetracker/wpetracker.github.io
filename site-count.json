@@ -1,6 +1,11 @@
 {
-    "siteCount": 168490,
+    "siteCount": 168493,
     "recentlyMoved": [
+        {
+            "domain_name": "vitalanimal.com",
+            "destination": "Pressable",
+            "date": "2026-08-27 09:44:50"
+        },
         {
             "domain_name": "dunwoodyalumni.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "notaries2go.com",
             "destination": "Liquid Web",
             "date": "2026-08-25 13:17:40"
-        },
-        {
-            "domain_name": "tuilcr.org",
-            "destination": "BigScoots",
-            "date": "2026-08-25 12:53:37"
         }
     ],
     "dailyMovedStat": {
@@ -1210,7 +1210,7 @@
         "2026-08-26": "168420"
     },
     "topDestinationHosts": {
-        "Pressable": 14620,
+        "Pressable": 14622,
         "Kinsta": 11745,
         "Digital Ocean": 7443,
         "Hostinger": 5896,
