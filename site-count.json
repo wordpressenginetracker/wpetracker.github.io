@@ -1,6 +1,11 @@
 {
-    "siteCount": 168552,
+    "siteCount": 168557,
     "recentlyMoved": [
+        {
+            "domain_name": "neocistin.it",
+            "destination": "Kinsta",
+            "date": "2026-08-27 13:17:50"
+        },
         {
             "domain_name": "millenniumpressurewashing.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "www.green-burial.co.uk",
             "destination": "Kinsta",
             "date": "2026-08-26 08:06:06"
-        },
-        {
-            "domain_name": "www.dermatoclinica.it",
-            "destination": "Kinsta",
-            "date": "2026-08-26 08:05:18"
         },
         {
             "domain_name": "radiateu.com",
@@ -1211,7 +1211,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14624,
-        "Kinsta": 11759,
+        "Kinsta": 11760,
         "Digital Ocean": 7444,
         "Hostinger": 5897,
         "SiteGround": 5737,
