@@ -1,6 +1,16 @@
 {
-    "siteCount": 168709,
+    "siteCount": 168716,
     "recentlyMoved": [
+        {
+            "domain_name": "miamimarketingschool.com",
+            "destination": "Hostinger",
+            "date": "2026-08-28 00:51:06"
+        },
+        {
+            "domain_name": "joebattaglia.com",
+            "destination": "Pressable",
+            "date": "2026-08-28 00:48:46"
+        },
         {
             "domain_name": "www.crisbro.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2026-08-26 17:16:39"
         },
         {
-            "domain_name": "charter-system.org",
-            "destination": "Pressable",
-            "date": "2026-08-26 16:43:33"
-        },
-        {
             "domain_name": "lottafors.com",
             "destination": "Hetzner Online",
             "date": "2026-08-26 16:42:30"
-        },
-        {
-            "domain_name": "kithandkincellars.com",
-            "destination": "GridPane",
-            "date": "2026-08-26 16:40:41"
         }
     ],
     "dailyMovedStat": {
@@ -1211,7 +1211,7 @@
         "2026-08-27": "168694"
     },
     "topDestinationHosts": {
-        "Pressable": 14629,
+        "Pressable": 14630,
         "Kinsta": 11778,
         "Digital Ocean": 7448,
         "Hostinger": 5901,
