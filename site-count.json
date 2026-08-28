@@ -1,6 +1,11 @@
 {
-    "siteCount": 168983,
+    "siteCount": 168985,
     "recentlyMoved": [
+        {
+            "domain_name": "excelmechsvc.com",
+            "destination": "DreamHost",
+            "date": "2026-08-28 21:30:45"
+        },
         {
             "domain_name": "cphrbc.ca",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.dysmate.de",
             "destination": "Elementor Hosting",
             "date": "2026-08-27 19:47:55"
-        },
-        {
-            "domain_name": "wardamarketing.com",
-            "destination": "Bluehost",
-            "date": "2026-08-27 17:57:29"
         }
     ],
     "dailyMovedStat": {
@@ -1227,7 +1227,7 @@
         "InMotion Hosting": 609,
         "IONOS": 572,
         "Elementor Hosting": 568,
-        "DreamHost": 553,
+        "DreamHost": 554,
         "Hetzner Online": 497,
         "A2 Hosting": 477,
         "HostGator": 367
