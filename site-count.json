@@ -1,6 +1,11 @@
 {
-    "siteCount": 168973,
+    "siteCount": 168983,
     "recentlyMoved": [
+        {
+            "domain_name": "cphrbc.ca",
+            "destination": "Kinsta",
+            "date": "2026-08-28 20:53:01"
+        },
         {
             "domain_name": "hlhdesignbuild.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "wardamarketing.com",
             "destination": "Bluehost",
             "date": "2026-08-27 17:57:29"
-        },
-        {
-            "domain_name": "culliganwichita.com",
-            "destination": "Kinsta",
-            "date": "2026-08-27 17:26:59"
         }
     ],
     "dailyMovedStat": {
@@ -1212,7 +1212,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14660,
-        "Kinsta": 11808,
+        "Kinsta": 11809,
         "Digital Ocean": 7453,
         "Hostinger": 5910,
         "SiteGround": 5737,
