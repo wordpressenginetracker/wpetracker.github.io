@@ -1,6 +1,21 @@
 {
-    "siteCount": 168694,
+    "siteCount": 168709,
     "recentlyMoved": [
+        {
+            "domain_name": "www.crisbro.com",
+            "destination": "Kinsta",
+            "date": "2026-08-28 00:20:43"
+        },
+        {
+            "domain_name": "www.dysmate.co.uk",
+            "destination": "Elementor Hosting",
+            "date": "2026-08-28 00:16:39"
+        },
+        {
+            "domain_name": "houseofsadaqa.org.au",
+            "destination": "Kinsta",
+            "date": "2026-08-28 00:14:14"
+        },
         {
             "domain_name": "zoelarkin.com",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "kithandkincellars.com",
             "destination": "GridPane",
             "date": "2026-08-26 16:40:41"
-        },
-        {
-            "domain_name": "capitalprimelansing.com",
-            "destination": "Hostinger",
-            "date": "2026-08-26 16:38:15"
-        },
-        {
-            "domain_name": "inntownstays.com",
-            "destination": "BigScoots",
-            "date": "2026-08-26 15:54:45"
-        },
-        {
-            "domain_name": "www.harloff.com",
-            "destination": "A2 Hosting",
-            "date": "2026-08-26 15:47:29"
         }
     ],
     "dailyMovedStat": {
@@ -1212,7 +1212,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14629,
-        "Kinsta": 11776,
+        "Kinsta": 11778,
         "Digital Ocean": 7448,
         "Hostinger": 5901,
         "SiteGround": 5737,
@@ -1226,7 +1226,7 @@
         "GridPane": 739,
         "InMotion Hosting": 609,
         "IONOS": 572,
-        "Elementor Hosting": 567,
+        "Elementor Hosting": 568,
         "DreamHost": 553,
         "Hetzner Online": 497,
         "A2 Hosting": 477,
