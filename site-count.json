@@ -1,10 +1,20 @@
 {
-    "siteCount": 169075,
+    "siteCount": 169081,
     "recentlyMoved": [
+        {
+            "domain_name": "vanwinefest.ca",
+            "destination": "Kinsta",
+            "date": "2026-08-29 13:04:33"
+        },
         {
             "domain_name": "texasprivateschools.com",
             "destination": "Digital Ocean",
             "date": "2026-08-29 13:02:46"
+        },
+        {
+            "domain_name": "elpasoprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-29 12:57:37"
         },
         {
             "domain_name": "www.swerlinglaw.com",
@@ -490,16 +500,6 @@
             "domain_name": "miamimarketingschool.com",
             "destination": "Hostinger",
             "date": "2026-08-28 00:51:06"
-        },
-        {
-            "domain_name": "joebattaglia.com",
-            "destination": "Pressable",
-            "date": "2026-08-28 00:48:46"
-        },
-        {
-            "domain_name": "houseofsadaqa.org.au",
-            "destination": "Kinsta",
-            "date": "2026-08-28 00:14:14"
         }
     ],
     "dailyMovedStat": {
@@ -1213,8 +1213,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14662,
-        "Kinsta": 11814,
-        "Digital Ocean": 7458,
+        "Kinsta": 11815,
+        "Digital Ocean": 7459,
         "Hostinger": 5911,
         "SiteGround": 5738,
         "Bluehost": 4762,
