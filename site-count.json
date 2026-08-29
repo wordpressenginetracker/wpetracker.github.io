@@ -1,6 +1,16 @@
 {
-    "siteCount": 169158,
+    "siteCount": 169209,
     "recentlyMoved": [
+        {
+            "domain_name": "ordclean.com",
+            "destination": "Bluehost",
+            "date": "2026-08-29 19:34:35"
+        },
+        {
+            "domain_name": "alclevelaw.com",
+            "destination": "Pressable",
+            "date": "2026-08-29 19:18:57"
+        },
         {
             "domain_name": "vinylfencestore.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.downeybrand.com",
             "destination": "Pressable",
             "date": "2026-08-28 12:12:20"
-        },
-        {
-            "domain_name": "amicusgroup.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-08-28 12:02:04"
-        },
-        {
-            "domain_name": "hanli.co",
-            "destination": "Hostinger",
-            "date": "2026-08-28 11:33:01"
         }
     ],
     "dailyMovedStat": {
@@ -1212,14 +1212,14 @@
         "2026-08-28": "168985"
     },
     "topDestinationHosts": {
-        "Pressable": 14663,
+        "Pressable": 14664,
         "Kinsta": 11839,
         "Digital Ocean": 7466,
         "Hostinger": 5911,
         "SiteGround": 5738,
-        "Bluehost": 4762,
+        "Bluehost": 4763,
         "GoDaddy": 1861,
-        "BigScoots": 1014,
+        "BigScoots": 1016,
         "Liquid Web": 942,
         "WordPress.com": 808,
         "Namecheap": 787,
@@ -1230,7 +1230,7 @@
         "Elementor Hosting": 568,
         "DreamHost": 554,
         "Hetzner Online": 497,
-        "A2 Hosting": 477,
+        "A2 Hosting": 478,
         "HostGator": 367
     },
     "dailyTotalStat": {
