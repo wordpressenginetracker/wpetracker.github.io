@@ -1,6 +1,11 @@
 {
-    "siteCount": 168995,
+    "siteCount": 169005,
     "recentlyMoved": [
+        {
+            "domain_name": "www.rebuildyourvision.com",
+            "destination": "Pressable",
+            "date": "2026-08-29 00:19:21"
+        },
         {
             "domain_name": "www.keefes.com",
             "destination": "Kinsta",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "www.dysmate.no",
-            "destination": "Elementor Hosting",
-            "date": "2026-08-27 19:47:55"
-        },
-        {
-            "domain_name": "www.dysmate.de",
             "destination": "Elementor Hosting",
             "date": "2026-08-27 19:47:55"
         }
@@ -1212,8 +1212,8 @@
         "2026-08-28": "168985"
     },
     "topDestinationHosts": {
-        "Pressable": 14660,
-        "Kinsta": 11810,
+        "Pressable": 14661,
+        "Kinsta": 11811,
         "Digital Ocean": 7453,
         "Hostinger": 5910,
         "SiteGround": 5737,
