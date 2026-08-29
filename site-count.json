@@ -1,10 +1,20 @@
 {
-    "siteCount": 169029,
+    "siteCount": 169040,
     "recentlyMoved": [
+        {
+            "domain_name": "www.vgrlawfirm.com",
+            "destination": "Kinsta",
+            "date": "2026-08-29 09:03:06"
+        },
         {
             "domain_name": "healingrosie.com",
             "destination": "SiteGround",
             "date": "2026-08-29 08:09:15"
+        },
+        {
+            "domain_name": "kaliyog.com",
+            "destination": "Hostinger",
+            "date": "2026-08-29 08:09:03"
         },
         {
             "domain_name": "grunbergerdiamonds.us",
@@ -490,16 +500,6 @@
             "domain_name": "www.talentvine.com.au",
             "destination": "Kinsta",
             "date": "2026-08-27 20:38:09"
-        },
-        {
-            "domain_name": "skydivedeland.com",
-            "destination": "Kinsta",
-            "date": "2026-08-27 20:20:53"
-        },
-        {
-            "domain_name": "leaderstitlestl.com",
-            "destination": "Digital Ocean",
-            "date": "2026-08-27 20:19:22"
         }
     ],
     "dailyMovedStat": {
@@ -1213,9 +1213,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14662,
-        "Kinsta": 11812,
+        "Kinsta": 11813,
         "Digital Ocean": 7453,
-        "Hostinger": 5910,
+        "Hostinger": 5911,
         "SiteGround": 5738,
         "Bluehost": 4762,
         "GoDaddy": 1860,
