@@ -1,6 +1,11 @@
 {
-    "siteCount": 169261,
+    "siteCount": 169269,
     "recentlyMoved": [
+        {
+            "domain_name": "bigslice.co.uk",
+            "destination": "IONOS",
+            "date": "2026-08-30 08:13:25"
+        },
         {
             "domain_name": "jcgresources.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "medallionpartnersinc.com",
             "destination": "GoDaddy",
             "date": "2026-08-28 12:47:35"
-        },
-        {
-            "domain_name": "www.windshieldogden.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 12:36:44"
         }
     ],
     "dailyMovedStat": {
@@ -1227,7 +1227,7 @@
         "OVH": 742,
         "GridPane": 740,
         "InMotion Hosting": 609,
-        "IONOS": 572,
+        "IONOS": 573,
         "Elementor Hosting": 568,
         "DreamHost": 554,
         "Hetzner Online": 497,
