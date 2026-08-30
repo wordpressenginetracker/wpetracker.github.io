@@ -1,6 +1,11 @@
 {
-    "siteCount": 169300,
+    "siteCount": 169302,
     "recentlyMoved": [
+        {
+            "domain_name": "nikhanda.com",
+            "destination": "Hostinger",
+            "date": "2026-08-30 13:58:00"
+        },
         {
             "domain_name": "1touchpoint.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "niwaplibrary.wcl.american.edu",
             "destination": "Pressable",
             "date": "2026-08-28 14:01:37"
-        },
-        {
-            "domain_name": "turleyinternational.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 13:01:25"
         },
         {
             "domain_name": "enemyofthe610.com",
@@ -1216,7 +1216,7 @@
         "Pressable": 14665,
         "Kinsta": 11841,
         "Digital Ocean": 7469,
-        "Hostinger": 5916,
+        "Hostinger": 5917,
         "SiteGround": 5738,
         "Bluehost": 4763,
         "GoDaddy": 1862,
