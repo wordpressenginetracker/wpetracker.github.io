@@ -1,6 +1,11 @@
 {
-    "siteCount": 169236,
+    "siteCount": 169239,
     "recentlyMoved": [
+        {
+            "domain_name": "wacoprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-08-30 01:50:48"
+        },
         {
             "domain_name": "www.themoosedentist.com",
             "destination": "Kinsta",
@@ -480,11 +485,6 @@
             "domain_name": "medallionpartnersinc.com",
             "destination": "GoDaddy",
             "date": "2026-08-28 12:47:35"
-        },
-        {
-            "domain_name": "www.technogoober.com",
-            "destination": "Hostinger",
-            "date": "2026-08-28 12:46:59"
         },
         {
             "domain_name": "www.windshieldogden.com",
@@ -1215,7 +1215,7 @@
     "topDestinationHosts": {
         "Pressable": 14665,
         "Kinsta": 11840,
-        "Digital Ocean": 7467,
+        "Digital Ocean": 7468,
         "Hostinger": 5912,
         "SiteGround": 5738,
         "Bluehost": 4763,
