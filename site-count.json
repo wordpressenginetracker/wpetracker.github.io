@@ -1,6 +1,21 @@
 {
-    "siteCount": 169358,
+    "siteCount": 169376,
     "recentlyMoved": [
+        {
+            "domain_name": "www.40degreesmedia.com",
+            "destination": "BigScoots",
+            "date": "2026-08-31 00:02:48"
+        },
+        {
+            "domain_name": "www.rhinoins.net",
+            "destination": "GoDaddy",
+            "date": "2026-08-30 23:45:45"
+        },
+        {
+            "domain_name": "alexiscampbell.com",
+            "destination": "BigScoots",
+            "date": "2026-08-30 23:43:49"
+        },
         {
             "domain_name": "cgshealth.com",
             "destination": "Digital Ocean",
@@ -457,11 +472,6 @@
             "date": "2026-08-28 16:30:59"
         },
         {
-            "domain_name": "www.bniutnresources.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 16:16:38"
-        },
-        {
             "domain_name": "www.koalaparkdaycare.com",
             "destination": "Kinsta",
             "date": "2026-08-28 16:14:23"
@@ -487,19 +497,9 @@
             "date": "2026-08-28 15:49:25"
         },
         {
-            "domain_name": "www.billerkimble.com",
-            "destination": "WordPress.com",
-            "date": "2026-08-28 15:36:14"
-        },
-        {
             "domain_name": "www.emilychelsea.com",
             "destination": "Kinsta",
             "date": "2026-08-28 15:35:28"
-        },
-        {
-            "domain_name": "wiaa.org",
-            "destination": "Kinsta",
-            "date": "2026-08-28 15:06:01"
         }
     ],
     "dailyMovedStat": {
@@ -1220,8 +1220,8 @@
         "Hostinger": 5918,
         "SiteGround": 5738,
         "Bluehost": 4763,
-        "GoDaddy": 1862,
-        "BigScoots": 1018,
+        "GoDaddy": 1863,
+        "BigScoots": 1020,
         "Liquid Web": 942,
         "WordPress.com": 808,
         "Namecheap": 789,
