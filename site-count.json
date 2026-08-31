@@ -1,6 +1,11 @@
 {
-    "siteCount": 169403,
+    "siteCount": 169407,
     "recentlyMoved": [
+        {
+            "domain_name": "onewatervero.org",
+            "destination": "GoDaddy",
+            "date": "2026-08-31 05:49:58"
+        },
         {
             "domain_name": "pottersfieldfunerals.com.au",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.inspectingut.com",
             "destination": "Kinsta",
             "date": "2026-08-28 16:07:58"
-        },
-        {
-            "domain_name": "beathivedjs.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 16:02:48"
         }
     ],
     "dailyMovedStat": {
@@ -1220,7 +1220,7 @@
         "Hostinger": 5918,
         "SiteGround": 5738,
         "Bluehost": 4763,
-        "GoDaddy": 1863,
+        "GoDaddy": 1864,
         "BigScoots": 1021,
         "Liquid Web": 942,
         "WordPress.com": 808,
