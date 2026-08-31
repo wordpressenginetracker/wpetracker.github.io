@@ -1,6 +1,11 @@
 {
-    "siteCount": 169465,
+    "siteCount": 169497,
     "recentlyMoved": [
+        {
+            "domain_name": "www.akdlawyers.com",
+            "destination": "Bluehost",
+            "date": "2026-08-31 19:24:16"
+        },
         {
             "domain_name": "coterietravel.com",
             "destination": "HostGator",
@@ -495,11 +500,6 @@
             "domain_name": "engagestar.com",
             "destination": "Liquid Web",
             "date": "2026-08-28 17:07:26"
-        },
-        {
-            "domain_name": "www.surfacebellagarage.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 16:31:17"
         }
     ],
     "dailyMovedStat": {
@@ -1214,12 +1214,12 @@
         "2026-08-30": "169358"
     },
     "topDestinationHosts": {
-        "Pressable": 14666,
-        "Kinsta": 11843,
+        "Pressable": 14667,
+        "Kinsta": 11844,
         "Digital Ocean": 7472,
         "Hostinger": 5919,
         "SiteGround": 5738,
-        "Bluehost": 4763,
+        "Bluehost": 4764,
         "GoDaddy": 1864,
         "BigScoots": 1021,
         "Liquid Web": 942,
