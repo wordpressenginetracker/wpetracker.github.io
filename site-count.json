@@ -1,6 +1,11 @@
 {
-    "siteCount": 169436,
+    "siteCount": 169441,
     "recentlyMoved": [
+        {
+            "domain_name": "elcentralmedia.com",
+            "destination": "Pressable",
+            "date": "2026-08-31 13:39:03"
+        },
         {
             "domain_name": "lifetherapywithzita.com",
             "destination": "WordPress.com",
@@ -490,11 +495,6 @@
             "domain_name": "ladiesoflaundry.com",
             "destination": "Pressable",
             "date": "2026-08-28 16:59:53"
-        },
-        {
-            "domain_name": "jbradleypools.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 16:35:44"
         },
         {
             "domain_name": "www.surfacebellagarage.com",
@@ -1214,7 +1214,7 @@
         "2026-08-30": "169358"
     },
     "topDestinationHosts": {
-        "Pressable": 14665,
+        "Pressable": 14666,
         "Kinsta": 11842,
         "Digital Ocean": 7472,
         "Hostinger": 5919,
