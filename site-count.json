@@ -1,6 +1,11 @@
 {
-    "siteCount": 169392,
+    "siteCount": 169398,
     "recentlyMoved": [
+        {
+            "domain_name": "pottersfieldfunerals.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-08-31 03:50:36"
+        },
         {
             "domain_name": "www.matthewasbell.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "beathivedjs.com",
             "destination": "Kinsta",
             "date": "2026-08-28 16:02:48"
-        },
-        {
-            "domain_name": "www.emilychelsea.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 15:35:28"
         }
     ],
     "dailyMovedStat": {
@@ -1216,7 +1216,7 @@
     "topDestinationHosts": {
         "Pressable": 14665,
         "Kinsta": 11842,
-        "Digital Ocean": 7470,
+        "Digital Ocean": 7471,
         "Hostinger": 5918,
         "SiteGround": 5738,
         "Bluehost": 4763,
