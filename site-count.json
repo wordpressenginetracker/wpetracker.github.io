@@ -1,6 +1,11 @@
 {
-    "siteCount": 169407,
+    "siteCount": 169413,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theeducationalliance.org",
+            "destination": "Digital Ocean",
+            "date": "2026-08-31 07:43:32"
+        },
         {
             "domain_name": "onewatervero.org",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.koalaparkdaycare.com",
             "destination": "Kinsta",
             "date": "2026-08-28 16:14:23"
-        },
-        {
-            "domain_name": "www.inspectingut.com",
-            "destination": "Kinsta",
-            "date": "2026-08-28 16:07:58"
         }
     ],
     "dailyMovedStat": {
@@ -1216,7 +1216,7 @@
     "topDestinationHosts": {
         "Pressable": 14665,
         "Kinsta": 11842,
-        "Digital Ocean": 7471,
+        "Digital Ocean": 7472,
         "Hostinger": 5918,
         "SiteGround": 5738,
         "Bluehost": 4763,
