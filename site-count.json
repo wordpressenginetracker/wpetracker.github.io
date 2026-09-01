@@ -1,6 +1,16 @@
 {
-    "siteCount": 169574,
+    "siteCount": 169578,
     "recentlyMoved": [
+        {
+            "domain_name": "vindux.no",
+            "destination": "Pressable",
+            "date": "2026-09-01 09:42:49"
+        },
+        {
+            "domain_name": "visitroconc.com",
+            "destination": "Kinsta",
+            "date": "2026-09-01 09:18:23"
+        },
         {
             "domain_name": "www.dentistryofcolorado.net",
             "destination": "Namecheap",
@@ -490,16 +500,6 @@
             "domain_name": "excelmechsvc.com",
             "destination": "DreamHost",
             "date": "2026-08-28 21:30:45"
-        },
-        {
-            "domain_name": "cphrbc.ca",
-            "destination": "Kinsta",
-            "date": "2026-08-28 20:53:01"
-        },
-        {
-            "domain_name": "www.greengeniewny.com",
-            "destination": "Pressable",
-            "date": "2026-08-28 20:02:00"
         }
     ],
     "dailyMovedStat": {
@@ -1215,8 +1215,8 @@
         "2026-08-31": "169518"
     },
     "topDestinationHosts": {
-        "Pressable": 14668,
-        "Kinsta": 11845,
+        "Pressable": 14669,
+        "Kinsta": 11846,
         "Digital Ocean": 7473,
         "Hostinger": 5924,
         "SiteGround": 5738,
