@@ -1,6 +1,76 @@
 {
-    "siteCount": 169938,
+    "siteCount": 169978,
     "recentlyMoved": [
+        {
+            "domain_name": "benlomonddental.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 16:23:13"
+        },
+        {
+            "domain_name": "www.copperridgehc.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 16:17:01"
+        },
+        {
+            "domain_name": "www.consolidatedagg.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 16:13:56"
+        },
+        {
+            "domain_name": "rvsupreme.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-02 16:11:28"
+        },
+        {
+            "domain_name": "applianceemt.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 16:03:35"
+        },
+        {
+            "domain_name": "www.johnsonendo.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:55:39"
+        },
+        {
+            "domain_name": "www.elitechironcw.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:53:40"
+        },
+        {
+            "domain_name": "www.elevatewellnesschiro.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:53:40"
+        },
+        {
+            "domain_name": "wisconsinrealestateassociation.org",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:53:09"
+        },
+        {
+            "domain_name": "www.dentalimplantsnorthdakota.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:46:26"
+        },
+        {
+            "domain_name": "www.daybreakseniorservices.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:45:29"
+        },
+        {
+            "domain_name": "ballantynemedical.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-02 15:44:15"
+        },
+        {
+            "domain_name": "www.thecooklaw.com",
+            "destination": "Pressable",
+            "date": "2026-09-02 15:42:00"
+        },
+        {
+            "domain_name": "www.avenuesfamilydentist.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 15:32:41"
+        },
         {
             "domain_name": "wattsagency.com",
             "destination": "Pressable",
@@ -397,11 +467,6 @@
             "date": "2026-09-01 16:25:38"
         },
         {
-            "domain_name": "greatfallspd.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 16:10:21"
-        },
-        {
             "domain_name": "www.masongives.com",
             "destination": "Kinsta",
             "date": "2026-09-01 16:09:19"
@@ -422,11 +487,6 @@
             "date": "2026-09-01 15:53:37"
         },
         {
-            "domain_name": "americancornerstone.org",
-            "destination": "Pressable",
-            "date": "2026-09-01 15:51:41"
-        },
-        {
             "domain_name": "gurrauto.com",
             "destination": "Digital Ocean",
             "date": "2026-09-01 15:49:07"
@@ -437,69 +497,9 @@
             "date": "2026-09-01 15:48:33"
         },
         {
-            "domain_name": "888gothurt.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-01 15:38:53"
-        },
-        {
-            "domain_name": "700blockstorage.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 15:38:53"
-        },
-        {
             "domain_name": "apexhss.com",
             "destination": "Digital Ocean",
             "date": "2026-09-01 15:28:28"
-        },
-        {
-            "domain_name": "www.adv-electrolysis.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 15:26:28"
-        },
-        {
-            "domain_name": "www.alltradestemp.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 15:23:39"
-        },
-        {
-            "domain_name": "energsmart.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-01 13:42:43"
-        },
-        {
-            "domain_name": "old-site.aqfer.com",
-            "destination": "BigScoots",
-            "date": "2026-09-01 13:37:17"
-        },
-        {
-            "domain_name": "www.totem.tech",
-            "destination": "Kinsta",
-            "date": "2026-09-01 13:28:38"
-        },
-        {
-            "domain_name": "www.smilemountainview.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 13:09:53"
-        },
-        {
-            "domain_name": "losttexanbbq.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 12:51:50"
-        },
-        {
-            "domain_name": "tedxcharleston.org",
-            "destination": "Digital Ocean",
-            "date": "2026-09-01 12:38:58"
-        },
-        {
-            "domain_name": "consumrbuzz.com",
-            "destination": "Hostinger",
-            "date": "2026-09-01 12:38:06"
-        },
-        {
-            "domain_name": "jxtcollective.com",
-            "destination": "WordPress.com",
-            "date": "2026-09-01 12:15:32"
         }
     ],
     "dailyMovedStat": {
@@ -1216,9 +1216,9 @@
         "2026-09-01": "169784"
     },
     "topDestinationHosts": {
-        "Pressable": 14692,
-        "Kinsta": 11899,
-        "Digital Ocean": 7486,
+        "Pressable": 14693,
+        "Kinsta": 11909,
+        "Digital Ocean": 7487,
         "Hostinger": 5933,
         "SiteGround": 5738,
         "Bluehost": 4765,
