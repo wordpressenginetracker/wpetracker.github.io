@@ -1,6 +1,11 @@
 {
-    "siteCount": 169820,
+    "siteCount": 169826,
     "recentlyMoved": [
+        {
+            "domain_name": "nextail.co",
+            "destination": "Hostinger",
+            "date": "2026-09-02 05:53:13"
+        },
         {
             "domain_name": "maroochyrdvet.com.au",
             "destination": "Kinsta",
@@ -10,6 +15,11 @@
             "domain_name": "thenewscrypto.com",
             "destination": "Hostinger",
             "date": "2026-09-02 05:01:47"
+        },
+        {
+            "domain_name": "douglaswallace.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 04:54:44"
         },
         {
             "domain_name": "preschool.juliagabriel.com",
@@ -490,16 +500,6 @@
             "domain_name": "cgshealth.com",
             "destination": "Digital Ocean",
             "date": "2026-08-30 20:34:38"
-        },
-        {
-            "domain_name": "jungleluxe.mx",
-            "destination": "BigScoots",
-            "date": "2026-08-30 20:30:58"
-        },
-        {
-            "domain_name": "placidventures.com",
-            "destination": "Hostinger",
-            "date": "2026-08-30 19:52:05"
         }
     ],
     "dailyMovedStat": {
@@ -1217,9 +1217,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14672,
-        "Kinsta": 11885,
+        "Kinsta": 11886,
         "Digital Ocean": 7484,
-        "Hostinger": 5930,
+        "Hostinger": 5931,
         "SiteGround": 5738,
         "Bluehost": 4765,
         "GoDaddy": 1865,
