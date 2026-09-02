@@ -1,6 +1,31 @@
 {
-    "siteCount": 170016,
+    "siteCount": 170082,
     "recentlyMoved": [
+        {
+            "domain_name": "www.homeimprovement-usa.com",
+            "destination": "IONOS",
+            "date": "2026-09-02 20:03:46"
+        },
+        {
+            "domain_name": "blog.moveupdowntown.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 19:56:55"
+        },
+        {
+            "domain_name": "www.delawarevalleysteel.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-02 19:36:06"
+        },
+        {
+            "domain_name": "ahsdenver.com",
+            "destination": "HostGator",
+            "date": "2026-09-02 19:27:13"
+        },
+        {
+            "domain_name": "whatsonsukhumvit.com",
+            "destination": "Hostinger",
+            "date": "2026-09-02 19:19:52"
+        },
         {
             "domain_name": "v1.growingbolder.com",
             "destination": "Pressable",
@@ -467,16 +492,6 @@
             "date": "2026-09-01 17:25:31"
         },
         {
-            "domain_name": "lakelandsepticcompany.com",
-            "destination": "WordPress.com",
-            "date": "2026-09-01 17:14:07"
-        },
-        {
-            "domain_name": "www.picklecourtsurfacing.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 17:12:19"
-        },
-        {
             "domain_name": "www.wildcatbusinesspark.com",
             "destination": "Kinsta",
             "date": "2026-09-01 17:04:40"
@@ -485,21 +500,6 @@
             "domain_name": "www.rockymountainlawoffice.com",
             "destination": "Kinsta",
             "date": "2026-09-01 16:58:15"
-        },
-        {
-            "domain_name": "www.randrdrivingschool.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 16:46:43"
-        },
-        {
-            "domain_name": "www.quarrybenddental.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 16:39:45"
-        },
-        {
-            "domain_name": "www.procoatkitchens.com.au",
-            "destination": "Hostinger",
-            "date": "2026-09-01 16:37:49"
         }
     ],
     "dailyMovedStat": {
@@ -1218,8 +1218,8 @@
     "topDestinationHosts": {
         "Pressable": 14695,
         "Kinsta": 11922,
-        "Digital Ocean": 7489,
-        "Hostinger": 5935,
+        "Digital Ocean": 7491,
+        "Hostinger": 5936,
         "SiteGround": 5738,
         "Bluehost": 4765,
         "GoDaddy": 1866,
@@ -1230,12 +1230,12 @@
         "OVH": 742,
         "GridPane": 740,
         "InMotion Hosting": 611,
-        "IONOS": 574,
+        "IONOS": 575,
         "Elementor Hosting": 569,
         "DreamHost": 554,
         "Hetzner Online": 500,
         "A2 Hosting": 478,
-        "HostGator": 368
+        "HostGator": 369
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
