@@ -1,6 +1,11 @@
 {
-    "siteCount": 169797,
+    "siteCount": 169803,
     "recentlyMoved": [
+        {
+            "domain_name": "talk2rami.com",
+            "destination": "Hostinger",
+            "date": "2026-09-02 01:22:13"
+        },
         {
             "domain_name": "blackopsagency.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "bigslice.co.uk",
             "destination": "IONOS",
             "date": "2026-08-30 08:13:25"
-        },
-        {
-            "domain_name": "harbourlaser.com",
-            "destination": "Hostinger",
-            "date": "2026-08-30 03:58:14"
         }
     ],
     "dailyMovedStat": {
@@ -1219,7 +1219,7 @@
         "Pressable": 14672,
         "Kinsta": 11884,
         "Digital Ocean": 7483,
-        "Hostinger": 5928,
+        "Hostinger": 5929,
         "SiteGround": 5738,
         "Bluehost": 4765,
         "GoDaddy": 1865,
