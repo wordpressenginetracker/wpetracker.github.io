@@ -1,6 +1,16 @@
 {
-    "siteCount": 169924,
+    "siteCount": 169938,
     "recentlyMoved": [
+        {
+            "domain_name": "wattsagency.com",
+            "destination": "Pressable",
+            "date": "2026-09-02 14:11:36"
+        },
+        {
+            "domain_name": "eiger-rp.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 13:51:27"
+        },
         {
             "domain_name": "www.version1.com",
             "destination": "Krystal Hosting",
@@ -15,6 +25,11 @@
             "domain_name": "www.zooxpayroll.com",
             "destination": "Kinsta",
             "date": "2026-09-02 13:23:25"
+        },
+        {
+            "domain_name": "tpispecialists.com",
+            "destination": "Pressable",
+            "date": "2026-09-02 13:20:13"
         },
         {
             "domain_name": "www.sacramentoliteracy.org",
@@ -35,6 +50,11 @@
             "domain_name": "martins-insurance.com",
             "destination": "Pressable",
             "date": "2026-09-02 13:14:02"
+        },
+        {
+            "domain_name": "toddhoffmaninsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-02 13:06:34"
         },
         {
             "domain_name": "kesnerins.com",
@@ -477,29 +497,9 @@
             "date": "2026-09-01 12:38:06"
         },
         {
-            "domain_name": "bvp.com.au",
-            "destination": "Kinsta",
-            "date": "2026-09-01 12:26:22"
-        },
-        {
-            "domain_name": "brandclubmedia.com",
-            "destination": "BigScoots",
-            "date": "2026-09-01 12:24:32"
-        },
-        {
             "domain_name": "jxtcollective.com",
             "destination": "WordPress.com",
             "date": "2026-09-01 12:15:32"
-        },
-        {
-            "domain_name": "brandtheating.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-09-01 12:03:56"
-        },
-        {
-            "domain_name": "hub.barroncollier.com",
-            "destination": "Liquid Web",
-            "date": "2026-09-01 11:57:58"
         }
     ],
     "dailyMovedStat": {
@@ -1216,8 +1216,8 @@
         "2026-09-01": "169784"
     },
     "topDestinationHosts": {
-        "Pressable": 14689,
-        "Kinsta": 11898,
+        "Pressable": 14692,
+        "Kinsta": 11899,
         "Digital Ocean": 7486,
         "Hostinger": 5933,
         "SiteGround": 5738,
