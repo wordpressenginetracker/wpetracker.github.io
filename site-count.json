@@ -1,5 +1,5 @@
 {
-    "siteCount": 170107,
+    "siteCount": 170110,
     "recentlyMoved": [
         {
             "domain_name": "youthensemble.org",
@@ -20,6 +20,11 @@
             "domain_name": "www.suitesriovista.com",
             "destination": "Kinsta",
             "date": "2026-09-02 21:11:32"
+        },
+        {
+            "domain_name": "eagle1.com.au",
+            "destination": "Kinsta",
+            "date": "2026-09-02 21:06:08"
         },
         {
             "domain_name": "www.thefearlessadvocate.com",
@@ -490,11 +495,6 @@
             "domain_name": "servicemasterby247.com",
             "destination": "Kinsta",
             "date": "2026-09-01 20:25:13"
-        },
-        {
-            "domain_name": "aboveandbeyondwindowcleaning.com",
-            "destination": "Kinsta",
-            "date": "2026-09-01 19:55:13"
         },
         {
             "domain_name": "getreadyphoto.com",
@@ -1217,8 +1217,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 14696,
-        "Kinsta": 11925,
-        "Digital Ocean": 7491,
+        "Kinsta": 11926,
+        "Digital Ocean": 7492,
         "Hostinger": 5938,
         "SiteGround": 5738,
         "Bluehost": 4765,
