@@ -1,6 +1,11 @@
 {
-    "siteCount": 169854,
+    "siteCount": 169859,
     "recentlyMoved": [
+        {
+            "domain_name": "explorejeffersoncountytx.com",
+            "destination": "Kinsta",
+            "date": "2026-09-02 10:00:46"
+        },
         {
             "domain_name": "www.pilgrimhypnotherapy.co.uk",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "cccepa.com",
             "destination": "Hostinger",
             "date": "2026-08-31 08:18:53"
-        },
-        {
-            "domain_name": "www.theeducationalliance.org",
-            "destination": "Digital Ocean",
-            "date": "2026-08-31 07:43:32"
         }
     ],
     "dailyMovedStat": {
@@ -1217,7 +1217,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14673,
-        "Kinsta": 11891,
+        "Kinsta": 11892,
         "Digital Ocean": 7485,
         "Hostinger": 5932,
         "SiteGround": 5738,
