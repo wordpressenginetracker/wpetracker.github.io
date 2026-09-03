@@ -1,6 +1,11 @@
 {
-    "siteCount": 170123,
+    "siteCount": 170130,
     "recentlyMoved": [
+        {
+            "domain_name": "southwestkidsclinic.com.au",
+            "destination": "Kinsta",
+            "date": "2026-09-03 01:08:06"
+        },
         {
             "domain_name": "age-of-product.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.expeditedclimb.com",
             "destination": "Kinsta",
             "date": "2026-09-01 23:46:17"
-        },
-        {
-            "domain_name": "grantswank.com",
-            "destination": "Namecheap",
-            "date": "2026-09-01 23:34:33"
         }
     ],
     "dailyMovedStat": {
@@ -1218,7 +1218,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14696,
-        "Kinsta": 11927,
+        "Kinsta": 11928,
         "Digital Ocean": 7494,
         "Hostinger": 5941,
         "SiteGround": 5738,
