@@ -1,6 +1,11 @@
 {
-    "siteCount": 170495,
+    "siteCount": 170498,
     "recentlyMoved": [
+        {
+            "domain_name": "f1zonwering.nl",
+            "destination": "Kinsta",
+            "date": "2026-09-04 09:27:38"
+        },
         {
             "domain_name": "mola.design",
             "destination": "Pressable",
@@ -490,11 +495,6 @@
             "domain_name": "academy.bluenext.it",
             "destination": "Kinsta",
             "date": "2026-09-03 11:22:42"
-        },
-        {
-            "domain_name": "newamsterdamsciences.com",
-            "destination": "Namecheap",
-            "date": "2026-09-03 09:58:26"
         },
         {
             "domain_name": "fellowshiphall.com",
@@ -1218,8 +1218,8 @@
         "2026-09-03": "170439"
     },
     "topDestinationHosts": {
-        "Pressable": 14703,
-        "Kinsta": 11996,
+        "Pressable": 14704,
+        "Kinsta": 11997,
         "Digital Ocean": 7506,
         "Hostinger": 5950,
         "SiteGround": 5739,
