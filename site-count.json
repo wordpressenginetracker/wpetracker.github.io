@@ -1,6 +1,11 @@
 {
-    "siteCount": 170767,
+    "siteCount": 170772,
     "recentlyMoved": [
+        {
+            "domain_name": "heritagevets.com.au",
+            "destination": "Kinsta",
+            "date": "2026-09-05 03:55:30"
+        },
         {
             "domain_name": "bollywoodprime.net",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.rasmussencc.com",
             "destination": "Kinsta",
             "date": "2026-09-03 20:31:51"
-        },
-        {
-            "domain_name": "www.opsutah.com",
-            "destination": "Kinsta",
-            "date": "2026-09-03 20:07:41"
         }
     ],
     "dailyMovedStat": {
@@ -1220,7 +1220,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14738,
-        "Kinsta": 12010,
+        "Kinsta": 12011,
         "Digital Ocean": 7514,
         "Hostinger": 5959,
         "SiteGround": 5739,
