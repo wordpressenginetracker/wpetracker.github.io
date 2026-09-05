@@ -1,10 +1,20 @@
 {
-    "siteCount": 170805,
+    "siteCount": 170809,
     "recentlyMoved": [
+        {
+            "domain_name": "mytrueclimate.com",
+            "destination": "Kinsta",
+            "date": "2026-09-05 09:44:40"
+        },
         {
             "domain_name": "medpharmagroup.com",
             "destination": "Krystal Hosting",
             "date": "2026-09-05 09:23:27"
+        },
+        {
+            "domain_name": "myguyshouston.com",
+            "destination": "Kinsta",
+            "date": "2026-09-05 09:21:17"
         },
         {
             "domain_name": "kaleidografik.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.lgnetworks.co.uk",
             "destination": "Kinsta",
             "date": "2026-09-04 08:46:31"
-        },
-        {
-            "domain_name": "www.cosector.com",
-            "destination": "Kinsta",
-            "date": "2026-09-04 08:25:24"
-        },
-        {
-            "domain_name": "homecomfortservices.net",
-            "destination": "Kinsta",
-            "date": "2026-09-04 08:10:57"
         }
     ],
     "dailyMovedStat": {
@@ -1220,7 +1220,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14738,
-        "Kinsta": 12016,
+        "Kinsta": 12018,
         "Digital Ocean": 7516,
         "Hostinger": 5959,
         "SiteGround": 5739,
