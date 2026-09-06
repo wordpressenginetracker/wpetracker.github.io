@@ -1,6 +1,11 @@
 {
-    "siteCount": 171130,
+    "siteCount": 171135,
     "recentlyMoved": [
+        {
+            "domain_name": "lakecountrytribune.com",
+            "destination": "Kinsta",
+            "date": "2026-09-06 20:41:44"
+        },
         {
             "domain_name": "indconmaintenance.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "mchapusa.com",
             "destination": "Digital Ocean",
             "date": "2026-09-05 08:49:14"
-        },
-        {
-            "domain_name": "daoprize.org",
-            "destination": "Kinsta",
-            "date": "2026-09-05 08:44:57"
         },
         {
             "domain_name": "yaf.org",
@@ -1221,7 +1221,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14791,
-        "Kinsta": 12032,
+        "Kinsta": 12033,
         "Digital Ocean": 7525,
         "Hostinger": 5966,
         "SiteGround": 5739,
