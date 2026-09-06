@@ -1,6 +1,21 @@
 {
-    "siteCount": 171031,
+    "siteCount": 171037,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mickeynews.com",
+            "destination": "Hostinger",
+            "date": "2026-09-06 00:44:58"
+        },
+        {
+            "domain_name": "landnowgo.com",
+            "destination": "Namecheap",
+            "date": "2026-09-06 00:32:34"
+        },
+        {
+            "domain_name": "jenniferottconsulting.com",
+            "destination": "Kinsta",
+            "date": "2026-09-06 00:15:12"
+        },
         {
             "domain_name": "republicangovernance.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "nccbuilders.com",
             "destination": "Liquid Web",
             "date": "2026-09-04 21:23:57"
-        },
-        {
-            "domain_name": "trekkproperties.com",
-            "destination": "Liquid Web",
-            "date": "2026-09-04 21:23:14"
-        },
-        {
-            "domain_name": "diabetesinsider.com",
-            "destination": "Bluehost",
-            "date": "2026-09-04 21:07:57"
-        },
-        {
-            "domain_name": "timelapsebox.no",
-            "destination": "Hostinger",
-            "date": "2026-09-04 21:01:02"
         }
     ],
     "dailyMovedStat": {
@@ -1221,16 +1221,16 @@
     },
     "topDestinationHosts": {
         "Pressable": 14789,
-        "Kinsta": 12030,
+        "Kinsta": 12031,
         "Digital Ocean": 7519,
-        "Hostinger": 5964,
+        "Hostinger": 5965,
         "SiteGround": 5739,
         "Bluehost": 4780,
         "GoDaddy": 1870,
         "BigScoots": 1028,
         "Liquid Web": 950,
         "WordPress.com": 816,
-        "Namecheap": 801,
+        "Namecheap": 802,
         "OVH": 743,
         "GridPane": 740,
         "InMotion Hosting": 611,
