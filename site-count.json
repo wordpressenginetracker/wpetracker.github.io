@@ -1,6 +1,11 @@
 {
-    "siteCount": 171051,
+    "siteCount": 171056,
     "recentlyMoved": [
+        {
+            "domain_name": "tdkfoodlink.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-06 08:35:45"
+        },
         {
             "domain_name": "vistasandssolar.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "bollywoodprime.net",
             "destination": "Bluehost",
             "date": "2026-09-05 00:00:30"
-        },
-        {
-            "domain_name": "nccbuilders.com",
-            "destination": "Liquid Web",
-            "date": "2026-09-04 21:23:57"
         }
     ],
     "dailyMovedStat": {
@@ -1222,7 +1222,7 @@
     "topDestinationHosts": {
         "Pressable": 14789,
         "Kinsta": 12032,
-        "Digital Ocean": 7520,
+        "Digital Ocean": 7521,
         "Hostinger": 5965,
         "SiteGround": 5739,
         "Bluehost": 4780,
