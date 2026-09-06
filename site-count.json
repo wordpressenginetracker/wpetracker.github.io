@@ -1,6 +1,16 @@
 {
-    "siteCount": 171110,
+    "siteCount": 171130,
     "recentlyMoved": [
+        {
+            "domain_name": "indconmaintenance.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-06 19:54:30"
+        },
+        {
+            "domain_name": "globalhopenetwork.org",
+            "destination": "Digital Ocean",
+            "date": "2026-09-06 19:36:24"
+        },
         {
             "domain_name": "corporate.growingbolder.com",
             "destination": "Pressable",
@@ -472,11 +482,6 @@
             "date": "2026-09-05 09:21:17"
         },
         {
-            "domain_name": "maksealcoatingandservices.com",
-            "destination": "Namecheap",
-            "date": "2026-09-05 08:57:01"
-        },
-        {
             "domain_name": "desbio.com",
             "destination": "Kinsta",
             "date": "2026-09-05 08:55:20"
@@ -485,11 +490,6 @@
             "domain_name": "mchapusa.com",
             "destination": "Digital Ocean",
             "date": "2026-09-05 08:49:14"
-        },
-        {
-            "domain_name": "criminallawyerny.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-09-05 08:46:59"
         },
         {
             "domain_name": "daoprize.org",
@@ -1222,7 +1222,7 @@
     "topDestinationHosts": {
         "Pressable": 14791,
         "Kinsta": 12032,
-        "Digital Ocean": 7523,
+        "Digital Ocean": 7525,
         "Hostinger": 5966,
         "SiteGround": 5739,
         "Bluehost": 4780,
