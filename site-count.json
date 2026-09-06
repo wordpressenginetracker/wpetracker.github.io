@@ -1,6 +1,11 @@
 {
-    "siteCount": 171037,
+    "siteCount": 171039,
     "recentlyMoved": [
+        {
+            "domain_name": "vistasandssolar.com",
+            "destination": "Kinsta",
+            "date": "2026-09-06 01:37:20"
+        },
         {
             "domain_name": "www.mickeynews.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "bollywoodprime.net",
             "destination": "Bluehost",
             "date": "2026-09-05 00:00:30"
-        },
-        {
-            "domain_name": "elderlyliving.com",
-            "destination": "Bluehost",
-            "date": "2026-09-04 21:43:41"
         },
         {
             "domain_name": "nccbuilders.com",
@@ -1221,7 +1221,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14789,
-        "Kinsta": 12031,
+        "Kinsta": 12032,
         "Digital Ocean": 7519,
         "Hostinger": 5965,
         "SiteGround": 5739,
