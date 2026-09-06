@@ -1,6 +1,16 @@
 {
-    "siteCount": 171025,
+    "siteCount": 171031,
     "recentlyMoved": [
+        {
+            "domain_name": "republicangovernance.com",
+            "destination": "Kinsta",
+            "date": "2026-09-06 00:04:08"
+        },
+        {
+            "domain_name": "governingmajorityeducation.org",
+            "destination": "Kinsta",
+            "date": "2026-09-05 23:45:29"
+        },
         {
             "domain_name": "oianc.com",
             "destination": "Pressable",
@@ -487,19 +497,9 @@
             "date": "2026-09-04 21:07:57"
         },
         {
-            "domain_name": "kunnskapshuset.com",
-            "destination": "Hostinger",
-            "date": "2026-09-04 21:06:06"
-        },
-        {
             "domain_name": "timelapsebox.no",
             "destination": "Hostinger",
             "date": "2026-09-04 21:01:02"
-        },
-        {
-            "domain_name": "sunraytint.com",
-            "destination": "Hostinger",
-            "date": "2026-09-04 20:27:52"
         }
     ],
     "dailyMovedStat": {
@@ -1221,7 +1221,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14789,
-        "Kinsta": 12028,
+        "Kinsta": 12030,
         "Digital Ocean": 7519,
         "Hostinger": 5964,
         "SiteGround": 5739,
