@@ -1,5 +1,5 @@
 {
-    "siteCount": 171178,
+    "siteCount": 171183,
     "recentlyMoved": [
         {
             "domain_name": "mckinneyins.net",
@@ -10,6 +10,11 @@
             "domain_name": "dayofthetread.com",
             "destination": "Pressable",
             "date": "2026-09-07 01:24:32"
+        },
+        {
+            "domain_name": "eveins.com",
+            "destination": "Pressable",
+            "date": "2026-09-07 01:19:42"
         },
         {
             "domain_name": "diligentinsurancegroup.com",
@@ -490,11 +495,6 @@
             "domain_name": "jeffwilliamsoninsurance.com",
             "destination": "Pressable",
             "date": "2026-09-05 12:10:52"
-        },
-        {
-            "domain_name": "heritage-agency.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 11:53:02"
         },
         {
             "domain_name": "www.inssavers.com",
@@ -1221,7 +1221,7 @@
         "2026-09-06": "171137"
     },
     "topDestinationHosts": {
-        "Pressable": 14797,
+        "Pressable": 14798,
         "Kinsta": 12033,
         "Digital Ocean": 7525,
         "Hostinger": 5966,
