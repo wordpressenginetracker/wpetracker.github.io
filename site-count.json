@@ -1,6 +1,21 @@
 {
-    "siteCount": 171514,
+    "siteCount": 171541,
     "recentlyMoved": [
+        {
+            "domain_name": "www.kloetzelandco.com",
+            "destination": "Pressable",
+            "date": "2026-09-08 20:23:25"
+        },
+        {
+            "domain_name": "www.chanje.org",
+            "destination": "Namecheap",
+            "date": "2026-09-08 20:14:01"
+        },
+        {
+            "domain_name": "alca4u.com",
+            "destination": "Hostinger",
+            "date": "2026-09-08 19:35:19"
+        },
         {
             "domain_name": "visitthereach.us",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "praetorum.com",
             "destination": "Kinsta",
             "date": "2026-09-05 19:30:07"
-        },
-        {
-            "domain_name": "onwisconsinpac.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:23:11"
-        },
-        {
-            "domain_name": "mava.us",
-            "destination": "Kinsta",
-            "date": "2026-09-05 17:28:18"
-        },
-        {
-            "domain_name": "theiconedit.ca",
-            "destination": "DreamHost",
-            "date": "2026-09-05 17:03:54"
         }
     ],
     "dailyMovedStat": {
@@ -1222,17 +1222,17 @@
         "2026-09-07": "171336"
     },
     "topDestinationHosts": {
-        "Pressable": 14806,
+        "Pressable": 14808,
         "Kinsta": 12048,
-        "Digital Ocean": 7528,
-        "Hostinger": 5972,
+        "Digital Ocean": 7529,
+        "Hostinger": 5973,
         "SiteGround": 5739,
         "Bluehost": 4781,
         "GoDaddy": 1888,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 817,
-        "Namecheap": 806,
+        "Namecheap": 807,
         "OVH": 746,
         "GridPane": 741,
         "InMotion Hosting": 612,
