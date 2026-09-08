@@ -1,6 +1,31 @@
 {
-    "siteCount": 171457,
+    "siteCount": 171476,
     "recentlyMoved": [
+        {
+            "domain_name": "www.mvtla.net",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 12:57:56"
+        },
+        {
+            "domain_name": "jkcello.com",
+            "destination": "Pressable",
+            "date": "2026-09-08 12:33:30"
+        },
+        {
+            "domain_name": "sodium-hydrosulphite.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 12:27:24"
+        },
+        {
+            "domain_name": "www.mountainbug.com",
+            "destination": "Kinsta",
+            "date": "2026-09-08 12:14:42"
+        },
+        {
+            "domain_name": "jerryspizzaanddeli.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 12:10:48"
+        },
         {
             "domain_name": "www.fusion-inc.com",
             "destination": "GoDaddy",
@@ -475,31 +500,6 @@
             "domain_name": "www.maglebysfresh.com",
             "destination": "Kinsta",
             "date": "2026-09-05 15:24:22"
-        },
-        {
-            "domain_name": "orchestratedinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 15:20:53"
-        },
-        {
-            "domain_name": "newmantucker.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 13:57:09"
-        },
-        {
-            "domain_name": "onestreetinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 13:50:53"
-        },
-        {
-            "domain_name": "oliverfinancials.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 13:49:42"
-        },
-        {
-            "domain_name": "oconnellins.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 13:43:53"
         }
     ],
     "dailyMovedStat": {
@@ -1222,13 +1222,13 @@
         "2026-09-07": "171336"
     },
     "topDestinationHosts": {
-        "Pressable": 14805,
-        "Kinsta": 12046,
+        "Pressable": 14806,
+        "Kinsta": 12047,
         "Digital Ocean": 7528,
         "Hostinger": 5971,
         "SiteGround": 5739,
         "Bluehost": 4780,
-        "GoDaddy": 1880,
+        "GoDaddy": 1883,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 816,
