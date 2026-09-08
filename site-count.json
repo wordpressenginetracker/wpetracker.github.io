@@ -1,6 +1,21 @@
 {
-    "siteCount": 171442,
+    "siteCount": 171457,
     "recentlyMoved": [
+        {
+            "domain_name": "www.fusion-inc.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 11:51:38"
+        },
+        {
+            "domain_name": "aanda.com",
+            "destination": "Hostinger",
+            "date": "2026-09-08 11:35:23"
+        },
+        {
+            "domain_name": "fusehavering.com",
+            "destination": "Kinsta",
+            "date": "2026-09-08 11:15:25"
+        },
         {
             "domain_name": "farflungjourneys.com",
             "destination": "Namecheap",
@@ -472,11 +487,6 @@
             "date": "2026-09-05 13:57:09"
         },
         {
-            "domain_name": "emersonnjdemocrats.com",
-            "destination": "Namecheap",
-            "date": "2026-09-05 13:52:22"
-        },
-        {
             "domain_name": "onestreetinsurance.com",
             "destination": "Pressable",
             "date": "2026-09-05 13:50:53"
@@ -490,16 +500,6 @@
             "domain_name": "oconnellins.com",
             "destination": "Pressable",
             "date": "2026-09-05 13:43:53"
-        },
-        {
-            "domain_name": "mytailoredinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 13:41:02"
-        },
-        {
-            "domain_name": "vanschneider.com",
-            "destination": "Hostinger",
-            "date": "2026-09-05 13:33:29"
         }
     ],
     "dailyMovedStat": {
@@ -1223,12 +1223,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 14805,
-        "Kinsta": 12045,
+        "Kinsta": 12046,
         "Digital Ocean": 7528,
-        "Hostinger": 5970,
+        "Hostinger": 5971,
         "SiteGround": 5739,
         "Bluehost": 4780,
-        "GoDaddy": 1879,
+        "GoDaddy": 1880,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 816,
