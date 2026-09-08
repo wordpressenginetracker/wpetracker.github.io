@@ -1,6 +1,31 @@
 {
-    "siteCount": 171485,
+    "siteCount": 171496,
     "recentlyMoved": [
+        {
+            "domain_name": "russelogo.no",
+            "destination": "Hetzner Online",
+            "date": "2026-09-08 16:30:52"
+        },
+        {
+            "domain_name": "www.causticpotash.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 16:14:28"
+        },
+        {
+            "domain_name": "bettermencoaching.com",
+            "destination": "Bluehost",
+            "date": "2026-09-08 16:04:35"
+        },
+        {
+            "domain_name": "aluminium-fluoride.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 16:04:24"
+        },
+        {
+            "domain_name": "www.advancedprofessionalsecurity.com",
+            "destination": "Kinsta",
+            "date": "2026-09-08 16:00:07"
+        },
         {
             "domain_name": "ohiostenographers.com",
             "destination": "GoDaddy",
@@ -462,11 +487,6 @@
             "date": "2026-09-05 16:47:34"
         },
         {
-            "domain_name": "www.mmains.net",
-            "destination": "Pressable",
-            "date": "2026-09-05 16:36:17"
-        },
-        {
             "domain_name": "leopoldsalon.com",
             "destination": "Pressable",
             "date": "2026-09-05 16:34:59"
@@ -480,26 +500,6 @@
             "domain_name": "sunstoppersautowest.com",
             "destination": "Hostinger",
             "date": "2026-09-05 16:20:37"
-        },
-        {
-            "domain_name": "www.guttercap.com",
-            "destination": "IONOS",
-            "date": "2026-09-05 15:57:16"
-        },
-        {
-            "domain_name": "auroraelectrical.com.au",
-            "destination": "Hostinger",
-            "date": "2026-09-05 15:50:29"
-        },
-        {
-            "domain_name": "greateraircarespecialists.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-05 15:46:34"
-        },
-        {
-            "domain_name": "www.maglebysfresh.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 15:24:22"
         }
     ],
     "dailyMovedStat": {
@@ -1223,12 +1223,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 14806,
-        "Kinsta": 12047,
+        "Kinsta": 12048,
         "Digital Ocean": 7528,
         "Hostinger": 5971,
         "SiteGround": 5739,
-        "Bluehost": 4780,
-        "GoDaddy": 1884,
+        "Bluehost": 4781,
+        "GoDaddy": 1886,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 816,
