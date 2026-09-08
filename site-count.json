@@ -1,6 +1,26 @@
 {
-    "siteCount": 171541,
+    "siteCount": 171552,
     "recentlyMoved": [
+        {
+            "domain_name": "mial.healthcare",
+            "destination": "Hostinger",
+            "date": "2026-09-08 21:41:58"
+        },
+        {
+            "domain_name": "m-body.ca",
+            "destination": "Pressable",
+            "date": "2026-09-08 20:58:43"
+        },
+        {
+            "domain_name": "www.sodiumgluconateasia.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-08 20:51:54"
+        },
+        {
+            "domain_name": "www.rufeiwang.com",
+            "destination": "WordPress.com",
+            "date": "2026-09-08 20:28:29"
+        },
         {
             "domain_name": "www.kloetzelandco.com",
             "destination": "Pressable",
@@ -457,11 +477,6 @@
             "date": "2026-09-05 20:41:59"
         },
         {
-            "domain_name": "pineridgedentalthedalles.com",
-            "destination": "Liquid Web",
-            "date": "2026-09-05 20:02:12"
-        },
-        {
             "domain_name": "baystreetpediatrics.com",
             "destination": "DreamHost",
             "date": "2026-09-05 20:01:59"
@@ -472,19 +487,9 @@
             "date": "2026-09-05 19:59:05"
         },
         {
-            "domain_name": "wilsonwellsadvisory.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:58:04"
-        },
-        {
             "domain_name": "www.madisonclassics.com",
             "destination": "Pressable",
             "date": "2026-09-05 19:54:35"
-        },
-        {
-            "domain_name": "r3mgo.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:45:10"
         },
         {
             "domain_name": "homecrewadvantage.com",
@@ -495,11 +500,6 @@
             "domain_name": "helpingahero.org",
             "destination": "Kinsta",
             "date": "2026-09-05 19:33:06"
-        },
-        {
-            "domain_name": "praetorum.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:30:07"
         }
     ],
     "dailyMovedStat": {
@@ -1222,16 +1222,16 @@
         "2026-09-07": "171336"
     },
     "topDestinationHosts": {
-        "Pressable": 14808,
+        "Pressable": 14809,
         "Kinsta": 12048,
         "Digital Ocean": 7529,
         "Hostinger": 5973,
         "SiteGround": 5739,
         "Bluehost": 4781,
-        "GoDaddy": 1888,
+        "GoDaddy": 1889,
         "BigScoots": 1030,
         "Liquid Web": 951,
-        "WordPress.com": 817,
+        "WordPress.com": 818,
         "Namecheap": 807,
         "OVH": 746,
         "GridPane": 741,
