@@ -1,6 +1,36 @@
 {
-    "siteCount": 171601,
+    "siteCount": 171616,
     "recentlyMoved": [
+        {
+            "domain_name": "www.doirepress.com",
+            "destination": "Kinsta",
+            "date": "2026-09-09 08:17:27"
+        },
+        {
+            "domain_name": "allweatherhc.com",
+            "destination": "Kinsta",
+            "date": "2026-09-09 08:01:12"
+        },
+        {
+            "domain_name": "allfourseasons.com",
+            "destination": "Kinsta",
+            "date": "2026-09-09 08:01:12"
+        },
+        {
+            "domain_name": "www.allklearplumbingheatingandcooling.com",
+            "destination": "Kinsta",
+            "date": "2026-09-09 08:00:58"
+        },
+        {
+            "domain_name": "www.allcomfortservices.com",
+            "destination": "Kinsta",
+            "date": "2026-09-09 08:00:58"
+        },
+        {
+            "domain_name": "www.alphapinene.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-09 07:29:13"
+        },
         {
             "domain_name": "lcap.ics.sas.ac.uk",
             "destination": "Kinsta",
@@ -470,36 +500,6 @@
             "domain_name": "indconinc.com",
             "destination": "Digital Ocean",
             "date": "2026-09-06 12:05:20"
-        },
-        {
-            "domain_name": "www.aquamarinabeachclub.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-06 11:17:47"
-        },
-        {
-            "domain_name": "tdkfoodlink.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-06 08:35:45"
-        },
-        {
-            "domain_name": "vistasandssolar.com",
-            "destination": "Kinsta",
-            "date": "2026-09-06 01:37:20"
-        },
-        {
-            "domain_name": "www.mickeynews.com",
-            "destination": "Hostinger",
-            "date": "2026-09-06 00:44:58"
-        },
-        {
-            "domain_name": "landnowgo.com",
-            "destination": "Namecheap",
-            "date": "2026-09-06 00:32:34"
-        },
-        {
-            "domain_name": "jenniferottconsulting.com",
-            "destination": "Kinsta",
-            "date": "2026-09-06 00:15:12"
         }
     ],
     "dailyMovedStat": {
@@ -1224,12 +1224,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 14811,
-        "Kinsta": 12052,
+        "Kinsta": 12057,
         "Digital Ocean": 7530,
         "Hostinger": 5976,
         "SiteGround": 5739,
         "Bluehost": 4782,
-        "GoDaddy": 1889,
+        "GoDaddy": 1890,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 818,
