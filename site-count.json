@@ -1,6 +1,26 @@
 {
-    "siteCount": 171563,
+    "siteCount": 171573,
     "recentlyMoved": [
+        {
+            "domain_name": "methodandmatte.com",
+            "destination": "OVH",
+            "date": "2026-09-09 01:10:59"
+        },
+        {
+            "domain_name": "mcwebstudio.ca",
+            "destination": "Hostinger",
+            "date": "2026-09-09 00:57:19"
+        },
+        {
+            "domain_name": "www.naea.org",
+            "destination": "Kinsta",
+            "date": "2026-09-09 00:47:49"
+        },
+        {
+            "domain_name": "jakoblegal.com",
+            "destination": "Pressable",
+            "date": "2026-09-09 00:41:46"
+        },
         {
             "domain_name": "mial.healthcare",
             "destination": "Hostinger",
@@ -480,26 +500,6 @@
             "domain_name": "jwinsurance.com",
             "destination": "Pressable",
             "date": "2026-09-05 20:41:59"
-        },
-        {
-            "domain_name": "baystreetpediatrics.com",
-            "destination": "DreamHost",
-            "date": "2026-09-05 20:01:59"
-        },
-        {
-            "domain_name": "www.madisonclassics.com",
-            "destination": "Pressable",
-            "date": "2026-09-05 19:54:35"
-        },
-        {
-            "domain_name": "homecrewadvantage.com",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:38:25"
-        },
-        {
-            "domain_name": "helpingahero.org",
-            "destination": "Kinsta",
-            "date": "2026-09-05 19:33:06"
         }
     ],
     "dailyMovedStat": {
@@ -1223,10 +1223,10 @@
         "2026-09-08": "171557"
     },
     "topDestinationHosts": {
-        "Pressable": 14809,
-        "Kinsta": 12048,
+        "Pressable": 14810,
+        "Kinsta": 12049,
         "Digital Ocean": 7530,
-        "Hostinger": 5974,
+        "Hostinger": 5975,
         "SiteGround": 5739,
         "Bluehost": 4781,
         "GoDaddy": 1889,
