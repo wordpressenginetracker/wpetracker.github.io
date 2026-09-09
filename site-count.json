@@ -1,6 +1,16 @@
 {
-    "siteCount": 171591,
+    "siteCount": 171601,
     "recentlyMoved": [
+        {
+            "domain_name": "lcap.ics.sas.ac.uk",
+            "destination": "Kinsta",
+            "date": "2026-09-09 05:05:27"
+        },
+        {
+            "domain_name": "demamarketing.com",
+            "destination": "Hostinger",
+            "date": "2026-09-09 04:47:54"
+        },
         {
             "domain_name": "rosatisfrozencustard.com",
             "destination": "Bluehost",
@@ -490,16 +500,6 @@
             "domain_name": "jenniferottconsulting.com",
             "destination": "Kinsta",
             "date": "2026-09-06 00:15:12"
-        },
-        {
-            "domain_name": "republicangovernance.com",
-            "destination": "Kinsta",
-            "date": "2026-09-06 00:04:08"
-        },
-        {
-            "domain_name": "governingmajorityeducation.org",
-            "destination": "Kinsta",
-            "date": "2026-09-05 23:45:29"
         }
     ],
     "dailyMovedStat": {
@@ -1224,9 +1224,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14811,
-        "Kinsta": 12051,
+        "Kinsta": 12052,
         "Digital Ocean": 7530,
-        "Hostinger": 5975,
+        "Hostinger": 5976,
         "SiteGround": 5739,
         "Bluehost": 4782,
         "GoDaddy": 1889,
