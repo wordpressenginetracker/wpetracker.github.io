@@ -1,6 +1,11 @@
 {
-    "siteCount": 171859,
+    "siteCount": 171870,
     "recentlyMoved": [
+        {
+            "domain_name": "americushotel.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-10 00:14:34"
+        },
         {
             "domain_name": "www.upperwestsidedentist.com",
             "destination": "HostGator",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "www.sodiumlactateasia.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-08 05:07:06"
-        },
-        {
-            "domain_name": "www.sodium-metabisulphite.com",
             "destination": "GoDaddy",
             "date": "2026-09-08 05:07:06"
         }
@@ -1226,7 +1226,7 @@
     "topDestinationHosts": {
         "Pressable": 14817,
         "Kinsta": 12067,
-        "Digital Ocean": 7533,
+        "Digital Ocean": 7534,
         "Hostinger": 5983,
         "SiteGround": 5739,
         "Bluehost": 4789,
@@ -1240,7 +1240,7 @@
         "InMotion Hosting": 614,
         "IONOS": 579,
         "Elementor Hosting": 570,
-        "DreamHost": 558,
+        "DreamHost": 559,
         "Hetzner Online": 502,
         "A2 Hosting": 478,
         "HostGator": 371
