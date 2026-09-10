@@ -1,6 +1,11 @@
 {
-    "siteCount": 171904,
+    "siteCount": 171906,
     "recentlyMoved": [
+        {
+            "domain_name": "drpoo.com",
+            "destination": "Hostinger",
+            "date": "2026-09-10 05:43:41"
+        },
         {
             "domain_name": "destinywanamakerphotography.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "fusehavering.com",
             "destination": "Kinsta",
             "date": "2026-09-08 11:15:25"
-        },
-        {
-            "domain_name": "farflungjourneys.com",
-            "destination": "Namecheap",
-            "date": "2026-09-08 09:44:57"
         }
     ],
     "dailyMovedStat": {
@@ -1227,7 +1227,7 @@
         "Pressable": 14819,
         "Kinsta": 12069,
         "Digital Ocean": 7535,
-        "Hostinger": 5983,
+        "Hostinger": 5984,
         "SiteGround": 5739,
         "Bluehost": 4790,
         "GoDaddy": 1894,
