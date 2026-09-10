@@ -1,6 +1,36 @@
 {
-    "siteCount": 171878,
+    "siteCount": 171892,
     "recentlyMoved": [
+        {
+            "domain_name": "www.grantjarrett.com",
+            "destination": "Pressable",
+            "date": "2026-09-10 04:36:22"
+        },
+        {
+            "domain_name": "graphicideals.com",
+            "destination": "Pressable",
+            "date": "2026-09-10 04:18:38"
+        },
+        {
+            "domain_name": "www.medalliondepot.com",
+            "destination": "Bluehost",
+            "date": "2026-09-10 04:04:14"
+        },
+        {
+            "domain_name": "perks.imagen-ai.com",
+            "destination": "Hetzner Online",
+            "date": "2026-09-10 03:40:14"
+        },
+        {
+            "domain_name": "andersonheating.net",
+            "destination": "Kinsta",
+            "date": "2026-09-10 03:33:36"
+        },
+        {
+            "domain_name": "arceheatingandac.com",
+            "destination": "Kinsta",
+            "date": "2026-09-10 03:30:53"
+        },
         {
             "domain_name": "eastsidedesignbuild.com",
             "destination": "GoDaddy",
@@ -467,39 +497,9 @@
             "date": "2026-09-08 08:40:44"
         },
         {
-            "domain_name": "www.acwarehouse.com",
-            "destination": "Kinsta",
-            "date": "2026-09-08 07:38:30"
-        },
-        {
-            "domain_name": "www.ableplumbingsolutions.com",
-            "destination": "Kinsta",
-            "date": "2026-09-08 07:38:30"
-        },
-        {
             "domain_name": "www.sodium-hypochlorite.com",
             "destination": "GoDaddy",
             "date": "2026-09-08 07:27:58"
-        },
-        {
-            "domain_name": "affordableservicesolutions.com",
-            "destination": "Kinsta",
-            "date": "2026-09-08 07:23:50"
-        },
-        {
-            "domain_name": "afckc.com",
-            "destination": "Kinsta",
-            "date": "2026-09-08 07:23:50"
-        },
-        {
-            "domain_name": "entscottsdale.com",
-            "destination": "Pressable",
-            "date": "2026-09-08 05:59:04"
-        },
-        {
-            "domain_name": "www.triglav-digital.com",
-            "destination": "Hostinger",
-            "date": "2026-09-08 05:09:20"
         }
     ],
     "dailyMovedStat": {
@@ -1224,12 +1224,12 @@
         "2026-09-09": "171859"
     },
     "topDestinationHosts": {
-        "Pressable": 14817,
-        "Kinsta": 12067,
+        "Pressable": 14819,
+        "Kinsta": 12069,
         "Digital Ocean": 7534,
         "Hostinger": 5983,
         "SiteGround": 5739,
-        "Bluehost": 4789,
+        "Bluehost": 4790,
         "GoDaddy": 1894,
         "BigScoots": 1030,
         "Liquid Web": 951,
@@ -1241,7 +1241,7 @@
         "IONOS": 579,
         "Elementor Hosting": 570,
         "DreamHost": 559,
-        "Hetzner Online": 502,
+        "Hetzner Online": 503,
         "A2 Hosting": 478,
         "HostGator": 371
     },
