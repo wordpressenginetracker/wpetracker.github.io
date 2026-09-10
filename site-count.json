@@ -1,6 +1,11 @@
 {
-    "siteCount": 171874,
+    "siteCount": 171878,
     "recentlyMoved": [
+        {
+            "domain_name": "eastsidedesignbuild.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-10 01:25:22"
+        },
         {
             "domain_name": "americushotel.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.triglav-digital.com",
             "destination": "Hostinger",
             "date": "2026-09-08 05:09:20"
-        },
-        {
-            "domain_name": "www.sodiumlactateasia.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-08 05:07:06"
         }
     ],
     "dailyMovedStat": {
@@ -1230,7 +1230,7 @@
         "Hostinger": 5983,
         "SiteGround": 5739,
         "Bluehost": 4789,
-        "GoDaddy": 1893,
+        "GoDaddy": 1894,
         "BigScoots": 1030,
         "Liquid Web": 951,
         "WordPress.com": 818,
