@@ -1,6 +1,11 @@
 {
-    "siteCount": 171939,
+    "siteCount": 171942,
     "recentlyMoved": [
+        {
+            "domain_name": "vfcadvisors.com",
+            "destination": "Pressable",
+            "date": "2026-09-10 09:55:30"
+        },
         {
             "domain_name": "libbysuephotography.com",
             "destination": "BigScoots",
@@ -490,11 +495,6 @@
             "domain_name": "russelogo.no",
             "destination": "Hetzner Online",
             "date": "2026-09-08 16:30:52"
-        },
-        {
-            "domain_name": "www.causticpotash.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-08 16:14:28"
         },
         {
             "domain_name": "bettermencoaching.com",
@@ -1224,7 +1224,7 @@
         "2026-09-09": "171859"
     },
     "topDestinationHosts": {
-        "Pressable": 14819,
+        "Pressable": 14820,
         "Kinsta": 12081,
         "Digital Ocean": 7535,
         "Hostinger": 5984,
