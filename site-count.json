@@ -1,6 +1,11 @@
 {
-    "siteCount": 172237,
+    "siteCount": 172244,
     "recentlyMoved": [
+        {
+            "domain_name": "visionexpo.design",
+            "destination": "GoDaddy",
+            "date": "2026-09-11 09:46:11"
+        },
         {
             "domain_name": "designovations.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "vfcadvisors.com",
             "destination": "Pressable",
             "date": "2026-09-10 09:55:30"
-        },
-        {
-            "domain_name": "www.theglenside.ie",
-            "destination": "Kinsta",
-            "date": "2026-09-10 09:10:54"
         },
         {
             "domain_name": "www.vdminc.com",
@@ -1228,10 +1228,10 @@
         "Pressable": 14874,
         "Kinsta": 12105,
         "Digital Ocean": 7542,
-        "Hostinger": 5989,
+        "Hostinger": 5990,
         "SiteGround": 5739,
         "Bluehost": 4790,
-        "GoDaddy": 1895,
+        "GoDaddy": 1896,
         "BigScoots": 1034,
         "Liquid Web": 951,
         "WordPress.com": 819,
