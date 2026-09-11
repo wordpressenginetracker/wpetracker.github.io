@@ -1,6 +1,11 @@
 {
-    "siteCount": 172176,
+    "siteCount": 172182,
     "recentlyMoved": [
+        {
+            "domain_name": "www.randleshotels.com",
+            "destination": "Kinsta",
+            "date": "2026-09-11 00:50:05"
+        },
         {
             "domain_name": "pinecrestvetonline.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "www.medalliondepot.com",
             "destination": "Bluehost",
             "date": "2026-09-10 04:04:14"
-        },
-        {
-            "domain_name": "andersonheating.net",
-            "destination": "Kinsta",
-            "date": "2026-09-10 03:33:36"
         },
         {
             "domain_name": "arceheatingandac.com",
@@ -1226,7 +1226,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14873,
-        "Kinsta": 12092,
+        "Kinsta": 12093,
         "Digital Ocean": 7540,
         "Hostinger": 5989,
         "SiteGround": 5739,
