@@ -1,6 +1,11 @@
 {
-    "siteCount": 172192,
+    "siteCount": 172201,
     "recentlyMoved": [
+        {
+            "domain_name": "lamarcosystems.com",
+            "destination": "Kinsta",
+            "date": "2026-09-11 04:41:16"
+        },
         {
             "domain_name": "www.growthpartnersaz.org",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.perthcitydental.com.au",
             "destination": "Digital Ocean",
             "date": "2026-09-10 04:23:29"
-        },
-        {
-            "domain_name": "arceheatingandac.com",
-            "destination": "Kinsta",
-            "date": "2026-09-10 03:30:53"
         }
     ],
     "dailyMovedStat": {
@@ -1226,7 +1226,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14874,
-        "Kinsta": 12094,
+        "Kinsta": 12095,
         "Digital Ocean": 7540,
         "Hostinger": 5989,
         "SiteGround": 5739,
