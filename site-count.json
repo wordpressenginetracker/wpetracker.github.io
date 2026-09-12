@@ -1,10 +1,25 @@
 {
-    "siteCount": 172597,
+    "siteCount": 172605,
     "recentlyMoved": [
+        {
+            "domain_name": "websitemojo.net",
+            "destination": "Kinsta",
+            "date": "2026-09-12 14:02:39"
+        },
         {
             "domain_name": "zychemltd.com",
             "destination": "InMotion Hosting",
             "date": "2026-09-12 13:37:10"
+        },
+        {
+            "domain_name": "vieengineers.com",
+            "destination": "Kinsta",
+            "date": "2026-09-12 13:25:29"
+        },
+        {
+            "domain_name": "mtnstatesins.com",
+            "destination": "Pressable",
+            "date": "2026-09-12 13:21:03"
         },
         {
             "domain_name": "kenpartain.com",
@@ -485,21 +500,6 @@
             "domain_name": "www.avakianinsurance.com",
             "destination": "Pressable",
             "date": "2026-09-11 11:37:29"
-        },
-        {
-            "domain_name": "visionexpo.design",
-            "destination": "GoDaddy",
-            "date": "2026-09-11 09:46:11"
-        },
-        {
-            "domain_name": "dorra-developments.com",
-            "destination": "Hostinger",
-            "date": "2026-09-11 09:35:07"
-        },
-        {
-            "domain_name": "medxpress.pro",
-            "destination": "GoDaddy",
-            "date": "2026-09-11 09:20:39"
         }
     ],
     "dailyMovedStat": {
@@ -1226,8 +1226,8 @@
         "2026-09-11": "172453"
     },
     "topDestinationHosts": {
-        "Pressable": 14891,
-        "Kinsta": 12143,
+        "Pressable": 14892,
+        "Kinsta": 12145,
         "Digital Ocean": 7550,
         "Hostinger": 6001,
         "SiteGround": 5739,
