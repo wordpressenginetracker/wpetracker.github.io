@@ -1,6 +1,21 @@
 {
-    "siteCount": 172508,
+    "siteCount": 172511,
     "recentlyMoved": [
+        {
+            "domain_name": "ebmyoga.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-12 05:48:16"
+        },
+        {
+            "domain_name": "nationales.ca",
+            "destination": "Hostinger",
+            "date": "2026-09-12 05:44:32"
+        },
+        {
+            "domain_name": "muffinbreak.com.au",
+            "destination": "Kinsta",
+            "date": "2026-09-12 05:36:04"
+        },
         {
             "domain_name": "displayglassart.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "lakelandescaperoom.com",
             "destination": "Namecheap",
             "date": "2026-09-10 20:28:22"
-        },
-        {
-            "domain_name": "physiolife.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-09-10 20:02:06"
-        },
-        {
-            "domain_name": "alpsrx.com",
-            "destination": "Kinsta",
-            "date": "2026-09-10 19:47:22"
-        },
-        {
-            "domain_name": "www.applegatehomecare.com",
-            "destination": "Kinsta",
-            "date": "2026-09-10 19:32:46"
         }
     ],
     "dailyMovedStat": {
@@ -1227,9 +1227,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 14889,
-        "Kinsta": 12137,
-        "Digital Ocean": 7549,
-        "Hostinger": 5995,
+        "Kinsta": 12138,
+        "Digital Ocean": 7550,
+        "Hostinger": 5996,
         "SiteGround": 5739,
         "Bluehost": 4795,
         "GoDaddy": 1900,
