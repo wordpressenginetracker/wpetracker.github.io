@@ -1,6 +1,26 @@
 {
-    "siteCount": 172453,
+    "siteCount": 172466,
     "recentlyMoved": [
+        {
+            "domain_name": "propacificbuilders.com",
+            "destination": "Kinsta",
+            "date": "2026-09-12 00:22:22"
+        },
+        {
+            "domain_name": "wirealtorspoliticalfund.com",
+            "destination": "Kinsta",
+            "date": "2026-09-11 23:31:46"
+        },
+        {
+            "domain_name": "wirealtorsadvocacy.com",
+            "destination": "Kinsta",
+            "date": "2026-09-11 23:31:46"
+        },
+        {
+            "domain_name": "frasershipyards.com",
+            "destination": "Kinsta",
+            "date": "2026-09-11 23:23:18"
+        },
         {
             "domain_name": "triviumpoint.com",
             "destination": "InMotion Hosting",
@@ -477,29 +497,9 @@
             "date": "2026-09-10 15:38:15"
         },
         {
-            "domain_name": "whinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-10 15:30:12"
-        },
-        {
             "domain_name": "workmanis.com",
             "destination": "Pressable",
             "date": "2026-09-10 15:22:07"
-        },
-        {
-            "domain_name": "forgottentrailscbd.com",
-            "destination": "Hostinger",
-            "date": "2026-09-10 15:13:13"
-        },
-        {
-            "domain_name": "westwaysinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-10 14:08:39"
-        },
-        {
-            "domain_name": "wesconnor.com",
-            "destination": "Pressable",
-            "date": "2026-09-10 13:35:30"
         }
     ],
     "dailyMovedStat": {
@@ -1227,7 +1227,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14887,
-        "Kinsta": 12127,
+        "Kinsta": 12131,
         "Digital Ocean": 7545,
         "Hostinger": 5994,
         "SiteGround": 5739,
