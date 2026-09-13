@@ -1,6 +1,11 @@
 {
-    "siteCount": 172742,
+    "siteCount": 172754,
     "recentlyMoved": [
+        {
+            "domain_name": "www.danemfg.com",
+            "destination": "Pressable",
+            "date": "2026-09-12 23:54:04"
+        },
         {
             "domain_name": "deborahbloomconsultants.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "uchd.net",
             "destination": "Bluehost",
             "date": "2026-09-11 13:11:27"
-        },
-        {
-            "domain_name": "davidhollington.co.uk",
-            "destination": "IONOS",
-            "date": "2026-09-11 12:49:33"
         }
     ],
     "dailyMovedStat": {
@@ -1227,7 +1227,7 @@
         "2026-09-12": "172742"
     },
     "topDestinationHosts": {
-        "Pressable": 14895,
+        "Pressable": 14896,
         "Kinsta": 12158,
         "Digital Ocean": 7551,
         "Hostinger": 6002,
