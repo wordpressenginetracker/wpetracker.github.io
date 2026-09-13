@@ -1,6 +1,11 @@
 {
-    "siteCount": 172800,
+    "siteCount": 172815,
     "recentlyMoved": [
+        {
+            "domain_name": "craiglpc.com",
+            "destination": "WordPress.com",
+            "date": "2026-09-13 12:46:03"
+        },
         {
             "domain_name": "mymermaidsoul.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "www.uwc-usa.org",
             "destination": "Pressable",
             "date": "2026-09-11 16:46:57"
-        },
-        {
-            "domain_name": "sunrisedocumentary.com",
-            "destination": "Bluehost",
-            "date": "2026-09-11 16:41:29"
         }
     ],
     "dailyMovedStat": {
@@ -1237,7 +1237,7 @@
         "BigScoots": 1039,
         "Liquid Web": 952,
         "Namecheap": 823,
-        "WordPress.com": 820,
+        "WordPress.com": 821,
         "OVH": 754,
         "GridPane": 742,
         "InMotion Hosting": 620,
