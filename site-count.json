@@ -1,6 +1,11 @@
 {
-    "siteCount": 172933,
+    "siteCount": 172940,
     "recentlyMoved": [
+        {
+            "domain_name": "jessiemodlinphotography.com",
+            "destination": "BigScoots",
+            "date": "2026-09-14 12:12:44"
+        },
         {
             "domain_name": "fromstcatharines.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "displayglassart.com",
             "destination": "Digital Ocean",
             "date": "2026-09-12 05:19:00"
-        },
-        {
-            "domain_name": "stca.biz",
-            "destination": "Digital Ocean",
-            "date": "2026-09-12 04:18:35"
         }
     ],
     "dailyMovedStat": {
@@ -1235,7 +1235,7 @@
         "SiteGround": 5739,
         "Bluehost": 4799,
         "GoDaddy": 1903,
-        "BigScoots": 1040,
+        "BigScoots": 1041,
         "Liquid Web": 953,
         "Namecheap": 827,
         "WordPress.com": 822,
