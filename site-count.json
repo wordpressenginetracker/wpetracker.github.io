@@ -1,6 +1,11 @@
 {
-    "siteCount": 172910,
+    "siteCount": 172919,
     "recentlyMoved": [
+        {
+            "domain_name": "www.naada.ca",
+            "destination": "Hostinger",
+            "date": "2026-09-14 04:27:34"
+        },
         {
             "domain_name": "valeriehalling.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "stca.biz",
             "destination": "Digital Ocean",
             "date": "2026-09-12 04:18:35"
-        },
-        {
-            "domain_name": "santafeimprov.org",
-            "destination": "WordPress.com",
-            "date": "2026-09-12 03:55:29"
         }
     ],
     "dailyMovedStat": {
@@ -1231,7 +1231,7 @@
         "Pressable": 14896,
         "Kinsta": 12159,
         "Digital Ocean": 7564,
-        "Hostinger": 6011,
+        "Hostinger": 6012,
         "SiteGround": 5739,
         "Bluehost": 4799,
         "GoDaddy": 1903,
