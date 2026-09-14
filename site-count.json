@@ -1,6 +1,11 @@
 {
-    "siteCount": 172957,
+    "siteCount": 172959,
     "recentlyMoved": [
+        {
+            "domain_name": "filmorecapital.com",
+            "destination": "Bluehost",
+            "date": "2026-09-14 17:56:39"
+        },
         {
             "domain_name": "jessiemodlinphotography.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "muffinbreak.com.au",
             "destination": "Kinsta",
             "date": "2026-09-12 05:36:04"
-        },
-        {
-            "domain_name": "displayglassart.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-12 05:19:00"
         }
     ],
     "dailyMovedStat": {
@@ -1233,7 +1233,7 @@
         "Digital Ocean": 7564,
         "Hostinger": 6012,
         "SiteGround": 5739,
-        "Bluehost": 4799,
+        "Bluehost": 4800,
         "GoDaddy": 1903,
         "BigScoots": 1041,
         "Liquid Web": 953,
