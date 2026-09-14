@@ -1,6 +1,11 @@
 {
-    "siteCount": 172886,
+    "siteCount": 172904,
     "recentlyMoved": [
+        {
+            "domain_name": "satyrentertainment.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-14 00:25:56"
+        },
         {
             "domain_name": "www.canlet.com",
             "destination": "Liquid Web",
@@ -490,11 +495,6 @@
             "domain_name": "stca.biz",
             "destination": "Digital Ocean",
             "date": "2026-09-12 04:18:35"
-        },
-        {
-            "domain_name": "www.jamaicablue.co.nz",
-            "destination": "Kinsta",
-            "date": "2026-09-12 04:14:10"
         },
         {
             "domain_name": "santafeimprov.org",
@@ -1230,7 +1230,7 @@
     "topDestinationHosts": {
         "Pressable": 14896,
         "Kinsta": 12159,
-        "Digital Ocean": 7563,
+        "Digital Ocean": 7564,
         "Hostinger": 6011,
         "SiteGround": 5739,
         "Bluehost": 4799,
