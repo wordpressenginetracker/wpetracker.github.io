@@ -1,6 +1,11 @@
 {
-    "siteCount": 172904,
+    "siteCount": 172909,
     "recentlyMoved": [
+        {
+            "domain_name": "valeriehalling.com",
+            "destination": "BigScoots",
+            "date": "2026-09-14 01:41:26"
+        },
         {
             "domain_name": "satyrentertainment.com",
             "destination": "Digital Ocean",
@@ -485,11 +490,6 @@
             "domain_name": "jamaicablue.com.au",
             "destination": "Kinsta",
             "date": "2026-09-12 04:35:52"
-        },
-        {
-            "domain_name": "bluewater-cooling.com",
-            "destination": "Kinsta",
-            "date": "2026-09-12 04:25:30"
         },
         {
             "domain_name": "stca.biz",
@@ -1235,7 +1235,7 @@
         "SiteGround": 5739,
         "Bluehost": 4799,
         "GoDaddy": 1903,
-        "BigScoots": 1039,
+        "BigScoots": 1040,
         "Liquid Web": 953,
         "Namecheap": 826,
         "WordPress.com": 822,
