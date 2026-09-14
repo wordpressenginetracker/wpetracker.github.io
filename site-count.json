@@ -1,6 +1,11 @@
 {
-    "siteCount": 172919,
+    "siteCount": 172924,
     "recentlyMoved": [
+        {
+            "domain_name": "fromstcatharines.com",
+            "destination": "Namecheap",
+            "date": "2026-09-14 08:01:11"
+        },
         {
             "domain_name": "www.naada.ca",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "displayglassart.com",
             "destination": "Digital Ocean",
             "date": "2026-09-12 05:19:00"
-        },
-        {
-            "domain_name": "jamaicablue.com.au",
-            "destination": "Kinsta",
-            "date": "2026-09-12 04:35:52"
         },
         {
             "domain_name": "stca.biz",
@@ -1237,7 +1237,7 @@
         "GoDaddy": 1903,
         "BigScoots": 1040,
         "Liquid Web": 953,
-        "Namecheap": 826,
+        "Namecheap": 827,
         "WordPress.com": 822,
         "OVH": 754,
         "GridPane": 742,
