@@ -1,6 +1,11 @@
 {
-    "siteCount": 173203,
+    "siteCount": 173211,
     "recentlyMoved": [
+        {
+            "domain_name": "msrco.com",
+            "destination": "WordPress.com",
+            "date": "2026-09-15 17:21:19"
+        },
         {
             "domain_name": "legalaction.wra.org",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "www.littlepolynesian.com",
             "destination": "Kinsta",
             "date": "2026-09-12 19:27:05"
-        },
-        {
-            "domain_name": "noengwks.com",
-            "destination": "Kinsta",
-            "date": "2026-09-12 17:15:36"
         }
     ],
     "dailyMovedStat": {
@@ -1239,7 +1239,7 @@
         "BigScoots": 1042,
         "Liquid Web": 954,
         "Namecheap": 830,
-        "WordPress.com": 823,
+        "WordPress.com": 824,
         "OVH": 755,
         "GridPane": 742,
         "InMotion Hosting": 622,
