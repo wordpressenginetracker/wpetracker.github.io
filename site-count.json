@@ -1,6 +1,11 @@
 {
-    "siteCount": 173082,
+    "siteCount": 173085,
     "recentlyMoved": [
+        {
+            "domain_name": "wapainmanage.org",
+            "destination": "Namecheap",
+            "date": "2026-09-15 09:43:27"
+        },
         {
             "domain_name": "melbourneartclass.com",
             "destination": "Digital Ocean",
@@ -480,11 +485,6 @@
             "domain_name": "citizenpictures.com",
             "destination": "DreamHost",
             "date": "2026-09-12 12:53:03"
-        },
-        {
-            "domain_name": "spel.villaskeppet.fi",
-            "destination": "Hetzner Online",
-            "date": "2026-09-12 12:49:55"
         },
         {
             "domain_name": "tactilelibrary.com",
@@ -1238,7 +1238,7 @@
         "GoDaddy": 1905,
         "BigScoots": 1042,
         "Liquid Web": 953,
-        "Namecheap": 829,
+        "Namecheap": 830,
         "WordPress.com": 823,
         "OVH": 754,
         "GridPane": 742,
