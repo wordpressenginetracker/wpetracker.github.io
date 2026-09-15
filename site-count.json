@@ -1,6 +1,16 @@
 {
-    "siteCount": 173053,
+    "siteCount": 173065,
     "recentlyMoved": [
+        {
+            "domain_name": "ball360.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-09-15 07:51:57"
+        },
+        {
+            "domain_name": "patobriensafety.com",
+            "destination": "Hostinger",
+            "date": "2026-09-15 07:29:14"
+        },
         {
             "domain_name": "bryantheatandair.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "artisticroofingllc.com",
             "destination": "Hostinger",
             "date": "2026-09-12 12:11:46"
-        },
-        {
-            "domain_name": "planswellportfolios.com",
-            "destination": "Namecheap",
-            "date": "2026-09-12 11:50:04"
-        },
-        {
-            "domain_name": "globalflighttrainingsolutions.com",
-            "destination": "Hostinger",
-            "date": "2026-09-12 11:40:36"
         }
     ],
     "dailyMovedStat": {
@@ -1231,8 +1231,8 @@
     "topDestinationHosts": {
         "Pressable": 14898,
         "Kinsta": 12161,
-        "Digital Ocean": 7569,
-        "Hostinger": 6013,
+        "Digital Ocean": 7570,
+        "Hostinger": 6014,
         "SiteGround": 5739,
         "Bluehost": 4800,
         "GoDaddy": 1905,
