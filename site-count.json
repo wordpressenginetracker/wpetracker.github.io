@@ -1,6 +1,11 @@
 {
-    "siteCount": 173277,
+    "siteCount": 173290,
     "recentlyMoved": [
+        {
+            "domain_name": "ascentialmedia.com",
+            "destination": "Namecheap",
+            "date": "2026-09-16 00:25:19"
+        },
         {
             "domain_name": "wardtreesurgeons.co.uk",
             "destination": "IONOS",
@@ -495,11 +500,6 @@
             "domain_name": "yogaforscoliosis.com",
             "destination": "Digital Ocean",
             "date": "2026-09-13 00:57:50"
-        },
-        {
-            "domain_name": "sunnymountain.ca",
-            "destination": "Digital Ocean",
-            "date": "2026-09-13 00:35:06"
         }
     ],
     "dailyMovedStat": {
@@ -1239,7 +1239,7 @@
         "GoDaddy": 1906,
         "BigScoots": 1044,
         "Liquid Web": 954,
-        "Namecheap": 830,
+        "Namecheap": 831,
         "WordPress.com": 825,
         "OVH": 755,
         "GridPane": 742,
