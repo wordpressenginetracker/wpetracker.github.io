@@ -1,6 +1,21 @@
 {
-    "siteCount": 173290,
+    "siteCount": 173300,
     "recentlyMoved": [
+        {
+            "domain_name": "www.virtusammo.com",
+            "destination": "Kinsta",
+            "date": "2026-09-16 01:23:34"
+        },
+        {
+            "domain_name": "smartwee.com",
+            "destination": "Namecheap",
+            "date": "2026-09-16 01:03:38"
+        },
+        {
+            "domain_name": "clearcreektahoe.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-16 01:01:31"
+        },
         {
             "domain_name": "ascentialmedia.com",
             "destination": "Namecheap",
@@ -485,21 +500,6 @@
             "domain_name": "sweetdreamsgeorgia.com",
             "destination": "Bluehost",
             "date": "2026-09-13 08:28:29"
-        },
-        {
-            "domain_name": "angie.codama.dev",
-            "destination": "Digital Ocean",
-            "date": "2026-09-13 08:09:01"
-        },
-        {
-            "domain_name": "dentalatatune.com.au",
-            "destination": "Namecheap",
-            "date": "2026-09-13 01:40:20"
-        },
-        {
-            "domain_name": "yogaforscoliosis.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-13 00:57:50"
         }
     ],
     "dailyMovedStat": {
@@ -1231,15 +1231,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 14904,
-        "Kinsta": 12176,
-        "Digital Ocean": 7582,
+        "Kinsta": 12177,
+        "Digital Ocean": 7583,
         "Hostinger": 6017,
         "SiteGround": 5740,
         "Bluehost": 4800,
         "GoDaddy": 1906,
         "BigScoots": 1044,
         "Liquid Web": 954,
-        "Namecheap": 831,
+        "Namecheap": 832,
         "WordPress.com": 825,
         "OVH": 755,
         "GridPane": 742,
