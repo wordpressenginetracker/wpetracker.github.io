@@ -1,10 +1,50 @@
 {
-    "siteCount": 177914,
+    "siteCount": 177929,
     "recentlyMoved": [
+        {
+            "domain_name": "nwmusicdistributors.com",
+            "destination": "HostGator",
+            "date": "2026-09-17 18:09:00"
+        },
+        {
+            "domain_name": "empireinsagency.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 17:58:23"
+        },
+        {
+            "domain_name": "elliottinsurancegroup.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 17:52:28"
+        },
+        {
+            "domain_name": "drjasonkarp.com",
+            "destination": "DreamHost",
+            "date": "2026-09-17 17:50:59"
+        },
+        {
+            "domain_name": "mountainridgeinsurance.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 17:48:57"
+        },
         {
             "domain_name": "themfrcoach.com",
             "destination": "BigScoots",
             "date": "2026-09-17 17:35:24"
+        },
+        {
+            "domain_name": "edu.recommend.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 17:28:27"
+        },
+        {
+            "domain_name": "ebenezerinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 17:27:42"
+        },
+        {
+            "domain_name": "drrencher.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 17:27:33"
         },
         {
             "domain_name": "www.unitedfinance.com",
@@ -12,9 +52,24 @@
             "date": "2026-09-17 17:16:04"
         },
         {
+            "domain_name": "nasaapp.northcoastchurch.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 17:14:37"
+        },
+        {
+            "domain_name": "familyinsurancecenters.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 17:13:23"
+        },
+        {
             "domain_name": "darrencrossagency.com",
             "destination": "Pressable",
             "date": "2026-09-17 17:08:45"
+        },
+        {
+            "domain_name": "elevaterecoveryhomes.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 17:06:06"
         },
         {
             "domain_name": "sk.eng.br",
@@ -437,11 +492,6 @@
             "date": "2026-09-17 05:19:21"
         },
         {
-            "domain_name": "comfortfirstheatingandcooling.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 05:19:21"
-        },
-        {
             "domain_name": "trialclass.people-impact.com.sg",
             "destination": "Digital Ocean",
             "date": "2026-09-17 04:52:07"
@@ -450,56 +500,6 @@
             "domain_name": "trial.aquaducks.com.sg",
             "destination": "Digital Ocean",
             "date": "2026-09-17 04:52:07"
-        },
-        {
-            "domain_name": "choosereliable.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 04:48:03"
-        },
-        {
-            "domain_name": "www.hopi-nsn.gov",
-            "destination": "Pressable",
-            "date": "2026-09-17 04:34:35"
-        },
-        {
-            "domain_name": "hopi-nsn.gov",
-            "destination": "Pressable",
-            "date": "2026-09-17 04:00:44"
-        },
-        {
-            "domain_name": "www.dentalimplantsofgreeley.com",
-            "destination": "Namecheap",
-            "date": "2026-09-17 03:31:37"
-        },
-        {
-            "domain_name": "exitchex.com",
-            "destination": "Namecheap",
-            "date": "2026-09-17 01:34:59"
-        },
-        {
-            "domain_name": "crestfull.com",
-            "destination": "Namecheap",
-            "date": "2026-09-17 01:03:10"
-        },
-        {
-            "domain_name": "www.vcrmed.com",
-            "destination": "Hostinger",
-            "date": "2026-09-17 00:57:08"
-        },
-        {
-            "domain_name": "digitaldogsbook.com",
-            "destination": "Hostinger",
-            "date": "2026-09-17 00:55:13"
-        },
-        {
-            "domain_name": "portofcolumbia.org",
-            "destination": "Hostinger",
-            "date": "2026-09-17 00:17:56"
-        },
-        {
-            "domain_name": "www.dsirealestate.com",
-            "destination": "Pressable",
-            "date": "2026-09-16 23:38:48"
         }
     ],
     "dailyMovedStat": {
@@ -1231,8 +1231,8 @@
         "2026-09-16": "177585"
     },
     "topDestinationHosts": {
-        "Pressable": 14976,
-        "Kinsta": 12242,
+        "Pressable": 14981,
+        "Kinsta": 12247,
         "Digital Ocean": 7596,
         "Hostinger": 6034,
         "SiteGround": 5740,
@@ -1247,10 +1247,10 @@
         "InMotion Hosting": 623,
         "IONOS": 584,
         "Elementor Hosting": 570,
-        "DreamHost": 565,
+        "DreamHost": 566,
         "Hetzner Online": 510,
         "A2 Hosting": 481,
-        "HostGator": 372
+        "HostGator": 373
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
