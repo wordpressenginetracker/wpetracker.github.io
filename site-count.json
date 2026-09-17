@@ -1,6 +1,11 @@
 {
-    "siteCount": 177647,
+    "siteCount": 177651,
     "recentlyMoved": [
+        {
+            "domain_name": "exitchex.com",
+            "destination": "Namecheap",
+            "date": "2026-09-17 01:34:59"
+        },
         {
             "domain_name": "crestfull.com",
             "destination": "Namecheap",
@@ -490,11 +495,6 @@
             "domain_name": "certifiedac.net",
             "destination": "Kinsta",
             "date": "2026-09-16 04:22:23"
-        },
-        {
-            "domain_name": "projects.sas.ac.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-16 03:57:58"
         },
         {
             "domain_name": "indenuiver.nl",
@@ -1240,7 +1240,7 @@
         "GoDaddy": 1908,
         "BigScoots": 1044,
         "Liquid Web": 955,
-        "Namecheap": 840,
+        "Namecheap": 841,
         "WordPress.com": 827,
         "OVH": 756,
         "GridPane": 742,
