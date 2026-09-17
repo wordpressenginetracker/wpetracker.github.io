@@ -1,6 +1,86 @@
 {
-    "siteCount": 177823,
+    "siteCount": 177877,
     "recentlyMoved": [
+        {
+            "domain_name": "www.cicva.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:24:28"
+        },
+        {
+            "domain_name": "www.churchwellagency.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:24:28"
+        },
+        {
+            "domain_name": "www.crockettinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:18:55"
+        },
+        {
+            "domain_name": "www.dormonreynolds.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:15:42"
+        },
+        {
+            "domain_name": "www.devetteford.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:06:28"
+        },
+        {
+            "domain_name": "www.dicksonins.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:05:47"
+        },
+        {
+            "domain_name": "sandiegogolftrail.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:01:17"
+        },
+        {
+            "domain_name": "sandiegogolfreservations.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:01:17"
+        },
+        {
+            "domain_name": "www.conradinsurance.net",
+            "destination": "Pressable",
+            "date": "2026-09-17 16:01:11"
+        },
+        {
+            "domain_name": "allthewaywell.org",
+            "destination": "Kinsta",
+            "date": "2026-09-17 15:59:18"
+        },
+        {
+            "domain_name": "www.fawagner.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 15:51:20"
+        },
+        {
+            "domain_name": "www.ewsinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 15:49:49"
+        },
+        {
+            "domain_name": "www.erwininsuranceservices.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 15:49:49"
+        },
+        {
+            "domain_name": "gandswindowcleaning.com",
+            "destination": "Kinsta",
+            "date": "2026-09-17 15:44:07"
+        },
+        {
+            "domain_name": "www.enuffinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 15:37:06"
+        },
+        {
+            "domain_name": "www.davidcoxagency.com",
+            "destination": "Pressable",
+            "date": "2026-09-17 15:29:43"
+        },
         {
             "domain_name": "fayettecountyradiator.com",
             "destination": "Liquid Web",
@@ -420,86 +500,6 @@
             "domain_name": "29x.studio",
             "destination": "Hetzner Online",
             "date": "2026-09-16 19:06:12"
-        },
-        {
-            "domain_name": "www.ajhodgesattorney.com",
-            "destination": "Pressable",
-            "date": "2026-09-16 17:34:30"
-        },
-        {
-            "domain_name": "uniondesign.ca",
-            "destination": "Pressable",
-            "date": "2026-09-16 17:14:37"
-        },
-        {
-            "domain_name": "crossroadsjc.com",
-            "destination": "Hostinger",
-            "date": "2026-09-16 17:14:32"
-        },
-        {
-            "domain_name": "stopandthink.us",
-            "destination": "Hostinger",
-            "date": "2026-09-16 17:13:01"
-        },
-        {
-            "domain_name": "dixonmitchell.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 17:10:20"
-        },
-        {
-            "domain_name": "storyofsong.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 17:08:28"
-        },
-        {
-            "domain_name": "birdcarvings.ca",
-            "destination": "Pressable",
-            "date": "2026-09-16 17:07:16"
-        },
-        {
-            "domain_name": "vestryotr.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 17:05:43"
-        },
-        {
-            "domain_name": "mesasistercities.com",
-            "destination": "Pressable",
-            "date": "2026-09-16 16:59:00"
-        },
-        {
-            "domain_name": "madisonasbestos.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 16:55:53"
-        },
-        {
-            "domain_name": "www.vargas.dental",
-            "destination": "GoDaddy",
-            "date": "2026-09-16 16:45:27"
-        },
-        {
-            "domain_name": "citrocasausa.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 16:44:16"
-        },
-        {
-            "domain_name": "kbwoodworking.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 16:42:44"
-        },
-        {
-            "domain_name": "www.owenleaf.com",
-            "destination": "Hostinger",
-            "date": "2026-09-16 16:28:55"
-        },
-        {
-            "domain_name": "larsenandmender.com",
-            "destination": "WordPress.com",
-            "date": "2026-09-16 16:21:54"
-        },
-        {
-            "domain_name": "www.norfolkiron.com",
-            "destination": "Kinsta",
-            "date": "2026-09-16 16:04:56"
         }
     ],
     "dailyMovedStat": {
@@ -1231,8 +1231,8 @@
         "2026-09-16": "177585"
     },
     "topDestinationHosts": {
-        "Pressable": 14954,
-        "Kinsta": 12237,
+        "Pressable": 14966,
+        "Kinsta": 12239,
         "Digital Ocean": 7596,
         "Hostinger": 6032,
         "SiteGround": 5740,
