@@ -1,6 +1,11 @@
 {
-    "siteCount": 178031,
+    "siteCount": 178035,
     "recentlyMoved": [
+        {
+            "domain_name": "experienceherkimercounty.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 01:19:51"
+        },
         {
             "domain_name": "summerfieldminibernedoodles.com",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "vandekuinder.nl",
             "destination": "Kinsta",
             "date": "2026-09-17 09:26:23"
-        },
-        {
-            "domain_name": "thewayofinnocence.org",
-            "destination": "WordPress.com",
-            "date": "2026-09-17 09:17:45"
         },
         {
             "domain_name": "vaughnhomeconstruction.com",
@@ -1233,7 +1233,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 14982,
-        "Kinsta": 12255,
+        "Kinsta": 12256,
         "Digital Ocean": 7597,
         "Hostinger": 6038,
         "SiteGround": 5740,
