@@ -1,10 +1,20 @@
 {
-    "siteCount": 178063,
+    "siteCount": 178068,
     "recentlyMoved": [
+        {
+            "domain_name": "weparent.app",
+            "destination": "Hostinger",
+            "date": "2026-09-18 05:41:24"
+        },
         {
             "domain_name": "cordovaheatingandair.com",
             "destination": "Kinsta",
             "date": "2026-09-18 05:27:27"
+        },
+        {
+            "domain_name": "fantasyforum.org",
+            "destination": "Pressable",
+            "date": "2026-09-18 05:27:15"
         },
         {
             "domain_name": "degreehvac.com",
@@ -482,11 +492,6 @@
             "date": "2026-09-17 12:29:27"
         },
         {
-            "domain_name": "awcoon.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 12:25:00"
-        },
-        {
             "domain_name": "cbsinsurancellc.com",
             "destination": "Pressable",
             "date": "2026-09-17 12:20:43"
@@ -495,11 +500,6 @@
             "domain_name": "kellybraffet.com",
             "destination": "Kinsta",
             "date": "2026-09-17 12:06:44"
-        },
-        {
-            "domain_name": "apiafi.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-09-17 12:06:41"
         }
     ],
     "dailyMovedStat": {
@@ -1232,10 +1232,10 @@
         "2026-09-17": "178008"
     },
     "topDestinationHosts": {
-        "Pressable": 14982,
+        "Pressable": 14983,
         "Kinsta": 12260,
         "Digital Ocean": 7598,
-        "Hostinger": 6041,
+        "Hostinger": 6042,
         "SiteGround": 5740,
         "Bluehost": 4801,
         "GoDaddy": 1908,
