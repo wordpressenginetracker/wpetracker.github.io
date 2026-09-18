@@ -1,6 +1,36 @@
 {
-    "siteCount": 178194,
+    "siteCount": 178228,
     "recentlyMoved": [
+        {
+            "domain_name": "www.jfowlerins.com",
+            "destination": "Pressable",
+            "date": "2026-09-18 16:47:59"
+        },
+        {
+            "domain_name": "www.insuredbyaxis.com",
+            "destination": "Pressable",
+            "date": "2026-09-18 16:05:56"
+        },
+        {
+            "domain_name": "pringleinsuranceservices.com",
+            "destination": "Pressable",
+            "date": "2026-09-18 16:05:35"
+        },
+        {
+            "domain_name": "www.basch-machinekeys.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 15:53:47"
+        },
+        {
+            "domain_name": "gracepsychiatricservices.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 15:48:45"
+        },
+        {
+            "domain_name": "www.wisconsinhomeownersalliance.org",
+            "destination": "Kinsta",
+            "date": "2026-09-18 15:41:57"
+        },
         {
             "domain_name": "meridianproductscorp.com",
             "destination": "Kinsta",
@@ -462,31 +492,6 @@
             "date": "2026-09-17 18:09:00"
         },
         {
-            "domain_name": "empireinsagency.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 17:58:23"
-        },
-        {
-            "domain_name": "elliottinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 17:52:28"
-        },
-        {
-            "domain_name": "mountainridgeinsurance.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 17:48:57"
-        },
-        {
-            "domain_name": "edu.recommend.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 17:28:27"
-        },
-        {
-            "domain_name": "ebenezerinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 17:27:42"
-        },
-        {
             "domain_name": "nasaapp.northcoastchurch.com",
             "destination": "Kinsta",
             "date": "2026-09-17 17:14:37"
@@ -495,11 +500,6 @@
             "domain_name": "familyinsurancecenters.com",
             "destination": "Pressable",
             "date": "2026-09-17 17:13:23"
-        },
-        {
-            "domain_name": "elevaterecoveryhomes.com",
-            "destination": "Kinsta",
-            "date": "2026-09-17 17:06:06"
         }
     ],
     "dailyMovedStat": {
@@ -1232,8 +1232,8 @@
         "2026-09-17": "178008"
     },
     "topDestinationHosts": {
-        "Pressable": 15002,
-        "Kinsta": 12282,
+        "Pressable": 15003,
+        "Kinsta": 12285,
         "Digital Ocean": 7604,
         "Hostinger": 6047,
         "SiteGround": 5740,
