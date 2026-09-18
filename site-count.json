@@ -1,6 +1,21 @@
 {
-    "siteCount": 178035,
+    "siteCount": 178042,
     "recentlyMoved": [
+        {
+            "domain_name": "rctaccelerator.com",
+            "destination": "Namecheap",
+            "date": "2026-09-18 04:32:40"
+        },
+        {
+            "domain_name": "redbeaconam.com",
+            "destination": "Hostinger",
+            "date": "2026-09-18 04:24:30"
+        },
+        {
+            "domain_name": "www.coolzoneair.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 04:18:39"
+        },
         {
             "domain_name": "experienceherkimercounty.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2026-09-17 11:15:23"
         },
         {
-            "domain_name": "myfrenchcountryhome.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 09:40:32"
-        },
-        {
-            "domain_name": "vandekuinder.nl",
-            "destination": "Kinsta",
-            "date": "2026-09-17 09:26:23"
-        },
-        {
             "domain_name": "vaughnhomeconstruction.com",
             "destination": "Kinsta",
             "date": "2026-09-17 09:13:03"
-        },
-        {
-            "domain_name": "elispestcontrol.ie",
-            "destination": "Hostinger",
-            "date": "2026-09-17 09:12:39"
         }
     ],
     "dailyMovedStat": {
@@ -1233,15 +1233,15 @@
     },
     "topDestinationHosts": {
         "Pressable": 14982,
-        "Kinsta": 12256,
+        "Kinsta": 12257,
         "Digital Ocean": 7597,
-        "Hostinger": 6038,
+        "Hostinger": 6040,
         "SiteGround": 5740,
         "Bluehost": 4801,
         "GoDaddy": 1908,
         "BigScoots": 1047,
         "Liquid Web": 956,
-        "Namecheap": 853,
+        "Namecheap": 854,
         "WordPress.com": 829,
         "OVH": 757,
         "GridPane": 742,
