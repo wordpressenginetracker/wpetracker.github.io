@@ -1,10 +1,35 @@
 {
-    "siteCount": 178162,
+    "siteCount": 178185,
     "recentlyMoved": [
+        {
+            "domain_name": "meridianproductscorp.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 13:30:02"
+        },
+        {
+            "domain_name": "coreelectrical.com",
+            "destination": "Hostinger",
+            "date": "2026-09-18 13:17:55"
+        },
+        {
+            "domain_name": "mindmappingsoftwareblog.com",
+            "destination": "Pressable",
+            "date": "2026-09-18 13:15:11"
+        },
         {
             "domain_name": "www.iaofcct.com",
             "destination": "Pressable",
             "date": "2026-09-18 12:42:06"
+        },
+        {
+            "domain_name": "kodalminerals.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 12:35:16"
+        },
+        {
+            "domain_name": "knoxvillesuzukiacademy.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-18 12:35:16"
         },
         {
             "domain_name": "hmm-ins.com",
@@ -15,6 +40,11 @@
             "domain_name": "hakaveret-bh.co.il",
             "destination": "Digital Ocean",
             "date": "2026-09-18 12:24:37"
+        },
+        {
+            "domain_name": "citrusamerica.com",
+            "destination": "Kinsta",
+            "date": "2026-09-18 12:24:03"
         },
         {
             "domain_name": "innovativeinsure.net",
@@ -442,11 +472,6 @@
             "date": "2026-09-17 17:48:57"
         },
         {
-            "domain_name": "themfrcoach.com",
-            "destination": "BigScoots",
-            "date": "2026-09-17 17:35:24"
-        },
-        {
             "domain_name": "edu.recommend.com",
             "destination": "Kinsta",
             "date": "2026-09-17 17:28:27"
@@ -472,34 +497,9 @@
             "date": "2026-09-17 17:13:23"
         },
         {
-            "domain_name": "darrencrossagency.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 17:08:45"
-        },
-        {
             "domain_name": "elevaterecoveryhomes.com",
             "destination": "Kinsta",
             "date": "2026-09-17 17:06:06"
-        },
-        {
-            "domain_name": "dailydivots.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 16:54:16"
-        },
-        {
-            "domain_name": "diversifiednebraska.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 16:52:58"
-        },
-        {
-            "domain_name": "diazinsuranceagencies.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 16:52:17"
-        },
-        {
-            "domain_name": "deerfieldrisk.com",
-            "destination": "Pressable",
-            "date": "2026-09-17 16:44:44"
         }
     ],
     "dailyMovedStat": {
@@ -1232,10 +1232,10 @@
         "2026-09-17": "178008"
     },
     "topDestinationHosts": {
-        "Pressable": 14995,
-        "Kinsta": 12279,
-        "Digital Ocean": 7603,
-        "Hostinger": 6044,
+        "Pressable": 15001,
+        "Kinsta": 12282,
+        "Digital Ocean": 7604,
+        "Hostinger": 6045,
         "SiteGround": 5740,
         "Bluehost": 4801,
         "GoDaddy": 1909,
