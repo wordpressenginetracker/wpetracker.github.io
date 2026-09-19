@@ -1,6 +1,11 @@
 {
-    "siteCount": 178379,
+    "siteCount": 178386,
     "recentlyMoved": [
+        {
+            "domain_name": "wellnessfullcircle.net",
+            "destination": "IONOS",
+            "date": "2026-09-19 02:10:47"
+        },
         {
             "domain_name": "mattinglybuilding.com",
             "destination": "Hostinger",
@@ -475,11 +480,6 @@
             "domain_name": "regalyachtingmiami.com",
             "destination": "Hostinger",
             "date": "2026-09-18 08:26:59"
-        },
-        {
-            "domain_name": "razevents.com",
-            "destination": "Kinsta",
-            "date": "2026-09-18 08:26:58"
         },
         {
             "domain_name": "hoursea.com",
@@ -1236,7 +1236,7 @@
         "Pressable": 15018,
         "Kinsta": 12299,
         "Digital Ocean": 7611,
-        "Hostinger": 6049,
+        "Hostinger": 6050,
         "SiteGround": 5740,
         "Bluehost": 4801,
         "GoDaddy": 1910,
@@ -1247,7 +1247,7 @@
         "OVH": 757,
         "GridPane": 742,
         "InMotion Hosting": 624,
-        "IONOS": 585,
+        "IONOS": 586,
         "Elementor Hosting": 570,
         "DreamHost": 567,
         "Hetzner Online": 510,
