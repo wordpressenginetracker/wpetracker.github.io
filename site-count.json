@@ -1,6 +1,26 @@
 {
-    "siteCount": 178459,
+    "siteCount": 178483,
     "recentlyMoved": [
+        {
+            "domain_name": "www.lahp.ac.uk",
+            "destination": "Kinsta",
+            "date": "2026-09-19 12:24:08"
+        },
+        {
+            "domain_name": "herbahealthshop.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-09-19 12:12:56"
+        },
+        {
+            "domain_name": "www.clearbeamco.com",
+            "destination": "Kinsta",
+            "date": "2026-09-19 11:45:52"
+        },
+        {
+            "domain_name": "www.classywindowcleaning.com",
+            "destination": "Pressable",
+            "date": "2026-09-19 11:25:32"
+        },
         {
             "domain_name": "fbihvac.com",
             "destination": "Kinsta",
@@ -437,16 +457,6 @@
             "date": "2026-09-18 12:35:16"
         },
         {
-            "domain_name": "hmm-ins.com",
-            "destination": "Pressable",
-            "date": "2026-09-18 12:35:02"
-        },
-        {
-            "domain_name": "hakaveret-bh.co.il",
-            "destination": "Digital Ocean",
-            "date": "2026-09-18 12:24:37"
-        },
-        {
             "domain_name": "citrusamerica.com",
             "destination": "Kinsta",
             "date": "2026-09-18 12:24:03"
@@ -455,11 +465,6 @@
             "domain_name": "innovativeinsure.net",
             "destination": "Pressable",
             "date": "2026-09-18 12:22:22"
-        },
-        {
-            "domain_name": "hbzinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-18 12:22:16"
         },
         {
             "domain_name": "www.insurancetexas.net",
@@ -480,11 +485,6 @@
             "domain_name": "www.insoarance.com",
             "destination": "Pressable",
             "date": "2026-09-18 12:19:44"
-        },
-        {
-            "domain_name": "happypracticeconsulting.com",
-            "destination": "Namecheap",
-            "date": "2026-09-18 12:19:17"
         },
         {
             "domain_name": "hulettinsurance.com",
@@ -1233,9 +1233,9 @@
         "2026-09-18": "178356"
     },
     "topDestinationHosts": {
-        "Pressable": 15022,
-        "Kinsta": 12314,
-        "Digital Ocean": 7622,
+        "Pressable": 15023,
+        "Kinsta": 12315,
+        "Digital Ocean": 7623,
         "Hostinger": 6054,
         "SiteGround": 5740,
         "Bluehost": 4802,
