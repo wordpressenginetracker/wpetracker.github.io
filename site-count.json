@@ -1,10 +1,20 @@
 {
-    "siteCount": 178507,
+    "siteCount": 178518,
     "recentlyMoved": [
+        {
+            "domain_name": "usleasingandfinancing.com",
+            "destination": "GoDaddy",
+            "date": "2026-09-19 13:25:11"
+        },
         {
             "domain_name": "www.tpshome.com",
             "destination": "Kinsta",
             "date": "2026-09-19 13:23:00"
+        },
+        {
+            "domain_name": "eyeonjacksonville.com",
+            "destination": "Hostinger",
+            "date": "2026-09-19 13:08:34"
         },
         {
             "domain_name": "discoversvgpro.com",
@@ -490,16 +500,6 @@
             "domain_name": "citrusamerica.com",
             "destination": "Kinsta",
             "date": "2026-09-18 12:24:03"
-        },
-        {
-            "domain_name": "innovativeinsure.net",
-            "destination": "Pressable",
-            "date": "2026-09-18 12:22:22"
-        },
-        {
-            "domain_name": "insurancewestmichigan.com",
-            "destination": "Pressable",
-            "date": "2026-09-18 12:08:12"
         }
     ],
     "dailyMovedStat": {
@@ -1236,10 +1236,10 @@
         "Pressable": 15023,
         "Kinsta": 12322,
         "Digital Ocean": 7623,
-        "Hostinger": 6055,
+        "Hostinger": 6056,
         "SiteGround": 5740,
         "Bluehost": 4802,
-        "GoDaddy": 1910,
+        "GoDaddy": 1911,
         "BigScoots": 1048,
         "Liquid Web": 956,
         "Namecheap": 858,
