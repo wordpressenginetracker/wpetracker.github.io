@@ -1,10 +1,15 @@
 {
-    "siteCount": 178827,
+    "siteCount": 178832,
     "recentlyMoved": [
         {
             "domain_name": "linusautoglass.com",
             "destination": "Hostinger",
             "date": "2026-09-21 01:08:38"
+        },
+        {
+            "domain_name": "valleygreenwebdesign.com",
+            "destination": "Hostinger",
+            "date": "2026-09-21 01:05:17"
         },
         {
             "domain_name": "lidacel.com",
@@ -495,11 +500,6 @@
             "domain_name": "forresters.com.au",
             "destination": "Digital Ocean",
             "date": "2026-09-19 03:29:30"
-        },
-        {
-            "domain_name": "wellnessfullcircle.net",
-            "destination": "IONOS",
-            "date": "2026-09-19 02:10:47"
         }
     ],
     "dailyMovedStat": {
@@ -1238,7 +1238,7 @@
         "Pressable": 15029,
         "Kinsta": 12330,
         "Digital Ocean": 7629,
-        "Hostinger": 6075,
+        "Hostinger": 6076,
         "SiteGround": 5740,
         "Bluehost": 4804,
         "GoDaddy": 1911,
