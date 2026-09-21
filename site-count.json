@@ -1,6 +1,11 @@
 {
-    "siteCount": 178837,
+    "siteCount": 178842,
     "recentlyMoved": [
+        {
+            "domain_name": "matthewharrislaw.com",
+            "destination": "Hostinger",
+            "date": "2026-09-21 05:21:08"
+        },
         {
             "domain_name": "golfortonville.org",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "boppandtone.com.au",
             "destination": "Digital Ocean",
             "date": "2026-09-19 04:10:06"
-        },
-        {
-            "domain_name": "applejacksites.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-19 03:34:20"
         }
     ],
     "dailyMovedStat": {
@@ -1238,7 +1238,7 @@
         "Pressable": 15029,
         "Kinsta": 12331,
         "Digital Ocean": 7630,
-        "Hostinger": 6077,
+        "Hostinger": 6078,
         "SiteGround": 5740,
         "Bluehost": 4804,
         "GoDaddy": 1911,
