@@ -1,6 +1,26 @@
 {
-    "siteCount": 178999,
+    "siteCount": 179013,
     "recentlyMoved": [
+        {
+            "domain_name": "steelcoredesigns.com",
+            "destination": "Pressable",
+            "date": "2026-09-22 08:50:12"
+        },
+        {
+            "domain_name": "www.snydergroupinc.com",
+            "destination": "Kinsta",
+            "date": "2026-09-22 08:47:16"
+        },
+        {
+            "domain_name": "www.prospero.ie",
+            "destination": "Kinsta",
+            "date": "2026-09-22 08:43:09"
+        },
+        {
+            "domain_name": "www.sauntonbeach.info",
+            "destination": "Krystal Hosting",
+            "date": "2026-09-22 08:18:24"
+        },
         {
             "domain_name": "www.fsroofingllc.com",
             "destination": "Kinsta",
@@ -462,11 +482,6 @@
             "date": "2026-09-19 13:25:11"
         },
         {
-            "domain_name": "www.tpshome.com",
-            "destination": "Kinsta",
-            "date": "2026-09-19 13:23:00"
-        },
-        {
             "domain_name": "eyeonjacksonville.com",
             "destination": "Hostinger",
             "date": "2026-09-19 13:08:34"
@@ -477,11 +492,6 @@
             "date": "2026-09-19 13:03:52"
         },
         {
-            "domain_name": "slex.recommend.com",
-            "destination": "Kinsta",
-            "date": "2026-09-19 12:43:03"
-        },
-        {
             "domain_name": "m-rplatingcorp.com",
             "destination": "Kinsta",
             "date": "2026-09-19 12:37:35"
@@ -490,16 +500,6 @@
             "domain_name": "www.wilsonsauction.com",
             "destination": "Hostinger",
             "date": "2026-09-19 12:35:02"
-        },
-        {
-            "domain_name": "stockadecompanies.com",
-            "destination": "Kinsta",
-            "date": "2026-09-19 12:30:06"
-        },
-        {
-            "domain_name": "www.premiermetalworks.com",
-            "destination": "Kinsta",
-            "date": "2026-09-19 12:16:28"
         }
     ],
     "dailyMovedStat": {
@@ -1236,8 +1236,8 @@
         "2026-09-21": "178947"
     },
     "topDestinationHosts": {
-        "Pressable": 15031,
-        "Kinsta": 12344,
+        "Pressable": 15032,
+        "Kinsta": 12346,
         "Digital Ocean": 7632,
         "Hostinger": 6090,
         "SiteGround": 5740,
