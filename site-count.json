@@ -1,6 +1,21 @@
 {
-    "siteCount": 179270,
+    "siteCount": 179281,
     "recentlyMoved": [
+        {
+            "domain_name": "themarketkc.com",
+            "destination": "Bluehost",
+            "date": "2026-09-23 01:19:22"
+        },
+        {
+            "domain_name": "thepalmbeachgarage.com",
+            "destination": "Bluehost",
+            "date": "2026-09-23 01:09:40"
+        },
+        {
+            "domain_name": "metallos.ca",
+            "destination": "BigScoots",
+            "date": "2026-09-23 01:05:57"
+        },
         {
             "domain_name": "robbinsvillepicklehouse.com",
             "destination": "Bluehost",
@@ -10,6 +25,11 @@
             "domain_name": "hjacks.com",
             "destination": "Bluehost",
             "date": "2026-09-23 00:24:13"
+        },
+        {
+            "domain_name": "scaleups.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-23 00:14:06"
         },
         {
             "domain_name": "porinisafaricamps.com",
@@ -467,19 +487,9 @@
             "date": "2026-09-22 11:42:32"
         },
         {
-            "domain_name": "fitchhome.org",
-            "destination": "Pressable",
-            "date": "2026-09-22 11:41:53"
-        },
-        {
             "domain_name": "helkom.se",
             "destination": "Kinsta",
             "date": "2026-09-22 11:34:08"
-        },
-        {
-            "domain_name": "forhearts.org",
-            "destination": "Kinsta",
-            "date": "2026-09-22 11:27:26"
         },
         {
             "domain_name": "gedektrailersales.com",
@@ -490,16 +500,6 @@
             "domain_name": "galaxydesignsquad.com",
             "destination": "Kinsta",
             "date": "2026-09-22 11:16:01"
-        },
-        {
-            "domain_name": "steelcoredesigns.com",
-            "destination": "Pressable",
-            "date": "2026-09-22 08:50:12"
-        },
-        {
-            "domain_name": "www.snydergroupinc.com",
-            "destination": "Kinsta",
-            "date": "2026-09-22 08:47:16"
         }
     ],
     "dailyMovedStat": {
@@ -1239,10 +1239,10 @@
     "topDestinationHosts": {
         "Pressable": 15072,
         "Kinsta": 12371,
-        "Digital Ocean": 7643,
+        "Digital Ocean": 7644,
         "Hostinger": 6097,
         "SiteGround": 5740,
-        "Bluehost": 4810,
+        "Bluehost": 4812,
         "GoDaddy": 1914,
         "BigScoots": 1056,
         "Liquid Web": 960,
