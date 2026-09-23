@@ -1,6 +1,11 @@
 {
-    "siteCount": 179281,
+    "siteCount": 179287,
     "recentlyMoved": [
+        {
+            "domain_name": "viscosoftware.com",
+            "destination": "Bluehost",
+            "date": "2026-09-23 01:50:21"
+        },
         {
             "domain_name": "themarketkc.com",
             "destination": "Bluehost",
@@ -475,11 +480,6 @@
             "domain_name": "www.longmontbrokers.com",
             "destination": "Pressable",
             "date": "2026-09-22 12:00:03"
-        },
-        {
-            "domain_name": "frontzmechanical.com",
-            "destination": "Kinsta",
-            "date": "2026-09-22 11:56:38"
         },
         {
             "domain_name": "www.clancyadvisors.com",
@@ -1242,9 +1242,9 @@
         "Digital Ocean": 7644,
         "Hostinger": 6097,
         "SiteGround": 5740,
-        "Bluehost": 4812,
+        "Bluehost": 4813,
         "GoDaddy": 1914,
-        "BigScoots": 1056,
+        "BigScoots": 1057,
         "Liquid Web": 960,
         "Namecheap": 862,
         "WordPress.com": 832,
