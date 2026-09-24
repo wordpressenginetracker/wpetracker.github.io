@@ -1,6 +1,61 @@
 {
-    "siteCount": 179699,
+    "siteCount": 179726,
     "recentlyMoved": [
+        {
+            "domain_name": "bluecc.edu",
+            "destination": "Hostinger",
+            "date": "2026-09-24 12:24:50"
+        },
+        {
+            "domain_name": "prattandsons.com",
+            "destination": "Kinsta",
+            "date": "2026-09-24 11:55:12"
+        },
+        {
+            "domain_name": "www.gtma.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-09-24 11:53:47"
+        },
+        {
+            "domain_name": "wripfm.com",
+            "destination": "Kinsta",
+            "date": "2026-09-24 11:51:05"
+        },
+        {
+            "domain_name": "hurricaneperformance.ca",
+            "destination": "Digital Ocean",
+            "date": "2026-09-24 11:50:23"
+        },
+        {
+            "domain_name": "www.hotelvirgina.com",
+            "destination": "OVH",
+            "date": "2026-09-24 11:49:16"
+        },
+        {
+            "domain_name": "www.cushmaninsurance.com",
+            "destination": "Pressable",
+            "date": "2026-09-24 11:41:04"
+        },
+        {
+            "domain_name": "ampedstrategy.com",
+            "destination": "Kinsta",
+            "date": "2026-09-24 11:29:10"
+        },
+        {
+            "domain_name": "amorimfineviolins.com",
+            "destination": "Hostinger",
+            "date": "2026-09-24 11:29:10"
+        },
+        {
+            "domain_name": "partners.viscosity.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-24 11:19:07"
+        },
+        {
+            "domain_name": "parentingjourney.org",
+            "destination": "Kinsta",
+            "date": "2026-09-24 11:19:07"
+        },
         {
             "domain_name": "vielven.com",
             "destination": "DreamHost",
@@ -377,16 +432,6 @@
             "date": "2026-09-23 12:53:52"
         },
         {
-            "domain_name": "sbi.insure",
-            "destination": "Pressable",
-            "date": "2026-09-23 12:48:29"
-        },
-        {
-            "domain_name": "savannahtech.io",
-            "destination": "Digital Ocean",
-            "date": "2026-09-23 12:48:29"
-        },
-        {
             "domain_name": "www.wireproedm.com",
             "destination": "Kinsta",
             "date": "2026-09-23 12:47:10"
@@ -412,19 +457,9 @@
             "date": "2026-09-23 12:41:40"
         },
         {
-            "domain_name": "sasiety.blogs.sas.ac.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-23 12:39:10"
-        },
-        {
             "domain_name": "www.torreypines.com",
             "destination": "Pressable",
             "date": "2026-09-23 12:38:10"
-        },
-        {
-            "domain_name": "innovatesfl.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-23 12:34:34"
         },
         {
             "domain_name": "www.shieldsinsurance.com",
@@ -447,22 +482,12 @@
             "date": "2026-09-23 12:23:33"
         },
         {
-            "domain_name": "blog.stoa.org",
-            "destination": "Kinsta",
-            "date": "2026-09-23 12:21:45"
-        },
-        {
             "domain_name": "buddah.projects.history.ac.uk",
             "destination": "Kinsta",
             "date": "2026-09-23 12:21:32"
         },
         {
             "domain_name": "jkalarms.com",
-            "destination": "Kinsta",
-            "date": "2026-09-23 12:14:54"
-        },
-        {
-            "domain_name": "infolawcentre.blogs.sas.ac.uk",
             "destination": "Kinsta",
             "date": "2026-09-23 12:14:54"
         },
@@ -475,31 +500,6 @@
             "domain_name": "ski-greenorange.at",
             "destination": "Hetzner Online",
             "date": "2026-09-23 12:13:48"
-        },
-        {
-            "domain_name": "blog.interfaceware.com",
-            "destination": "Hetzner Online",
-            "date": "2026-09-23 12:13:19"
-        },
-        {
-            "domain_name": "blog.history.ac.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-23 12:13:19"
-        },
-        {
-            "domain_name": "rvpc.globalhealing.org",
-            "destination": "Digital Ocean",
-            "date": "2026-09-23 12:12:11"
-        },
-        {
-            "domain_name": "ihrdighist.blogs.sas.ac.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-23 12:00:25"
-        },
-        {
-            "domain_name": "blogs.sas.ac.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-23 11:52:17"
         }
     ],
     "dailyMovedStat": {
@@ -1238,10 +1238,10 @@
         "2026-09-23": "179609"
     },
     "topDestinationHosts": {
-        "Pressable": 15106,
-        "Kinsta": 12431,
-        "Digital Ocean": 7665,
-        "Hostinger": 6111,
+        "Pressable": 15107,
+        "Kinsta": 12437,
+        "Digital Ocean": 7668,
+        "Hostinger": 6112,
         "SiteGround": 5740,
         "Bluehost": 4816,
         "GoDaddy": 1917,
@@ -1249,7 +1249,7 @@
         "Liquid Web": 960,
         "Namecheap": 862,
         "WordPress.com": 833,
-        "OVH": 759,
+        "OVH": 760,
         "GridPane": 744,
         "InMotion Hosting": 624,
         "IONOS": 587,
