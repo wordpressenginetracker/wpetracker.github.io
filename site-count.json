@@ -1,6 +1,11 @@
 {
-    "siteCount": 179897,
+    "siteCount": 179903,
     "recentlyMoved": [
+        {
+            "domain_name": "moabrusticinn.com",
+            "destination": "HostGator",
+            "date": "2026-09-24 21:17:47"
+        },
         {
             "domain_name": "tntmachineinc.com",
             "destination": "Namecheap",
@@ -490,11 +495,6 @@
             "domain_name": "dragonflyhomes.ca",
             "destination": "Digital Ocean",
             "date": "2026-09-23 21:05:11"
-        },
-        {
-            "domain_name": "stmaryoftheangels.com",
-            "destination": "HostGator",
-            "date": "2026-09-23 20:59:29"
         },
         {
             "domain_name": "contourmc.com",
@@ -1247,7 +1247,7 @@
         "GoDaddy": 1918,
         "BigScoots": 1058,
         "Liquid Web": 961,
-        "Namecheap": 862,
+        "Namecheap": 863,
         "WordPress.com": 833,
         "OVH": 761,
         "GridPane": 745,
@@ -1257,7 +1257,7 @@
         "Elementor Hosting": 570,
         "Hetzner Online": 525,
         "A2 Hosting": 481,
-        "HostGator": 377
+        "HostGator": 378
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
