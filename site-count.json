@@ -1,6 +1,21 @@
 {
-    "siteCount": 179951,
+    "siteCount": 179958,
     "recentlyMoved": [
+        {
+            "domain_name": "hvactcs.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 08:05:11"
+        },
+        {
+            "domain_name": "hvacservices.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 08:05:11"
+        },
+        {
+            "domain_name": "hutchensmechanical.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 08:05:11"
+        },
         {
             "domain_name": "westarassociates.com",
             "destination": "Kinsta",
@@ -477,29 +492,14 @@
             "date": "2026-09-24 04:28:07"
         },
         {
-            "domain_name": "hongjusilicone.com",
-            "destination": "Hostinger",
-            "date": "2026-09-24 04:12:51"
-        },
-        {
             "domain_name": "bkboilerservices.co.uk",
             "destination": "Kinsta",
             "date": "2026-09-24 04:07:14"
         },
         {
-            "domain_name": "hisworkmanshiplabor.com",
-            "destination": "Kinsta",
-            "date": "2026-09-24 04:07:04"
-        },
-        {
             "domain_name": "www.homecomfortinc.com",
             "destination": "Kinsta",
             "date": "2026-09-24 03:51:53"
-        },
-        {
-            "domain_name": "heartandpaw.com",
-            "destination": "Kinsta",
-            "date": "2026-09-24 03:46:56"
         }
     ],
     "dailyMovedStat": {
@@ -1240,7 +1240,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15133,
-        "Kinsta": 12451,
+        "Kinsta": 12454,
         "Digital Ocean": 7676,
         "Hostinger": 6119,
         "SiteGround": 5740,
