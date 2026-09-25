@@ -1,6 +1,21 @@
 {
-    "siteCount": 179958,
+    "siteCount": 179968,
     "recentlyMoved": [
+        {
+            "domain_name": "lightshoe.com",
+            "destination": "Pressable",
+            "date": "2026-09-25 09:10:20"
+        },
+        {
+            "domain_name": "levelgroundbible.org",
+            "destination": "Pressable",
+            "date": "2026-09-25 09:08:50"
+        },
+        {
+            "domain_name": "mattfrazier-portfolio.com",
+            "destination": "Hostinger",
+            "date": "2026-09-25 08:59:17"
+        },
         {
             "domain_name": "hvactcs.com",
             "destination": "Kinsta",
@@ -482,24 +497,9 @@
             "date": "2026-09-24 05:17:44"
         },
         {
-            "domain_name": "securityintel.com",
-            "destination": "Hostinger",
-            "date": "2026-09-24 04:32:34"
-        },
-        {
             "domain_name": "soneerawater.com",
             "destination": "Pressable",
             "date": "2026-09-24 04:28:07"
-        },
-        {
-            "domain_name": "bkboilerservices.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-09-24 04:07:14"
-        },
-        {
-            "domain_name": "www.homecomfortinc.com",
-            "destination": "Kinsta",
-            "date": "2026-09-24 03:51:53"
         }
     ],
     "dailyMovedStat": {
@@ -1239,10 +1239,10 @@
         "2026-09-24": "179903"
     },
     "topDestinationHosts": {
-        "Pressable": 15133,
+        "Pressable": 15135,
         "Kinsta": 12454,
         "Digital Ocean": 7676,
-        "Hostinger": 6119,
+        "Hostinger": 6120,
         "SiteGround": 5740,
         "Bluehost": 4817,
         "GoDaddy": 1918,
