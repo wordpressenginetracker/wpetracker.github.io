@@ -1,10 +1,55 @@
 {
-    "siteCount": 180061,
+    "siteCount": 180110,
     "recentlyMoved": [
+        {
+            "domain_name": "topairgun.com",
+            "destination": "Hostinger",
+            "date": "2026-09-25 17:33:15"
+        },
+        {
+            "domain_name": "cleaningcoalition.org",
+            "destination": "WordPress.com",
+            "date": "2026-09-25 17:15:34"
+        },
+        {
+            "domain_name": "creativeservicesdesigns.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 17:12:01"
+        },
+        {
+            "domain_name": "theapollotheatreac.com",
+            "destination": "WordPress.com",
+            "date": "2026-09-25 16:54:21"
+        },
+        {
+            "domain_name": "jandjqualitydoor.com",
+            "destination": "HostGator",
+            "date": "2026-09-25 16:47:36"
+        },
+        {
+            "domain_name": "smbmad.org",
+            "destination": "Pressable",
+            "date": "2026-09-25 16:46:53"
+        },
+        {
+            "domain_name": "krampade.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 16:31:33"
+        },
+        {
+            "domain_name": "tastytimeco.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 16:29:49"
+        },
         {
             "domain_name": "radiantmindrecovery.com",
             "destination": "DreamHost",
             "date": "2026-09-25 16:14:34"
+        },
+        {
+            "domain_name": "www.mwpain.com",
+            "destination": "Kinsta",
+            "date": "2026-09-25 16:12:10"
         },
         {
             "domain_name": "gandggarbage.com",
@@ -447,11 +492,6 @@
             "date": "2026-09-24 16:49:41"
         },
         {
-            "domain_name": "isumassie.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:46:04"
-        },
-        {
             "domain_name": "www.wilgusins.com",
             "destination": "Pressable",
             "date": "2026-09-24 16:45:12"
@@ -460,46 +500,6 @@
             "domain_name": "www.whitenacksouder.com",
             "destination": "Pressable",
             "date": "2026-09-24 16:45:12"
-        },
-        {
-            "domain_name": "k4comdev.komando.com",
-            "destination": "Hostinger",
-            "date": "2026-09-24 16:43:50"
-        },
-        {
-            "domain_name": "hjlinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:28:15"
-        },
-        {
-            "domain_name": "www.gallinaandsons.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:25:10"
-        },
-        {
-            "domain_name": "www.jplinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:19:23"
-        },
-        {
-            "domain_name": "insurancefirstinc.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:10:24"
-        },
-        {
-            "domain_name": "insuranceagent2000.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:10:24"
-        },
-        {
-            "domain_name": "www.homersmith.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 16:05:38"
-        },
-        {
-            "domain_name": "www.fischerins.com",
-            "destination": "Pressable",
-            "date": "2026-09-24 15:50:47"
         }
     ],
     "dailyMovedStat": {
@@ -1239,8 +1239,8 @@
         "2026-09-24": "179903"
     },
     "topDestinationHosts": {
-        "Pressable": 15151,
-        "Kinsta": 12464,
+        "Pressable": 15152,
+        "Kinsta": 12468,
         "Digital Ocean": 7682,
         "Hostinger": 6124,
         "SiteGround": 5740,
@@ -1249,7 +1249,7 @@
         "BigScoots": 1058,
         "Liquid Web": 961,
         "Namecheap": 865,
-        "WordPress.com": 833,
+        "WordPress.com": 835,
         "OVH": 764,
         "GridPane": 747,
         "InMotion Hosting": 625,
@@ -1258,7 +1258,7 @@
         "Elementor Hosting": 570,
         "Hetzner Online": 525,
         "A2 Hosting": 481,
-        "HostGator": 378
+        "HostGator": 379
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
