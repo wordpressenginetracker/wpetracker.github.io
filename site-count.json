@@ -1,5 +1,5 @@
 {
-    "siteCount": 180321,
+    "siteCount": 180329,
     "recentlyMoved": [
         {
             "domain_name": "truebluecreatives.com",
@@ -7,9 +7,19 @@
             "date": "2026-09-26 13:42:14"
         },
         {
+            "domain_name": "nanaimoconstruction.ca",
+            "destination": "OVH",
+            "date": "2026-09-26 13:34:43"
+        },
+        {
             "domain_name": "coastaltransportservice.com",
             "destination": "Pressable",
             "date": "2026-09-26 13:16:46"
+        },
+        {
+            "domain_name": "vanroosbroeck.com",
+            "destination": "Kinsta",
+            "date": "2026-09-26 13:16:18"
         },
         {
             "domain_name": "thebwerd.com",
@@ -490,16 +500,6 @@
             "domain_name": "idealhvacservices.com",
             "destination": "Kinsta",
             "date": "2026-09-25 04:19:43"
-        },
-        {
-            "domain_name": "ibbotsonheating.com",
-            "destination": "Kinsta",
-            "date": "2026-09-25 04:07:13"
-        },
-        {
-            "domain_name": "honestairservicestx.com",
-            "destination": "Kinsta",
-            "date": "2026-09-25 03:42:25"
         }
     ],
     "dailyMovedStat": {
@@ -1241,17 +1241,17 @@
     },
     "topDestinationHosts": {
         "Pressable": 15159,
-        "Kinsta": 12480,
+        "Kinsta": 12482,
         "Digital Ocean": 7687,
         "Hostinger": 6128,
         "SiteGround": 5740,
         "Bluehost": 4818,
         "GoDaddy": 1918,
-        "BigScoots": 1059,
+        "BigScoots": 1060,
         "Liquid Web": 962,
         "Namecheap": 865,
         "WordPress.com": 836,
-        "OVH": 765,
+        "OVH": 766,
         "GridPane": 748,
         "InMotion Hosting": 626,
         "IONOS": 588,
