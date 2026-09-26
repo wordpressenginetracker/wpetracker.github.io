@@ -1,15 +1,60 @@
 {
-    "siteCount": 180293,
+    "siteCount": 180321,
     "recentlyMoved": [
+        {
+            "domain_name": "truebluecreatives.com",
+            "destination": "BigScoots",
+            "date": "2026-09-26 13:42:14"
+        },
+        {
+            "domain_name": "coastaltransportservice.com",
+            "destination": "Pressable",
+            "date": "2026-09-26 13:16:46"
+        },
+        {
+            "domain_name": "thebwerd.com",
+            "destination": "Hostinger",
+            "date": "2026-09-26 13:16:12"
+        },
+        {
+            "domain_name": "marksmithmd.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-26 13:06:10"
+        },
+        {
+            "domain_name": "cornholetournament.net",
+            "destination": "Digital Ocean",
+            "date": "2026-09-26 13:06:07"
+        },
+        {
+            "domain_name": "mototown.lu",
+            "destination": "Kinsta",
+            "date": "2026-09-26 13:01:26"
+        },
         {
             "domain_name": "rtis-g.com",
             "destination": "DreamHost",
             "date": "2026-09-26 12:28:12"
         },
         {
+            "domain_name": "www.swagship.com",
+            "destination": "Pressable",
+            "date": "2026-09-26 12:28:02"
+        },
+        {
             "domain_name": "attnlabs.com",
             "destination": "Kinsta",
             "date": "2026-09-26 12:24:28"
+        },
+        {
+            "domain_name": "www.mtsobek.com",
+            "destination": "Pressable",
+            "date": "2026-09-26 12:10:22"
+        },
+        {
+            "domain_name": "sharonsantoni.com",
+            "destination": "Pressable",
+            "date": "2026-09-26 12:07:43"
         },
         {
             "domain_name": "www.gcmgrosvenor.com",
@@ -455,51 +500,6 @@
             "domain_name": "honestairservicestx.com",
             "destination": "Kinsta",
             "date": "2026-09-25 03:42:25"
-        },
-        {
-            "domain_name": "chancerylane.com.au",
-            "destination": "Digital Ocean",
-            "date": "2026-09-25 00:52:13"
-        },
-        {
-            "domain_name": "www.spotteddog-ent.com",
-            "destination": "Pressable",
-            "date": "2026-09-25 00:31:56"
-        },
-        {
-            "domain_name": "rclite.com",
-            "destination": "Hostinger",
-            "date": "2026-09-25 00:30:35"
-        },
-        {
-            "domain_name": "kamrancenter.org",
-            "destination": "Kinsta",
-            "date": "2026-09-25 00:14:00"
-        },
-        {
-            "domain_name": "www.kansasjustice.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-25 00:06:54"
-        },
-        {
-            "domain_name": "salonsabrina.com",
-            "destination": "Hostinger",
-            "date": "2026-09-25 00:02:17"
-        },
-        {
-            "domain_name": "moabrusticinn.com",
-            "destination": "HostGator",
-            "date": "2026-09-24 21:17:47"
-        },
-        {
-            "domain_name": "tntmachineinc.com",
-            "destination": "Namecheap",
-            "date": "2026-09-24 21:14:47"
-        },
-        {
-            "domain_name": "theagencystudio.com",
-            "destination": "GoDaddy",
-            "date": "2026-09-24 20:40:12"
         }
     ],
     "dailyMovedStat": {
@@ -1240,10 +1240,10 @@
         "2026-09-25": "180199"
     },
     "topDestinationHosts": {
-        "Pressable": 15155,
+        "Pressable": 15159,
         "Kinsta": 12480,
-        "Digital Ocean": 7685,
-        "Hostinger": 6127,
+        "Digital Ocean": 7687,
+        "Hostinger": 6128,
         "SiteGround": 5740,
         "Bluehost": 4818,
         "GoDaddy": 1918,
