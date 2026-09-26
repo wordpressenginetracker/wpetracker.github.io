@@ -1,6 +1,11 @@
 {
-    "siteCount": 180266,
+    "siteCount": 180270,
     "recentlyMoved": [
+        {
+            "domain_name": "vfmotoren.be",
+            "destination": "Kinsta",
+            "date": "2026-09-26 09:24:58"
+        },
         {
             "domain_name": "themetaphysical.tv",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "www.lbeoccasionscatering.com",
             "destination": "Kinsta",
             "date": "2026-09-24 20:01:53"
-        },
-        {
-            "domain_name": "allthingsrealestateaz.com",
-            "destination": "Hetzner Online",
-            "date": "2026-09-24 19:56:10"
         },
         {
             "domain_name": "www.mountainhighbuilders.com",
@@ -1241,7 +1241,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15154,
-        "Kinsta": 12476,
+        "Kinsta": 12477,
         "Digital Ocean": 7685,
         "Hostinger": 6127,
         "SiteGround": 5740,
