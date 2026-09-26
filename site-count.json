@@ -1,6 +1,11 @@
 {
-    "siteCount": 180232,
+    "siteCount": 180241,
     "recentlyMoved": [
+        {
+            "domain_name": "jamcoheatingandair.com",
+            "destination": "Kinsta",
+            "date": "2026-09-26 04:07:01"
+        },
         {
             "domain_name": "aerospacevendors.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "foodtrends.com",
             "destination": "Kinsta",
             "date": "2026-09-24 19:15:50"
-        },
-        {
-            "domain_name": "online.justmaths.co.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-09-24 17:33:56"
         }
     ],
     "dailyMovedStat": {
@@ -1241,7 +1241,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15153,
-        "Kinsta": 12473,
+        "Kinsta": 12474,
         "Digital Ocean": 7684,
         "Hostinger": 6127,
         "SiteGround": 5740,
