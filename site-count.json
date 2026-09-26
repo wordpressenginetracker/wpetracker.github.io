@@ -1,6 +1,16 @@
 {
-    "siteCount": 180382,
+    "siteCount": 180388,
     "recentlyMoved": [
+        {
+            "domain_name": "ncholidaylights.com",
+            "destination": "Hostinger",
+            "date": "2026-09-26 17:46:24"
+        },
+        {
+            "domain_name": "muniz.cpa",
+            "destination": "Digital Ocean",
+            "date": "2026-09-26 17:03:24"
+        },
         {
             "domain_name": "stirlingventuregroup.com",
             "destination": "Hostinger",
@@ -487,19 +497,9 @@
             "date": "2026-09-25 12:13:55"
         },
         {
-            "domain_name": "www.twincityinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-09-25 12:09:03"
-        },
-        {
             "domain_name": "brightindustries.com",
             "destination": "Pressable",
             "date": "2026-09-25 12:07:48"
-        },
-        {
-            "domain_name": "rarig.com",
-            "destination": "Pressable",
-            "date": "2026-09-25 12:05:37"
         }
     ],
     "dailyMovedStat": {
@@ -1242,8 +1242,8 @@
     "topDestinationHosts": {
         "Pressable": 15160,
         "Kinsta": 12487,
-        "Digital Ocean": 7690,
-        "Hostinger": 6131,
+        "Digital Ocean": 7691,
+        "Hostinger": 6132,
         "SiteGround": 5740,
         "Bluehost": 4818,
         "GoDaddy": 1918,
@@ -1257,7 +1257,7 @@
         "IONOS": 588,
         "DreamHost": 575,
         "Elementor Hosting": 570,
-        "Hetzner Online": 525,
+        "Hetzner Online": 526,
         "A2 Hosting": 482,
         "HostGator": 382
     },
