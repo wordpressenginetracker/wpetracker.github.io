@@ -1,6 +1,11 @@
 {
-    "siteCount": 180213,
+    "siteCount": 180222,
     "recentlyMoved": [
+        {
+            "domain_name": "canyonlandsbynight.com",
+            "destination": "HostGator",
+            "date": "2026-09-26 00:05:14"
+        },
         {
             "domain_name": "mikeshaw.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "newmindset.me",
             "destination": "Hostinger",
             "date": "2026-09-24 17:29:10"
-        },
-        {
-            "domain_name": "natalieyerger.com",
-            "destination": "BigScoots",
-            "date": "2026-09-24 17:27:33"
         },
         {
             "domain_name": "watkinsinsurance.com",
@@ -1259,7 +1259,7 @@
         "Elementor Hosting": 570,
         "Hetzner Online": 525,
         "A2 Hosting": 482,
-        "HostGator": 380
+        "HostGator": 381
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
