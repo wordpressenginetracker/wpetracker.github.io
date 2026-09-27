@@ -1,6 +1,11 @@
 {
-    "siteCount": 180456,
+    "siteCount": 180464,
     "recentlyMoved": [
+        {
+            "domain_name": "biomedhealthcenter.com",
+            "destination": "Pressable",
+            "date": "2026-09-26 23:45:12"
+        },
         {
             "domain_name": "vetrimaxproducts.com",
             "destination": "Digital Ocean",
@@ -480,11 +485,6 @@
             "domain_name": "mcdougalcapital.com",
             "destination": "Hostinger",
             "date": "2026-09-25 12:50:08"
-        },
-        {
-            "domain_name": "starrskarate.com",
-            "destination": "Kinsta",
-            "date": "2026-09-25 12:48:30"
         },
         {
             "domain_name": "www.saintpaulhotel.com",
@@ -1241,7 +1241,7 @@
         "2026-09-26": "180456"
     },
     "topDestinationHosts": {
-        "Pressable": 15164,
+        "Pressable": 15165,
         "Kinsta": 12488,
         "Digital Ocean": 7694,
         "Hostinger": 6132,
