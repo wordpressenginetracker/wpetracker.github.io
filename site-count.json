@@ -1,6 +1,11 @@
 {
-    "siteCount": 180501,
+    "siteCount": 180506,
     "recentlyMoved": [
+        {
+            "domain_name": "accesspiano.com",
+            "destination": "Hostinger",
+            "date": "2026-09-27 15:33:25"
+        },
         {
             "domain_name": "siegbahn.com",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "mcdougalcapital.com",
             "destination": "Hostinger",
             "date": "2026-09-25 12:50:08"
-        },
-        {
-            "domain_name": "lynnreviews.com",
-            "destination": "Hostinger",
-            "date": "2026-09-25 12:34:00"
         }
     ],
     "dailyMovedStat": {
@@ -1244,7 +1244,7 @@
         "Pressable": 15167,
         "Kinsta": 12488,
         "Digital Ocean": 7694,
-        "Hostinger": 6132,
+        "Hostinger": 6133,
         "SiteGround": 5741,
         "Bluehost": 4818,
         "GoDaddy": 1918,
