@@ -1,6 +1,11 @@
 {
-    "siteCount": 180593,
+    "siteCount": 180595,
     "recentlyMoved": [
+        {
+            "domain_name": "thegartenmeister.com",
+            "destination": "Hostinger",
+            "date": "2026-09-28 08:41:04"
+        },
         {
             "domain_name": "jenniferdelandlaw.com",
             "destination": "Hostinger",
@@ -490,11 +495,6 @@
             "domain_name": "www.hammerheadexterior.com",
             "destination": "Digital Ocean",
             "date": "2026-09-25 15:47:30"
-        },
-        {
-            "domain_name": "globalvitiligofoundation.org",
-            "destination": "Kinsta",
-            "date": "2026-09-25 15:46:14"
         },
         {
             "domain_name": "appleroof.com",
@@ -1245,7 +1245,7 @@
         "Pressable": 15167,
         "Kinsta": 12492,
         "Digital Ocean": 7694,
-        "Hostinger": 6142,
+        "Hostinger": 6143,
         "SiteGround": 5741,
         "Bluehost": 4818,
         "GoDaddy": 1918,
