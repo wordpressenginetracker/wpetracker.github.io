@@ -1,6 +1,16 @@
 {
-    "siteCount": 180737,
+    "siteCount": 180750,
     "recentlyMoved": [
+        {
+            "domain_name": "www.kalinsindoor.com",
+            "destination": "Kinsta",
+            "date": "2026-09-29 08:15:27"
+        },
+        {
+            "domain_name": "ahbeck.com",
+            "destination": "Digital Ocean",
+            "date": "2026-09-29 07:55:03"
+        },
         {
             "domain_name": "venuct.com",
             "destination": "Kinsta",
@@ -472,11 +482,6 @@
             "date": "2026-09-26 17:03:24"
         },
         {
-            "domain_name": "stirlingventuregroup.com",
-            "destination": "Hostinger",
-            "date": "2026-09-26 17:00:58"
-        },
-        {
             "domain_name": "thecoronado.com",
             "destination": "Kinsta",
             "date": "2026-09-26 16:58:17"
@@ -495,11 +500,6 @@
             "domain_name": "doughty-engineering.co.uk",
             "destination": "Hetzner Online",
             "date": "2026-09-26 16:50:42"
-        },
-        {
-            "domain_name": "caringadvisor.com",
-            "destination": "Digital Ocean",
-            "date": "2026-09-26 16:16:57"
         }
     ],
     "dailyMovedStat": {
@@ -1245,7 +1245,7 @@
     "topDestinationHosts": {
         "Pressable": 15169,
         "Kinsta": 12495,
-        "Digital Ocean": 7698,
+        "Digital Ocean": 7699,
         "Hostinger": 6146,
         "SiteGround": 5741,
         "Bluehost": 4818,
