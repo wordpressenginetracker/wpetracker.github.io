@@ -1,6 +1,11 @@
 {
-    "siteCount": 181045,
+    "siteCount": 181054,
     "recentlyMoved": [
+        {
+            "domain_name": "vacationsbyj.com",
+            "destination": "OVH",
+            "date": "2026-09-29 21:14:22"
+        },
         {
             "domain_name": "travelyourchoice247.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "destination-now.com",
             "destination": "OVH",
             "date": "2026-09-29 00:48:20"
-        },
-        {
-            "domain_name": "dailydeparturestravel.com",
-            "destination": "OVH",
-            "date": "2026-09-29 00:45:03"
         }
     ],
     "dailyMovedStat": {
@@ -1254,7 +1254,7 @@
         "Liquid Web": 963,
         "Namecheap": 869,
         "WordPress.com": 836,
-        "OVH": 829,
+        "OVH": 831,
         "GridPane": 749,
         "InMotion Hosting": 626,
         "IONOS": 588,
