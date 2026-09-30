@@ -1,6 +1,16 @@
 {
-    "siteCount": 181066,
+    "siteCount": 181076,
     "recentlyMoved": [
+        {
+            "domain_name": "thegrowlybooks.com",
+            "destination": "BigScoots",
+            "date": "2026-09-30 01:38:34"
+        },
+        {
+            "domain_name": "liddell.works",
+            "destination": "Wordify",
+            "date": "2026-09-30 01:16:26"
+        },
         {
             "domain_name": "beccamason.com",
             "destination": "WordPress.com",
@@ -490,16 +500,6 @@
             "domain_name": "tmebykrystal.com",
             "destination": "OVH",
             "date": "2026-09-29 00:57:50"
-        },
-        {
-            "domain_name": "destinationtravelconcierge.com",
-            "destination": "OVH",
-            "date": "2026-09-29 00:48:20"
-        },
-        {
-            "domain_name": "destination-now.com",
-            "destination": "OVH",
-            "date": "2026-09-29 00:48:20"
         }
     ],
     "dailyMovedStat": {
@@ -1251,7 +1251,7 @@
         "SiteGround": 5741,
         "Bluehost": 4821,
         "GoDaddy": 1922,
-        "BigScoots": 1064,
+        "BigScoots": 1065,
         "Liquid Web": 963,
         "Namecheap": 869,
         "WordPress.com": 837,
