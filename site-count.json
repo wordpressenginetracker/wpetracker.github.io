@@ -1,6 +1,11 @@
 {
-    "siteCount": 181299,
+    "siteCount": 181304,
     "recentlyMoved": [
+        {
+            "domain_name": "eaemdr.com",
+            "destination": "Kinsta",
+            "date": "2026-09-30 17:48:06"
+        },
         {
             "domain_name": "mmntm.com",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "sequeltravel.com",
             "destination": "Kinsta",
             "date": "2026-09-29 16:16:51"
-        },
-        {
-            "domain_name": "goodseo.co",
-            "destination": "Wordify",
-            "date": "2026-09-29 16:07:12"
         },
         {
             "domain_name": "birdsandexotics.com",
@@ -1245,7 +1245,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15180,
-        "Kinsta": 12545,
+        "Kinsta": 12549,
         "Digital Ocean": 7714,
         "Hostinger": 6159,
         "SiteGround": 5741,
