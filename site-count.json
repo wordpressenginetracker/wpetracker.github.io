@@ -1,6 +1,11 @@
 {
-    "siteCount": 181054,
+    "siteCount": 181066,
     "recentlyMoved": [
+        {
+            "domain_name": "beccamason.com",
+            "destination": "WordPress.com",
+            "date": "2026-09-30 00:07:20"
+        },
         {
             "domain_name": "vacationsbyj.com",
             "destination": "OVH",
@@ -420,11 +425,6 @@
             "domain_name": "vinlynn.travel",
             "destination": "OVH",
             "date": "2026-09-29 01:36:40"
-        },
-        {
-            "domain_name": "yologroupvacations.com",
-            "destination": "OVH",
-            "date": "2026-09-29 01:31:39"
         },
         {
             "domain_name": "omgwhatavacation.guru",
@@ -1254,7 +1254,7 @@
         "BigScoots": 1064,
         "Liquid Web": 963,
         "Namecheap": 869,
-        "WordPress.com": 836,
+        "WordPress.com": 837,
         "OVH": 831,
         "GridPane": 749,
         "InMotion Hosting": 626,
