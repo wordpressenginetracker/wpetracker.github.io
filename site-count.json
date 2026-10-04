@@ -1,6 +1,11 @@
 {
-    "siteCount": 183223,
+    "siteCount": 183240,
     "recentlyMoved": [
+        {
+            "domain_name": "heathernelsonphotography.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-04 16:07:11"
+        },
         {
             "domain_name": "dreamydestinationstravels.com",
             "destination": "OVH",
@@ -490,11 +495,6 @@
             "domain_name": "letsvacationgetaways.com",
             "destination": "OVH",
             "date": "2026-10-03 12:45:52"
-        },
-        {
-            "domain_name": "centralvillageleominster.com",
-            "destination": "HostGator",
-            "date": "2026-10-03 12:38:17"
         },
         {
             "domain_name": "www.sunshinephotocart.com",
@@ -1250,7 +1250,7 @@
     "topDestinationHosts": {
         "Pressable": 15196,
         "Kinsta": 12616,
-        "Digital Ocean": 7754,
+        "Digital Ocean": 7755,
         "Hostinger": 6197,
         "SiteGround": 5741,
         "Bluehost": 4827,
@@ -1259,7 +1259,7 @@
         "BigScoots": 1081,
         "Liquid Web": 974,
         "Namecheap": 873,
-        "WordPress.com": 840,
+        "WordPress.com": 841,
         "GridPane": 763,
         "InMotion Hosting": 627,
         "IONOS": 589,
