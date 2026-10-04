@@ -1,6 +1,21 @@
 {
-    "siteCount": 183168,
+    "siteCount": 183178,
     "recentlyMoved": [
+        {
+            "domain_name": "androidtv2u.com",
+            "destination": "Hostinger",
+            "date": "2026-10-04 07:57:23"
+        },
+        {
+            "domain_name": "rusticlanterntradingpost.com",
+            "destination": "Hostinger",
+            "date": "2026-10-04 07:49:41"
+        },
+        {
+            "domain_name": "helotescollision.com",
+            "destination": "HostGator",
+            "date": "2026-10-04 07:39:49"
+        },
         {
             "domain_name": "ministorageofjoplin.com",
             "destination": "Digital Ocean",
@@ -485,21 +500,6 @@
             "domain_name": "seeworthyescapes.com",
             "destination": "OVH",
             "date": "2026-10-03 11:56:28"
-        },
-        {
-            "domain_name": "hesstravel.com",
-            "destination": "Kinsta",
-            "date": "2026-10-03 11:52:26"
-        },
-        {
-            "domain_name": "apiivapp.nysora.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-03 11:48:40"
-        },
-        {
-            "domain_name": "www.dirtbikefrenzy.com",
-            "destination": "Pressable",
-            "date": "2026-10-03 11:40:46"
         }
     ],
     "dailyMovedStat": {
@@ -1251,7 +1251,7 @@
         "Pressable": 15196,
         "Kinsta": 12615,
         "Digital Ocean": 7754,
-        "Hostinger": 6192,
+        "Hostinger": 6193,
         "SiteGround": 5741,
         "Bluehost": 4827,
         "GoDaddy": 1934,
@@ -1267,7 +1267,7 @@
         "Elementor Hosting": 572,
         "Hetzner Online": 534,
         "A2 Hosting": 484,
-        "HostGator": 386
+        "HostGator": 387
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
