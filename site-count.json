@@ -1,6 +1,16 @@
 {
-    "siteCount": 183145,
+    "siteCount": 183150,
     "recentlyMoved": [
+        {
+            "domain_name": "travesia.com",
+            "destination": "OVH",
+            "date": "2026-10-04 01:50:16"
+        },
+        {
+            "domain_name": "traveladvisorteam.com",
+            "destination": "OVH",
+            "date": "2026-10-04 01:50:16"
+        },
         {
             "domain_name": "lb-travel.com",
             "destination": "OVH",
@@ -467,11 +477,6 @@
             "date": "2026-10-03 12:13:08"
         },
         {
-            "domain_name": "goluxetravelgroup.com",
-            "destination": "OVH",
-            "date": "2026-10-03 12:12:41"
-        },
-        {
             "domain_name": "seeworthyescapes.com",
             "destination": "OVH",
             "date": "2026-10-03 11:56:28"
@@ -495,11 +500,6 @@
             "domain_name": "www.dirtbikefrenzy.com",
             "destination": "Pressable",
             "date": "2026-10-03 11:40:46"
-        },
-        {
-            "domain_name": "plantspiritschool.com",
-            "destination": "Hostinger",
-            "date": "2026-10-03 11:19:30"
         }
     ],
     "dailyMovedStat": {
@@ -1250,12 +1250,12 @@
     "topDestinationHosts": {
         "Pressable": 15196,
         "Kinsta": 12615,
-        "Digital Ocean": 7752,
+        "Digital Ocean": 7753,
         "Hostinger": 6192,
         "SiteGround": 5741,
         "Bluehost": 4827,
         "GoDaddy": 1934,
-        "OVH": 1623,
+        "OVH": 1625,
         "BigScoots": 1081,
         "Liquid Web": 974,
         "Namecheap": 873,
