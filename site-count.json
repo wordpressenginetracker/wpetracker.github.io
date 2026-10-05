@@ -1,6 +1,16 @@
 {
-    "siteCount": 183440,
+    "siteCount": 183462,
     "recentlyMoved": [
+        {
+            "domain_name": "carriebrown.com",
+            "destination": "Bluehost",
+            "date": "2026-10-05 12:54:28"
+        },
+        {
+            "domain_name": "www.lafuego.nl",
+            "destination": "Digital Ocean",
+            "date": "2026-10-05 12:05:34"
+        },
         {
             "domain_name": "prestige-immo.ch",
             "destination": "Hostinger",
@@ -490,16 +500,6 @@
             "domain_name": "heathernelsonphotography.com",
             "destination": "Digital Ocean",
             "date": "2026-10-04 16:07:11"
-        },
-        {
-            "domain_name": "dreamydestinationstravels.com",
-            "destination": "OVH",
-            "date": "2026-10-04 13:40:14"
-        },
-        {
-            "domain_name": "midindia.org",
-            "destination": "Hostinger",
-            "date": "2026-10-04 12:53:05"
         }
     ],
     "dailyMovedStat": {
@@ -1251,10 +1251,10 @@
     "topDestinationHosts": {
         "Pressable": 15199,
         "Kinsta": 12622,
-        "Digital Ocean": 7765,
+        "Digital Ocean": 7766,
         "Hostinger": 6203,
         "SiteGround": 5741,
-        "Bluehost": 4831,
+        "Bluehost": 4832,
         "GoDaddy": 1934,
         "OVH": 1692,
         "BigScoots": 1082,
