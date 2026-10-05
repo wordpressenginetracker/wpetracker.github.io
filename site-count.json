@@ -1,6 +1,16 @@
 {
-    "siteCount": 183408,
+    "siteCount": 183417,
     "recentlyMoved": [
+        {
+            "domain_name": "highpointfitness.com",
+            "destination": "Bluehost",
+            "date": "2026-10-05 08:24:44"
+        },
+        {
+            "domain_name": "illuminatebeauty.co",
+            "destination": "Bluehost",
+            "date": "2026-10-05 08:09:29"
+        },
         {
             "domain_name": "dreamyparadisetravel.com",
             "destination": "OVH",
@@ -482,11 +492,6 @@
             "date": "2026-10-04 08:15:03"
         },
         {
-            "domain_name": "androidtv2u.com",
-            "destination": "Hostinger",
-            "date": "2026-10-04 07:57:23"
-        },
-        {
             "domain_name": "rusticlanterntradingpost.com",
             "destination": "Hostinger",
             "date": "2026-10-04 07:49:41"
@@ -495,11 +500,6 @@
             "domain_name": "helotescollision.com",
             "destination": "HostGator",
             "date": "2026-10-04 07:39:49"
-        },
-        {
-            "domain_name": "ministorageofjoplin.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-04 03:49:34"
         }
     ],
     "dailyMovedStat": {
@@ -1254,7 +1254,7 @@
         "Digital Ocean": 7764,
         "Hostinger": 6202,
         "SiteGround": 5741,
-        "Bluehost": 4827,
+        "Bluehost": 4829,
         "GoDaddy": 1934,
         "OVH": 1691,
         "BigScoots": 1081,
