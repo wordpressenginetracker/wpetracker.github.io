@@ -1,6 +1,11 @@
 {
-    "siteCount": 183537,
+    "siteCount": 183540,
     "recentlyMoved": [
+        {
+            "domain_name": "escapehaventravels.com",
+            "destination": "OVH",
+            "date": "2026-10-05 21:56:18"
+        },
         {
             "domain_name": "memoriesandmoretravel.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "whatmattersnow.metcalffoundation.com",
             "destination": "Hostinger",
             "date": "2026-10-04 21:19:35"
-        },
-        {
-            "domain_name": "ehtravels.com",
-            "destination": "OVH",
-            "date": "2026-10-04 21:02:24"
         }
     ],
     "dailyMovedStat": {
@@ -1256,7 +1256,7 @@
         "SiteGround": 5742,
         "Bluehost": 4832,
         "GoDaddy": 1936,
-        "OVH": 1695,
+        "OVH": 1696,
         "BigScoots": 1083,
         "Liquid Web": 974,
         "Namecheap": 873,
