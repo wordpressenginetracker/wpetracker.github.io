@@ -1,6 +1,21 @@
 {
-    "siteCount": 183430,
+    "siteCount": 183440,
     "recentlyMoved": [
+        {
+            "domain_name": "prestige-immo.ch",
+            "destination": "Hostinger",
+            "date": "2026-10-05 12:04:19"
+        },
+        {
+            "domain_name": "backtohealthwellness.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-10-05 11:49:36"
+        },
+        {
+            "domain_name": "adventurepossible.com",
+            "destination": "Bluehost",
+            "date": "2026-10-05 11:30:25"
+        },
         {
             "domain_name": "lvpstudios.com",
             "destination": "BigScoots",
@@ -485,21 +500,6 @@
             "domain_name": "midindia.org",
             "destination": "Hostinger",
             "date": "2026-10-04 12:53:05"
-        },
-        {
-            "domain_name": "friendlyfamilytravels.com",
-            "destination": "OVH",
-            "date": "2026-10-04 11:56:55"
-        },
-        {
-            "domain_name": "assembletheagency.com",
-            "destination": "Kinsta",
-            "date": "2026-10-04 11:32:58"
-        },
-        {
-            "domain_name": "taylormadetravelllc.com",
-            "destination": "OVH",
-            "date": "2026-10-04 09:02:03"
         }
     ],
     "dailyMovedStat": {
@@ -1250,11 +1250,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 15199,
-        "Kinsta": 12621,
+        "Kinsta": 12622,
         "Digital Ocean": 7765,
-        "Hostinger": 6202,
+        "Hostinger": 6203,
         "SiteGround": 5741,
-        "Bluehost": 4830,
+        "Bluehost": 4831,
         "GoDaddy": 1934,
         "OVH": 1692,
         "BigScoots": 1082,
