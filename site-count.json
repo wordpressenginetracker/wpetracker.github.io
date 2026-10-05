@@ -1,6 +1,16 @@
 {
-    "siteCount": 183499,
+    "siteCount": 183527,
     "recentlyMoved": [
+        {
+            "domain_name": "performancedesigngroup.com",
+            "destination": "HostGator",
+            "date": "2026-10-05 20:12:10"
+        },
+        {
+            "domain_name": "www.yoursmiledesign.com",
+            "destination": "WordPress.com",
+            "date": "2026-10-05 19:43:51"
+        },
         {
             "domain_name": "subtronics.net",
             "destination": "SiteGround",
@@ -490,16 +500,6 @@
             "domain_name": "www.ger.nl",
             "destination": "Digital Ocean",
             "date": "2026-10-04 20:14:57"
-        },
-        {
-            "domain_name": "abctheworldtravel.com",
-            "destination": "OVH",
-            "date": "2026-10-04 19:52:01"
-        },
-        {
-            "domain_name": "rainmakerthinking.com",
-            "destination": "Pressable",
-            "date": "2026-10-04 19:44:47"
         }
     ],
     "dailyMovedStat": {
@@ -1251,16 +1251,16 @@
     "topDestinationHosts": {
         "Pressable": 15199,
         "Kinsta": 12622,
-        "Digital Ocean": 7766,
+        "Digital Ocean": 7768,
         "Hostinger": 6206,
         "SiteGround": 5742,
         "Bluehost": 4832,
-        "GoDaddy": 1935,
+        "GoDaddy": 1936,
         "OVH": 1694,
         "BigScoots": 1083,
         "Liquid Web": 974,
         "Namecheap": 873,
-        "WordPress.com": 843,
+        "WordPress.com": 844,
         "GridPane": 763,
         "InMotion Hosting": 627,
         "IONOS": 590,
@@ -1268,7 +1268,7 @@
         "Elementor Hosting": 572,
         "Hetzner Online": 534,
         "A2 Hosting": 485,
-        "HostGator": 387
+        "HostGator": 388
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
