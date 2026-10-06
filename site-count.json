@@ -1,6 +1,16 @@
 {
-    "siteCount": 183803,
+    "siteCount": 183808,
     "recentlyMoved": [
+        {
+            "domain_name": "escapeyourstate.com",
+            "destination": "OVH",
+            "date": "2026-10-06 22:03:33"
+        },
+        {
+            "domain_name": "omluxe.com",
+            "destination": "BigScoots",
+            "date": "2026-10-06 21:43:15"
+        },
         {
             "domain_name": "theknifeguy.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "illuminatebeauty.co",
             "destination": "Bluehost",
             "date": "2026-10-05 08:09:29"
-        },
-        {
-            "domain_name": "dreamyparadisetravel.com",
-            "destination": "OVH",
-            "date": "2026-10-05 04:56:56"
-        },
-        {
-            "domain_name": "nispcertified.com",
-            "destination": "Hostinger",
-            "date": "2026-10-05 02:03:33"
         }
     ],
     "dailyMovedStat": {
@@ -1257,8 +1257,8 @@
         "SiteGround": 5742,
         "Bluehost": 4832,
         "GoDaddy": 1937,
-        "OVH": 1719,
-        "BigScoots": 1089,
+        "OVH": 1720,
+        "BigScoots": 1090,
         "Liquid Web": 974,
         "Namecheap": 874,
         "WordPress.com": 845,
