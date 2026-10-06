@@ -1,10 +1,20 @@
 {
-    "siteCount": 183563,
+    "siteCount": 183568,
     "recentlyMoved": [
         {
             "domain_name": "jupiter-travel.com",
             "destination": "OVH",
             "date": "2026-10-06 01:03:45"
+        },
+        {
+            "domain_name": "travelnutvacations.com",
+            "destination": "OVH",
+            "date": "2026-10-06 00:57:03"
+        },
+        {
+            "domain_name": "travel.humblynomadic.com",
+            "destination": "OVH",
+            "date": "2026-10-06 00:57:03"
         },
         {
             "domain_name": "www.lenapepizza.com",
@@ -447,11 +457,6 @@
             "date": "2026-10-04 23:38:30"
         },
         {
-            "domain_name": "focusonfuntravel.com",
-            "destination": "OVH",
-            "date": "2026-10-04 23:36:27"
-        },
-        {
             "domain_name": "fscc-calledtobe.org",
             "destination": "Pressable",
             "date": "2026-10-04 23:35:05"
@@ -495,11 +500,6 @@
             "domain_name": "pattistravelconnection.com",
             "destination": "OVH",
             "date": "2026-10-04 23:20:01"
-        },
-        {
-            "domain_name": "p2-travel.com",
-            "destination": "OVH",
-            "date": "2026-10-04 23:06:25"
         }
     ],
     "dailyMovedStat": {
@@ -1257,7 +1257,7 @@
         "SiteGround": 5742,
         "Bluehost": 4832,
         "GoDaddy": 1936,
-        "OVH": 1698,
+        "OVH": 1700,
         "BigScoots": 1083,
         "Liquid Web": 974,
         "Namecheap": 873,
