@@ -1,6 +1,11 @@
 {
-    "siteCount": 183540,
+    "siteCount": 183553,
     "recentlyMoved": [
+        {
+            "domain_name": "www.401kmaneuver.com",
+            "destination": "Kinsta",
+            "date": "2026-10-05 23:40:05"
+        },
         {
             "domain_name": "escapehaventravels.com",
             "destination": "OVH",
@@ -490,11 +495,6 @@
             "domain_name": "p2-travel.com",
             "destination": "OVH",
             "date": "2026-10-04 23:06:25"
-        },
-        {
-            "domain_name": "elderartistslegalresource.org",
-            "destination": "Kinsta",
-            "date": "2026-10-04 21:57:36"
         },
         {
             "domain_name": "whatmattersnow.metcalffoundation.com",
@@ -1251,7 +1251,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15199,
-        "Kinsta": 12624,
+        "Kinsta": 12625,
         "Digital Ocean": 7768,
         "Hostinger": 6206,
         "SiteGround": 5742,
