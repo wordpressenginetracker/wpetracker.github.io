@@ -1,10 +1,20 @@
 {
-    "siteCount": 183865,
+    "siteCount": 183881,
     "recentlyMoved": [
+        {
+            "domain_name": "spinept.com",
+            "destination": "Kinsta",
+            "date": "2026-10-07 05:01:53"
+        },
         {
             "domain_name": "rimcountrymechanical.com",
             "destination": "Kinsta",
             "date": "2026-10-07 04:32:40"
+        },
+        {
+            "domain_name": "www.maschiosoames.com",
+            "destination": "Kinsta",
+            "date": "2026-10-07 04:27:05"
         },
         {
             "domain_name": "ramrestore.com",
@@ -490,16 +500,6 @@
             "domain_name": "memoriesandmoretravel.com",
             "destination": "OVH",
             "date": "2026-10-05 21:35:20"
-        },
-        {
-            "domain_name": "davisfinancialllc.com",
-            "destination": "Kinsta",
-            "date": "2026-10-05 21:17:46"
-        },
-        {
-            "domain_name": "yourmoneyadvocate.net",
-            "destination": "Kinsta",
-            "date": "2026-10-05 20:56:59"
         }
     ],
     "dailyMovedStat": {
@@ -1252,7 +1252,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15206,
-        "Kinsta": 12656,
+        "Kinsta": 12658,
         "Digital Ocean": 7779,
         "Hostinger": 6212,
         "SiteGround": 5742,
