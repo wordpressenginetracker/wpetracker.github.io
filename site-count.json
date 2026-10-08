@@ -1,6 +1,11 @@
 {
-    "siteCount": 184256,
+    "siteCount": 184260,
     "recentlyMoved": [
+        {
+            "domain_name": "northcoastroasting.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 05:28:44"
+        },
         {
             "domain_name": "clmmotos.be",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "makpc.com",
             "destination": "Kinsta",
             "date": "2026-10-06 20:42:55"
-        },
-        {
-            "domain_name": "www.paintingthepoeticlandscape.com",
-            "destination": "Kinsta",
-            "date": "2026-10-06 20:37:36"
         }
     ],
     "dailyMovedStat": {
@@ -1255,7 +1255,7 @@
         "Pressable": 15212,
         "Kinsta": 12679,
         "Digital Ocean": 7791,
-        "Hostinger": 6220,
+        "Hostinger": 6222,
         "SiteGround": 5742,
         "Bluehost": 4832,
         "GoDaddy": 1938,
