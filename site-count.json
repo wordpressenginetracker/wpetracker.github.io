@@ -1,6 +1,21 @@
 {
-    "siteCount": 184237,
+    "siteCount": 184256,
     "recentlyMoved": [
+        {
+            "domain_name": "clmmotos.be",
+            "destination": "Kinsta",
+            "date": "2026-10-08 05:10:31"
+        },
+        {
+            "domain_name": "trinitypsychwellness.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 05:08:18"
+        },
+        {
+            "domain_name": "serviceplusnow.com",
+            "destination": "Kinsta",
+            "date": "2026-10-08 04:45:33"
+        },
         {
             "domain_name": "rwmillerplumbing.com",
             "destination": "Kinsta",
@@ -477,16 +492,6 @@
             "date": "2026-10-06 20:47:15"
         },
         {
-            "domain_name": "simplyunderstandnutrition.com",
-            "destination": "BigScoots",
-            "date": "2026-10-06 20:45:56"
-        },
-        {
-            "domain_name": "simontrask.com",
-            "destination": "Namecheap",
-            "date": "2026-10-06 20:45:56"
-        },
-        {
             "domain_name": "makpc.com",
             "destination": "Kinsta",
             "date": "2026-10-06 20:42:55"
@@ -495,11 +500,6 @@
             "domain_name": "www.paintingthepoeticlandscape.com",
             "destination": "Kinsta",
             "date": "2026-10-06 20:37:36"
-        },
-        {
-            "domain_name": "www.lonestarpace.com",
-            "destination": "GridPane",
-            "date": "2026-10-06 20:34:44"
         }
     ],
     "dailyMovedStat": {
@@ -1253,7 +1253,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15212,
-        "Kinsta": 12676,
+        "Kinsta": 12679,
         "Digital Ocean": 7791,
         "Hostinger": 6220,
         "SiteGround": 5742,
