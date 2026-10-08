@@ -1,6 +1,76 @@
 {
-    "siteCount": 184446,
+    "siteCount": 184515,
     "recentlyMoved": [
+        {
+            "domain_name": "www.hockersdeli.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 20:37:27"
+        },
+        {
+            "domain_name": "www.gerardyphoto.com",
+            "destination": "GridPane",
+            "date": "2026-10-08 20:25:08"
+        },
+        {
+            "domain_name": "www.harrycaswell.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 20:08:15"
+        },
+        {
+            "domain_name": "www.flourishthemoment.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 20:04:47"
+        },
+        {
+            "domain_name": "www.flagsforheroes-lrrc.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 20:04:47"
+        },
+        {
+            "domain_name": "www.kpclassiccars.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 20:04:25"
+        },
+        {
+            "domain_name": "redekopfaye.com",
+            "destination": "Kinsta",
+            "date": "2026-10-08 20:00:15"
+        },
+        {
+            "domain_name": "www.deweybeachlife.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 19:57:56"
+        },
+        {
+            "domain_name": "www.bethanybeach.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 19:54:53"
+        },
+        {
+            "domain_name": "gosonar.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-08 19:46:28"
+        },
+        {
+            "domain_name": "www.infusionsolutions.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 19:46:04"
+        },
+        {
+            "domain_name": "astrainsurancegroup.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-08 19:40:58"
+        },
+        {
+            "domain_name": "knowledge.gosonar.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-08 19:34:01"
+        },
+        {
+            "domain_name": "www.abateofde.com",
+            "destination": "Hostinger",
+            "date": "2026-10-08 19:27:07"
+        },
         {
             "domain_name": "etminc.com",
             "destination": "Kinsta",
@@ -422,21 +492,6 @@
             "date": "2026-10-07 16:38:32"
         },
         {
-            "domain_name": "atalyst.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-10-07 16:24:05"
-        },
-        {
-            "domain_name": "grooveist.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-07 16:19:08"
-        },
-        {
-            "domain_name": "futuremajority.org",
-            "destination": "Kinsta",
-            "date": "2026-10-07 16:11:59"
-        },
-        {
             "domain_name": "ivavoice.com",
             "destination": "Kinsta",
             "date": "2026-10-07 16:09:16"
@@ -445,61 +500,6 @@
             "domain_name": "heliontechnologies.com",
             "destination": "Hostinger",
             "date": "2026-10-07 16:04:33"
-        },
-        {
-            "domain_name": "adracare.com",
-            "destination": "Kinsta",
-            "date": "2026-10-07 16:03:43"
-        },
-        {
-            "domain_name": "frcharities.org",
-            "destination": "Kinsta",
-            "date": "2026-10-07 15:56:01"
-        },
-        {
-            "domain_name": "primacentral.org",
-            "destination": "Liquid Web",
-            "date": "2026-10-07 15:28:34"
-        },
-        {
-            "domain_name": "onewayairfl.com",
-            "destination": "Pressable",
-            "date": "2026-10-07 14:14:20"
-        },
-        {
-            "domain_name": "wakeaudubon.org",
-            "destination": "Kinsta",
-            "date": "2026-10-07 13:54:16"
-        },
-        {
-            "domain_name": "downtowndelawaresid.com",
-            "destination": "BigScoots",
-            "date": "2026-10-07 13:46:21"
-        },
-        {
-            "domain_name": "media.freightwaves.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-07 13:39:28"
-        },
-        {
-            "domain_name": "yourdreamtravels.com",
-            "destination": "OVH",
-            "date": "2026-10-07 13:36:07"
-        },
-        {
-            "domain_name": "nextleveltg.com",
-            "destination": "Hostinger",
-            "date": "2026-10-07 13:28:12"
-        },
-        {
-            "domain_name": "emotivemedicalsolutions.com",
-            "destination": "Pressable",
-            "date": "2026-10-07 13:10:31"
-        },
-        {
-            "domain_name": "eliteglobaladventures.com",
-            "destination": "OVH",
-            "date": "2026-10-07 13:06:43"
         }
     ],
     "dailyMovedStat": {
@@ -1253,18 +1253,18 @@
     },
     "topDestinationHosts": {
         "Pressable": 15219,
-        "Kinsta": 12684,
-        "Digital Ocean": 7795,
-        "Hostinger": 6236,
+        "Kinsta": 12686,
+        "Digital Ocean": 7799,
+        "Hostinger": 6244,
         "SiteGround": 5742,
-        "Bluehost": 4836,
+        "Bluehost": 4837,
         "GoDaddy": 1939,
         "OVH": 1742,
         "BigScoots": 1100,
         "Liquid Web": 976,
         "Namecheap": 876,
         "WordPress.com": 846,
-        "GridPane": 772,
+        "GridPane": 773,
         "InMotion Hosting": 627,
         "IONOS": 593,
         "DreamHost": 578,
