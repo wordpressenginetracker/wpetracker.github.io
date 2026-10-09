@@ -1,10 +1,35 @@
 {
-    "siteCount": 184648,
+    "siteCount": 184663,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wxnafm.org",
+            "destination": "Pressable",
+            "date": "2026-10-09 09:07:20"
+        },
+        {
+            "domain_name": "www.riseandshinelearningcenter.com",
+            "destination": "Hostinger",
+            "date": "2026-10-09 08:54:30"
+        },
+        {
+            "domain_name": "transendlogistics.com",
+            "destination": "Hostinger",
+            "date": "2026-10-09 08:52:53"
+        },
+        {
+            "domain_name": "sonoranscapes.com",
+            "destination": "Kinsta",
+            "date": "2026-10-09 08:43:49"
+        },
         {
             "domain_name": "www.firststateinspection.com",
             "destination": "Hostinger",
             "date": "2026-10-09 08:26:31"
+        },
+        {
+            "domain_name": "jrotc-outfitters.com",
+            "destination": "Pressable",
+            "date": "2026-10-09 08:13:10"
         },
         {
             "domain_name": "www.dustntime.com",
@@ -437,11 +462,6 @@
             "date": "2026-10-08 16:26:05"
         },
         {
-            "domain_name": "www.drslawnmaintenance.com",
-            "destination": "Hostinger",
-            "date": "2026-10-08 16:16:30"
-        },
-        {
             "domain_name": "www.mainstaypublishing.com",
             "destination": "Hostinger",
             "date": "2026-10-08 16:14:11"
@@ -467,11 +487,6 @@
             "date": "2026-10-08 16:00:57"
         },
         {
-            "domain_name": "www.centralworshipcenter.org",
-            "destination": "Hostinger",
-            "date": "2026-10-08 15:59:33"
-        },
-        {
             "domain_name": "www.jusstsooup.org",
             "destination": "Hostinger",
             "date": "2026-10-08 15:59:31"
@@ -485,21 +500,6 @@
             "domain_name": "ituity.com",
             "destination": "Pressable",
             "date": "2026-10-08 15:53:11"
-        },
-        {
-            "domain_name": "www.comfyvacationrentals.com",
-            "destination": "Hostinger",
-            "date": "2026-10-08 15:46:28"
-        },
-        {
-            "domain_name": "asknaytogo.com",
-            "destination": "OVH",
-            "date": "2026-10-08 15:40:15"
-        },
-        {
-            "domain_name": "www.climeco.com",
-            "destination": "Pressable",
-            "date": "2026-10-08 15:27:45"
         }
     ],
     "dailyMovedStat": {
@@ -1253,10 +1253,10 @@
         "2026-10-08": "184550"
     },
     "topDestinationHosts": {
-        "Pressable": 15224,
-        "Kinsta": 12695,
+        "Pressable": 15226,
+        "Kinsta": 12696,
         "Digital Ocean": 7800,
-        "Hostinger": 6284,
+        "Hostinger": 6285,
         "SiteGround": 5742,
         "Bluehost": 4837,
         "GoDaddy": 1940,
