@@ -1,6 +1,11 @@
 {
-    "siteCount": 184818,
+    "siteCount": 184823,
     "recentlyMoved": [
+        {
+            "domain_name": "wataugadental.net",
+            "destination": "Digital Ocean",
+            "date": "2026-10-09 17:39:55"
+        },
         {
             "domain_name": "staycuriousadventures.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "roofingsolutionsoftexas.com",
             "destination": "Wordify",
             "date": "2026-10-08 23:54:51"
-        },
-        {
-            "domain_name": "asuttleartist.com",
-            "destination": "Wordify",
-            "date": "2026-10-08 23:48:53"
         }
     ],
     "dailyMovedStat": {
@@ -1255,7 +1255,7 @@
     "topDestinationHosts": {
         "Pressable": 15231,
         "Kinsta": 12700,
-        "Digital Ocean": 7804,
+        "Digital Ocean": 7805,
         "Hostinger": 6302,
         "SiteGround": 5742,
         "Bluehost": 4840,
