@@ -1,6 +1,31 @@
 {
-    "siteCount": 184823,
+    "siteCount": 184885,
     "recentlyMoved": [
+        {
+            "domain_name": "gulfcoasteventcenter.com",
+            "destination": "GoDaddy",
+            "date": "2026-10-09 20:23:30"
+        },
+        {
+            "domain_name": "blackrockdigital.agency",
+            "destination": "Hostinger",
+            "date": "2026-10-09 20:07:04"
+        },
+        {
+            "domain_name": "hopitelecom.com",
+            "destination": "OVH",
+            "date": "2026-10-09 19:54:45"
+        },
+        {
+            "domain_name": "alchemyacademy.world",
+            "destination": "Hostinger",
+            "date": "2026-10-09 19:50:07"
+        },
+        {
+            "domain_name": "www.georgeschlatter.com",
+            "destination": "Pressable",
+            "date": "2026-10-09 19:09:46"
+        },
         {
             "domain_name": "wataugadental.net",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "lobbying-and-gift-survey.wileyrein.com",
             "destination": "Pressable",
             "date": "2026-10-09 00:42:32"
-        },
-        {
-            "domain_name": "charburger.com",
-            "destination": "Kinsta",
-            "date": "2026-10-09 00:40:09"
-        },
-        {
-            "domain_name": "servicesites.io",
-            "destination": "Wordify",
-            "date": "2026-10-09 00:10:17"
-        },
-        {
-            "domain_name": "www.miltonclipperexpress.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 00:03:30"
-        },
-        {
-            "domain_name": "www.hayeshygiene.com",
-            "destination": "Kinsta",
-            "date": "2026-10-08 23:56:25"
-        },
-        {
-            "domain_name": "roofingsolutionsoftexas.com",
-            "destination": "Wordify",
-            "date": "2026-10-08 23:54:51"
         }
     ],
     "dailyMovedStat": {
@@ -1253,17 +1253,17 @@
         "2026-10-08": "184550"
     },
     "topDestinationHosts": {
-        "Pressable": 15231,
+        "Pressable": 15232,
         "Kinsta": 12700,
-        "Digital Ocean": 7805,
-        "Hostinger": 6302,
+        "Digital Ocean": 7806,
+        "Hostinger": 6305,
         "SiteGround": 5742,
         "Bluehost": 4840,
-        "GoDaddy": 1943,
-        "OVH": 1747,
+        "GoDaddy": 1944,
+        "OVH": 1748,
         "BigScoots": 1105,
         "Liquid Web": 976,
-        "Namecheap": 876,
+        "Namecheap": 878,
         "WordPress.com": 847,
         "GridPane": 779,
         "InMotion Hosting": 628,
@@ -1272,7 +1272,7 @@
         "Elementor Hosting": 575,
         "Hetzner Online": 536,
         "A2 Hosting": 485,
-        "HostGator": 388
+        "HostGator": 389
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
