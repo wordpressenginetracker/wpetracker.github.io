@@ -1,6 +1,21 @@
 {
-    "siteCount": 184903,
+    "siteCount": 184907,
     "recentlyMoved": [
+        {
+            "domain_name": "evxsolar.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-09 21:42:49"
+        },
+        {
+            "domain_name": "nelson-miller.com",
+            "destination": "Kinsta",
+            "date": "2026-10-09 21:38:00"
+        },
+        {
+            "domain_name": "mountainairweb.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-09 21:21:17"
+        },
         {
             "domain_name": "www.unitrack.com",
             "destination": "Hostinger",
@@ -477,29 +492,14 @@
             "date": "2026-10-09 03:55:21"
         },
         {
-            "domain_name": "www.clayamonroe.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 03:51:09"
-        },
-        {
             "domain_name": "www.delawareshore-realestate.com",
             "destination": "Hostinger",
             "date": "2026-10-09 03:50:45"
         },
         {
-            "domain_name": "www.coolspringchurch.org",
-            "destination": "Hostinger",
-            "date": "2026-10-09 03:43:36"
-        },
-        {
             "domain_name": "www.dufflebagsandmore.org",
             "destination": "Hostinger",
             "date": "2026-10-09 03:38:14"
-        },
-        {
-            "domain_name": "www.dancedelaware.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 03:32:16"
         }
     ],
     "dailyMovedStat": {
@@ -1254,8 +1254,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 15233,
-        "Kinsta": 12703,
-        "Digital Ocean": 7806,
+        "Kinsta": 12704,
+        "Digital Ocean": 7808,
         "Hostinger": 6308,
         "SiteGround": 5742,
         "Bluehost": 4840,
