@@ -1,6 +1,26 @@
 {
-    "siteCount": 185009,
+    "siteCount": 185031,
     "recentlyMoved": [
+        {
+            "domain_name": "www.alideck.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-10-10 12:10:23"
+        },
+        {
+            "domain_name": "ratings.freightwaves.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-10 11:32:02"
+        },
+        {
+            "domain_name": "www.activemfg.net",
+            "destination": "Pressable",
+            "date": "2026-10-10 11:29:25"
+        },
+        {
+            "domain_name": "acm.edu",
+            "destination": "Kinsta",
+            "date": "2026-10-10 11:27:39"
+        },
         {
             "domain_name": "nattahomes.co.uk",
             "destination": "Kinsta",
@@ -472,16 +492,6 @@
             "date": "2026-10-09 12:17:00"
         },
         {
-            "domain_name": "www.beginnings-beyond.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 12:13:20"
-        },
-        {
-            "domain_name": "www.countrycornersmarket.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 12:08:30"
-        },
-        {
             "domain_name": "www.easternlifttruck.com",
             "destination": "Kinsta",
             "date": "2026-10-09 12:04:00"
@@ -490,16 +500,6 @@
             "domain_name": "www.firststatefab.com",
             "destination": "Hostinger",
             "date": "2026-10-09 11:43:26"
-        },
-        {
-            "domain_name": "www.clubfitnessdover.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 11:42:12"
-        },
-        {
-            "domain_name": "www.delawaremudrun.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 11:39:41"
         }
     ],
     "dailyMovedStat": {
@@ -1254,9 +1254,9 @@
         "2026-10-09": "184907"
     },
     "topDestinationHosts": {
-        "Pressable": 15234,
-        "Kinsta": 12714,
-        "Digital Ocean": 7812,
+        "Pressable": 15235,
+        "Kinsta": 12716,
+        "Digital Ocean": 7813,
         "Hostinger": 6329,
         "SiteGround": 5742,
         "Bluehost": 4840,
