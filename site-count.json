@@ -1,6 +1,21 @@
 {
-    "siteCount": 184957,
+    "siteCount": 184964,
     "recentlyMoved": [
+        {
+            "domain_name": "greatersum.studio",
+            "destination": "Hostinger",
+            "date": "2026-10-10 04:08:07"
+        },
+        {
+            "domain_name": "aquafacility.com",
+            "destination": "Hostinger",
+            "date": "2026-10-10 04:04:57"
+        },
+        {
+            "domain_name": "amatone.fit",
+            "destination": "GoDaddy",
+            "date": "2026-10-10 03:47:59"
+        },
         {
             "domain_name": "travelplansbyshan.com",
             "destination": "OVH",
@@ -472,11 +487,6 @@
             "date": "2026-10-09 07:54:45"
         },
         {
-            "domain_name": "www.cfsconstruction.net",
-            "destination": "Hostinger",
-            "date": "2026-10-09 07:48:47"
-        },
-        {
             "domain_name": "reve-en-vert.com",
             "destination": "Kinsta",
             "date": "2026-10-09 07:44:16"
@@ -490,16 +500,6 @@
             "domain_name": "archipelagobooks.org",
             "destination": "Kinsta",
             "date": "2026-10-09 07:40:11"
-        },
-        {
-            "domain_name": "topaero.synapsetest.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 05:32:34"
-        },
-        {
-            "domain_name": "vacations.shawstonetravel.com",
-            "destination": "OVH",
-            "date": "2026-10-09 04:56:56"
         }
     ],
     "dailyMovedStat": {
@@ -1257,10 +1257,10 @@
         "Pressable": 15234,
         "Kinsta": 12705,
         "Digital Ocean": 7810,
-        "Hostinger": 6322,
+        "Hostinger": 6324,
         "SiteGround": 5742,
         "Bluehost": 4840,
-        "GoDaddy": 1944,
+        "GoDaddy": 1945,
         "OVH": 1749,
         "BigScoots": 1105,
         "Liquid Web": 976,
