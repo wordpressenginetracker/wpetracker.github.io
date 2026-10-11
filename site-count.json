@@ -1,6 +1,16 @@
 {
-    "siteCount": 185236,
+    "siteCount": 185240,
     "recentlyMoved": [
+        {
+            "domain_name": "ncbwsanfran.org",
+            "destination": "Hostinger",
+            "date": "2026-10-11 01:42:27"
+        },
+        {
+            "domain_name": "warrenpkg.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-11 01:40:36"
+        },
         {
             "domain_name": "trandolphandfriends.com",
             "destination": "Digital Ocean",
@@ -482,11 +492,6 @@
             "date": "2026-10-10 00:29:03"
         },
         {
-            "domain_name": "www.kentislandmaintenance.com",
-            "destination": "Hostinger",
-            "date": "2026-10-10 00:29:03"
-        },
-        {
             "domain_name": "www.shamrockpar3golf.com",
             "destination": "Hostinger",
             "date": "2026-10-10 00:26:01"
@@ -495,11 +500,6 @@
             "domain_name": "www.murphyelectricde.com",
             "destination": "Hostinger",
             "date": "2026-10-10 00:08:09"
-        },
-        {
-            "domain_name": "www.halffulllewes.com",
-            "destination": "Hostinger",
-            "date": "2026-10-09 23:58:49"
         }
     ],
     "dailyMovedStat": {
@@ -1257,8 +1257,8 @@
     "topDestinationHosts": {
         "Pressable": 15241,
         "Kinsta": 12723,
-        "Digital Ocean": 7816,
-        "Hostinger": 6365,
+        "Digital Ocean": 7818,
+        "Hostinger": 6366,
         "SiteGround": 5743,
         "Bluehost": 4840,
         "GoDaddy": 1948,
