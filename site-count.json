@@ -1,6 +1,11 @@
 {
-    "siteCount": 185340,
+    "siteCount": 185358,
     "recentlyMoved": [
+        {
+            "domain_name": "www.abovegradeinc.com",
+            "destination": "Hostinger",
+            "date": "2026-10-11 19:50:21"
+        },
         {
             "domain_name": "excursionsbyfotojournee.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "www.activemfg.net",
             "destination": "Pressable",
             "date": "2026-10-10 11:29:25"
-        },
-        {
-            "domain_name": "acm.edu",
-            "destination": "Kinsta",
-            "date": "2026-10-10 11:27:39"
         }
     ],
     "dailyMovedStat": {
@@ -1258,11 +1258,11 @@
         "Pressable": 15245,
         "Kinsta": 12724,
         "Digital Ocean": 7818,
-        "Hostinger": 6386,
+        "Hostinger": 6387,
         "SiteGround": 5743,
         "Bluehost": 4844,
-        "GoDaddy": 1948,
-        "OVH": 1760,
+        "GoDaddy": 1949,
+        "OVH": 1761,
         "BigScoots": 1106,
         "Liquid Web": 977,
         "Namecheap": 881,
