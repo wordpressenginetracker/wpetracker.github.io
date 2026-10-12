@@ -1,6 +1,11 @@
 {
-    "siteCount": 185495,
+    "siteCount": 185498,
     "recentlyMoved": [
+        {
+            "domain_name": "eudelo.com",
+            "destination": "IONOS",
+            "date": "2026-10-12 13:51:30"
+        },
         {
             "domain_name": "rsp.co.uk",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "www.fieldwoodrb.com",
             "destination": "Hostinger",
             "date": "2026-10-10 23:59:42"
-        },
-        {
-            "domain_name": "www.calvarychurchmilford.com",
-            "destination": "Hostinger",
-            "date": "2026-10-10 23:37:08"
         }
     ],
     "dailyMovedStat": {
@@ -1270,7 +1270,7 @@
         "WordPress.com": 848,
         "GridPane": 781,
         "InMotion Hosting": 628,
-        "IONOS": 593,
+        "IONOS": 594,
         "DreamHost": 579,
         "Elementor Hosting": 575,
         "Hetzner Online": 539,
