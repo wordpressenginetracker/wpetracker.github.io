@@ -1,6 +1,21 @@
 {
-    "siteCount": 185524,
+    "siteCount": 185558,
     "recentlyMoved": [
+        {
+            "domain_name": "www.giuliani.com",
+            "destination": "Hostinger",
+            "date": "2026-10-12 20:19:36"
+        },
+        {
+            "domain_name": "getpackedtravel.com",
+            "destination": "OVH",
+            "date": "2026-10-12 20:05:07"
+        },
+        {
+            "domain_name": "anchorzup.com",
+            "destination": "Hostinger",
+            "date": "2026-10-12 19:30:07"
+        },
         {
             "domain_name": "outofofficedestinations.net",
             "destination": "OVH",
@@ -480,21 +495,6 @@
             "domain_name": "www.rehobothshores.com",
             "destination": "Hostinger",
             "date": "2026-10-11 00:21:56"
-        },
-        {
-            "domain_name": "www.delhavenjewelers.com",
-            "destination": "Hostinger",
-            "date": "2026-10-11 00:06:16"
-        },
-        {
-            "domain_name": "www.delawaresilc.org",
-            "destination": "Hostinger",
-            "date": "2026-10-11 00:06:16"
-        },
-        {
-            "domain_name": "www.elementdg.com",
-            "destination": "Hostinger",
-            "date": "2026-10-11 00:04:54"
         },
         {
             "domain_name": "www.fieldwoodrb.com",
@@ -1257,16 +1257,16 @@
     },
     "topDestinationHosts": {
         "Pressable": 15247,
-        "Kinsta": 12727,
+        "Kinsta": 12728,
         "Digital Ocean": 7819,
-        "Hostinger": 6423,
+        "Hostinger": 6425,
         "SiteGround": 5743,
         "Bluehost": 4844,
         "GoDaddy": 1949,
-        "OVH": 1763,
+        "OVH": 1764,
         "BigScoots": 1107,
         "Liquid Web": 977,
-        "Namecheap": 881,
+        "Namecheap": 882,
         "WordPress.com": 848,
         "GridPane": 781,
         "InMotion Hosting": 628,
