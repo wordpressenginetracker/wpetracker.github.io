@@ -1,6 +1,11 @@
 {
-    "siteCount": 185915,
+    "siteCount": 185919,
     "recentlyMoved": [
+        {
+            "domain_name": "ultimatehomescooling.com",
+            "destination": "Kinsta",
+            "date": "2026-10-14 05:19:12"
+        },
         {
             "domain_name": "www.otiumcapital.com",
             "destination": "Digital Ocean",
@@ -495,11 +500,6 @@
             "domain_name": "www.hudsonfields.com",
             "destination": "Hostinger",
             "date": "2026-10-13 00:12:21"
-        },
-        {
-            "domain_name": "www.barbaracarrow.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 00:07:49"
         }
     ],
     "dailyMovedStat": {
@@ -1259,7 +1259,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15255,
-        "Kinsta": 12745,
+        "Kinsta": 12746,
         "Digital Ocean": 7843,
         "Hostinger": 6457,
         "SiteGround": 5744,
