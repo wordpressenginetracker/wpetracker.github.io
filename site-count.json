@@ -1,6 +1,21 @@
 {
-    "siteCount": 185980,
+    "siteCount": 186005,
     "recentlyMoved": [
+        {
+            "domain_name": "smoothstack.com",
+            "destination": "WordPress.com",
+            "date": "2026-10-14 13:00:06"
+        },
+        {
+            "domain_name": "shaponline.org",
+            "destination": "Liquid Web",
+            "date": "2026-10-14 12:47:39"
+        },
+        {
+            "domain_name": "ccabedminster.org",
+            "destination": "Kinsta",
+            "date": "2026-10-14 12:46:07"
+        },
         {
             "domain_name": "getsafetynetapp.com",
             "destination": "Digital Ocean",
@@ -467,11 +482,6 @@
             "date": "2026-10-13 05:29:49"
         },
         {
-            "domain_name": "casaioana.org",
-            "destination": "Hostinger",
-            "date": "2026-10-13 05:04:38"
-        },
-        {
             "domain_name": "thehvacshoppe.com",
             "destination": "Kinsta",
             "date": "2026-10-13 04:54:20"
@@ -490,16 +500,6 @@
             "domain_name": "www.peoplesplaza.com",
             "destination": "Hostinger",
             "date": "2026-10-13 04:31:04"
-        },
-        {
-            "domain_name": "jacksheppard.net",
-            "destination": "Hostinger",
-            "date": "2026-10-13 04:25:16"
-        },
-        {
-            "domain_name": "www.nanticokeindians.org",
-            "destination": "Hostinger",
-            "date": "2026-10-13 04:23:07"
         }
     ],
     "dailyMovedStat": {
@@ -1259,7 +1259,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15255,
-        "Kinsta": 12752,
+        "Kinsta": 12753,
         "Digital Ocean": 7844,
         "Hostinger": 6460,
         "SiteGround": 5744,
@@ -1267,9 +1267,9 @@
         "GoDaddy": 1951,
         "OVH": 1778,
         "BigScoots": 1107,
-        "Liquid Web": 978,
+        "Liquid Web": 979,
         "Namecheap": 882,
-        "WordPress.com": 850,
+        "WordPress.com": 851,
         "GridPane": 781,
         "InMotion Hosting": 628,
         "IONOS": 595,
