@@ -1,6 +1,16 @@
 {
-    "siteCount": 185897,
+    "siteCount": 185903,
     "recentlyMoved": [
+        {
+            "domain_name": "pltf-05.yamaha-dealer.network",
+            "destination": "Kinsta",
+            "date": "2026-10-14 03:50:37"
+        },
+        {
+            "domain_name": "www.aexservices.com",
+            "destination": "Pressable",
+            "date": "2026-10-14 03:14:46"
+        },
         {
             "domain_name": "davereaboi.com",
             "destination": "Kinsta",
@@ -487,19 +497,9 @@
             "date": "2026-10-12 20:19:36"
         },
         {
-            "domain_name": "getpackedtravel.com",
-            "destination": "OVH",
-            "date": "2026-10-12 20:05:07"
-        },
-        {
             "domain_name": "anchorzup.com",
             "destination": "Hostinger",
             "date": "2026-10-12 19:30:07"
-        },
-        {
-            "domain_name": "outofofficedestinations.net",
-            "destination": "OVH",
-            "date": "2026-10-12 15:13:26"
         }
     ],
     "dailyMovedStat": {
@@ -1258,8 +1258,8 @@
         "2026-10-13": "185869"
     },
     "topDestinationHosts": {
-        "Pressable": 15254,
-        "Kinsta": 12742,
+        "Pressable": 15255,
+        "Kinsta": 12743,
         "Digital Ocean": 7842,
         "Hostinger": 6455,
         "SiteGround": 5744,
