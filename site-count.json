@@ -1,6 +1,16 @@
 {
-    "siteCount": 185934,
+    "siteCount": 185947,
     "recentlyMoved": [
+        {
+            "domain_name": "www.walex.com",
+            "destination": "Kinsta",
+            "date": "2026-10-14 08:52:04"
+        },
+        {
+            "domain_name": "stonehearthremodeling.com",
+            "destination": "Kinsta",
+            "date": "2026-10-14 08:33:29"
+        },
         {
             "domain_name": "armellini-design.at",
             "destination": "Hetzner Online",
@@ -490,16 +500,6 @@
             "domain_name": "www.moviesatmidway.com",
             "destination": "Hostinger",
             "date": "2026-10-13 00:26:44"
-        },
-        {
-            "domain_name": "www.delawaresportsmedia.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 00:16:01"
-        },
-        {
-            "domain_name": "www.hudsonfields.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 00:12:21"
         }
     ],
     "dailyMovedStat": {
@@ -1259,7 +1259,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15255,
-        "Kinsta": 12746,
+        "Kinsta": 12748,
         "Digital Ocean": 7843,
         "Hostinger": 6458,
         "SiteGround": 5744,
