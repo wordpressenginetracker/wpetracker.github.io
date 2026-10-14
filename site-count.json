@@ -1,6 +1,16 @@
 {
-    "siteCount": 185958,
+    "siteCount": 185980,
     "recentlyMoved": [
+        {
+            "domain_name": "getsafetynetapp.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-14 12:06:12"
+        },
+        {
+            "domain_name": "adventuresdujour.com",
+            "destination": "OVH",
+            "date": "2026-10-14 11:15:10"
+        },
         {
             "domain_name": "weaverfamilyheatingandair.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "www.nanticokeindians.org",
             "destination": "Hostinger",
             "date": "2026-10-13 04:23:07"
-        },
-        {
-            "domain_name": "americas.bookl.et",
-            "destination": "Hostinger",
-            "date": "2026-10-13 03:52:26"
-        },
-        {
-            "domain_name": "www.brytonhomes.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 03:23:38"
         }
     ],
     "dailyMovedStat": {
@@ -1260,12 +1260,12 @@
     "topDestinationHosts": {
         "Pressable": 15255,
         "Kinsta": 12752,
-        "Digital Ocean": 7843,
-        "Hostinger": 6459,
+        "Digital Ocean": 7844,
+        "Hostinger": 6460,
         "SiteGround": 5744,
         "Bluehost": 4846,
         "GoDaddy": 1951,
-        "OVH": 1777,
+        "OVH": 1778,
         "BigScoots": 1107,
         "Liquid Web": 978,
         "Namecheap": 882,
