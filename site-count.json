@@ -1,6 +1,21 @@
 {
-    "siteCount": 185919,
+    "siteCount": 185934,
     "recentlyMoved": [
+        {
+            "domain_name": "armellini-design.at",
+            "destination": "Hetzner Online",
+            "date": "2026-10-14 08:21:27"
+        },
+        {
+            "domain_name": "homepromedical.com",
+            "destination": "Hostinger",
+            "date": "2026-10-14 08:18:44"
+        },
+        {
+            "domain_name": "www.djgrp.com",
+            "destination": "GoDaddy",
+            "date": "2026-10-14 08:12:19"
+        },
         {
             "domain_name": "ultimatehomescooling.com",
             "destination": "Kinsta",
@@ -477,24 +492,9 @@
             "date": "2026-10-13 00:26:44"
         },
         {
-            "domain_name": "www.cindylbeyerfineart.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 00:18:46"
-        },
-        {
             "domain_name": "www.delawaresportsmedia.com",
             "destination": "Hostinger",
             "date": "2026-10-13 00:16:01"
-        },
-        {
-            "domain_name": "www.defop.net",
-            "destination": "Hostinger",
-            "date": "2026-10-13 00:16:01"
-        },
-        {
-            "domain_name": "glamourgrottotravel.com",
-            "destination": "OVH",
-            "date": "2026-10-13 00:13:45"
         },
         {
             "domain_name": "www.hudsonfields.com",
@@ -1261,10 +1261,10 @@
         "Pressable": 15255,
         "Kinsta": 12746,
         "Digital Ocean": 7843,
-        "Hostinger": 6457,
+        "Hostinger": 6458,
         "SiteGround": 5744,
         "Bluehost": 4846,
-        "GoDaddy": 1950,
+        "GoDaddy": 1951,
         "OVH": 1777,
         "BigScoots": 1107,
         "Liquid Web": 978,
@@ -1275,7 +1275,7 @@
         "IONOS": 595,
         "DreamHost": 579,
         "Elementor Hosting": 575,
-        "Hetzner Online": 541,
+        "Hetzner Online": 542,
         "A2 Hosting": 487,
         "HostGator": 389
     },
