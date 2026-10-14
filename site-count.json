@@ -1,6 +1,11 @@
 {
-    "siteCount": 185893,
+    "siteCount": 185897,
     "recentlyMoved": [
+        {
+            "domain_name": "davereaboi.com",
+            "destination": "Kinsta",
+            "date": "2026-10-14 01:11:27"
+        },
         {
             "domain_name": "sunstopperslakenorman.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "outofofficedestinations.net",
             "destination": "OVH",
             "date": "2026-10-12 15:13:26"
-        },
-        {
-            "domain_name": "eudelo.com",
-            "destination": "IONOS",
-            "date": "2026-10-12 13:51:30"
         }
     ],
     "dailyMovedStat": {
@@ -1259,7 +1259,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15254,
-        "Kinsta": 12741,
+        "Kinsta": 12742,
         "Digital Ocean": 7842,
         "Hostinger": 6455,
         "SiteGround": 5744,
