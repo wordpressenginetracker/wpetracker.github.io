@@ -1,6 +1,31 @@
 {
-    "siteCount": 185903,
+    "siteCount": 185915,
     "recentlyMoved": [
+        {
+            "domain_name": "www.otiumcapital.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-14 04:49:01"
+        },
+        {
+            "domain_name": "bylerrivet.com",
+            "destination": "Hostinger",
+            "date": "2026-10-14 04:40:25"
+        },
+        {
+            "domain_name": "starr-restaurants.com",
+            "destination": "Kinsta",
+            "date": "2026-10-14 04:39:26"
+        },
+        {
+            "domain_name": "brussels-moto-store.be",
+            "destination": "Kinsta",
+            "date": "2026-10-14 04:04:48"
+        },
+        {
+            "domain_name": "brownandcox.com",
+            "destination": "Hostinger",
+            "date": "2026-10-14 04:04:48"
+        },
         {
             "domain_name": "pltf-05.yamaha-dealer.network",
             "destination": "Kinsta",
@@ -475,31 +500,6 @@
             "domain_name": "www.barbaracarrow.com",
             "destination": "Hostinger",
             "date": "2026-10-13 00:07:49"
-        },
-        {
-            "domain_name": "www.autismdelaware.org",
-            "destination": "Hostinger",
-            "date": "2026-10-12 23:36:11"
-        },
-        {
-            "domain_name": "lighthousedestinations.com",
-            "destination": "OVH",
-            "date": "2026-10-12 21:16:53"
-        },
-        {
-            "domain_name": "www.pattysdeli.net",
-            "destination": "Hostinger",
-            "date": "2026-10-12 20:55:03"
-        },
-        {
-            "domain_name": "www.giuliani.com",
-            "destination": "Hostinger",
-            "date": "2026-10-12 20:19:36"
-        },
-        {
-            "domain_name": "anchorzup.com",
-            "destination": "Hostinger",
-            "date": "2026-10-12 19:30:07"
         }
     ],
     "dailyMovedStat": {
@@ -1259,9 +1259,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 15255,
-        "Kinsta": 12743,
-        "Digital Ocean": 7842,
-        "Hostinger": 6455,
+        "Kinsta": 12745,
+        "Digital Ocean": 7843,
+        "Hostinger": 6457,
         "SiteGround": 5744,
         "Bluehost": 4846,
         "GoDaddy": 1950,
