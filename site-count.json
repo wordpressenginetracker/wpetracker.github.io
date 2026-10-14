@@ -1,6 +1,11 @@
 {
-    "siteCount": 185878,
+    "siteCount": 185893,
     "recentlyMoved": [
+        {
+            "domain_name": "sunstopperslakenorman.com",
+            "destination": "Hostinger",
+            "date": "2026-10-14 00:46:54"
+        },
         {
             "domain_name": "quarlestravelgroup.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "eudelo.com",
             "destination": "IONOS",
             "date": "2026-10-12 13:51:30"
-        },
-        {
-            "domain_name": "sheppard-co.com",
-            "destination": "Hostinger",
-            "date": "2026-10-12 12:31:01"
         }
     ],
     "dailyMovedStat": {
@@ -1261,7 +1261,7 @@
         "Pressable": 15254,
         "Kinsta": 12741,
         "Digital Ocean": 7842,
-        "Hostinger": 6454,
+        "Hostinger": 6455,
         "SiteGround": 5744,
         "Bluehost": 4846,
         "GoDaddy": 1950,
