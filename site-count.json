@@ -1,6 +1,11 @@
 {
-    "siteCount": 186250,
+    "siteCount": 186254,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wildwestplumbing.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 05:39:15"
+        },
         {
             "domain_name": "www.regalfabrics.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "walkthelyme.com",
             "destination": "Hostinger",
             "date": "2026-10-13 21:50:35"
-        },
-        {
-            "domain_name": "makingbmartin.com",
-            "destination": "A2 Hosting",
-            "date": "2026-10-13 21:02:15"
         }
     ],
     "dailyMovedStat": {
@@ -1260,7 +1260,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15266,
-        "Kinsta": 12763,
+        "Kinsta": 12764,
         "Digital Ocean": 7854,
         "Hostinger": 6472,
         "SiteGround": 5744,
