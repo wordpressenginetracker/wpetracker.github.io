@@ -1,6 +1,51 @@
 {
-    "siteCount": 186280,
+    "siteCount": 186311,
     "recentlyMoved": [
+        {
+            "domain_name": "hiddenmagictravel.com",
+            "destination": "OVH",
+            "date": "2026-10-15 12:38:40"
+        },
+        {
+            "domain_name": "regionviivpp.org",
+            "destination": "Hostinger",
+            "date": "2026-10-15 12:31:31"
+        },
+        {
+            "domain_name": "arkantiques.org",
+            "destination": "Bluehost",
+            "date": "2026-10-15 12:20:01"
+        },
+        {
+            "domain_name": "www.gabriellemoore.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-15 12:10:43"
+        },
+        {
+            "domain_name": "petergubernat.com",
+            "destination": "BigScoots",
+            "date": "2026-10-15 12:03:39"
+        },
+        {
+            "domain_name": "queensgranthigh.org",
+            "destination": "Bluehost",
+            "date": "2026-10-15 12:01:33"
+        },
+        {
+            "domain_name": "wickedwebsites.us",
+            "destination": "Hetzner Online",
+            "date": "2026-10-15 11:42:53"
+        },
+        {
+            "domain_name": "accentheat.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 11:27:46"
+        },
+        {
+            "domain_name": "winklesplumbing.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 11:13:19"
+        },
         {
             "domain_name": "fieldofdreamsinc.com",
             "destination": "Hostinger",
@@ -452,54 +497,9 @@
             "date": "2026-10-14 05:19:12"
         },
         {
-            "domain_name": "www.otiumcapital.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-14 04:49:01"
-        },
-        {
-            "domain_name": "bylerrivet.com",
-            "destination": "Hostinger",
-            "date": "2026-10-14 04:40:25"
-        },
-        {
             "domain_name": "starr-restaurants.com",
             "destination": "Kinsta",
             "date": "2026-10-14 04:39:26"
-        },
-        {
-            "domain_name": "brussels-moto-store.be",
-            "destination": "Kinsta",
-            "date": "2026-10-14 04:04:48"
-        },
-        {
-            "domain_name": "brownandcox.com",
-            "destination": "Hostinger",
-            "date": "2026-10-14 04:04:48"
-        },
-        {
-            "domain_name": "pltf-05.yamaha-dealer.network",
-            "destination": "Kinsta",
-            "date": "2026-10-14 03:50:37"
-        },
-        {
-            "domain_name": "www.aexservices.com",
-            "destination": "Pressable",
-            "date": "2026-10-14 03:14:46"
-        },
-        {
-            "domain_name": "davereaboi.com",
-            "destination": "Kinsta",
-            "date": "2026-10-14 01:11:27"
-        },
-        {
-            "domain_name": "sunstopperslakenorman.com",
-            "destination": "Hostinger",
-            "date": "2026-10-14 00:46:54"
-        },
-        {
-            "domain_name": "quarlestravelgroup.com",
-            "destination": "OVH",
-            "date": "2026-10-13 23:59:50"
         }
     ],
     "dailyMovedStat": {
@@ -1260,14 +1260,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 15268,
-        "Kinsta": 12764,
-        "Digital Ocean": 7854,
-        "Hostinger": 6473,
+        "Kinsta": 12766,
+        "Digital Ocean": 7855,
+        "Hostinger": 6474,
         "SiteGround": 5744,
-        "Bluehost": 4848,
+        "Bluehost": 4850,
         "GoDaddy": 1954,
-        "OVH": 1783,
-        "BigScoots": 1120,
+        "OVH": 1784,
+        "BigScoots": 1121,
         "Liquid Web": 980,
         "Namecheap": 884,
         "WordPress.com": 852,
@@ -1276,7 +1276,7 @@
         "IONOS": 595,
         "DreamHost": 579,
         "Elementor Hosting": 575,
-        "Hetzner Online": 542,
+        "Hetzner Online": 543,
         "A2 Hosting": 487,
         "HostGator": 390
     },
