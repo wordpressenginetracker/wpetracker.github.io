@@ -1,6 +1,16 @@
 {
-    "siteCount": 186254,
+    "siteCount": 186265,
     "recentlyMoved": [
+        {
+            "domain_name": "ashcroftelectrical.nz",
+            "destination": "Pressable",
+            "date": "2026-10-15 08:32:33"
+        },
+        {
+            "domain_name": "www.johnmlacak.com",
+            "destination": "Bluehost",
+            "date": "2026-10-15 08:17:47"
+        },
         {
             "domain_name": "www.wildwestplumbing.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "oasistravel.pro",
             "destination": "OVH",
             "date": "2026-10-13 22:22:26"
-        },
-        {
-            "domain_name": "mystoragetx.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 21:54:02"
-        },
-        {
-            "domain_name": "walkthelyme.com",
-            "destination": "Hostinger",
-            "date": "2026-10-13 21:50:35"
         }
     ],
     "dailyMovedStat": {
@@ -1259,12 +1259,12 @@
         "2026-10-14": "186189"
     },
     "topDestinationHosts": {
-        "Pressable": 15266,
+        "Pressable": 15267,
         "Kinsta": 12764,
         "Digital Ocean": 7854,
         "Hostinger": 6472,
         "SiteGround": 5744,
-        "Bluehost": 4847,
+        "Bluehost": 4848,
         "GoDaddy": 1954,
         "OVH": 1783,
         "BigScoots": 1120,
