@@ -1,15 +1,30 @@
 {
-    "siteCount": 186220,
+    "siteCount": 186228,
     "recentlyMoved": [
+        {
+            "domain_name": "welchheatingandac.com",
+            "destination": "Hostinger",
+            "date": "2026-10-15 02:14:36"
+        },
         {
             "domain_name": "m.bookl.et",
             "destination": "Hostinger",
             "date": "2026-10-15 01:31:24"
         },
         {
+            "domain_name": "mvsaustin.com",
+            "destination": "Wordify",
+            "date": "2026-10-15 01:28:21"
+        },
+        {
             "domain_name": "crystalblueyachtcharters.com.au",
             "destination": "Digital Ocean",
             "date": "2026-10-15 01:23:15"
+        },
+        {
+            "domain_name": "d2vclinical.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 01:15:50"
         },
         {
             "domain_name": "cltrep.com",
@@ -485,21 +500,6 @@
             "domain_name": "bucketlistluxurytravel.net",
             "destination": "OVH",
             "date": "2026-10-13 20:27:06"
-        },
-        {
-            "domain_name": "queensestatelaw.com",
-            "destination": "Bluehost",
-            "date": "2026-10-13 20:06:50"
-        },
-        {
-            "domain_name": "www.gigglesvilledentistry.com",
-            "destination": "IONOS",
-            "date": "2026-10-13 19:33:13"
-        },
-        {
-            "domain_name": "greenclark.law",
-            "destination": "Digital Ocean",
-            "date": "2026-10-13 19:30:09"
         }
     ],
     "dailyMovedStat": {
@@ -1260,9 +1260,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 15264,
-        "Kinsta": 12760,
-        "Digital Ocean": 7853,
-        "Hostinger": 6467,
+        "Kinsta": 12761,
+        "Digital Ocean": 7854,
+        "Hostinger": 6469,
         "SiteGround": 5744,
         "Bluehost": 4847,
         "GoDaddy": 1953,
