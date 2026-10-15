@@ -1,6 +1,16 @@
 {
-    "siteCount": 186506,
+    "siteCount": 186512,
     "recentlyMoved": [
+        {
+            "domain_name": "deltaautori.com",
+            "destination": "HostGator",
+            "date": "2026-10-15 21:35:06"
+        },
+        {
+            "domain_name": "vacationsbyadam.com",
+            "destination": "OVH",
+            "date": "2026-10-15 21:30:38"
+        },
         {
             "domain_name": "southlandrenal.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "worththewanderlust.com",
             "destination": "OVH",
             "date": "2026-10-14 19:27:19"
-        },
-        {
-            "domain_name": "moyermarine.com",
-            "destination": "Pressable",
-            "date": "2026-10-14 18:23:18"
-        },
-        {
-            "domain_name": "erifloral.com",
-            "destination": "Pressable",
-            "date": "2026-10-14 18:17:36"
         }
     ],
     "dailyMovedStat": {
@@ -1266,7 +1266,7 @@
         "SiteGround": 5744,
         "Bluehost": 4852,
         "GoDaddy": 1955,
-        "OVH": 1786,
+        "OVH": 1787,
         "BigScoots": 1129,
         "Liquid Web": 981,
         "Namecheap": 885,
@@ -1278,7 +1278,7 @@
         "Elementor Hosting": 575,
         "Hetzner Online": 545,
         "A2 Hosting": 487,
-        "HostGator": 391
+        "HostGator": 392
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
