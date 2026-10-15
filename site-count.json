@@ -1,6 +1,31 @@
 {
-    "siteCount": 186228,
+    "siteCount": 186241,
     "recentlyMoved": [
+        {
+            "domain_name": "www.gamephd.com",
+            "destination": "Hostinger",
+            "date": "2026-10-15 04:39:53"
+        },
+        {
+            "domain_name": "www.flamingodeck.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 03:50:17"
+        },
+        {
+            "domain_name": "www.balfurdlinenservice.com",
+            "destination": "Kinsta",
+            "date": "2026-10-15 03:49:16"
+        },
+        {
+            "domain_name": "www.fennwright.co.uk",
+            "destination": "Pressable",
+            "date": "2026-10-15 03:46:38"
+        },
+        {
+            "domain_name": "www.dextrin.biz",
+            "destination": "GoDaddy",
+            "date": "2026-10-15 03:26:42"
+        },
         {
             "domain_name": "welchheatingandac.com",
             "destination": "Hostinger",
@@ -462,11 +487,6 @@
             "date": "2026-10-13 21:26:40"
         },
         {
-            "domain_name": "storyteller-travel.com",
-            "destination": "OVH",
-            "date": "2026-10-13 21:23:50"
-        },
-        {
             "domain_name": "takeoffyoursandals.com",
             "destination": "OVH",
             "date": "2026-10-13 21:03:46"
@@ -477,29 +497,9 @@
             "date": "2026-10-13 21:02:15"
         },
         {
-            "domain_name": "snolasnowballs.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-13 20:57:17"
-        },
-        {
             "domain_name": "cruisesandland.com",
             "destination": "OVH",
             "date": "2026-10-13 20:56:29"
-        },
-        {
-            "domain_name": "comfortsmilesdentistry.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-13 20:41:09"
-        },
-        {
-            "domain_name": "sospine.com",
-            "destination": "A2 Hosting",
-            "date": "2026-10-13 20:28:43"
-        },
-        {
-            "domain_name": "bucketlistluxurytravel.net",
-            "destination": "OVH",
-            "date": "2026-10-13 20:27:06"
         }
     ],
     "dailyMovedStat": {
@@ -1259,13 +1259,13 @@
         "2026-10-14": "186189"
     },
     "topDestinationHosts": {
-        "Pressable": 15264,
-        "Kinsta": 12761,
+        "Pressable": 15265,
+        "Kinsta": 12763,
         "Digital Ocean": 7854,
         "Hostinger": 6469,
         "SiteGround": 5744,
         "Bluehost": 4847,
-        "GoDaddy": 1953,
+        "GoDaddy": 1954,
         "OVH": 1783,
         "BigScoots": 1120,
         "Liquid Web": 980,
