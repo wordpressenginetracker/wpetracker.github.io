@@ -1,6 +1,16 @@
 {
-    "siteCount": 186583,
+    "siteCount": 186589,
     "recentlyMoved": [
+        {
+            "domain_name": "webberenergygroup.com",
+            "destination": "Bluehost",
+            "date": "2026-10-16 09:32:19"
+        },
+        {
+            "domain_name": "newestamericans.com",
+            "destination": "Hostinger",
+            "date": "2026-10-16 09:30:04"
+        },
         {
             "domain_name": "www.lakerabunhotel.com",
             "destination": "InMotion Hosting",
@@ -482,11 +492,6 @@
             "date": "2026-10-14 21:21:18"
         },
         {
-            "domain_name": "chicagometropolisregistry.org",
-            "destination": "Kinsta",
-            "date": "2026-10-14 21:07:58"
-        },
-        {
             "domain_name": "thewfcollective.com",
             "destination": "BigScoots",
             "date": "2026-10-14 21:06:07"
@@ -495,11 +500,6 @@
             "domain_name": "www.sattlersolar.com",
             "destination": "Kinsta",
             "date": "2026-10-14 21:04:15"
-        },
-        {
-            "domain_name": "chasingstarsmedia.com",
-            "destination": "BigScoots",
-            "date": "2026-10-14 21:04:13"
         }
     ],
     "dailyMovedStat": {
@@ -1263,9 +1263,9 @@
         "Pressable": 15275,
         "Kinsta": 12783,
         "Digital Ocean": 7866,
-        "Hostinger": 6479,
+        "Hostinger": 6480,
         "SiteGround": 5744,
-        "Bluehost": 4852,
+        "Bluehost": 4853,
         "GoDaddy": 1955,
         "OVH": 1787,
         "BigScoots": 1130,
