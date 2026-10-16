@@ -1,6 +1,41 @@
 {
-    "siteCount": 186660,
+    "siteCount": 186679,
     "recentlyMoved": [
+        {
+            "domain_name": "taylerirene.com",
+            "destination": "BigScoots",
+            "date": "2026-10-16 17:34:53"
+        },
+        {
+            "domain_name": "manyhandsart.com.au",
+            "destination": "WordPress.com",
+            "date": "2026-10-16 17:12:59"
+        },
+        {
+            "domain_name": "www.naturalmoose.com",
+            "destination": "Kinsta",
+            "date": "2026-10-16 17:07:55"
+        },
+        {
+            "domain_name": "sharpwater.com",
+            "destination": "Kinsta",
+            "date": "2026-10-16 17:01:16"
+        },
+        {
+            "domain_name": "www.vendorproof.com",
+            "destination": "Kinsta",
+            "date": "2026-10-16 16:59:14"
+        },
+        {
+            "domain_name": "chefsforseniors.com",
+            "destination": "Pressable",
+            "date": "2026-10-16 16:53:22"
+        },
+        {
+            "domain_name": "brantleydavisadagency.com",
+            "destination": "Hetzner Online",
+            "date": "2026-10-16 16:24:33"
+        },
         {
             "domain_name": "guia.visitpuebla.mx",
             "destination": "Digital Ocean",
@@ -465,41 +500,6 @@
             "domain_name": "www.regalfabrics.com",
             "destination": "Pressable",
             "date": "2026-10-15 05:28:17"
-        },
-        {
-            "domain_name": "www.gamephd.com",
-            "destination": "Hostinger",
-            "date": "2026-10-15 04:39:53"
-        },
-        {
-            "domain_name": "kjgrowth.agency",
-            "destination": "Hostinger",
-            "date": "2026-10-15 04:38:48"
-        },
-        {
-            "domain_name": "jivagurukulam.com",
-            "destination": "Hostinger",
-            "date": "2026-10-15 04:28:35"
-        },
-        {
-            "domain_name": "www.flamingodeck.com",
-            "destination": "Kinsta",
-            "date": "2026-10-15 03:50:17"
-        },
-        {
-            "domain_name": "www.balfurdlinenservice.com",
-            "destination": "Kinsta",
-            "date": "2026-10-15 03:49:16"
-        },
-        {
-            "domain_name": "www.fennwright.co.uk",
-            "destination": "Pressable",
-            "date": "2026-10-15 03:46:38"
-        },
-        {
-            "domain_name": "www.dextrin.biz",
-            "destination": "GoDaddy",
-            "date": "2026-10-15 03:26:42"
         }
     ],
     "dailyMovedStat": {
@@ -1260,15 +1260,15 @@
         "2026-10-15": "186512"
     },
     "topDestinationHosts": {
-        "Pressable": 15277,
-        "Kinsta": 12788,
+        "Pressable": 15278,
+        "Kinsta": 12791,
         "Digital Ocean": 7869,
         "Hostinger": 6482,
         "SiteGround": 5744,
         "Bluehost": 4853,
         "GoDaddy": 1956,
         "OVH": 1788,
-        "BigScoots": 1130,
+        "BigScoots": 1131,
         "Liquid Web": 981,
         "Namecheap": 885,
         "WordPress.com": 854,
@@ -1277,7 +1277,7 @@
         "IONOS": 595,
         "DreamHost": 580,
         "Elementor Hosting": 575,
-        "Hetzner Online": 545,
+        "Hetzner Online": 546,
         "A2 Hosting": 487,
         "HostGator": 392
     },
