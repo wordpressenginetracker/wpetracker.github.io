@@ -1,6 +1,16 @@
 {
-    "siteCount": 186747,
+    "siteCount": 186759,
     "recentlyMoved": [
+        {
+            "domain_name": "www.restoration-connection.com",
+            "destination": "Kinsta",
+            "date": "2026-10-16 21:03:22"
+        },
+        {
+            "domain_name": "booklet-fiction.ro",
+            "destination": "Hostinger",
+            "date": "2026-10-16 20:53:08"
+        },
         {
             "domain_name": "golunatravels.com",
             "destination": "OVH",
@@ -467,11 +477,6 @@
             "date": "2026-10-15 12:49:26"
         },
         {
-            "domain_name": "hiddenmagictravel.com",
-            "destination": "OVH",
-            "date": "2026-10-15 12:38:40"
-        },
-        {
             "domain_name": "buckshotcreative.com",
             "destination": "Namecheap",
             "date": "2026-10-15 12:32:58"
@@ -495,11 +500,6 @@
             "domain_name": "intimacybyheather.com",
             "destination": "BigScoots",
             "date": "2026-10-15 12:14:32"
-        },
-        {
-            "domain_name": "www.gabriellemoore.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-15 12:10:43"
         }
     ],
     "dailyMovedStat": {
@@ -1261,9 +1261,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 15278,
-        "Kinsta": 12800,
+        "Kinsta": 12801,
         "Digital Ocean": 7873,
-        "Hostinger": 6484,
+        "Hostinger": 6485,
         "SiteGround": 5744,
         "Bluehost": 4854,
         "GoDaddy": 1956,
