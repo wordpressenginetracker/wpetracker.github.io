@@ -1,6 +1,11 @@
 {
-    "siteCount": 186519,
+    "siteCount": 186529,
     "recentlyMoved": [
+        {
+            "domain_name": "www.propertyclaimsconsultant.com",
+            "destination": "Kinsta",
+            "date": "2026-10-16 00:44:10"
+        },
         {
             "domain_name": "reboxmove.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "www.goodtogotech.com",
             "destination": "Bluehost",
             "date": "2026-10-14 20:00:03"
-        },
-        {
-            "domain_name": "foursquaredisasterrelief.org",
-            "destination": "Digital Ocean",
-            "date": "2026-10-14 19:27:55"
         }
     ],
     "dailyMovedStat": {
@@ -1261,7 +1261,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15274,
-        "Kinsta": 12778,
+        "Kinsta": 12779,
         "Digital Ocean": 7862,
         "Hostinger": 6477,
         "SiteGround": 5744,
