@@ -1,10 +1,35 @@
 {
-    "siteCount": 186994,
+    "siteCount": 187007,
     "recentlyMoved": [
+        {
+            "domain_name": "cookintuscany.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-17 21:37:47"
+        },
+        {
+            "domain_name": "thecombscreative.com",
+            "destination": "BigScoots",
+            "date": "2026-10-17 21:33:43"
+        },
+        {
+            "domain_name": "lachiusatuscany.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-17 21:05:42"
+        },
+        {
+            "domain_name": "kb2tech.com",
+            "destination": "Kinsta",
+            "date": "2026-10-17 20:42:33"
+        },
         {
             "domain_name": "benjaminbeck.com",
             "destination": "Hostinger",
             "date": "2026-10-17 20:36:16"
+        },
+        {
+            "domain_name": "www.myhealthunlimited.com",
+            "destination": "Kinsta",
+            "date": "2026-10-17 20:33:35"
         },
         {
             "domain_name": "www.handsonhorsesmassage.com",
@@ -462,11 +487,6 @@
             "date": "2026-10-16 16:01:54"
         },
         {
-            "domain_name": "worldwaterskiers.com",
-            "destination": "Hostinger",
-            "date": "2026-10-16 16:00:45"
-        },
-        {
             "domain_name": "www.adroitdr.com",
             "destination": "Kinsta",
             "date": "2026-10-16 15:42:24"
@@ -480,26 +500,6 @@
             "domain_name": "www.270net.com",
             "destination": "Kinsta",
             "date": "2026-10-16 15:32:31"
-        },
-        {
-            "domain_name": "orlando-tax-accountant.com",
-            "destination": "Pressable",
-            "date": "2026-10-16 15:07:35"
-        },
-        {
-            "domain_name": "discountlaw.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-16 13:56:21"
-        },
-        {
-            "domain_name": "theredlionluton.co.uk",
-            "destination": "InMotion Hosting",
-            "date": "2026-10-16 13:40:53"
-        },
-        {
-            "domain_name": "thenomadtravelagency.info",
-            "destination": "OVH",
-            "date": "2026-10-16 13:37:51"
         }
     ],
     "dailyMovedStat": {
@@ -1262,9 +1262,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 15287,
-        "Kinsta": 12815,
-        "Digital Ocean": 7886,
-        "Hostinger": 6489,
+        "Kinsta": 12818,
+        "Digital Ocean": 7888,
+        "Hostinger": 6490,
         "SiteGround": 5745,
         "Bluehost": 4859,
         "GoDaddy": 1957,
