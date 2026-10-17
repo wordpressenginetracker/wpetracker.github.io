@@ -1,6 +1,16 @@
 {
-    "siteCount": 186947,
+    "siteCount": 186954,
     "recentlyMoved": [
+        {
+            "domain_name": "oasisdigital.us",
+            "destination": "Digital Ocean",
+            "date": "2026-10-17 18:00:38"
+        },
+        {
+            "domain_name": "dvandco.com",
+            "destination": "BigScoots",
+            "date": "2026-10-17 18:00:09"
+        },
         {
             "domain_name": "cavalrycre.com",
             "destination": "Digital Ocean",
@@ -490,16 +500,6 @@
             "domain_name": "webberenergygroup.com",
             "destination": "Bluehost",
             "date": "2026-10-16 09:32:19"
-        },
-        {
-            "domain_name": "newestamericans.com",
-            "destination": "Hostinger",
-            "date": "2026-10-16 09:30:04"
-        },
-        {
-            "domain_name": "www.lakerabunhotel.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-10-16 08:29:17"
         }
     ],
     "dailyMovedStat": {
@@ -1263,13 +1263,13 @@
     "topDestinationHosts": {
         "Pressable": 15287,
         "Kinsta": 12814,
-        "Digital Ocean": 7883,
+        "Digital Ocean": 7885,
         "Hostinger": 6487,
         "SiteGround": 5745,
         "Bluehost": 4859,
         "GoDaddy": 1957,
         "OVH": 1793,
-        "BigScoots": 1137,
+        "BigScoots": 1138,
         "Liquid Web": 981,
         "Namecheap": 887,
         "WordPress.com": 857,
