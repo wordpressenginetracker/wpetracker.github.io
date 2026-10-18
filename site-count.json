@@ -1,6 +1,21 @@
 {
-    "siteCount": 187094,
+    "siteCount": 187101,
     "recentlyMoved": [
+        {
+            "domain_name": "householdstaffing.com",
+            "destination": "Hostinger",
+            "date": "2026-10-18 16:42:39"
+        },
+        {
+            "domain_name": "gracechurchalvin.org",
+            "destination": "IONOS",
+            "date": "2026-10-18 16:11:23"
+        },
+        {
+            "domain_name": "restoringthesoul.com",
+            "destination": "Bluehost",
+            "date": "2026-10-18 16:10:34"
+        },
         {
             "domain_name": "westlakevillage-dermatology.com",
             "destination": "Kinsta",
@@ -467,16 +482,6 @@
             "date": "2026-10-17 00:04:04"
         },
         {
-            "domain_name": "www.colonialsnd.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 00:02:54"
-        },
-        {
-            "domain_name": "www.coolairac.co.nz",
-            "destination": "Pressable",
-            "date": "2026-10-16 23:52:18"
-        },
-        {
             "domain_name": "www.eastcoastlawn.com",
             "destination": "Kinsta",
             "date": "2026-10-16 23:49:19"
@@ -495,11 +500,6 @@
             "domain_name": "www.djisaacbuilder.co.nz",
             "destination": "Pressable",
             "date": "2026-10-16 23:36:38"
-        },
-        {
-            "domain_name": "www.capartments.co.nz",
-            "destination": "Pressable",
-            "date": "2026-10-16 23:30:27"
         }
     ],
     "dailyMovedStat": {
@@ -1265,9 +1265,9 @@
         "Pressable": 15289,
         "Kinsta": 12822,
         "Digital Ocean": 7888,
-        "Hostinger": 6496,
+        "Hostinger": 6497,
         "SiteGround": 5745,
-        "Bluehost": 4877,
+        "Bluehost": 4878,
         "GoDaddy": 1960,
         "OVH": 1795,
         "BigScoots": 1140,
@@ -1276,7 +1276,7 @@
         "WordPress.com": 858,
         "GridPane": 782,
         "InMotion Hosting": 632,
-        "IONOS": 598,
+        "IONOS": 599,
         "DreamHost": 580,
         "Elementor Hosting": 575,
         "Hetzner Online": 550,
