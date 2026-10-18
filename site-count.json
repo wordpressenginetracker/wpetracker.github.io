@@ -1,6 +1,11 @@
 {
-    "siteCount": 187031,
+    "siteCount": 187033,
     "recentlyMoved": [
+        {
+            "domain_name": "everythingmermaid.com",
+            "destination": "Hostinger",
+            "date": "2026-10-18 01:55:30"
+        },
         {
             "domain_name": "rvingreviews.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "chefsforseniors.com",
             "destination": "Pressable",
             "date": "2026-10-16 16:53:22"
-        },
-        {
-            "domain_name": "brantleydavisadagency.com",
-            "destination": "Hetzner Online",
-            "date": "2026-10-16 16:24:33"
         }
     ],
     "dailyMovedStat": {
@@ -1265,7 +1265,7 @@
         "Pressable": 15287,
         "Kinsta": 12818,
         "Digital Ocean": 7888,
-        "Hostinger": 6493,
+        "Hostinger": 6494,
         "SiteGround": 5745,
         "Bluehost": 4859,
         "GoDaddy": 1959,
