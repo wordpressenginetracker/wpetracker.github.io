@@ -1,6 +1,11 @@
 {
-    "siteCount": 187106,
+    "siteCount": 187109,
     "recentlyMoved": [
+        {
+            "domain_name": "theworldisyourescape.com",
+            "destination": "OVH",
+            "date": "2026-10-18 17:38:45"
+        },
         {
             "domain_name": "maketraveltracks.com",
             "destination": "OVH",
@@ -495,11 +500,6 @@
             "domain_name": "bettinabush.com",
             "destination": "Kinsta",
             "date": "2026-10-17 00:44:36"
-        },
-        {
-            "domain_name": "www.famoussalonspa.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 00:04:04"
         }
     ],
     "dailyMovedStat": {
@@ -1269,7 +1269,7 @@
         "SiteGround": 5745,
         "Bluehost": 4879,
         "GoDaddy": 1960,
-        "OVH": 1795,
+        "OVH": 1797,
         "BigScoots": 1140,
         "Liquid Web": 981,
         "Namecheap": 888,
