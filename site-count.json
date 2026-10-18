@@ -1,10 +1,20 @@
 {
-    "siteCount": 187082,
+    "siteCount": 187089,
     "recentlyMoved": [
+        {
+            "domain_name": "isacfoundation.org",
+            "destination": "Hostinger",
+            "date": "2026-10-18 12:43:21"
+        },
         {
             "domain_name": "ahhaa.org",
             "destination": "Bluehost",
             "date": "2026-10-18 12:15:00"
+        },
+        {
+            "domain_name": "shipitforless.com",
+            "destination": "GoDaddy",
+            "date": "2026-10-18 12:12:25"
         },
         {
             "domain_name": "herharborrecovery.com",
@@ -490,16 +500,6 @@
             "domain_name": "www.capartments.co.nz",
             "destination": "Pressable",
             "date": "2026-10-16 23:30:27"
-        },
-        {
-            "domain_name": "westcounty.wcn.dev",
-            "destination": "Pressable",
-            "date": "2026-10-16 22:11:50"
-        },
-        {
-            "domain_name": "oaiaconference.com",
-            "destination": "Hostinger",
-            "date": "2026-10-16 22:08:24"
         }
     ],
     "dailyMovedStat": {
@@ -1265,10 +1265,10 @@
         "Pressable": 15289,
         "Kinsta": 12820,
         "Digital Ocean": 7888,
-        "Hostinger": 6495,
+        "Hostinger": 6496,
         "SiteGround": 5745,
         "Bluehost": 4877,
-        "GoDaddy": 1959,
+        "GoDaddy": 1960,
         "OVH": 1794,
         "BigScoots": 1140,
         "Liquid Web": 981,
