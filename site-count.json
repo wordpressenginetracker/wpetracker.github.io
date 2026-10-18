@@ -1,6 +1,21 @@
 {
-    "siteCount": 187089,
+    "siteCount": 187094,
     "recentlyMoved": [
+        {
+            "domain_name": "westlakevillage-dermatology.com",
+            "destination": "Kinsta",
+            "date": "2026-10-18 14:13:11"
+        },
+        {
+            "domain_name": "eajournal.naea.org",
+            "destination": "Kinsta",
+            "date": "2026-10-18 14:09:25"
+        },
+        {
+            "domain_name": "travelflyadventures.com",
+            "destination": "OVH",
+            "date": "2026-10-18 14:02:23"
+        },
         {
             "domain_name": "isacfoundation.org",
             "destination": "Hostinger",
@@ -447,16 +462,6 @@
             "date": "2026-10-17 00:44:36"
         },
         {
-            "domain_name": "www.accessautomarc.co.nz",
-            "destination": "Pressable",
-            "date": "2026-10-17 00:09:37"
-        },
-        {
-            "domain_name": "www.aquiliti.com",
-            "destination": "WordPress.com",
-            "date": "2026-10-17 00:08:11"
-        },
-        {
             "domain_name": "www.famoussalonspa.com",
             "destination": "Kinsta",
             "date": "2026-10-17 00:04:04"
@@ -490,11 +495,6 @@
             "domain_name": "www.djisaacbuilder.co.nz",
             "destination": "Pressable",
             "date": "2026-10-16 23:36:38"
-        },
-        {
-            "domain_name": "www.bandaslawfirm.com",
-            "destination": "Hetzner Online",
-            "date": "2026-10-16 23:30:28"
         },
         {
             "domain_name": "www.capartments.co.nz",
@@ -1263,13 +1263,13 @@
     },
     "topDestinationHosts": {
         "Pressable": 15289,
-        "Kinsta": 12820,
+        "Kinsta": 12822,
         "Digital Ocean": 7888,
         "Hostinger": 6496,
         "SiteGround": 5745,
         "Bluehost": 4877,
         "GoDaddy": 1960,
-        "OVH": 1794,
+        "OVH": 1795,
         "BigScoots": 1140,
         "Liquid Web": 981,
         "Namecheap": 888,
