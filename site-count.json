@@ -1,6 +1,11 @@
 {
-    "siteCount": 187173,
+    "siteCount": 187175,
     "recentlyMoved": [
+        {
+            "domain_name": "www.groundcontrolbaltimore.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-10-19 07:49:11"
+        },
         {
             "domain_name": "legacydrugstore.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "naroo.partners",
             "destination": "Hostinger",
             "date": "2026-10-17 09:25:59"
-        },
-        {
-            "domain_name": "edgewoodrec.org",
-            "destination": "Bluehost",
-            "date": "2026-10-17 09:17:04"
         }
     ],
     "dailyMovedStat": {
@@ -1276,7 +1276,7 @@
         "Namecheap": 888,
         "WordPress.com": 861,
         "GridPane": 782,
-        "InMotion Hosting": 632,
+        "InMotion Hosting": 633,
         "IONOS": 599,
         "DreamHost": 580,
         "Elementor Hosting": 575,
