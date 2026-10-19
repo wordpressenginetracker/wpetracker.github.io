@@ -1,6 +1,21 @@
 {
-    "siteCount": 187178,
+    "siteCount": 187186,
     "recentlyMoved": [
+        {
+            "domain_name": "armstrongambulance.com",
+            "destination": "Kinsta",
+            "date": "2026-10-19 12:25:38"
+        },
+        {
+            "domain_name": "alansmassagetherapy.com.au",
+            "destination": "Hostinger",
+            "date": "2026-10-19 11:52:48"
+        },
+        {
+            "domain_name": "www.francinebradyartist.com",
+            "destination": "Kinsta",
+            "date": "2026-10-19 11:47:57"
+        },
         {
             "domain_name": "www.groundcontrolbaltimore.com",
             "destination": "InMotion Hosting",
@@ -485,21 +500,6 @@
             "domain_name": "www.cifoodservices.com",
             "destination": "Kinsta",
             "date": "2026-10-17 12:14:18"
-        },
-        {
-            "domain_name": "www.caregiverconnections.org",
-            "destination": "Digital Ocean",
-            "date": "2026-10-17 12:12:39"
-        },
-        {
-            "domain_name": "o2cpro.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 10:01:13"
-        },
-        {
-            "domain_name": "naroo.partners",
-            "destination": "Hostinger",
-            "date": "2026-10-17 09:25:59"
         }
     ],
     "dailyMovedStat": {
@@ -1264,9 +1264,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 15289,
-        "Kinsta": 12830,
+        "Kinsta": 12832,
         "Digital Ocean": 7890,
-        "Hostinger": 6500,
+        "Hostinger": 6501,
         "SiteGround": 5745,
         "Bluehost": 4879,
         "GoDaddy": 1962,
