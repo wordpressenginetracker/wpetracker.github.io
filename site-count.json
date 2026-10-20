@@ -1,6 +1,21 @@
 {
-    "siteCount": 187557,
+    "siteCount": 187572,
     "recentlyMoved": [
+        {
+            "domain_name": "cascadecanyonphoto.com",
+            "destination": "BigScoots",
+            "date": "2026-10-20 20:49:26"
+        },
+        {
+            "domain_name": "theautumndog.com",
+            "destination": "BigScoots",
+            "date": "2026-10-20 20:32:34"
+        },
+        {
+            "domain_name": "swpackaging.net",
+            "destination": "Kinsta",
+            "date": "2026-10-20 20:32:27"
+        },
         {
             "domain_name": "blueprint-risk.com",
             "destination": "Pressable",
@@ -485,21 +500,6 @@
             "domain_name": "www.squeakycleaninc.net",
             "destination": "Kinsta",
             "date": "2026-10-19 01:17:35"
-        },
-        {
-            "domain_name": "www.othervoicestheatre.org",
-            "destination": "Kinsta",
-            "date": "2026-10-19 00:38:31"
-        },
-        {
-            "domain_name": "www.mispillionriverbrewing.com",
-            "destination": "Hostinger",
-            "date": "2026-10-19 00:36:24"
-        },
-        {
-            "domain_name": "insightchicago.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-19 00:31:36"
         }
     ],
     "dailyMovedStat": {
@@ -1264,15 +1264,15 @@
         "2026-10-19": "187256"
     },
     "topDestinationHosts": {
-        "Pressable": 15313,
-        "Kinsta": 12859,
+        "Pressable": 15314,
+        "Kinsta": 12860,
         "Digital Ocean": 7903,
         "Hostinger": 6503,
         "SiteGround": 5746,
         "Bluehost": 4887,
         "GoDaddy": 1963,
         "OVH": 1802,
-        "BigScoots": 1146,
+        "BigScoots": 1148,
         "Liquid Web": 982,
         "Namecheap": 888,
         "WordPress.com": 862,
