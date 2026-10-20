@@ -1,6 +1,16 @@
 {
-    "siteCount": 187280,
+    "siteCount": 187285,
     "recentlyMoved": [
+        {
+            "domain_name": "houstondbtcenter.com",
+            "destination": "Bluehost",
+            "date": "2026-10-20 04:12:42"
+        },
+        {
+            "domain_name": "alexmalek.com",
+            "destination": "Bluehost",
+            "date": "2026-10-20 04:01:03"
+        },
         {
             "domain_name": "www.underwoodjewelers.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "lachiusatuscany.com",
             "destination": "Digital Ocean",
             "date": "2026-10-17 21:05:42"
-        },
-        {
-            "domain_name": "kb2tech.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 20:42:33"
-        },
-        {
-            "domain_name": "www.myhealthunlimited.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 20:33:35"
         }
     ],
     "dailyMovedStat": {
@@ -1269,7 +1269,7 @@
         "Digital Ocean": 7894,
         "Hostinger": 6502,
         "SiteGround": 5745,
-        "Bluehost": 4879,
+        "Bluehost": 4881,
         "GoDaddy": 1962,
         "OVH": 1800,
         "BigScoots": 1140,
