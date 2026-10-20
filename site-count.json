@@ -1,6 +1,11 @@
 {
-    "siteCount": 187572,
+    "siteCount": 187574,
     "recentlyMoved": [
+        {
+            "domain_name": "washalliance.org",
+            "destination": "Hostinger",
+            "date": "2026-10-20 21:42:00"
+        },
         {
             "domain_name": "cascadecanyonphoto.com",
             "destination": "BigScoots",
@@ -495,11 +500,6 @@
             "domain_name": "equation.org.uk",
             "destination": "Kinsta",
             "date": "2026-10-19 01:58:29"
-        },
-        {
-            "domain_name": "www.squeakycleaninc.net",
-            "destination": "Kinsta",
-            "date": "2026-10-19 01:17:35"
         }
     ],
     "dailyMovedStat": {
@@ -1267,7 +1267,7 @@
         "Pressable": 15314,
         "Kinsta": 12860,
         "Digital Ocean": 7903,
-        "Hostinger": 6503,
+        "Hostinger": 6504,
         "SiteGround": 5746,
         "Bluehost": 4887,
         "GoDaddy": 1963,
