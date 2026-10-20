@@ -1,10 +1,40 @@
 {
-    "siteCount": 187264,
+    "siteCount": 187277,
     "recentlyMoved": [
+        {
+            "domain_name": "www.underwoodjewelers.com",
+            "destination": "Kinsta",
+            "date": "2026-10-20 01:23:41"
+        },
+        {
+            "domain_name": "toggler.co.nz",
+            "destination": "Pressable",
+            "date": "2026-10-20 01:06:59"
+        },
+        {
+            "domain_name": "tulsamassage.co",
+            "destination": "Digital Ocean",
+            "date": "2026-10-20 01:01:14"
+        },
         {
             "domain_name": "innovuslimited.co.nz",
             "destination": "Pressable",
             "date": "2026-10-20 00:47:10"
+        },
+        {
+            "domain_name": "www.reignbeauty.co.nz",
+            "destination": "Pressable",
+            "date": "2026-10-20 00:40:46"
+        },
+        {
+            "domain_name": "www.reddevelopments.co.nz",
+            "destination": "Pressable",
+            "date": "2026-10-20 00:40:46"
+        },
+        {
+            "domain_name": "kruse.global",
+            "destination": "Pressable",
+            "date": "2026-10-20 00:23:23"
         },
         {
             "domain_name": "rpbusinessadvisers.co.nz",
@@ -467,39 +497,9 @@
             "date": "2026-10-17 20:42:33"
         },
         {
-            "domain_name": "benjaminbeck.com",
-            "destination": "Hostinger",
-            "date": "2026-10-17 20:36:16"
-        },
-        {
             "domain_name": "www.myhealthunlimited.com",
             "destination": "Kinsta",
             "date": "2026-10-17 20:33:35"
-        },
-        {
-            "domain_name": "www.handsonhorsesmassage.com",
-            "destination": "Kinsta",
-            "date": "2026-10-17 20:29:57"
-        },
-        {
-            "domain_name": "be-lovedjourneyseries.com",
-            "destination": "Hostinger",
-            "date": "2026-10-17 20:17:22"
-        },
-        {
-            "domain_name": "reviveandthrivemw.com",
-            "destination": "WordPress.com",
-            "date": "2026-10-17 19:45:58"
-        },
-        {
-            "domain_name": "womenssurfretreats.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-17 19:26:46"
-        },
-        {
-            "domain_name": "www.969therock.com",
-            "destination": "Hostinger",
-            "date": "2026-10-17 19:25:44"
         }
     ],
     "dailyMovedStat": {
@@ -1264,8 +1264,8 @@
         "2026-10-19": "187256"
     },
     "topDestinationHosts": {
-        "Pressable": 15295,
-        "Kinsta": 12846,
+        "Pressable": 15300,
+        "Kinsta": 12847,
         "Digital Ocean": 7893,
         "Hostinger": 6502,
         "SiteGround": 5745,
