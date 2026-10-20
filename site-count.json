@@ -1,6 +1,11 @@
 {
-    "siteCount": 187304,
+    "siteCount": 187325,
     "recentlyMoved": [
+        {
+            "domain_name": "technovationdfw.com",
+            "destination": "WordPress.com",
+            "date": "2026-10-20 08:47:00"
+        },
         {
             "domain_name": "bernardmech.com",
             "destination": "Kinsta",
@@ -12,9 +17,24 @@
             "date": "2026-10-20 08:33:18"
         },
         {
+            "domain_name": "bratchercomfort.com",
+            "destination": "Kinsta",
+            "date": "2026-10-20 08:33:08"
+        },
+        {
+            "domain_name": "charitableallies.org",
+            "destination": "Bluehost",
+            "date": "2026-10-20 08:27:27"
+        },
+        {
             "domain_name": "battafulkerson.com",
             "destination": "Bluehost",
             "date": "2026-10-20 08:18:36"
+        },
+        {
+            "domain_name": "broadwayinsurance.agency",
+            "destination": "Pressable",
+            "date": "2026-10-20 08:03:37"
         },
         {
             "domain_name": "belaire.com",
@@ -457,19 +477,9 @@
             "date": "2026-10-18 04:19:47"
         },
         {
-            "domain_name": "thrivingbeyondbreastcancer.org",
-            "destination": "Bluehost",
-            "date": "2026-10-18 03:59:27"
-        },
-        {
             "domain_name": "gijc2023.org",
             "destination": "Kinsta",
             "date": "2026-10-18 03:56:59"
-        },
-        {
-            "domain_name": "mtadamsinstitute.org",
-            "destination": "Bluehost",
-            "date": "2026-10-18 03:55:40"
         },
         {
             "domain_name": "elisamoccievents.com",
@@ -487,19 +497,9 @@
             "date": "2026-10-18 03:33:19"
         },
         {
-            "domain_name": "tickkillz.com",
-            "destination": "Bluehost",
-            "date": "2026-10-18 03:30:54"
-        },
-        {
             "domain_name": "twinoakssmiles.com",
             "destination": "Bluehost",
             "date": "2026-10-18 03:26:30"
-        },
-        {
-            "domain_name": "everythingmermaid.com",
-            "destination": "Hostinger",
-            "date": "2026-10-18 01:55:30"
         }
     ],
     "dailyMovedStat": {
@@ -1264,18 +1264,18 @@
         "2026-10-19": "187256"
     },
     "topDestinationHosts": {
-        "Pressable": 15300,
-        "Kinsta": 12850,
+        "Pressable": 15301,
+        "Kinsta": 12851,
         "Digital Ocean": 7895,
         "Hostinger": 6502,
         "SiteGround": 5745,
-        "Bluehost": 4885,
+        "Bluehost": 4886,
         "GoDaddy": 1962,
         "OVH": 1800,
         "BigScoots": 1141,
         "Liquid Web": 981,
         "Namecheap": 888,
-        "WordPress.com": 861,
+        "WordPress.com": 862,
         "GridPane": 782,
         "InMotion Hosting": 633,
         "IONOS": 599,
