@@ -1,6 +1,56 @@
 {
-    "siteCount": 187417,
+    "siteCount": 187450,
     "recentlyMoved": [
+        {
+            "domain_name": "www.efmrecruiting.com",
+            "destination": "SiteGround",
+            "date": "2026-10-20 16:24:13"
+        },
+        {
+            "domain_name": "parentingforwardnm.com",
+            "destination": "Pressable",
+            "date": "2026-10-20 16:05:36"
+        },
+        {
+            "domain_name": "angelfreedman.com",
+            "destination": "HostGator",
+            "date": "2026-10-20 16:05:31"
+        },
+        {
+            "domain_name": "retailmuse.com",
+            "destination": "BigScoots",
+            "date": "2026-10-20 15:55:28"
+        },
+        {
+            "domain_name": "whitehallde.com",
+            "destination": "Kinsta",
+            "date": "2026-10-20 15:43:01"
+        },
+        {
+            "domain_name": "gravelmap.whitewater.org",
+            "destination": "Digital Ocean",
+            "date": "2026-10-20 15:29:40"
+        },
+        {
+            "domain_name": "airglow.co",
+            "destination": "Digital Ocean",
+            "date": "2026-10-20 15:25:23"
+        },
+        {
+            "domain_name": "flowfest.whitewater.org",
+            "destination": "Digital Ocean",
+            "date": "2026-10-20 15:21:01"
+        },
+        {
+            "domain_name": "www.selectattorney.com",
+            "destination": "Hetzner Online",
+            "date": "2026-10-20 15:20:48"
+        },
+        {
+            "domain_name": "ortegasweaving.com",
+            "destination": "Pressable",
+            "date": "2026-10-20 15:10:33"
+        },
         {
             "domain_name": "warmheartstravel.com",
             "destination": "OVH",
@@ -442,11 +492,6 @@
             "date": "2026-10-18 16:27:44"
         },
         {
-            "domain_name": "gracechurchalvin.org",
-            "destination": "IONOS",
-            "date": "2026-10-18 16:11:23"
-        },
-        {
             "domain_name": "restoringthesoul.com",
             "destination": "Bluehost",
             "date": "2026-10-18 16:10:34"
@@ -455,51 +500,6 @@
             "domain_name": "rwkconstruction.com",
             "destination": "Bluehost",
             "date": "2026-10-18 15:57:07"
-        },
-        {
-            "domain_name": "westlakevillage-dermatology.com",
-            "destination": "Kinsta",
-            "date": "2026-10-18 14:13:11"
-        },
-        {
-            "domain_name": "eajournal.naea.org",
-            "destination": "Kinsta",
-            "date": "2026-10-18 14:09:25"
-        },
-        {
-            "domain_name": "travelflyadventures.com",
-            "destination": "OVH",
-            "date": "2026-10-18 14:02:23"
-        },
-        {
-            "domain_name": "isacfoundation.org",
-            "destination": "Hostinger",
-            "date": "2026-10-18 12:43:21"
-        },
-        {
-            "domain_name": "ahhaa.org",
-            "destination": "Bluehost",
-            "date": "2026-10-18 12:15:00"
-        },
-        {
-            "domain_name": "shipitforless.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-18 12:12:25"
-        },
-        {
-            "domain_name": "herharborrecovery.com",
-            "destination": "Hostinger",
-            "date": "2026-10-18 12:04:30"
-        },
-        {
-            "domain_name": "everwhiteboards.com",
-            "destination": "Pressable",
-            "date": "2026-10-18 09:48:34"
-        },
-        {
-            "domain_name": "weorganize-u.com",
-            "destination": "Namecheap",
-            "date": "2026-10-18 09:48:03"
         }
     ],
     "dailyMovedStat": {
@@ -1264,15 +1264,15 @@
         "2026-10-19": "187256"
     },
     "topDestinationHosts": {
-        "Pressable": 15306,
-        "Kinsta": 12853,
-        "Digital Ocean": 7900,
+        "Pressable": 15308,
+        "Kinsta": 12854,
+        "Digital Ocean": 7903,
         "Hostinger": 6503,
-        "SiteGround": 5745,
+        "SiteGround": 5746,
         "Bluehost": 4887,
         "GoDaddy": 1962,
         "OVH": 1801,
-        "BigScoots": 1143,
+        "BigScoots": 1144,
         "Liquid Web": 981,
         "Namecheap": 888,
         "WordPress.com": 862,
@@ -1281,9 +1281,9 @@
         "IONOS": 599,
         "DreamHost": 580,
         "Elementor Hosting": 575,
-        "Hetzner Online": 550,
+        "Hetzner Online": 551,
         "A2 Hosting": 487,
-        "HostGator": 392
+        "HostGator": 393
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
