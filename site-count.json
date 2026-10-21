@@ -1,10 +1,15 @@
 {
-    "siteCount": 187590,
+    "siteCount": 187604,
     "recentlyMoved": [
         {
             "domain_name": "pulaskionline.org",
             "destination": "Kinsta",
             "date": "2026-10-21 00:15:58"
+        },
+        {
+            "domain_name": "joshtheotter.org",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 00:08:45"
         },
         {
             "domain_name": "angelalunatherapy.com",
@@ -495,11 +500,6 @@
             "domain_name": "www.francinebradyartist.com",
             "destination": "Kinsta",
             "date": "2026-10-19 11:47:57"
-        },
-        {
-            "domain_name": "www.groundcontrolbaltimore.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-10-19 07:49:11"
         }
     ],
     "dailyMovedStat": {
@@ -1267,7 +1267,7 @@
     "topDestinationHosts": {
         "Pressable": 15314,
         "Kinsta": 12861,
-        "Digital Ocean": 7903,
+        "Digital Ocean": 7904,
         "Hostinger": 6505,
         "SiteGround": 5746,
         "Bluehost": 4887,
