@@ -1,10 +1,15 @@
 {
-    "siteCount": 187683,
+    "siteCount": 187695,
     "recentlyMoved": [
         {
             "domain_name": "www.ivalua.com",
             "destination": "Kinsta",
             "date": "2026-10-21 08:43:50"
+        },
+        {
+            "domain_name": "www.taylorhopkinson.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 08:39:09"
         },
         {
             "domain_name": "hidrawear.com",
@@ -490,11 +495,6 @@
             "domain_name": "deepcentered.com",
             "destination": "Digital Ocean",
             "date": "2026-10-19 17:02:09"
-        },
-        {
-            "domain_name": "www.potomacretina.com",
-            "destination": "Kinsta",
-            "date": "2026-10-19 16:27:45"
         },
         {
             "domain_name": "stay-local.co.uk",
@@ -1267,7 +1267,7 @@
     "topDestinationHosts": {
         "Pressable": 15318,
         "Kinsta": 12863,
-        "Digital Ocean": 7906,
+        "Digital Ocean": 7907,
         "Hostinger": 6505,
         "SiteGround": 5746,
         "Bluehost": 4887,
@@ -1275,7 +1275,7 @@
         "OVH": 1802,
         "BigScoots": 1148,
         "Liquid Web": 982,
-        "Namecheap": 889,
+        "Namecheap": 890,
         "WordPress.com": 862,
         "GridPane": 784,
         "InMotion Hosting": 633,
