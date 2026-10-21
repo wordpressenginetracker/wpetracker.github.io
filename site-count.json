@@ -1,10 +1,50 @@
 {
-    "siteCount": 187862,
+    "siteCount": 187878,
     "recentlyMoved": [
+        {
+            "domain_name": "omahaprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 18:03:44"
+        },
+        {
+            "domain_name": "twincitiesprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:59:29"
+        },
+        {
+            "domain_name": "washingtondcprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:51:35"
+        },
+        {
+            "domain_name": "nashvilleprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:44:17"
+        },
+        {
+            "domain_name": "equityandwellbeing.org",
+            "destination": "HostGator",
+            "date": "2026-10-21 17:40:53"
+        },
+        {
+            "domain_name": "newyorkcityprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:36:28"
+        },
+        {
+            "domain_name": "neworleansprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:36:28"
+        },
         {
             "domain_name": "desmoinesprivateschools.com",
             "destination": "Digital Ocean",
             "date": "2026-10-21 17:36:22"
+        },
+        {
+            "domain_name": "tucsonprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:35:53"
         },
         {
             "domain_name": "yourgreatescapestravel.com",
@@ -32,9 +72,19 @@
             "date": "2026-10-21 17:05:11"
         },
         {
+            "domain_name": "miamiprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:03:43"
+        },
+        {
             "domain_name": "covenantcares.com",
             "destination": "Pressable",
             "date": "2026-10-21 17:03:21"
+        },
+        {
+            "domain_name": "milwaukeeprivateschools.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 17:01:03"
         },
         {
             "domain_name": "memphisprivateschools.com",
@@ -450,56 +500,6 @@
             "domain_name": "angelalunatherapy.com",
             "destination": "Hostinger",
             "date": "2026-10-20 23:55:59"
-        },
-        {
-            "domain_name": "aeioonline.com",
-            "destination": "GridPane",
-            "date": "2026-10-20 23:42:40"
-        },
-        {
-            "domain_name": "washalliance.org",
-            "destination": "Hostinger",
-            "date": "2026-10-20 21:42:00"
-        },
-        {
-            "domain_name": "cascadecanyonphoto.com",
-            "destination": "BigScoots",
-            "date": "2026-10-20 20:49:26"
-        },
-        {
-            "domain_name": "theautumndog.com",
-            "destination": "BigScoots",
-            "date": "2026-10-20 20:32:34"
-        },
-        {
-            "domain_name": "swpackaging.net",
-            "destination": "Kinsta",
-            "date": "2026-10-20 20:32:27"
-        },
-        {
-            "domain_name": "blueprint-risk.com",
-            "destination": "Pressable",
-            "date": "2026-10-20 20:09:16"
-        },
-        {
-            "domain_name": "raleighwindowsandsiding.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-20 19:44:47"
-        },
-        {
-            "domain_name": "athomewithchicandgrace.ca",
-            "destination": "BigScoots",
-            "date": "2026-10-20 19:39:43"
-        },
-        {
-            "domain_name": "www.andersoninsurancellc.com",
-            "destination": "Pressable",
-            "date": "2026-10-20 19:32:30"
-        },
-        {
-            "domain_name": "neighborsnm.com",
-            "destination": "Pressable",
-            "date": "2026-10-20 18:00:50"
         }
     ],
     "dailyMovedStat": {
@@ -1267,7 +1267,7 @@
     "topDestinationHosts": {
         "Pressable": 15327,
         "Kinsta": 12869,
-        "Digital Ocean": 7928,
+        "Digital Ocean": 7939,
         "Hostinger": 6509,
         "SiteGround": 5746,
         "Bluehost": 4889,
@@ -1284,7 +1284,7 @@
         "Elementor Hosting": 576,
         "Hetzner Online": 554,
         "A2 Hosting": 487,
-        "HostGator": 394
+        "HostGator": 395
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
