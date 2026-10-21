@@ -1,10 +1,15 @@
 {
-    "siteCount": 187656,
+    "siteCount": 187659,
     "recentlyMoved": [
         {
             "domain_name": "u-build.org",
             "destination": "Hetzner Online",
             "date": "2026-10-21 05:38:32"
+        },
+        {
+            "domain_name": "museumethnographersgroup.org.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-10-21 05:14:10"
         },
         {
             "domain_name": "www.pearlsbyeva.com",
@@ -465,11 +470,6 @@
             "domain_name": "www.greengladewelding.com",
             "destination": "Kinsta",
             "date": "2026-10-19 16:14:38"
-        },
-        {
-            "domain_name": "www.commodorestudio.com",
-            "destination": "Kinsta",
-            "date": "2026-10-19 16:08:08"
         },
         {
             "domain_name": "www.dianeheppner.com",
@@ -1267,7 +1267,7 @@
     "topDestinationHosts": {
         "Pressable": 15317,
         "Kinsta": 12862,
-        "Digital Ocean": 7904,
+        "Digital Ocean": 7905,
         "Hostinger": 6505,
         "SiteGround": 5746,
         "Bluehost": 4887,
@@ -1282,7 +1282,7 @@
         "IONOS": 599,
         "DreamHost": 580,
         "Elementor Hosting": 576,
-        "Hetzner Online": 553,
+        "Hetzner Online": 554,
         "A2 Hosting": 487,
         "HostGator": 393
     },
