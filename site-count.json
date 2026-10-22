@@ -1,10 +1,15 @@
 {
-    "siteCount": 188017,
+    "siteCount": 188023,
     "recentlyMoved": [
         {
             "domain_name": "www.insured-life.co.uk",
             "destination": "Namecheap",
             "date": "2026-10-22 04:42:56"
+        },
+        {
+            "domain_name": "www.negma-leather.com",
+            "destination": "Kinsta",
+            "date": "2026-10-22 04:42:31"
         },
         {
             "domain_name": "fritchheating.com",
@@ -475,11 +480,6 @@
             "domain_name": "elizabethfrederickphotography.com",
             "destination": "BigScoots",
             "date": "2026-10-21 13:11:44"
-        },
-        {
-            "domain_name": "www.thevintagelisbon.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-21 12:59:53"
         },
         {
             "domain_name": "vbmethod.com",
@@ -1267,7 +1267,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15340,
-        "Kinsta": 12892,
+        "Kinsta": 12893,
         "Digital Ocean": 7940,
         "Hostinger": 6513,
         "SiteGround": 5746,
