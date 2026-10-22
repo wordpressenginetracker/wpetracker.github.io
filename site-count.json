@@ -1,6 +1,11 @@
 {
-    "siteCount": 188122,
+    "siteCount": 188133,
     "recentlyMoved": [
+        {
+            "domain_name": "exploreacttell.org",
+            "destination": "Digital Ocean",
+            "date": "2026-10-22 14:01:32"
+        },
         {
             "domain_name": "criainc.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "philadelphiaprivateschools.com",
             "destination": "Digital Ocean",
             "date": "2026-10-21 15:22:40"
-        },
-        {
-            "domain_name": "party-pickup.com",
-            "destination": "BigScoots",
-            "date": "2026-10-21 15:16:50"
         }
     ],
     "dailyMovedStat": {
@@ -1268,7 +1268,7 @@
     "topDestinationHosts": {
         "Pressable": 15347,
         "Kinsta": 12899,
-        "Digital Ocean": 7942,
+        "Digital Ocean": 7943,
         "Hostinger": 6513,
         "SiteGround": 5746,
         "Bluehost": 4890,
