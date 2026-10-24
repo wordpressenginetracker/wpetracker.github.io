@@ -1,6 +1,31 @@
 {
-    "siteCount": 188764,
+    "siteCount": 188781,
     "recentlyMoved": [
+        {
+            "domain_name": "apiqld.com.au",
+            "destination": "Kinsta",
+            "date": "2026-10-24 08:20:54"
+        },
+        {
+            "domain_name": "www.cripps.co.uk",
+            "destination": "Kinsta",
+            "date": "2026-10-24 08:16:34"
+        },
+        {
+            "domain_name": "roanokemechanical.com",
+            "destination": "Kinsta",
+            "date": "2026-10-24 08:01:23"
+        },
+        {
+            "domain_name": "pti.tech",
+            "destination": "Pressable",
+            "date": "2026-10-24 07:59:03"
+        },
+        {
+            "domain_name": "wkmechanical.com",
+            "destination": "Kinsta",
+            "date": "2026-10-24 07:36:27"
+        },
         {
             "domain_name": "oaksmillpond.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "flahertyfinancialgroup.com",
             "destination": "GoDaddy",
             "date": "2026-10-23 15:26:47"
-        },
-        {
-            "domain_name": "gadsdenfinance.com",
-            "destination": "Pressable",
-            "date": "2026-10-23 13:36:12"
-        },
-        {
-            "domain_name": "northborderrealty.com",
-            "destination": "Kinsta",
-            "date": "2026-10-23 13:23:58"
-        },
-        {
-            "domain_name": "mccartin.com",
-            "destination": "Pressable",
-            "date": "2026-10-23 13:21:58"
-        },
-        {
-            "domain_name": "trunorthrealtymn.com",
-            "destination": "Kinsta",
-            "date": "2026-10-23 13:11:31"
-        },
-        {
-            "domain_name": "dynamicinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-10-23 12:58:55"
         }
     ],
     "dailyMovedStat": {
@@ -1268,8 +1268,8 @@
         "2026-10-23": "188687"
     },
     "topDestinationHosts": {
-        "Pressable": 15438,
-        "Kinsta": 12945,
+        "Pressable": 15439,
+        "Kinsta": 12949,
         "Digital Ocean": 7965,
         "Hostinger": 6531,
         "SiteGround": 5747,
