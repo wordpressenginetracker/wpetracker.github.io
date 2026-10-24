@@ -1,10 +1,15 @@
 {
-    "siteCount": 189043,
+    "siteCount": 189047,
     "recentlyMoved": [
         {
             "domain_name": "london-rpg.com",
             "destination": "IONOS",
             "date": "2026-10-24 21:20:53"
+        },
+        {
+            "domain_name": "ncrc.org",
+            "destination": "Pressable",
+            "date": "2026-10-24 21:12:01"
         },
         {
             "domain_name": "insuringkentucky.com",
@@ -485,11 +490,6 @@
             "domain_name": "www.troop1lewes.org",
             "destination": "Hostinger",
             "date": "2026-10-24 00:27:29"
-        },
-        {
-            "domain_name": "ric.lk",
-            "destination": "Hostinger",
-            "date": "2026-10-24 00:14:38"
         },
         {
             "domain_name": "www.productivefinance.com",
@@ -1268,7 +1268,7 @@
         "2026-10-23": "188687"
     },
     "topDestinationHosts": {
-        "Pressable": 15460,
+        "Pressable": 15461,
         "Kinsta": 12961,
         "Digital Ocean": 7974,
         "Hostinger": 6533,
