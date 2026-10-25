@@ -1,6 +1,26 @@
 {
-    "siteCount": 189200,
+    "siteCount": 189216,
     "recentlyMoved": [
+        {
+            "domain_name": "drgoldberg.org",
+            "destination": "Pressable",
+            "date": "2026-10-25 21:38:06"
+        },
+        {
+            "domain_name": "lancastermedicalheritagemuseum.org",
+            "destination": "Bluehost",
+            "date": "2026-10-25 20:49:27"
+        },
+        {
+            "domain_name": "jcllandscaping.com",
+            "destination": "Bluehost",
+            "date": "2026-10-25 20:40:21"
+        },
+        {
+            "domain_name": "sunnetsoftware.com",
+            "destination": "Bluehost",
+            "date": "2026-10-25 20:32:53"
+        },
         {
             "domain_name": "protecmfg.com",
             "destination": "Pressable",
@@ -480,26 +500,6 @@
             "domain_name": "kmmotos.be",
             "destination": "Kinsta",
             "date": "2026-10-24 08:39:25"
-        },
-        {
-            "domain_name": "sdg.com",
-            "destination": "Bluehost",
-            "date": "2026-10-24 08:28:17"
-        },
-        {
-            "domain_name": "www.cripps.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-10-24 08:16:34"
-        },
-        {
-            "domain_name": "roanokemechanical.com",
-            "destination": "Kinsta",
-            "date": "2026-10-24 08:01:23"
-        },
-        {
-            "domain_name": "pti.tech",
-            "destination": "Pressable",
-            "date": "2026-10-24 07:59:03"
         }
     ],
     "dailyMovedStat": {
@@ -1269,12 +1269,12 @@
         "2026-10-24": "189047"
     },
     "topDestinationHosts": {
-        "Pressable": 15471,
+        "Pressable": 15472,
         "Kinsta": 12963,
         "Digital Ocean": 7979,
         "Hostinger": 6537,
         "SiteGround": 5748,
-        "Bluehost": 4897,
+        "Bluehost": 4900,
         "GoDaddy": 1967,
         "OVH": 1816,
         "BigScoots": 1179,
