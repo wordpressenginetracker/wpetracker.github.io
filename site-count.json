@@ -1,6 +1,16 @@
 {
-    "siteCount": 189268,
+    "siteCount": 189271,
     "recentlyMoved": [
+        {
+            "domain_name": "vlad.blog",
+            "destination": "HostGator",
+            "date": "2026-10-26 01:51:14"
+        },
+        {
+            "domain_name": "neijingstudies.com",
+            "destination": "DreamHost",
+            "date": "2026-10-26 01:07:06"
+        },
         {
             "domain_name": "beekeepershoneyboutique.com",
             "destination": "Pressable",
@@ -460,16 +470,6 @@
             "domain_name": "www.old.nanocrine.com",
             "destination": "Kinsta",
             "date": "2026-10-24 12:20:35"
-        },
-        {
-            "domain_name": "www.hiddeninsite.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-24 12:18:09"
-        },
-        {
-            "domain_name": "ryconinc.com",
-            "destination": "Kinsta",
-            "date": "2026-10-24 12:15:49"
         },
         {
             "domain_name": "bsiui.com",
@@ -1285,11 +1285,11 @@
         "GridPane": 802,
         "InMotion Hosting": 635,
         "IONOS": 602,
-        "DreamHost": 582,
+        "DreamHost": 583,
         "Elementor Hosting": 577,
         "Hetzner Online": 557,
         "A2 Hosting": 488,
-        "HostGator": 395
+        "HostGator": 396
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
