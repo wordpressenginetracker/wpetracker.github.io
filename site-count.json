@@ -1,6 +1,11 @@
 {
-    "siteCount": 189466,
+    "siteCount": 189470,
     "recentlyMoved": [
+        {
+            "domain_name": "envyvacay.com",
+            "destination": "OVH",
+            "date": "2026-10-26 21:03:17"
+        },
         {
             "domain_name": "beaconchurchri.com",
             "destination": "Hostinger",
@@ -493,11 +498,6 @@
         },
         {
             "domain_name": "travelsbykelly.com",
-            "destination": "OVH",
-            "date": "2026-10-24 12:51:31"
-        },
-        {
-            "domain_name": "travelbyjean.com",
             "destination": "OVH",
             "date": "2026-10-24 12:51:31"
         }
@@ -1277,7 +1277,7 @@
         "SiteGround": 5748,
         "Bluehost": 4907,
         "GoDaddy": 1968,
-        "OVH": 1816,
+        "OVH": 1817,
         "BigScoots": 1179,
         "Liquid Web": 984,
         "Namecheap": 905,
