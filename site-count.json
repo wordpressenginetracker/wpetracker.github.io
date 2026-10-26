@@ -1,6 +1,11 @@
 {
-    "siteCount": 189294,
+    "siteCount": 189296,
     "recentlyMoved": [
+        {
+            "domain_name": "vsoha.com",
+            "destination": "Bluehost",
+            "date": "2026-10-26 05:25:24"
+        },
         {
             "domain_name": "christarenephotography.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "justclub.org",
             "destination": "Pressable",
             "date": "2026-10-24 12:11:57"
-        },
-        {
-            "domain_name": "www.nusbaumott.com",
-            "destination": "Kinsta",
-            "date": "2026-10-24 12:10:12"
         }
     ],
     "dailyMovedStat": {
@@ -1275,7 +1275,7 @@
         "Digital Ocean": 7980,
         "Hostinger": 6537,
         "SiteGround": 5748,
-        "Bluehost": 4905,
+        "Bluehost": 4906,
         "GoDaddy": 1967,
         "OVH": 1816,
         "BigScoots": 1179,
