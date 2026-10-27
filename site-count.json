@@ -1,6 +1,21 @@
 {
-    "siteCount": 189496,
+    "siteCount": 189503,
     "recentlyMoved": [
+        {
+            "domain_name": "rightjobsolutions.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-27 04:26:26"
+        },
+        {
+            "domain_name": "greyhoundinn.net",
+            "destination": "InMotion Hosting",
+            "date": "2026-10-27 04:06:53"
+        },
+        {
+            "domain_name": "ggse.ph",
+            "destination": "Digital Ocean",
+            "date": "2026-10-27 03:44:47"
+        },
         {
             "domain_name": "drmandyohara.com",
             "destination": "Hostinger",
@@ -457,11 +472,6 @@
             "date": "2026-10-24 16:19:15"
         },
         {
-            "domain_name": "www.judcocommunications.com",
-            "destination": "Kinsta",
-            "date": "2026-10-24 16:13:39"
-        },
-        {
             "domain_name": "seaglassphoto.com",
             "destination": "BigScoots",
             "date": "2026-10-24 16:11:47"
@@ -490,16 +500,6 @@
             "domain_name": "post158.org",
             "destination": "Hostinger",
             "date": "2026-10-24 15:53:38"
-        },
-        {
-            "domain_name": "perryfamilytravel.com",
-            "destination": "OVH",
-            "date": "2026-10-24 15:47:32"
-        },
-        {
-            "domain_name": "www.evyrgreen.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-24 15:35:06"
         }
     ],
     "dailyMovedStat": {
@@ -1273,7 +1273,7 @@
     "topDestinationHosts": {
         "Pressable": 15479,
         "Kinsta": 12969,
-        "Digital Ocean": 7981,
+        "Digital Ocean": 7983,
         "Hostinger": 6540,
         "SiteGround": 5748,
         "Bluehost": 4907,
@@ -1284,7 +1284,7 @@
         "Namecheap": 905,
         "WordPress.com": 865,
         "GridPane": 802,
-        "InMotion Hosting": 636,
+        "InMotion Hosting": 637,
         "IONOS": 603,
         "DreamHost": 583,
         "Elementor Hosting": 577,
