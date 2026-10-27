@@ -1,6 +1,36 @@
 {
-    "siteCount": 189515,
+    "siteCount": 189533,
     "recentlyMoved": [
+        {
+            "domain_name": "risbridger.com",
+            "destination": "Kinsta",
+            "date": "2026-10-27 08:36:50"
+        },
+        {
+            "domain_name": "husteads.com",
+            "destination": "Kinsta",
+            "date": "2026-10-27 08:27:35"
+        },
+        {
+            "domain_name": "www.gotomyerp.com",
+            "destination": "SiteGround",
+            "date": "2026-10-27 08:10:50"
+        },
+        {
+            "domain_name": "ronjacksonins.com",
+            "destination": "Pressable",
+            "date": "2026-10-27 08:07:16"
+        },
+        {
+            "domain_name": "www.eli-us.com",
+            "destination": "Kinsta",
+            "date": "2026-10-27 08:04:14"
+        },
+        {
+            "domain_name": "azuricarcare.co.uk",
+            "destination": "Pressable",
+            "date": "2026-10-27 07:59:56"
+        },
         {
             "domain_name": "supertechauto.ca",
             "destination": "Kinsta",
@@ -447,29 +477,14 @@
             "date": "2026-10-24 17:08:19"
         },
         {
-            "domain_name": "chambersinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-10-24 17:01:03"
-        },
-        {
             "domain_name": "mcsinsurance.com",
             "destination": "Pressable",
             "date": "2026-10-24 16:55:38"
         },
         {
-            "domain_name": "kapnick.com",
-            "destination": "Pressable",
-            "date": "2026-10-24 16:54:36"
-        },
-        {
             "domain_name": "deserttownhall.org",
             "destination": "Pressable",
             "date": "2026-10-24 16:52:52"
-        },
-        {
-            "domain_name": "sorayagoddard.com",
-            "destination": "BigScoots",
-            "date": "2026-10-24 16:52:03"
         },
         {
             "domain_name": "strongtowerig.com",
@@ -482,24 +497,9 @@
             "date": "2026-10-24 16:47:44"
         },
         {
-            "domain_name": "www.printdigitalplus.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-24 16:43:29"
-        },
-        {
             "domain_name": "www.thehalogroup.com",
             "destination": "Digital Ocean",
             "date": "2026-10-24 16:23:08"
-        },
-        {
-            "domain_name": "journeysanddestinationsllc.com",
-            "destination": "OVH",
-            "date": "2026-10-24 16:19:15"
-        },
-        {
-            "domain_name": "kimhymesphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-10-24 16:05:22"
         }
     ],
     "dailyMovedStat": {
@@ -1271,11 +1271,11 @@
         "2026-10-26": "189470"
     },
     "topDestinationHosts": {
-        "Pressable": 15480,
-        "Kinsta": 12971,
+        "Pressable": 15482,
+        "Kinsta": 12974,
         "Digital Ocean": 7984,
         "Hostinger": 6540,
-        "SiteGround": 5748,
+        "SiteGround": 5749,
         "Bluehost": 4907,
         "GoDaddy": 1968,
         "OVH": 1817,
