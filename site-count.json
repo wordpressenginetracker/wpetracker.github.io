@@ -1,10 +1,20 @@
 {
-    "siteCount": 193041,
+    "siteCount": 193047,
     "recentlyMoved": [
+        {
+            "domain_name": "edmondsrenovations.com",
+            "destination": "Pressable",
+            "date": "2026-10-28 21:38:00"
+        },
         {
             "domain_name": "magnoliafinancehuntsville.com",
             "destination": "Pressable",
             "date": "2026-10-28 21:29:34"
+        },
+        {
+            "domain_name": "mythicalcommunications.com",
+            "destination": "Digital Ocean",
+            "date": "2026-10-28 21:07:38"
         },
         {
             "domain_name": "cleverdesignandremodeling.com",
@@ -482,11 +492,6 @@
             "date": "2026-10-28 13:04:27"
         },
         {
-            "domain_name": "mkiins.com",
-            "destination": "Pressable",
-            "date": "2026-10-28 13:02:26"
-        },
-        {
             "domain_name": "ellevatetalent.com",
             "destination": "SiteGround",
             "date": "2026-10-28 13:01:50"
@@ -495,11 +500,6 @@
             "domain_name": "eplinglaw.com",
             "destination": "SiteGround",
             "date": "2026-10-28 12:59:02"
-        },
-        {
-            "domain_name": "mossburndistillers.com",
-            "destination": "Hostinger",
-            "date": "2026-10-28 12:57:47"
         }
     ],
     "dailyMovedStat": {
@@ -1272,10 +1272,10 @@
         "2026-10-27": "192548"
     },
     "topDestinationHosts": {
-        "Pressable": 15560,
+        "Pressable": 15561,
         "Kinsta": 13007,
         "SiteGround": 8515,
-        "Digital Ocean": 8007,
+        "Digital Ocean": 8008,
         "Hostinger": 6552,
         "Bluehost": 4908,
         "GoDaddy": 1974,
