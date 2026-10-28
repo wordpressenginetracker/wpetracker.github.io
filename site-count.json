@@ -1,10 +1,35 @@
 {
-    "siteCount": 192805,
+    "siteCount": 192822,
     "recentlyMoved": [
+        {
+            "domain_name": "fbcthomasville.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 14:00:27"
+        },
+        {
+            "domain_name": "nordicrmn.org",
+            "destination": "WordPress.com",
+            "date": "2026-10-28 13:47:12"
+        },
+        {
+            "domain_name": "westminstercompliance.co.uk",
+            "destination": "Pressable",
+            "date": "2026-10-28 13:45:39"
+        },
+        {
+            "domain_name": "wedgwoodinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-10-28 13:39:31"
+        },
         {
             "domain_name": "dennisagency.com",
             "destination": "Pressable",
             "date": "2026-10-28 13:30:53"
+        },
+        {
+            "domain_name": "volundgearworks.com",
+            "destination": "BigScoots",
+            "date": "2026-10-28 13:29:21"
         },
         {
             "domain_name": "edrankin.coach",
@@ -30,6 +55,16 @@
             "domain_name": "commercialplasticscorp.com",
             "destination": "Pressable",
             "date": "2026-10-28 13:02:15"
+        },
+        {
+            "domain_name": "ellevatetalent.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 13:01:50"
+        },
+        {
+            "domain_name": "eplinglaw.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 12:59:02"
         },
         {
             "domain_name": "mossburndistillers.com",
@@ -447,11 +482,6 @@
             "date": "2026-10-27 16:57:25"
         },
         {
-            "domain_name": "cedarparkdoctors.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:45:04"
-        },
-        {
             "domain_name": "kingshawaiianfoodservice.com",
             "destination": "SiteGround",
             "date": "2026-10-27 16:43:38"
@@ -470,36 +500,6 @@
             "domain_name": "tastetheplace.co.uk",
             "destination": "SiteGround",
             "date": "2026-10-27 16:32:54"
-        },
-        {
-            "domain_name": "kideney.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:32:16"
-        },
-        {
-            "domain_name": "www.prodeckconstructionva.com",
-            "destination": "Kinsta",
-            "date": "2026-10-27 16:31:57"
-        },
-        {
-            "domain_name": "southshorerecovery.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:12:24"
-        },
-        {
-            "domain_name": "southerntrendcustomhomes.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:12:24"
-        },
-        {
-            "domain_name": "southernmainetree.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:12:24"
-        },
-        {
-            "domain_name": "southerncrossgroup.com.au",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:12:24"
         }
     ],
     "dailyMovedStat": {
@@ -1272,18 +1272,18 @@
         "2026-10-27": "192548"
     },
     "topDestinationHosts": {
-        "Pressable": 15516,
-        "Kinsta": 12992,
-        "SiteGround": 8500,
+        "Pressable": 15519,
+        "Kinsta": 12993,
+        "SiteGround": 8503,
         "Digital Ocean": 7999,
-        "Hostinger": 6547,
+        "Hostinger": 6548,
         "Bluehost": 4908,
         "GoDaddy": 1972,
         "OVH": 1821,
-        "BigScoots": 1190,
+        "BigScoots": 1191,
         "Liquid Web": 986,
         "Namecheap": 907,
-        "WordPress.com": 869,
+        "WordPress.com": 870,
         "GridPane": 806,
         "InMotion Hosting": 637,
         "IONOS": 603,
