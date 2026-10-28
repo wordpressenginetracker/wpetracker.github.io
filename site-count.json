@@ -1,6 +1,11 @@
 {
-    "siteCount": 192633,
+    "siteCount": 192638,
     "recentlyMoved": [
+        {
+            "domain_name": "visit-eldorado.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 05:32:38"
+        },
         {
             "domain_name": "dentistry4life.com",
             "destination": "SiteGround",
@@ -400,11 +405,6 @@
             "domain_name": "kblighting.com",
             "destination": "SiteGround",
             "date": "2026-10-27 16:28:57"
-        },
-        {
-            "domain_name": "socialacquisitionfund.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:28:38"
         },
         {
             "domain_name": "carolinamarineterminal.com",
@@ -1274,7 +1274,7 @@
     "topDestinationHosts": {
         "Pressable": 15505,
         "Kinsta": 12987,
-        "SiteGround": 8488,
+        "SiteGround": 8490,
         "Digital Ocean": 7996,
         "Hostinger": 6546,
         "Bluehost": 4907,
