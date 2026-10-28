@@ -1,6 +1,31 @@
 {
-    "siteCount": 192565,
+    "siteCount": 192582,
     "recentlyMoved": [
+        {
+            "domain_name": "jefferyandspence.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 00:52:18"
+        },
+        {
+            "domain_name": "lpamasterplans.com",
+            "destination": "GoDaddy",
+            "date": "2026-10-28 00:43:38"
+        },
+        {
+            "domain_name": "ldemerslaw.com",
+            "destination": "SiteGround",
+            "date": "2026-10-28 00:22:42"
+        },
+        {
+            "domain_name": "www.macsparky.com",
+            "destination": "Kinsta",
+            "date": "2026-10-28 00:21:21"
+        },
+        {
+            "domain_name": "sierranevadaalliance.org",
+            "destination": "SiteGround",
+            "date": "2026-10-28 00:19:58"
+        },
         {
             "domain_name": "qualityairutah.com",
             "destination": "SiteGround",
@@ -240,31 +265,6 @@
             "domain_name": "sonigyoutharts.co.uk",
             "destination": "SiteGround",
             "date": "2026-10-27 16:50:53"
-        },
-        {
-            "domain_name": "smokealarmintegrity.com.au",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:50:00"
-        },
-        {
-            "domain_name": "smithsfinerugcleaning.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:50:00"
-        },
-        {
-            "domain_name": "smithlegacylaw.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:50:00"
-        },
-        {
-            "domain_name": "smileyfacebraces.com",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:50:00"
-        },
-        {
-            "domain_name": "smileonu.org",
-            "destination": "SiteGround",
-            "date": "2026-10-27 16:50:00"
         },
         {
             "domain_name": "cedarparkdoctors.com",
@@ -1273,12 +1273,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 15505,
-        "Kinsta": 12985,
-        "SiteGround": 8478,
+        "Kinsta": 12986,
+        "SiteGround": 8481,
         "Digital Ocean": 7995,
         "Hostinger": 6546,
         "Bluehost": 4907,
-        "GoDaddy": 1970,
+        "GoDaddy": 1971,
         "OVH": 1820,
         "BigScoots": 1190,
         "Liquid Web": 985,
