@@ -1,6 +1,11 @@
 {
-    "siteCount": 193107,
+    "siteCount": 193110,
     "recentlyMoved": [
+        {
+            "domain_name": "vdlitigation.com",
+            "destination": "SiteGround",
+            "date": "2026-10-29 05:47:51"
+        },
         {
             "domain_name": "www.pipewrenchplumbing.com",
             "destination": "Kinsta",
@@ -415,11 +420,6 @@
             "domain_name": "bittybitespediatricdentistry.com",
             "destination": "Pressable",
             "date": "2026-10-28 16:12:49"
-        },
-        {
-            "domain_name": "www.usamortgageandrealestate.com",
-            "destination": "Kinsta",
-            "date": "2026-10-28 16:11:17"
         },
         {
             "domain_name": "joeosbornephotography.com",
@@ -1275,7 +1275,7 @@
     "topDestinationHosts": {
         "Pressable": 15563,
         "Kinsta": 13011,
-        "SiteGround": 8519,
+        "SiteGround": 8520,
         "Digital Ocean": 8009,
         "Hostinger": 6553,
         "Bluehost": 4911,
