@@ -1,6 +1,31 @@
 {
-    "siteCount": 193081,
+    "siteCount": 193097,
     "recentlyMoved": [
+        {
+            "domain_name": "antidisplacement.org",
+            "destination": "GridPane",
+            "date": "2026-10-29 04:22:42"
+        },
+        {
+            "domain_name": "archivesfoundation.org",
+            "destination": "Pressable",
+            "date": "2026-10-29 03:50:11"
+        },
+        {
+            "domain_name": "pistolandparis.com",
+            "destination": "SiteGround",
+            "date": "2026-10-29 03:41:14"
+        },
+        {
+            "domain_name": "pelicanmgt.com",
+            "destination": "GridPane",
+            "date": "2026-10-29 03:38:33"
+        },
+        {
+            "domain_name": "ourpurposefullife.com",
+            "destination": "Bluehost",
+            "date": "2026-10-29 03:11:14"
+        },
         {
             "domain_name": "meaganlyn.com",
             "destination": "Bluehost",
@@ -412,16 +437,6 @@
             "date": "2026-10-28 15:55:46"
         },
         {
-            "domain_name": "www.ladiestouchhealthychoice.org",
-            "destination": "Kinsta",
-            "date": "2026-10-28 15:55:46"
-        },
-        {
-            "domain_name": "p3ginc.com",
-            "destination": "Pressable",
-            "date": "2026-10-28 15:53:29"
-        },
-        {
             "domain_name": "hollandinterfacesolutions.com",
             "destination": "BigScoots",
             "date": "2026-10-28 15:50:50"
@@ -430,11 +445,6 @@
             "domain_name": "bethelstl.org",
             "destination": "SiteGround",
             "date": "2026-10-28 15:50:20"
-        },
-        {
-            "domain_name": "www.celebritychefewanda.com",
-            "destination": "Kinsta",
-            "date": "2026-10-28 15:48:54"
         },
         {
             "domain_name": "archonaesthetics.com",
@@ -490,16 +500,6 @@
             "domain_name": "gbrc.ca",
             "destination": "SiteGround",
             "date": "2026-10-28 15:21:21"
-        },
-        {
-            "domain_name": "westminstercompliance.co.uk",
-            "destination": "Pressable",
-            "date": "2026-10-28 13:45:39"
-        },
-        {
-            "domain_name": "wedgwoodinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-10-28 13:39:31"
         }
     ],
     "dailyMovedStat": {
@@ -1273,19 +1273,19 @@
         "2026-10-28": "193047"
     },
     "topDestinationHosts": {
-        "Pressable": 15562,
+        "Pressable": 15563,
         "Kinsta": 13009,
-        "SiteGround": 8516,
+        "SiteGround": 8517,
         "Digital Ocean": 8009,
         "Hostinger": 6553,
-        "Bluehost": 4909,
+        "Bluehost": 4910,
         "GoDaddy": 1974,
         "OVH": 1823,
         "BigScoots": 1201,
         "Liquid Web": 986,
         "Namecheap": 907,
         "WordPress.com": 871,
-        "GridPane": 806,
+        "GridPane": 808,
         "InMotion Hosting": 638,
         "IONOS": 604,
         "DreamHost": 583,
