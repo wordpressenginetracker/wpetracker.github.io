@@ -1,10 +1,35 @@
 {
-    "siteCount": 193739,
+    "siteCount": 193752,
     "recentlyMoved": [
+        {
+            "domain_name": "wallysworldtravel.com",
+            "destination": "OVH",
+            "date": "2026-10-30 17:43:56"
+        },
+        {
+            "domain_name": "fievisuals.com",
+            "destination": "Hetzner Online",
+            "date": "2026-10-30 17:34:08"
+        },
+        {
+            "domain_name": "fhitfactory.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-10-30 17:34:08"
+        },
         {
             "domain_name": "tourdeacoma.com",
             "destination": "Pressable",
             "date": "2026-10-30 17:32:41"
+        },
+        {
+            "domain_name": "veatchconsulting.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 17:32:09"
+        },
+        {
+            "domain_name": "nusbauminsurance.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 17:30:16"
         },
         {
             "domain_name": "mattisonmartinoli.com",
@@ -20,6 +45,11 @@
             "domain_name": "millennial-insurance.com",
             "destination": "Pressable",
             "date": "2026-10-30 17:15:56"
+        },
+        {
+            "domain_name": "northwoodins.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 17:13:33"
         },
         {
             "domain_name": "cybersyte.com",
@@ -470,36 +500,6 @@
             "domain_name": "865hvac.com",
             "destination": "Kinsta",
             "date": "2026-10-30 07:18:19"
-        },
-        {
-            "domain_name": "nestawellness.com",
-            "destination": "Pressable",
-            "date": "2026-10-30 05:37:06"
-        },
-        {
-            "domain_name": "weldsmart.org",
-            "destination": "Kinsta",
-            "date": "2026-10-30 05:17:42"
-        },
-        {
-            "domain_name": "monitur.com",
-            "destination": "Kinsta",
-            "date": "2026-10-30 05:11:02"
-        },
-        {
-            "domain_name": "stdental.com",
-            "destination": "Pressable",
-            "date": "2026-10-30 04:25:37"
-        },
-        {
-            "domain_name": "smilebysmiledental.com",
-            "destination": "Pressable",
-            "date": "2026-10-30 04:21:58"
-        },
-        {
-            "domain_name": "liatigroup.com",
-            "destination": "Kinsta",
-            "date": "2026-10-30 04:18:52"
         }
     ],
     "dailyMovedStat": {
@@ -1274,24 +1274,24 @@
         "2026-10-29": "193437"
     },
     "topDestinationHosts": {
-        "Pressable": 15711,
-        "Kinsta": 13054,
+        "Pressable": 15714,
+        "Kinsta": 13055,
         "SiteGround": 8534,
         "Digital Ocean": 8028,
         "Hostinger": 6564,
         "Bluehost": 4915,
         "GoDaddy": 1979,
-        "OVH": 1827,
+        "OVH": 1828,
         "BigScoots": 1216,
         "Liquid Web": 988,
         "Namecheap": 907,
         "WordPress.com": 872,
         "GridPane": 809,
-        "InMotion Hosting": 639,
+        "InMotion Hosting": 640,
         "IONOS": 604,
         "DreamHost": 585,
         "Elementor Hosting": 577,
-        "Hetzner Online": 562,
+        "Hetzner Online": 563,
         "A2 Hosting": 488,
         "HostGator": 397
     },
