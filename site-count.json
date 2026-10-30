@@ -1,6 +1,26 @@
 {
-    "siteCount": 193437,
+    "siteCount": 193452,
     "recentlyMoved": [
+        {
+            "domain_name": "ao2clear.com",
+            "destination": "Kinsta",
+            "date": "2026-10-30 00:22:29"
+        },
+        {
+            "domain_name": "ahome.com.au",
+            "destination": "Kinsta",
+            "date": "2026-10-29 23:49:10"
+        },
+        {
+            "domain_name": "graced.nyc",
+            "destination": "Bluehost",
+            "date": "2026-10-29 23:47:54"
+        },
+        {
+            "domain_name": "rollerdomenorth.com",
+            "destination": "SiteGround",
+            "date": "2026-10-29 23:44:22"
+        },
         {
             "domain_name": "westportkcmo.com",
             "destination": "SiteGround",
@@ -452,11 +472,6 @@
             "date": "2026-10-29 12:57:25"
         },
         {
-            "domain_name": "www.maplestreetcatering.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 12:49:32"
-        },
-        {
             "domain_name": "www.bigfattybbq.com",
             "destination": "Pressable",
             "date": "2026-10-29 12:48:50"
@@ -465,11 +480,6 @@
             "domain_name": "makewayforbooks.org",
             "destination": "Kinsta",
             "date": "2026-10-29 12:43:40"
-        },
-        {
-            "domain_name": "japanesestyle.com",
-            "destination": "Bluehost",
-            "date": "2026-10-29 12:35:55"
         },
         {
             "domain_name": "www.northstarmortgage.net",
@@ -490,16 +500,6 @@
             "domain_name": "www.morningdewlandscape.com",
             "destination": "Pressable",
             "date": "2026-10-29 12:21:01"
-        },
-        {
-            "domain_name": "investintimmins.com",
-            "destination": "Kinsta",
-            "date": "2026-10-29 11:54:36"
-        },
-        {
-            "domain_name": "www.ibispice.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 11:47:25"
         }
     ],
     "dailyMovedStat": {
@@ -1275,11 +1275,11 @@
     },
     "topDestinationHosts": {
         "Pressable": 15631,
-        "Kinsta": 13031,
-        "SiteGround": 8530,
+        "Kinsta": 13033,
+        "SiteGround": 8531,
         "Digital Ocean": 8017,
         "Hostinger": 6559,
-        "Bluehost": 4913,
+        "Bluehost": 4914,
         "GoDaddy": 1977,
         "OVH": 1826,
         "BigScoots": 1214,
