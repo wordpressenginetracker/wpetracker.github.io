@@ -1,6 +1,16 @@
 {
-    "siteCount": 193507,
+    "siteCount": 193513,
     "recentlyMoved": [
+        {
+            "domain_name": "nestawellness.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 05:37:06"
+        },
+        {
+            "domain_name": "weldsmart.org",
+            "destination": "Kinsta",
+            "date": "2026-10-30 05:17:42"
+        },
         {
             "domain_name": "monitur.com",
             "destination": "Kinsta",
@@ -485,16 +495,6 @@
             "domain_name": "boulderneograft.com",
             "destination": "Pressable",
             "date": "2026-10-29 16:19:41"
-        },
-        {
-            "domain_name": "www.hrobatinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 16:13:55"
-        },
-        {
-            "domain_name": "roihealthpartners.com",
-            "destination": "Hostinger",
-            "date": "2026-10-29 16:10:57"
         },
         {
             "domain_name": "illinoisdentistrydallas.com",
@@ -1274,8 +1274,8 @@
         "2026-10-29": "193437"
     },
     "topDestinationHosts": {
-        "Pressable": 15657,
-        "Kinsta": 13036,
+        "Pressable": 15658,
+        "Kinsta": 13037,
         "SiteGround": 8534,
         "Digital Ocean": 8019,
         "Hostinger": 6561,
