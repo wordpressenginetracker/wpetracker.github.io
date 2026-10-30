@@ -1,10 +1,40 @@
 {
-    "siteCount": 193496,
+    "siteCount": 193507,
     "recentlyMoved": [
+        {
+            "domain_name": "monitur.com",
+            "destination": "Kinsta",
+            "date": "2026-10-30 05:11:02"
+        },
         {
             "domain_name": "rrpcommercial.com",
             "destination": "Pressable",
             "date": "2026-10-30 04:41:21"
+        },
+        {
+            "domain_name": "simple-concepts.com",
+            "destination": "Hostinger",
+            "date": "2026-10-30 04:37:31"
+        },
+        {
+            "domain_name": "callwrightchoiceplumbing.com",
+            "destination": "Kinsta",
+            "date": "2026-10-30 04:29:50"
+        },
+        {
+            "domain_name": "stdental.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 04:25:37"
+        },
+        {
+            "domain_name": "smilebysmiledental.com",
+            "destination": "Pressable",
+            "date": "2026-10-30 04:21:58"
+        },
+        {
+            "domain_name": "liatigroup.com",
+            "destination": "Kinsta",
+            "date": "2026-10-30 04:18:52"
         },
         {
             "domain_name": "reefkidsdental.com",
@@ -437,11 +467,6 @@
             "date": "2026-10-29 16:40:12"
         },
         {
-            "domain_name": "hometownchildrensdentistry.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 16:35:10"
-        },
-        {
             "domain_name": "kayhazen.com",
             "destination": "Pressable",
             "date": "2026-10-29 16:34:35"
@@ -450,11 +475,6 @@
             "domain_name": "challengerhomes.com",
             "destination": "Bluehost",
             "date": "2026-10-29 16:31:38"
-        },
-        {
-            "domain_name": "baerimageshawaii.com",
-            "destination": "BigScoots",
-            "date": "2026-10-29 16:30:11"
         },
         {
             "domain_name": "sobercheck.co.nz",
@@ -477,29 +497,9 @@
             "date": "2026-10-29 16:10:57"
         },
         {
-            "domain_name": "www.evergreenfire.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-29 16:10:26"
-        },
-        {
             "domain_name": "illinoisdentistrydallas.com",
             "destination": "Pressable",
             "date": "2026-10-29 15:48:52"
-        },
-        {
-            "domain_name": "hillsidedentaltx.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 15:44:18"
-        },
-        {
-            "domain_name": "highlightfamilydentistry.com",
-            "destination": "Pressable",
-            "date": "2026-10-29 15:44:18"
-        },
-        {
-            "domain_name": "bar-lino.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-29 15:44:15"
         }
     ],
     "dailyMovedStat": {
@@ -1274,11 +1274,11 @@
         "2026-10-29": "193437"
     },
     "topDestinationHosts": {
-        "Pressable": 15655,
-        "Kinsta": 13033,
+        "Pressable": 15657,
+        "Kinsta": 13036,
         "SiteGround": 8534,
         "Digital Ocean": 8019,
-        "Hostinger": 6560,
+        "Hostinger": 6561,
         "Bluehost": 4914,
         "GoDaddy": 1978,
         "OVH": 1826,
