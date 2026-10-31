@@ -1,6 +1,11 @@
 {
-    "siteCount": 193904,
+    "siteCount": 193921,
     "recentlyMoved": [
+        {
+            "domain_name": "bigmoneydetailer.com",
+            "destination": "SiteGround",
+            "date": "2026-10-31 08:02:56"
+        },
         {
             "domain_name": "westshorehealth.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "www.fgi-industries.com",
             "destination": "Digital Ocean",
             "date": "2026-10-30 11:34:34"
-        },
-        {
-            "domain_name": "whitnalldental.com",
-            "destination": "Pressable",
-            "date": "2026-10-30 11:24:07"
         }
     ],
     "dailyMovedStat": {
@@ -1276,8 +1276,8 @@
     },
     "topDestinationHosts": {
         "Pressable": 15724,
-        "Kinsta": 13072,
-        "SiteGround": 8534,
+        "Kinsta": 13073,
+        "SiteGround": 8535,
         "Digital Ocean": 8028,
         "Hostinger": 6569,
         "Bluehost": 4916,
