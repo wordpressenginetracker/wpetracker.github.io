@@ -1,6 +1,11 @@
 {
-    "siteCount": 193891,
+    "siteCount": 193901,
     "recentlyMoved": [
+        {
+            "domain_name": "maison-chuques.fr",
+            "destination": "Kinsta",
+            "date": "2026-10-31 04:42:21"
+        },
         {
             "domain_name": "ralfajalin.fi",
             "destination": "Hetzner Online",
@@ -495,11 +500,6 @@
             "domain_name": "northlandfamilyplanning.com",
             "destination": "Kinsta",
             "date": "2026-10-30 09:29:17"
-        },
-        {
-            "domain_name": "viridianmd.com",
-            "destination": "Pressable",
-            "date": "2026-10-30 09:16:13"
         }
     ],
     "dailyMovedStat": {
@@ -1276,7 +1276,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15724,
-        "Kinsta": 13071,
+        "Kinsta": 13072,
         "SiteGround": 8534,
         "Digital Ocean": 8028,
         "Hostinger": 6569,
