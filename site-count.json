@@ -1,10 +1,20 @@
 {
-    "siteCount": 194135,
+    "siteCount": 194141,
     "recentlyMoved": [
         {
             "domain_name": "troast-singleyagency.com",
             "destination": "Pressable",
             "date": "2026-10-31 17:44:46"
+        },
+        {
+            "domain_name": "northwestpropertyrental.com",
+            "destination": "Pressable",
+            "date": "2026-10-31 17:41:53"
+        },
+        {
+            "domain_name": "northwestpropertymanagementgroup.com",
+            "destination": "Pressable",
+            "date": "2026-10-31 17:41:53"
         },
         {
             "domain_name": "mykidsdentalcenter.com",
@@ -15,6 +25,11 @@
             "domain_name": "thompsonprivateclient.com",
             "destination": "Pressable",
             "date": "2026-10-31 17:22:51"
+        },
+        {
+            "domain_name": "northstarwealthpartners.com",
+            "destination": "Hostinger",
+            "date": "2026-10-31 17:22:34"
         },
         {
             "domain_name": "www.window-balances.com",
@@ -477,29 +492,14 @@
             "date": "2026-10-30 21:08:45"
         },
         {
-            "domain_name": "collecteddesignstudio.com",
-            "destination": "Bluehost",
-            "date": "2026-10-30 21:07:38"
-        },
-        {
             "domain_name": "maconithappentravel.com",
             "destination": "OVH",
             "date": "2026-10-30 20:37:53"
         },
         {
-            "domain_name": "www.shiptonandassociates.com.au",
-            "destination": "Hostinger",
-            "date": "2026-10-30 20:34:45"
-        },
-        {
             "domain_name": "templekatwando.com",
             "destination": "Hostinger",
             "date": "2026-10-30 20:29:31"
-        },
-        {
-            "domain_name": "chevalwellness.com",
-            "destination": "Hostinger",
-            "date": "2026-10-30 20:16:06"
         }
     ],
     "dailyMovedStat": {
@@ -1275,11 +1275,11 @@
         "2026-10-30": "193844"
     },
     "topDestinationHosts": {
-        "Pressable": 15754,
+        "Pressable": 15757,
         "Kinsta": 13084,
         "SiteGround": 8538,
         "Digital Ocean": 8048,
-        "Hostinger": 6575,
+        "Hostinger": 6576,
         "Bluehost": 4917,
         "GoDaddy": 1982,
         "OVH": 1829,
