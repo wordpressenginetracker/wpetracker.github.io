@@ -1,6 +1,21 @@
 {
-    "siteCount": 194280,
+    "siteCount": 194296,
     "recentlyMoved": [
+        {
+            "domain_name": "moondusttravel.com",
+            "destination": "OVH",
+            "date": "2026-11-01 09:40:23"
+        },
+        {
+            "domain_name": "www.petermarxlaw.com",
+            "destination": "DreamHost",
+            "date": "2026-11-01 08:51:01"
+        },
+        {
+            "domain_name": "jeffriesheating.com",
+            "destination": "Kinsta",
+            "date": "2026-11-01 08:49:35"
+        },
         {
             "domain_name": "bajau.mx",
             "destination": "Hostinger",
@@ -485,21 +500,6 @@
             "domain_name": "bigmoneydetailer.com",
             "destination": "SiteGround",
             "date": "2026-10-31 08:02:56"
-        },
-        {
-            "domain_name": "westshorehealth.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-31 05:47:45"
-        },
-        {
-            "domain_name": "maison-chuques.fr",
-            "destination": "Kinsta",
-            "date": "2026-10-31 04:42:21"
-        },
-        {
-            "domain_name": "hollenbeckmd.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 03:42:15"
         }
     ],
     "dailyMovedStat": {
@@ -1277,7 +1277,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15764,
-        "Kinsta": 13087,
+        "Kinsta": 13088,
         "SiteGround": 8538,
         "Digital Ocean": 8050,
         "Hostinger": 6578,
@@ -1291,7 +1291,7 @@
         "GridPane": 810,
         "InMotion Hosting": 640,
         "IONOS": 604,
-        "DreamHost": 585,
+        "DreamHost": 586,
         "Elementor Hosting": 577,
         "Hetzner Online": 564,
         "A2 Hosting": 490,
