@@ -1,6 +1,11 @@
 {
-    "siteCount": 194259,
+    "siteCount": 194273,
     "recentlyMoved": [
+        {
+            "domain_name": "bajau.mx",
+            "destination": "Hostinger",
+            "date": "2026-11-01 03:31:02"
+        },
         {
             "domain_name": "rosiesroofing.com",
             "destination": "Digital Ocean",
@@ -490,11 +495,6 @@
             "domain_name": "maison-chuques.fr",
             "destination": "Kinsta",
             "date": "2026-10-31 04:42:21"
-        },
-        {
-            "domain_name": "www.ematprogram.com",
-            "destination": "Kinsta",
-            "date": "2026-10-31 03:54:29"
         },
         {
             "domain_name": "hollenbeckmd.com",
@@ -1280,7 +1280,7 @@
         "Kinsta": 13087,
         "SiteGround": 8538,
         "Digital Ocean": 8050,
-        "Hostinger": 6577,
+        "Hostinger": 6578,
         "Bluehost": 4917,
         "GoDaddy": 1985,
         "OVH": 1830,
