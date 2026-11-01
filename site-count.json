@@ -1,6 +1,11 @@
 {
-    "siteCount": 194339,
+    "siteCount": 194358,
     "recentlyMoved": [
+        {
+            "domain_name": "goodwellpainting.com",
+            "destination": "Hostinger",
+            "date": "2026-11-01 16:11:04"
+        },
         {
             "domain_name": "mentalhealthsd.com",
             "destination": "SiteGround",
@@ -495,11 +500,6 @@
             "domain_name": "www.hartmangroup1.com",
             "destination": "Pressable",
             "date": "2026-10-31 11:48:54"
-        },
-        {
-            "domain_name": "action-ins.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 11:23:30"
         }
     ],
     "dailyMovedStat": {
@@ -1280,7 +1280,7 @@
         "Kinsta": 13088,
         "SiteGround": 8539,
         "Digital Ocean": 8054,
-        "Hostinger": 6579,
+        "Hostinger": 6580,
         "Bluehost": 4917,
         "GoDaddy": 1985,
         "OVH": 1832,
