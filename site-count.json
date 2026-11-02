@@ -1,6 +1,11 @@
 {
-    "siteCount": 194489,
+    "siteCount": 194493,
     "recentlyMoved": [
+        {
+            "domain_name": "goodtimesrestoration.com",
+            "destination": "WordPress.com",
+            "date": "2026-11-02 03:34:26"
+        },
         {
             "domain_name": "northhavendentalimplants.com",
             "destination": "GoDaddy",
@@ -495,11 +500,6 @@
             "domain_name": "charlestonchiropractors.com",
             "destination": "Digital Ocean",
             "date": "2026-10-31 12:10:35"
-        },
-        {
-            "domain_name": "www.myfoodpro.com",
-            "destination": "Kinsta",
-            "date": "2026-10-31 11:57:35"
         }
     ],
     "dailyMovedStat": {
@@ -1288,7 +1288,7 @@
         "BigScoots": 1220,
         "Liquid Web": 989,
         "Namecheap": 909,
-        "WordPress.com": 874,
+        "WordPress.com": 875,
         "GridPane": 811,
         "InMotion Hosting": 641,
         "IONOS": 605,
