@@ -1,6 +1,11 @@
 {
-    "siteCount": 194621,
+    "siteCount": 194641,
     "recentlyMoved": [
+        {
+            "domain_name": "lionizedvacations.com",
+            "destination": "OVH",
+            "date": "2026-11-02 20:48:36"
+        },
         {
             "domain_name": "www.chivalrysecurity.co.nz",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "theyardbutlers.com",
             "destination": "Pressable",
             "date": "2026-10-31 12:35:43"
-        },
-        {
-            "domain_name": "thehighcenter.com",
-            "destination": "Kinsta",
-            "date": "2026-10-31 12:29:47"
         }
     ],
     "dailyMovedStat": {
@@ -1284,7 +1284,7 @@
         "Hostinger": 6590,
         "Bluehost": 4918,
         "GoDaddy": 1986,
-        "OVH": 1834,
+        "OVH": 1835,
         "BigScoots": 1221,
         "Liquid Web": 989,
         "Namecheap": 910,
