@@ -1,6 +1,11 @@
 {
-    "siteCount": 194580,
+    "siteCount": 194621,
     "recentlyMoved": [
+        {
+            "domain_name": "www.chivalrysecurity.co.nz",
+            "destination": "Kinsta",
+            "date": "2026-11-02 19:52:10"
+        },
         {
             "domain_name": "marciafernandes.co",
             "destination": "Hostinger",
@@ -445,11 +450,6 @@
             "domain_name": "mrkleen.com",
             "destination": "Pressable",
             "date": "2026-10-31 13:26:40"
-        },
-        {
-            "domain_name": "thecotswoldchiropractor.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-10-31 13:23:15"
         },
         {
             "domain_name": "dequattrogroup.com",
@@ -1278,10 +1278,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 15765,
-        "Kinsta": 13094,
+        "Kinsta": 13096,
         "SiteGround": 8539,
-        "Digital Ocean": 8058,
-        "Hostinger": 6589,
+        "Digital Ocean": 8059,
+        "Hostinger": 6590,
         "Bluehost": 4918,
         "GoDaddy": 1986,
         "OVH": 1834,
