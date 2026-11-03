@@ -1,6 +1,31 @@
 {
-    "siteCount": 194678,
+    "siteCount": 194697,
     "recentlyMoved": [
+        {
+            "domain_name": "hrphoenix.com",
+            "destination": "Kinsta",
+            "date": "2026-11-03 08:29:56"
+        },
+        {
+            "domain_name": "houstonbathkitchen.com",
+            "destination": "Hostinger",
+            "date": "2026-11-03 08:13:36"
+        },
+        {
+            "domain_name": "gmc.com.mt",
+            "destination": "Hostinger",
+            "date": "2026-11-03 07:57:00"
+        },
+        {
+            "domain_name": "airexcellenceheatcool.com",
+            "destination": "Kinsta",
+            "date": "2026-11-03 07:40:31"
+        },
+        {
+            "domain_name": "www.central-hotels.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-03 07:31:14"
+        },
         {
             "domain_name": "tsclosecontracting.com",
             "destination": "Kinsta",
@@ -475,31 +500,6 @@
             "domain_name": "haganhamilton.com",
             "destination": "Pressable",
             "date": "2026-10-31 15:33:01"
-        },
-        {
-            "domain_name": "wisegenerosity.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-31 15:24:05"
-        },
-        {
-            "domain_name": "mrkleen.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 13:26:40"
-        },
-        {
-            "domain_name": "neworleanschiropractors.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-31 13:07:22"
-        },
-        {
-            "domain_name": "miamichiropractors.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-31 12:58:36"
-        },
-        {
-            "domain_name": "milwaukeechiropractors.com",
-            "destination": "Digital Ocean",
-            "date": "2026-10-31 12:41:03"
         }
     ],
     "dailyMovedStat": {
@@ -1279,10 +1279,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 15765,
-        "Kinsta": 13099,
+        "Kinsta": 13101,
         "SiteGround": 8539,
-        "Digital Ocean": 8060,
-        "Hostinger": 6590,
+        "Digital Ocean": 8061,
+        "Hostinger": 6592,
         "Bluehost": 4918,
         "GoDaddy": 1986,
         "OVH": 1835,
