@@ -1,6 +1,21 @@
 {
-    "siteCount": 194961,
+    "siteCount": 194968,
     "recentlyMoved": [
+        {
+            "domain_name": "northfolk.co",
+            "destination": "BigScoots",
+            "date": "2026-11-03 21:53:54"
+        },
+        {
+            "domain_name": "nrn.gtbank.com",
+            "destination": "Hostinger",
+            "date": "2026-11-03 21:33:32"
+        },
+        {
+            "domain_name": "nourbelletours.com",
+            "destination": "Hostinger",
+            "date": "2026-11-03 21:33:32"
+        },
         {
             "domain_name": "monument-creatives.org",
             "destination": "GridPane",
@@ -10,6 +25,11 @@
             "domain_name": "travelbykrystal.com",
             "destination": "OVH",
             "date": "2026-11-03 21:16:06"
+        },
+        {
+            "domain_name": "electricalalliance.org",
+            "destination": "GridPane",
+            "date": "2026-11-03 21:11:32"
         },
         {
             "domain_name": "lacewing.co.uk",
@@ -480,26 +500,6 @@
             "domain_name": "www.chivalrysecurity.co.nz",
             "destination": "Kinsta",
             "date": "2026-11-02 19:52:10"
-        },
-        {
-            "domain_name": "marciafernandes.co",
-            "destination": "Hostinger",
-            "date": "2026-11-02 16:41:50"
-        },
-        {
-            "domain_name": "rilingtongroup.com",
-            "destination": "Pressable",
-            "date": "2026-11-02 16:30:07"
-        },
-        {
-            "domain_name": "granitebeltwinecountry.com.au",
-            "destination": "Wordify",
-            "date": "2026-11-02 16:18:47"
-        },
-        {
-            "domain_name": "woodlogsscotland.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-11-02 15:33:07"
         }
     ],
     "dailyMovedStat": {
@@ -1282,15 +1282,15 @@
         "Kinsta": 13128,
         "SiteGround": 8541,
         "Digital Ocean": 8068,
-        "Hostinger": 6599,
+        "Hostinger": 6601,
         "Bluehost": 4920,
         "GoDaddy": 1987,
-        "OVH": 1835,
-        "BigScoots": 1231,
+        "OVH": 1836,
+        "BigScoots": 1232,
         "Liquid Web": 989,
         "Namecheap": 910,
         "WordPress.com": 877,
-        "GridPane": 812,
+        "GridPane": 814,
         "InMotion Hosting": 643,
         "IONOS": 606,
         "DreamHost": 586,
