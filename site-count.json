@@ -1,6 +1,86 @@
 {
-    "siteCount": 194789,
+    "siteCount": 194837,
     "recentlyMoved": [
+        {
+            "domain_name": "brandinglab.com.co",
+            "destination": "Hostinger",
+            "date": "2026-11-03 16:26:37"
+        },
+        {
+            "domain_name": "rasmussenagencies.com",
+            "destination": "Pressable",
+            "date": "2026-11-03 16:05:23"
+        },
+        {
+            "domain_name": "insuranceresourcesllc.com",
+            "destination": "Pressable",
+            "date": "2026-11-03 15:58:03"
+        },
+        {
+            "domain_name": "samanthapatri.com",
+            "destination": "BigScoots",
+            "date": "2026-11-03 15:57:55"
+        },
+        {
+            "domain_name": "playcentre.gtbank.com",
+            "destination": "Hostinger",
+            "date": "2026-11-03 15:54:24"
+        },
+        {
+            "domain_name": "aesthetics-wellness.com",
+            "destination": "Pressable",
+            "date": "2026-11-03 15:52:58"
+        },
+        {
+            "domain_name": "becconroyphotography.com.au",
+            "destination": "BigScoots",
+            "date": "2026-11-03 15:50:37"
+        },
+        {
+            "domain_name": "bearecon.com",
+            "destination": "InMotion Hosting",
+            "date": "2026-11-03 15:49:07"
+        },
+        {
+            "domain_name": "www.bawins.com",
+            "destination": "Pressable",
+            "date": "2026-11-03 15:47:38"
+        },
+        {
+            "domain_name": "www.centerforadvancedurology.com",
+            "destination": "Kinsta",
+            "date": "2026-11-03 15:42:31"
+        },
+        {
+            "domain_name": "annyamillerphotography.com",
+            "destination": "BigScoots",
+            "date": "2026-11-03 15:42:16"
+        },
+        {
+            "domain_name": "restorativerootshealing.com",
+            "destination": "BigScoots",
+            "date": "2026-11-03 15:41:11"
+        },
+        {
+            "domain_name": "www.islandenergyservices.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-03 15:40:03"
+        },
+        {
+            "domain_name": "barrelswinebar.com",
+            "destination": "Kinsta",
+            "date": "2026-11-03 15:39:16"
+        },
+        {
+            "domain_name": "www.customexhaustedmonton.com",
+            "destination": "Kinsta",
+            "date": "2026-11-03 15:32:10"
+        },
+        {
+            "domain_name": "paigebyrnes.com",
+            "destination": "Pressable",
+            "date": "2026-11-03 15:10:41"
+        },
         {
             "domain_name": "mywatsoninsurance.com",
             "destination": "Pressable",
@@ -420,86 +500,6 @@
             "domain_name": "www.kennethtravis.com",
             "destination": "Digital Ocean",
             "date": "2026-11-01 11:38:50"
-        },
-        {
-            "domain_name": "voxelvrp.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-01 10:02:54"
-        },
-        {
-            "domain_name": "moondusttravel.com",
-            "destination": "OVH",
-            "date": "2026-11-01 09:40:23"
-        },
-        {
-            "domain_name": "www.petermarxlaw.com",
-            "destination": "DreamHost",
-            "date": "2026-11-01 08:51:01"
-        },
-        {
-            "domain_name": "jeffriesheating.com",
-            "destination": "Kinsta",
-            "date": "2026-11-01 08:49:35"
-        },
-        {
-            "domain_name": "bajau.mx",
-            "destination": "Hostinger",
-            "date": "2026-11-01 03:31:02"
-        },
-        {
-            "domain_name": "rosiesroofing.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-01 00:32:52"
-        },
-        {
-            "domain_name": "1by1roof.com",
-            "destination": "Kinsta",
-            "date": "2026-10-31 23:54:17"
-        },
-        {
-            "domain_name": "hrlaserdentistry.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 23:40:43"
-        },
-        {
-            "domain_name": "cypressbenddental.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 21:13:14"
-        },
-        {
-            "domain_name": "thetimelessclinic.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 21:12:44"
-        },
-        {
-            "domain_name": "lastphotokc.com",
-            "destination": "BigScoots",
-            "date": "2026-10-31 20:39:52"
-        },
-        {
-            "domain_name": "inspireyoursmile.com",
-            "destination": "Pressable",
-            "date": "2026-10-31 20:39:26"
-        },
-        {
-            "domain_name": "hopecounselingatlanta.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-31 20:25:24"
-        },
-        {
-            "domain_name": "www.llbrown.net",
-            "destination": "Pressable",
-            "date": "2026-10-31 20:24:40"
-        },
-        {
-            "domain_name": "rfecommunications.com",
-            "destination": "Kinsta",
-            "date": "2026-10-31 20:17:28"
-        },
-        {
-            "domain_name": "henegarcc.com",
-            "destination": "GoDaddy",
-            "date": "2026-10-31 19:52:16"
         }
     ],
     "dailyMovedStat": {
@@ -1278,20 +1278,20 @@
         "2026-11-02": "194645"
     },
     "topDestinationHosts": {
-        "Pressable": 15772,
-        "Kinsta": 13119,
+        "Pressable": 15777,
+        "Kinsta": 13122,
         "SiteGround": 8540,
-        "Digital Ocean": 8062,
-        "Hostinger": 6596,
+        "Digital Ocean": 8064,
+        "Hostinger": 6597,
         "Bluehost": 4919,
         "GoDaddy": 1986,
         "OVH": 1835,
-        "BigScoots": 1221,
+        "BigScoots": 1224,
         "Liquid Web": 989,
         "Namecheap": 910,
         "WordPress.com": 876,
         "GridPane": 812,
-        "InMotion Hosting": 641,
+        "InMotion Hosting": 642,
         "IONOS": 605,
         "DreamHost": 586,
         "Elementor Hosting": 577,
