@@ -1,6 +1,26 @@
 {
-    "siteCount": 195052,
+    "siteCount": 195062,
     "recentlyMoved": [
+        {
+            "domain_name": "mcswainbuilders.com",
+            "destination": "Hostinger",
+            "date": "2026-11-04 09:33:32"
+        },
+        {
+            "domain_name": "www.waterix.fi",
+            "destination": "Hetzner Online",
+            "date": "2026-11-04 09:08:02"
+        },
+        {
+            "domain_name": "dicirecords.com",
+            "destination": "Hetzner Online",
+            "date": "2026-11-04 08:55:23"
+        },
+        {
+            "domain_name": "dicimusic.com",
+            "destination": "Hetzner Online",
+            "date": "2026-11-04 08:55:23"
+        },
         {
             "domain_name": "www.synergytechnicalgroup.com",
             "destination": "Hetzner Online",
@@ -467,11 +487,6 @@
             "date": "2026-11-03 09:24:06"
         },
         {
-            "domain_name": "longmeadowhealthcare.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 09:17:55"
-        },
-        {
             "domain_name": "northparkhealthcenter.com",
             "destination": "Kinsta",
             "date": "2026-11-03 09:07:34"
@@ -485,21 +500,6 @@
             "domain_name": "mesaauction.net",
             "destination": "Kinsta",
             "date": "2026-11-03 08:44:05"
-        },
-        {
-            "domain_name": "texomahealthcenter.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 08:35:32"
-        },
-        {
-            "domain_name": "www.tingleyhomeservices.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 08:24:32"
-        },
-        {
-            "domain_name": "lamaisondunougat.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 08:19:23"
         }
     ],
     "dailyMovedStat": {
@@ -1283,7 +1283,7 @@
         "Kinsta": 13130,
         "SiteGround": 8541,
         "Digital Ocean": 8071,
-        "Hostinger": 6607,
+        "Hostinger": 6608,
         "Bluehost": 4920,
         "GoDaddy": 1987,
         "OVH": 1837,
@@ -1296,7 +1296,7 @@
         "IONOS": 606,
         "DreamHost": 586,
         "Elementor Hosting": 578,
-        "Hetzner Online": 566,
+        "Hetzner Online": 569,
         "A2 Hosting": 490,
         "HostGator": 397
     },
