@@ -1,10 +1,60 @@
 {
-    "siteCount": 195178,
+    "siteCount": 195224,
     "recentlyMoved": [
+        {
+            "domain_name": "midwestins.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 17:30:40"
+        },
+        {
+            "domain_name": "mapleknoll.org",
+            "destination": "Kinsta",
+            "date": "2026-11-04 17:06:20"
+        },
+        {
+            "domain_name": "tomschelling.com",
+            "destination": "BigScoots",
+            "date": "2026-11-04 17:04:23"
+        },
+        {
+            "domain_name": "metrofundinggroup.com",
+            "destination": "Hostinger",
+            "date": "2026-11-04 17:03:35"
+        },
+        {
+            "domain_name": "daniellejenningsphoto.com",
+            "destination": "BigScoots",
+            "date": "2026-11-04 17:00:51"
+        },
+        {
+            "domain_name": "meditrac.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-11-04 17:00:10"
+        },
+        {
+            "domain_name": "meditrac.fr",
+            "destination": "Digital Ocean",
+            "date": "2026-11-04 17:00:10"
+        },
+        {
+            "domain_name": "cristinasotophotography.com",
+            "destination": "BigScoots",
+            "date": "2026-11-04 16:56:40"
+        },
+        {
+            "domain_name": "lacoinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 16:46:31"
+        },
         {
             "domain_name": "bodymind.com",
             "destination": "Kinsta",
             "date": "2026-11-04 16:37:26"
+        },
+        {
+            "domain_name": "championshipmartialarts.com",
+            "destination": "Kinsta",
+            "date": "2026-11-04 16:31:12"
         },
         {
             "domain_name": "relion-ins.com",
@@ -15,6 +65,21 @@
             "domain_name": "reliableroofingbr.com",
             "destination": "Digital Ocean",
             "date": "2026-11-04 16:30:14"
+        },
+        {
+            "domain_name": "clients.tenrec.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 16:24:11"
+        },
+        {
+            "domain_name": "lepardimaging.com",
+            "destination": "BigScoots",
+            "date": "2026-11-04 16:24:09"
+        },
+        {
+            "domain_name": "www.shineinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 16:23:25"
         },
         {
             "domain_name": "bethcrush.com",
@@ -417,29 +482,14 @@
             "date": "2026-11-03 16:59:37"
         },
         {
-            "domain_name": "www.qxlogistix.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 16:57:25"
-        },
-        {
             "domain_name": "youlooklovely.co",
             "destination": "BigScoots",
             "date": "2026-11-03 16:57:23"
         },
         {
-            "domain_name": "www.rueinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 16:55:45"
-        },
-        {
             "domain_name": "www.west-mark.com",
             "destination": "Digital Ocean",
             "date": "2026-11-03 16:55:27"
-        },
-        {
-            "domain_name": "stricklerinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 16:54:57"
         },
         {
             "domain_name": "theweddingduo.co",
@@ -450,56 +500,6 @@
             "domain_name": "tampa-recovery.com",
             "destination": "Digital Ocean",
             "date": "2026-11-03 16:49:05"
-        },
-        {
-            "domain_name": "chelsijo.co",
-            "destination": "BigScoots",
-            "date": "2026-11-03 16:45:18"
-        },
-        {
-            "domain_name": "lighthouseinok.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 16:37:26"
-        },
-        {
-            "domain_name": "coloradohitechsolutions.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 16:37:26"
-        },
-        {
-            "domain_name": "brandinglab.com.co",
-            "destination": "Hostinger",
-            "date": "2026-11-03 16:26:37"
-        },
-        {
-            "domain_name": "www.pawsandclawstotaldog.com",
-            "destination": "WordPress.com",
-            "date": "2026-11-03 16:23:43"
-        },
-        {
-            "domain_name": "snowicesalt.com",
-            "destination": "SiteGround",
-            "date": "2026-11-03 16:10:23"
-        },
-        {
-            "domain_name": "www.newcoaesthetic.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-11-03 16:06:11"
-        },
-        {
-            "domain_name": "bristoday.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 16:00:14"
-        },
-        {
-            "domain_name": "insuranceresourcesllc.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 15:58:03"
-        },
-        {
-            "domain_name": "samanthapatri.com",
-            "destination": "BigScoots",
-            "date": "2026-11-03 15:57:55"
         }
     ],
     "dailyMovedStat": {
@@ -1279,15 +1279,15 @@
         "2026-11-03": "194968"
     },
     "topDestinationHosts": {
-        "Pressable": 15797,
-        "Kinsta": 13144,
+        "Pressable": 15801,
+        "Kinsta": 13147,
         "SiteGround": 8541,
-        "Digital Ocean": 8081,
-        "Hostinger": 6610,
+        "Digital Ocean": 8083,
+        "Hostinger": 6611,
         "Bluehost": 4922,
         "GoDaddy": 1987,
         "OVH": 1837,
-        "BigScoots": 1235,
+        "BigScoots": 1239,
         "Liquid Web": 989,
         "Namecheap": 910,
         "WordPress.com": 877,
