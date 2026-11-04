@@ -1,6 +1,21 @@
 {
-    "siteCount": 195036,
+    "siteCount": 195052,
     "recentlyMoved": [
+        {
+            "domain_name": "www.synergytechnicalgroup.com",
+            "destination": "Hetzner Online",
+            "date": "2026-11-04 08:11:41"
+        },
+        {
+            "domain_name": "harrietparsons.com",
+            "destination": "Hostinger",
+            "date": "2026-11-04 08:10:22"
+        },
+        {
+            "domain_name": "www.expereo.com",
+            "destination": "Elementor Hosting",
+            "date": "2026-11-04 07:25:20"
+        },
         {
             "domain_name": "www.xindustrialparks.com",
             "destination": "Digital Ocean",
@@ -462,16 +477,6 @@
             "date": "2026-11-03 09:07:34"
         },
         {
-            "domain_name": "kitjamescoaching.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-11-03 09:02:55"
-        },
-        {
-            "domain_name": "burtonconstableholidaypark.co.uk",
-            "destination": "SiteGround",
-            "date": "2026-11-03 08:52:50"
-        },
-        {
             "domain_name": "downtownhealthfw.com",
             "destination": "Kinsta",
             "date": "2026-11-03 08:46:02"
@@ -485,11 +490,6 @@
             "domain_name": "texomahealthcenter.com",
             "destination": "Kinsta",
             "date": "2026-11-03 08:35:32"
-        },
-        {
-            "domain_name": "hrphoenix.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 08:29:56"
         },
         {
             "domain_name": "www.tingleyhomeservices.com",
@@ -1283,7 +1283,7 @@
         "Kinsta": 13130,
         "SiteGround": 8541,
         "Digital Ocean": 8071,
-        "Hostinger": 6606,
+        "Hostinger": 6607,
         "Bluehost": 4920,
         "GoDaddy": 1987,
         "OVH": 1837,
@@ -1295,8 +1295,8 @@
         "InMotion Hosting": 643,
         "IONOS": 606,
         "DreamHost": 586,
-        "Elementor Hosting": 577,
-        "Hetzner Online": 565,
+        "Elementor Hosting": 578,
+        "Hetzner Online": 566,
         "A2 Hosting": 490,
         "HostGator": 397
     },
