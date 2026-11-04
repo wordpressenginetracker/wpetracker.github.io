@@ -1,6 +1,76 @@
 {
-    "siteCount": 195138,
+    "siteCount": 195178,
     "recentlyMoved": [
+        {
+            "domain_name": "bodymind.com",
+            "destination": "Kinsta",
+            "date": "2026-11-04 16:37:26"
+        },
+        {
+            "domain_name": "relion-ins.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 16:30:14"
+        },
+        {
+            "domain_name": "reliableroofingbr.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-04 16:30:14"
+        },
+        {
+            "domain_name": "bethcrush.com",
+            "destination": "Kinsta",
+            "date": "2026-11-04 16:13:58"
+        },
+        {
+            "domain_name": "anevergreenwedding.com",
+            "destination": "BigScoots",
+            "date": "2026-11-04 16:10:08"
+        },
+        {
+            "domain_name": "andrakoins.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 16:10:08"
+        },
+        {
+            "domain_name": "apriljmiller.com",
+            "destination": "Kinsta",
+            "date": "2026-11-04 16:06:44"
+        },
+        {
+            "domain_name": "avaroman.com",
+            "destination": "Kinsta",
+            "date": "2026-11-04 15:55:44"
+        },
+        {
+            "domain_name": "www.icatchgroup2.dev",
+            "destination": "Kinsta",
+            "date": "2026-11-04 15:55:06"
+        },
+        {
+            "domain_name": "galleninsurance.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 15:45:17"
+        },
+        {
+            "domain_name": "alhowes.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 15:34:58"
+        },
+        {
+            "domain_name": "www.andrewsagencyinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 15:25:35"
+        },
+        {
+            "domain_name": "prattinsuranceagency.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 15:23:21"
+        },
+        {
+            "domain_name": "wise-agency.com",
+            "destination": "Pressable",
+            "date": "2026-11-04 15:23:02"
+        },
         {
             "domain_name": "designerly.com",
             "destination": "Kinsta",
@@ -417,11 +487,6 @@
             "date": "2026-11-03 16:06:11"
         },
         {
-            "domain_name": "rasmussenagencies.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 16:05:23"
-        },
-        {
             "domain_name": "bristoday.com",
             "destination": "Pressable",
             "date": "2026-11-03 16:00:14"
@@ -435,71 +500,6 @@
             "domain_name": "samanthapatri.com",
             "destination": "BigScoots",
             "date": "2026-11-03 15:57:55"
-        },
-        {
-            "domain_name": "playcentre.gtbank.com",
-            "destination": "Hostinger",
-            "date": "2026-11-03 15:54:24"
-        },
-        {
-            "domain_name": "aesthetics-wellness.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 15:52:58"
-        },
-        {
-            "domain_name": "becconroyphotography.com.au",
-            "destination": "BigScoots",
-            "date": "2026-11-03 15:50:37"
-        },
-        {
-            "domain_name": "bearecon.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-11-03 15:49:07"
-        },
-        {
-            "domain_name": "www.bawins.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 15:47:38"
-        },
-        {
-            "domain_name": "www.centerforadvancedurology.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 15:42:31"
-        },
-        {
-            "domain_name": "annyamillerphotography.com",
-            "destination": "BigScoots",
-            "date": "2026-11-03 15:42:16"
-        },
-        {
-            "domain_name": "restorativerootshealing.com",
-            "destination": "BigScoots",
-            "date": "2026-11-03 15:41:11"
-        },
-        {
-            "domain_name": "www.islandenergyservices.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-03 15:40:03"
-        },
-        {
-            "domain_name": "barrelswinebar.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 15:39:16"
-        },
-        {
-            "domain_name": "www.customexhaustedmonton.com",
-            "destination": "Kinsta",
-            "date": "2026-11-03 15:32:10"
-        },
-        {
-            "domain_name": "paigebyrnes.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 15:10:41"
-        },
-        {
-            "domain_name": "mywatsoninsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-03 13:24:01"
         }
     ],
     "dailyMovedStat": {
@@ -1279,15 +1279,15 @@
         "2026-11-03": "194968"
     },
     "topDestinationHosts": {
-        "Pressable": 15790,
-        "Kinsta": 13139,
+        "Pressable": 15797,
+        "Kinsta": 13144,
         "SiteGround": 8541,
-        "Digital Ocean": 8080,
+        "Digital Ocean": 8081,
         "Hostinger": 6610,
         "Bluehost": 4922,
         "GoDaddy": 1987,
         "OVH": 1837,
-        "BigScoots": 1234,
+        "BigScoots": 1235,
         "Liquid Web": 989,
         "Namecheap": 910,
         "WordPress.com": 877,
