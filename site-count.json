@@ -1,6 +1,16 @@
 {
-    "siteCount": 195364,
+    "siteCount": 195380,
     "recentlyMoved": [
+        {
+            "domain_name": "internationalyogafestival.org",
+            "destination": "Hostinger",
+            "date": "2026-11-05 03:56:35"
+        },
+        {
+            "domain_name": "pinkdogdigital.com",
+            "destination": "Kinsta",
+            "date": "2026-11-05 03:45:10"
+        },
         {
             "domain_name": "www.sheepman.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "jccpc-ky.com",
             "destination": "Hostinger",
             "date": "2026-11-04 00:01:06"
-        },
-        {
-            "domain_name": "bordersmonumentcompany.com",
-            "destination": "Hostinger",
-            "date": "2026-11-03 23:52:50"
-        },
-        {
-            "domain_name": "greatroomsavagemill.com",
-            "destination": "GridPane",
-            "date": "2026-11-03 23:49:50"
         }
     ],
     "dailyMovedStat": {
@@ -1281,7 +1281,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15807,
-        "Kinsta": 13152,
+        "Kinsta": 13153,
         "SiteGround": 8541,
         "Digital Ocean": 8086,
         "Hostinger": 6615,
