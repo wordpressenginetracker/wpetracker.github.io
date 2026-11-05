@@ -1,6 +1,26 @@
 {
-    "siteCount": 195326,
+    "siteCount": 195358,
     "recentlyMoved": [
+        {
+            "domain_name": "www.sheepman.com",
+            "destination": "Kinsta",
+            "date": "2026-11-05 01:05:58"
+        },
+        {
+            "domain_name": "mattbenson.design",
+            "destination": "Hostinger",
+            "date": "2026-11-05 01:00:02"
+        },
+        {
+            "domain_name": "thebackgroundcheckcompany.com",
+            "destination": "Pressable",
+            "date": "2026-11-05 00:46:38"
+        },
+        {
+            "domain_name": "www.poolesstoneandgarden.com",
+            "destination": "Kinsta",
+            "date": "2026-11-05 00:26:34"
+        },
         {
             "domain_name": "ellicottmillsdental.com",
             "destination": "GridPane",
@@ -472,11 +492,6 @@
             "date": "2026-11-04 00:01:06"
         },
         {
-            "domain_name": "paradyme.ca",
-            "destination": "OVH",
-            "date": "2026-11-03 23:55:47"
-        },
-        {
             "domain_name": "bordersmonumentcompany.com",
             "destination": "Hostinger",
             "date": "2026-11-03 23:52:50"
@@ -485,21 +500,6 @@
             "domain_name": "greatroomsavagemill.com",
             "destination": "GridPane",
             "date": "2026-11-03 23:49:50"
-        },
-        {
-            "domain_name": "northfolk.co",
-            "destination": "BigScoots",
-            "date": "2026-11-03 21:53:54"
-        },
-        {
-            "domain_name": "nrn.gtbank.com",
-            "destination": "Hostinger",
-            "date": "2026-11-03 21:33:32"
-        },
-        {
-            "domain_name": "nourbelletours.com",
-            "destination": "Hostinger",
-            "date": "2026-11-03 21:33:32"
         }
     ],
     "dailyMovedStat": {
@@ -1280,11 +1280,11 @@
         "2026-11-04": "195314"
     },
     "topDestinationHosts": {
-        "Pressable": 15806,
-        "Kinsta": 13150,
+        "Pressable": 15807,
+        "Kinsta": 13152,
         "SiteGround": 8541,
         "Digital Ocean": 8086,
-        "Hostinger": 6614,
+        "Hostinger": 6615,
         "Bluehost": 4922,
         "GoDaddy": 1988,
         "OVH": 1837,
