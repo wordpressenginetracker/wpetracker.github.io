@@ -1,6 +1,11 @@
 {
-    "siteCount": 195398,
+    "siteCount": 195406,
     "recentlyMoved": [
+        {
+            "domain_name": "whalesfc.ca",
+            "destination": "Hostinger",
+            "date": "2026-11-05 05:18:50"
+        },
         {
             "domain_name": "kpostcompany.com",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "experimentalfarms.com",
             "destination": "Hostinger",
             "date": "2026-11-04 01:25:29"
-        },
-        {
-            "domain_name": "cnufit.com",
-            "destination": "Hostinger",
-            "date": "2026-11-04 01:01:10"
         },
         {
             "domain_name": "www.western-property-advisors.com",
@@ -1284,7 +1284,7 @@
         "Kinsta": 13154,
         "SiteGround": 8541,
         "Digital Ocean": 8086,
-        "Hostinger": 6616,
+        "Hostinger": 6617,
         "Bluehost": 4922,
         "GoDaddy": 1988,
         "OVH": 1837,
