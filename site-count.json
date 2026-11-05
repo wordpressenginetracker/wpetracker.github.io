@@ -1,6 +1,51 @@
 {
-    "siteCount": 195406,
+    "siteCount": 195423,
     "recentlyMoved": [
+        {
+            "domain_name": "www.firuta.digital",
+            "destination": "Digital Ocean",
+            "date": "2026-11-05 08:32:39"
+        },
+        {
+            "domain_name": "fourseasonsheatandcool.com",
+            "destination": "Kinsta",
+            "date": "2026-11-05 07:46:05"
+        },
+        {
+            "domain_name": "www.amcommercialroofing.com",
+            "destination": "HostGator",
+            "date": "2026-11-05 07:41:40"
+        },
+        {
+            "domain_name": "galettes-penven.com",
+            "destination": "Kinsta",
+            "date": "2026-11-05 07:37:02"
+        },
+        {
+            "domain_name": "gecoverhuur.nl",
+            "destination": "Hetzner Online",
+            "date": "2026-11-05 07:36:43"
+        },
+        {
+            "domain_name": "gecoservice.nl",
+            "destination": "Hetzner Online",
+            "date": "2026-11-05 07:36:43"
+        },
+        {
+            "domain_name": "gdayclean.com.au",
+            "destination": "Digital Ocean",
+            "date": "2026-11-05 07:36:43"
+        },
+        {
+            "domain_name": "pcpassist.co.uk",
+            "destination": "Hostinger",
+            "date": "2026-11-05 07:21:07"
+        },
+        {
+            "domain_name": "womenscancer.net",
+            "destination": "Kinsta",
+            "date": "2026-11-05 07:18:32"
+        },
         {
             "domain_name": "whalesfc.ca",
             "destination": "Hostinger",
@@ -452,54 +497,9 @@
             "date": "2026-11-04 08:55:23"
         },
         {
-            "domain_name": "www.synergytechnicalgroup.com",
-            "destination": "Hetzner Online",
-            "date": "2026-11-04 08:11:41"
-        },
-        {
             "domain_name": "harrietparsons.com",
             "destination": "Hostinger",
             "date": "2026-11-04 08:10:22"
-        },
-        {
-            "domain_name": "www.expereo.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-11-04 07:25:20"
-        },
-        {
-            "domain_name": "www.xindustrialparks.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-04 04:51:58"
-        },
-        {
-            "domain_name": "artsupperhunter.com",
-            "destination": "Wordify",
-            "date": "2026-11-04 04:15:27"
-        },
-        {
-            "domain_name": "landccustoms.com",
-            "destination": "Kinsta",
-            "date": "2026-11-04 04:12:38"
-        },
-        {
-            "domain_name": "jdheatingandcooling.com",
-            "destination": "Kinsta",
-            "date": "2026-11-04 03:55:42"
-        },
-        {
-            "domain_name": "redarrowindustries.com",
-            "destination": "Hostinger",
-            "date": "2026-11-04 03:48:30"
-        },
-        {
-            "domain_name": "experimentalfarms.com",
-            "destination": "Hostinger",
-            "date": "2026-11-04 01:25:29"
-        },
-        {
-            "domain_name": "www.western-property-advisors.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-04 00:54:32"
         }
     ],
     "dailyMovedStat": {
@@ -1281,10 +1281,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 15807,
-        "Kinsta": 13154,
+        "Kinsta": 13157,
         "SiteGround": 8541,
-        "Digital Ocean": 8086,
-        "Hostinger": 6617,
+        "Digital Ocean": 8088,
+        "Hostinger": 6618,
         "Bluehost": 4922,
         "GoDaddy": 1988,
         "OVH": 1837,
@@ -1297,9 +1297,9 @@
         "IONOS": 606,
         "DreamHost": 587,
         "Elementor Hosting": 578,
-        "Hetzner Online": 570,
+        "Hetzner Online": 572,
         "A2 Hosting": 490,
-        "HostGator": 397
+        "HostGator": 398
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
