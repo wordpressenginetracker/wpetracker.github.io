@@ -1,6 +1,11 @@
 {
-    "siteCount": 196042,
+    "siteCount": 196044,
     "recentlyMoved": [
+        {
+            "domain_name": "etfo-ucl.com",
+            "destination": "WordPress.com",
+            "date": "2026-11-06 21:04:47"
+        },
         {
             "domain_name": "montanawildernessoutfitter.com",
             "destination": "BigScoots",
@@ -490,11 +495,6 @@
             "domain_name": "themehead.com",
             "destination": "Hostinger",
             "date": "2026-11-06 09:01:10"
-        },
-        {
-            "domain_name": "kumonfranchise.sg",
-            "destination": "Digital Ocean",
-            "date": "2026-11-06 08:46:45"
         },
         {
             "domain_name": "localsitesgo.com",
@@ -1292,7 +1292,7 @@
         "BigScoots": 1313,
         "Liquid Web": 991,
         "Namecheap": 915,
-        "WordPress.com": 879,
+        "WordPress.com": 880,
         "GridPane": 819,
         "InMotion Hosting": 645,
         "IONOS": 607,
