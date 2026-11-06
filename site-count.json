@@ -1,6 +1,26 @@
 {
-    "siteCount": 195770,
+    "siteCount": 195786,
     "recentlyMoved": [
+        {
+            "domain_name": "themehead.com",
+            "destination": "Hostinger",
+            "date": "2026-11-06 09:01:10"
+        },
+        {
+            "domain_name": "kumonfranchise.sg",
+            "destination": "Digital Ocean",
+            "date": "2026-11-06 08:46:45"
+        },
+        {
+            "domain_name": "kumon-brunei.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-06 08:46:45"
+        },
+        {
+            "domain_name": "localsitesgo.com",
+            "destination": "Hostinger",
+            "date": "2026-11-06 08:38:16"
+        },
         {
             "domain_name": "rkwills.co.uk",
             "destination": "OVH",
@@ -472,34 +492,14 @@
             "date": "2026-11-05 12:30:16"
         },
         {
-            "domain_name": "gridmediagroup.com",
-            "destination": "Kinsta",
-            "date": "2026-11-05 12:18:13"
-        },
-        {
             "domain_name": "www.gteinsurance.com",
             "destination": "Pressable",
             "date": "2026-11-05 12:13:48"
         },
         {
-            "domain_name": "rehack.com",
-            "destination": "Kinsta",
-            "date": "2026-11-05 12:10:16"
-        },
-        {
             "domain_name": "berkhamsteddental.com",
             "destination": "BigScoots",
             "date": "2026-11-05 12:07:52"
-        },
-        {
-            "domain_name": "guardianfps.com",
-            "destination": "InMotion Hosting",
-            "date": "2026-11-05 11:45:25"
-        },
-        {
-            "domain_name": "aricasinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-05 11:28:42"
         }
     ],
     "dailyMovedStat": {
@@ -1284,8 +1284,8 @@
         "Pressable": 15832,
         "Kinsta": 13183,
         "SiteGround": 8541,
-        "Digital Ocean": 8096,
-        "Hostinger": 6628,
+        "Digital Ocean": 8098,
+        "Hostinger": 6630,
         "Bluehost": 4923,
         "GoDaddy": 1994,
         "OVH": 1838,
