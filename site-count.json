@@ -1,6 +1,11 @@
 {
-    "siteCount": 195736,
+    "siteCount": 195748,
     "recentlyMoved": [
+        {
+            "domain_name": "www.myraleighncdentist.com",
+            "destination": "Kinsta",
+            "date": "2026-11-06 03:36:29"
+        },
         {
             "domain_name": "dandieandiefloraldesigns.com",
             "destination": "Bluehost",
@@ -495,11 +500,6 @@
             "domain_name": "kstepmontessori.com",
             "destination": "Kinsta",
             "date": "2026-11-05 09:01:19"
-        },
-        {
-            "domain_name": "speedboatbar.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-11-05 08:36:34"
         }
     ],
     "dailyMovedStat": {
@@ -1282,7 +1282,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15832,
-        "Kinsta": 13179,
+        "Kinsta": 13180,
         "SiteGround": 8541,
         "Digital Ocean": 8093,
         "Hostinger": 6627,
