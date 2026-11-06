@@ -1,6 +1,26 @@
 {
-    "siteCount": 195716,
+    "siteCount": 195735,
     "recentlyMoved": [
+        {
+            "domain_name": "dandieandiefloraldesigns.com",
+            "destination": "Bluehost",
+            "date": "2026-11-06 00:53:38"
+        },
+        {
+            "domain_name": "logansroadhouse.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-06 00:41:55"
+        },
+        {
+            "domain_name": "www.stricklerins.com",
+            "destination": "Pressable",
+            "date": "2026-11-06 00:34:23"
+        },
+        {
+            "domain_name": "shopangela.com",
+            "destination": "Hostinger",
+            "date": "2026-11-06 00:01:17"
+        },
         {
             "domain_name": "www.robizenbergcreative.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "speedboatbar.co.uk",
             "destination": "Digital Ocean",
             "date": "2026-11-05 08:36:34"
-        },
-        {
-            "domain_name": "www.firuta.digital",
-            "destination": "Digital Ocean",
-            "date": "2026-11-05 08:32:39"
-        },
-        {
-            "domain_name": "businesspilot.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-11-05 08:28:13"
-        },
-        {
-            "domain_name": "gecoverhuur.nl",
-            "destination": "Hetzner Online",
-            "date": "2026-11-05 07:36:43"
-        },
-        {
-            "domain_name": "gecoservice.nl",
-            "destination": "Hetzner Online",
-            "date": "2026-11-05 07:36:43"
         }
     ],
     "dailyMovedStat": {
@@ -1281,12 +1281,12 @@
         "2026-11-05": "195697"
     },
     "topDestinationHosts": {
-        "Pressable": 15831,
+        "Pressable": 15832,
         "Kinsta": 13179,
         "SiteGround": 8541,
-        "Digital Ocean": 8092,
-        "Hostinger": 6626,
-        "Bluehost": 4922,
+        "Digital Ocean": 8093,
+        "Hostinger": 6627,
+        "Bluehost": 4923,
         "GoDaddy": 1994,
         "OVH": 1837,
         "BigScoots": 1279,
