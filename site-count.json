@@ -1,6 +1,11 @@
 {
-    "siteCount": 196114,
+    "siteCount": 196123,
     "recentlyMoved": [
+        {
+            "domain_name": "kumon.sg",
+            "destination": "Digital Ocean",
+            "date": "2026-11-07 08:40:59"
+        },
         {
             "domain_name": "nortex.com",
             "destination": "Kinsta",
@@ -485,11 +490,6 @@
             "domain_name": "renovated.com",
             "destination": "Kinsta",
             "date": "2026-11-06 11:52:01"
-        },
-        {
-            "domain_name": "growthmindedstrategy.com",
-            "destination": "BigScoots",
-            "date": "2026-11-06 11:44:01"
         },
         {
             "domain_name": "roseamorrison.com",
@@ -1285,7 +1285,7 @@
         "Pressable": 15852,
         "Kinsta": 13210,
         "SiteGround": 8541,
-        "Digital Ocean": 8104,
+        "Digital Ocean": 8105,
         "Hostinger": 6637,
         "Bluehost": 4923,
         "GoDaddy": 1999,
