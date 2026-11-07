@@ -1,6 +1,11 @@
 {
-    "siteCount": 196103,
+    "siteCount": 196106,
     "recentlyMoved": [
+        {
+            "domain_name": "nortex.com",
+            "destination": "Kinsta",
+            "date": "2026-11-07 05:26:09"
+        },
         {
             "domain_name": "www.nusetdentalimplants.com",
             "destination": "GoDaddy",
@@ -465,11 +470,6 @@
             "domain_name": "atlasinsuranceagency.com",
             "destination": "Pressable",
             "date": "2026-11-06 12:14:39"
-        },
-        {
-            "domain_name": "www.twincitiesinsurancepros.com",
-            "destination": "Hostinger",
-            "date": "2026-11-06 11:58:49"
         },
         {
             "domain_name": "revolutionized.com",
@@ -1283,7 +1283,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15851,
-        "Kinsta": 13209,
+        "Kinsta": 13210,
         "SiteGround": 8541,
         "Digital Ocean": 8104,
         "Hostinger": 6637,
