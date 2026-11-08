@@ -1,6 +1,26 @@
 {
-    "siteCount": 196395,
+    "siteCount": 196420,
     "recentlyMoved": [
+        {
+            "domain_name": "www.erikaholmes.com",
+            "destination": "GridPane",
+            "date": "2026-11-08 04:01:40"
+        },
+        {
+            "domain_name": "puttingontheritz.com",
+            "destination": "GridPane",
+            "date": "2026-11-08 03:41:22"
+        },
+        {
+            "domain_name": "livingstartsathome.com",
+            "destination": "Hostinger",
+            "date": "2026-11-08 03:32:20"
+        },
+        {
+            "domain_name": "saltandshare.com",
+            "destination": "Hostinger",
+            "date": "2026-11-08 03:24:34"
+        },
         {
             "domain_name": "nopalindro.me",
             "destination": "DreamHost",
@@ -462,11 +482,6 @@
             "date": "2026-11-06 20:50:33"
         },
         {
-            "domain_name": "www.lemonadestand.org",
-            "destination": "Pressable",
-            "date": "2026-11-06 20:46:48"
-        },
-        {
             "domain_name": "calhounfinancecompany.com",
             "destination": "Pressable",
             "date": "2026-11-06 20:44:44"
@@ -485,21 +500,6 @@
             "domain_name": "yellowstone-guides.com",
             "destination": "BigScoots",
             "date": "2026-11-06 20:33:43"
-        },
-        {
-            "domain_name": "ritamichelle.com",
-            "destination": "BigScoots",
-            "date": "2026-11-06 20:28:33"
-        },
-        {
-            "domain_name": "bennett.partners",
-            "destination": "Pressable",
-            "date": "2026-11-06 20:27:54"
-        },
-        {
-            "domain_name": "boomshop.store",
-            "destination": "Namecheap",
-            "date": "2026-11-06 20:22:05"
         }
     ],
     "dailyMovedStat": {
@@ -1287,7 +1287,7 @@
         "Kinsta": 13226,
         "SiteGround": 8541,
         "Digital Ocean": 8113,
-        "Hostinger": 6646,
+        "Hostinger": 6648,
         "Bluehost": 4925,
         "GoDaddy": 2002,
         "OVH": 1839,
@@ -1295,7 +1295,7 @@
         "Liquid Web": 993,
         "Namecheap": 915,
         "WordPress.com": 882,
-        "GridPane": 820,
+        "GridPane": 822,
         "InMotion Hosting": 645,
         "IONOS": 609,
         "DreamHost": 592,
