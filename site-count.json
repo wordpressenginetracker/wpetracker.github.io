@@ -1,6 +1,21 @@
 {
-    "siteCount": 196357,
+    "siteCount": 196372,
     "recentlyMoved": [
+        {
+            "domain_name": "www.homesbytrueblue.com",
+            "destination": "Pressable",
+            "date": "2026-11-08 00:26:46"
+        },
+        {
+            "domain_name": "alexandisa.com",
+            "destination": "DreamHost",
+            "date": "2026-11-08 00:06:00"
+        },
+        {
+            "domain_name": "5andgo.com",
+            "destination": "DreamHost",
+            "date": "2026-11-07 23:46:55"
+        },
         {
             "domain_name": "bigsouthdist.com",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "rfsbuilders.com",
             "destination": "Hostinger",
             "date": "2026-11-06 20:12:38"
-        },
-        {
-            "domain_name": "www.slackdavis.com",
-            "destination": "Liquid Web",
-            "date": "2026-11-06 19:29:43"
-        },
-        {
-            "domain_name": "www.4thandsenecadental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-06 19:26:02"
-        },
-        {
-            "domain_name": "www.biami.org",
-            "destination": "GoDaddy",
-            "date": "2026-11-06 19:24:50"
         }
     ],
     "dailyMovedStat": {
@@ -1283,7 +1283,7 @@
         "2026-11-07": "196357"
     },
     "topDestinationHosts": {
-        "Pressable": 15875,
+        "Pressable": 15876,
         "Kinsta": 13225,
         "SiteGround": 8541,
         "Digital Ocean": 8113,
@@ -1298,7 +1298,7 @@
         "GridPane": 820,
         "InMotion Hosting": 645,
         "IONOS": 609,
-        "DreamHost": 589,
+        "DreamHost": 591,
         "Elementor Hosting": 578,
         "Hetzner Online": 574,
         "A2 Hosting": 492,
