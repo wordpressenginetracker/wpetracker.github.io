@@ -1,6 +1,11 @@
 {
-    "siteCount": 196394,
+    "siteCount": 196395,
     "recentlyMoved": [
+        {
+            "domain_name": "nopalindro.me",
+            "destination": "DreamHost",
+            "date": "2026-11-08 01:39:59"
+        },
         {
             "domain_name": "zunigapools.com",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "boomshop.store",
             "destination": "Namecheap",
             "date": "2026-11-06 20:22:05"
-        },
-        {
-            "domain_name": "rejuvenate-tennessee.com",
-            "destination": "Pressable",
-            "date": "2026-11-06 20:17:18"
         }
     ],
     "dailyMovedStat": {
@@ -1284,7 +1284,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15877,
-        "Kinsta": 13225,
+        "Kinsta": 13226,
         "SiteGround": 8541,
         "Digital Ocean": 8113,
         "Hostinger": 6646,
@@ -1298,7 +1298,7 @@
         "GridPane": 820,
         "InMotion Hosting": 645,
         "IONOS": 609,
-        "DreamHost": 591,
+        "DreamHost": 592,
         "Elementor Hosting": 578,
         "Hetzner Online": 574,
         "A2 Hosting": 492,
