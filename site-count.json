@@ -1,6 +1,16 @@
 {
-    "siteCount": 196660,
+    "siteCount": 196700,
     "recentlyMoved": [
+        {
+            "domain_name": "agriins.com",
+            "destination": "Pressable",
+            "date": "2026-11-09 20:10:59"
+        },
+        {
+            "domain_name": "redemptionchurchga.com",
+            "destination": "Hostinger",
+            "date": "2026-11-09 20:09:55"
+        },
         {
             "domain_name": "naturalandorganicspasource.com",
             "destination": "Pressable",
@@ -467,19 +477,9 @@
             "date": "2026-11-07 12:04:33"
         },
         {
-            "domain_name": "www.chefscornervermont.com",
-            "destination": "Pressable",
-            "date": "2026-11-07 11:58:22"
-        },
-        {
             "domain_name": "www.mmrvt.com",
             "destination": "Pressable",
             "date": "2026-11-07 11:53:35"
-        },
-        {
-            "domain_name": "goodtimeoutfitters.com",
-            "destination": "Kinsta",
-            "date": "2026-11-07 11:49:06"
         },
         {
             "domain_name": "ihpaz.com",
@@ -1284,22 +1284,22 @@
         "2026-11-08": "196523"
     },
     "topDestinationHosts": {
-        "Pressable": 15878,
+        "Pressable": 15879,
         "Kinsta": 13231,
         "SiteGround": 8541,
         "Digital Ocean": 8115,
-        "Hostinger": 6654,
+        "Hostinger": 6656,
         "Bluehost": 4925,
-        "GoDaddy": 2002,
-        "OVH": 1845,
-        "BigScoots": 1323,
+        "GoDaddy": 2003,
+        "OVH": 1846,
+        "BigScoots": 1324,
         "Liquid Web": 993,
-        "Namecheap": 916,
+        "Namecheap": 917,
         "WordPress.com": 883,
         "GridPane": 822,
         "InMotion Hosting": 645,
         "IONOS": 610,
-        "DreamHost": 592,
+        "DreamHost": 593,
         "Elementor Hosting": 578,
         "Hetzner Online": 575,
         "A2 Hosting": 492,
