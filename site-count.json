@@ -1,6 +1,11 @@
 {
-    "siteCount": 196630,
+    "siteCount": 196632,
     "recentlyMoved": [
+        {
+            "domain_name": "verityps.com",
+            "destination": "OVH",
+            "date": "2026-11-09 13:23:42"
+        },
         {
             "domain_name": "journeyandroamtravel.com",
             "destination": "OVH",
@@ -480,11 +485,6 @@
             "domain_name": "www.beaudryhometown.com",
             "destination": "Pressable",
             "date": "2026-11-07 11:48:53"
-        },
-        {
-            "domain_name": "alevelproperty.co.uk",
-            "destination": "Hostinger",
-            "date": "2026-11-07 11:48:44"
         },
         {
             "domain_name": "bendangl.com",
@@ -1291,7 +1291,7 @@
         "Hostinger": 6654,
         "Bluehost": 4925,
         "GoDaddy": 2002,
-        "OVH": 1843,
+        "OVH": 1844,
         "BigScoots": 1323,
         "Liquid Web": 993,
         "Namecheap": 916,
