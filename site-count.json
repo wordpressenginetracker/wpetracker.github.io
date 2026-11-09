@@ -1,6 +1,31 @@
 {
-    "siteCount": 196523,
+    "siteCount": 196554,
     "recentlyMoved": [
+        {
+            "domain_name": "home.edweb.net",
+            "destination": "Kinsta",
+            "date": "2026-11-09 00:28:09"
+        },
+        {
+            "domain_name": "www.estateattorney.com",
+            "destination": "Hostinger",
+            "date": "2026-11-09 00:05:14"
+        },
+        {
+            "domain_name": "paprikacreative.com",
+            "destination": "Kinsta",
+            "date": "2026-11-08 23:53:01"
+        },
+        {
+            "domain_name": "737.gtbank.com",
+            "destination": "Hostinger",
+            "date": "2026-11-08 23:49:43"
+        },
+        {
+            "domain_name": "alannacodesign.com",
+            "destination": "BigScoots",
+            "date": "2026-11-08 23:15:06"
+        },
         {
             "domain_name": "bellairlux.com",
             "destination": "Digital Ocean",
@@ -475,31 +500,6 @@
             "domain_name": "www.esschertdesignusa.com",
             "destination": "Kinsta",
             "date": "2026-11-06 23:47:51"
-        },
-        {
-            "domain_name": "etfo-ucl.com",
-            "destination": "WordPress.com",
-            "date": "2026-11-06 21:04:47"
-        },
-        {
-            "domain_name": "montanawildernessoutfitter.com",
-            "destination": "BigScoots",
-            "date": "2026-11-06 21:03:26"
-        },
-        {
-            "domain_name": "www.abelladental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-06 21:00:36"
-        },
-        {
-            "domain_name": "theschoolofimages.org",
-            "destination": "Hetzner Online",
-            "date": "2026-11-06 20:59:57"
-        },
-        {
-            "domain_name": "calhounfinancecompany.com",
-            "destination": "Pressable",
-            "date": "2026-11-06 20:44:44"
         }
     ],
     "dailyMovedStat": {
@@ -1285,14 +1285,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 15877,
-        "Kinsta": 13226,
+        "Kinsta": 13228,
         "SiteGround": 8541,
         "Digital Ocean": 8115,
-        "Hostinger": 6649,
+        "Hostinger": 6651,
         "Bluehost": 4925,
         "GoDaddy": 2002,
         "OVH": 1841,
-        "BigScoots": 1319,
+        "BigScoots": 1320,
         "Liquid Web": 993,
         "Namecheap": 916,
         "WordPress.com": 882,
