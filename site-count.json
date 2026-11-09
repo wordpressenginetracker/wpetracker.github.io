@@ -1,10 +1,15 @@
 {
-    "siteCount": 196587,
+    "siteCount": 196591,
     "recentlyMoved": [
         {
             "domain_name": "bgcpawt.org",
             "destination": "Hostinger",
             "date": "2026-11-09 04:04:45"
+        },
+        {
+            "domain_name": "serenitydogretreat.com",
+            "destination": "Kinsta",
+            "date": "2026-11-09 04:01:03"
         },
         {
             "domain_name": "angleofeden.com",
@@ -445,11 +450,6 @@
             "domain_name": "www.buildtelligence.com",
             "destination": "Hostinger",
             "date": "2026-11-07 12:01:35"
-        },
-        {
-            "domain_name": "wsplumbingheating.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-11-07 11:59:49"
         },
         {
             "domain_name": "www.chefscornervermont.com",
@@ -1285,7 +1285,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 15877,
-        "Kinsta": 13230,
+        "Kinsta": 13231,
         "SiteGround": 8541,
         "Digital Ocean": 8115,
         "Hostinger": 6654,
