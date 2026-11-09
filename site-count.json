@@ -1,6 +1,31 @@
 {
-    "siteCount": 196554,
+    "siteCount": 196575,
     "recentlyMoved": [
+        {
+            "domain_name": "melodeeforbes.com",
+            "destination": "BigScoots",
+            "date": "2026-11-09 01:34:50"
+        },
+        {
+            "domain_name": "kind.org",
+            "destination": "Kinsta",
+            "date": "2026-11-09 00:50:35"
+        },
+        {
+            "domain_name": "solboutiquetravel.com",
+            "destination": "BigScoots",
+            "date": "2026-11-09 00:38:26"
+        },
+        {
+            "domain_name": "www.remedyanalytics.com",
+            "destination": "Kinsta",
+            "date": "2026-11-09 00:29:20"
+        },
+        {
+            "domain_name": "lifesabeautyphotography.com",
+            "destination": "BigScoots",
+            "date": "2026-11-09 00:28:17"
+        },
         {
             "domain_name": "home.edweb.net",
             "destination": "Kinsta",
@@ -472,34 +497,9 @@
             "date": "2026-11-07 05:26:09"
         },
         {
-            "domain_name": "www.nusetdentalimplants.com",
-            "destination": "GoDaddy",
-            "date": "2026-11-07 00:36:33"
-        },
-        {
             "domain_name": "www.rcgoodwin.com",
             "destination": "Kinsta",
             "date": "2026-11-07 00:29:17"
-        },
-        {
-            "domain_name": "best-coverage.com",
-            "destination": "Pressable",
-            "date": "2026-11-07 00:17:32"
-        },
-        {
-            "domain_name": "inglasia.com",
-            "destination": "Hostinger",
-            "date": "2026-11-07 00:15:15"
-        },
-        {
-            "domain_name": "sharpeaquaticservices.com",
-            "destination": "A2 Hosting",
-            "date": "2026-11-07 00:12:40"
-        },
-        {
-            "domain_name": "www.esschertdesignusa.com",
-            "destination": "Kinsta",
-            "date": "2026-11-06 23:47:51"
         }
     ],
     "dailyMovedStat": {
@@ -1285,14 +1285,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 15877,
-        "Kinsta": 13228,
+        "Kinsta": 13230,
         "SiteGround": 8541,
         "Digital Ocean": 8115,
         "Hostinger": 6651,
         "Bluehost": 4925,
         "GoDaddy": 2002,
         "OVH": 1841,
-        "BigScoots": 1320,
+        "BigScoots": 1323,
         "Liquid Web": 993,
         "Namecheap": 916,
         "WordPress.com": 882,
