@@ -1,6 +1,16 @@
 {
-    "siteCount": 196723,
+    "siteCount": 196737,
     "recentlyMoved": [
+        {
+            "domain_name": "changan.com.co",
+            "destination": "GoDaddy",
+            "date": "2026-11-10 00:58:55"
+        },
+        {
+            "domain_name": "www.memorizewhatmatters.com",
+            "destination": "Kinsta",
+            "date": "2026-11-10 00:28:17"
+        },
         {
             "domain_name": "bestpainting.ca",
             "destination": "Liquid Web",
@@ -490,16 +500,6 @@
             "domain_name": "cochraneontario.travel",
             "destination": "Kinsta",
             "date": "2026-11-07 12:16:22"
-        },
-        {
-            "domain_name": "www.magsmart.co.uk",
-            "destination": "Digital Ocean",
-            "date": "2026-11-07 12:13:09"
-        },
-        {
-            "domain_name": "www.mmrvt.com",
-            "destination": "Pressable",
-            "date": "2026-11-07 11:53:35"
         }
     ],
     "dailyMovedStat": {
@@ -1286,12 +1286,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 15879,
-        "Kinsta": 13233,
+        "Kinsta": 13234,
         "SiteGround": 8541,
         "Digital Ocean": 8116,
         "Hostinger": 6656,
         "Bluehost": 4925,
-        "GoDaddy": 2005,
+        "GoDaddy": 2006,
         "OVH": 1846,
         "BigScoots": 1324,
         "Liquid Web": 994,
