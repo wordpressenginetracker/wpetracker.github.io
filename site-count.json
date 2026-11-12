@@ -1,6 +1,11 @@
 {
-    "siteCount": 197553,
+    "siteCount": 197562,
     "recentlyMoved": [
+        {
+            "domain_name": "amandaholloway.com",
+            "destination": "Bluehost",
+            "date": "2026-11-12 03:22:53"
+        },
         {
             "domain_name": "api.greenpointpictures.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "kaliecreative.com.au",
             "destination": "BigScoots",
             "date": "2026-11-11 12:14:08"
-        },
-        {
-            "domain_name": "www.mjhfab.com",
-            "destination": "Pressable",
-            "date": "2026-11-11 11:58:52"
         }
     ],
     "dailyMovedStat": {
@@ -1292,7 +1292,7 @@
         "SiteGround": 8542,
         "Digital Ocean": 8135,
         "Hostinger": 6670,
-        "Bluehost": 4933,
+        "Bluehost": 4934,
         "GoDaddy": 2010,
         "OVH": 1849,
         "BigScoots": 1372,
