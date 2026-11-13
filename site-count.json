@@ -1,6 +1,76 @@
 {
-    "siteCount": 198006,
+    "siteCount": 198039,
     "recentlyMoved": [
+        {
+            "domain_name": "bluewaterenergy.ca",
+            "destination": "Kinsta",
+            "date": "2026-11-13 12:41:21"
+        },
+        {
+            "domain_name": "www.islandgigs.com",
+            "destination": "Pressable",
+            "date": "2026-11-13 12:19:16"
+        },
+        {
+            "domain_name": "rbinjurylawyers.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 12:15:53"
+        },
+        {
+            "domain_name": "inspired.health",
+            "destination": "GoDaddy",
+            "date": "2026-11-13 12:14:55"
+        },
+        {
+            "domain_name": "jd4law.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 12:11:58"
+        },
+        {
+            "domain_name": "www.vmimathematics.com",
+            "destination": "Pressable",
+            "date": "2026-11-13 12:03:20"
+        },
+        {
+            "domain_name": "heyamore.de",
+            "destination": "Hostinger",
+            "date": "2026-11-13 11:55:56"
+        },
+        {
+            "domain_name": "boyleinsuranceagency.com",
+            "destination": "Pressable",
+            "date": "2026-11-13 11:54:55"
+        },
+        {
+            "domain_name": "www.pathwaysvermont.org",
+            "destination": "Pressable",
+            "date": "2026-11-13 11:49:07"
+        },
+        {
+            "domain_name": "www.jessehernandezlaw.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 11:48:51"
+        },
+        {
+            "domain_name": "www.bringonbert.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-13 11:48:17"
+        },
+        {
+            "domain_name": "www.hilarybennmp.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 11:40:04"
+        },
+        {
+            "domain_name": "www.seglawyersvermont.com",
+            "destination": "Pressable",
+            "date": "2026-11-13 11:17:55"
+        },
+        {
+            "domain_name": "www.clivelewis.org",
+            "destination": "Kinsta",
+            "date": "2026-11-13 11:07:39"
+        },
         {
             "domain_name": "vermontsilc.org",
             "destination": "Pressable",
@@ -417,19 +487,9 @@
             "date": "2026-11-12 16:55:50"
         },
         {
-            "domain_name": "carletoncompanies.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 16:47:35"
-        },
-        {
             "domain_name": "sprowlsinsurance.com",
             "destination": "Pressable",
             "date": "2026-11-12 16:43:11"
-        },
-        {
-            "domain_name": "bozzelliins.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 16:37:03"
         },
         {
             "domain_name": "www.rockmountainbiblecamp.org",
@@ -440,66 +500,6 @@
             "domain_name": "www.trustid.co.uk",
             "destination": "Hostinger",
             "date": "2026-11-12 16:25:57"
-        },
-        {
-            "domain_name": "healthynh.org",
-            "destination": "Kinsta",
-            "date": "2026-11-12 16:20:27"
-        },
-        {
-            "domain_name": "jambands.com",
-            "destination": "WordPress VIP",
-            "date": "2026-11-12 16:14:03"
-        },
-        {
-            "domain_name": "www.jlbthefarm.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 16:08:08"
-        },
-        {
-            "domain_name": "kleancorp.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 16:08:05"
-        },
-        {
-            "domain_name": "getgrajek.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:59:54"
-        },
-        {
-            "domain_name": "getflexhub.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:59:54"
-        },
-        {
-            "domain_name": "ickesoffice.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 15:50:12"
-        },
-        {
-            "domain_name": "ryannewman.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:45:04"
-        },
-        {
-            "domain_name": "princehavencampground.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:32:45"
-        },
-        {
-            "domain_name": "www.cvmasoninsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-12 15:31:19"
-        },
-        {
-            "domain_name": "progressiveelectricalnh.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:28:05"
-        },
-        {
-            "domain_name": "aciinc.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 15:21:33"
         }
     ],
     "dailyMovedStat": {
@@ -1288,13 +1288,13 @@
         "2026-11-12": "197849"
     },
     "topDestinationHosts": {
-        "Pressable": 16026,
-        "Kinsta": 13347,
+        "Pressable": 16030,
+        "Kinsta": 13352,
         "SiteGround": 8543,
-        "Digital Ocean": 8141,
-        "Hostinger": 6685,
+        "Digital Ocean": 8142,
+        "Hostinger": 6686,
         "Bluehost": 4940,
-        "GoDaddy": 2012,
+        "GoDaddy": 2013,
         "OVH": 1852,
         "BigScoots": 1372,
         "Liquid Web": 995,
