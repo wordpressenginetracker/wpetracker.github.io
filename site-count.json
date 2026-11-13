@@ -1,6 +1,11 @@
 {
-    "siteCount": 198083,
+    "siteCount": 198086,
     "recentlyMoved": [
+        {
+            "domain_name": "vcdr.org",
+            "destination": "Pressable",
+            "date": "2026-11-13 13:40:58"
+        },
         {
             "domain_name": "thekilmergroup.com",
             "destination": "Pressable",
@@ -470,11 +475,6 @@
             "domain_name": "samrobertsonrealestate.com",
             "destination": "Pressable",
             "date": "2026-11-12 20:22:38"
-        },
-        {
-            "domain_name": "www.diversifiedheating.com",
-            "destination": "Kinsta",
-            "date": "2026-11-12 20:18:07"
         },
         {
             "domain_name": "btlg.us",
@@ -1288,7 +1288,7 @@
         "2026-11-12": "197849"
     },
     "topDestinationHosts": {
-        "Pressable": 16033,
+        "Pressable": 16034,
         "Kinsta": 13358,
         "SiteGround": 8543,
         "Digital Ocean": 8146,
