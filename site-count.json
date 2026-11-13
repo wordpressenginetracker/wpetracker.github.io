@@ -1,6 +1,41 @@
 {
-    "siteCount": 198260,
+    "siteCount": 198292,
     "recentlyMoved": [
+        {
+            "domain_name": "ebfire.org",
+            "destination": "Kinsta",
+            "date": "2026-11-13 21:40:00"
+        },
+        {
+            "domain_name": "milchplus.de",
+            "destination": "Hostinger",
+            "date": "2026-11-13 21:25:06"
+        },
+        {
+            "domain_name": "tofathomthegist.com",
+            "destination": "Hostinger",
+            "date": "2026-11-13 21:09:46"
+        },
+        {
+            "domain_name": "longislandimplant.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 20:39:08"
+        },
+        {
+            "domain_name": "jerichodental.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 20:37:26"
+        },
+        {
+            "domain_name": "wythedentistry.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 20:34:40"
+        },
+        {
+            "domain_name": "stephencambredds.com",
+            "destination": "Kinsta",
+            "date": "2026-11-13 20:24:58"
+        },
         {
             "domain_name": "premierdentalgreensboro.com",
             "destination": "Kinsta",
@@ -465,41 +500,6 @@
             "domain_name": "michaelbrennand-wood.com",
             "destination": "Krystal Hosting",
             "date": "2026-11-13 08:38:07"
-        },
-        {
-            "domain_name": "ctora.ca",
-            "destination": "Bluehost",
-            "date": "2026-11-13 08:26:55"
-        },
-        {
-            "domain_name": "aqueductirrigation.com",
-            "destination": "Hostinger",
-            "date": "2026-11-13 08:15:33"
-        },
-        {
-            "domain_name": "baqus.co.uk",
-            "destination": "Pressable",
-            "date": "2026-11-13 07:40:24"
-        },
-        {
-            "domain_name": "www.arizonaescrow.com",
-            "destination": "Pressable",
-            "date": "2026-11-13 07:33:13"
-        },
-        {
-            "domain_name": "mulanagurranyin.mulanakaalinya.com.au",
-            "destination": "Kinsta",
-            "date": "2026-11-13 05:36:47"
-        },
-        {
-            "domain_name": "masondiasiorealty.com",
-            "destination": "Pressable",
-            "date": "2026-11-13 05:29:11"
-        },
-        {
-            "domain_name": "nobreath.co.uk",
-            "destination": "Pressable",
-            "date": "2026-11-13 05:18:39"
         }
     ],
     "dailyMovedStat": {
@@ -1289,10 +1289,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 16049,
-        "Kinsta": 13397,
+        "Kinsta": 13401,
         "SiteGround": 8543,
         "Digital Ocean": 8149,
-        "Hostinger": 6689,
+        "Hostinger": 6691,
         "Bluehost": 4942,
         "GoDaddy": 2013,
         "OVH": 1852,
