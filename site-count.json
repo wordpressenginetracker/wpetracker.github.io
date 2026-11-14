@@ -1,6 +1,21 @@
 {
-    "siteCount": 198559,
+    "siteCount": 198574,
     "recentlyMoved": [
+        {
+            "domain_name": "www.trailofdeath.org",
+            "destination": "Namecheap",
+            "date": "2026-11-14 20:55:26"
+        },
+        {
+            "domain_name": "carespace.health",
+            "destination": "WordPress.com",
+            "date": "2026-11-14 20:30:58"
+        },
+        {
+            "domain_name": "brownsautobillings.com",
+            "destination": "Kinsta",
+            "date": "2026-11-14 20:28:33"
+        },
         {
             "domain_name": "hakomiinstitute.com",
             "destination": "Kinsta",
@@ -452,16 +467,6 @@
             "date": "2026-11-13 20:00:50"
         },
         {
-            "domain_name": "www.lindenwoodsdental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 19:53:15"
-        },
-        {
-            "domain_name": "www.pandedental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 19:53:15"
-        },
-        {
             "domain_name": "www.vannuysdentistry.com",
             "destination": "Kinsta",
             "date": "2026-11-13 19:51:33"
@@ -483,11 +488,6 @@
         },
         {
             "domain_name": "www.northcollegedental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 19:46:15"
-        },
-        {
-            "domain_name": "www.myirvingfamilydental.com",
             "destination": "Kinsta",
             "date": "2026-11-13 19:46:15"
         },
@@ -1290,7 +1290,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16068,
-        "Kinsta": 13437,
+        "Kinsta": 13438,
         "SiteGround": 8543,
         "Digital Ocean": 8154,
         "Hostinger": 6700,
@@ -1299,8 +1299,8 @@
         "OVH": 1853,
         "BigScoots": 1380,
         "Liquid Web": 996,
-        "Namecheap": 917,
-        "WordPress.com": 886,
+        "Namecheap": 918,
+        "WordPress.com": 887,
         "GridPane": 827,
         "InMotion Hosting": 648,
         "IONOS": 616,
