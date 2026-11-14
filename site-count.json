@@ -1,6 +1,11 @@
 {
-    "siteCount": 198402,
+    "siteCount": 198407,
     "recentlyMoved": [
+        {
+            "domain_name": "validationmaster.com",
+            "destination": "IONOS",
+            "date": "2026-11-14 13:47:20"
+        },
         {
             "domain_name": "eitzenagency.com",
             "destination": "Pressable",
@@ -435,11 +440,6 @@
             "domain_name": "thearchitects.net",
             "destination": "Kinsta",
             "date": "2026-11-13 17:18:37"
-        },
-        {
-            "domain_name": "cellardoors.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 17:02:49"
         },
         {
             "domain_name": "www.sunrisehealthcare.net",
@@ -1289,7 +1289,7 @@
         "2026-11-13": "198295"
     },
     "topDestinationHosts": {
-        "Pressable": 16063,
+        "Pressable": 16064,
         "Kinsta": 13416,
         "SiteGround": 8543,
         "Digital Ocean": 8151,
@@ -1303,7 +1303,7 @@
         "WordPress.com": 886,
         "GridPane": 827,
         "InMotion Hosting": 648,
-        "IONOS": 615,
+        "IONOS": 616,
         "DreamHost": 595,
         "Elementor Hosting": 582,
         "Hetzner Online": 577,
