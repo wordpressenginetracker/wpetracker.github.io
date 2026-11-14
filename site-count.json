@@ -1,6 +1,11 @@
 {
-    "siteCount": 198499,
+    "siteCount": 198559,
     "recentlyMoved": [
+        {
+            "domain_name": "hakomiinstitute.com",
+            "destination": "Kinsta",
+            "date": "2026-11-14 19:43:57"
+        },
         {
             "domain_name": "nonprofitresourcehub.org",
             "destination": "Kinsta",
@@ -435,11 +440,6 @@
             "domain_name": "premierdentalgreensboro.com",
             "destination": "Kinsta",
             "date": "2026-11-13 20:15:29"
-        },
-        {
-            "domain_name": "www.kalispelldentist.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 20:13:26"
         },
         {
             "domain_name": "www.gilbertsrisksolutions.com",
@@ -1290,12 +1290,12 @@
     },
     "topDestinationHosts": {
         "Pressable": 16068,
-        "Kinsta": 13433,
+        "Kinsta": 13437,
         "SiteGround": 8543,
         "Digital Ocean": 8154,
-        "Hostinger": 6699,
-        "Bluehost": 4943,
-        "GoDaddy": 2015,
+        "Hostinger": 6700,
+        "Bluehost": 4945,
+        "GoDaddy": 2016,
         "OVH": 1853,
         "BigScoots": 1380,
         "Liquid Web": 996,
