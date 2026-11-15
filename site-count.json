@@ -1,6 +1,16 @@
 {
-    "siteCount": 198668,
+    "siteCount": 198682,
     "recentlyMoved": [
+        {
+            "domain_name": "blackhillrestoration.com",
+            "destination": "Kinsta",
+            "date": "2026-11-15 16:21:01"
+        },
+        {
+            "domain_name": "www.goldstarjunkremoval.com",
+            "destination": "Namecheap",
+            "date": "2026-11-15 16:02:55"
+        },
         {
             "domain_name": "intrasoft.es",
             "destination": "IONOS",
@@ -487,19 +497,9 @@
             "date": "2026-11-13 21:09:46"
         },
         {
-            "domain_name": "longislandimplant.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 20:39:08"
-        },
-        {
             "domain_name": "wythedentistry.com",
             "destination": "Kinsta",
             "date": "2026-11-13 20:34:40"
-        },
-        {
-            "domain_name": "stephencambredds.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 20:24:58"
         }
     ],
     "dailyMovedStat": {
@@ -1291,7 +1291,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16068,
-        "Kinsta": 13439,
+        "Kinsta": 13440,
         "SiteGround": 8543,
         "Digital Ocean": 8155,
         "Hostinger": 6702,
@@ -1300,7 +1300,7 @@
         "OVH": 1854,
         "BigScoots": 1381,
         "Liquid Web": 996,
-        "Namecheap": 919,
+        "Namecheap": 920,
         "WordPress.com": 887,
         "GridPane": 827,
         "InMotion Hosting": 648,
