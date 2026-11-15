@@ -1,6 +1,11 @@
 {
-    "siteCount": 198622,
+    "siteCount": 198631,
     "recentlyMoved": [
+        {
+            "domain_name": "beautysolutions.sa",
+            "destination": "Bluehost",
+            "date": "2026-11-15 07:43:30"
+        },
         {
             "domain_name": "ascapeliving.com",
             "destination": "GoDaddy",
@@ -480,11 +485,6 @@
             "domain_name": "stephencambredds.com",
             "destination": "Kinsta",
             "date": "2026-11-13 20:24:58"
-        },
-        {
-            "domain_name": "premierdentalgreensboro.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 20:15:29"
         },
         {
             "domain_name": "www.gilbertsrisksolutions.com",
@@ -1295,7 +1295,7 @@
         "SiteGround": 8543,
         "Digital Ocean": 8155,
         "Hostinger": 6701,
-        "Bluehost": 4945,
+        "Bluehost": 4946,
         "GoDaddy": 2017,
         "OVH": 1853,
         "BigScoots": 1381,
