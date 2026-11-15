@@ -1,6 +1,16 @@
 {
-    "siteCount": 198699,
+    "siteCount": 198732,
     "recentlyMoved": [
+        {
+            "domain_name": "fundorth.org",
+            "destination": "Digital Ocean",
+            "date": "2026-11-15 20:01:05"
+        },
+        {
+            "domain_name": "womack.law",
+            "destination": "Namecheap",
+            "date": "2026-11-15 19:31:51"
+        },
         {
             "domain_name": "kzanna.com",
             "destination": "GoDaddy",
@@ -482,11 +492,6 @@
             "date": "2026-11-13 21:40:00"
         },
         {
-            "domain_name": "milchplus.de",
-            "destination": "Hostinger",
-            "date": "2026-11-13 21:25:06"
-        },
-        {
             "domain_name": "nobullburger.com",
             "destination": "GoDaddy",
             "date": "2026-11-13 21:11:33"
@@ -495,11 +500,6 @@
             "domain_name": "noammurro.com",
             "destination": "Kinsta",
             "date": "2026-11-13 21:11:33"
-        },
-        {
-            "domain_name": "tofathomthegist.com",
-            "destination": "Hostinger",
-            "date": "2026-11-13 21:09:46"
         }
     ],
     "dailyMovedStat": {
@@ -1293,14 +1293,14 @@
         "Pressable": 16068,
         "Kinsta": 13440,
         "SiteGround": 8543,
-        "Digital Ocean": 8155,
+        "Digital Ocean": 8156,
         "Hostinger": 6702,
         "Bluehost": 4947,
         "GoDaddy": 2018,
-        "OVH": 1854,
+        "OVH": 1855,
         "BigScoots": 1381,
-        "Liquid Web": 996,
-        "Namecheap": 920,
+        "Liquid Web": 997,
+        "Namecheap": 921,
         "WordPress.com": 887,
         "GridPane": 827,
         "InMotion Hosting": 648,
