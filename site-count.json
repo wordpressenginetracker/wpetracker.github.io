@@ -1,6 +1,11 @@
 {
-    "siteCount": 198682,
+    "siteCount": 198698,
     "recentlyMoved": [
+        {
+            "domain_name": "kzanna.com",
+            "destination": "GoDaddy",
+            "date": "2026-11-15 17:02:20"
+        },
         {
             "domain_name": "blackhillrestoration.com",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "tofathomthegist.com",
             "destination": "Hostinger",
             "date": "2026-11-13 21:09:46"
-        },
-        {
-            "domain_name": "wythedentistry.com",
-            "destination": "Kinsta",
-            "date": "2026-11-13 20:34:40"
         }
     ],
     "dailyMovedStat": {
@@ -1296,7 +1296,7 @@
         "Digital Ocean": 8155,
         "Hostinger": 6702,
         "Bluehost": 4947,
-        "GoDaddy": 2017,
+        "GoDaddy": 2018,
         "OVH": 1854,
         "BigScoots": 1381,
         "Liquid Web": 996,
