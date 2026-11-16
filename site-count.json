@@ -1,10 +1,20 @@
 {
-    "siteCount": 198808,
+    "siteCount": 198811,
     "recentlyMoved": [
+        {
+            "domain_name": "wendycorp.com",
+            "destination": "Hostinger",
+            "date": "2026-11-16 05:52:01"
+        },
         {
             "domain_name": "sugarbox.london",
             "destination": "Namecheap",
             "date": "2026-11-16 05:08:39"
+        },
+        {
+            "domain_name": "vanedomswinebar.com",
+            "destination": "Namecheap",
+            "date": "2026-11-16 05:02:33"
         },
         {
             "domain_name": "coloradospringsbasement.com",
@@ -477,11 +487,6 @@
             "date": "2026-11-14 12:22:34"
         },
         {
-            "domain_name": "rivercityinsurancegroup.com",
-            "destination": "Pressable",
-            "date": "2026-11-14 12:17:05"
-        },
-        {
             "domain_name": "justicestartshere.com",
             "destination": "Kinsta",
             "date": "2026-11-14 12:01:24"
@@ -490,11 +495,6 @@
             "domain_name": "www.johnpac.com",
             "destination": "Pressable",
             "date": "2026-11-14 11:52:31"
-        },
-        {
-            "domain_name": "ripedesignco.com",
-            "destination": "WordPress.com",
-            "date": "2026-11-14 11:48:56"
         },
         {
             "domain_name": "sarfatycomms.com",
@@ -1295,13 +1295,13 @@
         "Kinsta": 13443,
         "SiteGround": 8543,
         "Digital Ocean": 8157,
-        "Hostinger": 6703,
+        "Hostinger": 6704,
         "Bluehost": 4948,
         "GoDaddy": 2018,
         "OVH": 1855,
         "BigScoots": 1383,
         "Liquid Web": 997,
-        "Namecheap": 937,
+        "Namecheap": 938,
         "WordPress.com": 887,
         "GridPane": 827,
         "InMotion Hosting": 648,
