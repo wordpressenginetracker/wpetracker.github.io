@@ -1,6 +1,11 @@
 {
-    "siteCount": 199022,
+    "siteCount": 199034,
     "recentlyMoved": [
+        {
+            "domain_name": "mindsetcenter.com",
+            "destination": "Kinsta",
+            "date": "2026-11-17 09:33:29"
+        },
         {
             "domain_name": "edwardbaddour.com.au",
             "destination": "Pressable",
@@ -495,11 +500,6 @@
             "domain_name": "kzanna.com",
             "destination": "GoDaddy",
             "date": "2026-11-15 17:02:20"
-        },
-        {
-            "domain_name": "blackhillrestoration.com",
-            "destination": "Kinsta",
-            "date": "2026-11-15 16:21:01"
         }
     ],
     "dailyMovedStat": {
@@ -1293,7 +1293,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16072,
-        "Kinsta": 13449,
+        "Kinsta": 13450,
         "SiteGround": 8543,
         "Digital Ocean": 8161,
         "Hostinger": 6710,
