@@ -1,6 +1,11 @@
 {
-    "siteCount": 198989,
+    "siteCount": 198992,
     "recentlyMoved": [
+        {
+            "domain_name": "offspringprofiles.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2026-11-17 01:18:37"
+        },
         {
             "domain_name": "screenlandz365.com",
             "destination": "Namecheap",
@@ -495,11 +500,6 @@
             "domain_name": "beautysolutions.sa",
             "destination": "Bluehost",
             "date": "2026-11-15 07:43:30"
-        },
-        {
-            "domain_name": "ascapeliving.com",
-            "destination": "GoDaddy",
-            "date": "2026-11-15 03:35:22"
         }
     ],
     "dailyMovedStat": {
@@ -1295,7 +1295,7 @@
         "Pressable": 16071,
         "Kinsta": 13449,
         "SiteGround": 8543,
-        "Digital Ocean": 8160,
+        "Digital Ocean": 8161,
         "Hostinger": 6708,
         "Bluehost": 4948,
         "GoDaddy": 2019,
