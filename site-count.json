@@ -1,6 +1,11 @@
 {
-    "siteCount": 199647,
+    "siteCount": 199653,
     "recentlyMoved": [
+        {
+            "domain_name": "energizepropertysolutions.com",
+            "destination": "Namecheap",
+            "date": "2026-11-18 17:22:22"
+        },
         {
             "domain_name": "lvsportsandspine.com",
             "destination": "Hostinger",
@@ -10,6 +15,11 @@
             "domain_name": "www.timelesstrenz.com",
             "destination": "Namecheap",
             "date": "2026-11-18 17:05:28"
+        },
+        {
+            "domain_name": "nerems.com",
+            "destination": "Kinsta",
+            "date": "2026-11-18 17:04:50"
         },
         {
             "domain_name": "texasweathervanes.com",
@@ -475,16 +485,6 @@
             "domain_name": "mandurangvalleywines.com.au",
             "destination": "Kinsta",
             "date": "2026-11-17 20:29:44"
-        },
-        {
-            "domain_name": "highsierraelectricalcontractors.com",
-            "destination": "Namecheap",
-            "date": "2026-11-17 20:27:06"
-        },
-        {
-            "domain_name": "www.eastreservations.org",
-            "destination": "Namecheap",
-            "date": "2026-11-17 20:14:35"
         },
         {
             "domain_name": "biohuesdigital.com",
@@ -1294,7 +1294,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16109,
-        "Kinsta": 13555,
+        "Kinsta": 13556,
         "SiteGround": 8544,
         "Digital Ocean": 8173,
         "Hostinger": 6719,
@@ -1302,7 +1302,7 @@
         "GoDaddy": 2023,
         "OVH": 1860,
         "BigScoots": 1389,
-        "Namecheap": 1033,
+        "Namecheap": 1034,
         "Liquid Web": 1000,
         "WordPress.com": 890,
         "GridPane": 831,
