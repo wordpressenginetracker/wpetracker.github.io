@@ -1,6 +1,41 @@
 {
-    "siteCount": 199456,
+    "siteCount": 199470,
     "recentlyMoved": [
+        {
+            "domain_name": "2018.uncoveringasia.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 08:07:43"
+        },
+        {
+            "domain_name": "archive.gijn.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 08:00:38"
+        },
+        {
+            "domain_name": "bluebonnethp.com",
+            "destination": "Namecheap",
+            "date": "2026-11-18 07:51:47"
+        },
+        {
+            "domain_name": "advisory.gijn.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 07:40:45"
+        },
+        {
+            "domain_name": "gijc2019.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 07:34:57"
+        },
+        {
+            "domain_name": "gijc2017.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 07:34:57"
+        },
+        {
+            "domain_name": "gijc2015.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 07:34:57"
+        },
         {
             "domain_name": "wfcsradio.com",
             "destination": "Namecheap",
@@ -392,11 +427,6 @@
             "date": "2026-11-17 16:23:52"
         },
         {
-            "domain_name": "prrag.com",
-            "destination": "Kinsta",
-            "date": "2026-11-17 16:23:13"
-        },
-        {
             "domain_name": "jdswebdesign.biz",
             "destination": "Hostinger",
             "date": "2026-11-17 16:23:06"
@@ -425,11 +455,6 @@
             "domain_name": "homesteadinnovatorsllc.com",
             "destination": "Namecheap",
             "date": "2026-11-17 16:15:49"
-        },
-        {
-            "domain_name": "ppdnews.org",
-            "destination": "Kinsta",
-            "date": "2026-11-17 16:13:48"
         },
         {
             "domain_name": "www.mentalhealthdisordertreatment.com",
@@ -475,31 +500,6 @@
             "domain_name": "briscoeservices-ma.com",
             "destination": "Kinsta",
             "date": "2026-11-17 15:58:58"
-        },
-        {
-            "domain_name": "prattagency.com",
-            "destination": "Pressable",
-            "date": "2026-11-17 15:52:44"
-        },
-        {
-            "domain_name": "ancorcapital.com",
-            "destination": "Pressable",
-            "date": "2026-11-17 15:52:19"
-        },
-        {
-            "domain_name": "www.brineyforet.com",
-            "destination": "Pressable",
-            "date": "2026-11-17 15:42:45"
-        },
-        {
-            "domain_name": "gltsnews.com",
-            "destination": "Kinsta",
-            "date": "2026-11-17 15:40:38"
-        },
-        {
-            "domain_name": "altorstrick.com",
-            "destination": "Pressable",
-            "date": "2026-11-17 15:32:40"
         }
     ],
     "dailyMovedStat": {
@@ -1294,7 +1294,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16101,
-        "Kinsta": 13536,
+        "Kinsta": 13542,
         "SiteGround": 8544,
         "Digital Ocean": 8170,
         "Hostinger": 6716,
@@ -1302,7 +1302,7 @@
         "GoDaddy": 2022,
         "OVH": 1859,
         "BigScoots": 1387,
-        "Namecheap": 1023,
+        "Namecheap": 1024,
         "Liquid Web": 998,
         "WordPress.com": 889,
         "GridPane": 830,
