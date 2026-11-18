@@ -1,6 +1,21 @@
 {
-    "siteCount": 199422,
+    "siteCount": 199431,
     "recentlyMoved": [
+        {
+            "domain_name": "dpdesignstudioplus.ca",
+            "destination": "Namecheap",
+            "date": "2026-11-18 01:47:06"
+        },
+        {
+            "domain_name": "dracutpolice.org",
+            "destination": "Kinsta",
+            "date": "2026-11-18 01:26:45"
+        },
+        {
+            "domain_name": "essexmapd.com",
+            "destination": "Kinsta",
+            "date": "2026-11-18 01:10:54"
+        },
         {
             "domain_name": "carverchurch.org",
             "destination": "Kinsta",
@@ -417,16 +432,6 @@
             "date": "2026-11-17 16:02:06"
         },
         {
-            "domain_name": "627photography.com",
-            "destination": "BigScoots",
-            "date": "2026-11-17 16:02:00"
-        },
-        {
-            "domain_name": "workgroup-ltd.com",
-            "destination": "Kinsta",
-            "date": "2026-11-17 16:01:41"
-        },
-        {
             "domain_name": "www.bayoucompanies.com",
             "destination": "Pressable",
             "date": "2026-11-17 15:59:54"
@@ -495,11 +500,6 @@
             "domain_name": "www.eliteaestheticsmichiana.com",
             "destination": "Kinsta",
             "date": "2026-11-17 15:24:46"
-        },
-        {
-            "domain_name": "www.pragmadental.com",
-            "destination": "Kinsta",
-            "date": "2026-11-17 15:16:14"
         }
     ],
     "dailyMovedStat": {
@@ -1294,7 +1294,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16101,
-        "Kinsta": 13532,
+        "Kinsta": 13534,
         "SiteGround": 8544,
         "Digital Ocean": 8169,
         "Hostinger": 6716,
@@ -1302,7 +1302,7 @@
         "GoDaddy": 2022,
         "OVH": 1858,
         "BigScoots": 1387,
-        "Namecheap": 1017,
+        "Namecheap": 1018,
         "Liquid Web": 998,
         "WordPress.com": 889,
         "GridPane": 830,
