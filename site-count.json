@@ -1,6 +1,31 @@
 {
-    "siteCount": 200008,
+    "siteCount": 200055,
     "recentlyMoved": [
+        {
+            "domain_name": "avionpower.com",
+            "destination": "Namecheap",
+            "date": "2026-11-19 20:06:55"
+        },
+        {
+            "domain_name": "hullpolice.org",
+            "destination": "Kinsta",
+            "date": "2026-11-19 20:05:32"
+        },
+        {
+            "domain_name": "www.pixus.com",
+            "destination": "Pressable",
+            "date": "2026-11-19 19:44:18"
+        },
+        {
+            "domain_name": "globalhn.com",
+            "destination": "Kinsta",
+            "date": "2026-11-19 19:44:00"
+        },
+        {
+            "domain_name": "outdoorend.com",
+            "destination": "Namecheap",
+            "date": "2026-11-19 19:25:44"
+        },
         {
             "domain_name": "nahantpolice.org",
             "destination": "Kinsta",
@@ -472,34 +497,9 @@
             "date": "2026-11-18 21:08:34"
         },
         {
-            "domain_name": "dandjcomforthomes.com",
-            "destination": "Namecheap",
-            "date": "2026-11-18 20:53:16"
-        },
-        {
             "domain_name": "zenmeditation.com",
             "destination": "Namecheap",
             "date": "2026-11-18 20:51:18"
-        },
-        {
-            "domain_name": "luminaryleaders20years.com",
-            "destination": "Hostinger",
-            "date": "2026-11-18 20:43:34"
-        },
-        {
-            "domain_name": "thehuttco.com",
-            "destination": "Kinsta",
-            "date": "2026-11-18 20:41:25"
-        },
-        {
-            "domain_name": "clickghost.io",
-            "destination": "Namecheap",
-            "date": "2026-11-18 20:39:47"
-        },
-        {
-            "domain_name": "communitymulti-services.com",
-            "destination": "Pressable",
-            "date": "2026-11-18 20:37:23"
         }
     ],
     "dailyMovedStat": {
@@ -1294,16 +1294,16 @@
         "2026-11-18": "199756"
     },
     "topDestinationHosts": {
-        "Pressable": 16139,
-        "Kinsta": 13576,
+        "Pressable": 16140,
+        "Kinsta": 13578,
         "SiteGround": 8544,
-        "Digital Ocean": 8180,
+        "Digital Ocean": 8181,
         "Hostinger": 6726,
         "Bluehost": 4955,
         "GoDaddy": 2023,
         "OVH": 1862,
         "BigScoots": 1391,
-        "Namecheap": 1074,
+        "Namecheap": 1076,
         "Liquid Web": 1000,
         "WordPress.com": 890,
         "GridPane": 832,
