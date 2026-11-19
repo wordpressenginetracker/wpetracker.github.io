@@ -1,6 +1,21 @@
 {
-    "siteCount": 200000,
+    "siteCount": 200008,
     "recentlyMoved": [
+        {
+            "domain_name": "nahantpolice.org",
+            "destination": "Kinsta",
+            "date": "2026-11-19 17:53:41"
+        },
+        {
+            "domain_name": "nahantlibrary.org",
+            "destination": "Kinsta",
+            "date": "2026-11-19 17:53:41"
+        },
+        {
+            "domain_name": "verowatersports.com",
+            "destination": "Kinsta",
+            "date": "2026-11-19 17:48:15"
+        },
         {
             "domain_name": "unioncondos.ca",
             "destination": "Kinsta",
@@ -485,21 +500,6 @@
             "domain_name": "communitymulti-services.com",
             "destination": "Pressable",
             "date": "2026-11-18 20:37:23"
-        },
-        {
-            "domain_name": "campusclubsmacon.org",
-            "destination": "Namecheap",
-            "date": "2026-11-18 20:21:20"
-        },
-        {
-            "domain_name": "www.lebeouftowing.com",
-            "destination": "Pressable",
-            "date": "2026-11-18 20:20:49"
-        },
-        {
-            "domain_name": "jdswebdesign.com",
-            "destination": "Hostinger",
-            "date": "2026-11-18 20:06:05"
         }
     ],
     "dailyMovedStat": {
@@ -1295,7 +1295,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16139,
-        "Kinsta": 13572,
+        "Kinsta": 13576,
         "SiteGround": 8544,
         "Digital Ocean": 8180,
         "Hostinger": 6726,
