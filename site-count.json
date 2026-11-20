@@ -1,10 +1,25 @@
 {
-    "siteCount": 200098,
+    "siteCount": 200109,
     "recentlyMoved": [
+        {
+            "domain_name": "marketingdiscounts.io",
+            "destination": "Namecheap",
+            "date": "2026-11-20 01:28:45"
+        },
+        {
+            "domain_name": "egamerclub360.com",
+            "destination": "Namecheap",
+            "date": "2026-11-20 01:13:34"
+        },
         {
             "domain_name": "bestestore365hub.com",
             "destination": "Namecheap",
             "date": "2026-11-20 00:31:09"
+        },
+        {
+            "domain_name": "candowine.com.au",
+            "destination": "Kinsta",
+            "date": "2026-11-20 00:20:23"
         },
         {
             "domain_name": "www.lexr.com",
@@ -485,21 +500,6 @@
             "domain_name": "nyconnect.org",
             "destination": "Namecheap",
             "date": "2026-11-19 01:25:03"
-        },
-        {
-            "domain_name": "verajohn-mania.com",
-            "destination": "Namecheap",
-            "date": "2026-11-19 01:21:57"
-        },
-        {
-            "domain_name": "zyj.co.nz",
-            "destination": "Hostinger",
-            "date": "2026-11-19 01:17:45"
-        },
-        {
-            "domain_name": "divestmergeacquire.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-19 00:42:33"
         }
     ],
     "dailyMovedStat": {
@@ -1296,7 +1296,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16143,
-        "Kinsta": 13579,
+        "Kinsta": 13580,
         "SiteGround": 8544,
         "Digital Ocean": 8181,
         "Hostinger": 6727,
@@ -1304,7 +1304,7 @@
         "GoDaddy": 2023,
         "OVH": 1862,
         "BigScoots": 1392,
-        "Namecheap": 1082,
+        "Namecheap": 1083,
         "Liquid Web": 1000,
         "WordPress.com": 890,
         "GridPane": 832,
@@ -1312,7 +1312,7 @@
         "IONOS": 617,
         "DreamHost": 598,
         "Elementor Hosting": 583,
-        "Hetzner Online": 579,
+        "Hetzner Online": 580,
         "A2 Hosting": 492,
         "HostGator": 400
     },
