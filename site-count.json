@@ -1,5 +1,5 @@
 {
-    "siteCount": 200451,
+    "siteCount": 200457,
     "recentlyMoved": [
         {
             "domain_name": "dpxconsulting.com",
@@ -15,6 +15,11 @@
             "domain_name": "swanseaportal.com",
             "destination": "Kinsta",
             "date": "2026-11-20 21:10:16"
+        },
+        {
+            "domain_name": "voltinsurance.com",
+            "destination": "Pressable",
+            "date": "2026-11-20 21:08:32"
         },
         {
             "domain_name": "michele-carbone.com",
@@ -495,11 +500,6 @@
             "domain_name": "planswell.me",
             "destination": "Namecheap",
             "date": "2026-11-19 23:36:34"
-        },
-        {
-            "domain_name": "mikekirstbiographyproject.com",
-            "destination": "Kinsta",
-            "date": "2026-11-19 21:21:42"
         }
     ],
     "dailyMovedStat": {
@@ -1295,7 +1295,7 @@
         "2026-11-19": "200084"
     },
     "topDestinationHosts": {
-        "Pressable": 16160,
+        "Pressable": 16161,
         "Kinsta": 13605,
         "SiteGround": 8544,
         "Digital Ocean": 8185,
