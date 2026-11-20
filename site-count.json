@@ -1,6 +1,26 @@
 {
-    "siteCount": 200359,
+    "siteCount": 200425,
     "recentlyMoved": [
+        {
+            "domain_name": "jameswillisphoto.com",
+            "destination": "BigScoots",
+            "date": "2026-11-20 20:29:16"
+        },
+        {
+            "domain_name": "www.lightingbymark.com",
+            "destination": "Namecheap",
+            "date": "2026-11-20 20:26:26"
+        },
+        {
+            "domain_name": "bonagency.com",
+            "destination": "Pressable",
+            "date": "2026-11-20 20:05:40"
+        },
+        {
+            "domain_name": "www.bear-ind.com",
+            "destination": "Pressable",
+            "date": "2026-11-20 19:56:52"
+        },
         {
             "domain_name": "wellplanservices.com",
             "destination": "Liquid Web",
@@ -480,26 +500,6 @@
             "domain_name": "www.rjtricon.com",
             "destination": "Pressable",
             "date": "2026-11-19 20:31:55"
-        },
-        {
-            "domain_name": "avionpower.com",
-            "destination": "Namecheap",
-            "date": "2026-11-19 20:06:55"
-        },
-        {
-            "domain_name": "hullpolice.org",
-            "destination": "Kinsta",
-            "date": "2026-11-19 20:05:32"
-        },
-        {
-            "domain_name": "www.pixus.com",
-            "destination": "Pressable",
-            "date": "2026-11-19 19:44:18"
-        },
-        {
-            "domain_name": "globalhn.com",
-            "destination": "Kinsta",
-            "date": "2026-11-19 19:44:00"
         }
     ],
     "dailyMovedStat": {
@@ -1295,13 +1295,13 @@
         "2026-11-19": "200084"
     },
     "topDestinationHosts": {
-        "Pressable": 16156,
+        "Pressable": 16157,
         "Kinsta": 13602,
         "SiteGround": 8544,
         "Digital Ocean": 8183,
         "Hostinger": 6735,
         "Bluehost": 4960,
-        "GoDaddy": 2023,
+        "GoDaddy": 2024,
         "OVH": 1862,
         "BigScoots": 1405,
         "Namecheap": 1096,
