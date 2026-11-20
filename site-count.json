@@ -1,6 +1,16 @@
 {
-    "siteCount": 200158,
+    "siteCount": 200173,
     "recentlyMoved": [
+        {
+            "domain_name": "embracepear.org",
+            "destination": "Namecheap",
+            "date": "2026-11-20 09:34:18"
+        },
+        {
+            "domain_name": "digtiz.com",
+            "destination": "Hostinger",
+            "date": "2026-11-20 09:26:13"
+        },
         {
             "domain_name": "www.littleonesnursery.co.uk",
             "destination": "Kinsta",
@@ -10,6 +20,11 @@
             "domain_name": "www.bounceonline.org",
             "destination": "Kinsta",
             "date": "2026-11-20 08:11:40"
+        },
+        {
+            "domain_name": "spartantasker.us",
+            "destination": "Kinsta",
+            "date": "2026-11-20 08:08:12"
         },
         {
             "domain_name": "workmaninjurylaw.com",
@@ -485,21 +500,6 @@
             "domain_name": "westmauilodging.com",
             "destination": "Namecheap",
             "date": "2026-11-19 09:08:52"
-        },
-        {
-            "domain_name": "www.collegestudentdrugprogram.com",
-            "destination": "Namecheap",
-            "date": "2026-11-19 08:03:18"
-        },
-        {
-            "domain_name": "jamesnewbury.co.uk",
-            "destination": "Pressable",
-            "date": "2026-11-19 07:54:50"
-        },
-        {
-            "domain_name": "www.kapustareels.com",
-            "destination": "Namecheap",
-            "date": "2026-11-19 07:51:20"
         }
     ],
     "dailyMovedStat": {
@@ -1296,10 +1296,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 16143,
-        "Kinsta": 13586,
+        "Kinsta": 13588,
         "SiteGround": 8544,
         "Digital Ocean": 8182,
-        "Hostinger": 6727,
+        "Hostinger": 6728,
         "Bluehost": 4955,
         "GoDaddy": 2023,
         "OVH": 1862,
