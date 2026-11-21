@@ -1,6 +1,16 @@
 {
-    "siteCount": 200503,
+    "siteCount": 200512,
     "recentlyMoved": [
+        {
+            "domain_name": "www.theparrishlawfirm.com",
+            "destination": "Kinsta",
+            "date": "2026-11-21 04:31:24"
+        },
+        {
+            "domain_name": "chiesipro.no",
+            "destination": "Kinsta",
+            "date": "2026-11-21 04:11:09"
+        },
         {
             "domain_name": "poolandspafenceinspections.com.au",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "culturegallery.co",
             "destination": "Namecheap",
             "date": "2026-11-20 04:52:13"
-        },
-        {
-            "domain_name": "www.mcminnlaw.com",
-            "destination": "Kinsta",
-            "date": "2026-11-20 04:49:42"
-        },
-        {
-            "domain_name": "www.heroinrehabcenterprogram.com",
-            "destination": "Namecheap",
-            "date": "2026-11-20 04:37:14"
         }
     ],
     "dailyMovedStat": {
@@ -1297,7 +1297,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16161,
-        "Kinsta": 13606,
+        "Kinsta": 13608,
         "SiteGround": 8544,
         "Digital Ocean": 8188,
         "Hostinger": 6735,
@@ -1305,7 +1305,7 @@
         "GoDaddy": 2024,
         "OVH": 1863,
         "BigScoots": 1406,
-        "Namecheap": 1101,
+        "Namecheap": 1102,
         "Liquid Web": 1001,
         "WordPress.com": 890,
         "GridPane": 833,
