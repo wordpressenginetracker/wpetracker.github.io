@@ -1,6 +1,26 @@
 {
-    "siteCount": 200656,
+    "siteCount": 200685,
     "recentlyMoved": [
+        {
+            "domain_name": "livingspacehub.org",
+            "destination": "Kinsta",
+            "date": "2026-11-21 17:14:07"
+        },
+        {
+            "domain_name": "leitchinsurancegroup.com",
+            "destination": "Pressable",
+            "date": "2026-11-21 17:07:40"
+        },
+        {
+            "domain_name": "mattagami.com",
+            "destination": "Kinsta",
+            "date": "2026-11-21 16:58:03"
+        },
+        {
+            "domain_name": "dynamictravel.com",
+            "destination": "Hostinger",
+            "date": "2026-11-21 16:55:46"
+        },
         {
             "domain_name": "www.brightskyrenewables.com",
             "destination": "WordPress.com",
@@ -467,21 +487,6 @@
             "date": "2026-11-20 13:21:32"
         },
         {
-            "domain_name": "timbraue.com",
-            "destination": "Hostinger",
-            "date": "2026-11-20 13:18:36"
-        },
-        {
-            "domain_name": "themarketingapothecary.com",
-            "destination": "BigScoots",
-            "date": "2026-11-20 13:12:21"
-        },
-        {
-            "domain_name": "dampc.ca",
-            "destination": "Kinsta",
-            "date": "2026-11-20 13:11:24"
-        },
-        {
             "domain_name": "nefools.org",
             "destination": "Kinsta",
             "date": "2026-11-20 13:08:27"
@@ -495,11 +500,6 @@
             "domain_name": "nesbitagencies.com",
             "destination": "Pressable",
             "date": "2026-11-20 13:04:27"
-        },
-        {
-            "domain_name": "divyapande.com",
-            "destination": "BigScoots",
-            "date": "2026-11-20 12:51:00"
         }
     ],
     "dailyMovedStat": {
@@ -1296,11 +1296,11 @@
         "2026-11-20": "200457"
     },
     "topDestinationHosts": {
-        "Pressable": 16172,
-        "Kinsta": 13612,
+        "Pressable": 16173,
+        "Kinsta": 13614,
         "SiteGround": 8544,
         "Digital Ocean": 8189,
-        "Hostinger": 6737,
+        "Hostinger": 6738,
         "Bluehost": 4961,
         "GoDaddy": 2024,
         "OVH": 1863,
