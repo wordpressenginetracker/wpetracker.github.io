@@ -1,6 +1,11 @@
 {
-    "siteCount": 200784,
+    "siteCount": 200802,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wildboyzentertainment.com",
+            "destination": "Hostinger",
+            "date": "2026-11-22 03:17:29"
+        },
         {
             "domain_name": "www.ndh.on.ca",
             "destination": "Kinsta",
@@ -490,11 +495,6 @@
             "domain_name": "bartoncreekac.com",
             "destination": "Bluehost",
             "date": "2026-11-20 15:48:36"
-        },
-        {
-            "domain_name": "hoch-spagnolo.com",
-            "destination": "Namecheap",
-            "date": "2026-11-20 15:43:47"
         },
         {
             "domain_name": "www.g2inc.com",
@@ -1301,7 +1301,7 @@
         "Kinsta": 13620,
         "SiteGround": 8544,
         "Digital Ocean": 8192,
-        "Hostinger": 6738,
+        "Hostinger": 6739,
         "Bluehost": 4961,
         "GoDaddy": 2024,
         "OVH": 1863,
