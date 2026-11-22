@@ -1,6 +1,11 @@
 {
-    "siteCount": 200805,
+    "siteCount": 200817,
     "recentlyMoved": [
+        {
+            "domain_name": "michaelslifka.com",
+            "destination": "HostGator",
+            "date": "2026-11-22 09:12:00"
+        },
         {
             "domain_name": "www.wildboyzentertainment.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "bartoncreekac.com",
             "destination": "Bluehost",
             "date": "2026-11-20 15:48:36"
-        },
-        {
-            "domain_name": "www.g2inc.com",
-            "destination": "A2 Hosting",
-            "date": "2026-11-20 15:42:36"
         }
     ],
     "dailyMovedStat": {
@@ -1316,7 +1316,7 @@
         "Elementor Hosting": 583,
         "Hetzner Online": 583,
         "A2 Hosting": 493,
-        "HostGator": 400
+        "HostGator": 401
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
