@@ -1,10 +1,15 @@
 {
-    "siteCount": 200867,
+    "siteCount": 200879,
     "recentlyMoved": [
         {
             "domain_name": "annalaero.com",
             "destination": "BigScoots",
             "date": "2026-11-22 16:14:49"
+        },
+        {
+            "domain_name": "kickturn.us",
+            "destination": "Kinsta",
+            "date": "2026-11-22 16:12:19"
         },
         {
             "domain_name": "pathmarkfabrication.com",
@@ -490,11 +495,6 @@
             "domain_name": "chiarasimons.com",
             "destination": "BigScoots",
             "date": "2026-11-20 16:35:10"
-        },
-        {
-            "domain_name": "serenityfloorcare.com",
-            "destination": "Hostinger",
-            "date": "2026-11-20 16:31:03"
         },
         {
             "domain_name": "www.pactcharity.org",
@@ -1298,7 +1298,7 @@
     },
     "topDestinationHosts": {
         "Pressable": 16177,
-        "Kinsta": 13620,
+        "Kinsta": 13621,
         "SiteGround": 8544,
         "Digital Ocean": 8192,
         "Hostinger": 6741,
