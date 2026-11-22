@@ -1,6 +1,11 @@
 {
-    "siteCount": 200905,
+    "siteCount": 200915,
     "recentlyMoved": [
+        {
+            "domain_name": "educationsnapshots.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-22 21:14:34"
+        },
         {
             "domain_name": "homesnapshots.com",
             "destination": "Digital Ocean",
@@ -10,6 +15,16 @@
             "domain_name": "hospitalitysnapshots.com",
             "destination": "Digital Ocean",
             "date": "2026-11-22 20:33:12"
+        },
+        {
+            "domain_name": "katiefrostweddings.com",
+            "destination": "Hostinger",
+            "date": "2026-11-22 20:16:01"
+        },
+        {
+            "domain_name": "simonfamilydentistry.com",
+            "destination": "IONOS",
+            "date": "2026-11-22 20:08:39"
         },
         {
             "domain_name": "foundationdesign.us",
@@ -482,24 +497,9 @@
             "date": "2026-11-20 19:56:52"
         },
         {
-            "domain_name": "wellplanservices.com",
-            "destination": "Liquid Web",
-            "date": "2026-11-20 17:49:26"
-        },
-        {
-            "domain_name": "northashevilledentist.com",
-            "destination": "Kinsta",
-            "date": "2026-11-20 17:20:01"
-        },
-        {
             "domain_name": "ocdpools.com",
             "destination": "Pressable",
             "date": "2026-11-20 17:09:39"
-        },
-        {
-            "domain_name": "umbilicals.com",
-            "destination": "Pressable",
-            "date": "2026-11-20 17:00:45"
         }
     ],
     "dailyMovedStat": {
@@ -1300,8 +1300,8 @@
         "Pressable": 16177,
         "Kinsta": 13623,
         "SiteGround": 8544,
-        "Digital Ocean": 8196,
-        "Hostinger": 6741,
+        "Digital Ocean": 8197,
+        "Hostinger": 6742,
         "Bluehost": 4961,
         "GoDaddy": 2025,
         "OVH": 1863,
@@ -1311,7 +1311,7 @@
         "WordPress.com": 892,
         "GridPane": 833,
         "InMotion Hosting": 648,
-        "IONOS": 620,
+        "IONOS": 621,
         "DreamHost": 598,
         "Elementor Hosting": 583,
         "Hetzner Online": 583,
