@@ -1,6 +1,11 @@
 {
-    "siteCount": 200830,
+    "siteCount": 200847,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wildgirlzentertainment.com",
+            "destination": "Hostinger",
+            "date": "2026-11-22 13:28:26"
+        },
         {
             "domain_name": "jasongardner.net",
             "destination": "Pressable",
@@ -480,11 +485,6 @@
             "domain_name": "serenityfloorcare.com",
             "destination": "Hostinger",
             "date": "2026-11-20 16:31:03"
-        },
-        {
-            "domain_name": "bennettheatingandair.com",
-            "destination": "Bluehost",
-            "date": "2026-11-20 16:24:26"
         },
         {
             "domain_name": "www.livsreise.org",
@@ -1297,11 +1297,11 @@
         "2026-11-21": "200766"
     },
     "topDestinationHosts": {
-        "Pressable": 16175,
+        "Pressable": 16176,
         "Kinsta": 13620,
         "SiteGround": 8544,
         "Digital Ocean": 8192,
-        "Hostinger": 6739,
+        "Hostinger": 6740,
         "Bluehost": 4961,
         "GoDaddy": 2024,
         "OVH": 1863,
