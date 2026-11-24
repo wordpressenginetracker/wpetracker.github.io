@@ -1,6 +1,26 @@
 {
-    "siteCount": 201396,
+    "siteCount": 201416,
     "recentlyMoved": [
+        {
+            "domain_name": "montanaleader.org",
+            "destination": "Pressable",
+            "date": "2026-11-24 21:42:41"
+        },
+        {
+            "domain_name": "api.tribecastudios.com",
+            "destination": "Kinsta",
+            "date": "2026-11-24 21:05:57"
+        },
+        {
+            "domain_name": "closethedividefilm.com",
+            "destination": "Hostinger",
+            "date": "2026-11-24 20:49:02"
+        },
+        {
+            "domain_name": "citylitics.com",
+            "destination": "Hostinger",
+            "date": "2026-11-24 20:13:56"
+        },
         {
             "domain_name": "api.stradasf.com",
             "destination": "Kinsta",
@@ -480,26 +500,6 @@
             "domain_name": "jasongardner.net",
             "destination": "Pressable",
             "date": "2026-11-22 11:54:47"
-        },
-        {
-            "domain_name": "michaelslifka.com",
-            "destination": "HostGator",
-            "date": "2026-11-22 09:12:00"
-        },
-        {
-            "domain_name": "www.wildboyzentertainment.com",
-            "destination": "Hostinger",
-            "date": "2026-11-22 03:17:29"
-        },
-        {
-            "domain_name": "www.ndh.on.ca",
-            "destination": "Kinsta",
-            "date": "2026-11-22 00:32:06"
-        },
-        {
-            "domain_name": "shelbytriglianosphotography.com",
-            "destination": "WordPress.com",
-            "date": "2026-11-22 00:09:07"
         }
     ],
     "dailyMovedStat": {
@@ -1300,10 +1300,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 16193,
-        "Kinsta": 13642,
+        "Kinsta": 13643,
         "SiteGround": 8544,
         "Digital Ocean": 8206,
-        "Hostinger": 6750,
+        "Hostinger": 6752,
         "Bluehost": 4963,
         "GoDaddy": 2027,
         "OVH": 1865,
