@@ -1,6 +1,21 @@
 {
-    "siteCount": 201328,
+    "siteCount": 201396,
     "recentlyMoved": [
+        {
+            "domain_name": "api.stradasf.com",
+            "destination": "Kinsta",
+            "date": "2026-11-24 19:58:36"
+        },
+        {
+            "domain_name": "geekylearning.co.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-11-24 19:38:59"
+        },
+        {
+            "domain_name": "atypicalcr.com",
+            "destination": "BigScoots",
+            "date": "2026-11-24 19:33:41"
+        },
         {
             "domain_name": "dayfortexas.com",
             "destination": "Liquid Web",
@@ -485,21 +500,6 @@
             "domain_name": "shelbytriglianosphotography.com",
             "destination": "WordPress.com",
             "date": "2026-11-22 00:09:07"
-        },
-        {
-            "domain_name": "dcsolutionfocusedcounseling.com",
-            "destination": "Kinsta",
-            "date": "2026-11-21 21:12:36"
-        },
-        {
-            "domain_name": "westlakesleepapnea.com",
-            "destination": "Kinsta",
-            "date": "2026-11-21 21:11:11"
-        },
-        {
-            "domain_name": "skiduck.org",
-            "destination": "Kinsta",
-            "date": "2026-11-21 20:16:54"
         }
     ],
     "dailyMovedStat": {
@@ -1300,14 +1300,14 @@
     },
     "topDestinationHosts": {
         "Pressable": 16193,
-        "Kinsta": 13639,
+        "Kinsta": 13642,
         "SiteGround": 8544,
-        "Digital Ocean": 8204,
+        "Digital Ocean": 8206,
         "Hostinger": 6750,
-        "Bluehost": 4962,
+        "Bluehost": 4963,
         "GoDaddy": 2027,
         "OVH": 1865,
-        "BigScoots": 1438,
+        "BigScoots": 1440,
         "Namecheap": 1104,
         "Liquid Web": 1007,
         "WordPress.com": 893,
