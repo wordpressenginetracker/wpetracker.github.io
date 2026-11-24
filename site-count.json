@@ -1,5 +1,5 @@
 {
-    "siteCount": 201322,
+    "siteCount": 201328,
     "recentlyMoved": [
         {
             "domain_name": "dayfortexas.com",
@@ -10,6 +10,11 @@
             "domain_name": "melaniemishler.com",
             "destination": "BigScoots",
             "date": "2026-11-24 17:20:43"
+        },
+        {
+            "domain_name": "whiteagency.com",
+            "destination": "Pressable",
+            "date": "2026-11-24 17:19:59"
         },
         {
             "domain_name": "api.mcj.co",
@@ -490,11 +495,6 @@
             "domain_name": "westlakesleepapnea.com",
             "destination": "Kinsta",
             "date": "2026-11-21 21:11:11"
-        },
-        {
-            "domain_name": "www.northbaypostacute.com",
-            "destination": "Kinsta",
-            "date": "2026-11-21 20:25:46"
         },
         {
             "domain_name": "skiduck.org",
@@ -1299,11 +1299,11 @@
         "2026-11-23": "201088"
     },
     "topDestinationHosts": {
-        "Pressable": 16192,
+        "Pressable": 16193,
         "Kinsta": 13639,
         "SiteGround": 8544,
         "Digital Ocean": 8204,
-        "Hostinger": 6749,
+        "Hostinger": 6750,
         "Bluehost": 4962,
         "GoDaddy": 2027,
         "OVH": 1865,
