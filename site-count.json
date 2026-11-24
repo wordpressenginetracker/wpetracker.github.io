@@ -1,6 +1,16 @@
 {
-    "siteCount": 201088,
+    "siteCount": 201105,
     "recentlyMoved": [
+        {
+            "domain_name": "axxisre.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-24 00:31:20"
+        },
+        {
+            "domain_name": "bendigoairandhydraulics.com.au",
+            "destination": "Kinsta",
+            "date": "2026-11-23 23:51:44"
+        },
         {
             "domain_name": "tennesseevalleyrecovery.com",
             "destination": "Liquid Web",
@@ -490,16 +500,6 @@
             "domain_name": "tagtravelagency.com",
             "destination": "OVH",
             "date": "2026-11-21 00:26:40"
-        },
-        {
-            "domain_name": "intent91cowfold.co.uk",
-            "destination": "Namecheap",
-            "date": "2026-11-21 00:14:06"
-        },
-        {
-            "domain_name": "inovihealth.com",
-            "destination": "GridPane",
-            "date": "2026-11-21 00:00:40"
         }
     ],
     "dailyMovedStat": {
@@ -1300,9 +1300,9 @@
     },
     "topDestinationHosts": {
         "Pressable": 16178,
-        "Kinsta": 13627,
+        "Kinsta": 13628,
         "SiteGround": 8544,
-        "Digital Ocean": 8199,
+        "Digital Ocean": 8200,
         "Hostinger": 6744,
         "Bluehost": 4961,
         "GoDaddy": 2025,
