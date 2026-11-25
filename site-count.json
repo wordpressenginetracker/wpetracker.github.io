@@ -1,6 +1,16 @@
 {
-    "siteCount": 201482,
+    "siteCount": 201496,
     "recentlyMoved": [
+        {
+            "domain_name": "schraeglage.tv",
+            "destination": "IONOS",
+            "date": "2026-11-25 08:38:05"
+        },
+        {
+            "domain_name": "seattleop.com",
+            "destination": "Kinsta",
+            "date": "2026-11-25 07:56:02"
+        },
         {
             "domain_name": "westernturf.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "bioaffinitytech.com",
             "destination": "GridPane",
             "date": "2026-11-22 23:55:20"
-        },
-        {
-            "domain_name": "educationsnapshots.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-22 21:14:34"
-        },
-        {
-            "domain_name": "katiefrostweddings.com",
-            "destination": "Hostinger",
-            "date": "2026-11-22 20:16:01"
         }
     ],
     "dailyMovedStat": {
