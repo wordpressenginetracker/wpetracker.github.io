@@ -1,6 +1,11 @@
 {
-    "siteCount": 201507,
+    "siteCount": 201511,
     "recentlyMoved": [
+        {
+            "domain_name": "namivt.org",
+            "destination": "Pressable",
+            "date": "2026-11-25 09:06:04"
+        },
         {
             "domain_name": "www.zippersperformance.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "starbirdlounge.com",
             "destination": "DreamHost",
             "date": "2026-11-23 00:27:55"
-        },
-        {
-            "domain_name": "lakeendo.com",
-            "destination": "Liquid Web",
-            "date": "2026-11-23 00:27:28"
         }
     ],
     "dailyMovedStat": {
@@ -1300,7 +1300,7 @@
         "2026-11-24": "201418"
     },
     "topDestinationHosts": {
-        "Pressable": 16196,
+        "Pressable": 16197,
         "Kinsta": 13651,
         "SiteGround": 8544,
         "Digital Ocean": 8207,
