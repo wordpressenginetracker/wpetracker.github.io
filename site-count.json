@@ -1,6 +1,11 @@
 {
-    "siteCount": 201814,
+    "siteCount": 201818,
     "recentlyMoved": [
+        {
+            "domain_name": "neuroex.net",
+            "destination": "Hostinger",
+            "date": "2026-11-26 05:35:35"
+        },
         {
             "domain_name": "travelteam.com",
             "destination": "Hostinger",
@@ -495,11 +500,6 @@
             "domain_name": "unitedsuccess.global",
             "destination": "OVH",
             "date": "2026-11-25 05:13:30"
-        },
-        {
-            "domain_name": "tallygraphs.com",
-            "destination": "Pressable",
-            "date": "2026-11-25 05:09:08"
         }
     ],
     "dailyMovedStat": {
@@ -1305,7 +1305,7 @@
         "Kinsta": 13672,
         "SiteGround": 8544,
         "Digital Ocean": 8225,
-        "Hostinger": 6764,
+        "Hostinger": 6765,
         "Bluehost": 4964,
         "GoDaddy": 2028,
         "OVH": 1867,
