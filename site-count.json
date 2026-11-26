@@ -1,6 +1,26 @@
 {
-    "siteCount": 201818,
+    "siteCount": 201831,
     "recentlyMoved": [
+        {
+            "domain_name": "sapphire-hotels.com",
+            "destination": "Hostinger",
+            "date": "2026-11-26 08:43:28"
+        },
+        {
+            "domain_name": "www.bajajexports.com",
+            "destination": "Hostinger",
+            "date": "2026-11-26 08:11:37"
+        },
+        {
+            "domain_name": "bluecoatdisplaycentre.com",
+            "destination": "Krystal Hosting",
+            "date": "2026-11-26 07:51:23"
+        },
+        {
+            "domain_name": "radiotherapy.org.uk",
+            "destination": "Krystal Hosting",
+            "date": "2026-11-26 07:49:16"
+        },
         {
             "domain_name": "neuroex.net",
             "destination": "Hostinger",
@@ -472,11 +492,6 @@
             "date": "2026-11-25 08:46:33"
         },
         {
-            "domain_name": "schraeglage.tv",
-            "destination": "IONOS",
-            "date": "2026-11-25 08:38:05"
-        },
-        {
             "domain_name": "www.twwhiteandsons.co.uk",
             "destination": "Kinsta",
             "date": "2026-11-25 08:29:25"
@@ -485,21 +500,6 @@
             "domain_name": "seattleop.com",
             "destination": "Kinsta",
             "date": "2026-11-25 07:56:02"
-        },
-        {
-            "domain_name": "westernturf.com",
-            "destination": "Kinsta",
-            "date": "2026-11-25 05:43:57"
-        },
-        {
-            "domain_name": "wessexsde.nhs.uk",
-            "destination": "Hetzner Online",
-            "date": "2026-11-25 05:43:57"
-        },
-        {
-            "domain_name": "unitedsuccess.global",
-            "destination": "OVH",
-            "date": "2026-11-25 05:13:30"
         }
     ],
     "dailyMovedStat": {
@@ -1305,7 +1305,7 @@
         "Kinsta": 13672,
         "SiteGround": 8544,
         "Digital Ocean": 8225,
-        "Hostinger": 6765,
+        "Hostinger": 6767,
         "Bluehost": 4964,
         "GoDaddy": 2028,
         "OVH": 1867,
