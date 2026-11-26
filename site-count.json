@@ -1,6 +1,11 @@
 {
-    "siteCount": 201776,
+    "siteCount": 201779,
     "recentlyMoved": [
+        {
+            "domain_name": "vanbgextras.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-26 01:39:36"
+        },
         {
             "domain_name": "myworkplaces.com.au",
             "destination": "Kinsta",
@@ -495,11 +500,6 @@
             "domain_name": "liftbusiness.com",
             "destination": "Kinsta",
             "date": "2026-11-25 00:20:27"
-        },
-        {
-            "domain_name": "kellogg-fcu.org",
-            "destination": "Digital Ocean",
-            "date": "2026-11-25 00:12:12"
         }
     ],
     "dailyMovedStat": {
@@ -1304,7 +1304,7 @@
         "Pressable": 16222,
         "Kinsta": 13668,
         "SiteGround": 8544,
-        "Digital Ocean": 8223,
+        "Digital Ocean": 8224,
         "Hostinger": 6763,
         "Bluehost": 4964,
         "GoDaddy": 2028,
