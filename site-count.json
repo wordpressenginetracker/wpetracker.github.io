@@ -1,6 +1,11 @@
 {
-    "siteCount": 201932,
+    "siteCount": 201941,
     "recentlyMoved": [
+        {
+            "domain_name": "napasdailygrowl.com",
+            "destination": "Hostinger",
+            "date": "2026-11-26 13:39:52"
+        },
         {
             "domain_name": "tylerplace.com",
             "destination": "Pressable",
@@ -12,9 +17,24 @@
             "date": "2026-11-26 13:25:49"
         },
         {
+            "domain_name": "exceptionalwellness.co",
+            "destination": "Digital Ocean",
+            "date": "2026-11-26 13:24:02"
+        },
+        {
+            "domain_name": "enablefinancing.com",
+            "destination": "Hostinger",
+            "date": "2026-11-26 13:23:01"
+        },
+        {
             "domain_name": "thecuratedwild.com",
             "destination": "Kinsta",
             "date": "2026-11-26 13:20:06"
+        },
+        {
+            "domain_name": "newbeginningstherapywithyessenia.com",
+            "destination": "Hostinger",
+            "date": "2026-11-26 13:15:13"
         },
         {
             "domain_name": "desormeauxfoundation.org",
@@ -32,6 +52,11 @@
             "date": "2026-11-26 13:04:39"
         },
         {
+            "domain_name": "wamarijuana.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-26 13:02:20"
+        },
+        {
             "domain_name": "tourismtimmins.com",
             "destination": "Kinsta",
             "date": "2026-11-26 12:59:45"
@@ -40,6 +65,11 @@
             "domain_name": "laredoinsuranceservices.com",
             "destination": "Hostinger",
             "date": "2026-11-26 12:58:23"
+        },
+        {
+            "domain_name": "venturadistrict.com",
+            "destination": "Namecheap",
+            "date": "2026-11-26 12:58:06"
         },
         {
             "domain_name": "meggosweets.com",
@@ -467,39 +497,9 @@
             "date": "2026-11-25 15:56:53"
         },
         {
-            "domain_name": "aklinsurance.com",
-            "destination": "Pressable",
-            "date": "2026-11-25 15:48:15"
-        },
-        {
             "domain_name": "www.gcarbajalinsurance.com",
             "destination": "Pressable",
             "date": "2026-11-25 15:46:01"
-        },
-        {
-            "domain_name": "www.addisla.org",
-            "destination": "Pressable",
-            "date": "2026-11-25 15:43:54"
-        },
-        {
-            "domain_name": "www.bdchiro.com",
-            "destination": "Pressable",
-            "date": "2026-11-25 15:33:58"
-        },
-        {
-            "domain_name": "www.bakehouse46.com",
-            "destination": "WordPress.com",
-            "date": "2026-11-25 15:33:58"
-        },
-        {
-            "domain_name": "ocdpaintingandflooring.com",
-            "destination": "Elementor Hosting",
-            "date": "2026-11-25 13:32:48"
-        },
-        {
-            "domain_name": "officesnapshots.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-25 13:10:39"
         }
     ],
     "dailyMovedStat": {
@@ -1301,16 +1301,16 @@
         "2026-11-25": "201760"
     },
     "topDestinationHosts": {
-        "Pressable": 16230,
+        "Pressable": 16231,
         "Kinsta": 13682,
         "SiteGround": 8544,
-        "Digital Ocean": 8233,
-        "Hostinger": 6771,
+        "Digital Ocean": 8235,
+        "Hostinger": 6774,
         "Bluehost": 4965,
         "GoDaddy": 2028,
         "OVH": 1868,
         "BigScoots": 1444,
-        "Namecheap": 1104,
+        "Namecheap": 1105,
         "Liquid Web": 1008,
         "WordPress.com": 894,
         "GridPane": 835,
