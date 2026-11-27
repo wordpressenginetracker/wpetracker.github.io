@@ -1,6 +1,16 @@
 {
-    "siteCount": 202216,
+    "siteCount": 202233,
     "recentlyMoved": [
+        {
+            "domain_name": "agolix.com",
+            "destination": "Kinsta",
+            "date": "2026-11-27 15:40:18"
+        },
+        {
+            "domain_name": "parametricaudio.io",
+            "destination": "Hostinger",
+            "date": "2026-11-27 15:11:24"
+        },
         {
             "domain_name": "www.timothyabeel.com",
             "destination": "Kinsta",
@@ -490,16 +500,6 @@
             "domain_name": "kinderzimmer.co.uk",
             "destination": "Digital Ocean",
             "date": "2026-11-26 08:18:26"
-        },
-        {
-            "domain_name": "bluecoatdisplaycentre.com",
-            "destination": "Krystal Hosting",
-            "date": "2026-11-26 07:51:23"
-        },
-        {
-            "domain_name": "radiotherapy.org.uk",
-            "destination": "Krystal Hosting",
-            "date": "2026-11-26 07:49:16"
         }
     ],
     "dailyMovedStat": {
@@ -1303,10 +1303,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 16239,
-        "Kinsta": 13697,
+        "Kinsta": 13698,
         "SiteGround": 8544,
         "Digital Ocean": 8247,
-        "Hostinger": 6789,
+        "Hostinger": 6790,
         "Bluehost": 4966,
         "GoDaddy": 2028,
         "OVH": 1869,
