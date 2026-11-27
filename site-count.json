@@ -1,6 +1,31 @@
 {
-    "siteCount": 202151,
+    "siteCount": 202171,
     "recentlyMoved": [
+        {
+            "domain_name": "www.wheats.com",
+            "destination": "Kinsta",
+            "date": "2026-11-27 09:02:53"
+        },
+        {
+            "domain_name": "www.suffolkmind.org.uk",
+            "destination": "Digital Ocean",
+            "date": "2026-11-27 09:02:08"
+        },
+        {
+            "domain_name": "www.thermalservices.com",
+            "destination": "Kinsta",
+            "date": "2026-11-27 08:43:20"
+        },
+        {
+            "domain_name": "catzaudio.com",
+            "destination": "Hostinger",
+            "date": "2026-11-27 08:35:47"
+        },
+        {
+            "domain_name": "www.skroofing.com",
+            "destination": "Kinsta",
+            "date": "2026-11-27 08:18:50"
+        },
         {
             "domain_name": "reynolds.pics",
             "destination": "Hostinger",
@@ -475,31 +500,6 @@
             "domain_name": "fullcleared.com",
             "destination": "Digital Ocean",
             "date": "2026-11-26 03:18:19"
-        },
-        {
-            "domain_name": "vanbgextras.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-26 01:39:36"
-        },
-        {
-            "domain_name": "myworkplaces.com.au",
-            "destination": "Kinsta",
-            "date": "2026-11-26 00:55:12"
-        },
-        {
-            "domain_name": "learnforwork.com.au",
-            "destination": "Kinsta",
-            "date": "2026-11-26 00:43:16"
-        },
-        {
-            "domain_name": "www.vanbgextras.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-26 00:37:39"
-        },
-        {
-            "domain_name": "aridlandsinitiative.org",
-            "destination": "DreamHost",
-            "date": "2026-11-25 23:50:39"
         }
     ],
     "dailyMovedStat": {
@@ -1303,10 +1303,10 @@
     },
     "topDestinationHosts": {
         "Pressable": 16239,
-        "Kinsta": 13692,
+        "Kinsta": 13695,
         "SiteGround": 8544,
-        "Digital Ocean": 8245,
-        "Hostinger": 6783,
+        "Digital Ocean": 8246,
+        "Hostinger": 6784,
         "Bluehost": 4966,
         "GoDaddy": 2028,
         "OVH": 1868,
