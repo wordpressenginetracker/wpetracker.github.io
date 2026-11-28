@@ -1,6 +1,26 @@
 {
-    "siteCount": 202337,
+    "siteCount": 202347,
     "recentlyMoved": [
+        {
+            "domain_name": "mightymomedia.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-28 09:31:32"
+        },
+        {
+            "domain_name": "clelcontainers.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-28 08:56:46"
+        },
+        {
+            "domain_name": "skyhistorage.com",
+            "destination": "Digital Ocean",
+            "date": "2026-11-28 08:34:49"
+        },
+        {
+            "domain_name": "buildyourlifebydesign.co",
+            "destination": "HostGator",
+            "date": "2026-11-28 08:32:20"
+        },
         {
             "domain_name": "rimortopsoil.com",
             "destination": "Digital Ocean",
@@ -465,26 +485,6 @@
             "domain_name": "rikenjaks.com",
             "destination": "Digital Ocean",
             "date": "2026-11-26 12:03:38"
-        },
-        {
-            "domain_name": "gcgcpa.com",
-            "destination": "Digital Ocean",
-            "date": "2026-11-26 12:00:09"
-        },
-        {
-            "domain_name": "wildexodus.com",
-            "destination": "Kinsta",
-            "date": "2026-11-26 11:57:56"
-        },
-        {
-            "domain_name": "adomedia.co.uk",
-            "destination": "Kinsta",
-            "date": "2026-11-26 11:55:46"
-        },
-        {
-            "domain_name": "funcjunc.com",
-            "destination": "Pressable",
-            "date": "2026-11-26 11:48:14"
         },
         {
             "domain_name": "www.electrosteam.com",
@@ -1306,7 +1306,7 @@
         "Pressable": 16240,
         "Kinsta": 13698,
         "SiteGround": 8544,
-        "Digital Ocean": 8252,
+        "Digital Ocean": 8255,
         "Hostinger": 6790,
         "Bluehost": 4967,
         "GoDaddy": 2030,
@@ -1322,7 +1322,7 @@
         "Hetzner Online": 585,
         "Elementor Hosting": 584,
         "A2 Hosting": 494,
-        "HostGator": 402
+        "HostGator": 403
     },
     "dailyTotalStat": {
         "2024-09-21": "745273",
